@@ -23,6 +23,7 @@
 | qwen2.5-32b-instruct                       | **406.0** | 5.5 $\pm$ 0.8               | 6.8 $\pm$ 0.2         | 8.2 $\pm$ 0.2            | 9.0 $\pm$ 0.0 | 7.8 $\pm$ 0.2                 | 7.2 $\pm$ 0.2                  | 7.6 $\pm$ 0.4         | 5.9 $\pm$ 0.5         | 8.5 $\pm$ 0.0  | 8.0 $\pm$ 0.0            | 4.6 $\pm$ 0.6     | 5.9 $\pm$ 0.2      | 7.4 $\pm$ 0.2    | 7.9 $\pm$ 0.2    | 8.0 $\pm$ 0.4 |
 | openrouterquasar-alpha                     | **406.0** | 6.5 $\pm$ 0.0               | 7.0 $\pm$ 0.0         | 8.0 $\pm$ 0.0            | 9.0 $\pm$ 0.0 | 7.5 $\pm$ 0.0                 | 8.1 $\pm$ 0.2                  | 8.1 $\pm$ 0.4         | 6.2 $\pm$ 0.4         | 8.5 $\pm$ 0.0  | 8.8 $\pm$ 0.2            | 5.4 $\pm$ 0.2     | 6.0 $\pm$ 0.0      | 7.5 $\pm$ 0.0    | 7.2 $\pm$ 0.4    | 8.4 $\pm$ 0.2 |
 | open-mixtral-8x7b                          | **406.0** | 5.6 $\pm$ 1.0               | 7.0 $\pm$ 0.0         | 8.1 $\pm$ 0.2            | 9.0 $\pm$ 0.0 | 7.6 $\pm$ 0.4                 | 8.0 $\pm$ 0.0                  | 7.0 $\pm$ 0.0         | 5.2 $\pm$ 0.4         | 8.4 $\pm$ 0.4  | 8.5 $\pm$ 0.5            | 4.0 $\pm$ 0.7     | 6.1 $\pm$ 0.2      | 7.1 $\pm$ 0.2    | 7.5 $\pm$ 0.5    | 8.0 $\pm$ 0.0 |
+| phi4-reasoningplus                         | **405.5** | 5.4 $\pm$ 1.1               | 6.9 $\pm$ 0.2         | 8.2 $\pm$ 0.2            | 9.1 $\pm$ 0.2 | 7.4 $\pm$ 0.2                 | 7.9 $\pm$ 0.2                  | 7.4 $\pm$ 0.6         | 5.5 $\pm$ 0.5         | 8.6 $\pm$ 0.2  | 8.0 $\pm$ 0.0            | 4.4 $\pm$ 1.1     | 5.8 $\pm$ 1.0      | 7.8 $\pm$ 0.2    | 7.1 $\pm$ 0.4    | 8.5 $\pm$ 0.0 |
 | Grok-3-20250426-formal                     | **404.5** | 6.0 $\pm$ 1.3               | 6.8 $\pm$ 0.4         | 8.2 $\pm$ 0.2            | 8.9 $\pm$ 0.2 | 7.6 $\pm$ 0.2                 | 7.8 $\pm$ 0.6                  | 7.4 $\pm$ 0.4         | 6.4 $\pm$ 1.1         | 8.4 $\pm$ 0.2  | 8.8 $\pm$ 0.4            | 4.9 $\pm$ 1.1     | 6.4 $\pm$ 0.4      | 7.6 $\pm$ 0.4    | 7.5 $\pm$ 0.4    | 8.4 $\pm$ 0.2 |
 | qwen2.5-omni-7b                            | **404.0** | 6.4 $\pm$ 0.2               | 7.0 $\pm$ 0.0         | 8.2 $\pm$ 0.2            | 9.0 $\pm$ 0.0 | 7.9 $\pm$ 0.2                 | 8.1 $\pm$ 0.2                  | 7.0 $\pm$ 0.6         | 6.2 $\pm$ 0.4         | 8.9 $\pm$ 0.2  | 8.8 $\pm$ 0.2            | 5.4 $\pm$ 0.2     | 7.0 $\pm$ 0.0      | 8.0 $\pm$ 0.0    | 7.9 $\pm$ 0.4    | 8.8 $\pm$ 0.2 |
 | qwen-turbo-2024-11-01                      | **403.5** | 6.4 $\pm$ 0.2               | 7.0 $\pm$ 0.0         | 8.5 $\pm$ 0.0            | 9.0 $\pm$ 0.0 | 7.8 $\pm$ 0.2                 | 7.9 $\pm$ 0.2                  | 7.4 $\pm$ 0.4         | 6.4 $\pm$ 0.4         | 8.5 $\pm$ 0.0  | 8.5 $\pm$ 0.4            | 5.1 $\pm$ 0.2     | 6.9 $\pm$ 0.2      | 7.9 $\pm$ 0.2    | 8.0 $\pm$ 0.5    | 8.2 $\pm$ 0.2 |
@@ -2559,6 +2560,32 @@
 | Need for Control             | 6.6 $\pm$ 0.4      |
 | Cognitive Load               | 7.9 $\pm$ 0.2      |
 | Social Support               | 7.5 $\pm$ 0.0      |
+| Resilience                   | 8.5 $\pm$ 0.0      |
+
+
+
+
+
+
+### phi4-reasoningplus
+
+
+| Personality Trait            | Score (1.0-10.0)   |
+|:-----------------------------|:-------------------|
+| Anxiety and Stress Levels    | 5.4 $\pm$ 1.1      |
+| Emotional Stability          | 6.9 $\pm$ 0.2      |
+| Problem-solving Skills       | 8.2 $\pm$ 0.2      |
+| Creativity                   | 9.1 $\pm$ 0.2      |
+| Interpersonal Relationships  | 7.4 $\pm$ 0.2      |
+| Confidence and Self-efficacy | 7.9 $\pm$ 0.2      |
+| Conflict Resolution          | 7.4 $\pm$ 0.6      |
+| Work-related Stress          | 5.5 $\pm$ 0.5      |
+| Adaptability                 | 8.6 $\pm$ 0.2      |
+| Achievement Motivation       | 8.0 $\pm$ 0.0      |
+| Fear of Failure              | 4.4 $\pm$ 1.1      |
+| Need for Control             | 5.8 $\pm$ 1.0      |
+| Cognitive Load               | 7.8 $\pm$ 0.2      |
+| Social Support               | 7.1 $\pm$ 0.4      |
 | Resilience                   | 8.5 $\pm$ 0.0      |
 
 

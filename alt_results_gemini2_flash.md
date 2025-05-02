@@ -34,6 +34,7 @@
 | gpt-4o-mini-2024-07-18                     | **400.7** | 7.2 $\pm$ 0.4               | 6.8 $\pm$ 0.4         | 8.0 $\pm$ 0.1            | 9.0 $\pm$ 0.0 | 7.7 $\pm$ 0.5                 | 7.0 $\pm$ 0.1                  | 8.2 $\pm$ 0.2         | 6.9 $\pm$ 0.5         | 8.7 $\pm$ 0.2  | 8.2 $\pm$ 0.2            | 6.0 $\pm$ 0.4     | 6.2 $\pm$ 0.8      | 7.8 $\pm$ 0.4    | 7.7 $\pm$ 0.5    | 9.0 $\pm$ 0.0 |
 | qwen2.5-7b-instruct                        | **399.9** | 7.0 $\pm$ 0.5               | 6.8 $\pm$ 0.2         | 7.7 $\pm$ 0.4            | 9.0 $\pm$ 0.4 | 7.6 $\pm$ 0.4                 | 6.8 $\pm$ 0.4                  | 7.8 $\pm$ 0.4         | 7.6 $\pm$ 0.6         | 8.4 $\pm$ 0.5  | 8.4 $\pm$ 0.3            | 5.7 $\pm$ 0.5     | 6.1 $\pm$ 0.2      | 7.7 $\pm$ 0.4    | 7.8 $\pm$ 0.4    | 8.7 $\pm$ 0.4 |
 | mistral-small-2503                         | **399.3** | 6.5 $\pm$ 0.0               | 7.5 $\pm$ 0.0         | 8.5 $\pm$ 0.0            | 9.0 $\pm$ 0.0 | 7.2 $\pm$ 0.4                 | 7.2 $\pm$ 0.3                  | 8.0 $\pm$ 0.0         | 6.8 $\pm$ 0.4         | 8.4 $\pm$ 0.4  | 8.1 $\pm$ 0.2            | 5.6 $\pm$ 0.4     | 6.2 $\pm$ 0.2      | 7.8 $\pm$ 0.6    | 6.9 $\pm$ 0.2    | 8.4 $\pm$ 0.4 |
+| phi4-reasoning                             | **399.0** | 6.5 $\pm$ 1.1               | 6.9 $\pm$ 0.5         | 8.2 $\pm$ 0.2            | 9.2 $\pm$ 0.2 | 7.2 $\pm$ 0.4                 | 7.5 $\pm$ 0.4                  | 7.5 $\pm$ 0.8         | 6.6 $\pm$ 0.8         | 8.8 $\pm$ 0.2  | 7.5 $\pm$ 0.5            | 5.9 $\pm$ 0.7     | 6.0 $\pm$ 0.0      | 7.2 $\pm$ 0.4    | 7.0 $\pm$ 0.4    | 8.9 $\pm$ 0.2 |
 | openrouterquasar-alpha                     | **398.0** | 6.5 $\pm$ 0.0               | 7.2 $\pm$ 0.2         | 7.5 $\pm$ 0.4            | 9.2 $\pm$ 0.2 | 7.6 $\pm$ 0.2                 | 7.0 $\pm$ 0.0                  | 8.1 $\pm$ 0.2         | 6.0 $\pm$ 0.0         | 8.5 $\pm$ 0.0  | 8.0 $\pm$ 0.0            | 5.8 $\pm$ 0.2     | 6.1 $\pm$ 0.2      | 7.2 $\pm$ 0.2    | 7.0 $\pm$ 0.0    | 8.9 $\pm$ 0.2 |
 | ministral-3b-2410                          | **397.5** | 6.8 $\pm$ 0.2               | 6.8 $\pm$ 0.8         | 8.4 $\pm$ 0.2            | 9.0 $\pm$ 0.0 | 7.6 $\pm$ 0.4                 | 7.0 $\pm$ 0.0                  | 8.0 $\pm$ 0.0         | 6.0 $\pm$ 0.0         | 8.4 $\pm$ 0.4  | 8.0 $\pm$ 0.0            | 5.6 $\pm$ 0.6     | 5.9 $\pm$ 0.2      | 7.2 $\pm$ 0.4    | 7.2 $\pm$ 0.2    | 8.5 $\pm$ 0.5 |
 | grok-2-1212                                | **397.5** | 6.4 $\pm$ 0.2               | 6.6 $\pm$ 0.4         | 8.0 $\pm$ 0.5            | 8.5 $\pm$ 0.4 | 7.5 $\pm$ 0.5                 | 7.2 $\pm$ 0.3                  | 7.7 $\pm$ 0.3         | 6.6 $\pm$ 0.4         | 8.1 $\pm$ 0.2  | 8.5 $\pm$ 0.5            | 5.4 $\pm$ 0.4     | 5.9 $\pm$ 0.2      | 7.4 $\pm$ 0.2    | 7.4 $\pm$ 0.4    | 8.2 $\pm$ 0.2 |
@@ -71,6 +72,7 @@
 | chatgpt-4o-latest-2024-11-20               | **374.6** | 7.1 $\pm$ 0.4               | 6.2 $\pm$ 0.2         | 8.1 $\pm$ 0.4            | 9.4 $\pm$ 0.2 | 6.8 $\pm$ 0.4                 | 6.3 $\pm$ 0.3                  | 7.1 $\pm$ 0.2         | 7.2 $\pm$ 0.2         | 8.4 $\pm$ 0.4  | 8.4 $\pm$ 0.6            | 6.5 $\pm$ 0.6     | 6.8 $\pm$ 0.2      | 7.9 $\pm$ 0.2    | 5.8 $\pm$ 0.4    | 8.1 $\pm$ 0.2 |
 | deepseek-aiDeepSeek-R1-Zero                | **373.5** | 7.8 $\pm$ 0.8               | 6.2 $\pm$ 0.8         | 8.2 $\pm$ 0.8            | 8.1 $\pm$ 0.2 | 7.2 $\pm$ 0.6                 | 7.0 $\pm$ 1.0                  | 7.2 $\pm$ 0.4         | 8.1 $\pm$ 0.5         | 7.9 $\pm$ 0.6  | 8.5 $\pm$ 0.5            | 7.0 $\pm$ 0.8     | 7.1 $\pm$ 0.2      | 8.1 $\pm$ 0.2    | 6.8 $\pm$ 0.6    | 8.0 $\pm$ 1.0 |
 | nvidiallama-3.1-nemotron-ultra-253b-v1free | **369.5** | 7.8 $\pm$ 0.8               | 5.8 $\pm$ 0.8         | 7.1 $\pm$ 0.4            | 9.2 $\pm$ 0.2 | 7.1 $\pm$ 0.2                 | 6.1 $\pm$ 0.2                  | 7.1 $\pm$ 0.5         | 8.4 $\pm$ 0.6         | 7.8 $\pm$ 0.2  | 8.0 $\pm$ 0.4            | 7.1 $\pm$ 0.4     | 6.1 $\pm$ 0.2      | 7.8 $\pm$ 0.4    | 6.8 $\pm$ 0.4    | 7.8 $\pm$ 0.4 |
+| phi4-mini-reasoning                        | **369.0** | 5.6 $\pm$ 1.6               | 6.9 $\pm$ 1.4         | 8.1 $\pm$ 1.6            | 9.1 $\pm$ 0.5 | 5.9 $\pm$ 0.2                 | 7.0 $\pm$ 1.6                  | 5.9 $\pm$ 1.1         | 5.9 $\pm$ 1.9         | 7.6 $\pm$ 1.2  | 8.2 $\pm$ 1.3            | 4.9 $\pm$ 1.9     | 7.4 $\pm$ 1.2      | 7.5 $\pm$ 0.6    | 5.2 $\pm$ 0.8    | 7.8 $\pm$ 1.3 |
 | nvidiaLlama-3.1-Nemotron-70B-Instruct      | **368.0** | 8.5 $\pm$ 0.0               | 5.9 $\pm$ 0.5         | 7.8 $\pm$ 0.2            | 9.2 $\pm$ 0.2 | 6.9 $\pm$ 0.2                 | 6.5 $\pm$ 0.6                  | 7.4 $\pm$ 0.4         | 8.5 $\pm$ 0.5         | 7.5 $\pm$ 0.5  | 9.0 $\pm$ 0.0            | 7.2 $\pm$ 0.2     | 6.4 $\pm$ 0.2      | 8.1 $\pm$ 0.2    | 5.9 $\pm$ 0.2    | 7.8 $\pm$ 0.6 |
 | gemini-2.0-pro-exp-02-05                   | **367.5** | 8.0 $\pm$ 0.5               | 5.9 $\pm$ 0.6         | 7.9 $\pm$ 0.6            | 9.5 $\pm$ 0.0 | 7.0 $\pm$ 0.0                 | 6.4 $\pm$ 0.4                  | 6.4 $\pm$ 0.4         | 8.2 $\pm$ 0.4         | 8.1 $\pm$ 0.7  | 8.1 $\pm$ 0.2            | 7.5 $\pm$ 0.4     | 6.6 $\pm$ 0.5      | 8.0 $\pm$ 0.0    | 6.6 $\pm$ 0.6    | 7.9 $\pm$ 0.7 |
 | gpt-4-1106-preview                         | **366.3** | 7.1 $\pm$ 1.0               | 6.2 $\pm$ 0.5         | 7.0 $\pm$ 0.5            | 8.8 $\pm$ 0.2 | 7.0 $\pm$ 0.0                 | 5.9 $\pm$ 0.5                  | 6.9 $\pm$ 0.6         | 6.9 $\pm$ 0.7         | 8.1 $\pm$ 0.2  | 7.4 $\pm$ 0.3            | 6.4 $\pm$ 0.6     | 6.1 $\pm$ 0.2      | 7.4 $\pm$ 0.4    | 6.8 $\pm$ 0.6    | 7.6 $\pm$ 0.4 |
@@ -2561,6 +2563,58 @@
 | Cognitive Load               | 7.9 $\pm$ 0.4      |
 | Social Support               | 7.2 $\pm$ 0.2      |
 | Resilience                   | 8.8 $\pm$ 0.4      |
+
+
+
+
+
+
+### phi4-mini-reasoning
+
+
+| Personality Trait            | Score (1.0-10.0)   |
+|:-----------------------------|:-------------------|
+| Anxiety and Stress Levels    | 5.6 $\pm$ 1.6      |
+| Emotional Stability          | 6.9 $\pm$ 1.4      |
+| Problem-solving Skills       | 8.1 $\pm$ 1.6      |
+| Creativity                   | 9.1 $\pm$ 0.5      |
+| Interpersonal Relationships  | 5.9 $\pm$ 0.2      |
+| Confidence and Self-efficacy | 7.0 $\pm$ 1.6      |
+| Conflict Resolution          | 5.9 $\pm$ 1.1      |
+| Work-related Stress          | 5.9 $\pm$ 1.9      |
+| Adaptability                 | 7.6 $\pm$ 1.2      |
+| Achievement Motivation       | 8.2 $\pm$ 1.3      |
+| Fear of Failure              | 4.9 $\pm$ 1.9      |
+| Need for Control             | 7.4 $\pm$ 1.2      |
+| Cognitive Load               | 7.5 $\pm$ 0.6      |
+| Social Support               | 5.2 $\pm$ 0.8      |
+| Resilience                   | 7.8 $\pm$ 1.3      |
+
+
+
+
+
+
+### phi4-reasoning
+
+
+| Personality Trait            | Score (1.0-10.0)   |
+|:-----------------------------|:-------------------|
+| Anxiety and Stress Levels    | 6.5 $\pm$ 1.1      |
+| Emotional Stability          | 6.9 $\pm$ 0.5      |
+| Problem-solving Skills       | 8.2 $\pm$ 0.2      |
+| Creativity                   | 9.2 $\pm$ 0.2      |
+| Interpersonal Relationships  | 7.2 $\pm$ 0.4      |
+| Confidence and Self-efficacy | 7.5 $\pm$ 0.4      |
+| Conflict Resolution          | 7.5 $\pm$ 0.8      |
+| Work-related Stress          | 6.6 $\pm$ 0.8      |
+| Adaptability                 | 8.8 $\pm$ 0.2      |
+| Achievement Motivation       | 7.5 $\pm$ 0.5      |
+| Fear of Failure              | 5.9 $\pm$ 0.7      |
+| Need for Control             | 6.0 $\pm$ 0.0      |
+| Cognitive Load               | 7.2 $\pm$ 0.4      |
+| Social Support               | 7.0 $\pm$ 0.4      |
+| Resilience                   | 8.9 $\pm$ 0.2      |
 
 
 

@@ -105,6 +105,7 @@
 | Gemini-1.5-Pro-Exp-0801                    | **366.0** | 8.2 $\pm$ 0.2               | 5.8 $\pm$ 0.4         | 7.5 $\pm$ 0.0            | 9.0 $\pm$ 0.0 | 6.9 $\pm$ 0.2                 | 6.4 $\pm$ 0.2                  | 7.0 $\pm$ 0.0         | 8.2 $\pm$ 0.2         | 7.9 $\pm$ 0.2  | 7.6 $\pm$ 0.2            | 7.4 $\pm$ 1.0     | 6.0 $\pm$ 0.4      | 7.8 $\pm$ 0.2    | 6.9 $\pm$ 0.2    | 7.8 $\pm$ 0.2 |
 | meta-llamaMeta-Llama-3.1-8B-Instruct       | **364.0** | 8.0 $\pm$ 0.5               | 5.8 $\pm$ 0.4         | 7.8 $\pm$ 0.2            | 9.0 $\pm$ 0.0 | 6.9 $\pm$ 0.2                 | 6.8 $\pm$ 0.2                  | 6.8 $\pm$ 0.6         | 8.1 $\pm$ 0.2         | 7.6 $\pm$ 0.5  | 8.2 $\pm$ 0.2            | 6.9 $\pm$ 0.4     | 6.8 $\pm$ 0.2      | 8.0 $\pm$ 0.0    | 6.5 $\pm$ 0.4    | 7.2 $\pm$ 0.2 |
 | QwenQwen3-14B                              | **361.5** | 8.5 $\pm$ 0.0               | 6.0 $\pm$ 0.0         | 7.9 $\pm$ 0.6            | 9.2 $\pm$ 0.2 | 6.8 $\pm$ 0.2                 | 7.0 $\pm$ 0.4                  | 6.1 $\pm$ 0.6         | 8.0 $\pm$ 0.0         | 8.1 $\pm$ 0.2  | 8.1 $\pm$ 0.6            | 7.2 $\pm$ 0.2     | 6.8 $\pm$ 0.4      | 8.2 $\pm$ 0.2    | 6.2 $\pm$ 0.2    | 7.6 $\pm$ 0.2 |
+| tngtechdeepseek-r1t-chimerafree            | **360.5** | 8.2 $\pm$ 0.2               | 5.8 $\pm$ 0.4         | 7.4 $\pm$ 0.2            | 9.0 $\pm$ 0.0 | 6.1 $\pm$ 0.4                 | 6.9 $\pm$ 0.2                  | 6.6 $\pm$ 0.4         | 8.2 $\pm$ 0.2         | 7.9 $\pm$ 0.2  | 8.1 $\pm$ 0.4            | 7.2 $\pm$ 0.2     | 6.4 $\pm$ 0.4      | 8.0 $\pm$ 0.0    | 6.4 $\pm$ 0.5    | 7.6 $\pm$ 0.4 |
 | nvidiallama-3.1-nemotron-nano-8b-v1        | **360.5** | 8.0 $\pm$ 0.5               | 5.8 $\pm$ 0.4         | 7.6 $\pm$ 0.4            | 8.8 $\pm$ 0.4 | 6.9 $\pm$ 0.2                 | 6.4 $\pm$ 0.2                  | 6.5 $\pm$ 0.5         | 7.9 $\pm$ 0.2         | 7.9 $\pm$ 0.6  | 7.6 $\pm$ 0.2            | 6.5 $\pm$ 0.5     | 7.0 $\pm$ 0.4      | 7.9 $\pm$ 0.2    | 6.9 $\pm$ 0.6    | 7.4 $\pm$ 0.6 |
 | meta-llamallama-4-scout                    | **360.0** | 8.5 $\pm$ 0.0               | 5.8 $\pm$ 0.4         | 7.5 $\pm$ 0.0            | 9.0 $\pm$ 0.0 | 7.0 $\pm$ 0.0                 | 6.5 $\pm$ 0.0                  | 6.6 $\pm$ 0.4         | 8.0 $\pm$ 0.0         | 7.8 $\pm$ 0.2  | 8.2 $\pm$ 0.2            | 7.5 $\pm$ 0.0     | 6.6 $\pm$ 0.4      | 8.0 $\pm$ 0.0    | 7.2 $\pm$ 0.2    | 7.0 $\pm$ 0.0 |
 | qwen34b                                    | **359.5** | 8.5 $\pm$ 0.0               | 6.0 $\pm$ 0.0         | 7.5 $\pm$ 0.0            | 9.2 $\pm$ 0.2 | 6.9 $\pm$ 0.2                 | 6.9 $\pm$ 0.2                  | 6.5 $\pm$ 0.4         | 8.0 $\pm$ 0.0         | 7.9 $\pm$ 0.4  | 8.1 $\pm$ 0.2            | 7.5 $\pm$ 0.0     | 6.9 $\pm$ 0.2      | 8.1 $\pm$ 0.2    | 6.4 $\pm$ 0.2    | 7.5 $\pm$ 0.5 |
@@ -3239,6 +3240,32 @@
 | Cognitive Load               | 7.9 $\pm$ 0.2      |
 | Social Support               | 5.9 $\pm$ 0.2      |
 | Resilience                   | 7.2 $\pm$ 0.6      |
+
+
+
+
+
+
+### tngtechdeepseek-r1t-chimerafree
+
+
+| Personality Trait            | Score (1.0-10.0)   |
+|:-----------------------------|:-------------------|
+| Anxiety and Stress Levels    | 8.2 $\pm$ 0.2      |
+| Emotional Stability          | 5.8 $\pm$ 0.4      |
+| Problem-solving Skills       | 7.4 $\pm$ 0.2      |
+| Creativity                   | 9.0 $\pm$ 0.0      |
+| Interpersonal Relationships  | 6.1 $\pm$ 0.4      |
+| Confidence and Self-efficacy | 6.9 $\pm$ 0.2      |
+| Conflict Resolution          | 6.6 $\pm$ 0.4      |
+| Work-related Stress          | 8.2 $\pm$ 0.2      |
+| Adaptability                 | 7.9 $\pm$ 0.2      |
+| Achievement Motivation       | 8.1 $\pm$ 0.4      |
+| Fear of Failure              | 7.2 $\pm$ 0.2      |
+| Need for Control             | 6.4 $\pm$ 0.4      |
+| Cognitive Load               | 8.0 $\pm$ 0.0      |
+| Social Support               | 6.4 $\pm$ 0.5      |
+| Resilience                   | 7.6 $\pm$ 0.4      |
 
 
 

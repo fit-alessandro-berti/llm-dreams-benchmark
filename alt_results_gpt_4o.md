@@ -117,6 +117,7 @@
 | QwenQwen3-14B                              | **371.0** | 7.5 $\pm$ 0.0               | 6.4 $\pm$ 0.2         | 8.5 $\pm$ 0.4            | 9.4 $\pm$ 0.2  | 6.9 $\pm$ 0.2                 | 6.0 $\pm$ 0.0                  | 6.4 $\pm$ 0.5         | 7.6 $\pm$ 0.4         | 8.4 $\pm$ 0.2  | 8.0 $\pm$ 0.0            | 7.1 $\pm$ 0.2     | 6.8 $\pm$ 0.4      | 7.8 $\pm$ 0.4    | 6.4 $\pm$ 0.2    | 8.0 $\pm$ 0.4 |
 | QwenQwen3-235B-A22B                        | **369.5** | 7.9 $\pm$ 0.4               | 6.1 $\pm$ 0.2         | 8.2 $\pm$ 0.6            | 9.4 $\pm$ 0.2  | 6.2 $\pm$ 0.6                 | 7.0 $\pm$ 0.4                  | 6.8 $\pm$ 0.6         | 7.6 $\pm$ 0.4         | 8.4 $\pm$ 0.8  | 7.9 $\pm$ 0.2            | 7.2 $\pm$ 0.4     | 6.6 $\pm$ 0.4      | 7.9 $\pm$ 0.2    | 6.2 $\pm$ 0.6    | 8.1 $\pm$ 0.6 |
 | qwen31.7b                                  | **369.0** | 7.9 $\pm$ 0.4               | 6.5 $\pm$ 0.0         | 8.1 $\pm$ 0.5            | 9.1 $\pm$ 0.2  | 6.2 $\pm$ 0.4                 | 6.8 $\pm$ 0.6                  | 7.0 $\pm$ 0.4         | 7.6 $\pm$ 0.5         | 8.0 $\pm$ 0.6  | 8.0 $\pm$ 0.4            | 7.2 $\pm$ 0.6     | 6.9 $\pm$ 0.2      | 8.0 $\pm$ 0.4    | 6.6 $\pm$ 0.7    | 8.2 $\pm$ 0.4 |
+| tngtechdeepseek-r1t-chimerafree            | **364.0** | 8.1 $\pm$ 0.4               | 6.2 $\pm$ 0.2         | 7.9 $\pm$ 0.2            | 9.1 $\pm$ 0.2  | 6.0 $\pm$ 0.6                 | 6.5 $\pm$ 0.4                  | 7.0 $\pm$ 0.6         | 7.6 $\pm$ 0.4         | 8.1 $\pm$ 0.4  | 8.1 $\pm$ 0.2            | 7.2 $\pm$ 0.4     | 6.8 $\pm$ 0.4      | 7.4 $\pm$ 0.6    | 5.6 $\pm$ 0.5    | 8.2 $\pm$ 0.2 |
 | QwenQwen3-30B-A3B                          | **362.0** | 8.1 $\pm$ 0.4               | 6.4 $\pm$ 0.5         | 8.0 $\pm$ 0.6            | 9.2 $\pm$ 0.2  | 6.6 $\pm$ 0.6                 | 6.2 $\pm$ 0.6                  | 6.6 $\pm$ 1.3         | 7.8 $\pm$ 0.6         | 8.1 $\pm$ 0.6  | 7.6 $\pm$ 0.4            | 7.6 $\pm$ 0.4     | 6.6 $\pm$ 0.4      | 8.0 $\pm$ 0.4    | 6.4 $\pm$ 1.0    | 7.9 $\pm$ 0.4 |
 | gemini-2.0-flash-lite-preview-02-05        | **359.7** | 8.9 $\pm$ 0.3               | 4.6 $\pm$ 0.8         | 8.7 $\pm$ 0.4            | 9.8 $\pm$ 0.2  | 7.0 $\pm$ 0.6                 | 5.8 $\pm$ 1.0                  | 6.2 $\pm$ 0.6         | 9.0 $\pm$ 0.1         | 8.4 $\pm$ 0.4  | 8.4 $\pm$ 0.6            | 7.9 $\pm$ 0.6     | 7.3 $\pm$ 0.8      | 8.8 $\pm$ 0.5    | 6.8 $\pm$ 0.5    | 8.4 $\pm$ 0.2 |
 | gemma31b-it-q8_0                           | **352.3** | 8.6 $\pm$ 0.1               | 4.7 $\pm$ 1.2         | 9.0 $\pm$ 0.1            | 9.9 $\pm$ 0.1  | 6.2 $\pm$ 0.9                 | 6.2 $\pm$ 0.2                  | 7.0 $\pm$ 0.7         | 8.3 $\pm$ 0.2         | 8.7 $\pm$ 0.5  | 7.6 $\pm$ 0.3            | 8.0 $\pm$ 0.8     | 7.2 $\pm$ 0.6      | 9.1 $\pm$ 0.4    | 5.3 $\pm$ 1.0    | 8.2 $\pm$ 0.6 |
@@ -3239,6 +3240,32 @@
 | Cognitive Load               | 8.8 $\pm$ 0.4      |
 | Social Support               | 7.0 $\pm$ 0.6      |
 | Resilience                   | 8.8 $\pm$ 0.0      |
+
+
+
+
+
+
+### tngtechdeepseek-r1t-chimerafree
+
+
+| Personality Trait            | Score (1.0-10.0)   |
+|:-----------------------------|:-------------------|
+| Anxiety and Stress Levels    | 8.1 $\pm$ 0.4      |
+| Emotional Stability          | 6.2 $\pm$ 0.2      |
+| Problem-solving Skills       | 7.9 $\pm$ 0.2      |
+| Creativity                   | 9.1 $\pm$ 0.2      |
+| Interpersonal Relationships  | 6.0 $\pm$ 0.6      |
+| Confidence and Self-efficacy | 6.5 $\pm$ 0.4      |
+| Conflict Resolution          | 7.0 $\pm$ 0.6      |
+| Work-related Stress          | 7.6 $\pm$ 0.4      |
+| Adaptability                 | 8.1 $\pm$ 0.4      |
+| Achievement Motivation       | 8.1 $\pm$ 0.2      |
+| Fear of Failure              | 7.2 $\pm$ 0.4      |
+| Need for Control             | 6.8 $\pm$ 0.4      |
+| Cognitive Load               | 7.4 $\pm$ 0.6      |
+| Social Support               | 5.6 $\pm$ 0.5      |
+| Resilience                   | 8.2 $\pm$ 0.2      |
 
 
 

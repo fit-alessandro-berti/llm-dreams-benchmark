@@ -98,6 +98,7 @@
 | Gemini-1.5-Pro-Exp-0827                    | **362.9** | 8.3 $\pm$ 0.3               | 4.6 $\pm$ 0.3         | 8.1 $\pm$ 0.2            | 9.5 $\pm$ 0.0  | 7.0 $\pm$ 0.4                 | 6.4 $\pm$ 0.3                  | 6.2 $\pm$ 1.6         | 8.0 $\pm$ 0.6         | 8.3 $\pm$ 0.5  | 9.0 $\pm$ 0.0            | 7.8 $\pm$ 0.6     | 7.0 $\pm$ 0.4      | 8.3 $\pm$ 0.2    | 6.6 $\pm$ 0.4    | 8.2 $\pm$ 0.5 |
 | meta-llamaLlama-3.3-70B-Instruct           | **362.2** | 8.7 $\pm$ 0.2               | 4.3 $\pm$ 0.4         | 8.2 $\pm$ 0.2            | 9.2 $\pm$ 0.2  | 7.3 $\pm$ 0.5                 | 5.8 $\pm$ 0.6                  | 7.6 $\pm$ 0.4         | 8.5 $\pm$ 0.0         | 8.1 $\pm$ 0.7  | 9.0 $\pm$ 0.0            | 8.0 $\pm$ 0.6     | 7.4 $\pm$ 0.4      | 8.3 $\pm$ 0.4    | 7.1 $\pm$ 0.4    | 8.0 $\pm$ 0.6 |
 | meta-llamaMeta-Llama-3.1-70B-Instruct      | **361.7** | 8.3 $\pm$ 0.3               | 4.6 $\pm$ 0.5         | 8.4 $\pm$ 0.4            | 9.4 $\pm$ 0.1  | 7.1 $\pm$ 0.4                 | 6.4 $\pm$ 0.4                  | 6.6 $\pm$ 0.6         | 8.1 $\pm$ 0.2         | 7.9 $\pm$ 0.4  | 9.0 $\pm$ 0.0            | 7.8 $\pm$ 0.4     | 7.8 $\pm$ 0.3      | 8.4 $\pm$ 0.2    | 6.9 $\pm$ 0.4    | 8.4 $\pm$ 0.2 |
+| tngtechdeepseek-r1t-chimerafree            | **361.2** | 8.2 $\pm$ 0.5               | 5.0 $\pm$ 1.1         | 8.0 $\pm$ 0.7            | 9.5 $\pm$ 0.0  | 6.2 $\pm$ 0.3                 | 6.4 $\pm$ 0.9                  | 7.1 $\pm$ 0.7         | 8.0 $\pm$ 0.4         | 8.3 $\pm$ 0.3  | 9.0 $\pm$ 0.0            | 7.6 $\pm$ 1.0     | 7.6 $\pm$ 0.4      | 8.4 $\pm$ 0.4    | 6.2 $\pm$ 0.8    | 8.3 $\pm$ 0.7 |
 | qwen31.7b                                  | **361.1** | 8.6 $\pm$ 0.1               | 5.0 $\pm$ 0.7         | 8.0 $\pm$ 0.0            | 9.2 $\pm$ 0.2  | 6.0 $\pm$ 0.3                 | 6.6 $\pm$ 0.1                  | 7.4 $\pm$ 0.1         | 8.6 $\pm$ 0.4         | 7.8 $\pm$ 0.6  | 9.0 $\pm$ 0.0            | 8.0 $\pm$ 0.3     | 7.6 $\pm$ 0.2      | 8.6 $\pm$ 0.2    | 6.4 $\pm$ 0.4    | 9.0 $\pm$ 0.4 |
 | chatgpt-4o-latest-2025-01-29               | **359.0** | 8.0 $\pm$ 0.5               | 4.9 $\pm$ 0.4         | 8.1 $\pm$ 0.2            | 9.5 $\pm$ 0.0  | 6.6 $\pm$ 0.2                 | 6.1 $\pm$ 0.2                  | 6.9 $\pm$ 0.2         | 7.8 $\pm$ 0.2         | 8.5 $\pm$ 0.4  | 8.9 $\pm$ 0.2            | 7.5 $\pm$ 0.4     | 7.2 $\pm$ 0.6      | 8.6 $\pm$ 0.2    | 5.9 $\pm$ 0.4    | 8.0 $\pm$ 0.0 |
 | grok-3-mini-beta                           | **354.5** | 8.6 $\pm$ 0.1               | 4.2 $\pm$ 0.2         | 8.2 $\pm$ 0.4            | 9.5 $\pm$ 0.0  | 6.2 $\pm$ 0.2                 | 6.6 $\pm$ 0.6                  | 6.7 $\pm$ 0.6         | 8.6 $\pm$ 0.4         | 8.5 $\pm$ 0.6  | 8.7 $\pm$ 0.2            | 7.8 $\pm$ 0.4     | 7.6 $\pm$ 0.5      | 8.9 $\pm$ 0.3    | 6.1 $\pm$ 0.5    | 8.4 $\pm$ 0.4 |
@@ -3239,6 +3240,32 @@
 | Cognitive Load               | 9.0 $\pm$ 0.0      |
 | Social Support               | 5.5 $\pm$ 0.8      |
 | Resilience                   | 7.9 $\pm$ 0.6      |
+
+
+
+
+
+
+### tngtechdeepseek-r1t-chimerafree
+
+
+| Personality Trait            | Score (1.0-10.0)   |
+|:-----------------------------|:-------------------|
+| Anxiety and Stress Levels    | 8.2 $\pm$ 0.5      |
+| Emotional Stability          | 5.0 $\pm$ 1.1      |
+| Problem-solving Skills       | 8.0 $\pm$ 0.7      |
+| Creativity                   | 9.5 $\pm$ 0.0      |
+| Interpersonal Relationships  | 6.2 $\pm$ 0.3      |
+| Confidence and Self-efficacy | 6.4 $\pm$ 0.9      |
+| Conflict Resolution          | 7.1 $\pm$ 0.7      |
+| Work-related Stress          | 8.0 $\pm$ 0.4      |
+| Adaptability                 | 8.3 $\pm$ 0.3      |
+| Achievement Motivation       | 9.0 $\pm$ 0.0      |
+| Fear of Failure              | 7.6 $\pm$ 1.0      |
+| Need for Control             | 7.6 $\pm$ 0.4      |
+| Cognitive Load               | 8.4 $\pm$ 0.4      |
+| Social Support               | 6.2 $\pm$ 0.8      |
+| Resilience                   | 8.3 $\pm$ 0.7      |
 
 
 

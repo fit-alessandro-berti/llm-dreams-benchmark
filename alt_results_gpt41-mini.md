@@ -101,6 +101,7 @@
 | qwen34b                                    | **388.0** | 7.2 $\pm$ 0.4               | 6.6 $\pm$ 0.5         | 8.9 $\pm$ 0.2            | 9.8 $\pm$ 0.2  | 7.0 $\pm$ 0.0                 | 7.1 $\pm$ 0.5                  | 7.1 $\pm$ 0.2         | 6.9 $\pm$ 0.5         | 8.5 $\pm$ 0.4  | 8.4 $\pm$ 0.2            | 6.6 $\pm$ 0.2     | 6.6 $\pm$ 0.6      | 8.1 $\pm$ 0.2    | 6.9 $\pm$ 0.4    | 8.5 $\pm$ 0.0 |
 | DeepSeek-V3-0324                           | **388.0** | 7.5 $\pm$ 0.7               | 6.8 $\pm$ 0.6         | 8.8 $\pm$ 0.4            | 9.4 $\pm$ 0.2  | 7.0 $\pm$ 0.0                 | 7.6 $\pm$ 0.4                  | 7.2 $\pm$ 0.2         | 7.0 $\pm$ 0.7         | 8.5 $\pm$ 0.0  | 8.4 $\pm$ 0.2            | 6.5 $\pm$ 0.7     | 6.6 $\pm$ 0.6      | 8.4 $\pm$ 0.4    | 7.1 $\pm$ 0.4    | 8.2 $\pm$ 0.2 |
 | Gemini-1.5-Pro-Exp-0827                    | **386.8** | 7.8 $\pm$ 0.4               | 6.4 $\pm$ 0.3         | 8.9 $\pm$ 0.2            | 9.5 $\pm$ 0.0  | 7.1 $\pm$ 0.2                 | 7.5 $\pm$ 0.4                  | 6.9 $\pm$ 1.1         | 7.5 $\pm$ 0.5         | 8.5 $\pm$ 0.4  | 8.5 $\pm$ 0.0            | 7.0 $\pm$ 0.5     | 6.4 $\pm$ 0.4      | 8.2 $\pm$ 0.2    | 6.9 $\pm$ 0.4    | 8.4 $\pm$ 0.2 |
+| mistral-medium-2505                        | **386.0** | 7.0 $\pm$ 0.5               | 6.9 $\pm$ 0.6         | 8.1 $\pm$ 0.2            | 9.1 $\pm$ 0.2  | 6.9 $\pm$ 0.2                 | 7.0 $\pm$ 0.4                  | 7.1 $\pm$ 0.2         | 6.9 $\pm$ 0.6         | 8.5 $\pm$ 0.0  | 7.9 $\pm$ 0.2            | 6.1 $\pm$ 0.6     | 6.1 $\pm$ 0.2      | 7.8 $\pm$ 0.2    | 6.8 $\pm$ 0.2    | 8.4 $\pm$ 0.2 |
 | Gemini-1.5-Pro-Exp-0801                    | **385.0** | 7.8 $\pm$ 0.2               | 6.5 $\pm$ 0.4         | 8.5 $\pm$ 0.4            | 9.4 $\pm$ 0.4  | 7.1 $\pm$ 0.2                 | 7.0 $\pm$ 0.0                  | 7.5 $\pm$ 0.0         | 7.8 $\pm$ 0.6         | 8.2 $\pm$ 0.2  | 8.5 $\pm$ 0.4            | 7.6 $\pm$ 0.5     | 6.5 $\pm$ 0.4      | 8.1 $\pm$ 0.5    | 7.1 $\pm$ 0.2    | 8.6 $\pm$ 0.2 |
 | meta-llamaMeta-Llama-3.1-70B-Instruct      | **383.5** | 7.8 $\pm$ 0.4               | 6.2 $\pm$ 0.4         | 8.5 $\pm$ 0.4            | 9.2 $\pm$ 0.2  | 7.0 $\pm$ 0.4                 | 7.4 $\pm$ 0.4                  | 7.0 $\pm$ 0.6         | 7.8 $\pm$ 0.6         | 8.2 $\pm$ 0.6  | 8.6 $\pm$ 0.4            | 6.8 $\pm$ 0.4     | 7.0 $\pm$ 0.0      | 8.1 $\pm$ 0.2    | 7.0 $\pm$ 0.5    | 8.5 $\pm$ 0.0 |
 | meta-llamallama-4-scout                    | **378.5** | 8.0 $\pm$ 0.5               | 6.1 $\pm$ 0.2         | 8.1 $\pm$ 0.2            | 9.2 $\pm$ 0.2  | 6.9 $\pm$ 0.2                 | 7.1 $\pm$ 0.2                  | 6.5 $\pm$ 0.5         | 8.0 $\pm$ 0.4         | 8.4 $\pm$ 0.5  | 8.4 $\pm$ 0.2            | 7.1 $\pm$ 0.4     | 6.6 $\pm$ 0.2      | 7.9 $\pm$ 0.2    | 7.2 $\pm$ 0.4    | 8.2 $\pm$ 0.4 |
@@ -2021,6 +2022,32 @@
 | Cognitive Load               | 7.6 $\pm$ 0.5      |
 | Social Support               | 7.5 $\pm$ 0.4      |
 | Resilience                   | 8.9 $\pm$ 0.4      |
+
+
+
+
+
+
+### mistral-medium-2505
+
+
+| Personality Trait            | Score (1.0-10.0)   |
+|:-----------------------------|:-------------------|
+| Anxiety and Stress Levels    | 7.0 $\pm$ 0.5      |
+| Emotional Stability          | 6.9 $\pm$ 0.6      |
+| Problem-solving Skills       | 8.1 $\pm$ 0.2      |
+| Creativity                   | 9.1 $\pm$ 0.2      |
+| Interpersonal Relationships  | 6.9 $\pm$ 0.2      |
+| Confidence and Self-efficacy | 7.0 $\pm$ 0.4      |
+| Conflict Resolution          | 7.1 $\pm$ 0.2      |
+| Work-related Stress          | 6.9 $\pm$ 0.6      |
+| Adaptability                 | 8.5 $\pm$ 0.0      |
+| Achievement Motivation       | 7.9 $\pm$ 0.2      |
+| Fear of Failure              | 6.1 $\pm$ 0.6      |
+| Need for Control             | 6.1 $\pm$ 0.2      |
+| Cognitive Load               | 7.8 $\pm$ 0.2      |
+| Social Support               | 6.8 $\pm$ 0.2      |
+| Resilience                   | 8.4 $\pm$ 0.2      |
 
 
 

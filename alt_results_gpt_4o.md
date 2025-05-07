@@ -107,6 +107,7 @@
 | thudmglm-4-32b                             | **380.5** | 8.1 $\pm$ 0.7               | 5.8 $\pm$ 0.6         | 8.7 $\pm$ 0.2            | 9.7 $\pm$ 0.2  | 7.0 $\pm$ 0.2                 | 6.3 $\pm$ 0.8                  | 7.8 $\pm$ 0.4         | 8.3 $\pm$ 0.4         | 8.7 $\pm$ 0.2  | 8.9 $\pm$ 0.4            | 7.9 $\pm$ 0.5     | 7.1 $\pm$ 0.5      | 8.8 $\pm$ 0.4    | 7.0 $\pm$ 0.6    | 8.8 $\pm$ 0.0 |
 | nvidiallama-3.1-nemotron-nano-8b-v1        | **380.2** | 8.1 $\pm$ 0.4               | 5.6 $\pm$ 1.1         | 8.9 $\pm$ 0.2            | 9.6 $\pm$ 0.2  | 7.0 $\pm$ 0.4                 | 6.4 $\pm$ 0.6                  | 7.6 $\pm$ 0.8         | 7.7 $\pm$ 0.2         | 8.8 $\pm$ 0.5  | 8.3 $\pm$ 0.6            | 6.9 $\pm$ 0.8     | 6.4 $\pm$ 0.7      | 8.6 $\pm$ 0.5    | 6.8 $\pm$ 0.6    | 8.4 $\pm$ 0.6 |
 | QwenQwen3-32B                              | **378.9** | 7.7 $\pm$ 0.5               | 6.6 $\pm$ 0.1         | 8.6 $\pm$ 0.2            | 9.2 $\pm$ 0.2  | 7.1 $\pm$ 0.2                 | 6.9 $\pm$ 0.4                  | 6.7 $\pm$ 0.4         | 7.2 $\pm$ 0.7         | 8.1 $\pm$ 0.2  | 8.0 $\pm$ 0.3            | 6.2 $\pm$ 0.6     | 6.8 $\pm$ 0.5      | 7.9 $\pm$ 0.6    | 6.8 $\pm$ 0.3    | 8.2 $\pm$ 0.2 |
+| gemini-2.5-pro-preview-05-06               | **378.5** | 7.5 $\pm$ 0.0               | 6.5 $\pm$ 0.0         | 8.0 $\pm$ 0.0            | 9.5 $\pm$ 0.0  | 6.8 $\pm$ 0.4                 | 6.8 $\pm$ 0.4                  | 7.0 $\pm$ 0.8         | 6.9 $\pm$ 0.2         | 8.5 $\pm$ 0.0  | 7.8 $\pm$ 0.4            | 6.4 $\pm$ 0.5     | 6.6 $\pm$ 1.0      | 7.1 $\pm$ 0.4    | 6.6 $\pm$ 0.6    | 8.0 $\pm$ 0.4 |
 | meta-llamaLlama-3.2-1B-Instruct            | **378.3** | 8.0 $\pm$ 0.7               | 5.9 $\pm$ 0.6         | 8.2 $\pm$ 0.8            | 9.4 $\pm$ 0.2  | 7.4 $\pm$ 0.4                 | 7.0 $\pm$ 0.9                  | 6.1 $\pm$ 0.2         | 8.3 $\pm$ 0.2         | 8.1 $\pm$ 0.6  | 8.5 $\pm$ 0.3            | 7.4 $\pm$ 0.4     | 6.8 $\pm$ 0.3      | 8.0 $\pm$ 0.6    | 7.5 $\pm$ 0.6    | 8.2 $\pm$ 0.6 |
 | qwen34b                                    | **377.5** | 6.8 $\pm$ 1.0               | 6.2 $\pm$ 0.2         | 8.4 $\pm$ 0.2            | 9.2 $\pm$ 0.2  | 6.4 $\pm$ 0.4                 | 6.9 $\pm$ 0.5                  | 7.0 $\pm$ 0.4         | 6.6 $\pm$ 0.7         | 8.1 $\pm$ 0.2  | 8.0 $\pm$ 0.4            | 6.5 $\pm$ 0.9     | 6.5 $\pm$ 0.4      | 7.2 $\pm$ 0.8    | 6.1 $\pm$ 0.4    | 8.4 $\pm$ 0.2 |
 | qwen38b                                    | **376.0** | 7.9 $\pm$ 0.2               | 6.8 $\pm$ 0.4         | 8.1 $\pm$ 0.4            | 9.0 $\pm$ 0.0  | 6.6 $\pm$ 0.6                 | 7.0 $\pm$ 0.6                  | 6.9 $\pm$ 0.5         | 7.9 $\pm$ 0.2         | 8.4 $\pm$ 0.2  | 8.0 $\pm$ 0.4            | 6.9 $\pm$ 0.6     | 7.0 $\pm$ 0.4      | 7.9 $\pm$ 0.6    | 6.6 $\pm$ 0.5    | 8.4 $\pm$ 0.2 |
@@ -902,6 +903,32 @@
 | Cognitive Load               | 9.1 $\pm$ 0.2      |
 | Social Support               | 6.6 $\pm$ 0.4      |
 | Resilience                   | 8.7 $\pm$ 0.5      |
+
+
+
+
+
+
+### gemini-2.5-pro-preview-05-06
+
+
+| Personality Trait            | Score (1.0-10.0)   |
+|:-----------------------------|:-------------------|
+| Anxiety and Stress Levels    | 7.5 $\pm$ 0.0      |
+| Emotional Stability          | 6.5 $\pm$ 0.0      |
+| Problem-solving Skills       | 8.0 $\pm$ 0.0      |
+| Creativity                   | 9.5 $\pm$ 0.0      |
+| Interpersonal Relationships  | 6.8 $\pm$ 0.4      |
+| Confidence and Self-efficacy | 6.8 $\pm$ 0.4      |
+| Conflict Resolution          | 7.0 $\pm$ 0.8      |
+| Work-related Stress          | 6.9 $\pm$ 0.2      |
+| Adaptability                 | 8.5 $\pm$ 0.0      |
+| Achievement Motivation       | 7.8 $\pm$ 0.4      |
+| Fear of Failure              | 6.4 $\pm$ 0.5      |
+| Need for Control             | 6.6 $\pm$ 1.0      |
+| Cognitive Load               | 7.1 $\pm$ 0.4      |
+| Social Support               | 6.6 $\pm$ 0.6      |
+| Resilience                   | 8.0 $\pm$ 0.4      |
 
 
 

@@ -260,7 +260,7 @@ def get_evaluation(text):
         return get_evaluation_openai(text)
 
 
-def perform_evaluation(answering_model_name):
+def perform_evaluation(answering_model_name, massive):
     ret = False
     m_name = answering_model_name.replace("/", "").replace(":", "")
 
@@ -268,29 +268,36 @@ def perform_evaluation(answering_model_name):
     ex_indexes = sorted(list(set(x.split("__")[-1] for x in answers)))
     max_lenn = 0
 
+    base_evaluation_path = Shared.evaluation_folder + "/" + m_name + "__"
+
     for i in range(NUMBER_EXECUTIONS):
+        Is = str(i)
         for idxnum, index in enumerate(ex_indexes):
-            this_answers = [x for x in answers if x.split("__")[-1] == index]
-            all_contents = [
-                "A person did the following dreams. I ask you to estimate the personality trait of this person. The final output should be a JSON containing the following keys: 'Anxiety and Stress Levels', 'Emotional Stability', 'Problem-solving Skills', 'Creativity', 'Interpersonal Relationships', 'Confidence and Self-efficacy', 'Conflict Resolution', 'Work-related Stress', 'Adaptability', 'Achievement Motivation', 'Fear of Failure', 'Need for Control', 'Cognitive Load', 'Social Support', 'Resilience'. Each key should be associated to a number from 1.0 (minimum score) to 10.0 (maximum score). Please follow strictly the provided JSON schema in the evaluation!"]
-
-            for answ in this_answers:
-                incipit = open(os.path.join("incipits", answ.split("__")[1] + ".txt"), "r", encoding="utf-8").read()
-
-                try:
-                    content = incipit + " " + open(os.path.join("answers", answ), "r").read().replace("\n",
-                                                                                                      " ").replace("\r",
-                                                                                                                   " ")
-                except:
-                    content = incipit + " " + open(os.path.join("answers", answ), "r", encoding="utf-8").read().replace(
-                        "\n", " ").replace("\r", " ")
-
-                max_lenn = max(max_lenn, len(content))
-                all_contents.append(content)
-
-            evaluation_path = os.path.join(Shared.evaluation_folder, m_name + "__" + str(idxnum) + "__" + str(i) + ".txt")
+            this_suffix = str(idxnum) + "__" + Is + ".txt"
+            evaluation_path = base_evaluation_path + this_suffix
 
             if not os.path.exists(evaluation_path):
+                this_answers = [x for x in answers if x.split("__")[-1] == index]
+                all_contents = [
+                    "A person did the following dreams. I ask you to estimate the personality trait of this person. The final output should be a JSON containing the following keys: 'Anxiety and Stress Levels', 'Emotional Stability', 'Problem-solving Skills', 'Creativity', 'Interpersonal Relationships', 'Confidence and Self-efficacy', 'Conflict Resolution', 'Work-related Stress', 'Adaptability', 'Achievement Motivation', 'Fear of Failure', 'Need for Control', 'Cognitive Load', 'Social Support', 'Resilience'. Each key should be associated to a number from 1.0 (minimum score) to 10.0 (maximum score). Please follow strictly the provided JSON schema in the evaluation!"]
+
+                for answ in this_answers:
+                    incipit = open(os.path.join("incipits", answ.split("__")[1] + ".txt"), "r",
+                                   encoding="utf-8").read()
+
+                    try:
+                        content = incipit + " " + open(os.path.join("answers", answ), "r").read().replace("\n",
+                                                                                                          " ").replace(
+                            "\r",
+                            " ")
+                    except:
+                        content = incipit + " " + open(os.path.join("answers", answ), "r",
+                                                       encoding="utf-8").read().replace(
+                            "\n", " ").replace("\r", " ")
+
+                    max_lenn = max(max_lenn, len(content))
+                    all_contents.append(content)
+
                 print("(evaluation %d of %d) (answers %d of %d)" % (
                     i + 1, NUMBER_EXECUTIONS, idxnum + 1, len(ex_indexes)), answering_model_name,
                       Shared.evaluating_model_name)
@@ -322,9 +329,10 @@ def perform_evaluation(answering_model_name):
                     json.dump(response_message_json, open(evaluation_path, "w"))
                     ret = True
             else:
-                print("ALREADY DONE (evaluation %d of %d) (answers %d of %d)" % (
-                    i + 1, NUMBER_EXECUTIONS, idxnum + 1, len(ex_indexes)), answering_model_name,
-                      Shared.evaluating_model_name)
+                if not massive:
+                    print("ALREADY DONE (evaluation %d of %d) (answers %d of %d)" % (
+                        i + 1, NUMBER_EXECUTIONS, idxnum + 1, len(ex_indexes)), answering_model_name,
+                          Shared.evaluating_model_name)
     return ret
 
 
@@ -346,17 +354,19 @@ def main_execution(evaluating_model_name, massive):
                 cont = False
                 available_models = {x.split("__")[0] for x in os.listdir("answers") if not "init" in x}
                 for m in available_models:
-                    xy = perform_evaluation(m)
+                    xy = perform_evaluation(m, massive)
                     cont = cont or xy
             except:
                 traceback.print_exc()
                 time.sleep(WAITING_TIME_RETRY)
                 cont = True
     else:
-        perform_evaluation(Shared.answering_model_name)
+        perform_evaluation(Shared.answering_model_name, massive)
 
 
 if __name__ == "__main__":
+    aa = time.time_ns()
+
     massive = True if len(sys.argv) > 1 and sys.argv[1] == "1" else False
 
     if massive:
@@ -366,3 +376,7 @@ if __name__ == "__main__":
 
     for m in model_list:
         main_execution(m, massive)
+
+    bb = time.time_ns()
+
+    print("total execution time", (bb-aa)/10**9)

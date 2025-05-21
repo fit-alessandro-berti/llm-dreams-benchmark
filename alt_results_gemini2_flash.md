@@ -73,6 +73,7 @@
 | claude-3-7-sonnet-20250219                 | **374.8** | 7.5 $\pm$ 0.0               | 6.4 $\pm$ 0.2         | 7.7 $\pm$ 0.4            | 9.3 $\pm$ 0.2 | 7.0 $\pm$ 0.0                 | 6.3 $\pm$ 0.3                  | 7.4 $\pm$ 0.1         | 7.8 $\pm$ 0.4         | 8.4 $\pm$ 0.2  | 7.5 $\pm$ 0.4            | 6.6 $\pm$ 0.4     | 6.4 $\pm$ 0.4      | 8.2 $\pm$ 0.2    | 6.5 $\pm$ 0.5    | 8.1 $\pm$ 0.2 |
 | chatgpt-4o-latest-2024-11-20               | **374.6** | 7.1 $\pm$ 0.4               | 6.2 $\pm$ 0.2         | 8.1 $\pm$ 0.4            | 9.4 $\pm$ 0.2 | 6.8 $\pm$ 0.4                 | 6.3 $\pm$ 0.3                  | 7.1 $\pm$ 0.2         | 7.2 $\pm$ 0.2         | 8.4 $\pm$ 0.4  | 8.4 $\pm$ 0.6            | 6.5 $\pm$ 0.6     | 6.8 $\pm$ 0.2      | 7.9 $\pm$ 0.2    | 5.8 $\pm$ 0.4    | 8.1 $\pm$ 0.2 |
 | deepseek-aiDeepSeek-R1-Zero                | **373.5** | 7.8 $\pm$ 0.8               | 6.2 $\pm$ 0.8         | 8.2 $\pm$ 0.8            | 8.1 $\pm$ 0.2 | 7.2 $\pm$ 0.6                 | 7.0 $\pm$ 1.0                  | 7.2 $\pm$ 0.4         | 8.1 $\pm$ 0.5         | 7.9 $\pm$ 0.6  | 8.5 $\pm$ 0.5            | 7.0 $\pm$ 0.8     | 7.1 $\pm$ 0.2      | 8.1 $\pm$ 0.2    | 6.8 $\pm$ 0.6    | 8.0 $\pm$ 1.0 |
+| gemma-3n-e4b-it                            | **372.5** | 7.5 $\pm$ 0.0               | 6.1 $\pm$ 0.4         | 7.8 $\pm$ 0.4            | 9.5 $\pm$ 0.0 | 6.9 $\pm$ 0.2                 | 5.9 $\pm$ 0.5                  | 7.2 $\pm$ 0.4         | 8.1 $\pm$ 0.2         | 7.8 $\pm$ 0.8  | 8.0 $\pm$ 0.7            | 6.6 $\pm$ 0.4     | 6.1 $\pm$ 0.2      | 8.5 $\pm$ 0.0    | 6.9 $\pm$ 0.5    | 7.8 $\pm$ 0.4 |
 | nvidiallama-3.1-nemotron-ultra-253b-v1free | **369.5** | 7.8 $\pm$ 0.8               | 5.8 $\pm$ 0.8         | 7.1 $\pm$ 0.4            | 9.2 $\pm$ 0.2 | 7.1 $\pm$ 0.2                 | 6.1 $\pm$ 0.2                  | 7.1 $\pm$ 0.5         | 8.4 $\pm$ 0.6         | 7.8 $\pm$ 0.2  | 8.0 $\pm$ 0.4            | 7.1 $\pm$ 0.4     | 6.1 $\pm$ 0.2      | 7.8 $\pm$ 0.4    | 6.8 $\pm$ 0.4    | 7.8 $\pm$ 0.4 |
 | phi4-mini-reasoning                        | **369.0** | 5.6 $\pm$ 1.6               | 6.9 $\pm$ 1.4         | 8.1 $\pm$ 1.6            | 9.1 $\pm$ 0.5 | 5.9 $\pm$ 0.2                 | 7.0 $\pm$ 1.6                  | 5.9 $\pm$ 1.1         | 5.9 $\pm$ 1.9         | 7.6 $\pm$ 1.2  | 8.2 $\pm$ 1.3            | 4.9 $\pm$ 1.9     | 7.4 $\pm$ 1.2      | 7.5 $\pm$ 0.6    | 5.2 $\pm$ 0.8    | 7.8 $\pm$ 1.3 |
 | nvidiaLlama-3.1-Nemotron-70B-Instruct      | **368.0** | 8.5 $\pm$ 0.0               | 5.9 $\pm$ 0.5         | 7.8 $\pm$ 0.2            | 9.2 $\pm$ 0.2 | 6.9 $\pm$ 0.2                 | 6.5 $\pm$ 0.6                  | 7.4 $\pm$ 0.4         | 8.5 $\pm$ 0.5         | 7.5 $\pm$ 0.5  | 9.0 $\pm$ 0.0            | 7.2 $\pm$ 0.2     | 6.4 $\pm$ 0.2      | 8.1 $\pm$ 0.2    | 5.9 $\pm$ 0.2    | 7.8 $\pm$ 0.6 |
@@ -119,6 +120,7 @@
 | gemini-exp-1206                            | **331.5** | 8.4 $\pm$ 0.5               | 5.0 $\pm$ 0.6         | 6.6 $\pm$ 0.2            | 9.5 $\pm$ 0.4 | 6.2 $\pm$ 0.4                 | 5.5 $\pm$ 0.4                  | 6.9 $\pm$ 0.2         | 8.2 $\pm$ 0.4         | 6.8 $\pm$ 0.8  | 7.4 $\pm$ 0.4            | 7.6 $\pm$ 0.6     | 6.9 $\pm$ 0.4      | 8.4 $\pm$ 0.4    | 4.8 $\pm$ 1.3    | 7.2 $\pm$ 0.4 |
 | meta-llamaMeta-Llama-3.1-8B-Instruct       | **331.0** | 8.5 $\pm$ 0.0               | 5.1 $\pm$ 0.2         | 6.9 $\pm$ 0.4            | 9.0 $\pm$ 0.0 | 6.2 $\pm$ 0.2                 | 5.2 $\pm$ 0.8                  | 7.2 $\pm$ 0.2         | 8.5 $\pm$ 0.5         | 6.2 $\pm$ 0.4  | 7.6 $\pm$ 0.4            | 7.6 $\pm$ 0.4     | 7.2 $\pm$ 0.4      | 8.4 $\pm$ 0.2    | 5.6 $\pm$ 0.4    | 6.8 $\pm$ 0.6 |
 | meta-llamallama-4-scout                    | **329.0** | 8.5 $\pm$ 0.0               | 5.0 $\pm$ 0.5         | 6.8 $\pm$ 0.2            | 9.0 $\pm$ 0.6 | 6.8 $\pm$ 0.2                 | 5.2 $\pm$ 0.4                  | 5.4 $\pm$ 0.6         | 8.2 $\pm$ 0.4         | 7.0 $\pm$ 0.6  | 7.8 $\pm$ 0.2            | 7.5 $\pm$ 0.4     | 7.0 $\pm$ 0.6      | 8.4 $\pm$ 0.4    | 5.9 $\pm$ 0.5    | 6.6 $\pm$ 0.4 |
+| gemini-2.5-flash-preview-05-20             | **328.2** | 8.0 $\pm$ 0.5               | 5.4 $\pm$ 1.0         | 7.0 $\pm$ 0.5            | 9.4 $\pm$ 0.2 | 6.1 $\pm$ 0.9                 | 5.2 $\pm$ 1.1                  | 4.9 $\pm$ 2.2         | 8.5 $\pm$ 0.5         | 7.2 $\pm$ 0.9  | 7.1 $\pm$ 0.2            | 7.8 $\pm$ 0.2     | 7.1 $\pm$ 0.3      | 8.4 $\pm$ 0.4    | 5.0 $\pm$ 1.6    | 7.4 $\pm$ 0.8 |
 | QwenQwen3-235B-A22B                        | **328.1** | 8.5 $\pm$ 0.6               | 5.0 $\pm$ 1.0         | 7.2 $\pm$ 0.8            | 9.6 $\pm$ 0.2 | 5.9 $\pm$ 0.9                 | 5.1 $\pm$ 1.6                  | 6.4 $\pm$ 0.6         | 8.2 $\pm$ 0.6         | 7.2 $\pm$ 0.4  | 8.2 $\pm$ 0.2            | 8.0 $\pm$ 1.0     | 7.4 $\pm$ 0.5      | 8.4 $\pm$ 0.5    | 4.5 $\pm$ 1.5    | 7.0 $\pm$ 1.1 |
 | tngtechdeepseek-r1t-chimerafree            | **323.5** | 7.9 $\pm$ 1.0               | 5.2 $\pm$ 0.8         | 7.0 $\pm$ 0.8            | 9.1 $\pm$ 0.2 | 5.6 $\pm$ 0.4                 | 5.0 $\pm$ 1.5                  | 6.0 $\pm$ 1.0         | 7.8 $\pm$ 0.4         | 6.8 $\pm$ 0.8  | 7.4 $\pm$ 0.6            | 7.9 $\pm$ 1.1     | 7.0 $\pm$ 0.8      | 7.6 $\pm$ 0.6    | 4.8 $\pm$ 0.8    | 6.6 $\pm$ 0.6 |
 | gemma34b-it-q8_0                           | **315.5** | 8.0 $\pm$ 0.5               | 5.0 $\pm$ 1.0         | 6.1 $\pm$ 0.4            | 9.5 $\pm$ 0.0 | 6.0 $\pm$ 1.0                 | 4.8 $\pm$ 0.9                  | 5.2 $\pm$ 2.2         | 8.2 $\pm$ 0.8         | 7.0 $\pm$ 0.8  | 6.8 $\pm$ 0.2            | 7.5 $\pm$ 0.5     | 6.9 $\pm$ 0.6      | 8.9 $\pm$ 0.2    | 4.8 $\pm$ 1.5    | 6.8 $\pm$ 1.2 |
@@ -884,6 +886,32 @@
 
 
 
+### gemini-2.5-flash-preview-05-20
+
+
+| Personality Trait            | Score (1.0-10.0)   |
+|:-----------------------------|:-------------------|
+| Anxiety and Stress Levels    | 8.0 $\pm$ 0.5      |
+| Emotional Stability          | 5.4 $\pm$ 1.0      |
+| Problem-solving Skills       | 7.0 $\pm$ 0.5      |
+| Creativity                   | 9.4 $\pm$ 0.2      |
+| Interpersonal Relationships  | 6.1 $\pm$ 0.9      |
+| Confidence and Self-efficacy | 5.2 $\pm$ 1.1      |
+| Conflict Resolution          | 4.9 $\pm$ 2.2      |
+| Work-related Stress          | 8.5 $\pm$ 0.5      |
+| Adaptability                 | 7.2 $\pm$ 0.9      |
+| Achievement Motivation       | 7.1 $\pm$ 0.2      |
+| Fear of Failure              | 7.8 $\pm$ 0.2      |
+| Need for Control             | 7.1 $\pm$ 0.3      |
+| Cognitive Load               | 8.4 $\pm$ 0.4      |
+| Social Support               | 5.0 $\pm$ 1.6      |
+| Resilience                   | 7.4 $\pm$ 0.8      |
+
+
+
+
+
+
 ### gemini-2.5-pro-exp-03-25
 
 
@@ -982,6 +1010,32 @@
 | Cognitive Load               | 8.2 $\pm$ 0.2      |
 | Social Support               | 5.5 $\pm$ 0.5      |
 | Resilience                   | 7.6 $\pm$ 0.4      |
+
+
+
+
+
+
+### gemma-3n-e4b-it
+
+
+| Personality Trait            | Score (1.0-10.0)   |
+|:-----------------------------|:-------------------|
+| Anxiety and Stress Levels    | 7.5 $\pm$ 0.0      |
+| Emotional Stability          | 6.1 $\pm$ 0.4      |
+| Problem-solving Skills       | 7.8 $\pm$ 0.4      |
+| Creativity                   | 9.5 $\pm$ 0.0      |
+| Interpersonal Relationships  | 6.9 $\pm$ 0.2      |
+| Confidence and Self-efficacy | 5.9 $\pm$ 0.5      |
+| Conflict Resolution          | 7.2 $\pm$ 0.4      |
+| Work-related Stress          | 8.1 $\pm$ 0.2      |
+| Adaptability                 | 7.8 $\pm$ 0.8      |
+| Achievement Motivation       | 8.0 $\pm$ 0.7      |
+| Fear of Failure              | 6.6 $\pm$ 0.4      |
+| Need for Control             | 6.1 $\pm$ 0.2      |
+| Cognitive Load               | 8.5 $\pm$ 0.0      |
+| Social Support               | 6.9 $\pm$ 0.5      |
+| Resilience                   | 7.8 $\pm$ 0.4      |
 
 
 

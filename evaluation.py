@@ -264,8 +264,12 @@ def perform_evaluation(answering_model_name, massive):
     ret = False
     m_name = answering_model_name.replace("/", "").replace(":", "")
 
-    answers = [x for x in os.listdir("answers") if x.split("__")[0].startswith(m_name)]
-    ex_indexes = sorted(list(set(x.split("__")[-1] for x in answers)))
+    #answers = [x for x in os.listdir("answers") if x.split("__")[0].startswith(m_name)]
+    #ex_indexes = sorted(list(set(x.split("__")[-1] for x in answers)))
+
+    answers = None
+
+    ex_indexes = ["0.txt", "1.txt"]
     max_lenn = 0
 
     base_evaluation_path = Shared.evaluation_folder + "/" + m_name + "__"
@@ -277,6 +281,9 @@ def perform_evaluation(answering_model_name, massive):
             evaluation_path = base_evaluation_path + this_suffix
 
             if not os.path.exists(evaluation_path):
+                if answers is None:
+                    answers = [x for x in os.listdir("answers") if x.startswith(m_name)]
+
                 this_answers = [x for x in answers if x.split("__")[-1] == index]
                 all_contents = [
                     "A person did the following dreams. I ask you to estimate the personality trait of this person. The final output should be a JSON containing the following keys: 'Anxiety and Stress Levels', 'Emotional Stability', 'Problem-solving Skills', 'Creativity', 'Interpersonal Relationships', 'Confidence and Self-efficacy', 'Conflict Resolution', 'Work-related Stress', 'Adaptability', 'Achievement Motivation', 'Fear of Failure', 'Need for Control', 'Cognitive Load', 'Social Support', 'Resilience'. Each key should be associated to a number from 1.0 (minimum score) to 10.0 (maximum score). Please follow strictly the provided JSON schema in the evaluation!"]

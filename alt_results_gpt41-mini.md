@@ -107,6 +107,7 @@
 | mistral-medium-2505                        | **386.0** | 7.0 $\pm$ 0.5               | 6.9 $\pm$ 0.6         | 8.1 $\pm$ 0.2            | 9.1 $\pm$ 0.2  | 6.9 $\pm$ 0.2                 | 7.0 $\pm$ 0.4                  | 7.1 $\pm$ 0.2         | 6.9 $\pm$ 0.6         | 8.5 $\pm$ 0.0  | 7.9 $\pm$ 0.2            | 6.1 $\pm$ 0.6     | 6.1 $\pm$ 0.2      | 7.8 $\pm$ 0.2    | 6.8 $\pm$ 0.2    | 8.4 $\pm$ 0.2 |
 | Gemini-1.5-Pro-Exp-0801                    | **385.0** | 7.8 $\pm$ 0.2               | 6.5 $\pm$ 0.4         | 8.5 $\pm$ 0.4            | 9.4 $\pm$ 0.4  | 7.1 $\pm$ 0.2                 | 7.0 $\pm$ 0.0                  | 7.5 $\pm$ 0.0         | 7.8 $\pm$ 0.6         | 8.2 $\pm$ 0.2  | 8.5 $\pm$ 0.4            | 7.6 $\pm$ 0.5     | 6.5 $\pm$ 0.4      | 8.1 $\pm$ 0.5    | 7.1 $\pm$ 0.2    | 8.6 $\pm$ 0.2 |
 | meta-llamaMeta-Llama-3.1-70B-Instruct      | **383.5** | 7.8 $\pm$ 0.4               | 6.2 $\pm$ 0.4         | 8.5 $\pm$ 0.4            | 9.2 $\pm$ 0.2  | 7.0 $\pm$ 0.4                 | 7.4 $\pm$ 0.4                  | 7.0 $\pm$ 0.6         | 7.8 $\pm$ 0.6         | 8.2 $\pm$ 0.6  | 8.6 $\pm$ 0.4            | 6.8 $\pm$ 0.4     | 7.0 $\pm$ 0.0      | 8.1 $\pm$ 0.2    | 7.0 $\pm$ 0.5    | 8.5 $\pm$ 0.0 |
+| deepseek-aiDeepSeek-R1-0528                | **380.5** | 7.9 $\pm$ 0.6               | 6.2 $\pm$ 0.2         | 8.8 $\pm$ 0.4            | 9.6 $\pm$ 0.2  | 6.9 $\pm$ 0.5                 | 7.2 $\pm$ 0.2                  | 7.1 $\pm$ 0.6         | 7.5 $\pm$ 1.1         | 8.8 $\pm$ 0.2  | 8.8 $\pm$ 0.2            | 7.6 $\pm$ 0.6     | 6.9 $\pm$ 0.6      | 8.8 $\pm$ 0.2    | 6.8 $\pm$ 0.2    | 8.6 $\pm$ 0.2 |
 | claude-4-sonnet-20250514                   | **379.5** | 6.6 $\pm$ 0.7               | 6.9 $\pm$ 0.9         | 8.6 $\pm$ 0.2            | 9.8 $\pm$ 0.2  | 6.4 $\pm$ 0.9                 | 7.2 $\pm$ 1.0                  | 6.0 $\pm$ 1.0         | 5.0 $\pm$ 0.7         | 8.6 $\pm$ 0.4  | 7.6 $\pm$ 0.4            | 5.6 $\pm$ 0.9     | 5.8 $\pm$ 0.2      | 7.9 $\pm$ 0.4    | 6.6 $\pm$ 0.4    | 8.0 $\pm$ 0.8 |
 | meta-llamallama-4-scout                    | **378.5** | 8.0 $\pm$ 0.5               | 6.1 $\pm$ 0.2         | 8.1 $\pm$ 0.2            | 9.2 $\pm$ 0.2  | 6.9 $\pm$ 0.2                 | 7.1 $\pm$ 0.2                  | 6.5 $\pm$ 0.5         | 8.0 $\pm$ 0.4         | 8.4 $\pm$ 0.5  | 8.4 $\pm$ 0.2            | 7.1 $\pm$ 0.4     | 6.6 $\pm$ 0.2      | 7.9 $\pm$ 0.2    | 7.2 $\pm$ 0.4    | 8.2 $\pm$ 0.4 |
 | gemini-2.5-flash-preview-05-20             | **378.5** | 7.6 $\pm$ 0.1               | 6.6 $\pm$ 0.2         | 8.1 $\pm$ 0.2            | 9.6 $\pm$ 0.2  | 6.6 $\pm$ 0.4                 | 6.6 $\pm$ 0.4                  | 6.2 $\pm$ 1.3         | 8.1 $\pm$ 0.2         | 8.4 $\pm$ 0.2  | 8.0 $\pm$ 0.1            | 7.0 $\pm$ 0.1     | 6.5 $\pm$ 0.4      | 8.5 $\pm$ 0.0    | 7.2 $\pm$ 0.4    | 8.6 $\pm$ 0.1 |
@@ -494,6 +495,32 @@
 | Cognitive Load               | 7.2 $\pm$ 0.2      |
 | Social Support               | 7.8 $\pm$ 0.6      |
 | Resilience                   | 9.2 $\pm$ 0.2      |
+
+
+
+
+
+
+### deepseek-aiDeepSeek-R1-0528
+
+
+| Personality Trait            | Score (1.0-10.0)   |
+|:-----------------------------|:-------------------|
+| Anxiety and Stress Levels    | 7.9 $\pm$ 0.6      |
+| Emotional Stability          | 6.2 $\pm$ 0.2      |
+| Problem-solving Skills       | 8.8 $\pm$ 0.4      |
+| Creativity                   | 9.6 $\pm$ 0.2      |
+| Interpersonal Relationships  | 6.9 $\pm$ 0.5      |
+| Confidence and Self-efficacy | 7.2 $\pm$ 0.2      |
+| Conflict Resolution          | 7.1 $\pm$ 0.6      |
+| Work-related Stress          | 7.5 $\pm$ 1.1      |
+| Adaptability                 | 8.8 $\pm$ 0.2      |
+| Achievement Motivation       | 8.8 $\pm$ 0.2      |
+| Fear of Failure              | 7.6 $\pm$ 0.6      |
+| Need for Control             | 6.9 $\pm$ 0.6      |
+| Cognitive Load               | 8.8 $\pm$ 0.2      |
+| Social Support               | 6.8 $\pm$ 0.2      |
+| Resilience                   | 8.6 $\pm$ 0.2      |
 
 
 

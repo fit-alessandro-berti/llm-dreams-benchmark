@@ -1,4 +1,4 @@
-ANSWERING_MODEL_NAME = "openrouter/optimus-alpha"
+ANSWERING_MODEL_NAME = "deepseek-ai/DeepSeek-R1-0528"
 EVALUATING_MODEL_NAME = "gpt-4.5-preview"
 # EVALUATING_MODEL_NAME = "mistral-small-2503"
 # EVALUATING_MODEL_NAME = "chatgpt-4o-latest"

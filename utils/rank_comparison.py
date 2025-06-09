@@ -14,7 +14,7 @@ def interpret(content):
             break
 
         row = row.split("|")
-        model = row[1].strip()
+        model = row[1].strip().lower()
         mhs = float(row[2].replace("*", ""))
         llm_scores[model] = mhs
 

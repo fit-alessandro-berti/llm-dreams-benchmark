@@ -78,6 +78,7 @@
 | smollm21.7b-instruct-q6_K                  | **385.0** | 7.2 $\pm$ 0.4               | 6.2 $\pm$ 0.4         | 8.1 $\pm$ 0.2            | 8.8 $\pm$ 0.2 | 7.6 $\pm$ 0.6                 | 7.1 $\pm$ 0.2                  | 6.4 $\pm$ 0.2         | 8.0 $\pm$ 0.0         | 8.1 $\pm$ 0.6  | 8.4 $\pm$ 0.4            | 6.6 $\pm$ 0.2     | 6.8 $\pm$ 0.4      | 7.8 $\pm$ 0.2    | 7.5 $\pm$ 0.6    | 8.4 $\pm$ 0.4 |
 | falcon33b-instruct-q8_0                    | **385.0** | 7.2 $\pm$ 0.4               | 6.2 $\pm$ 0.4         | 8.2 $\pm$ 0.2            | 9.0 $\pm$ 0.0 | 7.1 $\pm$ 0.2                 | 7.6 $\pm$ 0.2                  | 6.8 $\pm$ 0.2         | 7.5 $\pm$ 0.9         | 8.5 $\pm$ 0.0  | 8.0 $\pm$ 0.0            | 6.0 $\pm$ 0.4     | 6.8 $\pm$ 0.2      | 7.8 $\pm$ 0.2    | 6.9 $\pm$ 0.4    | 8.1 $\pm$ 0.4 |
 | meta-llamaMeta-Llama-3.1-70B-Instruct      | **384.0** | 7.5 $\pm$ 0.0               | 6.0 $\pm$ 0.0         | 8.1 $\pm$ 0.2            | 9.1 $\pm$ 0.2 | 7.0 $\pm$ 0.0                 | 7.0 $\pm$ 0.4                  | 7.2 $\pm$ 0.6         | 8.0 $\pm$ 0.0         | 8.5 $\pm$ 0.0  | 8.9 $\pm$ 0.2            | 6.2 $\pm$ 0.2     | 7.0 $\pm$ 0.0      | 8.1 $\pm$ 0.2    | 7.0 $\pm$ 0.5    | 8.0 $\pm$ 0.0 |
+| gemini-2.5-pro-preview-06-05               | **384.0** | 7.5 $\pm$ 0.4               | 6.0 $\pm$ 0.0         | 7.8 $\pm$ 0.4            | 9.2 $\pm$ 0.2 | 7.0 $\pm$ 0.0                 | 6.8 $\pm$ 0.6                  | 8.2 $\pm$ 0.2         | 7.0 $\pm$ 0.7         | 8.2 $\pm$ 0.4  | 7.4 $\pm$ 0.4            | 6.1 $\pm$ 0.2     | 5.2 $\pm$ 0.2      | 7.8 $\pm$ 0.8    | 6.9 $\pm$ 0.5    | 8.1 $\pm$ 0.2 |
 | qwen-turbo-0428                            | **383.5** | 7.8 $\pm$ 0.4               | 6.0 $\pm$ 0.0         | 8.4 $\pm$ 0.4            | 9.1 $\pm$ 0.2 | 7.1 $\pm$ 0.2                 | 7.1 $\pm$ 0.6                  | 7.5 $\pm$ 0.5         | 7.5 $\pm$ 0.5         | 8.6 $\pm$ 0.2  | 7.9 $\pm$ 0.4            | 6.5 $\pm$ 0.4     | 6.5 $\pm$ 0.4      | 8.0 $\pm$ 0.4    | 7.1 $\pm$ 0.2    | 8.2 $\pm$ 0.2 |
 | claude-3-7-sonnet-20250219                 | **383.0** | 7.5 $\pm$ 0.0               | 6.0 $\pm$ 0.0         | 8.0 $\pm$ 0.0            | 9.0 $\pm$ 0.0 | 7.0 $\pm$ 0.0                 | 6.8 $\pm$ 0.2                  | 7.6 $\pm$ 0.4         | 7.8 $\pm$ 0.2         | 8.5 $\pm$ 0.0  | 7.6 $\pm$ 0.4            | 6.5 $\pm$ 0.0     | 6.0 $\pm$ 0.0      | 7.9 $\pm$ 0.2    | 7.4 $\pm$ 0.2    | 8.0 $\pm$ 0.0 |
 | deepseek-aiDeepSeek-R1-Zero                | **382.5** | 7.5 $\pm$ 0.0               | 6.1 $\pm$ 0.2         | 8.5 $\pm$ 0.0            | 8.5 $\pm$ 0.5 | 7.0 $\pm$ 0.0                 | 7.5 $\pm$ 0.0                  | 7.1 $\pm$ 0.9         | 7.8 $\pm$ 0.4         | 8.2 $\pm$ 0.2  | 8.2 $\pm$ 0.2            | 6.5 $\pm$ 0.0     | 7.0 $\pm$ 0.0      | 8.0 $\pm$ 0.0    | 7.5 $\pm$ 0.0    | 8.1 $\pm$ 0.2 |
@@ -1093,6 +1094,32 @@
 | Cognitive Load               | 7.6 $\pm$ 0.4      |
 | Social Support               | 7.2 $\pm$ 0.4      |
 | Resilience                   | 7.6 $\pm$ 0.4      |
+
+
+
+
+
+
+### gemini-2.5-pro-preview-06-05
+
+
+| Personality Trait            | Score (1.0-10.0)   |
+|:-----------------------------|:-------------------|
+| Anxiety and Stress Levels    | 7.5 $\pm$ 0.4      |
+| Emotional Stability          | 6.0 $\pm$ 0.0      |
+| Problem-solving Skills       | 7.8 $\pm$ 0.4      |
+| Creativity                   | 9.2 $\pm$ 0.2      |
+| Interpersonal Relationships  | 7.0 $\pm$ 0.0      |
+| Confidence and Self-efficacy | 6.8 $\pm$ 0.6      |
+| Conflict Resolution          | 8.2 $\pm$ 0.2      |
+| Work-related Stress          | 7.0 $\pm$ 0.7      |
+| Adaptability                 | 8.2 $\pm$ 0.4      |
+| Achievement Motivation       | 7.4 $\pm$ 0.4      |
+| Fear of Failure              | 6.1 $\pm$ 0.2      |
+| Need for Control             | 5.2 $\pm$ 0.2      |
+| Cognitive Load               | 7.8 $\pm$ 0.8      |
+| Social Support               | 6.9 $\pm$ 0.5      |
+| Resilience                   | 8.1 $\pm$ 0.2      |
 
 
 

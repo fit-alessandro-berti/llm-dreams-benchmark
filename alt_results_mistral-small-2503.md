@@ -107,6 +107,7 @@
 | meta-llamaMeta-Llama-3.1-70B-Instruct      | **372.0** | 7.5 $\pm$ 0.0               | 5.9 $\pm$ 0.2         | 8.2 $\pm$ 0.2            | 9.1 $\pm$ 0.2 | 6.8 $\pm$ 0.2                 | 6.6 $\pm$ 0.4                  | 6.6 $\pm$ 0.4         | 8.0 $\pm$ 0.0         | 8.4 $\pm$ 0.2  | 8.6 $\pm$ 0.4            | 6.4 $\pm$ 0.4     | 7.1 $\pm$ 0.2      | 8.0 $\pm$ 0.0    | 6.1 $\pm$ 0.2    | 7.6 $\pm$ 0.2 |
 | qwen31.7b                                  | **371.5** | 7.5 $\pm$ 0.0               | 5.6 $\pm$ 0.4         | 8.0 $\pm$ 0.0            | 9.0 $\pm$ 0.0 | 6.2 $\pm$ 0.2                 | 6.8 $\pm$ 0.2                  | 7.2 $\pm$ 0.2         | 8.1 $\pm$ 0.2         | 8.4 $\pm$ 0.2  | 8.2 $\pm$ 0.2            | 7.0 $\pm$ 0.0     | 6.4 $\pm$ 0.2      | 8.0 $\pm$ 0.0    | 5.8 $\pm$ 0.2    | 8.4 $\pm$ 0.2 |
 | gemini-2.0-flash-thinking-exp-01-21        | **370.0** | 8.0 $\pm$ 0.5               | 6.0 $\pm$ 0.0         | 8.0 $\pm$ 0.5            | 9.2 $\pm$ 0.2 | 6.9 $\pm$ 0.2                 | 6.8 $\pm$ 0.2                  | 6.1 $\pm$ 0.6         | 8.0 $\pm$ 0.0         | 8.2 $\pm$ 0.2  | 7.6 $\pm$ 0.6            | 6.8 $\pm$ 0.8     | 6.2 $\pm$ 0.6      | 7.5 $\pm$ 0.4    | 6.2 $\pm$ 0.8    | 7.9 $\pm$ 0.2 |
+| magistral-small-2506                       | **368.5** | 7.5 $\pm$ 0.0               | 6.0 $\pm$ 0.0         | 8.5 $\pm$ 0.0            | 9.1 $\pm$ 0.2 | 7.0 $\pm$ 0.0                 | 6.9 $\pm$ 0.4                  | 6.2 $\pm$ 0.6         | 6.9 $\pm$ 0.2         | 8.0 $\pm$ 0.0  | 8.0 $\pm$ 0.0            | 6.4 $\pm$ 0.4     | 6.9 $\pm$ 0.4      | 8.0 $\pm$ 0.0    | 6.8 $\pm$ 0.2    | 7.5 $\pm$ 0.0 |
 | QwenQwen3-30B-A3B                          | **368.5** | 7.5 $\pm$ 0.0               | 6.0 $\pm$ 0.0         | 8.2 $\pm$ 0.2            | 9.5 $\pm$ 0.0 | 6.5 $\pm$ 0.0                 | 7.0 $\pm$ 0.0                  | 6.6 $\pm$ 0.6         | 8.0 $\pm$ 0.0         | 8.5 $\pm$ 0.0  | 8.0 $\pm$ 0.0            | 7.0 $\pm$ 0.0     | 6.5 $\pm$ 0.0      | 8.5 $\pm$ 0.0    | 5.5 $\pm$ 0.0    | 7.8 $\pm$ 0.2 |
 | qwen34b                                    | **368.0** | 7.5 $\pm$ 0.0               | 6.0 $\pm$ 0.0         | 8.5 $\pm$ 0.0            | 9.2 $\pm$ 0.2 | 6.9 $\pm$ 0.2                 | 6.8 $\pm$ 0.2                  | 6.6 $\pm$ 0.4         | 7.5 $\pm$ 0.5         | 8.0 $\pm$ 0.0  | 8.2 $\pm$ 0.2            | 6.8 $\pm$ 0.2     | 7.2 $\pm$ 0.2      | 8.0 $\pm$ 0.0    | 6.1 $\pm$ 0.4    | 7.6 $\pm$ 0.2 |
 | meta-llamaMeta-Llama-3.1-8B-Instruct       | **368.0** | 7.5 $\pm$ 0.0               | 6.0 $\pm$ 0.0         | 8.4 $\pm$ 0.2            | 9.2 $\pm$ 0.2 | 6.6 $\pm$ 0.2                 | 6.5 $\pm$ 0.6                  | 7.0 $\pm$ 0.7         | 7.1 $\pm$ 0.5         | 7.9 $\pm$ 0.2  | 8.1 $\pm$ 0.6            | 6.2 $\pm$ 0.2     | 6.4 $\pm$ 0.6      | 8.1 $\pm$ 0.2    | 6.0 $\pm$ 0.6    | 7.4 $\pm$ 0.2 |
@@ -1874,6 +1875,32 @@
 | Need for Control             | 6.8 $\pm$ 0.2      |
 | Cognitive Load               | 8.1 $\pm$ 0.2      |
 | Social Support               | 5.1 $\pm$ 0.2      |
+| Resilience                   | 7.5 $\pm$ 0.0      |
+
+
+
+
+
+
+### magistral-small-2506
+
+
+| Personality Trait            | Score (1.0-10.0)   |
+|:-----------------------------|:-------------------|
+| Anxiety and Stress Levels    | 7.5 $\pm$ 0.0      |
+| Emotional Stability          | 6.0 $\pm$ 0.0      |
+| Problem-solving Skills       | 8.5 $\pm$ 0.0      |
+| Creativity                   | 9.1 $\pm$ 0.2      |
+| Interpersonal Relationships  | 7.0 $\pm$ 0.0      |
+| Confidence and Self-efficacy | 6.9 $\pm$ 0.4      |
+| Conflict Resolution          | 6.2 $\pm$ 0.6      |
+| Work-related Stress          | 6.9 $\pm$ 0.2      |
+| Adaptability                 | 8.0 $\pm$ 0.0      |
+| Achievement Motivation       | 8.0 $\pm$ 0.0      |
+| Fear of Failure              | 6.4 $\pm$ 0.4      |
+| Need for Control             | 6.9 $\pm$ 0.4      |
+| Cognitive Load               | 8.0 $\pm$ 0.0      |
+| Social Support               | 6.8 $\pm$ 0.2      |
 | Resilience                   | 7.5 $\pm$ 0.0      |
 
 

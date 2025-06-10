@@ -121,6 +121,7 @@
 | meta-llamaLlama-3.3-70B-Instruct           | **356.0** | 8.5 $\pm$ 0.0               | 6.0 $\pm$ 0.0         | 7.6 $\pm$ 0.1            | 8.8 $\pm$ 0.2 | 7.0 $\pm$ 0.1                 | 6.5 $\pm$ 0.0                  | 7.0 $\pm$ 0.0         | 8.0 $\pm$ 0.0         | 7.5 $\pm$ 0.0  | 8.0 $\pm$ 0.1            | 7.6 $\pm$ 0.1     | 7.0 $\pm$ 0.4      | 8.0 $\pm$ 0.0    | 6.6 $\pm$ 0.1    | 7.1 $\pm$ 0.1 |
 | meta-llamaLlama-3.2-1B-Instruct            | **355.5** | 7.5 $\pm$ 0.0               | 6.0 $\pm$ 0.0         | 7.8 $\pm$ 0.8            | 8.8 $\pm$ 0.2 | 6.5 $\pm$ 0.0                 | 6.2 $\pm$ 0.8                  | 6.2 $\pm$ 0.2         | 8.0 $\pm$ 0.0         | 7.5 $\pm$ 0.6  | 7.9 $\pm$ 0.4            | 7.0 $\pm$ 0.0     | 7.0 $\pm$ 0.5      | 7.8 $\pm$ 0.2    | 6.1 $\pm$ 0.2    | 7.1 $\pm$ 0.6 |
 | claude-3-opus-20240229                     | **354.5** | 8.5 $\pm$ 0.0               | 6.0 $\pm$ 0.0         | 7.6 $\pm$ 0.2            | 9.0 $\pm$ 0.0 | 6.9 $\pm$ 0.2                 | 6.2 $\pm$ 0.4                  | 6.9 $\pm$ 0.5         | 8.0 $\pm$ 0.0         | 7.6 $\pm$ 0.5  | 8.0 $\pm$ 0.0            | 7.6 $\pm$ 0.2     | 7.4 $\pm$ 0.4      | 7.9 $\pm$ 0.2    | 6.5 $\pm$ 0.0    | 7.2 $\pm$ 0.4 |
+| magistral-medium-2506                      | **354.4** | 8.1 $\pm$ 0.4               | 6.0 $\pm$ 0.1         | 7.9 $\pm$ 0.4            | 9.0 $\pm$ 0.0 | 6.8 $\pm$ 0.2                 | 6.0 $\pm$ 0.5                  | 6.6 $\pm$ 0.6         | 8.0 $\pm$ 0.0         | 7.4 $\pm$ 0.5  | 8.2 $\pm$ 0.2            | 7.4 $\pm$ 0.2     | 7.1 $\pm$ 0.5      | 7.9 $\pm$ 0.2    | 6.1 $\pm$ 0.6    | 7.0 $\pm$ 0.5 |
 | meta-llamallama-4-maverick                 | **354.1** | 8.5 $\pm$ 0.0               | 6.1 $\pm$ 0.2         | 7.7 $\pm$ 0.1            | 8.9 $\pm$ 0.2 | 7.0 $\pm$ 0.3                 | 6.4 $\pm$ 0.2                  | 6.6 $\pm$ 0.6         | 8.0 $\pm$ 0.1         | 7.4 $\pm$ 0.2  | 8.1 $\pm$ 0.1            | 7.7 $\pm$ 0.1     | 7.4 $\pm$ 0.2      | 8.0 $\pm$ 0.0    | 6.6 $\pm$ 0.1    | 7.3 $\pm$ 0.2 |
 | meta-llamallama-4-scout                    | **354.0** | 8.5 $\pm$ 0.0               | 6.2 $\pm$ 0.2         | 7.6 $\pm$ 0.1            | 9.0 $\pm$ 0.1 | 6.8 $\pm$ 0.3                 | 6.4 $\pm$ 0.4                  | 6.4 $\pm$ 0.9         | 8.0 $\pm$ 0.1         | 7.4 $\pm$ 0.5  | 8.1 $\pm$ 0.2            | 7.6 $\pm$ 0.1     | 7.2 $\pm$ 0.2      | 8.0 $\pm$ 0.0    | 6.5 $\pm$ 0.0    | 7.3 $\pm$ 0.3 |
 | qwen31.7b                                  | **353.7** | 8.2 $\pm$ 0.4               | 6.2 $\pm$ 0.2         | 7.8 $\pm$ 0.3            | 8.8 $\pm$ 0.2 | 6.6 $\pm$ 0.1                 | 6.1 $\pm$ 0.6                  | 7.1 $\pm$ 0.1         | 8.0 $\pm$ 0.0         | 7.7 $\pm$ 0.2  | 8.2 $\pm$ 0.2            | 8.0 $\pm$ 0.5     | 7.6 $\pm$ 0.1      | 8.1 $\pm$ 0.1    | 6.2 $\pm$ 0.3    | 7.5 $\pm$ 0.3 |
@@ -1848,6 +1849,32 @@
 | Cognitive Load               | 8.2 $\pm$ 0.2      |
 | Social Support               | 6.6 $\pm$ 0.1      |
 | Resilience                   | 7.8 $\pm$ 0.3      |
+
+
+
+
+
+
+### magistral-medium-2506
+
+
+| Personality Trait            | Score (1.0-10.0)   |
+|:-----------------------------|:-------------------|
+| Anxiety and Stress Levels    | 8.1 $\pm$ 0.4      |
+| Emotional Stability          | 6.0 $\pm$ 0.1      |
+| Problem-solving Skills       | 7.9 $\pm$ 0.4      |
+| Creativity                   | 9.0 $\pm$ 0.0      |
+| Interpersonal Relationships  | 6.8 $\pm$ 0.2      |
+| Confidence and Self-efficacy | 6.0 $\pm$ 0.5      |
+| Conflict Resolution          | 6.6 $\pm$ 0.6      |
+| Work-related Stress          | 8.0 $\pm$ 0.0      |
+| Adaptability                 | 7.4 $\pm$ 0.5      |
+| Achievement Motivation       | 8.2 $\pm$ 0.2      |
+| Fear of Failure              | 7.4 $\pm$ 0.2      |
+| Need for Control             | 7.1 $\pm$ 0.5      |
+| Cognitive Load               | 7.9 $\pm$ 0.2      |
+| Social Support               | 6.1 $\pm$ 0.6      |
+| Resilience                   | 7.0 $\pm$ 0.5      |
 
 
 

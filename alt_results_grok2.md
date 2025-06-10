@@ -130,6 +130,7 @@
 | gemma34b-it-q8_0                           | **351.0** | 8.5 $\pm$ 0.0               | 5.5 $\pm$ 0.9         | 7.1 $\pm$ 0.2            | 9.4 $\pm$ 0.2 | 6.8 $\pm$ 0.8                 | 6.1 $\pm$ 0.4                  | 6.9 $\pm$ 0.2         | 8.0 $\pm$ 0.0         | 7.6 $\pm$ 0.4  | 7.5 $\pm$ 0.4            | 7.4 $\pm$ 0.4     | 6.4 $\pm$ 0.4      | 8.2 $\pm$ 0.2    | 6.2 $\pm$ 0.8    | 7.1 $\pm$ 0.4 |
 | qwen2.51.5b-instruct-q6_K                  | **348.5** | 8.0 $\pm$ 0.5               | 6.0 $\pm$ 0.0         | 7.2 $\pm$ 0.2            | 8.0 $\pm$ 0.0 | 6.6 $\pm$ 0.2                 | 6.1 $\pm$ 0.2                  | 5.9 $\pm$ 0.6         | 8.0 $\pm$ 0.0         | 7.4 $\pm$ 0.6  | 7.6 $\pm$ 0.2            | 6.9 $\pm$ 0.2     | 6.9 $\pm$ 0.6      | 7.6 $\pm$ 0.2    | 6.4 $\pm$ 0.6    | 7.2 $\pm$ 0.4 |
 | thudmglm-4-32b                             | **347.5** | 8.1 $\pm$ 0.4               | 5.0 $\pm$ 1.0         | 7.5 $\pm$ 0.4            | 8.8 $\pm$ 0.4 | 6.4 $\pm$ 0.2                 | 6.2 $\pm$ 0.8                  | 6.0 $\pm$ 1.0         | 8.6 $\pm$ 0.4         | 7.2 $\pm$ 0.6  | 8.1 $\pm$ 0.4            | 7.5 $\pm$ 0.8     | 6.6 $\pm$ 0.6      | 7.9 $\pm$ 0.2    | 5.9 $\pm$ 0.2    | 7.2 $\pm$ 0.6 |
+| magistral-medium-2506                      | **347.5** | 8.0 $\pm$ 0.4               | 5.2 $\pm$ 0.4         | 7.4 $\pm$ 0.4            | 9.0 $\pm$ 0.0 | 6.4 $\pm$ 0.4                 | 6.4 $\pm$ 0.4                  | 5.6 $\pm$ 0.6         | 7.8 $\pm$ 0.4         | 7.9 $\pm$ 0.5  | 7.5 $\pm$ 0.6            | 6.9 $\pm$ 0.5     | 6.2 $\pm$ 0.4      | 7.8 $\pm$ 0.4    | 5.6 $\pm$ 0.6    | 7.0 $\pm$ 0.6 |
 | meta-llamallama-4-maverick                 | **347.0** | 8.5 $\pm$ 0.0               | 5.0 $\pm$ 1.0         | 7.5 $\pm$ 0.0            | 9.0 $\pm$ 0.0 | 6.6 $\pm$ 0.2                 | 6.2 $\pm$ 0.6                  | 5.2 $\pm$ 0.2         | 8.0 $\pm$ 0.0         | 7.4 $\pm$ 0.4  | 8.2 $\pm$ 0.2            | 7.5 $\pm$ 0.0     | 6.4 $\pm$ 0.4      | 8.0 $\pm$ 0.0    | 6.6 $\pm$ 0.2    | 7.2 $\pm$ 0.2 |
 | gemini-2.5-flash-preview-05-20             | **342.5** | 8.2 $\pm$ 0.2               | 5.5 $\pm$ 0.5         | 7.1 $\pm$ 0.2            | 9.0 $\pm$ 0.0 | 6.2 $\pm$ 0.2                 | 5.6 $\pm$ 1.1                  | 5.5 $\pm$ 1.7         | 8.1 $\pm$ 0.2         | 7.8 $\pm$ 0.2  | 6.9 $\pm$ 0.4            | 7.4 $\pm$ 0.4     | 6.0 $\pm$ 0.4      | 8.1 $\pm$ 0.2    | 6.6 $\pm$ 0.4    | 7.0 $\pm$ 0.4 |
 | gemini-2.5-pro-exp-03-25                   | **331.5** | 8.5 $\pm$ 0.0               | 4.2 $\pm$ 0.4         | 7.0 $\pm$ 0.0            | 9.1 $\pm$ 0.2 | 6.0 $\pm$ 0.4                 | 5.8 $\pm$ 0.2                  | 6.8 $\pm$ 0.4         | 8.0 $\pm$ 0.0         | 7.5 $\pm$ 0.0  | 7.2 $\pm$ 0.4            | 7.8 $\pm$ 0.2     | 6.2 $\pm$ 0.2      | 8.2 $\pm$ 0.2    | 5.2 $\pm$ 0.4    | 6.8 $\pm$ 0.2 |
@@ -1848,6 +1849,32 @@
 | Cognitive Load               | 7.8 $\pm$ 0.4      |
 | Social Support               | 6.1 $\pm$ 0.4      |
 | Resilience                   | 7.4 $\pm$ 0.2      |
+
+
+
+
+
+
+### magistral-medium-2506
+
+
+| Personality Trait            | Score (1.0-10.0)   |
+|:-----------------------------|:-------------------|
+| Anxiety and Stress Levels    | 8.0 $\pm$ 0.4      |
+| Emotional Stability          | 5.2 $\pm$ 0.4      |
+| Problem-solving Skills       | 7.4 $\pm$ 0.4      |
+| Creativity                   | 9.0 $\pm$ 0.0      |
+| Interpersonal Relationships  | 6.4 $\pm$ 0.4      |
+| Confidence and Self-efficacy | 6.4 $\pm$ 0.4      |
+| Conflict Resolution          | 5.6 $\pm$ 0.6      |
+| Work-related Stress          | 7.8 $\pm$ 0.4      |
+| Adaptability                 | 7.9 $\pm$ 0.5      |
+| Achievement Motivation       | 7.5 $\pm$ 0.6      |
+| Fear of Failure              | 6.9 $\pm$ 0.5      |
+| Need for Control             | 6.2 $\pm$ 0.4      |
+| Cognitive Load               | 7.8 $\pm$ 0.4      |
+| Social Support               | 5.6 $\pm$ 0.6      |
+| Resilience                   | 7.0 $\pm$ 0.6      |
 
 
 

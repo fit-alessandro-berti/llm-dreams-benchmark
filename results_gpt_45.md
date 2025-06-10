@@ -115,6 +115,7 @@
 | QwenQwen3-14B                              | **354.4** | 8.0 $\pm$ 0.6               | 4.9 $\pm$ 0.7         | 8.8 $\pm$ 0.3            | 9.6 $\pm$ 0.1  | 6.4 $\pm$ 0.2                 | 6.2 $\pm$ 0.6                  | 5.2 $\pm$ 0.2         | 7.6 $\pm$ 0.6         | 8.2 $\pm$ 0.2  | 8.9 $\pm$ 0.3            | 7.6 $\pm$ 0.7     | 7.6 $\pm$ 0.6      | 8.7 $\pm$ 0.5    | 6.3 $\pm$ 0.3    | 8.4 $\pm$ 0.3 |
 | meta-llamaMeta-Llama-3.1-8B-Instruct       | **354.0** | 8.5 $\pm$ 0.0               | 4.9 $\pm$ 0.2         | 7.8 $\pm$ 0.4            | 9.4 $\pm$ 0.2  | 6.5 $\pm$ 0.4                 | 5.9 $\pm$ 0.4                  | 7.4 $\pm$ 0.2         | 8.6 $\pm$ 0.4         | 7.8 $\pm$ 0.8  | 8.9 $\pm$ 0.2            | 7.5 $\pm$ 0.4     | 7.9 $\pm$ 0.2      | 9.0 $\pm$ 0.0    | 6.4 $\pm$ 0.2    | 8.0 $\pm$ 0.4 |
 | chatgpt-4o-latest-20250215                 | **353.5** | 8.2 $\pm$ 0.4               | 4.8 $\pm$ 0.8         | 8.4 $\pm$ 0.4            | 9.4 $\pm$ 0.2  | 6.1 $\pm$ 0.4                 | 6.5 $\pm$ 0.8                  | 6.1 $\pm$ 0.4         | 7.9 $\pm$ 0.2         | 8.1 $\pm$ 0.6  | 8.8 $\pm$ 0.2            | 7.6 $\pm$ 0.2     | 7.1 $\pm$ 0.2      | 8.5 $\pm$ 0.4    | 5.9 $\pm$ 0.4    | 8.0 $\pm$ 1.1 |
+| magistral-medium-2506                      | **353.4** | 8.2 $\pm$ 0.5               | 5.0 $\pm$ 1.1         | 8.4 $\pm$ 0.4            | 9.4 $\pm$ 0.1  | 6.5 $\pm$ 0.4                 | 6.2 $\pm$ 0.4                  | 6.1 $\pm$ 0.4         | 8.2 $\pm$ 0.2         | 8.2 $\pm$ 0.5  | 8.7 $\pm$ 0.4            | 7.7 $\pm$ 0.4     | 7.7 $\pm$ 0.7      | 8.8 $\pm$ 0.2    | 6.0 $\pm$ 0.4    | 8.0 $\pm$ 0.4 |
 | meta-llamallama-4-scout                    | **353.0** | 8.3 $\pm$ 0.5               | 4.7 $\pm$ 0.2         | 8.0 $\pm$ 0.4            | 9.3 $\pm$ 0.2  | 6.8 $\pm$ 0.2                 | 5.6 $\pm$ 0.4                  | 6.3 $\pm$ 0.8         | 8.2 $\pm$ 0.4         | 8.0 $\pm$ 0.6  | 8.8 $\pm$ 0.2            | 7.8 $\pm$ 0.6     | 7.4 $\pm$ 0.6      | 8.5 $\pm$ 0.0    | 7.0 $\pm$ 0.6    | 7.5 $\pm$ 0.6 |
 | googlegemma-2-2b-it                        | **352.0** | 8.6 $\pm$ 0.2               | 4.4 $\pm$ 0.6         | 8.4 $\pm$ 0.4            | 9.5 $\pm$ 0.0  | 6.2 $\pm$ 0.2                 | 5.8 $\pm$ 0.8                  | 7.0 $\pm$ 0.4         | 8.5 $\pm$ 0.4         | 8.1 $\pm$ 0.4  | 9.0 $\pm$ 0.0            | 8.1 $\pm$ 0.4     | 7.5 $\pm$ 0.4      | 8.8 $\pm$ 0.2    | 5.6 $\pm$ 0.5    | 8.5 $\pm$ 0.4 |
 | claude-4-sonnet-20250514                   | **351.7** | 8.1 $\pm$ 0.4               | 4.8 $\pm$ 1.1         | 8.1 $\pm$ 0.2            | 9.6 $\pm$ 0.1  | 6.1 $\pm$ 1.2                 | 6.0 $\pm$ 1.1                  | 5.3 $\pm$ 1.1         | 7.8 $\pm$ 0.2         | 8.9 $\pm$ 0.3  | 8.2 $\pm$ 0.5            | 7.5 $\pm$ 0.8     | 7.1 $\pm$ 0.1      | 8.6 $\pm$ 0.2    | 6.2 $\pm$ 1.2    | 8.1 $\pm$ 0.9 |
@@ -1848,6 +1849,32 @@
 | Cognitive Load               | 8.9 $\pm$ 0.3      |
 | Social Support               | 6.1 $\pm$ 0.5      |
 | Resilience                   | 8.4 $\pm$ 0.4      |
+
+
+
+
+
+
+### magistral-medium-2506
+
+
+| Personality Trait            | Score (1.0-10.0)   |
+|:-----------------------------|:-------------------|
+| Anxiety and Stress Levels    | 8.2 $\pm$ 0.5      |
+| Emotional Stability          | 5.0 $\pm$ 1.1      |
+| Problem-solving Skills       | 8.4 $\pm$ 0.4      |
+| Creativity                   | 9.4 $\pm$ 0.1      |
+| Interpersonal Relationships  | 6.5 $\pm$ 0.4      |
+| Confidence and Self-efficacy | 6.2 $\pm$ 0.4      |
+| Conflict Resolution          | 6.1 $\pm$ 0.4      |
+| Work-related Stress          | 8.2 $\pm$ 0.2      |
+| Adaptability                 | 8.2 $\pm$ 0.5      |
+| Achievement Motivation       | 8.7 $\pm$ 0.4      |
+| Fear of Failure              | 7.7 $\pm$ 0.4      |
+| Need for Control             | 7.7 $\pm$ 0.7      |
+| Cognitive Load               | 8.8 $\pm$ 0.2      |
+| Social Support               | 6.0 $\pm$ 0.4      |
+| Resilience                   | 8.0 $\pm$ 0.4      |
 
 
 

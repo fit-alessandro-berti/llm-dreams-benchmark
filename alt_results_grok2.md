@@ -99,6 +99,7 @@
 | grok-3-beta                                | **374.5** | 8.0 $\pm$ 0.5               | 6.0 $\pm$ 0.0         | 7.8 $\pm$ 0.2            | 9.0 $\pm$ 0.0 | 7.0 $\pm$ 0.0                 | 6.9 $\pm$ 0.4                  | 6.9 $\pm$ 0.2         | 8.1 $\pm$ 0.2         | 8.1 $\pm$ 0.2  | 8.4 $\pm$ 0.2            | 7.0 $\pm$ 0.5     | 7.0 $\pm$ 0.0      | 7.9 $\pm$ 0.2    | 7.5 $\pm$ 0.0    | 7.9 $\pm$ 0.2 |
 | gemini-2.5-pro-preview-05-06               | **374.0** | 7.8 $\pm$ 0.4               | 5.8 $\pm$ 0.4         | 7.5 $\pm$ 0.6            | 9.0 $\pm$ 0.4 | 7.0 $\pm$ 0.0                 | 6.4 $\pm$ 0.2                  | 7.6 $\pm$ 0.5         | 7.8 $\pm$ 0.4         | 8.0 $\pm$ 0.6  | 7.8 $\pm$ 0.8            | 6.6 $\pm$ 0.2     | 6.1 $\pm$ 0.6      | 7.6 $\pm$ 0.4    | 7.2 $\pm$ 0.4    | 7.6 $\pm$ 0.4 |
 | googlegemma-2-2b-it                        | **373.5** | 8.2 $\pm$ 0.2               | 6.0 $\pm$ 0.0         | 7.5 $\pm$ 0.0            | 9.0 $\pm$ 0.0 | 7.0 $\pm$ 0.0                 | 6.6 $\pm$ 0.2                  | 6.9 $\pm$ 0.2         | 8.2 $\pm$ 0.2         | 8.0 $\pm$ 0.0  | 8.4 $\pm$ 0.2            | 7.2 $\pm$ 0.2     | 6.4 $\pm$ 0.4      | 7.8 $\pm$ 0.2    | 7.4 $\pm$ 0.2    | 8.0 $\pm$ 0.0 |
+| gemini-2.5-flash-lite-preview-06-17        | **373.0** | 8.0 $\pm$ 0.5               | 6.0 $\pm$ 0.0         | 7.9 $\pm$ 0.2            | 9.0 $\pm$ 0.0 | 6.9 $\pm$ 0.2                 | 7.4 $\pm$ 0.2                  | 6.2 $\pm$ 0.4         | 8.0 $\pm$ 0.0         | 8.4 $\pm$ 0.2  | 8.4 $\pm$ 0.4            | 6.6 $\pm$ 0.6     | 6.9 $\pm$ 0.4      | 8.1 $\pm$ 0.2    | 6.8 $\pm$ 0.6    | 8.0 $\pm$ 0.4 |
 | gemini-2.0-pro-exp-02-05                   | **372.0** | 8.2 $\pm$ 0.4               | 6.0 $\pm$ 0.0         | 8.0 $\pm$ 0.4            | 9.0 $\pm$ 0.0 | 7.2 $\pm$ 0.2                 | 6.9 $\pm$ 0.2                  | 6.4 $\pm$ 0.2         | 8.0 $\pm$ 0.0         | 8.4 $\pm$ 0.2  | 8.0 $\pm$ 0.4            | 7.4 $\pm$ 0.2     | 6.2 $\pm$ 0.2      | 8.0 $\pm$ 0.0    | 7.1 $\pm$ 0.2    | 7.9 $\pm$ 0.2 |
 | claude-3-5-sonnet-20241022                 | **371.0** | 7.8 $\pm$ 0.8               | 6.0 $\pm$ 0.7         | 7.6 $\pm$ 0.4            | 9.5 $\pm$ 0.0 | 6.9 $\pm$ 0.5                 | 6.8 $\pm$ 0.2                  | 6.8 $\pm$ 1.2         | 7.6 $\pm$ 1.0         | 8.4 $\pm$ 0.5  | 7.4 $\pm$ 0.4            | 6.8 $\pm$ 0.8     | 6.1 $\pm$ 0.2      | 8.1 $\pm$ 0.2    | 7.0 $\pm$ 0.4    | 7.6 $\pm$ 0.4 |
 | DeepSeek-V3-0324                           | **370.0** | 8.1 $\pm$ 0.4               | 6.0 $\pm$ 0.0         | 7.9 $\pm$ 0.4            | 9.0 $\pm$ 0.0 | 7.0 $\pm$ 0.0                 | 7.0 $\pm$ 0.5                  | 6.8 $\pm$ 0.2         | 8.1 $\pm$ 0.2         | 8.2 $\pm$ 0.2  | 8.1 $\pm$ 0.2            | 7.0 $\pm$ 0.6     | 7.0 $\pm$ 0.4      | 7.9 $\pm$ 0.2    | 7.0 $\pm$ 0.4    | 7.4 $\pm$ 0.2 |
@@ -993,6 +994,32 @@
 | Cognitive Load               | 8.0 $\pm$ 0.0      |
 | Social Support               | 7.1 $\pm$ 0.2      |
 | Resilience                   | 7.9 $\pm$ 0.2      |
+
+
+
+
+
+
+### gemini-2.5-flash-lite-preview-06-17
+
+
+| Personality Trait            | Score (1.0-10.0)   |
+|:-----------------------------|:-------------------|
+| Anxiety and Stress Levels    | 8.0 $\pm$ 0.5      |
+| Emotional Stability          | 6.0 $\pm$ 0.0      |
+| Problem-solving Skills       | 7.9 $\pm$ 0.2      |
+| Creativity                   | 9.0 $\pm$ 0.0      |
+| Interpersonal Relationships  | 6.9 $\pm$ 0.2      |
+| Confidence and Self-efficacy | 7.4 $\pm$ 0.2      |
+| Conflict Resolution          | 6.2 $\pm$ 0.4      |
+| Work-related Stress          | 8.0 $\pm$ 0.0      |
+| Adaptability                 | 8.4 $\pm$ 0.2      |
+| Achievement Motivation       | 8.4 $\pm$ 0.4      |
+| Fear of Failure              | 6.6 $\pm$ 0.6      |
+| Need for Control             | 6.9 $\pm$ 0.4      |
+| Cognitive Load               | 8.1 $\pm$ 0.2      |
+| Social Support               | 6.8 $\pm$ 0.6      |
+| Resilience                   | 8.0 $\pm$ 0.4      |
 
 
 

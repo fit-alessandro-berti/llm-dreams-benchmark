@@ -145,6 +145,13 @@ def get_evaluation_google(text):
         ]
     }
 
+    if "gemini-2.5" in Shared.evaluating_model_name:
+        payload["generationConfig"] = {
+            "thinkingConfig": {
+                "thinkingBudget": 0
+            }
+        }
+
     response_message = ""
     response = None
 

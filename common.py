@@ -50,7 +50,13 @@ ALL_JUDGES = {
         "git_table_result": "alt_results_gpt41-mini.md",
         "evaluation_api_url": "https://api.openai.com/v1/",
         "api_key": open("../api_openai.txt", "r").read().strip(),
-    }
+    },
+    "gpt-4.1": {
+        "evaluation_folder": "evaluations-gpt41",
+        "git_table_result": "alt_results_gpt41.md",
+        "evaluation_api_url": "https://api.openai.com/v1/",
+        "api_key": open("../api_openai.txt", "r").read().strip(),
+    },
 }
 
 
@@ -72,7 +78,8 @@ def get_evaluation_folder(evaluating_model_name=None):
         return ALL_JUDGES["claude-sonnet-4-20250514"]["evaluation_folder"]
     elif "gpt-4.1-mini" in evaluating_model_name:
         return ALL_JUDGES["gpt-4.1-mini"]["evaluation_folder"]
-
+    elif "gpt-4.1" in evaluating_model_name:
+        return ALL_JUDGES["gpt-4.1"]["evaluation_folder"]
 
 def get_git_table_result(evaluating_model_name=None):
     if evaluating_model_name is None:
@@ -92,7 +99,8 @@ def get_git_table_result(evaluating_model_name=None):
         return ALL_JUDGES["claude-sonnet-4-20250514"]["git_table_result"]
     elif "gpt-4.1-mini" in evaluating_model_name:
         return ALL_JUDGES["gpt-4.1-mini"]["git_table_result"]
-
+    elif "gpt-4.1" in evaluating_model_name:
+        return ALL_JUDGES["gpt-4.1"]["git_table_result"]
 
 def get_evaluation_api_url(evaluating_model_name=None):
     if evaluating_model_name is None:
@@ -110,6 +118,8 @@ def get_evaluation_api_url(evaluating_model_name=None):
         return ALL_JUDGES["claude-sonnet-4-20250514"]["evaluation_api_url"]
     elif "gpt-4.1-mini" in evaluating_model_name:
         return ALL_JUDGES["gpt-4.1-mini"]["evaluation_api_url"]
+    elif "gpt-4.1" in evaluating_model_name:
+        return ALL_JUDGES["gpt-4.1"]["evaluation_api_url"]
 
 
 def get_manual(evaluating_model_name=None):
@@ -137,7 +147,8 @@ def get_api_key(evaluating_model_name=None):
         return ALL_JUDGES["claude-sonnet-4-20250514"]["api_key"]
     elif "gpt-4.1-mini" in evaluating_model_name:
         return ALL_JUDGES["gpt-4.1-mini"]["api_key"]
-
+    elif "gpt-4.1" in evaluating_model_name:
+        return ALL_JUDGES["gpt-4.1"]["api_key"]
 
 #EVALUATION_FOLDER = get_evaluation_folder()
 #TARGET_GIT_TABLE_RESULT = get_git_table_result()

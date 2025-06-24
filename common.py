@@ -21,12 +21,6 @@ ALL_JUDGES = {
         "evaluation_api_url": "https://api.mistral.ai/v1/",
         "api_key": open("../api_mistral.txt", "r").read().strip(),
     },
-    "gpt-4o": {
-        "evaluation_folder": "evaluations-gpt4o",
-        "git_table_result": "alt_results_gpt_4o.md",
-        "evaluation_api_url": "https://api.x.ai/v1/",
-        "api_key": open("../api_openai.txt", "r").read().strip(),
-    },
     "grok-3": {
         "evaluation_folder": "evaluations-grok3",
         "git_table_result": "alt_results_grok3.md",

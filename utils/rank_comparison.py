@@ -27,7 +27,6 @@ JUDGES = {
     "grok-2-1212": interpret(open(os.path.join("..", "alt_results_grok2.md"), "r").read()),
     "mistral-small-2503": interpret(open(os.path.join("..", "alt_results_mistral-small-2503.md"), "r").read()),
     "gemini-2.0-flash": interpret(open(os.path.join("..", "alt_results_gemini2_flash.md"), "r").read()),
-    "claude-3-5-sonnet": interpret(open(os.path.join("..", "alt_results_claude-35-sonnet.md"), "r").read()),
     "claude-sonnet-4": interpret(open(os.path.join("..", "alt_results_claude-40-sonnet.md"), "r").read()),
     "gpt-4.1-mini": interpret(open(os.path.join("..", "alt_results_gpt41-mini.md"), "r").read()),
 }

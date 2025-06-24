@@ -139,6 +139,7 @@
 | gemini-2.0-flash-lite-preview-02-05        | **360.7** | 8.0 $\pm$ 0.4               | 5.6 $\pm$ 0.2         | 8.4 $\pm$ 0.3            | 9.6 $\pm$ 0.1  | 6.6 $\pm$ 0.4                 | 5.9 $\pm$ 0.4                  | 5.9 $\pm$ 0.3         | 8.4 $\pm$ 0.3         | 7.9 $\pm$ 0.4  | 7.8 $\pm$ 0.2            | 8.0 $\pm$ 0.5     | 7.0 $\pm$ 0.1      | 8.6 $\pm$ 0.4    | 7.3 $\pm$ 0.3    | 8.2 $\pm$ 0.5 |
 | claude-3-5-haiku-20241022                  | **358.4** | 7.4 $\pm$ 0.3               | 5.5 $\pm$ 0.4         | 8.5 $\pm$ 0.4            | 9.4 $\pm$ 0.2  | 6.2 $\pm$ 0.2                 | 5.8 $\pm$ 0.6                  | 6.0 $\pm$ 0.3         | 7.9 $\pm$ 0.5         | 8.2 $\pm$ 0.3  | 8.0 $\pm$ 0.6            | 7.4 $\pm$ 0.4     | 6.9 $\pm$ 0.4      | 8.2 $\pm$ 0.3    | 6.2 $\pm$ 0.5    | 7.8 $\pm$ 0.3 |
 | thudmglm-4-32b                             | **357.8** | 7.9 $\pm$ 0.4               | 5.6 $\pm$ 1.1         | 8.2 $\pm$ 0.7            | 9.6 $\pm$ 0.4  | 6.5 $\pm$ 0.0                 | 5.5 $\pm$ 1.5                  | 7.0 $\pm$ 1.3         | 8.4 $\pm$ 0.4         | 7.7 $\pm$ 0.5  | 8.0 $\pm$ 0.7            | 8.0 $\pm$ 0.5     | 7.3 $\pm$ 0.5      | 8.6 $\pm$ 0.4    | 6.5 $\pm$ 0.8    | 8.1 $\pm$ 0.5 |
+| mistral-small-2506                         | **354.4** | 8.5 $\pm$ 0.0               | 4.9 $\pm$ 0.9         | 8.3 $\pm$ 0.4            | 9.6 $\pm$ 0.2  | 6.4 $\pm$ 0.7                 | 6.5 $\pm$ 0.7                  | 5.7 $\pm$ 1.0         | 8.4 $\pm$ 0.4         | 8.1 $\pm$ 0.4  | 8.2 $\pm$ 0.7            | 7.8 $\pm$ 0.2     | 6.9 $\pm$ 0.2      | 8.7 $\pm$ 0.2    | 6.6 $\pm$ 0.7    | 7.8 $\pm$ 0.4 |
 ## Individual Results
 
 
@@ -2424,6 +2425,32 @@
 | Cognitive Load               | 8.2 $\pm$ 0.3      |
 | Social Support               | 8.5 $\pm$ 0.0      |
 | Resilience                   | 9.1 $\pm$ 0.2      |
+
+
+
+
+
+
+### mistral-small-2506
+
+
+| Personality Trait            | Score (1.0-10.0)   |
+|:-----------------------------|:-------------------|
+| Anxiety and Stress Levels    | 8.5 $\pm$ 0.0      |
+| Emotional Stability          | 4.9 $\pm$ 0.9      |
+| Problem-solving Skills       | 8.3 $\pm$ 0.4      |
+| Creativity                   | 9.6 $\pm$ 0.2      |
+| Interpersonal Relationships  | 6.4 $\pm$ 0.7      |
+| Confidence and Self-efficacy | 6.5 $\pm$ 0.7      |
+| Conflict Resolution          | 5.7 $\pm$ 1.0      |
+| Work-related Stress          | 8.4 $\pm$ 0.4      |
+| Adaptability                 | 8.1 $\pm$ 0.4      |
+| Achievement Motivation       | 8.2 $\pm$ 0.7      |
+| Fear of Failure              | 7.8 $\pm$ 0.2      |
+| Need for Control             | 6.9 $\pm$ 0.2      |
+| Cognitive Load               | 8.7 $\pm$ 0.2      |
+| Social Support               | 6.6 $\pm$ 0.7      |
+| Resilience                   | 7.8 $\pm$ 0.4      |
 
 
 

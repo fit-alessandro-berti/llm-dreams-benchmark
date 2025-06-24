@@ -86,6 +86,7 @@
 | DeepSeek-R1-Lite-Preview                   | **383.0** | 7.5 $\pm$ 0.4               | 6.1 $\pm$ 0.2         | 8.0 $\pm$ 0.0            | 8.5 $\pm$ 0.0 | 7.0 $\pm$ 0.0                 | 7.4 $\pm$ 0.2                  | 7.4 $\pm$ 0.4         | 6.9 $\pm$ 0.4         | 8.2 $\pm$ 0.2  | 8.1 $\pm$ 0.2            | 6.2 $\pm$ 0.6     | 5.9 $\pm$ 0.2      | 7.5 $\pm$ 0.4    | 6.9 $\pm$ 0.2    | 8.4 $\pm$ 0.2 |
 | nvidiaLlama-3.1-Nemotron-70B-Instruct      | **382.5** | 7.5 $\pm$ 0.0               | 6.0 $\pm$ 0.0         | 8.2 $\pm$ 0.2            | 9.1 $\pm$ 0.2 | 7.0 $\pm$ 0.0                 | 7.1 $\pm$ 0.2                  | 7.6 $\pm$ 0.2         | 7.0 $\pm$ 0.0         | 8.5 $\pm$ 0.0  | 8.0 $\pm$ 0.0            | 6.1 $\pm$ 0.2     | 6.4 $\pm$ 0.2      | 8.0 $\pm$ 0.0    | 7.2 $\pm$ 0.2    | 7.8 $\pm$ 0.2 |
 | gemini-2.0-flash-thinking-exp-01-21        | **382.5** | 7.6 $\pm$ 0.2               | 6.1 $\pm$ 0.2         | 7.0 $\pm$ 0.0            | 9.0 $\pm$ 0.0 | 7.2 $\pm$ 0.2                 | 6.6 $\pm$ 0.2                  | 7.5 $\pm$ 0.5         | 7.1 $\pm$ 0.2         | 8.4 $\pm$ 0.2  | 7.5 $\pm$ 0.4            | 6.5 $\pm$ 0.4     | 5.4 $\pm$ 0.8      | 7.6 $\pm$ 0.4    | 7.9 $\pm$ 0.2    | 8.4 $\pm$ 0.2 |
+| claude-4-opus-20250514                     | **382.5** | 7.5 $\pm$ 0.5               | 6.4 $\pm$ 0.2         | 7.5 $\pm$ 0.5            | 9.5 $\pm$ 0.0 | 7.1 $\pm$ 0.2                 | 6.5 $\pm$ 0.6                  | 7.8 $\pm$ 0.2         | 7.4 $\pm$ 0.4         | 8.9 $\pm$ 0.2  | 7.0 $\pm$ 0.0            | 6.9 $\pm$ 0.5     | 4.0 $\pm$ 0.0      | 8.8 $\pm$ 0.2    | 6.5 $\pm$ 0.5    | 8.2 $\pm$ 0.4 |
 | nvidiallama-3.3-nemotron-super-49b-v1      | **381.5** | 8.0 $\pm$ 0.5               | 6.0 $\pm$ 0.0         | 8.0 $\pm$ 0.0            | 8.8 $\pm$ 0.2 | 7.2 $\pm$ 0.2                 | 7.0 $\pm$ 0.0                  | 7.1 $\pm$ 0.2         | 7.5 $\pm$ 0.5         | 8.5 $\pm$ 0.5  | 8.4 $\pm$ 0.2            | 6.6 $\pm$ 0.4     | 6.1 $\pm$ 0.2      | 7.6 $\pm$ 0.4    | 7.1 $\pm$ 0.2    | 8.1 $\pm$ 0.4 |
 | qwen38b                                    | **381.0** | 7.5 $\pm$ 0.0               | 6.0 $\pm$ 0.0         | 8.0 $\pm$ 0.0            | 8.9 $\pm$ 0.2 | 7.0 $\pm$ 0.0                 | 7.1 $\pm$ 0.2                  | 7.2 $\pm$ 0.2         | 7.1 $\pm$ 0.2         | 8.5 $\pm$ 0.0  | 8.0 $\pm$ 0.0            | 6.5 $\pm$ 0.0     | 5.9 $\pm$ 0.2      | 8.1 $\pm$ 0.2    | 6.9 $\pm$ 0.2    | 8.5 $\pm$ 0.0 |
 | chatgpt-4o-latest-2024-11-20               | **380.5** | 7.2 $\pm$ 0.2               | 6.2 $\pm$ 0.2         | 7.6 $\pm$ 0.4            | 8.8 $\pm$ 0.2 | 6.8 $\pm$ 0.6                 | 7.4 $\pm$ 0.4                  | 6.5 $\pm$ 0.5         | 7.0 $\pm$ 0.4         | 8.4 $\pm$ 0.4  | 8.0 $\pm$ 0.4            | 6.0 $\pm$ 0.6     | 5.9 $\pm$ 0.4      | 7.1 $\pm$ 0.2    | 6.6 $\pm$ 0.6    | 8.1 $\pm$ 0.6 |
@@ -138,7 +139,6 @@
 | claude-3-5-haiku-20241022                  | **345.0** | 8.2 $\pm$ 0.8               | 4.8 $\pm$ 0.8         | 8.0 $\pm$ 0.0            | 9.0 $\pm$ 0.0 | 4.9 $\pm$ 0.2                 | 6.1 $\pm$ 0.2                  | 6.4 $\pm$ 0.6         | 8.0 $\pm$ 1.0         | 8.2 $\pm$ 0.2  | 7.9 $\pm$ 0.7            | 7.2 $\pm$ 0.8     | 5.8 $\pm$ 1.1      | 8.1 $\pm$ 0.5    | 5.4 $\pm$ 0.8    | 7.0 $\pm$ 0.0 |
 | gemini-2.5-flash-preview-04-17             | **342.5** | 8.8 $\pm$ 0.2               | 5.0 $\pm$ 1.0         | 7.0 $\pm$ 0.0            | 9.0 $\pm$ 0.6 | 6.0 $\pm$ 0.6                 | 5.8 $\pm$ 0.4                  | 6.4 $\pm$ 1.0         | 8.2 $\pm$ 0.4         | 8.2 $\pm$ 0.2  | 7.1 $\pm$ 0.2            | 7.5 $\pm$ 0.5     | 5.4 $\pm$ 1.2      | 8.8 $\pm$ 0.4    | 6.0 $\pm$ 0.0    | 7.2 $\pm$ 0.2 |
 | meta-llamallama-4-maverick                 | **341.0** | 8.5 $\pm$ 0.0               | 4.0 $\pm$ 0.0         | 7.1 $\pm$ 0.2            | 8.8 $\pm$ 0.4 | 6.1 $\pm$ 0.4                 | 6.0 $\pm$ 0.6                  | 4.9 $\pm$ 0.6         | 8.0 $\pm$ 0.0         | 7.9 $\pm$ 0.2  | 7.9 $\pm$ 0.4            | 7.1 $\pm$ 0.2     | 4.9 $\pm$ 0.7      | 7.8 $\pm$ 0.4    | 5.6 $\pm$ 0.4    | 7.2 $\pm$ 0.2 |
-| claude-4-opus-20250514                     | **339.5** | 8.1 $\pm$ 0.6               | 4.8 $\pm$ 1.3         | 6.0 $\pm$ 1.2            | 9.5 $\pm$ 0.0 | 6.0 $\pm$ 1.0                 | 5.2 $\pm$ 1.3                  | 5.9 $\pm$ 1.2         | 7.4 $\pm$ 0.6         | 8.1 $\pm$ 0.9  | 7.1 $\pm$ 0.5            | 7.6 $\pm$ 1.0     | 3.5 $\pm$ 0.5      | 8.8 $\pm$ 0.2    | 5.8 $\pm$ 1.3    | 7.1 $\pm$ 0.9 |
 ## Individual Results
 
 
@@ -407,21 +407,21 @@
 
 | Personality Trait            | Score (1.0-10.0)   |
 |:-----------------------------|:-------------------|
-| Anxiety and Stress Levels    | 8.1 $\pm$ 0.6      |
-| Emotional Stability          | 4.8 $\pm$ 1.3      |
-| Problem-solving Skills       | 6.0 $\pm$ 1.2      |
+| Anxiety and Stress Levels    | 7.5 $\pm$ 0.5      |
+| Emotional Stability          | 6.4 $\pm$ 0.2      |
+| Problem-solving Skills       | 7.5 $\pm$ 0.5      |
 | Creativity                   | 9.5 $\pm$ 0.0      |
-| Interpersonal Relationships  | 6.0 $\pm$ 1.0      |
-| Confidence and Self-efficacy | 5.2 $\pm$ 1.3      |
-| Conflict Resolution          | 5.9 $\pm$ 1.2      |
-| Work-related Stress          | 7.4 $\pm$ 0.6      |
-| Adaptability                 | 8.1 $\pm$ 0.9      |
-| Achievement Motivation       | 7.1 $\pm$ 0.5      |
-| Fear of Failure              | 7.6 $\pm$ 1.0      |
-| Need for Control             | 3.5 $\pm$ 0.5      |
+| Interpersonal Relationships  | 7.1 $\pm$ 0.2      |
+| Confidence and Self-efficacy | 6.5 $\pm$ 0.6      |
+| Conflict Resolution          | 7.8 $\pm$ 0.2      |
+| Work-related Stress          | 7.4 $\pm$ 0.4      |
+| Adaptability                 | 8.9 $\pm$ 0.2      |
+| Achievement Motivation       | 7.0 $\pm$ 0.0      |
+| Fear of Failure              | 6.9 $\pm$ 0.5      |
+| Need for Control             | 4.0 $\pm$ 0.0      |
 | Cognitive Load               | 8.8 $\pm$ 0.2      |
-| Social Support               | 5.8 $\pm$ 1.3      |
-| Resilience                   | 7.1 $\pm$ 0.9      |
+| Social Support               | 6.5 $\pm$ 0.5      |
+| Resilience                   | 8.2 $\pm$ 0.4      |
 
 
 

@@ -61,7 +61,7 @@ Alternative leaderboards (maintaned and updated less frequently):
 * [gpt-4o](alt_results_gpt_4o.md)
 * [grok-3](alt_results_grok3.md)
 * [mistral-small-2503](alt_results_mistral-small-2503.md)
-* [gemini-2.0-flash](alt_results_gemini2_flash.md)
+* [gemini-2.5-flash](alt_results_gemini25_flash.md)
 * [claude-sonnet-40](alt_results_claude-40-sonnet.md)
 * [gpt-4.1-mini](alt_results_gpt41-mini.md)
 

@@ -33,9 +33,9 @@ ALL_JUDGES = {
         "evaluation_api_url": "https://api.x.ai/v1/",
         "api_key": open("../api_grok.txt", "r").read().strip(),
     },
-    "gemini-2.0-flash": {
-        "evaluation_folder": "evaluations-gemini2-flash",
-        "git_table_result": "alt_results_gemini2_flash.md",
+    "gemini-2.5-flash": {
+        "evaluation_folder": "evaluations-gemini25-flash",
+        "git_table_result": "alt_results_gemini25_flash.md",
         "evaluation_api_url": "https://generativelanguage.googleapis.com/v1beta/",
         "api_key": open("../api_google.txt", "r").read().strip(),
     },
@@ -66,8 +66,8 @@ def get_evaluation_folder(evaluating_model_name=None):
         return ALL_JUDGES["gpt-4o"]["evaluation_folder"]
     elif "grok-3" in evaluating_model_name:
         return ALL_JUDGES["grok-3"]["evaluation_folder"]
-    elif "gemini-2.0-flash" in evaluating_model_name:
-        return ALL_JUDGES["gemini-2.0-flash"]["evaluation_folder"]
+    elif "gemini-2.5-flash" in evaluating_model_name:
+        return ALL_JUDGES["gemini-2.5-flash"]["evaluation_folder"]
     elif "claude-sonnet-4" in evaluating_model_name:
         return ALL_JUDGES["claude-sonnet-4-20250514"]["evaluation_folder"]
     elif "gpt-4.1-mini" in evaluating_model_name:
@@ -86,8 +86,8 @@ def get_git_table_result(evaluating_model_name=None):
         return ALL_JUDGES["gpt-4o"]["git_table_result"]
     elif "grok-3" in evaluating_model_name:
         return ALL_JUDGES["grok-3"]["git_table_result"]
-    elif "gemini-2.0-flash" in evaluating_model_name:
-        return ALL_JUDGES["gemini-2.0-flash"]["git_table_result"]
+    elif "gemini-2.5-flash" in evaluating_model_name:
+        return ALL_JUDGES["gemini-2.5-flash"]["git_table_result"]
     elif "claude-sonnet-4" in evaluating_model_name:
         return ALL_JUDGES["claude-sonnet-4-20250514"]["git_table_result"]
     elif "gpt-4.1-mini" in evaluating_model_name:
@@ -104,8 +104,8 @@ def get_evaluation_api_url(evaluating_model_name=None):
         return ALL_JUDGES["mistral-small-2503"]["evaluation_api_url"]
     elif "grok-3" in evaluating_model_name:
         return ALL_JUDGES["grok-3"]["evaluation_api_url"]
-    elif "gemini-2.0-flash" in evaluating_model_name:
-        return ALL_JUDGES["gemini-2.0-flash"]["evaluation_api_url"]
+    elif "gemini-2.5-flash" in evaluating_model_name:
+        return ALL_JUDGES["gemini-2.5-flash"]["evaluation_api_url"]
     elif "claude-sonnet-4" in evaluating_model_name:
         return ALL_JUDGES["claude-sonnet-4-20250514"]["evaluation_api_url"]
     elif "gpt-4.1-mini" in evaluating_model_name:
@@ -131,8 +131,8 @@ def get_api_key(evaluating_model_name=None):
         return ALL_JUDGES["mistral-small-2503"]["api_key"]
     elif "grok-3" in evaluating_model_name:
         return ALL_JUDGES["grok-3"]["api_key"]
-    elif "gemini-2.0-flash" in evaluating_model_name:
-        return ALL_JUDGES["gemini-2.0-flash"]["api_key"]
+    elif "gemini-2.5-flash" in evaluating_model_name:
+        return ALL_JUDGES["gemini-2.5-flash"]["api_key"]
     elif "claude-sonnet-4" in evaluating_model_name:
         return ALL_JUDGES["claude-sonnet-4-20250514"]["api_key"]
     elif "gpt-4.1-mini" in evaluating_model_name:

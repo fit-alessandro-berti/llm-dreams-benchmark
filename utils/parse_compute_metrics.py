@@ -1,6 +1,8 @@
 from typing import Dict
 import numpy as np
 import pandas as pd
+import sys
+import os
 
 ALL_STDS = []
 
@@ -46,11 +48,9 @@ def parse_markdown_table(file_path: str) -> Dict[str, Dict[str, float]]:
         return result
 
     except FileNotFoundError:
-        print(f"Error: File '{file_path}' not found")
-        return {}
+        raise FileNotFoundError(f"Error: File '{file_path}' not found")
     except Exception as e:
-        print(f"Error processing file: {str(e)}")
-        return {}
+        raise Exception(f"Error processing file: {str(e)}")
 
 
 def analyze_variability(data: Dict[str, Dict[str, float]]) -> Dict:
@@ -124,53 +124,94 @@ def analyze_variability(data: Dict[str, Dict[str, float]]) -> Dict:
     return results
 
 
-def main():
-    file_path = "../alt_results_claude-35-sonnet.md"  # Replace with your actual file path
+def write_results(output_path: str, variability_metrics: Dict, std_stats: tuple):
+    """
+    Write all results to the specified output file.
 
-    # Parse the table
-    parsed_data = parse_markdown_table(file_path)
+    Args:
+        output_path (str): Path to the output file
+        variability_metrics (Dict): Computed variability metrics
+        std_stats (tuple): Standard deviation statistics (min, first_quart, median, third_quart, max)
+    """
+    with open(output_path, 'w', encoding='utf-8') as f:
+        # Write standard deviation statistics
+        f.write("STD of single entries:\tmin=%.3f\t1st_quart=%.3f\tmedian=%.3f\t3rd_quart=%.3f\tmax=%.3f\n" % std_stats)
 
-    std_min = ALL_STDS[0]
-    std_max = ALL_STDS[-1]
-    std_median = ALL_STDS[int((len(ALL_STDS)-1)*0.5)]
-    std_first = ALL_STDS[int((len(ALL_STDS)-1)*0.25)]
-    std_third = ALL_STDS[int((len(ALL_STDS)-1)*0.75)]
+        # Write variability analysis results
+        f.write("\nVariability Analysis Results (considering the AVG in each AVG ± STDEV tabular value):\n")
+        f.write("\n1. Basic Statistics:\n")
+        for stat, values in variability_metrics['basic_stats'].items():
+            f.write(f"\n{stat.capitalize()}:\n")
+            for metric, value in values.items():
+                f.write(f"  {metric}: {value:.3f}\n")
 
-    print("STD of single entries:\tmin=%.3f\t1st_quart=%.3f\tmedian=%.3f\t3rd_quart=%.3f\tmax=%.3f" % (std_min, std_first, std_median, std_third, std_max))
+        f.write("\n2. UMAP Analysis:\n")
+        f.write(f"  Variance UMAP1: {variability_metrics['umap']['variance_umap1']:.3f}\n")
+        f.write(f"  Variance UMAP2: {variability_metrics['umap']['variance_umap2']:.3f}\n")
+        f.write(f"  Total variance: {variability_metrics['umap']['total_variance']:.3f}\n")
+        f.write(f"  Range UMAP1: {variability_metrics['umap']['range_umap1']:.3f}\n")
+        f.write(f"  Range UMAP2: {variability_metrics['umap']['range_umap2']:.3f}\n")
+        f.write("  Sample embeddings (first 3 LLMs):\n")
+        for llm, coords in list(variability_metrics['umap']['embedding'].items())[:3]:
+            f.write(f"    {llm}: UMAP1={coords['UMAP1']:.3f}, UMAP2={coords['UMAP2']:.3f}\n")
 
-    # Analyze variability
-    variability_metrics = analyze_variability(parsed_data)
+        f.write("\n3. Correlation Analysis:\n")
+        f.write(f"  Mean absolute correlation: {variability_metrics['correlation']['mean_abs_correlation']:.3f}\n")
+        f.write(f"  Maximum correlation: {variability_metrics['correlation']['max_correlation']:.3f}\n")
+        f.write("  Highly correlated pairs (|r| > 0.7):\n")
+        for pair in variability_metrics['correlation']['highly_correlated_pairs']:
+            f.write(f"    {pair[0]} - {pair[1]}: {pair[2]:.3f}\n")
 
-    # Print results
-    print("Variability Analysis Results (considering the AVG in each AVG \pm STDEV tabular value):")
-    print("\n1. Basic Statistics:")
-    for stat, values in variability_metrics['basic_stats'].items():
-        print(f"\n{stat.capitalize()}:")
-        for metric, value in values.items():
-            print(f"  {metric}: {value:.3f}")
+        f.write("\n4. LLM Variability:\n")
+        f.write(f"  Mean variance across LLMs: {variability_metrics['llm_variability']['mean_variance']:.3f}\n")
+        f.write(f"  Max variance LLM: {variability_metrics['llm_variability']['max_variance_llm']}\n")
+        f.write(f"  Min variance LLM: {variability_metrics['llm_variability']['min_variance_llm']}\n")
 
-    print("\n2. UMAP Analysis:")
-    print(f"  Variance UMAP1: {variability_metrics['umap']['variance_umap1']:.3f}")
-    print(f"  Variance UMAP2: {variability_metrics['umap']['variance_umap2']:.3f}")
-    print(f"  Total variance: {variability_metrics['umap']['total_variance']:.3f}")
-    print(f"  Range UMAP1: {variability_metrics['umap']['range_umap1']:.3f}")
-    print(f"  Range UMAP2: {variability_metrics['umap']['range_umap2']:.3f}")
-    print("  Sample embeddings (first 3 LLMs):")
-    for llm, coords in list(variability_metrics['umap']['embedding'].items())[:3]:
-        print(f"    {llm}: UMAP1={coords['UMAP1']:.3f}, UMAP2={coords['UMAP2']:.3f}")
 
-    print("\n3. Correlation Analysis:")
-    print(f"  Mean absolute correlation: {variability_metrics['correlation']['mean_abs_correlation']:.3f}")
-    print(f"  Maximum correlation: {variability_metrics['correlation']['max_correlation']:.3f}")
-    print("  Highly correlated pairs (|r| > 0.7):")
-    for pair in variability_metrics['correlation']['highly_correlated_pairs']:
-        print(f"    {pair[0]} - {pair[1]}: {pair[2]:.3f}")
+def main(input_path: str, output_path: str):
+    """
+    Main function to analyze variability in LLM metrics.
 
-    print("\n4. LLM Variability:")
-    print(f"  Mean variance across LLMs: {variability_metrics['llm_variability']['mean_variance']:.3f}")
-    print(f"  Max variance LLM: {variability_metrics['llm_variability']['max_variance_llm']}")
-    print(f"  Min variance LLM: {variability_metrics['llm_variability']['min_variance_llm']}")
+    Args:
+        input_path (str): Path to input markdown file
+        output_path (str): Path to output file for results
+    """
+    try:
+        # Parse the table
+        parsed_data = parse_markdown_table(input_path)
+
+        # Calculate standard deviation statistics
+        std_min = ALL_STDS[0]
+        std_max = ALL_STDS[-1]
+        std_median = ALL_STDS[int((len(ALL_STDS) - 1) * 0.5)]
+        std_first = ALL_STDS[int((len(ALL_STDS) - 1) * 0.25)]
+        std_third = ALL_STDS[int((len(ALL_STDS) - 1) * 0.75)]
+        std_stats = (std_min, std_first, std_median, std_third, std_max)
+
+        # Analyze variability
+        variability_metrics = analyze_variability(parsed_data)
+
+        # Write results to file
+        write_results(output_path, variability_metrics, std_stats)
+
+        print(f"Analysis complete. Results written to: {output_path}")
+
+    except FileNotFoundError as e:
+        print(f"Error: {e}", file=sys.stderr)
+        sys.exit(1)
+    except Exception as e:
+        print(f"Error: {e}", file=sys.stderr)
+        sys.exit(1)
 
 
 if __name__ == "__main__":
-    main()
+    os.chdir("..")
+    from common import ALL_JUDGES
+
+    for index, judge in enumerate(ALL_JUDGES):
+        print(index, judge)
+
+        input_path = ALL_JUDGES[judge]["git_table_result"]
+        output_path = "stats/stats-"+judge+".txt"
+
+        main(input_path, output_path)

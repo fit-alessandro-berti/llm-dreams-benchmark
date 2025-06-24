@@ -59,7 +59,7 @@ The following tables collect results evaluated by the same judge LLM:
 Alternative leaderboards (maintaned and updated less frequently):
 
 * [gpt-4o](alt_results_gpt_4o.md)
-* [grok-2](alt_results_grok2.md)
+* [grok-3](alt_results_grok3.md)
 * [mistral-small-2503](alt_results_mistral-small-2503.md)
 * [gemini-2.0-flash](alt_results_gemini2_flash.md)
 * [claude-sonnet-40](alt_results_claude-40-sonnet.md)

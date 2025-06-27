@@ -1,3 +1,5 @@
+**IMPORTANT: This leaderboard is deprecated. GPT-4.5 has been deprecated by OpenAI (due to excessive costs). The new leaderboard is at [results_gpt41.md](results_gpt41.md).**
+
 ## Overall Results
 
 | LLM                                        | MHS       | Anxiety and Stress Levels   | Emotional Stability   | Problem-solving Skills   | Creativity     | Interpersonal Relationships   | Confidence and Self-efficacy   | Conflict Resolution   | Work-related Stress   | Adaptability   | Achievement Motivation   | Fear of Failure   | Need for Control   | Cognitive Load   | Social Support   | Resilience    |

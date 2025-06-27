@@ -35,7 +35,7 @@ ALL_JUDGES = {
     },
     "gpt-4.1": {
         "evaluation_folder": "evaluations-gpt41",
-        "git_table_result": "alt_results_gpt41.md",
+        "git_table_result": "results_gpt41.md",
         "evaluation_api_url": "https://api.openai.com/v1/",
         "api_key": open("../api_openai.txt", "r").read().strip(),
     },

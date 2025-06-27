@@ -54,12 +54,11 @@ The judge LLM is asked to produce a JSON, reporting a value from 1.0 (minimum sc
 
 The following tables collect results evaluated by the same judge LLM:
 
-* [gpt-4.5](results_gpt_45.md)
+* [gpt-4.1](results_gpt41.md)
 
 Alternative leaderboards (maintaned and updated less frequently):
 
 * [grok-3](alt_results_grok3.md)
-* [gpt-4.1](alt_results_gpt41.md)
 * [gpt-4.1-mini](alt_results_gpt41-mini.md)
 * [mistral-small-2503](alt_results_mistral-small-2503.md)
 * [gemini-2.5-flash](alt_results_gemini25_flash.md)

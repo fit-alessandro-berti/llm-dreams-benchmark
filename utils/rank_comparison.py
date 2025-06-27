@@ -27,7 +27,7 @@ JUDGES = {
     "gemini-2.5-flash": interpret(open(os.path.join("..", "alt_results_gemini25_flash.md"), "r").read()),
     "claude-sonnet-4": interpret(open(os.path.join("..", "alt_results_claude-40-sonnet.md"), "r").read()),
     "gpt-4.1-mini": interpret(open(os.path.join("..", "alt_results_gpt41-mini.md"), "r").read()),
-    "gpt-4.1": interpret(open(os.path.join("..", "alt_results_gpt41.md"), "r").read()),
+    "gpt-4.1": interpret(open(os.path.join("..", "results_gpt41.md"), "r").read()),
 }
 
 model_keys = []

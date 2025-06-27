@@ -387,7 +387,7 @@ if __name__ == "__main__":
         model_list = list(common.ALL_JUDGES)
         model_list.sort(key=lambda x: (-1 if "gpt-4.5" in x else 0 if "mistral" not in x else 1, x))
     else:
-        model_list = ["gpt-4.5-preview"]
+        model_list = ["gpt-4.1"]
 
     for m in model_list:
         main_execution(m, massive)

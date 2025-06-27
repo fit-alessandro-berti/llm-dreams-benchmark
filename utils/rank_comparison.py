@@ -22,7 +22,6 @@ def interpret(content):
 
 
 JUDGES = {
-    "gpt-4.5-preview": interpret(open(os.path.join("..", "results_gpt_45.md"), "r").read()),
     "grok-3": interpret(open(os.path.join("..", "alt_results_grok3.md"), "r").read()),
     "mistral-small-2503": interpret(open(os.path.join("..", "alt_results_mistral-small-2503.md"), "r").read()),
     "gemini-2.5-flash": interpret(open(os.path.join("..", "alt_results_gemini25_flash.md"), "r").read()),

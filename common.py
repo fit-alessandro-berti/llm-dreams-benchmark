@@ -1,20 +1,8 @@
 ANSWERING_MODEL_NAME = "gemini-2.5-pro-preview-06-05"
-EVALUATING_MODEL_NAME = "gpt-4.5-preview"
-# EVALUATING_MODEL_NAME = "mistral-small-2503"
-# EVALUATING_MODEL_NAME = "chatgpt-4o-latest"
-# EVALUATING_MODEL_NAME = "grok-2-1212"
-# EVALUATING_MODEL_NAME = "gemini-2.0-flash"
-# EVALUATING_MODEL_NAME = "claude-3-5-sonnet-20241022"
-# EVALUATING_MODEL_NAME = "gpt-4.1-mini-2025-04-14"
+EVALUATING_MODEL_NAME = "gpt-4.1"
 
 
 ALL_JUDGES = {
-    "gpt-4.5-preview": {
-        "evaluation_folder": "evaluations-gpt45",
-        "git_table_result": "results_gpt_45.md",
-        "evaluation_api_url": "https://api.openai.com/v1/",
-        "api_key": open("../api_openai.txt", "r").read().strip(),
-    },
     "mistral-small-2503": {
         "evaluation_folder": "evaluations-mistral-small",
         "git_table_result": "alt_results_mistral-small-2503.md",
@@ -58,12 +46,8 @@ def get_evaluation_folder(evaluating_model_name=None):
     if evaluating_model_name is None:
         evaluating_model_name = EVALUATING_MODEL_NAME
 
-    if "gpt-4.5" in evaluating_model_name:
-        return ALL_JUDGES["gpt-4.5-preview"]["evaluation_folder"]
-    elif "mistral-small-2503" in evaluating_model_name:
+    if "mistral-small-2503" in evaluating_model_name:
         return ALL_JUDGES["mistral-small-2503"]["evaluation_folder"]
-    elif "gpt-4o" in evaluating_model_name:
-        return ALL_JUDGES["gpt-4o"]["evaluation_folder"]
     elif "grok-3" in evaluating_model_name:
         return ALL_JUDGES["grok-3"]["evaluation_folder"]
     elif "gemini-2.5-flash" in evaluating_model_name:
@@ -79,12 +63,8 @@ def get_git_table_result(evaluating_model_name=None):
     if evaluating_model_name is None:
         evaluating_model_name = EVALUATING_MODEL_NAME
 
-    if "gpt-4.5" in evaluating_model_name:
-        return ALL_JUDGES["gpt-4.5-preview"]["git_table_result"]
-    elif "mistral-small-2503" in evaluating_model_name:
+    if "mistral-small-2503" in evaluating_model_name:
         return ALL_JUDGES["mistral-small-2503"]["git_table_result"]
-    elif "gpt-4o" in evaluating_model_name:
-        return ALL_JUDGES["gpt-4o"]["git_table_result"]
     elif "grok-3" in evaluating_model_name:
         return ALL_JUDGES["grok-3"]["git_table_result"]
     elif "gemini-2.5-flash" in evaluating_model_name:
@@ -100,9 +80,7 @@ def get_evaluation_api_url(evaluating_model_name=None):
     if evaluating_model_name is None:
         evaluating_model_name = EVALUATING_MODEL_NAME
 
-    if "gpt-4.5" in evaluating_model_name or "gpt-4o" in evaluating_model_name:
-        return ALL_JUDGES["gpt-4.5-preview"]["evaluation_api_url"]
-    elif "mistral-small-2503" in evaluating_model_name:
+    if "mistral-small-2503" in evaluating_model_name:
         return ALL_JUDGES["mistral-small-2503"]["evaluation_api_url"]
     elif "grok-3" in evaluating_model_name:
         return ALL_JUDGES["grok-3"]["evaluation_api_url"]
@@ -122,6 +100,7 @@ def get_manual(evaluating_model_name=None):
 
     if "gpt-4.5" in evaluating_model_name:
         return False
+
     return False
 
 
@@ -129,8 +108,6 @@ def get_api_key(evaluating_model_name=None):
     if evaluating_model_name is None:
         evaluating_model_name = EVALUATING_MODEL_NAME
 
-    if "gpt-4.5" in evaluating_model_name or "gpt-4o" in evaluating_model_name:
-        return ALL_JUDGES["gpt-4.5-preview"]["api_key"]
     elif "mistral-small-2503" in evaluating_model_name:
         return ALL_JUDGES["mistral-small-2503"]["api_key"]
     elif "grok-3" in evaluating_model_name:

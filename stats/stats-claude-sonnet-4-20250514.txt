@@ -1,4 +1,4 @@
-STD of single entries:	min=0.000	1st_quart=0.200	median=0.200	3rd_quart=0.400	max=3.000
+STD of single entries:	min=0.000	1st_quart=0.100	median=0.200	3rd_quart=0.400	max=2.900
 
 Variability Analysis Results (considering the AVG in each AVG ± STDEV tabular value):
 

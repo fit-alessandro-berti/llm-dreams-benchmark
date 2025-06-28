@@ -381,7 +381,7 @@ def main_execution(evaluating_model_name, massive):
 if __name__ == "__main__":
     aa = time.time_ns()
 
-    massive = True if len(sys.argv) > 1 and sys.argv[1] == "1" else False
+    massive = False if len(sys.argv) > 1 and sys.argv[1] == "0" else True
 
     if massive:
         model_list = list(common.ALL_JUDGES)

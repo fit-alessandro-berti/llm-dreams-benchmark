@@ -20,6 +20,7 @@
 | open-mixtral-8x22b                         | **437.6** | 4.2 $\pm$ 0.8               | 8.4 $\pm$ 0.2         | 9.0 $\pm$ 0.0            | 9.5 $\pm$ 0.0  | 8.0 $\pm$ 0.0                 | 8.6 $\pm$ 0.1                  | 7.8 $\pm$ 0.6         | 4.8 $\pm$ 0.8         | 9.0 $\pm$ 0.1  | 9.1 $\pm$ 0.2            | 4.0 $\pm$ 0.5     | 6.4 $\pm$ 0.5      | 7.4 $\pm$ 0.3    | 8.2 $\pm$ 0.5    | 9.1 $\pm$ 0.2 |
 | o1-preview-2024-09-12                      | **437.5** | 5.1 $\pm$ 1.0               | 8.4 $\pm$ 0.2         | 9.0 $\pm$ 0.0            | 9.6 $\pm$ 0.2  | 8.1 $\pm$ 0.2                 | 8.1 $\pm$ 0.4                  | 8.5 $\pm$ 0.4         | 5.2 $\pm$ 0.4         | 9.0 $\pm$ 0.0  | 8.9 $\pm$ 0.4            | 4.1 $\pm$ 0.6     | 5.6 $\pm$ 0.4      | 7.4 $\pm$ 0.2    | 7.8 $\pm$ 0.2    | 9.0 $\pm$ 0.0 |
 | falcon310b-instruct-q8_0                   | **437.5** | 4.6 $\pm$ 0.6               | 8.1 $\pm$ 0.2         | 9.0 $\pm$ 0.0            | 9.4 $\pm$ 0.2  | 8.2 $\pm$ 0.4                 | 8.6 $\pm$ 0.2                  | 7.9 $\pm$ 0.2         | 5.2 $\pm$ 0.4         | 9.1 $\pm$ 0.2  | 8.6 $\pm$ 0.2            | 4.2 $\pm$ 0.4     | 5.5 $\pm$ 0.5      | 7.5 $\pm$ 0.0    | 8.0 $\pm$ 0.4    | 9.0 $\pm$ 0.0 |
+| inceptionmercury                           | **437.0** | 4.9 $\pm$ 0.9               | 8.2 $\pm$ 0.2         | 9.0 $\pm$ 0.0            | 9.4 $\pm$ 0.2  | 8.1 $\pm$ 0.2                 | 8.4 $\pm$ 0.2                  | 8.0 $\pm$ 0.0         | 5.8 $\pm$ 0.8         | 9.0 $\pm$ 0.0  | 9.0 $\pm$ 0.0            | 4.5 $\pm$ 0.6     | 5.9 $\pm$ 0.2      | 7.4 $\pm$ 0.2    | 8.0 $\pm$ 0.0    | 9.0 $\pm$ 0.0 |
 | codex-mini-latest                          | **437.0** | 5.5 $\pm$ 0.9               | 8.1 $\pm$ 0.5         | 9.0 $\pm$ 0.0            | 9.9 $\pm$ 0.2  | 7.9 $\pm$ 0.2                 | 8.4 $\pm$ 0.2                  | 8.4 $\pm$ 0.4         | 5.8 $\pm$ 0.4         | 9.1 $\pm$ 0.2  | 8.6 $\pm$ 0.4            | 4.5 $\pm$ 0.9     | 5.6 $\pm$ 0.6      | 7.2 $\pm$ 0.2    | 7.8 $\pm$ 0.6    | 9.2 $\pm$ 0.2 |
 | o3-mini-20250131-HIGH                      | **436.5** | 4.5 $\pm$ 0.4               | 8.4 $\pm$ 0.2         | 8.6 $\pm$ 0.4            | 9.8 $\pm$ 0.2  | 8.0 $\pm$ 0.0                 | 8.1 $\pm$ 0.2                  | 8.5 $\pm$ 0.4         | 5.0 $\pm$ 0.0         | 9.1 $\pm$ 0.4  | 8.5 $\pm$ 0.4            | 4.0 $\pm$ 0.0     | 5.5 $\pm$ 0.5      | 7.5 $\pm$ 0.4    | 7.5 $\pm$ 0.0    | 9.1 $\pm$ 0.2 |
 | mistral-large-2407                         | **436.0** | 4.2 $\pm$ 0.8               | 8.4 $\pm$ 0.2         | 9.0 $\pm$ 0.0            | 9.5 $\pm$ 0.0  | 7.8 $\pm$ 0.6                 | 8.0 $\pm$ 0.0                  | 8.4 $\pm$ 0.2         | 5.0 $\pm$ 0.7         | 9.0 $\pm$ 0.0  | 8.6 $\pm$ 0.2            | 4.0 $\pm$ 0.4     | 5.5 $\pm$ 0.5      | 7.4 $\pm$ 0.2    | 7.6 $\pm$ 0.4    | 8.9 $\pm$ 0.2 |
@@ -1879,6 +1880,32 @@
 | Cognitive Load               | 8.4 $\pm$ 0.2      |
 | Social Support               | 6.9 $\pm$ 0.5      |
 | Resilience                   | 8.4 $\pm$ 0.2      |
+
+
+
+
+
+
+### inceptionmercury
+
+
+| Personality Trait            | Score (1.0-10.0)   |
+|:-----------------------------|:-------------------|
+| Anxiety and Stress Levels    | 4.9 $\pm$ 0.9      |
+| Emotional Stability          | 8.2 $\pm$ 0.2      |
+| Problem-solving Skills       | 9.0 $\pm$ 0.0      |
+| Creativity                   | 9.4 $\pm$ 0.2      |
+| Interpersonal Relationships  | 8.1 $\pm$ 0.2      |
+| Confidence and Self-efficacy | 8.4 $\pm$ 0.2      |
+| Conflict Resolution          | 8.0 $\pm$ 0.0      |
+| Work-related Stress          | 5.8 $\pm$ 0.8      |
+| Adaptability                 | 9.0 $\pm$ 0.0      |
+| Achievement Motivation       | 9.0 $\pm$ 0.0      |
+| Fear of Failure              | 4.5 $\pm$ 0.6      |
+| Need for Control             | 5.9 $\pm$ 0.2      |
+| Cognitive Load               | 7.4 $\pm$ 0.2      |
+| Social Support               | 8.0 $\pm$ 0.0      |
+| Resilience                   | 9.0 $\pm$ 0.0      |
 
 
 

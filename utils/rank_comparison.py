@@ -28,6 +28,7 @@ JUDGES = {
     "claude-sonnet-4": interpret(open(os.path.join("..", "alt_results_claude-40-sonnet.md"), "r").read()),
     "gpt-4.1-mini": interpret(open(os.path.join("..", "alt_results_gpt41-mini.md"), "r").read()),
     "gpt-4.1": interpret(open(os.path.join("..", "results_gpt41.md"), "r").read()),
+    "gpt-4.5": interpret(open(os.path.join("..", "results_gpt_45.md"), "r").read()),
 }
 
 model_keys = []

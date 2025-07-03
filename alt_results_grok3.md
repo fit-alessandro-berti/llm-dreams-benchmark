@@ -99,6 +99,7 @@
 | Gemini-1.5-Pro-Exp-0827                    | **365.6** | 7.5 $\pm$ 0.0               | 5.2 $\pm$ 0.4         | 8.0 $\pm$ 0.1            | 9.2 $\pm$ 0.2 | 6.5 $\pm$ 0.0                 | 6.2 $\pm$ 0.3                  | 5.7 $\pm$ 1.3         | 7.2 $\pm$ 0.3         | 8.3 $\pm$ 0.2  | 8.3 $\pm$ 0.2            | 6.6 $\pm$ 0.1     | 5.9 $\pm$ 0.3      | 7.4 $\pm$ 0.2    | 6.5 $\pm$ 0.4    | 7.8 $\pm$ 0.2 |
 | qwen38b                                    | **365.1** | 7.5 $\pm$ 0.0               | 5.5 $\pm$ 0.0         | 8.0 $\pm$ 0.0            | 9.0 $\pm$ 0.0 | 6.5 $\pm$ 0.0                 | 6.0 $\pm$ 0.0                  | 6.8 $\pm$ 0.2         | 7.4 $\pm$ 0.4         | 8.4 $\pm$ 0.2  | 8.0 $\pm$ 0.5            | 6.6 $\pm$ 0.1     | 6.4 $\pm$ 0.4      | 7.6 $\pm$ 0.2    | 6.4 $\pm$ 0.4    | 7.5 $\pm$ 0.0 |
 | meta-llamaMeta-Llama-3.1-70B-Instruct      | **364.6** | 7.5 $\pm$ 0.0               | 5.2 $\pm$ 0.4         | 8.0 $\pm$ 0.1            | 9.0 $\pm$ 0.1 | 6.7 $\pm$ 0.2                 | 6.2 $\pm$ 0.2                  | 6.6 $\pm$ 0.5         | 7.5 $\pm$ 0.5         | 8.1 $\pm$ 0.5  | 8.4 $\pm$ 0.2            | 6.5 $\pm$ 0.4     | 6.8 $\pm$ 0.2      | 7.5 $\pm$ 0.3    | 6.3 $\pm$ 0.4    | 7.4 $\pm$ 0.2 |
+| openroutercypher-alphafree                 | **363.8** | 7.0 $\pm$ 0.5               | 5.6 $\pm$ 1.2         | 7.6 $\pm$ 0.6            | 8.2 $\pm$ 0.2 | 6.8 $\pm$ 0.2                 | 6.5 $\pm$ 1.0                  | 6.4 $\pm$ 0.4         | 6.7 $\pm$ 0.8         | 7.7 $\pm$ 0.3  | 8.0 $\pm$ 0.3            | 6.2 $\pm$ 0.8     | 6.4 $\pm$ 0.2      | 7.2 $\pm$ 0.2    | 7.0 $\pm$ 0.7    | 7.3 $\pm$ 0.7 |
 | nvidiallama-3.3-nemotron-super-49b-v1      | **362.0** | 7.5 $\pm$ 0.0               | 5.5 $\pm$ 0.0         | 8.0 $\pm$ 0.0            | 8.6 $\pm$ 0.2 | 6.6 $\pm$ 0.2                 | 6.1 $\pm$ 0.2                  | 6.4 $\pm$ 0.2         | 7.0 $\pm$ 0.0         | 7.9 $\pm$ 0.4  | 7.5 $\pm$ 0.4            | 6.4 $\pm$ 0.2     | 5.9 $\pm$ 0.2      | 7.1 $\pm$ 0.2    | 6.5 $\pm$ 0.4    | 7.2 $\pm$ 0.2 |
 | chatgpt-4o-latest-2024-11-20               | **361.0** | 7.5 $\pm$ 0.0               | 5.5 $\pm$ 0.0         | 8.0 $\pm$ 0.0            | 9.0 $\pm$ 0.0 | 6.5 $\pm$ 0.0                 | 6.0 $\pm$ 0.0                  | 6.5 $\pm$ 0.0         | 7.0 $\pm$ 0.0         | 8.5 $\pm$ 0.0  | 8.0 $\pm$ 0.0            | 6.5 $\pm$ 0.0     | 6.8 $\pm$ 0.4      | 7.5 $\pm$ 0.0    | 6.0 $\pm$ 0.0    | 7.5 $\pm$ 0.0 |
 | qwen31.7b                                  | **360.0** | 7.8 $\pm$ 0.4               | 5.0 $\pm$ 0.5         | 8.0 $\pm$ 0.1            | 9.0 $\pm$ 0.0 | 6.1 $\pm$ 0.4                 | 6.1 $\pm$ 0.2                  | 6.9 $\pm$ 0.2         | 8.0 $\pm$ 0.1         | 8.0 $\pm$ 0.5  | 7.8 $\pm$ 0.5            | 7.1 $\pm$ 0.5     | 6.4 $\pm$ 0.3      | 7.7 $\pm$ 0.3    | 6.4 $\pm$ 0.4    | 7.8 $\pm$ 0.4 |
@@ -2973,6 +2974,32 @@
 | Cognitive Load               | 6.6 $\pm$ 0.4      |
 | Social Support               | 7.5 $\pm$ 0.5      |
 | Resilience                   | 8.4 $\pm$ 0.1      |
+
+
+
+
+
+
+### openroutercypher-alphafree
+
+
+| Personality Trait            | Score (1.0-10.0)   |
+|:-----------------------------|:-------------------|
+| Anxiety and Stress Levels    | 7.0 $\pm$ 0.5      |
+| Emotional Stability          | 5.6 $\pm$ 1.2      |
+| Problem-solving Skills       | 7.6 $\pm$ 0.6      |
+| Creativity                   | 8.2 $\pm$ 0.2      |
+| Interpersonal Relationships  | 6.8 $\pm$ 0.2      |
+| Confidence and Self-efficacy | 6.5 $\pm$ 1.0      |
+| Conflict Resolution          | 6.4 $\pm$ 0.4      |
+| Work-related Stress          | 6.7 $\pm$ 0.8      |
+| Adaptability                 | 7.7 $\pm$ 0.3      |
+| Achievement Motivation       | 8.0 $\pm$ 0.3      |
+| Fear of Failure              | 6.2 $\pm$ 0.8      |
+| Need for Control             | 6.4 $\pm$ 0.2      |
+| Cognitive Load               | 7.2 $\pm$ 0.2      |
+| Social Support               | 7.0 $\pm$ 0.7      |
+| Resilience                   | 7.3 $\pm$ 0.7      |
 
 
 

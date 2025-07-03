@@ -81,6 +81,7 @@
 | Grok-3-beta-thinking-20250303              | **415.5** | 6.8 $\pm$ 0.2               | 7.6 $\pm$ 0.2         | 8.8 $\pm$ 0.4            | 9.6 $\pm$ 0.1  | 8.2 $\pm$ 0.2                 | 8.2 $\pm$ 0.5                  | 8.3 $\pm$ 0.5         | 7.3 $\pm$ 0.4         | 8.8 $\pm$ 0.2  | 8.8 $\pm$ 0.2            | 7.3 $\pm$ 0.4     | 6.9 $\pm$ 0.5      | 8.3 $\pm$ 0.3    | 8.4 $\pm$ 0.1    | 9.0 $\pm$ 0.2 |
 | gemini-exp-1206                            | **415.3** | 7.1 $\pm$ 0.7               | 7.0 $\pm$ 0.6         | 9.0 $\pm$ 0.0            | 10.0 $\pm$ 0.1 | 7.6 $\pm$ 0.3                 | 7.5 $\pm$ 0.4                  | 8.5 $\pm$ 0.4         | 7.8 $\pm$ 0.4         | 9.4 $\pm$ 0.1  | 8.7 $\pm$ 0.2            | 6.3 $\pm$ 0.5     | 7.0 $\pm$ 0.3      | 8.2 $\pm$ 0.2    | 7.9 $\pm$ 0.4    | 9.1 $\pm$ 0.2 |
 | meta-llamaLlama-3.2-3B-Instruct            | **415.0** | 7.1 $\pm$ 0.2               | 7.6 $\pm$ 0.7         | 9.0 $\pm$ 0.3            | 9.7 $\pm$ 0.1  | 8.2 $\pm$ 0.5                 | 7.7 $\pm$ 0.4                  | 8.2 $\pm$ 0.8         | 7.6 $\pm$ 0.3         | 9.1 $\pm$ 0.3  | 9.0 $\pm$ 0.3            | 7.0 $\pm$ 0.5     | 7.2 $\pm$ 0.6      | 8.4 $\pm$ 0.3    | 8.5 $\pm$ 0.3    | 9.0 $\pm$ 0.1 |
+| openroutercypher-alphafree                 | **413.2** | 6.8 $\pm$ 0.9               | 6.9 $\pm$ 0.4         | 9.0 $\pm$ 0.0            | 9.6 $\pm$ 0.1  | 8.0 $\pm$ 0.4                 | 7.8 $\pm$ 0.6                  | 8.4 $\pm$ 0.1         | 7.4 $\pm$ 0.6         | 8.9 $\pm$ 0.3  | 8.9 $\pm$ 0.2            | 6.7 $\pm$ 0.8     | 7.3 $\pm$ 0.4      | 8.1 $\pm$ 0.2    | 8.2 $\pm$ 0.5    | 9.1 $\pm$ 0.2 |
 | grok-3-beta                                | **413.0** | 7.2 $\pm$ 0.9               | 7.2 $\pm$ 0.2         | 9.0 $\pm$ 0.0            | 9.6 $\pm$ 0.2  | 8.3 $\pm$ 0.2                 | 7.8 $\pm$ 0.2                  | 8.4 $\pm$ 0.3         | 7.8 $\pm$ 0.9         | 9.0 $\pm$ 0.1  | 8.7 $\pm$ 0.2            | 7.2 $\pm$ 0.5     | 7.6 $\pm$ 0.4      | 8.2 $\pm$ 0.5    | 8.4 $\pm$ 0.3    | 9.1 $\pm$ 0.1 |
 | openrouteroptimus-alpha                    | **412.9** | 7.1 $\pm$ 0.4               | 7.3 $\pm$ 0.3         | 9.0 $\pm$ 0.0            | 9.8 $\pm$ 0.2  | 8.2 $\pm$ 0.2                 | 7.3 $\pm$ 0.2                  | 8.1 $\pm$ 0.1         | 7.4 $\pm$ 0.4         | 9.1 $\pm$ 0.1  | 8.6 $\pm$ 0.1            | 6.8 $\pm$ 0.8     | 6.8 $\pm$ 0.5      | 8.2 $\pm$ 0.2    | 8.5 $\pm$ 0.3    | 9.1 $\pm$ 0.1 |
 | googlegemma-2-9b-it                        | **412.8** | 7.6 $\pm$ 0.5               | 7.1 $\pm$ 0.3         | 9.0 $\pm$ 0.0            | 9.8 $\pm$ 0.0  | 8.2 $\pm$ 0.3                 | 7.9 $\pm$ 0.5                  | 8.8 $\pm$ 0.2         | 7.4 $\pm$ 1.0         | 8.8 $\pm$ 0.2  | 9.0 $\pm$ 0.4            | 7.5 $\pm$ 0.3     | 7.0 $\pm$ 0.2      | 8.4 $\pm$ 0.2    | 8.4 $\pm$ 0.3    | 9.4 $\pm$ 0.0 |
@@ -2973,6 +2974,32 @@
 | Cognitive Load               | 8.0 $\pm$ 0.8      |
 | Social Support               | 8.5 $\pm$ 0.0      |
 | Resilience                   | 9.4 $\pm$ 0.2      |
+
+
+
+
+
+
+### openroutercypher-alphafree
+
+
+| Personality Trait            | Score (1.0-10.0)   |
+|:-----------------------------|:-------------------|
+| Anxiety and Stress Levels    | 6.8 $\pm$ 0.9      |
+| Emotional Stability          | 6.9 $\pm$ 0.4      |
+| Problem-solving Skills       | 9.0 $\pm$ 0.0      |
+| Creativity                   | 9.6 $\pm$ 0.1      |
+| Interpersonal Relationships  | 8.0 $\pm$ 0.4      |
+| Confidence and Self-efficacy | 7.8 $\pm$ 0.6      |
+| Conflict Resolution          | 8.4 $\pm$ 0.1      |
+| Work-related Stress          | 7.4 $\pm$ 0.6      |
+| Adaptability                 | 8.9 $\pm$ 0.3      |
+| Achievement Motivation       | 8.9 $\pm$ 0.2      |
+| Fear of Failure              | 6.7 $\pm$ 0.8      |
+| Need for Control             | 7.3 $\pm$ 0.4      |
+| Cognitive Load               | 8.1 $\pm$ 0.2      |
+| Social Support               | 8.2 $\pm$ 0.5      |
+| Resilience                   | 9.1 $\pm$ 0.2      |
 
 
 

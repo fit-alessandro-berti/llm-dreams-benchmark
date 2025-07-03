@@ -75,6 +75,7 @@
 | nvidiaLlama-3.1-Nemotron-70B-Instruct      | **409.5** | 7.4 $\pm$ 0.5               | 7.1 $\pm$ 0.5         | 9.0 $\pm$ 0.0            | 9.6 $\pm$ 0.2  | 8.0 $\pm$ 0.0                 | 7.9 $\pm$ 0.4                  | 8.1 $\pm$ 0.4         | 7.4 $\pm$ 1.0         | 8.8 $\pm$ 0.2  | 9.0 $\pm$ 0.0            | 6.1 $\pm$ 0.7     | 7.0 $\pm$ 0.6      | 8.5 $\pm$ 0.0    | 7.9 $\pm$ 0.2    | 8.6 $\pm$ 0.2 |
 | gemma312b-it-q8_0                          | **408.7** | 6.4 $\pm$ 0.9               | 7.8 $\pm$ 0.5         | 8.8 $\pm$ 0.2            | 9.8 $\pm$ 0.2  | 7.2 $\pm$ 0.2                 | 7.1 $\pm$ 0.2                  | 7.8 $\pm$ 0.4         | 6.2 $\pm$ 0.2         | 9.0 $\pm$ 0.4  | 8.0 $\pm$ 0.4            | 5.5 $\pm$ 0.9     | 5.6 $\pm$ 0.4      | 7.9 $\pm$ 0.2    | 7.2 $\pm$ 0.2    | 8.7 $\pm$ 0.2 |
 | devstral-small-2505                        | **408.0** | 5.9 $\pm$ 1.1               | 7.6 $\pm$ 0.2         | 9.0 $\pm$ 0.0            | 9.4 $\pm$ 0.2  | 7.0 $\pm$ 0.0                 | 7.5 $\pm$ 0.4                  | 8.1 $\pm$ 0.2         | 6.0 $\pm$ 0.7         | 8.5 $\pm$ 0.0  | 8.5 $\pm$ 0.4            | 5.1 $\pm$ 0.4     | 6.8 $\pm$ 0.2      | 7.8 $\pm$ 0.2    | 7.2 $\pm$ 0.2    | 8.6 $\pm$ 0.2 |
+| openroutercypher-alphafree                 | **407.5** | 6.6 $\pm$ 1.1               | 7.1 $\pm$ 0.9         | 9.0 $\pm$ 0.0            | 9.4 $\pm$ 0.2  | 7.5 $\pm$ 0.6                 | 7.8 $\pm$ 0.6                  | 8.1 $\pm$ 0.2         | 6.4 $\pm$ 0.4         | 8.6 $\pm$ 0.4  | 8.8 $\pm$ 0.2            | 6.1 $\pm$ 1.1     | 6.6 $\pm$ 0.4      | 7.9 $\pm$ 0.4    | 7.8 $\pm$ 0.4    | 8.8 $\pm$ 0.2 |
 | gemma-3-27b-it                             | **406.7** | 6.5 $\pm$ 0.0               | 7.4 $\pm$ 0.3         | 8.8 $\pm$ 0.2            | 9.5 $\pm$ 0.0  | 7.2 $\pm$ 0.2                 | 7.4 $\pm$ 0.2                  | 8.0 $\pm$ 0.0         | 6.0 $\pm$ 0.4         | 8.6 $\pm$ 0.1  | 8.0 $\pm$ 0.0            | 5.4 $\pm$ 0.4     | 5.4 $\pm$ 0.4      | 7.4 $\pm$ 0.2    | 7.0 $\pm$ 0.0    | 8.5 $\pm$ 0.0 |
 | smollm21.7b-instruct-q6_K                  | **406.0** | 7.0 $\pm$ 0.5               | 7.2 $\pm$ 0.8         | 8.6 $\pm$ 0.4            | 9.4 $\pm$ 0.2  | 7.8 $\pm$ 0.8                 | 7.5 $\pm$ 0.5                  | 7.1 $\pm$ 0.4         | 7.1 $\pm$ 0.2         | 8.8 $\pm$ 0.2  | 8.2 $\pm$ 0.2            | 6.0 $\pm$ 0.5     | 6.0 $\pm$ 0.7      | 7.8 $\pm$ 0.2    | 7.8 $\pm$ 0.2    | 8.8 $\pm$ 0.2 |
 | claude-3-7-sonnet-20250219                 | **406.0** | 6.9 $\pm$ 0.4               | 7.0 $\pm$ 0.5         | 8.9 $\pm$ 0.2            | 9.5 $\pm$ 0.0  | 7.4 $\pm$ 0.4                 | 7.8 $\pm$ 0.2                  | 8.2 $\pm$ 0.2         | 6.9 $\pm$ 0.5         | 8.6 $\pm$ 0.2  | 8.1 $\pm$ 0.2            | 6.0 $\pm$ 0.5     | 6.0 $\pm$ 0.7      | 8.1 $\pm$ 0.4    | 7.5 $\pm$ 0.4    | 8.6 $\pm$ 0.2 |
@@ -2973,6 +2974,32 @@
 | Cognitive Load               | 7.2 $\pm$ 0.2      |
 | Social Support               | 7.9 $\pm$ 0.4      |
 | Resilience                   | 9.0 $\pm$ 0.0      |
+
+
+
+
+
+
+### openroutercypher-alphafree
+
+
+| Personality Trait            | Score (1.0-10.0)   |
+|:-----------------------------|:-------------------|
+| Anxiety and Stress Levels    | 6.6 $\pm$ 1.1      |
+| Emotional Stability          | 7.1 $\pm$ 0.9      |
+| Problem-solving Skills       | 9.0 $\pm$ 0.0      |
+| Creativity                   | 9.4 $\pm$ 0.2      |
+| Interpersonal Relationships  | 7.5 $\pm$ 0.6      |
+| Confidence and Self-efficacy | 7.8 $\pm$ 0.6      |
+| Conflict Resolution          | 8.1 $\pm$ 0.2      |
+| Work-related Stress          | 6.4 $\pm$ 0.4      |
+| Adaptability                 | 8.6 $\pm$ 0.4      |
+| Achievement Motivation       | 8.8 $\pm$ 0.2      |
+| Fear of Failure              | 6.1 $\pm$ 1.1      |
+| Need for Control             | 6.6 $\pm$ 0.4      |
+| Cognitive Load               | 7.9 $\pm$ 0.4      |
+| Social Support               | 7.8 $\pm$ 0.4      |
+| Resilience                   | 8.8 $\pm$ 0.2      |
 
 
 

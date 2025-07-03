@@ -1,4 +1,4 @@
-ANSWERING_MODEL_NAME = "gemini-2.5-pro-preview-06-05"
+ANSWERING_MODEL_NAME = "openrouter/cypher-alpha:free"
 EVALUATING_MODEL_NAME = "gpt-4.1"
 
 
@@ -113,7 +113,7 @@ def get_manual(evaluating_model_name=None):
         evaluating_model_name = EVALUATING_MODEL_NAME
 
     if "gpt-4.5" in evaluating_model_name:
-        return False
+        return True
 
     return False
 

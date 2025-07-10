@@ -14,7 +14,7 @@ def do_deletion(base_path, original_name):
 
 
 if __name__ == "__main__":
-    original_name = "claude-4-opus-20250514_"
+    original_name = "baiduernie-4.5-300b-a47b_"
 
     if not original_name.endswith("_"):
         raise Exception("error")
@@ -22,7 +22,7 @@ if __name__ == "__main__":
     base_path = ".."
 
     answer_directory = os.path.join(base_path, "answers")
-    #do_deletion(answer_directory, original_name)
+    do_deletion(answer_directory, original_name)
 
     evaluation_directories = [x for x in os.listdir(base_path) if "evaluations-" in x]
 

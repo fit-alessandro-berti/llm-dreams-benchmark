@@ -5,53 +5,53 @@ Variability Analysis Results (considering the AVG in each AVG ± STDEV tabular v
 1. Basic Statistics:
 
 Mean:
-  Anxiety and Stress Levels: 7.270
-  Emotional Stability: 6.404
-  Problem-solving Skills: 7.961
-  Creativity: 8.899
-  Interpersonal Relationships: 7.026
-  Confidence and Self-efficacy: 7.322
-  Conflict Resolution: 7.124
-  Work-related Stress: 7.038
-  Adaptability: 8.532
-  Achievement Motivation: 8.035
-  Fear of Failure: 6.004
-  Need for Control: 5.688
-  Cognitive Load: 7.602
-  Social Support: 6.974
-  Resilience: 8.282
+  Anxiety and Stress Levels: 7.274
+  Emotional Stability: 6.406
+  Problem-solving Skills: 7.966
+  Creativity: 8.902
+  Interpersonal Relationships: 7.029
+  Confidence and Self-efficacy: 7.326
+  Conflict Resolution: 7.134
+  Work-related Stress: 7.036
+  Adaptability: 8.538
+  Achievement Motivation: 8.038
+  Fear of Failure: 6.007
+  Need for Control: 5.689
+  Cognitive Load: 7.613
+  Social Support: 6.980
+  Resilience: 8.289
 
 Std:
-  Anxiety and Stress Levels: 0.838
-  Emotional Stability: 0.728
-  Problem-solving Skills: 0.470
-  Creativity: 0.339
-  Interpersonal Relationships: 0.576
-  Confidence and Self-efficacy: 0.719
-  Conflict Resolution: 0.708
-  Work-related Stress: 0.567
-  Adaptability: 0.350
-  Achievement Motivation: 0.386
-  Fear of Failure: 1.003
-  Need for Control: 0.650
-  Cognitive Load: 0.487
-  Social Support: 0.652
+  Anxiety and Stress Levels: 0.832
+  Emotional Stability: 0.724
+  Problem-solving Skills: 0.469
+  Creativity: 0.340
+  Interpersonal Relationships: 0.573
+  Confidence and Self-efficacy: 0.714
+  Conflict Resolution: 0.709
+  Work-related Stress: 0.564
+  Adaptability: 0.351
+  Achievement Motivation: 0.385
+  Fear of Failure: 0.997
+  Need for Control: 0.646
+  Cognitive Load: 0.494
+  Social Support: 0.649
   Resilience: 0.535
 
 Coeff_variation:
-  Anxiety and Stress Levels: 0.115
-  Emotional Stability: 0.114
+  Anxiety and Stress Levels: 0.114
+  Emotional Stability: 0.113
   Problem-solving Skills: 0.059
   Creativity: 0.038
   Interpersonal Relationships: 0.082
-  Confidence and Self-efficacy: 0.098
+  Confidence and Self-efficacy: 0.097
   Conflict Resolution: 0.099
-  Work-related Stress: 0.081
+  Work-related Stress: 0.080
   Adaptability: 0.041
   Achievement Motivation: 0.048
-  Fear of Failure: 0.167
+  Fear of Failure: 0.166
   Need for Control: 0.114
-  Cognitive Load: 0.064
+  Cognitive Load: 0.065
   Social Support: 0.093
   Resilience: 0.065
 
@@ -73,47 +73,47 @@ Range:
   Resilience: 2.400
 
 2. UMAP Analysis:
-  Variance UMAP1: 4.705
-  Variance UMAP2: 1.959
-  Total variance: 6.664
-  Range UMAP1: 7.396
-  Range UMAP2: 5.197
+  Variance UMAP1: 6.595
+  Variance UMAP2: 0.674
+  Total variance: 7.269
+  Range UMAP1: 8.596
+  Range UMAP2: 3.064
   Sample embeddings (first 3 LLMs):
-    microsoftPhi-3-medium-4k-instruct: UMAP1=13.627, UMAP2=7.696
-    qwen2.5-14b-instruct: UMAP1=13.609, UMAP2=7.559
-    microsoftphi-4: UMAP1=13.732, UMAP2=7.513
+    microsoftPhi-3-medium-4k-instruct: UMAP1=13.449, UMAP2=1.578
+    qwen2.5-14b-instruct: UMAP1=13.569, UMAP2=1.360
+    microsoftphi-4: UMAP1=13.519, UMAP2=1.503
 
 3. Correlation Analysis:
-  Mean absolute correlation: 0.531
+  Mean absolute correlation: 0.528
   Maximum correlation: 0.925
   Highly correlated pairs (|r| > 0.7):
-    Anxiety and Stress Levels - Emotional Stability: -0.737
-    Anxiety and Stress Levels - Confidence and Self-efficacy: -0.710
-    Anxiety and Stress Levels - Work-related Stress: 0.825
+    Anxiety and Stress Levels - Emotional Stability: -0.734
+    Anxiety and Stress Levels - Confidence and Self-efficacy: -0.707
+    Anxiety and Stress Levels - Work-related Stress: 0.823
     Anxiety and Stress Levels - Fear of Failure: 0.925
-    Emotional Stability - Problem-solving Skills: 0.761
-    Emotional Stability - Interpersonal Relationships: 0.802
-    Emotional Stability - Fear of Failure: -0.764
-    Emotional Stability - Social Support: 0.711
-    Emotional Stability - Resilience: 0.755
-    Problem-solving Skills - Resilience: 0.732
-    Interpersonal Relationships - Social Support: 0.899
-    Interpersonal Relationships - Resilience: 0.742
-    Confidence and Self-efficacy - Emotional Stability: 0.874
+    Emotional Stability - Problem-solving Skills: 0.757
+    Emotional Stability - Interpersonal Relationships: 0.799
+    Emotional Stability - Fear of Failure: -0.761
+    Emotional Stability - Social Support: 0.709
+    Emotional Stability - Resilience: 0.753
+    Problem-solving Skills - Resilience: 0.733
+    Interpersonal Relationships - Social Support: 0.898
+    Interpersonal Relationships - Resilience: 0.740
+    Confidence and Self-efficacy - Emotional Stability: 0.873
     Confidence and Self-efficacy - Problem-solving Skills: 0.852
     Confidence and Self-efficacy - Interpersonal Relationships: 0.770
-    Confidence and Self-efficacy - Fear of Failure: -0.805
-    Confidence and Self-efficacy - Resilience: 0.832
-    Conflict Resolution - Resilience: 0.703
-    Adaptability - Problem-solving Skills: 0.741
-    Adaptability - Confidence and Self-efficacy: 0.729
-    Adaptability - Resilience: 0.818
-    Achievement Motivation - Problem-solving Skills: 0.798
-    Achievement Motivation - Confidence and Self-efficacy: 0.815
-    Fear of Failure - Interpersonal Relationships: -0.704
-    Fear of Failure - Work-related Stress: 0.832
+    Confidence and Self-efficacy - Fear of Failure: -0.802
+    Confidence and Self-efficacy - Resilience: 0.831
+    Conflict Resolution - Resilience: 0.707
+    Adaptability - Problem-solving Skills: 0.742
+    Adaptability - Confidence and Self-efficacy: 0.728
+    Adaptability - Resilience: 0.820
+    Achievement Motivation - Problem-solving Skills: 0.799
+    Achievement Motivation - Confidence and Self-efficacy: 0.814
+    Fear of Failure - Interpersonal Relationships: -0.702
+    Fear of Failure - Work-related Stress: 0.830
 
 4. LLM Variability:
-  Mean variance across LLMs: 1.180
+  Mean variance across LLMs: 1.179
   Max variance LLM: gpt-4.5-preview
   Min variance LLM: qwen2.51.5b-instruct-q6_K

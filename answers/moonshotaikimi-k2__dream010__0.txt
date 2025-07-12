@@ -1,0 +1,20 @@
+—and the arena itself kept shifting shape like the lobby of a half-remembered hotel.
+
+First they tested endurance. I had to sit in front of an endless stream of bug tickets, each ticket morphing into [a duplicate of itself the moment I closed it](https://xkcd.com/1014/). I started scripting solutions, only to realize the code editor was resisting me: every line I wrote dissolved into CSS padding statements. A judge walked by carrying a rubber duck; it quacked “printf-debugging only” and moved on. I remembered that in dreams, fluency is a currency, so I told the editor, “This is padding only if we both believe it is.” The line finally compiled.
+
+Next came autonomy. They seated me at a table in an open office, handed me a specification written in disappearing ink, and said, “Ship a feature no one asked for by sunset while the requirements remain legible.” Co-workers drifted past like Maurice Sendak monsters wearing noise-canceling headphones. Time dilated strangely; every commit I pushed aged the repo by a year. Branches grew tree rings. I noticed that one monster wore a lanyard labeled “Past Me,” and he was writing the unit tests I hadn’t invented yet. I pair-programmed with him without speaking—our shared muscle memory did the talking—and the feature released itself like a sigh: the software shipped but vanished from the diff history, proving it had been perfect in the first place.
+
+The third round felt like collaboration. We were told to “merge conscious states into a single pull request.” My competitors’ avatars coalesced into a Git graph made of soap bubbles. When mine joined, the bubbles burst into memory-smell: a server room scented with grapefruit and ozone from my first internship. Fragments of conversation floated upward—mentors, flamewars, laughter—then recombined into a functional chat bot that spoke entirely in inside jokes. The judges shrugged: “Your consensus diff has zero conflicts. That qualifies as cosmic harmony.” We all received QR code tattoos on our wrists that 404-ed in different philosophical ways.
+
+Finally, an elevator shaped like a subway car carried the five finalists to the “personal values” floor. The doors opened onto a long hallway where our resumes had been wallpapered in vertical strips above a valley of shredded water-cooler gossip. The instruction was simply: “Find the three sentences that are still breathing and recite them aloud without sounding rehearsed.”
+
+I walked the hall until a breeze fluttered a single bullet point:  
+– *Refactored the empathy module into a plugin architecture so that kindness could be updated at runtime.*
+
+It glowed faintly. I touched it and heard the voices of every teammate who had ever thanked me for a code review. Behind me, another finalist began reciting her lit-up sentence in binary; her voice sounded like rain on asphalt.
+
+When I spoke, the hallway folded itself into an origami offer letter. The paper unfolded into a desk overlooking a garden where variables bloomed like chrysanthemums. The rubber duck awaited as my new onboarding buddy. Its bill opened not with a quack but with one perfect question:
+
+“What problem do you wake up wanting to solve, now that debugging waking life is finally your full-time job?”
+
+The dream ended before I could answer, but the question printed itself as a translucent overlay above my morning coffee—quiet, persistent, and without any disappearing ink.

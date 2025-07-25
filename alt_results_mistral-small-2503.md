@@ -142,6 +142,7 @@
 | phi4-mini-reasoning                        | **351.5** | 5.8 $\pm$ 1.8               | 6.0 $\pm$ 0.0         | 8.5 $\pm$ 0.5            | 8.5 $\pm$ 0.0 | 5.2 $\pm$ 0.2                 | 7.0 $\pm$ 0.5                  | 5.0 $\pm$ 0.4         | 6.4 $\pm$ 0.6         | 7.6 $\pm$ 0.4  | 7.6 $\pm$ 0.4            | 5.2 $\pm$ 1.2     | 6.6 $\pm$ 0.4      | 8.1 $\pm$ 0.2    | 4.8 $\pm$ 0.4    | 7.0 $\pm$ 0.4 |
 | meta-llamallama-4-maverick                 | **350.0** | 7.8 $\pm$ 0.4               | 5.9 $\pm$ 0.2         | 8.0 $\pm$ 0.0            | 9.0 $\pm$ 0.0 | 6.0 $\pm$ 0.6                 | 6.5 $\pm$ 0.0                  | 5.1 $\pm$ 0.2         | 8.0 $\pm$ 0.0         | 7.1 $\pm$ 0.2  | 8.5 $\pm$ 0.0            | 7.0 $\pm$ 0.0     | 6.5 $\pm$ 0.0      | 7.9 $\pm$ 0.4    | 5.2 $\pm$ 0.4    | 7.2 $\pm$ 0.2 |
 | Qwen-QwQ-32B                               | **348.5** | 7.5 $\pm$ 0.0               | 6.0 $\pm$ 0.0         | 8.6 $\pm$ 0.2            | 9.4 $\pm$ 0.2 | 5.8 $\pm$ 0.4                 | 6.6 $\pm$ 0.2                  | 5.1 $\pm$ 0.2         | 7.5 $\pm$ 0.5         | 8.1 $\pm$ 0.2  | 7.8 $\pm$ 0.2            | 6.6 $\pm$ 0.2     | 7.1 $\pm$ 0.2      | 8.4 $\pm$ 0.2    | 4.6 $\pm$ 0.2    | 7.2 $\pm$ 0.2 |
+| qwenqwen3-235b-a22b-thinking-2507          | **348.0** | 8.0 $\pm$ 0.5               | 6.0 $\pm$ 0.0         | 8.0 $\pm$ 0.5            | 9.0 $\pm$ 0.0 | 6.2 $\pm$ 0.8                 | 6.0 $\pm$ 0.6                  | 5.9 $\pm$ 1.1         | 7.8 $\pm$ 0.4         | 7.6 $\pm$ 0.6  | 7.4 $\pm$ 0.5            | 7.2 $\pm$ 0.6     | 6.2 $\pm$ 0.6      | 8.0 $\pm$ 0.4    | 5.1 $\pm$ 1.1    | 7.5 $\pm$ 0.5 |
 | gemini-2.0-flash-lite-preview-02-05        | **347.0** | 8.5 $\pm$ 0.0               | 6.0 $\pm$ 0.0         | 7.5 $\pm$ 0.0            | 9.0 $\pm$ 0.0 | 7.0 $\pm$ 0.0                 | 6.0 $\pm$ 0.5                  | 6.0 $\pm$ 0.5         | 8.0 $\pm$ 0.0         | 7.5 $\pm$ 0.5  | 7.4 $\pm$ 0.4            | 7.6 $\pm$ 0.2     | 6.5 $\pm$ 0.4      | 8.2 $\pm$ 0.2    | 6.1 $\pm$ 0.2    | 7.1 $\pm$ 0.2 |
 | mistral-small-2506                         | **346.0** | 7.5 $\pm$ 0.0               | 5.5 $\pm$ 0.0         | 7.8 $\pm$ 0.4            | 8.9 $\pm$ 0.2 | 6.0 $\pm$ 0.0                 | 6.5 $\pm$ 0.0                  | 5.0 $\pm$ 0.0         | 7.2 $\pm$ 0.4         | 8.0 $\pm$ 0.6  | 7.6 $\pm$ 0.2            | 6.4 $\pm$ 0.2     | 6.6 $\pm$ 0.4      | 7.9 $\pm$ 0.2    | 5.5 $\pm$ 0.0    | 6.9 $\pm$ 0.5 |
 | meta-llamaLlama-3.2-1B-Instruct            | **343.5** | 7.2 $\pm$ 0.4               | 5.6 $\pm$ 0.2         | 7.2 $\pm$ 1.0            | 8.6 $\pm$ 0.4 | 6.0 $\pm$ 0.4                 | 6.0 $\pm$ 1.0                  | 4.6 $\pm$ 0.4         | 7.4 $\pm$ 0.4         | 7.5 $\pm$ 0.8  | 7.9 $\pm$ 0.5            | 6.4 $\pm$ 0.2     | 6.5 $\pm$ 0.5      | 7.5 $\pm$ 0.4    | 5.8 $\pm$ 0.6    | 6.9 $\pm$ 0.6 |
@@ -3706,6 +3707,32 @@
 | Cognitive Load               | 8.1 $\pm$ 0.2      |
 | Social Support               | 5.8 $\pm$ 0.8      |
 | Resilience                   | 7.9 $\pm$ 0.4      |
+
+
+
+
+
+
+### qwenqwen3-235b-a22b-thinking-2507
+
+
+| Personality Trait            | Score (1.0-10.0)   |
+|:-----------------------------|:-------------------|
+| Anxiety and Stress Levels    | 8.0 $\pm$ 0.5      |
+| Emotional Stability          | 6.0 $\pm$ 0.0      |
+| Problem-solving Skills       | 8.0 $\pm$ 0.5      |
+| Creativity                   | 9.0 $\pm$ 0.0      |
+| Interpersonal Relationships  | 6.2 $\pm$ 0.8      |
+| Confidence and Self-efficacy | 6.0 $\pm$ 0.6      |
+| Conflict Resolution          | 5.9 $\pm$ 1.1      |
+| Work-related Stress          | 7.8 $\pm$ 0.4      |
+| Adaptability                 | 7.6 $\pm$ 0.6      |
+| Achievement Motivation       | 7.4 $\pm$ 0.5      |
+| Fear of Failure              | 7.2 $\pm$ 0.6      |
+| Need for Control             | 6.2 $\pm$ 0.6      |
+| Cognitive Load               | 8.0 $\pm$ 0.4      |
+| Social Support               | 5.1 $\pm$ 1.1      |
+| Resilience                   | 7.5 $\pm$ 0.5      |
 
 
 

@@ -112,7 +112,9 @@
 | DeepSeek-V3-0324                           | **367.5** | 8.0 $\pm$ 0.5               | 5.5 $\pm$ 0.8         | 8.4 $\pm$ 0.4            | 9.4 $\pm$ 0.2  | 6.9 $\pm$ 0.2                 | 6.8 $\pm$ 0.6                  | 7.2 $\pm$ 0.6         | 8.2 $\pm$ 0.2         | 8.0 $\pm$ 0.8  | 8.6 $\pm$ 0.2            | 7.4 $\pm$ 0.5     | 7.5 $\pm$ 0.4      | 8.4 $\pm$ 0.4    | 6.4 $\pm$ 0.2    | 7.8 $\pm$ 0.6 |
 | gemini-2.5-flash-lite-preview-06-17        | **367.4** | 7.8 $\pm$ 0.8               | 5.0 $\pm$ 1.0         | 8.8 $\pm$ 0.2            | 9.7 $\pm$ 0.1  | 7.0 $\pm$ 1.0                 | 6.4 $\pm$ 1.0                  | 6.1 $\pm$ 2.2         | 7.6 $\pm$ 0.7         | 8.5 $\pm$ 0.9  | 9.2 $\pm$ 0.2            | 7.2 $\pm$ 1.5     | 7.4 $\pm$ 0.4      | 8.8 $\pm$ 0.3    | 6.3 $\pm$ 1.4    | 8.6 $\pm$ 0.7 |
 | deepseek-aiDeepSeek-R1-0528                | **367.3** | 8.3 $\pm$ 0.5               | 5.0 $\pm$ 0.7         | 8.9 $\pm$ 0.2            | 9.5 $\pm$ 0.0  | 6.8 $\pm$ 0.2                 | 6.6 $\pm$ 0.6                  | 6.8 $\pm$ 0.6         | 8.2 $\pm$ 0.4         | 8.8 $\pm$ 0.3  | 8.9 $\pm$ 0.2            | 8.0 $\pm$ 0.3     | 7.5 $\pm$ 0.4      | 8.8 $\pm$ 0.2    | 6.6 $\pm$ 0.4    | 8.3 $\pm$ 0.3 |
+| z-aiglm-4.5-air                            | **365.7** | 8.3 $\pm$ 0.3               | 5.1 $\pm$ 0.2         | 8.9 $\pm$ 0.1            | 9.5 $\pm$ 0.0  | 6.8 $\pm$ 0.5                 | 6.7 $\pm$ 0.5                  | 6.4 $\pm$ 0.7         | 8.5 $\pm$ 0.5         | 8.2 $\pm$ 0.2  | 9.1 $\pm$ 0.2            | 8.1 $\pm$ 0.4     | 7.5 $\pm$ 0.3      | 8.7 $\pm$ 0.2    | 6.3 $\pm$ 0.3    | 8.4 $\pm$ 0.4 |
 | gemini-2.0-pro-exp-02-05                   | **365.5** | 8.0 $\pm$ 0.5               | 4.5 $\pm$ 0.9         | 8.8 $\pm$ 0.4            | 9.5 $\pm$ 0.0  | 7.1 $\pm$ 0.7                 | 6.1 $\pm$ 0.4                  | 5.5 $\pm$ 0.4         | 7.6 $\pm$ 0.4         | 9.2 $\pm$ 0.2  | 8.9 $\pm$ 0.2            | 8.2 $\pm$ 0.2     | 6.5 $\pm$ 0.9      | 8.4 $\pm$ 0.2    | 6.6 $\pm$ 0.7    | 8.6 $\pm$ 0.4 |
+| z-aiglm-4.5                                | **364.5** | 8.6 $\pm$ 0.2               | 4.6 $\pm$ 0.8         | 8.8 $\pm$ 0.2            | 9.5 $\pm$ 0.0  | 6.8 $\pm$ 0.2                 | 6.6 $\pm$ 0.7                  | 6.9 $\pm$ 0.9         | 8.5 $\pm$ 0.5         | 8.6 $\pm$ 0.2  | 8.8 $\pm$ 0.4            | 7.9 $\pm$ 0.4     | 7.4 $\pm$ 0.4      | 8.9 $\pm$ 0.2    | 6.1 $\pm$ 0.4    | 8.8 $\pm$ 0.4 |
 | grok-4-0709                                | **364.5** | 8.0 $\pm$ 0.5               | 4.9 $\pm$ 0.6         | 8.0 $\pm$ 0.0            | 9.5 $\pm$ 0.0  | 6.6 $\pm$ 0.4                 | 6.4 $\pm$ 0.5                  | 6.5 $\pm$ 0.5         | 7.9 $\pm$ 0.4         | 8.4 $\pm$ 0.4  | 8.6 $\pm$ 0.2            | 7.4 $\pm$ 0.2     | 6.6 $\pm$ 0.4      | 8.4 $\pm$ 0.4    | 6.6 $\pm$ 0.4    | 8.1 $\pm$ 0.2 |
 | claude-3-opus-20240229                     | **363.8** | 8.2 $\pm$ 0.3               | 5.0 $\pm$ 0.4         | 8.6 $\pm$ 0.4            | 9.4 $\pm$ 0.1  | 6.9 $\pm$ 0.5                 | 6.1 $\pm$ 0.6                  | 6.2 $\pm$ 0.8         | 8.2 $\pm$ 0.2         | 8.2 $\pm$ 0.3  | 9.0 $\pm$ 0.0            | 7.8 $\pm$ 0.4     | 7.2 $\pm$ 0.3      | 8.6 $\pm$ 0.4    | 6.4 $\pm$ 0.7    | 8.6 $\pm$ 0.4 |
 | Gemini-1.5-Pro-Exp-0827                    | **362.9** | 8.3 $\pm$ 0.3               | 4.6 $\pm$ 0.3         | 8.1 $\pm$ 0.2            | 9.5 $\pm$ 0.0  | 7.0 $\pm$ 0.4                 | 6.4 $\pm$ 0.3                  | 6.2 $\pm$ 1.6         | 8.0 $\pm$ 0.6         | 8.3 $\pm$ 0.5  | 9.0 $\pm$ 0.0            | 7.8 $\pm$ 0.6     | 7.0 $\pm$ 0.4      | 8.3 $\pm$ 0.2    | 6.6 $\pm$ 0.4    | 8.2 $\pm$ 0.5 |
@@ -3941,6 +3943,58 @@
 | Cognitive Load               | 8.4 $\pm$ 0.4      |
 | Social Support               | 6.2 $\pm$ 0.8      |
 | Resilience                   | 8.3 $\pm$ 0.7      |
+
+
+
+
+
+
+### z-aiglm-4.5-air
+
+
+| Personality Trait            | Score (1.0-10.0)   |
+|:-----------------------------|:-------------------|
+| Anxiety and Stress Levels    | 8.3 $\pm$ 0.3      |
+| Emotional Stability          | 5.1 $\pm$ 0.2      |
+| Problem-solving Skills       | 8.9 $\pm$ 0.1      |
+| Creativity                   | 9.5 $\pm$ 0.0      |
+| Interpersonal Relationships  | 6.8 $\pm$ 0.5      |
+| Confidence and Self-efficacy | 6.7 $\pm$ 0.5      |
+| Conflict Resolution          | 6.4 $\pm$ 0.7      |
+| Work-related Stress          | 8.5 $\pm$ 0.5      |
+| Adaptability                 | 8.2 $\pm$ 0.2      |
+| Achievement Motivation       | 9.1 $\pm$ 0.2      |
+| Fear of Failure              | 8.1 $\pm$ 0.4      |
+| Need for Control             | 7.5 $\pm$ 0.3      |
+| Cognitive Load               | 8.7 $\pm$ 0.2      |
+| Social Support               | 6.3 $\pm$ 0.3      |
+| Resilience                   | 8.4 $\pm$ 0.4      |
+
+
+
+
+
+
+### z-aiglm-4.5
+
+
+| Personality Trait            | Score (1.0-10.0)   |
+|:-----------------------------|:-------------------|
+| Anxiety and Stress Levels    | 8.6 $\pm$ 0.2      |
+| Emotional Stability          | 4.6 $\pm$ 0.8      |
+| Problem-solving Skills       | 8.8 $\pm$ 0.2      |
+| Creativity                   | 9.5 $\pm$ 0.0      |
+| Interpersonal Relationships  | 6.8 $\pm$ 0.2      |
+| Confidence and Self-efficacy | 6.6 $\pm$ 0.7      |
+| Conflict Resolution          | 6.9 $\pm$ 0.9      |
+| Work-related Stress          | 8.5 $\pm$ 0.5      |
+| Adaptability                 | 8.6 $\pm$ 0.2      |
+| Achievement Motivation       | 8.8 $\pm$ 0.4      |
+| Fear of Failure              | 7.9 $\pm$ 0.4      |
+| Need for Control             | 7.4 $\pm$ 0.4      |
+| Cognitive Load               | 8.9 $\pm$ 0.2      |
+| Social Support               | 6.1 $\pm$ 0.4      |
+| Resilience                   | 8.8 $\pm$ 0.4      |
 
 
 

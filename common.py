@@ -1,4 +1,4 @@
-ANSWERING_MODEL_NAME = "openrouter/cypher-alpha:free"
+ANSWERING_MODEL_NAME = "z-ai/glm-4.5"
 EVALUATING_MODEL_NAME = "gpt-4.1"
 
 
@@ -45,6 +45,12 @@ ALL_JUDGES = {
         "evaluation_api_url": "https://api.openai.com/v1/",
         "api_key": open("../api_openai.txt", "r").read().strip(),
     },
+    "moonshotai/kimi-k2": {
+        "evaluation_folder": "evaluations-kimik2",
+        "git_table_result": "results_kimik2.md",
+        "evaluation_api_url": "https://openrouter.ai/api/v1/",
+        "api_key": open("../api_openrouter.txt", "r").read().strip()
+    }
 }
 
 
@@ -66,6 +72,8 @@ def get_evaluation_folder(evaluating_model_name=None):
         return ALL_JUDGES["gpt-4.1"]["evaluation_folder"]
     elif "gpt-4.5" in evaluating_model_name:
         return ALL_JUDGES["gpt-4.5-preview"]["evaluation_folder"]
+    elif "kimi" in evaluating_model_name:
+        return ALL_JUDGES["moonshotai/kimi-k2"]["evaluation_folder"]
 
 
 def get_git_table_result(evaluating_model_name=None):
@@ -86,6 +94,8 @@ def get_git_table_result(evaluating_model_name=None):
         return ALL_JUDGES["gpt-4.1"]["git_table_result"]
     elif "gpt-4.5" in evaluating_model_name:
         return ALL_JUDGES["gpt-4.5-preview"]["git_table_result"]
+    elif "kimi" in evaluating_model_name:
+        return ALL_JUDGES["moonshotai/kimi-k2"]["git_table_result"]
 
 
 def get_evaluation_api_url(evaluating_model_name=None):
@@ -106,6 +116,8 @@ def get_evaluation_api_url(evaluating_model_name=None):
         return ALL_JUDGES["gpt-4.1"]["evaluation_api_url"]
     elif "gpt-4.5" in evaluating_model_name:
         return ALL_JUDGES["gpt-4.5-preview"]["evaluation_api_url"]
+    elif "kimi" in evaluating_model_name:
+        return ALL_JUDGES["moonshotai/kimi-k2"]["evaluation_api_url"]
 
 
 def get_manual(evaluating_model_name=None):
@@ -136,6 +148,8 @@ def get_api_key(evaluating_model_name=None):
         return ALL_JUDGES["gpt-4.1"]["api_key"]
     elif "gpt-4.5" in evaluating_model_name:
         return ALL_JUDGES["gpt-4.5-preview"]["api_key"]
+    elif "kimi" in evaluating_model_name:
+        return ALL_JUDGES["moonshotai/kimi-k2"]["api_key"]
 
 
 #EVALUATION_FOLDER = get_evaluation_folder()

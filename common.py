@@ -1,4 +1,4 @@
-ANSWERING_MODEL_NAME = "z-ai/glm-4.5"
+ANSWERING_MODEL_NAME = "openrouter/horizon-alpha"
 EVALUATING_MODEL_NAME = "gpt-4.1"
 
 
@@ -47,7 +47,7 @@ ALL_JUDGES = {
     },
     "moonshotai/kimi-k2": {
         "evaluation_folder": "evaluations-kimik2",
-        "git_table_result": "results_kimik2.md",
+        "git_table_result": "alt_results_kimik2.md",
         "evaluation_api_url": "https://openrouter.ai/api/v1/",
         "api_key": open("../api_openrouter.txt", "r").read().strip()
     }

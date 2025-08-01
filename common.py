@@ -50,6 +50,12 @@ ALL_JUDGES = {
         "git_table_result": "alt_results_kimik2.md",
         "evaluation_api_url": "https://openrouter.ai/api/v1/",
         "api_key": open("../api_openrouter.txt", "r").read().strip()
+    },
+    "openrouter/horizon-alpha": {
+        "evaluation_folder": "evaluations-horizonalpha",
+        "git_table_result": "alt_results_horizonalpha.md",
+        "evaluation_api_url": "https://openrouter.ai/api/v1/",
+        "api_key": open("../api_openrouter.txt", "r").read().strip()
     }
 }
 
@@ -74,6 +80,8 @@ def get_evaluation_folder(evaluating_model_name=None):
         return ALL_JUDGES["gpt-4.5-preview"]["evaluation_folder"]
     elif "kimi" in evaluating_model_name:
         return ALL_JUDGES["moonshotai/kimi-k2"]["evaluation_folder"]
+    elif "horizon" in evaluating_model_name:
+        return ALL_JUDGES["openrouter/horizon-alpha"]["evaluation_folder"]
 
 
 def get_git_table_result(evaluating_model_name=None):
@@ -96,7 +104,8 @@ def get_git_table_result(evaluating_model_name=None):
         return ALL_JUDGES["gpt-4.5-preview"]["git_table_result"]
     elif "kimi" in evaluating_model_name:
         return ALL_JUDGES["moonshotai/kimi-k2"]["git_table_result"]
-
+    elif "horizon" in evaluating_model_name:
+        return ALL_JUDGES["openrouter/horizon-alpha"]["git_table_result"]
 
 def get_evaluation_api_url(evaluating_model_name=None):
     if evaluating_model_name is None:
@@ -118,7 +127,8 @@ def get_evaluation_api_url(evaluating_model_name=None):
         return ALL_JUDGES["gpt-4.5-preview"]["evaluation_api_url"]
     elif "kimi" in evaluating_model_name:
         return ALL_JUDGES["moonshotai/kimi-k2"]["evaluation_api_url"]
-
+    elif "horizon" in evaluating_model_name:
+        return ALL_JUDGES["openrouter/horizon-alpha"]["evaluation_api_url"]
 
 def get_manual(evaluating_model_name=None):
     if evaluating_model_name is None:
@@ -150,7 +160,8 @@ def get_api_key(evaluating_model_name=None):
         return ALL_JUDGES["gpt-4.5-preview"]["api_key"]
     elif "kimi" in evaluating_model_name:
         return ALL_JUDGES["moonshotai/kimi-k2"]["api_key"]
-
+    elif "horizon" in evaluating_model_name:
+        return ALL_JUDGES["openrouter/horizon-alpha"]["api_key"]
 
 #EVALUATION_FOLDER = get_evaluation_folder()
 #TARGET_GIT_TABLE_RESULT = get_git_table_result()

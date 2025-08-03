@@ -27,6 +27,7 @@
 | mistral-large-2407                         | **436.0** | 4.2 $\pm$ 0.8               | 8.4 $\pm$ 0.2         | 9.0 $\pm$ 0.0            | 9.5 $\pm$ 0.0  | 7.8 $\pm$ 0.6                 | 8.0 $\pm$ 0.0                  | 8.4 $\pm$ 0.2         | 5.0 $\pm$ 0.7         | 9.0 $\pm$ 0.0  | 8.6 $\pm$ 0.2            | 4.0 $\pm$ 0.4     | 5.5 $\pm$ 0.5      | 7.4 $\pm$ 0.2    | 7.6 $\pm$ 0.4    | 8.9 $\pm$ 0.2 |
 | grok-2-1212                                | **436.0** | 5.6 $\pm$ 1.2               | 8.1 $\pm$ 0.2         | 9.0 $\pm$ 0.0            | 9.2 $\pm$ 0.2  | 8.2 $\pm$ 0.2                 | 8.4 $\pm$ 0.2                  | 8.1 $\pm$ 0.2         | 6.4 $\pm$ 1.0         | 9.0 $\pm$ 0.0  | 9.1 $\pm$ 0.2            | 4.4 $\pm$ 0.5     | 6.0 $\pm$ 0.0      | 8.0 $\pm$ 0.5    | 8.2 $\pm$ 0.2    | 9.1 $\pm$ 0.2 |
 | qwen2.5-32b-instruct                       | **435.5** | 4.6 $\pm$ 0.6               | 8.4 $\pm$ 0.2         | 9.0 $\pm$ 0.0            | 9.4 $\pm$ 0.2  | 8.1 $\pm$ 0.2                 | 8.1 $\pm$ 0.2                  | 8.0 $\pm$ 0.4         | 5.6 $\pm$ 0.6         | 9.0 $\pm$ 0.0  | 8.9 $\pm$ 0.2            | 4.4 $\pm$ 0.7     | 5.8 $\pm$ 0.6      | 7.6 $\pm$ 0.2    | 7.9 $\pm$ 0.4    | 8.9 $\pm$ 0.2 |
+| openrouterhorizon-beta                     | **435.5** | 5.5 $\pm$ 0.7               | 8.6 $\pm$ 0.4         | 9.0 $\pm$ 0.4            | 10.0 $\pm$ 0.0 | 8.2 $\pm$ 0.2                 | 7.6 $\pm$ 0.2                  | 8.2 $\pm$ 0.2         | 5.9 $\pm$ 0.5         | 9.0 $\pm$ 0.0  | 8.4 $\pm$ 0.2            | 4.6 $\pm$ 0.4     | 5.5 $\pm$ 0.5      | 7.5 $\pm$ 0.4    | 7.9 $\pm$ 0.2    | 9.1 $\pm$ 0.2 |
 | codestral-2501                             | **435.5** | 4.9 $\pm$ 1.0               | 8.1 $\pm$ 0.2         | 9.0 $\pm$ 0.0            | 9.2 $\pm$ 0.2  | 8.2 $\pm$ 0.2                 | 8.2 $\pm$ 0.2                  | 7.5 $\pm$ 0.5         | 6.1 $\pm$ 0.7         | 9.0 $\pm$ 0.0  | 9.0 $\pm$ 0.0            | 4.1 $\pm$ 0.9     | 6.0 $\pm$ 0.0      | 7.5 $\pm$ 0.6    | 7.9 $\pm$ 0.5    | 9.0 $\pm$ 0.0 |
 | o1-mini                                    | **435.0** | 4.8 $\pm$ 0.8               | 8.1 $\pm$ 0.2         | 8.9 $\pm$ 0.2            | 9.4 $\pm$ 0.2  | 7.9 $\pm$ 0.4                 | 8.2 $\pm$ 0.2                  | 8.2 $\pm$ 0.4         | 5.6 $\pm$ 0.6         | 8.9 $\pm$ 0.2  | 8.8 $\pm$ 0.2            | 4.1 $\pm$ 0.6     | 5.9 $\pm$ 0.2      | 7.5 $\pm$ 0.4    | 8.0 $\pm$ 0.5    | 9.0 $\pm$ 0.0 |
 | phi3.53.8b-mini-instruct-fp16              | **434.5** | 5.6 $\pm$ 0.8               | 8.2 $\pm$ 0.2         | 8.9 $\pm$ 0.2            | 9.6 $\pm$ 0.2  | 8.1 $\pm$ 0.2                 | 8.4 $\pm$ 0.2                  | 8.0 $\pm$ 0.0         | 6.4 $\pm$ 0.2         | 9.0 $\pm$ 0.0  | 8.8 $\pm$ 0.2            | 4.5 $\pm$ 0.4     | 5.5 $\pm$ 0.5      | 8.0 $\pm$ 0.5    | 7.6 $\pm$ 0.2    | 9.2 $\pm$ 0.2 |
@@ -3087,6 +3088,32 @@
 | Cognitive Load               | 7.4 $\pm$ 0.2      |
 | Social Support               | 8.0 $\pm$ 0.4      |
 | Resilience                   | 9.0 $\pm$ 0.4      |
+
+
+
+
+
+
+### openrouterhorizon-beta
+
+
+| Personality Trait            | Score (1.0-10.0)   |
+|:-----------------------------|:-------------------|
+| Anxiety and Stress Levels    | 5.5 $\pm$ 0.7      |
+| Emotional Stability          | 8.6 $\pm$ 0.4      |
+| Problem-solving Skills       | 9.0 $\pm$ 0.4      |
+| Creativity                   | 10.0 $\pm$ 0.0     |
+| Interpersonal Relationships  | 8.2 $\pm$ 0.2      |
+| Confidence and Self-efficacy | 7.6 $\pm$ 0.2      |
+| Conflict Resolution          | 8.2 $\pm$ 0.2      |
+| Work-related Stress          | 5.9 $\pm$ 0.5      |
+| Adaptability                 | 9.0 $\pm$ 0.0      |
+| Achievement Motivation       | 8.4 $\pm$ 0.2      |
+| Fear of Failure              | 4.6 $\pm$ 0.4      |
+| Need for Control             | 5.5 $\pm$ 0.5      |
+| Cognitive Load               | 7.5 $\pm$ 0.4      |
+| Social Support               | 7.9 $\pm$ 0.2      |
+| Resilience                   | 9.1 $\pm$ 0.2      |
 
 
 

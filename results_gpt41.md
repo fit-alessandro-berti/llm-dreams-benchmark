@@ -43,6 +43,7 @@
 | phi4-reasoningplus                         | **436.5** | 5.4 $\pm$ 1.2               | 8.4 $\pm$ 0.2         | 9.0 $\pm$ 0.1            | 9.9 $\pm$ 0.1  | 8.3 $\pm$ 0.2                 | 8.0 $\pm$ 0.3                  | 8.7 $\pm$ 0.2         | 5.6 $\pm$ 0.7         | 9.2 $\pm$ 0.2  | 8.4 $\pm$ 0.4            | 5.2 $\pm$ 1.0     | 5.4 $\pm$ 0.7      | 8.1 $\pm$ 0.4    | 8.4 $\pm$ 0.6    | 9.3 $\pm$ 0.2 |
 | nvidiallama-3.1-nemotron-ultra-253b-v1free | **435.8** | 6.1 $\pm$ 1.1               | 8.0 $\pm$ 0.0         | 9.2 $\pm$ 0.2            | 9.9 $\pm$ 0.2  | 8.7 $\pm$ 0.2                 | 8.0 $\pm$ 0.3                  | 8.8 $\pm$ 0.6         | 6.9 $\pm$ 0.7         | 9.1 $\pm$ 0.1  | 9.3 $\pm$ 0.3            | 6.2 $\pm$ 1.1     | 6.5 $\pm$ 0.6      | 8.0 $\pm$ 0.3    | 8.8 $\pm$ 0.4    | 9.3 $\pm$ 0.2 |
 | mistral-small-2501                         | **435.5** | 6.4 $\pm$ 0.8               | 8.4 $\pm$ 0.2         | 9.2 $\pm$ 0.2            | 9.9 $\pm$ 0.1  | 8.5 $\pm$ 0.2                 | 8.0 $\pm$ 0.2                  | 9.0 $\pm$ 0.4         | 7.1 $\pm$ 0.5         | 9.4 $\pm$ 0.1  | 9.0 $\pm$ 0.1            | 6.0 $\pm$ 0.5     | 6.8 $\pm$ 0.5      | 8.4 $\pm$ 0.2    | 8.6 $\pm$ 0.1    | 9.5 $\pm$ 0.2 |
+| openrouterhorizon-beta                     | **435.3** | 5.7 $\pm$ 1.0               | 8.1 $\pm$ 0.2         | 9.1 $\pm$ 0.1            | 10.0 $\pm$ 0.1 | 8.4 $\pm$ 0.2                 | 7.6 $\pm$ 0.3                  | 8.9 $\pm$ 0.1         | 6.6 $\pm$ 0.3         | 9.2 $\pm$ 0.2  | 8.4 $\pm$ 0.2            | 5.6 $\pm$ 0.2     | 6.0 $\pm$ 0.7      | 8.1 $\pm$ 0.1    | 8.6 $\pm$ 0.2    | 9.4 $\pm$ 0.1 |
 | o4-mini-2025-04-16                         | **434.4** | 5.8 $\pm$ 1.1               | 8.1 $\pm$ 0.2         | 9.1 $\pm$ 0.2            | 10.0 $\pm$ 0.0 | 8.2 $\pm$ 0.2                 | 8.1 $\pm$ 0.4                  | 8.9 $\pm$ 0.2         | 6.5 $\pm$ 0.6         | 9.4 $\pm$ 0.2  | 8.8 $\pm$ 0.2            | 5.8 $\pm$ 0.6     | 6.4 $\pm$ 0.7      | 8.1 $\pm$ 0.5    | 8.0 $\pm$ 0.3    | 9.4 $\pm$ 0.1 |
 | mistral-large-2411                         | **434.1** | 5.7 $\pm$ 1.4               | 7.9 $\pm$ 0.3         | 9.0 $\pm$ 0.0            | 9.8 $\pm$ 0.2  | 8.5 $\pm$ 0.0                 | 8.1 $\pm$ 0.3                  | 8.8 $\pm$ 0.2         | 6.1 $\pm$ 1.3         | 9.1 $\pm$ 0.1  | 8.7 $\pm$ 0.3            | 5.6 $\pm$ 1.1     | 6.4 $\pm$ 0.5      | 8.0 $\pm$ 0.6    | 8.8 $\pm$ 0.4    | 9.4 $\pm$ 0.1 |
 | o1-pro-2024-12-05                          | **433.7** | 6.4 $\pm$ 0.5               | 8.0 $\pm$ 0.1         | 9.0 $\pm$ 0.1            | 9.7 $\pm$ 0.2  | 8.3 $\pm$ 0.2                 | 8.3 $\pm$ 0.3                  | 8.8 $\pm$ 0.2         | 7.1 $\pm$ 0.5         | 9.4 $\pm$ 0.1  | 8.9 $\pm$ 0.1            | 6.1 $\pm$ 0.3     | 6.3 $\pm$ 0.5      | 8.2 $\pm$ 0.3    | 8.5 $\pm$ 0.1    | 9.3 $\pm$ 0.2 |
@@ -3087,6 +3088,32 @@
 | Cognitive Load               | 8.2 $\pm$ 0.8      |
 | Social Support               | 8.6 $\pm$ 0.5      |
 | Resilience                   | 9.7 $\pm$ 0.2      |
+
+
+
+
+
+
+### openrouterhorizon-beta
+
+
+| Personality Trait            | Score (1.0-10.0)   |
+|:-----------------------------|:-------------------|
+| Anxiety and Stress Levels    | 5.7 $\pm$ 1.0      |
+| Emotional Stability          | 8.1 $\pm$ 0.2      |
+| Problem-solving Skills       | 9.1 $\pm$ 0.1      |
+| Creativity                   | 10.0 $\pm$ 0.1     |
+| Interpersonal Relationships  | 8.4 $\pm$ 0.2      |
+| Confidence and Self-efficacy | 7.6 $\pm$ 0.3      |
+| Conflict Resolution          | 8.9 $\pm$ 0.1      |
+| Work-related Stress          | 6.6 $\pm$ 0.3      |
+| Adaptability                 | 9.2 $\pm$ 0.2      |
+| Achievement Motivation       | 8.4 $\pm$ 0.2      |
+| Fear of Failure              | 5.6 $\pm$ 0.2      |
+| Need for Control             | 6.0 $\pm$ 0.7      |
+| Cognitive Load               | 8.1 $\pm$ 0.1      |
+| Social Support               | 8.6 $\pm$ 0.2      |
+| Resilience                   | 9.4 $\pm$ 0.1      |
 
 
 

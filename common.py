@@ -1,4 +1,4 @@
-ANSWERING_MODEL_NAME = "openrouter/horizon-alpha"
+ANSWERING_MODEL_NAME = "openrouter/horizon-beta"
 EVALUATING_MODEL_NAME = "gpt-4.1"
 
 

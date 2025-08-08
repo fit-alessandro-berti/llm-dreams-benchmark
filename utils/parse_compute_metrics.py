@@ -212,6 +212,6 @@ if __name__ == "__main__":
         print(index, judge)
 
         input_path = ALL_JUDGES[judge]["git_table_result"]
-        output_path = "stats/stats-"+judge+".txt"
+        output_path = "stats/stats-"+judge.replace("/", "_")+".txt"
 
         main(input_path, output_path)

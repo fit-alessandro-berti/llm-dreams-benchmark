@@ -1,0 +1,124 @@
+STD of single entries:	min=0.000	1st_quart=0.200	median=0.300	3rd_quart=0.500	max=3.000
+
+Variability Analysis Results (considering the AVG in each AVG ± STDEV tabular value):
+
+1. Basic Statistics:
+
+Mean:
+  Anxiety and Stress Levels: 7.061
+  Emotional Stability: 6.428
+  Problem-solving Skills: 8.694
+  Creativity: 9.368
+  Interpersonal Relationships: 7.188
+  Confidence and Self-efficacy: 7.569
+  Conflict Resolution: 7.366
+  Work-related Stress: 7.414
+  Adaptability: 8.826
+  Achievement Motivation: 8.589
+  Fear of Failure: 6.348
+  Need for Control: 6.124
+  Cognitive Load: 7.792
+  Social Support: 7.073
+  Resilience: 8.418
+
+Std:
+  Anxiety and Stress Levels: 0.668
+  Emotional Stability: 0.917
+  Problem-solving Skills: 0.340
+  Creativity: 0.323
+  Interpersonal Relationships: 0.736
+  Confidence and Self-efficacy: 0.688
+  Conflict Resolution: 0.841
+  Work-related Stress: 0.701
+  Adaptability: 0.358
+  Achievement Motivation: 0.380
+  Fear of Failure: 0.936
+  Need for Control: 0.502
+  Cognitive Load: 0.405
+  Social Support: 0.815
+  Resilience: 0.541
+
+Coeff_variation:
+  Anxiety and Stress Levels: 0.095
+  Emotional Stability: 0.143
+  Problem-solving Skills: 0.039
+  Creativity: 0.035
+  Interpersonal Relationships: 0.102
+  Confidence and Self-efficacy: 0.091
+  Conflict Resolution: 0.114
+  Work-related Stress: 0.095
+  Adaptability: 0.041
+  Achievement Motivation: 0.044
+  Fear of Failure: 0.147
+  Need for Control: 0.082
+  Cognitive Load: 0.052
+  Social Support: 0.115
+  Resilience: 0.064
+
+Range:
+  Anxiety and Stress Levels: 3.400
+  Emotional Stability: 3.700
+  Problem-solving Skills: 1.900
+  Creativity: 2.200
+  Interpersonal Relationships: 3.300
+  Confidence and Self-efficacy: 3.200
+  Conflict Resolution: 4.500
+  Work-related Stress: 4.000
+  Adaptability: 1.900
+  Achievement Motivation: 2.100
+  Fear of Failure: 4.700
+  Need for Control: 3.000
+  Cognitive Load: 2.100
+  Social Support: 3.800
+  Resilience: 2.900
+
+2. UMAP Analysis:
+  Variance UMAP1: 7.023
+  Variance UMAP2: 1.014
+  Total variance: 8.037
+  Range UMAP1: 8.699
+  Range UMAP2: 4.258
+  Sample embeddings (first 3 LLMs):
+    gpt-4-turbo-2024-04-09: UMAP1=5.682, UMAP2=4.388
+    microsoftphi-4: UMAP1=5.601, UMAP2=4.950
+    mistral-large-2407: UMAP1=5.611, UMAP2=5.098
+
+3. Correlation Analysis:
+  Mean absolute correlation: 0.595
+  Maximum correlation: 0.938
+  Highly correlated pairs (|r| > 0.7):
+    Anxiety and Stress Levels - Emotional Stability: -0.797
+    Anxiety and Stress Levels - Work-related Stress: 0.898
+    Anxiety and Stress Levels - Fear of Failure: 0.884
+    Anxiety and Stress Levels - Cognitive Load: 0.712
+    Emotional Stability - Interpersonal Relationships: 0.881
+    Emotional Stability - Work-related Stress: -0.818
+    Emotional Stability - Fear of Failure: -0.866
+    Emotional Stability - Social Support: 0.876
+    Emotional Stability - Resilience: 0.823
+    Problem-solving Skills - Resilience: 0.761
+    Interpersonal Relationships - Social Support: 0.938
+    Interpersonal Relationships - Resilience: 0.802
+    Confidence and Self-efficacy - Emotional Stability: 0.868
+    Confidence and Self-efficacy - Problem-solving Skills: 0.778
+    Confidence and Self-efficacy - Interpersonal Relationships: 0.807
+    Confidence and Self-efficacy - Conflict Resolution: 0.759
+    Confidence and Self-efficacy - Fear of Failure: -0.772
+    Confidence and Self-efficacy - Social Support: 0.815
+    Confidence and Self-efficacy - Resilience: 0.855
+    Conflict Resolution - Emotional Stability: 0.810
+    Conflict Resolution - Interpersonal Relationships: 0.830
+    Conflict Resolution - Fear of Failure: -0.702
+    Conflict Resolution - Social Support: 0.820
+    Conflict Resolution - Resilience: 0.820
+    Adaptability - Resilience: 0.797
+    Achievement Motivation - Confidence and Self-efficacy: 0.703
+    Fear of Failure - Interpersonal Relationships: -0.759
+    Fear of Failure - Work-related Stress: 0.879
+    Fear of Failure - Social Support: -0.765
+    Resilience - Social Support: 0.826
+
+4. LLM Variability:
+  Mean variance across LLMs: 1.343
+  Max variance LLM: gpt-4-turbo-2024-04-09
+  Min variance LLM: deepseek-aiDeepSeek-R1-Zero

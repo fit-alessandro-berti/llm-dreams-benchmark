@@ -1,4 +1,4 @@
-ANSWERING_MODEL_NAME = "openrouter/horizon-beta"
+ANSWERING_MODEL_NAME = "gpt-5-chat-latest"
 EVALUATING_MODEL_NAME = "gpt-4.1"
 
 
@@ -39,6 +39,12 @@ ALL_JUDGES = {
         "evaluation_api_url": "https://api.openai.com/v1/",
         "api_key": open("../api_openai.txt", "r").read().strip(),
     },
+    "gpt-5": {
+        "evaluation_folder": "evaluations-gpt50",
+        "git_table_result": "results_gpt5.md",
+        "evaluation_api_url": "https://api.openai.com/v1/",
+        "api_key": open("../api_openai.txt", "r").read().strip(),
+    },
     "gpt-4.5-preview": {
         "evaluation_folder": "OLD/evaluations-gpt45",
         "git_table_result": "results_gpt_45.md",
@@ -70,6 +76,8 @@ def get_evaluation_folder(evaluating_model_name=None):
         return ALL_JUDGES["gpt-4.1-mini"]["evaluation_folder"]
     elif "gpt-4.1" in evaluating_model_name:
         return ALL_JUDGES["gpt-4.1"]["evaluation_folder"]
+    elif "gpt-5" in evaluating_model_name:
+        return ALL_JUDGES["gpt-5"]["evaluation_folder"]
     elif "gpt-4.5" in evaluating_model_name:
         return ALL_JUDGES["gpt-4.5-preview"]["evaluation_folder"]
     elif "kimi" in evaluating_model_name:
@@ -92,6 +100,8 @@ def get_git_table_result(evaluating_model_name=None):
         return ALL_JUDGES["gpt-4.1-mini"]["git_table_result"]
     elif "gpt-4.1" in evaluating_model_name:
         return ALL_JUDGES["gpt-4.1"]["git_table_result"]
+    elif "gpt-5" in evaluating_model_name:
+        return ALL_JUDGES["gpt-5"]["git_table_result"]
     elif "gpt-4.5" in evaluating_model_name:
         return ALL_JUDGES["gpt-4.5-preview"]["git_table_result"]
     elif "kimi" in evaluating_model_name:
@@ -114,6 +124,8 @@ def get_evaluation_api_url(evaluating_model_name=None):
         return ALL_JUDGES["gpt-4.1-mini"]["evaluation_api_url"]
     elif "gpt-4.1" in evaluating_model_name:
         return ALL_JUDGES["gpt-4.1"]["evaluation_api_url"]
+    elif "gpt-5" in evaluating_model_name:
+        return ALL_JUDGES["gpt-5"]["evaluation_api_url"]
     elif "gpt-4.5" in evaluating_model_name:
         return ALL_JUDGES["gpt-4.5-preview"]["evaluation_api_url"]
     elif "kimi" in evaluating_model_name:
@@ -148,6 +160,8 @@ def get_api_key(evaluating_model_name=None):
         return ALL_JUDGES["gpt-4.1"]["api_key"]
     elif "gpt-4.5" in evaluating_model_name:
         return ALL_JUDGES["gpt-4.5-preview"]["api_key"]
+    elif "gpt-5" in evaluating_model_name:
+        return ALL_JUDGES["gpt-5"]["api_key"]
     elif "kimi" in evaluating_model_name:
         return ALL_JUDGES["moonshotai/kimi-k2"]["api_key"]
 

@@ -26,8 +26,6 @@ JUDGES = {
     "mistral-small-2503": interpret(open(os.path.join("..", "alt_results_mistral-small-2503.md"), "r").read()),
     "gemini-2.5-flash": interpret(open(os.path.join("..", "alt_results_gemini25_flash.md"), "r").read()),
     "claude-sonnet-4": interpret(open(os.path.join("..", "alt_results_claude-40-sonnet.md"), "r").read()),
-    "gpt-4.1-mini": interpret(open(os.path.join("..", "alt_results_gpt41-mini.md"), "r").read()),
-    "gpt-4.1": interpret(open(os.path.join("..", "results_gpt41.md"), "r").read()),
     "gpt-5": interpret(open(os.path.join("..", "results_gpt5.md"), "r").read()),
     "gpt-4.5": interpret(open(os.path.join("..", "results_gpt_45.md"), "r").read()),
     "kimi-k2": interpret(open(os.path.join("..", "alt_results_kimik2.md"), "r").read()),

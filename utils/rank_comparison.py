@@ -26,15 +26,14 @@ JUDGES = {
     "mistral-small-2503": interpret(open(os.path.join("..", "alt_results_mistral-small-2503.md"), "r").read()),
     "gemini-2.5-flash": interpret(open(os.path.join("..", "alt_results_gemini25_flash.md"), "r").read()),
     "claude-sonnet-4": interpret(open(os.path.join("..", "alt_results_claude-40-sonnet.md"), "r").read()),
+    "gpt-5-mini": interpret(open(os.path.join("..", "alt_results_gpt5-mini.md"), "r").read()),
     "gpt-5": interpret(open(os.path.join("..", "results_gpt5.md"), "r").read()),
     "gpt-4.5": interpret(open(os.path.join("..", "results_gpt_45.md"), "r").read()),
     "kimi-k2": interpret(open(os.path.join("..", "alt_results_kimik2.md"), "r").read()),
 }
 
-model_keys = []
-for judge in JUDGES:
-    model_keys = list(JUDGES[judge].keys())
-    break
+REFERENCE_JUDGE = "gpt-4.5"
+model_keys = list(JUDGES[REFERENCE_JUDGE].keys())
 
 for judge in JUDGES:
     lst = []

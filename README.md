@@ -55,7 +55,7 @@ The judge LLM is asked to produce a JSON, reporting a value from 1.0 (minimum sc
 The following tables collect results evaluated by the same judge LLM:
 
 * [gpt-4.5](results_gpt_45.md)
-* [gpt-5](results_gpt50.md)
+* [gpt-5](results_gpt5.md)
 
 Alternative leaderboards (maintaned and updated less frequently):
 

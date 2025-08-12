@@ -1,4 +1,4 @@
-from typing import Dict
+from typing import Dict, List, Optional, Tuple
 import numpy as np
 import pandas as pd
 import sys
@@ -53,15 +53,122 @@ def parse_markdown_table(file_path: str) -> Dict[str, Dict[str, float]]:
         raise Exception(f"Error processing file: {str(e)}")
 
 
+def _format_tree_from_scipy(Z: np.ndarray, labels: List[str]) -> Tuple[str, int]:
+    """
+    Build a textual tree from a SciPy linkage matrix using '#' levels.
+    Returns (text, max_depth).
+    """
+    from scipy.cluster.hierarchy import to_tree  # type: ignore
+
+    root, _ = to_tree(Z, rd=True)
+
+    # Recursively traverse the tree
+    def rec(node, depth: int) -> Tuple[List[str], int]:
+        if node.is_leaf():
+            line = f"{'#' * depth} {labels[node.id]}"
+            return [line], depth
+        left_lines, left_max = rec(node.get_left(), depth + 1)
+        right_lines, right_max = rec(node.get_right(), depth + 1)
+        count = node.count
+        height = float(node.dist) if hasattr(node, "dist") else float("nan")
+        header = f"{'#' * depth} Cluster (n={count}, height={height:.3f})"
+        lines = [] + left_lines + right_lines
+        return lines, max(depth, left_max, right_max)
+
+    lines, max_depth = rec(root, 1)
+    return "\n".join(lines), max_depth
+
+
+def _format_tree_from_children(
+    children: np.ndarray,
+    labels: List[str],
+    distances: Optional[np.ndarray] = None
+) -> Tuple[str, int]:
+    """
+    Build a textual hierarchy from scikit-learn AgglomerativeClustering 'children_' array.
+    Returns (text, max_depth).
+    """
+    n_samples = len(labels)
+
+    # Recursive traversal that returns (lines, count, max_depth)
+    def rec(node_id: int, depth: int) -> Tuple[List[str], int, int]:
+        if node_id < n_samples:
+            # Leaf
+            return [f"{'#' * depth} {labels[node_id]}"], 1, depth
+        # Internal node index in children_ array
+        row = node_id - n_samples
+        left, right = children[row]
+        left_lines, left_count, left_max = rec(left, depth + 1)
+        right_lines, right_count, right_max = rec(right, depth + 1)
+        count = left_count + right_count
+        if distances is not None and len(distances) > row:
+            header = f"{'#' * depth} Cluster (n={count}, height={distances[row]:.3f})"
+        else:
+            header = f"{'#' * depth} Cluster (n={count})"
+        lines = [header] + left_lines + right_lines
+        return lines, count, max(depth, left_max, right_max)
+
+    root_id = n_samples + children.shape[0] - 1
+    lines, _, max_depth = rec(root_id, 1)
+    return "\n".join(lines), max_depth
+
+
+def _build_hierarchical_text(
+    standardized_data: np.ndarray,
+    labels: List[str],
+    method: str = "ward",
+    metric: str = "euclidean"
+) -> Dict[str, object]:
+    """
+    Compute hierarchical clustering and return a hash-prefixed textual representation.
+    Tries SciPy first; falls back to scikit-learn if SciPy isn't available.
+    """
+    # Try SciPy first
+    try:
+        from scipy.cluster.hierarchy import linkage  # type: ignore
+        Z = linkage(standardized_data, method=method, metric=metric)
+        text_tree, max_depth = _format_tree_from_scipy(Z, labels)
+        return {
+            "method": method,
+            "metric": metric,
+            "max_depth": int(max_depth),
+            "text_tree": text_tree
+        }
+    except Exception:
+        pass  # Fall back to scikit-learn
+
+    # Fallback: scikit-learn AgglomerativeClustering
+    try:
+        from sklearn.cluster import AgglomerativeClustering
+        # Build the full tree
+        model = AgglomerativeClustering(
+            n_clusters=None,
+            distance_threshold=0.0,
+            linkage=method if method in ("ward", "average", "complete", "single") else "ward",
+        )
+        model.fit(standardized_data)
+        distances = getattr(model, "distances_", None)
+        text_tree, max_depth = _format_tree_from_children(model.children_, labels, distances)
+        return {
+            "method": method if method in ("ward", "average", "complete", "single") else "ward",
+            "metric": metric,
+            "max_depth": int(max_depth),
+            "text_tree": text_tree
+        }
+    except Exception:
+        # Last-resort message if neither SciPy nor modern scikit-learn are available
+        return {
+            "method": method,
+            "metric": metric,
+            "max_depth": 0,
+            "text_tree": "# Hierarchical clustering could not be computed (missing SciPy and modern scikit-learn)."
+        }
+
+
 def analyze_variability(data: Dict[str, Dict[str, float]]) -> Dict:
     """
-    Compute various variability metrics for the parsed data using UMAP instead of PCA.
-
-    Args:
-        data (Dict[str, Dict[str, float]]): Parsed LLM metrics
-
-    Returns:
-        Dict: Dictionary containing various variability metrics
+    Compute various variability metrics for the parsed data using UMAP instead of PCA,
+    and append a textual representation of hierarchical clustering between models.
     """
     import umap
     from sklearn.preprocessing import StandardScaler
@@ -102,11 +209,13 @@ def analyze_variability(data: Dict[str, Dict[str, float]]) -> Dict:
 
     # 3. Correlation analysis
     correlation_matrix = df.corr()
+    # Exclude diagonal when taking max correlation
+    mask = ~np.eye(len(correlation_matrix), dtype=bool)
     results['correlation'] = {
-        'mean_abs_correlation': correlation_matrix.abs().mean().mean(),
-        'max_correlation': correlation_matrix.abs().where(~np.eye(len(df.columns), dtype=bool)).max().max(),
+        'mean_abs_correlation': float(correlation_matrix.abs().values[mask].mean()),
+        'max_correlation': float(correlation_matrix.abs().values[mask].max()),
         'highly_correlated_pairs': [
-            (col1, col2, correlation_matrix.loc[col1, col2])
+            (col1, col2, float(correlation_matrix.loc[col1, col2]))
             for col1 in correlation_matrix.columns
             for col2 in correlation_matrix.columns
             if col1 < col2 and abs(correlation_matrix.loc[col1, col2]) > 0.7
@@ -114,12 +223,23 @@ def analyze_variability(data: Dict[str, Dict[str, float]]) -> Dict:
     }
 
     # 4. Variability across LLMs
+    per_llm_var = df.var(axis=1)
     results['llm_variability'] = {
-        'total_variance_per_llm': df.var(axis=1).to_dict(),
-        'mean_variance': df.var(axis=1).mean(),
-        'max_variance_llm': df.var(axis=1).idxmax(),
-        'min_variance_llm': df.var(axis=1).idxmin()
+        'total_variance_per_llm': per_llm_var.to_dict(),
+        'mean_variance': float(per_llm_var.mean()),
+        'max_variance_llm': str(per_llm_var.idxmax()),
+        'min_variance_llm': str(per_llm_var.idxmin())
     }
+
+    # 5. Hierarchical clustering (textual tree appended in the output file)
+    # Use the same standardized data to ensure scale-invariant clustering.
+    hierarchical = _build_hierarchical_text(
+        standardized_data=standardized_data,
+        labels=df.index.tolist(),
+        method="ward",
+        metric="euclidean"
+    )
+    results['hierarchical'] = hierarchical
 
     return results
 
@@ -167,6 +287,16 @@ def write_results(output_path: str, variability_metrics: Dict, std_stats: tuple)
         f.write(f"  Max variance LLM: {variability_metrics['llm_variability']['max_variance_llm']}\n")
         f.write(f"  Min variance LLM: {variability_metrics['llm_variability']['min_variance_llm']}\n")
 
+        # 5. Append hierarchical clustering textual tree at the end
+        f.write("\n5. Hierarchical Clustering (textual tree):\n")
+        method = variability_metrics.get('hierarchical', {}).get('method', 'ward')
+        metric = variability_metrics.get('hierarchical', {}).get('metric', 'euclidean')
+        max_depth = variability_metrics.get('hierarchical', {}).get('max_depth', 0)
+        f.write(f"  Method: {method}, Metric: {metric}, Max depth (levels): {max_depth}\n\n")
+        text_tree = variability_metrics.get('hierarchical', {}).get('text_tree', '')
+        # Ensure the tree ends with a newline
+        f.write(text_tree.rstrip() + "\n")
+
 
 def main(input_path: str, output_path: str):
     """
@@ -188,7 +318,7 @@ def main(input_path: str, output_path: str):
         std_third = ALL_STDS[int((len(ALL_STDS) - 1) * 0.75)]
         std_stats = (std_min, std_first, std_median, std_third, std_max)
 
-        # Analyze variability
+        # Analyze variability (includes hierarchical clustering text)
         variability_metrics = analyze_variability(parsed_data)
 
         # Write results to file
@@ -212,6 +342,6 @@ if __name__ == "__main__":
         print(index, judge)
 
         input_path = ALL_JUDGES[judge]["git_table_result"]
-        output_path = "stats/stats-"+judge.replace("/", "_")+".txt"
+        output_path = "stats/stats-" + judge.replace("/", "_") + ".txt"
 
         main(input_path, output_path)

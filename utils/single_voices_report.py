@@ -1,4 +1,4 @@
-from typing import Dict, List, Tuple
+from typing import Dict, List
 import os
 import sys
 import re
@@ -28,7 +28,7 @@ def parse_markdown_table(file_path: str) -> Dict[str, Dict[str, float]]:
     result: Dict[str, Dict[str, float]] = {}
 
     def _parse_cell_mean(cell: str) -> float:
-        # Primary path: same as before (value like "3.5$\\pm$0.2")
+        # Primary path: values like "3.5$\\pm$0.2"
         if "$" in cell:
             try:
                 return float(cell.split("$")[0].strip())
@@ -121,42 +121,57 @@ def aggregate_averages(models_metrics_list: List[Dict[str, Dict[str, float]]]) -
     return out
 
 
-def write_report_md(output_path: str, voice_model_avgs: Dict[str, Dict[str, float]]):
+def voice_to_filename(voice: str) -> str:
     """
-    Write the report to stats/single_voices_report.md with the exact formatting:
-    <Voice>:
-    model_a 3.500
-    model_b 3.250
-    ...
+    Convert a voice name to a clean Markdown filename.
+    - Keep letters, digits, spaces, underscores, hyphens.
+    - Replace spaces and hyphens with underscores.
+    - Collapse multiple underscores.
     """
-    os.makedirs(os.path.dirname(output_path), exist_ok=True)
+    cleaned = re.sub(r"[^\w\s-]", "", voice)         # drop anything weird
+    cleaned = cleaned.replace("-", " ")              # treat hyphens like spaces
+    cleaned = "_".join(cleaned.split())              # spaces -> underscores (collapses repeats)
+    return f"{cleaned}.md"
+
+
+def write_per_voice_tables(output_dir: str, voice_model_avgs: Dict[str, Dict[str, float]]):
+    """
+    For each voice, write stats/single_voices/<Voice>.md containing a Markdown table:
+    | Model | Average |
+    |:--|--:|
+    | model_a | 3.500 |
+    | model_b | 3.250 |
+    """
+    os.makedirs(output_dir, exist_ok=True)
 
     # Order voices: keep HEADERS order first, then any unexpected voices alphabetically
     known = [v for v in HEADERS if v in voice_model_avgs]
     unknown = sorted([v for v in voice_model_avgs.keys() if v not in HEADERS])
+    voices = known + unknown
 
-    with open(output_path, "w", encoding="utf-8") as f:
-        first_section = True
-        for voice in known + unknown:
-            if not first_section:
-                f.write("\n\n")
-            first_section = False
+    for voice in voices:
+        items = list(voice_model_avgs[voice].items())
+        # Sort descending by average; tie-break by model name
+        items.sort(key=lambda kv: (-kv[1], kv[0].lower()))
 
-            f.write(f"{voice}:\n")
+        filename = voice_to_filename(voice)
+        path = os.path.join(output_dir, filename)
 
-            items = list(voice_model_avgs[voice].items())
-            # Sort descending by average score; tie-break by model name
-            items.sort(key=lambda kv: (-kv[1], kv[0].lower()))
-
+        with open(path, "w", encoding="utf-8") as f:
+            f.write(f"# {voice}\n\n")
+            f.write("| Model | Average |\n")
+            f.write("|:--|--:|\n")
             for model, avg in items:
-                f.write(f"{model} {avg:.3f}\n")
+                f.write(f"| {model} | {avg:.3f} |\n")
+
+        print(f"Wrote: {path}")
 
 
 def main():
     """
     Parse all judge files (same source as your previous script),
     compute per-voice per-model averages across files,
-    and write stats/single_voices_report.md.
+    and write one Markdown table per voice into stats/single_voices/.
     """
     try:
         # Move to project root (like your other script)
@@ -189,9 +204,8 @@ def main():
         sys.exit(1)
 
     avgs = aggregate_averages(parsed_list)
-    output_path = os.path.join("stats", "single_voices_report.md")
-    write_report_md(output_path, avgs)
-    print(f"Report written to: {output_path}")
+    output_dir = os.path.join("stats", "single_voices")
+    write_per_voice_tables(output_dir, avgs)
 
 
 if __name__ == "__main__":

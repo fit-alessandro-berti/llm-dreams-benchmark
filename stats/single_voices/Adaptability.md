@@ -140,6 +140,7 @@
 | Gemini-1.5-Pro-Exp-0801 | 8.238 |
 | gemini-2.5-flash-preview-05-20 | 8.225 |
 | gemini-2.0-flash-thinking-exp-01-21 | 8.213 |
+| mistral-medium-2508 | 8.213 |
 | googlegemma-2-2b-it | 8.188 |
 | DeepSeek-V3-0324 | 8.175 |
 | qwen31.7b | 8.175 |

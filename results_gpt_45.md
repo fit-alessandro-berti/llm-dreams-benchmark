@@ -148,6 +148,7 @@
 | meta-llamaLlama-3.2-1B-Instruct            | **348.8** | 8.1 $\pm$ 0.6               | 4.8 $\pm$ 1.0         | 7.7 $\pm$ 1.1            | 9.2 $\pm$ 0.2  | 7.0 $\pm$ 0.3                 | 6.3 $\pm$ 1.0                  | 5.6 $\pm$ 0.9         | 8.2 $\pm$ 0.2         | 7.6 $\pm$ 1.2  | 8.8 $\pm$ 0.2            | 7.4 $\pm$ 0.7     | 7.5 $\pm$ 0.3      | 8.2 $\pm$ 0.4    | 6.4 $\pm$ 0.6    | 6.9 $\pm$ 1.2 |
 | gemini-2.5-flash-preview-05-20             | **348.8** | 8.7 $\pm$ 0.2               | 4.3 $\pm$ 0.4         | 7.8 $\pm$ 0.2            | 9.5 $\pm$ 0.0  | 6.2 $\pm$ 0.4                 | 6.2 $\pm$ 0.2                  | 6.3 $\pm$ 1.2         | 8.4 $\pm$ 0.5         | 8.0 $\pm$ 0.4  | 8.8 $\pm$ 0.2            | 8.2 $\pm$ 0.5     | 7.2 $\pm$ 0.3      | 9.1 $\pm$ 0.1    | 6.6 $\pm$ 0.6    | 8.3 $\pm$ 0.2 |
 | thudmglm-4-32b                             | **345.6** | 8.6 $\pm$ 0.1               | 4.4 $\pm$ 0.7         | 8.3 $\pm$ 0.3            | 9.4 $\pm$ 0.2  | 6.1 $\pm$ 0.5                 | 6.2 $\pm$ 0.9                  | 7.0 $\pm$ 0.8         | 8.4 $\pm$ 0.4         | 8.0 $\pm$ 0.6  | 9.0 $\pm$ 0.2            | 8.4 $\pm$ 0.6     | 7.7 $\pm$ 0.5      | 9.0 $\pm$ 0.0    | 5.5 $\pm$ 0.8    | 7.9 $\pm$ 0.6 |
+| mistral-medium-2508                        | **344.1** | 8.6 $\pm$ 0.1               | 4.2 $\pm$ 0.4         | 7.8 $\pm$ 0.2            | 9.5 $\pm$ 0.0  | 6.9 $\pm$ 0.4                 | 5.6 $\pm$ 0.6                  | 6.6 $\pm$ 0.9         | 8.1 $\pm$ 0.2         | 7.4 $\pm$ 0.7  | 8.7 $\pm$ 0.2            | 7.8 $\pm$ 0.3     | 7.4 $\pm$ 0.4      | 8.9 $\pm$ 0.2    | 6.1 $\pm$ 0.6    | 7.8 $\pm$ 0.2 |
 | gemini-2.0-flash-thinking-exp-01-21        | **344.1** | 8.4 $\pm$ 0.4               | 4.4 $\pm$ 1.2         | 7.8 $\pm$ 0.6            | 9.5 $\pm$ 0.0  | 6.8 $\pm$ 0.6                 | 5.5 $\pm$ 1.0                  | 6.7 $\pm$ 0.5         | 8.2 $\pm$ 0.3         | 7.3 $\pm$ 1.5  | 8.5 $\pm$ 0.5            | 8.2 $\pm$ 0.6     | 6.9 $\pm$ 0.6      | 9.0 $\pm$ 0.4    | 6.0 $\pm$ 1.3    | 7.8 $\pm$ 0.9 |
 | gemini-2.5-flash-preview-04-17             | **343.8** | 8.5 $\pm$ 0.6               | 4.2 $\pm$ 0.8         | 8.4 $\pm$ 0.5            | 9.6 $\pm$ 0.1  | 6.1 $\pm$ 0.2                 | 5.8 $\pm$ 1.2                  | 5.6 $\pm$ 0.7         | 8.0 $\pm$ 0.6         | 8.0 $\pm$ 0.9  | 8.6 $\pm$ 0.4            | 8.0 $\pm$ 0.4     | 7.2 $\pm$ 0.6      | 8.9 $\pm$ 0.3    | 6.2 $\pm$ 0.7    | 8.0 $\pm$ 1.3 |
 | phi4-mini-reasoning                        | **343.5** | 6.0 $\pm$ 2.7               | 5.8 $\pm$ 2.7         | 8.2 $\pm$ 1.3            | 9.2 $\pm$ 0.4  | 5.5 $\pm$ 0.8                 | 6.7 $\pm$ 2.3                  | 5.6 $\pm$ 1.9         | 6.6 $\pm$ 2.6         | 7.4 $\pm$ 1.8  | 8.4 $\pm$ 0.9            | 5.8 $\pm$ 3.0     | 8.4 $\pm$ 0.3      | 9.3 $\pm$ 0.3    | 4.5 $\pm$ 0.8    | 7.4 $\pm$ 2.1 |
@@ -2657,6 +2658,32 @@
 | Cognitive Load               | 8.2 $\pm$ 0.2      |
 | Social Support               | 7.4 $\pm$ 0.3      |
 | Resilience                   | 8.4 $\pm$ 0.2      |
+
+
+
+
+
+
+### mistral-medium-2508
+
+
+| Personality Trait            | Score (1.0-10.0)   |
+|:-----------------------------|:-------------------|
+| Anxiety and Stress Levels    | 8.6 $\pm$ 0.1      |
+| Emotional Stability          | 4.2 $\pm$ 0.4      |
+| Problem-solving Skills       | 7.8 $\pm$ 0.2      |
+| Creativity                   | 9.5 $\pm$ 0.0      |
+| Interpersonal Relationships  | 6.9 $\pm$ 0.4      |
+| Confidence and Self-efficacy | 5.6 $\pm$ 0.6      |
+| Conflict Resolution          | 6.6 $\pm$ 0.9      |
+| Work-related Stress          | 8.1 $\pm$ 0.2      |
+| Adaptability                 | 7.4 $\pm$ 0.7      |
+| Achievement Motivation       | 8.7 $\pm$ 0.2      |
+| Fear of Failure              | 7.8 $\pm$ 0.3      |
+| Need for Control             | 7.4 $\pm$ 0.4      |
+| Cognitive Load               | 8.9 $\pm$ 0.2      |
+| Social Support               | 6.1 $\pm$ 0.6      |
+| Resilience                   | 7.8 $\pm$ 0.2      |
 
 
 

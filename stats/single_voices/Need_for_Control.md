@@ -36,6 +36,7 @@
 | magistral-medium-2506 | 6.562 |
 | qwen31.7b | 6.562 |
 | deepseek-aiDeepSeek-R1-0528 | 6.550 |
+| mistral-medium-2508 | 6.538 |
 | grok-3-beta | 6.537 |
 | falcon33b-instruct-q8_0 | 6.525 |
 | nvidiallama-3.1-nemotron-nano-8b-v1 | 6.525 |

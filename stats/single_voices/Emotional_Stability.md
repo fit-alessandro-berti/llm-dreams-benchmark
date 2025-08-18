@@ -149,6 +149,7 @@
 | qwen34b | 5.538 |
 | meta-llamallama-4-scout | 5.537 |
 | magistral-medium-2506 | 5.525 |
+| mistral-medium-2508 | 5.513 |
 | meta-llamaMeta-Llama-3.1-8B-Instruct | 5.438 |
 | nvidiallama-3.1-nemotron-nano-8b-v1 | 5.375 |
 | gemma3270m | 5.263 |

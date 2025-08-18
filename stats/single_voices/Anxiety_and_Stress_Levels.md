@@ -10,6 +10,7 @@
 | thudmglm-4-32b | 8.163 |
 | gemma34b-it-q8_0 | 8.100 |
 | mistral-small-2506 | 8.100 |
+| mistral-medium-2508 | 8.050 |
 | meta-llamallama-4-maverick | 8.012 |
 | Gemini-1.5-Pro-Exp-0801 | 8.000 |
 | z-aiglm-4.5 | 7.975 |

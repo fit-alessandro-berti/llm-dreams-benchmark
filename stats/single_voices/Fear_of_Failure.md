@@ -26,6 +26,7 @@
 | Qwen-QwQ-32B | 7.213 |
 | qwen31.7b | 7.200 |
 | qwen34b | 7.175 |
+| mistral-medium-2508 | 7.150 |
 | QwenQwen3-14B | 7.138 |
 | gemma3270m | 7.138 |
 | grok-3-mini-beta | 7.137 |

@@ -131,6 +131,7 @@
 | claude-4-sonnet-20250514 | 6.650 |
 | deepseek-aiDeepSeek-R1-0528 | 6.650 |
 | meta-llamaMeta-Llama-3.1-8B-Instruct | 6.612 |
+| mistral-medium-2508 | 6.550 |
 | grok-3-mini-beta | 6.525 |
 | z-aiglm-4.5-air | 6.500 |
 | DeepSeek-V3-0324 | 6.487 |

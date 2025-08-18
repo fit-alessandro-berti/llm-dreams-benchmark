@@ -117,6 +117,7 @@
 | meta-llamaMeta-Llama-3.1-70B-Instruct | 7.075 |
 | gemini-2.0-flash-thinking-exp-01-21 | 7.050 |
 | nvidiallama-3.3-nemotron-super-49b-v1 | 7.050 |
+| mistral-medium-2508 | 7.037 |
 | z-aiglm-4.5 | 7.025 |
 | magistral-small-2506 | 7.013 |
 | googlegemma-2-2b-it | 7.012 |

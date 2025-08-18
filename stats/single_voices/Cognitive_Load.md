@@ -12,6 +12,7 @@
 | gemini-2.5-flash-preview-04-17 | 8.363 |
 | gemma34b-it-q8_0 | 8.363 |
 | moonshotaikimi-k2 | 8.363 |
+| mistral-medium-2508 | 8.338 |
 | gemma31b-it-q8_0 | 8.325 |
 | gemini-2.5-flash-preview-05-20 | 8.288 |
 | z-aiglm-4.5-air | 8.287 |

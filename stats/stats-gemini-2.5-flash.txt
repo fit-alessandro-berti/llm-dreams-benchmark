@@ -5,46 +5,46 @@ Variability Analysis Results (considering the AVG in each AVG ± STDEV tabular v
 1. Basic Statistics:
 
 Mean:
-  Anxiety and Stress Levels: 7.289
+  Anxiety and Stress Levels: 7.294
   Emotional Stability: 6.420
-  Problem-solving Skills: 7.964
-  Creativity: 8.925
-  Interpersonal Relationships: 7.038
-  Confidence and Self-efficacy: 7.313
-  Conflict Resolution: 7.180
-  Work-related Stress: 7.046
-  Adaptability: 8.556
-  Achievement Motivation: 8.036
-  Fear of Failure: 6.030
-  Need for Control: 5.665
-  Cognitive Load: 7.640
+  Problem-solving Skills: 7.963
+  Creativity: 8.928
+  Interpersonal Relationships: 7.037
+  Confidence and Self-efficacy: 7.314
+  Conflict Resolution: 7.183
+  Work-related Stress: 7.050
+  Adaptability: 8.559
+  Achievement Motivation: 8.039
+  Fear of Failure: 6.033
+  Need for Control: 5.664
+  Cognitive Load: 7.645
   Social Support: 6.994
-  Resilience: 8.313
+  Resilience: 8.316
 
 Std:
   Anxiety and Stress Levels: 0.815
-  Emotional Stability: 0.725
-  Problem-solving Skills: 0.470
-  Creativity: 0.352
-  Interpersonal Relationships: 0.568
-  Confidence and Self-efficacy: 0.714
+  Emotional Stability: 0.722
+  Problem-solving Skills: 0.469
+  Creativity: 0.353
+  Interpersonal Relationships: 0.566
+  Confidence and Self-efficacy: 0.712
   Conflict Resolution: 0.728
   Work-related Stress: 0.557
-  Adaptability: 0.376
+  Adaptability: 0.377
   Achievement Motivation: 0.393
-  Fear of Failure: 0.997
-  Need for Control: 0.650
-  Cognitive Load: 0.495
-  Social Support: 0.648
+  Fear of Failure: 0.995
+  Need for Control: 0.649
+  Cognitive Load: 0.498
+  Social Support: 0.646
   Resilience: 0.544
 
 Coeff_variation:
   Anxiety and Stress Levels: 0.112
   Emotional Stability: 0.113
   Problem-solving Skills: 0.059
-  Creativity: 0.039
-  Interpersonal Relationships: 0.081
-  Confidence and Self-efficacy: 0.098
+  Creativity: 0.040
+  Interpersonal Relationships: 0.080
+  Confidence and Self-efficacy: 0.097
   Conflict Resolution: 0.101
   Work-related Stress: 0.079
   Adaptability: 0.044
@@ -52,7 +52,7 @@ Coeff_variation:
   Fear of Failure: 0.165
   Need for Control: 0.115
   Cognitive Load: 0.065
-  Social Support: 0.093
+  Social Support: 0.092
   Resilience: 0.065
 
 Range:
@@ -73,48 +73,48 @@ Range:
   Resilience: 2.400
 
 2. UMAP Analysis:
-  Variance UMAP1: 7.388
-  Variance UMAP2: 0.930
-  Total variance: 8.318
-  Range UMAP1: 9.501
-  Range UMAP2: 3.688
+  Variance UMAP1: 5.800
+  Variance UMAP2: 1.471
+  Total variance: 7.271
+  Range UMAP1: 8.613
+  Range UMAP2: 4.875
   Sample embeddings (first 3 LLMs):
-    microsoftPhi-3-medium-4k-instruct: UMAP1=10.011, UMAP2=2.670
-    qwen2.5-14b-instruct: UMAP1=10.144, UMAP2=2.524
-    microsoftphi-4: UMAP1=10.124, UMAP2=2.571
+    microsoftPhi-3-medium-4k-instruct: UMAP1=9.552, UMAP2=6.955
+    qwen2.5-14b-instruct: UMAP1=9.666, UMAP2=6.967
+    microsoftphi-4: UMAP1=9.596, UMAP2=6.891
 
 3. Correlation Analysis:
-  Mean absolute correlation: 0.492
+  Mean absolute correlation: 0.491
   Maximum correlation: 0.924
   Highly correlated pairs (|r| > 0.7):
-    Anxiety and Stress Levels - Emotional Stability: -0.737
-    Anxiety and Stress Levels - Confidence and Self-efficacy: -0.712
-    Anxiety and Stress Levels - Work-related Stress: 0.812
+    Anxiety and Stress Levels - Emotional Stability: -0.735
+    Anxiety and Stress Levels - Confidence and Self-efficacy: -0.708
+    Anxiety and Stress Levels - Work-related Stress: 0.813
     Anxiety and Stress Levels - Fear of Failure: 0.924
-    Emotional Stability - Problem-solving Skills: 0.761
+    Emotional Stability - Problem-solving Skills: 0.760
     Emotional Stability - Interpersonal Relationships: 0.807
     Emotional Stability - Fear of Failure: -0.763
     Emotional Stability - Social Support: 0.705
-    Emotional Stability - Resilience: 0.756
-    Problem-solving Skills - Resilience: 0.719
+    Emotional Stability - Resilience: 0.754
+    Problem-solving Skills - Resilience: 0.715
     Interpersonal Relationships - Social Support: 0.894
-    Interpersonal Relationships - Resilience: 0.749
+    Interpersonal Relationships - Resilience: 0.747
     Confidence and Self-efficacy - Emotional Stability: 0.873
-    Confidence and Self-efficacy - Problem-solving Skills: 0.857
+    Confidence and Self-efficacy - Problem-solving Skills: 0.856
     Confidence and Self-efficacy - Interpersonal Relationships: 0.772
-    Confidence and Self-efficacy - Fear of Failure: -0.797
+    Confidence and Self-efficacy - Fear of Failure: -0.796
     Confidence and Self-efficacy - Resilience: 0.812
-    Conflict Resolution - Resilience: 0.720
-    Adaptability - Problem-solving Skills: 0.712
-    Adaptability - Confidence and Self-efficacy: 0.719
-    Adaptability - Resilience: 0.830
-    Achievement Motivation - Problem-solving Skills: 0.796
-    Achievement Motivation - Confidence and Self-efficacy: 0.794
+    Conflict Resolution - Resilience: 0.721
+    Adaptability - Problem-solving Skills: 0.706
+    Adaptability - Confidence and Self-efficacy: 0.717
+    Adaptability - Resilience: 0.831
+    Achievement Motivation - Problem-solving Skills: 0.791
+    Achievement Motivation - Confidence and Self-efficacy: 0.793
     Fear of Failure - Work-related Stress: 0.823
-    Resilience - Social Support: 0.701
+    Resilience - Social Support: 0.700
 
 4. LLM Variability:
-  Mean variance across LLMs: 1.188
+  Mean variance across LLMs: 1.187
   Max variance LLM: gpt-4.5-preview
   Min variance LLM: qwen2.51.5b-instruct-q6_K
 
@@ -152,11 +152,11 @@ Range:
 ####### openrouterhorizon-alpha
 ######## open-mistral-nemo
 ######## qwen-turbo-2024-11-01
-####### o3-pro-2025-06-10
-####### gpt-5-nano-2025-08-07
-######## openaigpt-oss-120b
-######### o3-mini-20250131-HIGH
-######### gpt-4-turbo-2024-04-09
+####### openaigpt-oss-120b
+######## o3-pro-2025-06-10
+######## gpt-5-nano-2025-08-07
+######## o3-mini-20250131-HIGH
+######## gpt-4-turbo-2024-04-09
 ######## o3-2025-04-16
 ######### ai21jamba-mini-1.7
 ########## microsoftWizardLM-2-8x22B
@@ -190,8 +190,9 @@ Range:
 ######## meta-llamallama-4-maverick
 ######### gemini-2.5-pro-exp-03-25
 ######### gemini-2.5-flash-preview-04-17
-####### openaigpt-oss-20b
-####### moonshotaikimi-k2
+####### mistral-medium-2508
+######## openaigpt-oss-20b
+######## moonshotaikimi-k2
 ######## gemma-3-27b-it
 ######### qwenqwen3-coder
 ########## gemini-exp-1206

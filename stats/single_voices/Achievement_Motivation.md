@@ -128,6 +128,7 @@
 | QwenQwen3-30B-A3B | 8.025 |
 | meta-llamallama-4-scout | 8.013 |
 | meta-llamaMeta-Llama-3.1-8B-Instruct | 8.012 |
+| mistral-medium-2508 | 8.012 |
 | grok-4-0709 | 8.000 |
 | Gemini-1.5-Pro-Exp-0801 | 8.000 |
 | gemini-2.0-flash-exp | 8.000 |

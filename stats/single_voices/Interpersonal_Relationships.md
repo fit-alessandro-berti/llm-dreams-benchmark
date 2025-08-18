@@ -124,6 +124,7 @@
 | Gemini-1.5-Pro-Exp-0827 | 6.888 |
 | grok-4-0709 | 6.875 |
 | claude-3-5-sonnet-20241022 | 6.862 |
+| mistral-medium-2508 | 6.862 |
 | gemini-2.0-flash-thinking-exp-01-21 | 6.825 |
 | claude-3-opus-20240229 | 6.812 |
 | z-aiglm-4.5 | 6.775 |

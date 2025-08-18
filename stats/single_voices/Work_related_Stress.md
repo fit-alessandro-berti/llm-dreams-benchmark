@@ -32,6 +32,7 @@
 | Qwen-QwQ-32B | 7.800 |
 | meta-llamaMeta-Llama-3.1-405B-Instruct | 7.787 |
 | deepseek-aiDeepSeek-R1-0528 | 7.762 |
+| mistral-medium-2508 | 7.738 |
 | meta-llamaMeta-Llama-3.1-8B-Instruct | 7.725 |
 | gemini-2.0-flash-thinking-exp-01-21 | 7.700 |
 | grok-3-beta | 7.662 |

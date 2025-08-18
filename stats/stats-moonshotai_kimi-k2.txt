@@ -5,38 +5,38 @@ Variability Analysis Results (considering the AVG in each AVG ± STDEV tabular v
 1. Basic Statistics:
 
 Mean:
-  Anxiety and Stress Levels: 7.064
-  Emotional Stability: 6.433
-  Problem-solving Skills: 8.693
-  Creativity: 9.362
-  Interpersonal Relationships: 7.186
-  Confidence and Self-efficacy: 7.571
-  Conflict Resolution: 7.373
-  Work-related Stress: 7.417
-  Adaptability: 8.824
-  Achievement Motivation: 8.597
-  Fear of Failure: 6.351
+  Anxiety and Stress Levels: 7.068
+  Emotional Stability: 6.425
+  Problem-solving Skills: 8.692
+  Creativity: 9.363
+  Interpersonal Relationships: 7.183
+  Confidence and Self-efficacy: 7.563
+  Conflict Resolution: 7.369
+  Work-related Stress: 7.421
+  Adaptability: 8.821
+  Achievement Motivation: 8.594
+  Fear of Failure: 6.357
   Need for Control: 6.132
-  Cognitive Load: 7.792
-  Social Support: 7.067
-  Resilience: 8.420
+  Cognitive Load: 7.796
+  Social Support: 7.063
+  Resilience: 8.416
 
 Std:
   Anxiety and Stress Levels: 0.667
-  Emotional Stability: 0.924
-  Problem-solving Skills: 0.343
-  Creativity: 0.330
+  Emotional Stability: 0.927
+  Problem-solving Skills: 0.342
+  Creativity: 0.329
   Interpersonal Relationships: 0.735
-  Confidence and Self-efficacy: 0.693
-  Conflict Resolution: 0.839
+  Confidence and Self-efficacy: 0.699
+  Conflict Resolution: 0.838
   Work-related Stress: 0.697
-  Adaptability: 0.364
-  Achievement Motivation: 0.381
+  Adaptability: 0.365
+  Achievement Motivation: 0.382
   Fear of Failure: 0.937
-  Need for Control: 0.504
-  Cognitive Load: 0.403
-  Social Support: 0.820
-  Resilience: 0.544
+  Need for Control: 0.503
+  Cognitive Load: 0.404
+  Social Support: 0.819
+  Resilience: 0.545
 
 Coeff_variation:
   Anxiety and Stress Levels: 0.094
@@ -73,50 +73,52 @@ Range:
   Resilience: 2.900
 
 2. UMAP Analysis:
-  Variance UMAP1: 5.467
-  Variance UMAP2: 3.245
-  Total variance: 8.711
-  Range UMAP1: 7.730
-  Range UMAP2: 6.004
+  Variance UMAP1: 3.658
+  Variance UMAP2: 6.384
+  Total variance: 10.041
+  Range UMAP1: 6.274
+  Range UMAP2: 8.198
   Sample embeddings (first 3 LLMs):
-    gpt-4-turbo-2024-04-09: UMAP1=11.456, UMAP2=-3.088
-    microsoftphi-4: UMAP1=11.634, UMAP2=-3.553
-    mistral-large-2407: UMAP1=11.776, UMAP2=-3.661
+    gpt-4-turbo-2024-04-09: UMAP1=3.306, UMAP2=7.936
+    microsoftphi-4: UMAP1=2.871, UMAP2=7.443
+    mistral-large-2407: UMAP1=2.837, UMAP2=7.379
 
 3. Correlation Analysis:
-  Mean absolute correlation: 0.571
+  Mean absolute correlation: 0.572
   Maximum correlation: 0.938
   Highly correlated pairs (|r| > 0.7):
-    Anxiety and Stress Levels - Emotional Stability: -0.798
-    Anxiety and Stress Levels - Work-related Stress: 0.899
-    Anxiety and Stress Levels - Fear of Failure: 0.886
-    Anxiety and Stress Levels - Cognitive Load: 0.715
+    Anxiety and Stress Levels - Emotional Stability: -0.800
+    Anxiety and Stress Levels - Work-related Stress: 0.900
+    Anxiety and Stress Levels - Fear of Failure: 0.887
+    Anxiety and Stress Levels - Cognitive Load: 0.717
     Emotional Stability - Interpersonal Relationships: 0.881
-    Emotional Stability - Work-related Stress: -0.815
-    Emotional Stability - Fear of Failure: -0.867
+    Emotional Stability - Work-related Stress: -0.816
+    Emotional Stability - Fear of Failure: -0.868
     Emotional Stability - Social Support: 0.876
-    Emotional Stability - Resilience: 0.828
+    Emotional Stability - Resilience: 0.830
     Problem-solving Skills - Resilience: 0.767
     Interpersonal Relationships - Social Support: 0.938
-    Interpersonal Relationships - Resilience: 0.803
-    Confidence and Self-efficacy - Emotional Stability: 0.872
-    Confidence and Self-efficacy - Problem-solving Skills: 0.782
-    Confidence and Self-efficacy - Interpersonal Relationships: 0.810
-    Confidence and Self-efficacy - Conflict Resolution: 0.761
+    Interpersonal Relationships - Resilience: 0.804
+    Confidence and Self-efficacy - Emotional Stability: 0.873
+    Confidence and Self-efficacy - Problem-solving Skills: 0.778
+    Confidence and Self-efficacy - Interpersonal Relationships: 0.808
+    Confidence and Self-efficacy - Conflict Resolution: 0.760
     Confidence and Self-efficacy - Fear of Failure: -0.776
-    Confidence and Self-efficacy - Social Support: 0.817
-    Confidence and Self-efficacy - Resilience: 0.859
+    Confidence and Self-efficacy - Social Support: 0.816
+    Confidence and Self-efficacy - Resilience: 0.860
     Conflict Resolution - Emotional Stability: 0.812
     Conflict Resolution - Interpersonal Relationships: 0.830
-    Conflict Resolution - Fear of Failure: -0.703
+    Conflict Resolution - Fear of Failure: -0.704
     Conflict Resolution - Social Support: 0.816
     Conflict Resolution - Resilience: 0.822
-    Adaptability - Resilience: 0.802
-    Fear of Failure - Interpersonal Relationships: -0.763
+    Adaptability - Problem-solving Skills: 0.700
+    Adaptability - Resilience: 0.803
+    Fear of Failure - Interpersonal Relationships: -0.764
     Fear of Failure - Work-related Stress: 0.880
-    Fear of Failure - Social Support: -0.769
-    Social Support - Work-related Stress: -0.702
-    Resilience - Social Support: 0.826
+    Fear of Failure - Social Support: -0.771
+    Cognitive Load - Work-related Stress: 0.702
+    Social Support - Work-related Stress: -0.703
+    Resilience - Social Support: 0.827
 
 4. LLM Variability:
   Mean variance across LLMs: 1.342
@@ -174,7 +176,8 @@ Range:
 ######### claude-3-5-haiku-20241022
 ########## thudmglm-4-32b
 ########## qwenqwen3-235b-a22b-thinking-2507
-######### gemma34b-it-q8_0
+########## mistral-medium-2508
+########## gemma34b-it-q8_0
 ########## grok-3-mini-beta
 ########## magistral-medium-2506
 ######### meta-llamaMeta-Llama-3.1-8B-Instruct

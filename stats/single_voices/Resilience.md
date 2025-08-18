@@ -139,6 +139,7 @@
 | meta-llamaMeta-Llama-3.1-70B-Instruct | 7.912 |
 | gemini-2.5-flash-preview-05-20 | 7.900 |
 | meta-llamaLlama-3.3-70B-Instruct | 7.900 |
+| mistral-medium-2508 | 7.875 |
 | qwen34b | 7.862 |
 | tngtechdeepseek-r1t-chimerafree | 7.838 |
 | claude-3-5-sonnet-20241022 | 7.837 |

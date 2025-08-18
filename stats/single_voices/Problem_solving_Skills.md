@@ -140,6 +140,7 @@
 | qwen-plus-0428 | 8.025 |
 | claude-4-opus-20250514 | 8.012 |
 | magistral-medium-2506 | 8.012 |
+| mistral-medium-2508 | 8.012 |
 | qwenqwen3-235b-a22b-thinking-2507 | 8.000 |
 | claude-4-sonnet-20250514 | 7.988 |
 | gemini-2.5-flash-preview-04-17 | 7.950 |

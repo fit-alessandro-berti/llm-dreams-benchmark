@@ -28,6 +28,7 @@
 | QwenQwen3-32B | 9.462 |
 | gemma-3n-e4b-it | 9.450 |
 | gpt-5-mini-2025-08-07 | 9.450 |
+| mistral-medium-2508 | 9.450 |
 | Qwen-QwQ-32B | 9.450 |
 | qwen2.5-14b-instruct | 9.438 |
 | gemma312b-it-q8_0 | 9.438 |

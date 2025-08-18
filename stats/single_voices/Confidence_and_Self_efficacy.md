@@ -141,6 +141,7 @@
 | claude-3-opus-20240229 | 6.488 |
 | Gemini-1.5-Pro-Exp-0801 | 6.475 |
 | QwenQwen3-30B-A3B | 6.438 |
+| mistral-medium-2508 | 6.413 |
 | meta-llamaLlama-3.2-1B-Instruct | 6.400 |
 | gpt-5-chat-latest-2025-08-07 | 6.375 |
 | QwenQwen3-235B-A22B | 6.375 |

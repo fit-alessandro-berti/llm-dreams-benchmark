@@ -156,6 +156,7 @@
 | gemini-2.5-flash-preview-04-17 | 6.163 |
 | nvidiallama-3.1-nemotron-nano-8b-v1 | 6.150 |
 | meta-llamallama-4-maverick | 5.975 |
+| gemma3270m | 5.963 |
 | claude-3-5-haiku-20241022 | 5.938 |
 | gemma31b-it-q8_0 | 5.913 |
 | qwenqwen3-235b-a22b-thinking-2507 | 5.863 |

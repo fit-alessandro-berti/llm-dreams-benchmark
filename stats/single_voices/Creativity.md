@@ -161,5 +161,6 @@
 | openroutercypher-alphafree | 8.812 |
 | open-mistral-7b | 8.775 |
 | deepseek-aiDeepSeek-R1-Zero | 8.537 |
+| gemma3270m | 8.312 |
 | phi4-mini-reasoning | 8.262 |
 | qwen2.51.5b-instruct-q6_K | 7.850 |

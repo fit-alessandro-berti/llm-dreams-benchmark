@@ -153,6 +153,7 @@
 | magistral-medium-2506 | 6.100 |
 | qwenqwen3-235b-a22b-thinking-2507 | 6.062 |
 | qwen34b | 6.050 |
+| gemma3270m | 6.012 |
 | gemma34b-it-q8_0 | 5.975 |
 | claude-3-5-haiku-20241022 | 5.912 |
 | mistral-small-2506 | 5.875 |

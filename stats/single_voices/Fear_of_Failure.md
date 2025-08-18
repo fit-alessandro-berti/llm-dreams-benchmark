@@ -27,6 +27,7 @@
 | qwen31.7b | 7.200 |
 | qwen34b | 7.175 |
 | QwenQwen3-14B | 7.138 |
+| gemma3270m | 7.138 |
 | grok-3-mini-beta | 7.137 |
 | gemma31b-it-q8_0 | 7.125 |
 | claude-3-5-haiku-20241022 | 7.112 |

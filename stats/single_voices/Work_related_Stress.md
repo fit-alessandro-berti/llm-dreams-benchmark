@@ -37,6 +37,7 @@
 | grok-3-beta | 7.662 |
 | mistral-medium-2505 | 7.662 |
 | DeepSeek-V3-0324 | 7.650 |
+| gemma3270m | 7.600 |
 | gpt-5-chat-latest-2025-08-07 | 7.600 |
 | meta-llamaLlama-3.2-3B-Instruct | 7.587 |
 | gpt-4o-mini-2024-11-05 | 7.562 |

@@ -151,6 +151,7 @@
 | magistral-medium-2506 | 5.525 |
 | meta-llamaMeta-Llama-3.1-8B-Instruct | 5.438 |
 | nvidiallama-3.1-nemotron-nano-8b-v1 | 5.375 |
+| gemma3270m | 5.263 |
 | claude-3-5-haiku-20241022 | 5.250 |
 | thudmglm-4-32b | 5.188 |
 | gemini-2.5-flash-preview-04-17 | 5.163 |

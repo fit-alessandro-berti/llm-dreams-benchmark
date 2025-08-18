@@ -84,6 +84,7 @@
 | chatgpt-4o-latest-2024-11-20 | 7.688 |
 | gpt-4o-mini-2024-11-05 | 7.688 |
 | openrouterhorizon-alpha | 7.688 |
+| gemma3270m | 7.675 |
 | meta-llamaLlama-3.2-1B-Instruct | 7.662 |
 | openaigpt-oss-20b | 7.650 |
 | deepseek-aiDeepSeek-V3 | 7.638 |

@@ -20,6 +20,7 @@
 | r1-1776 | 6.688 |
 | gemma31b-it-q8_0 | 6.675 |
 | devstral-small-2505 | 6.675 |
+| gemma3270m | 6.662 |
 | nvidiallama-3.3-nemotron-super-49b-v1 | 6.662 |
 | qwen34b | 6.662 |
 | meta-llamaLlama-3.2-1B-Instruct | 6.638 |

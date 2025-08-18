@@ -141,6 +141,7 @@
 | thudmglm-4-32b | 7.925 |
 | magistral-medium-2506 | 7.900 |
 | gemma-3-27b-it | 7.888 |
+| gemma3270m | 7.850 |
 | Qwen-QwQ-32B | 7.850 |
 | qwenqwen3-235b-a22b-thinking-2507 | 7.825 |
 | claude-3-5-sonnet-20241022 | 7.800 |

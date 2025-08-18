@@ -151,6 +151,7 @@
 | chatgpt-4o-latest-20250215 | 6.313 |
 | qwenqwen3-235b-a22b-thinking-2507 | 6.262 |
 | meta-llamallama-4-maverick | 6.238 |
+| gemma3270m | 6.175 |
 | gemini-2.5-flash-preview-04-17 | 6.175 |
 | mistral-small-2506 | 6.125 |
 | Qwen-QwQ-32B | 6.113 |

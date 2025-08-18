@@ -153,6 +153,7 @@
 | gemini-2.5-flash-preview-05-20 | 6.100 |
 | QwenQwen3-14B | 6.062 |
 | gemma31b-it-q8_0 | 6.038 |
+| gemma3270m | 6.012 |
 | claude-4-sonnet-20250514 | 6.000 |
 | QwenQwen3-235B-A22B | 5.987 |
 | Qwen-QwQ-32B | 5.963 |

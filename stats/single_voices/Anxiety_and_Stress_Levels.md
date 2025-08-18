@@ -35,6 +35,7 @@
 | meta-llamaMeta-Llama-3.1-70B-Instruct | 7.687 |
 | claude-3-5-haiku-20241022 | 7.675 |
 | Gemini-1.5-Pro-Exp-0827 | 7.675 |
+| gemma3270m | 7.675 |
 | qwen-plus-0428 | 7.675 |
 | QwenQwen3-14B | 7.637 |
 | gemini-2.0-flash-thinking-exp-01-21 | 7.625 |

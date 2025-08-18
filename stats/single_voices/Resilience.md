@@ -160,6 +160,7 @@
 | gemma31b-it-q8_0 | 7.213 |
 | meta-llamallama-4-maverick | 7.200 |
 | claude-3-5-haiku-20241022 | 7.087 |
+| gemma3270m | 7.062 |
 | phi4-mini-reasoning | 7.013 |
 | mistral-small-2506 | 7.012 |
 | qwen2.51.5b-instruct-q6_K | 6.562 |

@@ -162,4 +162,5 @@
 | gemini-2.0-flash-lite-preview-02-05 | 7.650 |
 | meta-llamallama-4-maverick | 7.538 |
 | phi4-mini-reasoning | 7.475 |
+| gemma3270m | 7.275 |
 | qwen2.51.5b-instruct-q6_K | 6.987 |

@@ -162,4 +162,5 @@
 | meta-llamallama-4-maverick | 7.575 |
 | meta-llamaLlama-3.2-1B-Instruct | 7.550 |
 | gemini-2.0-flash-lite-preview-02-05 | 7.488 |
+| gemma3270m | 7.375 |
 | qwen2.51.5b-instruct-q6_K | 6.913 |

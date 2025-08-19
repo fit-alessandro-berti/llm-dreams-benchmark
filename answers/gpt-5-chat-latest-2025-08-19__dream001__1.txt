@@ -1,0 +1,9 @@
+…you start to walk quickly, weaving through the crowded streets. The city feels both ancient and futuristic at once—towering glass spires shimmer in the distance, while narrow stone alleys coil beneath your feet. Every corner you turn seems to rearrange itself, so the map in your head is immediately out of date.  
+
+You pass clusters of strangers speaking in languages you almost, but not quite, understand. One of them points you toward a crooked clock tower that leans like it might tumble over. The sound of distant bells keeps reminding you of the time you’re losing.  
+
+As you hurry, you notice something unsettling: the street signs don’t have words, only shifting symbols that flicker as though alive. One glows brighter when you look directly at it, pulling your attention like a beacon. You follow it, though you’re not sure why.  
+
+The crowd thins. The noise recedes. You reach a huge plaza, silent but for the wind, where a single glass door stands upright in the middle of the square, unattached to any building. The hands of the leaning clock tower strike the half‑hour.  
+
+Do you want to **open the glass door** or **search the plaza further before deciding**?

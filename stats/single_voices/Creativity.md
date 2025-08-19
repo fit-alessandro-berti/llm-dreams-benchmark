@@ -76,6 +76,7 @@
 | mistral-large-2407 | 9.312 |
 | microsoftWizardLM-2-8x22B | 9.300 |
 | gpt-4-0613 | 9.300 |
+| gpt-5-chat-latest-2025-08-19 | 9.300 |
 | z-aiglm-4.5-air | 9.300 |
 | gpt-4o-2024-05-13 | 9.288 |
 | gpt-5-chat-latest-2025-08-07 | 9.288 |

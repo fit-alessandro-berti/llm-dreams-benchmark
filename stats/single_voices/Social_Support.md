@@ -104,6 +104,7 @@
 | nvidiallama-3.3-nemotron-super-49b-v1 | 7.038 |
 | meta-llamallama-4-scout | 7.013 |
 | Gemini-1.5-Pro-Exp-0801 | 7.012 |
+| gpt-5-chat-latest-2025-08-19 | 7.000 |
 | anthropicclaude-opus-4.1 | 6.987 |
 | qwen-turbo-0428 | 6.987 |
 | qwen30.6b | 6.987 |

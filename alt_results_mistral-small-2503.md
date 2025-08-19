@@ -89,6 +89,7 @@
 | claude-3-7-sonnet-20250219-thinking-high   | **386.0** | 7.5 $\pm$ 0.0               | 6.0 $\pm$ 0.0         | 8.5 $\pm$ 0.0            | 9.2 $\pm$ 0.2 | 7.0 $\pm$ 0.0                 | 7.0 $\pm$ 0.4                  | 7.4 $\pm$ 0.6         | 7.5 $\pm$ 0.5         | 8.4 $\pm$ 0.2  | 7.9 $\pm$ 0.2            | 6.5 $\pm$ 0.0     | 5.8 $\pm$ 0.2      | 8.0 $\pm$ 0.0    | 7.2 $\pm$ 0.2    | 8.1 $\pm$ 0.2 |
 | claude-4-opus-20250514                     | **385.0** | 7.2 $\pm$ 0.4               | 6.2 $\pm$ 0.4         | 8.4 $\pm$ 0.2            | 9.5 $\pm$ 0.0 | 7.1 $\pm$ 0.2                 | 6.4 $\pm$ 0.2                  | 7.0 $\pm$ 0.0         | 6.4 $\pm$ 0.6         | 8.6 $\pm$ 0.4  | 7.8 $\pm$ 0.2            | 5.5 $\pm$ 0.5     | 4.8 $\pm$ 0.8      | 8.1 $\pm$ 0.2    | 6.6 $\pm$ 0.2    | 7.9 $\pm$ 0.4 |
 | grok-3-beta                                | **384.5** | 7.5 $\pm$ 0.0               | 6.0 $\pm$ 0.0         | 8.5 $\pm$ 0.0            | 9.0 $\pm$ 0.0 | 7.0 $\pm$ 0.0                 | 7.5 $\pm$ 0.0                  | 7.2 $\pm$ 0.8         | 8.0 $\pm$ 0.0         | 8.5 $\pm$ 0.0  | 8.0 $\pm$ 0.0            | 6.5 $\pm$ 0.0     | 7.0 $\pm$ 0.0      | 8.0 $\pm$ 0.0    | 7.0 $\pm$ 0.0    | 8.4 $\pm$ 0.2 |
+| gpt-5-chat-latest-2025-08-19               | **384.0** | 6.8 $\pm$ 0.8               | 6.5 $\pm$ 0.5         | 8.5 $\pm$ 0.0            | 9.5 $\pm$ 0.0 | 6.8 $\pm$ 0.4                 | 7.4 $\pm$ 0.4                  | 7.1 $\pm$ 0.2         | 6.8 $\pm$ 1.3         | 8.2 $\pm$ 0.2  | 8.1 $\pm$ 0.2            | 5.6 $\pm$ 0.7     | 6.5 $\pm$ 0.5      | 8.0 $\pm$ 0.4    | 6.1 $\pm$ 0.5    | 7.9 $\pm$ 0.2 |
 | deepseek-aiDeepSeek-V3                     | **384.0** | 7.5 $\pm$ 0.0               | 6.0 $\pm$ 0.0         | 8.4 $\pm$ 0.2            | 9.1 $\pm$ 0.2 | 7.0 $\pm$ 0.0                 | 7.5 $\pm$ 0.0                  | 6.9 $\pm$ 0.6         | 7.2 $\pm$ 0.4         | 8.2 $\pm$ 0.2  | 8.2 $\pm$ 0.2            | 6.1 $\pm$ 0.2     | 6.5 $\pm$ 0.4      | 7.5 $\pm$ 0.0    | 6.9 $\pm$ 0.2    | 8.1 $\pm$ 0.2 |
 | meta-llamaLlama-3.2-3B-Instruct            | **383.5** | 7.5 $\pm$ 0.0               | 6.0 $\pm$ 0.0         | 8.1 $\pm$ 0.2            | 9.0 $\pm$ 0.0 | 7.0 $\pm$ 0.0                 | 7.0 $\pm$ 0.5                  | 7.2 $\pm$ 0.8         | 7.2 $\pm$ 0.4         | 8.4 $\pm$ 0.2  | 8.2 $\pm$ 0.2            | 6.0 $\pm$ 0.0     | 6.1 $\pm$ 0.6      | 7.9 $\pm$ 0.2    | 7.1 $\pm$ 0.2    | 8.0 $\pm$ 0.0 |
 | nvidiallama-3.1-nemotron-ultra-253b-v1free | **382.5** | 7.5 $\pm$ 0.0               | 6.0 $\pm$ 0.0         | 8.5 $\pm$ 0.0            | 9.4 $\pm$ 0.2 | 7.0 $\pm$ 0.0                 | 6.9 $\pm$ 0.2                  | 7.1 $\pm$ 0.6         | 7.4 $\pm$ 0.6         | 8.0 $\pm$ 0.0  | 8.4 $\pm$ 0.2            | 6.0 $\pm$ 0.0     | 6.5 $\pm$ 0.6      | 7.8 $\pm$ 0.2    | 6.8 $\pm$ 0.2    | 8.0 $\pm$ 0.0 |
@@ -1904,6 +1905,32 @@
 | Cognitive Load               | 8.1 $\pm$ 0.2      |
 | Social Support               | 5.0 $\pm$ 0.0      |
 | Resilience                   | 7.2 $\pm$ 0.2      |
+
+
+
+
+
+
+### gpt-5-chat-latest-2025-08-19
+
+
+| Personality Trait            | Score (1.0-10.0)   |
+|:-----------------------------|:-------------------|
+| Anxiety and Stress Levels    | 6.8 $\pm$ 0.8      |
+| Emotional Stability          | 6.5 $\pm$ 0.5      |
+| Problem-solving Skills       | 8.5 $\pm$ 0.0      |
+| Creativity                   | 9.5 $\pm$ 0.0      |
+| Interpersonal Relationships  | 6.8 $\pm$ 0.4      |
+| Confidence and Self-efficacy | 7.4 $\pm$ 0.4      |
+| Conflict Resolution          | 7.1 $\pm$ 0.2      |
+| Work-related Stress          | 6.8 $\pm$ 1.3      |
+| Adaptability                 | 8.2 $\pm$ 0.2      |
+| Achievement Motivation       | 8.1 $\pm$ 0.2      |
+| Fear of Failure              | 5.6 $\pm$ 0.7      |
+| Need for Control             | 6.5 $\pm$ 0.5      |
+| Cognitive Load               | 8.0 $\pm$ 0.4      |
+| Social Support               | 6.1 $\pm$ 0.5      |
+| Resilience                   | 7.9 $\pm$ 0.2      |
 
 
 

@@ -95,6 +95,7 @@
 | DeepSeek-R1-Lite-Preview | 6.825 |
 | qwen2.5-7b-instruct | 6.812 |
 | googlegemma-2-9b-it | 6.800 |
+| gpt-5-chat-latest-2025-08-19 | 6.775 |
 | ai21jamba-large-1.7 | 6.738 |
 | qwen2.5-7b-instruct-1m | 6.725 |
 | claude-4-sonnet-20250514 | 6.712 |

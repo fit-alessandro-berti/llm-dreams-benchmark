@@ -73,6 +73,7 @@
 | gemini-2.0-pro-exp-02-05 | 8.700 |
 | gemma-3-27b-it | 8.700 |
 | gpt-4.1-nano-2025-04-14 | 8.700 |
+| gpt-5-chat-latest-2025-08-19 | 8.688 |
 | nvidiaLlama-3.1-Nemotron-70B-Instruct | 8.688 |
 | qwen2.5-omni-7b | 8.688 |
 | claude-3-7-sonnet-20250219-thinking-high | 8.675 |

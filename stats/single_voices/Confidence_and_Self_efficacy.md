@@ -70,6 +70,7 @@
 | falcon33b-instruct-q8_0 | 7.475 |
 | DeepSeek-R1-Lite-Preview | 7.475 |
 | gemini-2.0-flash-exp | 7.463 |
+| gpt-5-chat-latest-2025-08-19 | 7.462 |
 | o1-2024-12-05 | 7.462 |
 | deepseek-aiDeepSeek-R1-Zero | 7.450 |
 | Grok-3-beta-thinking-20250303 | 7.450 |

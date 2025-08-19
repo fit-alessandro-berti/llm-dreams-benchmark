@@ -100,6 +100,7 @@
 | nvidiallama-3.1-nemotron-ultra-253b-v1free | 8.350 |
 | deepseek-aiDeepSeek-V3 | 8.350 |
 | gemma-3-27b-it | 8.338 |
+| gpt-5-chat-latest-2025-08-19 | 8.325 |
 | nvidiallama-3.3-nemotron-super-49b-v1 | 8.325 |
 | openrouteroptimus-alpha | 8.325 |
 | chatgpt-4o-latest-2025-03-26 | 8.312 |

@@ -69,6 +69,7 @@
 | nvidiaLlama-3.1-Nemotron-70B-Instruct | 7.750 |
 | phi4-reasoning | 7.713 |
 | qwenqwen3-30b-a3b-instruct-2507 | 7.713 |
+| gpt-5-chat-latest-2025-08-19 | 7.712 |
 | gpt-4o-mini-2024-11-05 | 7.688 |
 | claude-3-7-sonnet-20250219-thinking-high | 7.687 |
 | moonshotaikimi-k2 | 7.687 |

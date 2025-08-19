@@ -92,6 +92,7 @@
 | chatgpt-4o-latest-2025-04-26 | 7.637 |
 | Grok-3-20250426-formal | 7.637 |
 | smollm21.7b-instruct-q6_K | 7.637 |
+| gpt-5-chat-latest-2025-08-19 | 7.625 |
 | Grok-3-beta-thinking-20250303 | 7.625 |
 | gemini-2.5-pro-preview-06-05 | 7.613 |
 | o1-pro-2024-12-17 | 7.612 |

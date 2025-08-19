@@ -127,6 +127,7 @@
 | meta-llamaLlama-3.2-1B-Instruct | 8.025 |
 | QwenQwen3-30B-A3B | 8.025 |
 | meta-llamallama-4-scout | 8.013 |
+| gpt-5-chat-latest-2025-08-19 | 8.012 |
 | meta-llamaMeta-Llama-3.1-8B-Instruct | 8.012 |
 | mistral-medium-2508 | 8.012 |
 | grok-4-0709 | 8.000 |

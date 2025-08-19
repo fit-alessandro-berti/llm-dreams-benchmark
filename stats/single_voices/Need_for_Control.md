@@ -103,6 +103,7 @@
 | gpt-4.1-nano-2025-04-14 | 6.062 |
 | mistral-large-2411 | 6.062 |
 | qwenqwen3-235b-a22b-07-25 | 6.062 |
+| gpt-5-chat-latest-2025-08-19 | 6.062 |
 | gemini-1.5-flash-8b | 6.050 |
 | claude-3-5-sonnet-20241022 | 6.050 |
 | gemini-2.0-flash-thinking-exp-01-21 | 6.050 |

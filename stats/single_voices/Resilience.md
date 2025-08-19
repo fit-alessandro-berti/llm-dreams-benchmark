@@ -102,6 +102,7 @@
 | Grok-3-beta-thinking-20250303 | 8.338 |
 | gemini-2.0-pro-exp-02-05 | 8.325 |
 | claude-3-7-sonnet-20250219-thinking-high | 8.313 |
+| gpt-5-chat-latest-2025-08-19 | 8.312 |
 | openrouteroptimus-alpha | 8.312 |
 | gemma-3-27b-it | 8.300 |
 | z-aiglm-4.5 | 8.300 |

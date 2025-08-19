@@ -99,6 +99,7 @@
 | meta-llamaMeta-Llama-3.1-405B-Instruct | 7.150 |
 | magistral-small-2506 | 7.125 |
 | moonshotaikimi-k2 | 7.125 |
+| gpt-5-chat-latest-2025-08-19 | 7.112 |
 | Gemini-1.5-Pro-Exp-0801 | 7.112 |
 | claude-3-7-sonnet-20250219-thinking-high | 7.075 |
 | gemma-3-27b-it | 7.062 |

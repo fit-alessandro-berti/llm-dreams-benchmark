@@ -14,7 +14,7 @@ def do_renaming(base_path, original_name, novel_name):
 
 if __name__ == "__main__":
     original_name = "gpt-5-chat-latest_"
-    novel_name = "gpt-5-chat-latest-2025-08-07_"
+    novel_name = "gpt-5-chat-latest-2025-08-19_"
 
     if not original_name.endswith("_"):
         raise Exception("error")

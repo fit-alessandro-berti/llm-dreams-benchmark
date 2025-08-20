@@ -82,6 +82,7 @@
 | nvidiallama-3.1-nemotron-ultra-253b-v1free | 7.725 |
 | qwen2.5-7b-instruct | 7.725 |
 | Gemini-1.5-Pro-Exp-0827 | 7.713 |
+| baiduernie-4.5-21b-a3b | 7.688 |
 | chatgpt-4o-latest-2024-11-20 | 7.688 |
 | gpt-4o-mini-2024-11-05 | 7.688 |
 | openrouterhorizon-alpha | 7.688 |

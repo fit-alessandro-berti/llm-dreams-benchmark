@@ -16,6 +16,7 @@
 | microsoftphi-4 | 8.587 |
 | qwen-turbo-2024-11-01 | 8.575 |
 | gpt-4-0613 | 8.575 |
+| baiduernie-4.5-21b-a3b | 8.562 |
 | gpt-4-turbo-2024-04-09 | 8.562 |
 | codestral-2501 | 8.550 |
 | granite3.28b-instruct-q4_K_M | 8.550 |

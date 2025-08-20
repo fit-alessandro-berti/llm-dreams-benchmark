@@ -41,6 +41,7 @@
 | openaigpt-oss-120b | 7.975 |
 | gpt-4.1-nano-2025-04-14 | 7.962 |
 | o1-2024-12-17 | 7.962 |
+| baiduernie-4.5-21b-a3b | 7.950 |
 | gpt-4-0125-preview | 7.950 |
 | googlegemma-2-9b-it | 7.925 |
 | open-mistral-7b | 7.925 |

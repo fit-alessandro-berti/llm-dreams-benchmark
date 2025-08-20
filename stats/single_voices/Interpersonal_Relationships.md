@@ -82,6 +82,7 @@
 | qwenqwen3-30b-a3b-instruct-2507 | 7.312 |
 | ai21jamba-large-1.7 | 7.300 |
 | gpt-4-1106-preview | 7.287 |
+| baiduernie-4.5-21b-a3b | 7.263 |
 | openaigpt-oss-20b | 7.263 |
 | falcon33b-instruct-q8_0 | 7.263 |
 | chatgpt-4o-latest-2025-03-26 | 7.237 |

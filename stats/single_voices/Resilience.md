@@ -88,6 +88,7 @@
 | nvidiallama-3.1-nemotron-ultra-253b-v1free | 8.463 |
 | qwenqwen3-30b-a3b-instruct-2507 | 8.462 |
 | qwen34b-instruct-2507-q8_0 | 8.438 |
+| baiduernie-4.5-21b-a3b | 8.425 |
 | deepseek-aiDeepSeek-R1-Zero | 8.425 |
 | qwen31.7b | 8.425 |
 | QwenQwen3-32B | 8.425 |

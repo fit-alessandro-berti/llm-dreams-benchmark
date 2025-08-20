@@ -78,6 +78,7 @@
 | meta-llamaMeta-Llama-3.1-405B-Instruct | 7.387 |
 | ai21jamba-large-1.7 | 7.375 |
 | o1-pro-2024-12-05 | 7.375 |
+| baiduernie-4.5-21b-a3b | 7.362 |
 | gpt-4-1106-preview | 7.362 |
 | openroutercypher-alphafree | 7.350 |
 | Grok-3-beta-thinking-20250303 | 7.325 |

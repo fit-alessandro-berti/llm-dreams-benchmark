@@ -96,6 +96,7 @@
 | chatgpt-4o-latest-2025-04-26 | 6.812 |
 | gpt-5-2025-08-07 | 6.713 |
 | qwen-max-2025-01-25 | 6.700 |
+| baiduernie-4.5-21b-a3b | 6.688 |
 | chatgpt-4o-latest-2025-03-26 | 6.662 |
 | qwen2.5-7b-instruct | 6.662 |
 | phi4-mini-reasoning | 6.638 |

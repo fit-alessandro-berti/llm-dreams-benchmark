@@ -1,0 +1,5 @@
+picture-based, rather than traditional written questions. Each question shows a specific professional scenario from the course material, and you have to match the correct job title from a list of options to the scenario depicted in the image. 
+
+The first question presents an image of a person at a construction site, wearing a hard hat, safety vest, and holding a measuring tool, surveying the layout of several buildings under construction. From the options provided: Project Manager, Civil Engineer, Electrical Engineer, Carpenters, and Construction Worker, which job title would be the most appropriate match for this scenario?
+
+As you study the next image, you see a well-organized laboratory setup with scientists in white coats and safety goggles, conducting experiments at various workstations with microscopes, test tubes, and computers. The job titles listed are: Laboratory Technician, Research Scientist, Biochemist, Doctor, and Chemist. What would be the best fit for this picture-based scenario?

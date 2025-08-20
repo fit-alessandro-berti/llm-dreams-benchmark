@@ -152,6 +152,7 @@
 | smollm21.7b-instruct-q6_K | 9.025 |
 | DeepSeek-R1-Lite-Preview | 9.025 |
 | nvidiallama-3.1-nemotron-nano-8b-v1 | 9.025 |
+| baiduernie-4.5-21b-a3b | 9.012 |
 | qwen-plus-0428 | 9.012 |
 | exaone-deep7.8b-fp16 | 9.000 |
 | thudmglm-4-32b | 8.988 |

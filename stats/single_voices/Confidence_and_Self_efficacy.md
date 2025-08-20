@@ -56,6 +56,7 @@
 | ministral-3b-2410 | 7.675 |
 | qwen-plus-2025-01-25 | 7.675 |
 | gpt-5-nano-2025-08-07 | 7.650 |
+| baiduernie-4.5-21b-a3b | 7.637 |
 | mistral-large-2411 | 7.637 |
 | deepseek-aiDeepSeek-V3 | 7.625 |
 | gpt-4.1-nano-2025-04-14 | 7.600 |

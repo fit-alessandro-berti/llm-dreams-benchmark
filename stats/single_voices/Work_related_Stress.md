@@ -74,6 +74,7 @@
 | nvidiallama-3.1-nemotron-nano-8b-v1 | 7.175 |
 | chatgpt-4o-latest-2025-01-29 | 7.162 |
 | exaone-deep7.8b-fp16 | 7.112 |
+| baiduernie-4.5-21b-a3b | 7.100 |
 | gemini-exp-1206 | 7.088 |
 | openrouteroptimus-alpha | 7.062 |
 | o1-pro-2024-12-17 | 7.050 |

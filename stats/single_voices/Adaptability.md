@@ -82,6 +82,7 @@
 | qwen2.5-7b-instruct | 8.663 |
 | chatgpt-4o-latest-2025-03-26 | 8.662 |
 | googlegemma-2-9b-it | 8.662 |
+| baiduernie-4.5-21b-a3b | 8.650 |
 | gemini-1.5-flash-002 | 8.650 |
 | mistral-small-2409 | 8.650 |
 | qwen-max-2025-01-25 | 8.650 |

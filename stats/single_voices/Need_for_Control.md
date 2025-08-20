@@ -47,6 +47,7 @@
 | qwen38b | 6.475 |
 | meta-llamaLlama-3.3-70B-Instruct | 6.475 |
 | ai21jamba-large-1.7 | 6.463 |
+| baiduernie-4.5-21b-a3b | 6.463 |
 | qwen2.51.5b-instruct-q6_K | 6.463 |
 | magistral-small-2506 | 6.462 |
 | meta-llamaMeta-Llama-3.1-8B-Instruct | 6.450 |

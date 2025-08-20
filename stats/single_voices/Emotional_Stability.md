@@ -72,6 +72,7 @@
 | qwenqwen3-coder | 6.825 |
 | qwen-max-2025-01-25 | 6.812 |
 | ai21jamba-large-1.7 | 6.800 |
+| baiduernie-4.5-21b-a3b | 6.750 |
 | gpt-5-chat-latest-2025-08-19 | 6.750 |
 | deepseek-aiDeepSeek-R1-Zero | 6.725 |
 | devstral-small-2505 | 6.713 |

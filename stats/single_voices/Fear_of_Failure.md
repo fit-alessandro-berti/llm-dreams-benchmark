@@ -91,6 +91,7 @@
 | falcon33b-instruct-q8_0 | 6.112 |
 | chatgpt-4o-latest-2025-04-26 | 6.063 |
 | DeepSeek-R1-Lite-Preview | 6.062 |
+| baiduernie-4.5-21b-a3b | 6.037 |
 | phi4-mini-reasoning | 5.950 |
 | ai21jamba-large-1.7 | 5.925 |
 | devstral-small-2505 | 5.925 |

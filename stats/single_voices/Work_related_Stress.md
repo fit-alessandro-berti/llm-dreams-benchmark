@@ -71,6 +71,7 @@
 | claude-3-5-sonnet-20241022 | 7.200 |
 | qwenqwen3-30b-a3b-instruct-2507 | 7.200 |
 | deepseek-aiDeepSeek-V3 | 7.175 |
+| deepseekdeepseek-chat-v3.1 | 7.175 |
 | nvidiallama-3.1-nemotron-nano-8b-v1 | 7.175 |
 | chatgpt-4o-latest-2025-01-29 | 7.162 |
 | exaone-deep7.8b-fp16 | 7.112 |

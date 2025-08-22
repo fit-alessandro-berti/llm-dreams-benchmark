@@ -86,6 +86,7 @@
 | baiduernie-4.5-300b-a47b | 7.625 |
 | gpt-4-1106-preview | 7.600 |
 | codestral-2501 | 7.562 |
+| deepseekdeepseek-chat-v3.1 | 7.525 |
 | openaigpt-oss-20b | 7.513 |
 | meta-llamaLlama-3.3-70B-Instruct | 7.500 |
 | qwen2.5-7b-instruct | 7.475 |

@@ -86,6 +86,7 @@
 | nvidiaLlama-3.1-Nemotron-70B-Instruct | 6.537 |
 | deepseek-aiDeepSeek-V3 | 6.525 |
 | falcon33b-instruct-q8_0 | 6.500 |
+| deepseekdeepseek-chat-v3.1 | 6.475 |
 | smollm21.7b-instruct-q6_K | 6.462 |
 | gemini-1.5-flash-8b | 6.450 |
 | claude-3-7-sonnet-20250219 | 6.438 |

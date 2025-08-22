@@ -91,6 +91,7 @@
 | chatgpt-4o-latest-2024-11-20 | 7.188 |
 | moonshotaikimi-k2 | 7.175 |
 | nvidiallama-3.1-nemotron-ultra-253b-v1free | 7.162 |
+| deepseekdeepseek-chat-v3.1 | 7.150 |
 | deepseekdeepseek-r1 | 7.125 |
 | gemini-2.5-pro-preview-06-05 | 7.125 |
 | smollm21.7b-instruct-q6_K | 7.125 |

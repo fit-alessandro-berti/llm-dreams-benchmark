@@ -114,6 +114,7 @@
 | qwen-turbo-0428 | 7.000 |
 | qwen38b | 6.975 |
 | QwenQwen3-32B | 6.975 |
+| deepseekdeepseek-chat-v3.1 | 6.963 |
 | gemini-2.0-pro-exp-02-05 | 6.962 |
 | gemini-2.5-flash-lite-preview-06-17 | 6.962 |
 | meta-llamallama-4-scout | 6.962 |

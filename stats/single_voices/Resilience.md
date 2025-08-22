@@ -101,6 +101,7 @@
 | qwen38b | 8.350 |
 | gemini-2.5-pro-preview-05-06 | 8.338 |
 | Grok-3-beta-thinking-20250303 | 8.338 |
+| deepseekdeepseek-chat-v3.1 | 8.325 |
 | gemini-2.0-pro-exp-02-05 | 8.325 |
 | claude-3-7-sonnet-20250219-thinking-high | 8.313 |
 | gpt-5-chat-latest-2025-08-19 | 8.312 |

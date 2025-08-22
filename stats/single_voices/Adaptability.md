@@ -96,6 +96,7 @@
 | openrouteroptimus-alpha | 8.613 |
 | exaone-deep7.8b-fp16 | 8.600 |
 | claude-4-sonnet-20250514 | 8.600 |
+| deepseekdeepseek-chat-v3.1 | 8.600 |
 | claude-3-5-sonnet-20241022 | 8.588 |
 | devstral-small-2505 | 8.588 |
 | gemini-1.5-flash-8b | 8.588 |

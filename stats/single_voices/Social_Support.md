@@ -116,6 +116,7 @@
 | gpt-4o-mini-2024-11-05 | 6.912 |
 | qwenqwen3-235b-a22b-07-25 | 6.912 |
 | mistral-medium-2505 | 6.875 |
+| deepseekdeepseek-chat-v3.1 | 6.850 |
 | gemini-exp-1206 | 6.825 |
 | chatgpt-4o-latest-2025-04-26 | 6.800 |
 | qwen38b | 6.763 |

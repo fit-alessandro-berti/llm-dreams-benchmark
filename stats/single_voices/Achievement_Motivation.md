@@ -59,6 +59,7 @@
 | openrouterhorizon-alpha | 8.363 |
 | gpt-4.1-nano-2025-04-14 | 8.362 |
 | openroutercypher-alphafree | 8.362 |
+| deepseekdeepseek-chat-v3.1 | 8.350 |
 | o1-2024-12-05 | 8.350 |
 | o1-pro-2024-12-05 | 8.350 |
 | qwen-plus-2025-01-25 | 8.350 |

@@ -58,6 +58,7 @@
 | grok-4-0709 | 7.888 |
 | gemini-2.0-pro-exp-02-05 | 7.887 |
 | nvidiallama-3.3-nemotron-super-49b-v1 | 7.887 |
+| deepseekdeepseek-chat-v3.1 | 7.875 |
 | googlegemma-2-2b-it | 7.875 |
 | nvidiallama-3.1-nemotron-nano-8b-v1 | 7.875 |
 | gemma-3-27b-it | 7.850 |

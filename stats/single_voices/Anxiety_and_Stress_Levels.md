@@ -57,6 +57,7 @@
 | meta-llamaLlama-3.2-1B-Instruct | 7.400 |
 | gemini-exp-1206 | 7.400 |
 | gemma-3n-e4b-it | 7.388 |
+| deepseekdeepseek-chat-v3.1 | 7.375 |
 | qwen38b | 7.362 |
 | moonshotaikimi-k2 | 7.338 |
 | chatgpt-4o-latest-20250215 | 7.325 |

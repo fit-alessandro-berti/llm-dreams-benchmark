@@ -111,6 +111,7 @@
 | Grok-3-20250426-concise | 9.237 |
 | open-mistral-nemo | 9.237 |
 | mistral-medium-2505 | 9.213 |
+| deepseekdeepseek-chat-v3.1 | 9.213 |
 | o1-2024-12-05 | 9.200 |
 | open-mixtral-8x22b | 9.200 |
 | magistral-medium-2506 | 9.200 |

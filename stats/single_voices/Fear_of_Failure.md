@@ -41,6 +41,7 @@
 | gemini-2.0-flash-thinking-exp-01-21 | 6.938 |
 | qwen2.51.5b-instruct-q6_K | 6.937 |
 | googlegemma-2-2b-it | 6.913 |
+| deepseekdeepseek-chat-v3.1 | 6.900 |
 | meta-llamaMeta-Llama-3.1-405B-Instruct | 6.900 |
 | qwenqwen3-235b-a22b-07-25 | 6.900 |
 | Gemini-1.5-Pro-Exp-0827 | 6.875 |

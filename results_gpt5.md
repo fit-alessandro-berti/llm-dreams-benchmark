@@ -98,6 +98,7 @@
 | magistral-small-2506                       | **410.1** | 6.6 $\pm$ 0.1               | 7.2 $\pm$ 0.1         | 8.5 $\pm$ 0.1            | 9.6 $\pm$ 0.0 | 7.8 $\pm$ 0.2                 | 7.6 $\pm$ 0.2                  | 7.7 $\pm$ 0.5         | 7.0 $\pm$ 0.1         | 8.9 $\pm$ 0.1  | 8.2 $\pm$ 0.1            | 6.1 $\pm$ 0.2     | 6.1 $\pm$ 0.1      | 7.7 $\pm$ 0.0    | 7.8 $\pm$ 0.2    | 8.7 $\pm$ 0.1 |
 | openrouteroptimus-alpha                    | **409.9** | 6.5 $\pm$ 0.0               | 7.3 $\pm$ 0.1         | 8.6 $\pm$ 0.1            | 9.6 $\pm$ 0.1 | 7.6 $\pm$ 0.3                 | 7.9 $\pm$ 0.0                  | 8.0 $\pm$ 0.3         | 6.5 $\pm$ 0.4         | 8.9 $\pm$ 0.1  | 8.3 $\pm$ 0.1            | 6.2 $\pm$ 0.4     | 6.3 $\pm$ 0.2      | 7.6 $\pm$ 0.2    | 7.6 $\pm$ 0.1    | 8.6 $\pm$ 0.1 |
 | claude-4-sonnet-20250514                   | **409.3** | 5.4 $\pm$ 1.1               | 7.0 $\pm$ 0.7         | 8.3 $\pm$ 0.2            | 9.8 $\pm$ 0.1 | 7.1 $\pm$ 0.6                 | 7.8 $\pm$ 0.6                  | 7.1 $\pm$ 0.3         | 5.4 $\pm$ 0.4         | 8.9 $\pm$ 0.2  | 7.8 $\pm$ 0.1            | 5.5 $\pm$ 0.7     | 5.2 $\pm$ 0.7      | 6.9 $\pm$ 0.5    | 7.6 $\pm$ 0.4    | 8.6 $\pm$ 0.2 |
+| deepseekdeepseek-chat-v3.1                 | **409.1** | 6.6 $\pm$ 0.1               | 7.4 $\pm$ 0.3         | 8.8 $\pm$ 0.2            | 9.6 $\pm$ 0.0 | 8.0 $\pm$ 0.2                 | 7.8 $\pm$ 0.4                  | 8.4 $\pm$ 0.2         | 6.3 $\pm$ 0.5         | 8.9 $\pm$ 0.1  | 8.6 $\pm$ 0.3            | 6.8 $\pm$ 0.2     | 6.9 $\pm$ 0.3      | 7.9 $\pm$ 0.2    | 7.7 $\pm$ 0.7    | 8.8 $\pm$ 0.2 |
 | gpt-4-1106-preview                         | **408.7** | 6.7 $\pm$ 0.5               | 7.0 $\pm$ 0.3         | 8.4 $\pm$ 0.2            | 9.5 $\pm$ 0.0 | 7.8 $\pm$ 0.2                 | 7.5 $\pm$ 0.3                  | 8.2 $\pm$ 0.2         | 7.0 $\pm$ 0.3         | 8.8 $\pm$ 0.2  | 8.3 $\pm$ 0.3            | 6.4 $\pm$ 0.4     | 6.4 $\pm$ 0.4      | 7.4 $\pm$ 0.2    | 7.8 $\pm$ 0.3    | 8.7 $\pm$ 0.2 |
 | gemini-2.5-flash-lite-preview-06-17        | **408.7** | 6.8 $\pm$ 0.5               | 7.2 $\pm$ 0.4         | 8.5 $\pm$ 0.1            | 9.7 $\pm$ 0.1 | 7.5 $\pm$ 0.6                 | 8.0 $\pm$ 0.2                  | 7.5 $\pm$ 0.8         | 7.3 $\pm$ 0.5         | 8.9 $\pm$ 0.1  | 8.5 $\pm$ 0.2            | 6.3 $\pm$ 0.4     | 6.5 $\pm$ 0.3      | 8.0 $\pm$ 0.1    | 7.7 $\pm$ 0.3    | 8.9 $\pm$ 0.2 |
 | grok-3-beta                                | **407.6** | 6.8 $\pm$ 0.5               | 7.0 $\pm$ 0.3         | 8.4 $\pm$ 0.1            | 9.6 $\pm$ 0.0 | 7.8 $\pm$ 0.1                 | 7.7 $\pm$ 0.3                  | 8.2 $\pm$ 0.1         | 7.4 $\pm$ 0.8         | 8.7 $\pm$ 0.1  | 8.6 $\pm$ 0.1            | 6.6 $\pm$ 0.8     | 6.8 $\pm$ 0.2      | 7.7 $\pm$ 0.4    | 7.6 $\pm$ 0.1    | 8.7 $\pm$ 0.2 |
@@ -788,6 +789,32 @@
 | Cognitive Load               | 8.0 $\pm$ 0.2      |
 | Social Support               | 7.4 $\pm$ 0.2      |
 | Resilience                   | 8.4 $\pm$ 0.1      |
+
+
+
+
+
+
+### deepseekdeepseek-chat-v3.1
+
+
+| Personality Trait            | Score (1.0-10.0)   |
+|:-----------------------------|:-------------------|
+| Anxiety and Stress Levels    | 6.6 $\pm$ 0.1      |
+| Emotional Stability          | 7.4 $\pm$ 0.3      |
+| Problem-solving Skills       | 8.8 $\pm$ 0.2      |
+| Creativity                   | 9.6 $\pm$ 0.0      |
+| Interpersonal Relationships  | 8.0 $\pm$ 0.2      |
+| Confidence and Self-efficacy | 7.8 $\pm$ 0.4      |
+| Conflict Resolution          | 8.4 $\pm$ 0.2      |
+| Work-related Stress          | 6.3 $\pm$ 0.5      |
+| Adaptability                 | 8.9 $\pm$ 0.1      |
+| Achievement Motivation       | 8.6 $\pm$ 0.3      |
+| Fear of Failure              | 6.8 $\pm$ 0.2      |
+| Need for Control             | 6.9 $\pm$ 0.3      |
+| Cognitive Load               | 7.9 $\pm$ 0.2      |
+| Social Support               | 7.7 $\pm$ 0.7      |
+| Resilience                   | 8.8 $\pm$ 0.2      |
 
 
 

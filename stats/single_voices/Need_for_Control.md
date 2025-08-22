@@ -62,6 +62,7 @@
 | mistral-medium-2505 | 6.388 |
 | nvidiallama-3.1-nemotron-ultra-253b-v1free | 6.387 |
 | qwen2.5-14b-instruct | 6.375 |
+| deepseekdeepseek-chat-v3.1 | 6.375 |
 | meta-llamaLlama-3.2-3B-Instruct | 6.362 |
 | gpt-5-chat-latest-2025-08-07 | 6.350 |
 | ministral-8b-2410 | 6.350 |

@@ -68,6 +68,7 @@
 | phi4-reasoning | 8.537 |
 | o3-mini-20250131-HIGH | 8.512 |
 | qwen-plus-2025-01-25 | 8.512 |
+| deepseekdeepseek-chat-v3.1 | 8.500 |
 | o1-2024-12-17 | 8.500 |
 | phi4-reasoningplus | 8.500 |
 | openaigpt-oss-20b | 8.487 |

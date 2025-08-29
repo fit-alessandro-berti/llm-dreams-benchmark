@@ -9,6 +9,7 @@
 | grok-2-1212 | 8.725 |
 | microsoftPhi-3-medium-4k-instruct | 8.700 |
 | open-mixtral-8x22b | 8.700 |
+| nousresearchhermes-4-405b | 8.662 |
 | open-mistral-7b | 8.650 |
 | open-mixtral-8x7b | 8.625 |
 | microsoftWizardLM-2-8x22B | 8.600 |
@@ -25,6 +26,7 @@
 | phi3.53.8b-mini-instruct-fp16 | 8.525 |
 | Grok-3-20250426-concise | 8.525 |
 | exaone-deep7.8b-fp16 | 8.513 |
+| nousresearchhermes-4-70b | 8.512 |
 | Grok-3-20250426-formal | 8.500 |
 | qwen2.5-72b-instruct | 8.500 |
 | meta-llamaMeta-Llama-3.1-70B-Instruct | 8.488 |
@@ -74,6 +76,7 @@
 | o3-mini-20250131-HIGH | 8.325 |
 | deepseek-aiDeepSeek-R1-Zero | 8.312 |
 | deepseekdeepseek-r1 | 8.312 |
+| x-aigrok-code-fast-1 | 8.312 |
 | falcon33b-instruct-q8_0 | 8.300 |
 | chatgpt-4o-latest-2024-11-20 | 8.300 |
 | qwen31.7b | 8.300 |

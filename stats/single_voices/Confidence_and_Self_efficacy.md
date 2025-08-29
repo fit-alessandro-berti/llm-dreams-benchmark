@@ -32,11 +32,13 @@
 | phi4-reasoningplus | 8.000 |
 | Grok-3-20250426-formal | 7.975 |
 | inceptionmercury | 7.975 |
+| nousresearchhermes-4-405b | 7.975 |
 | o1-preview-2024-09-12 | 7.925 |
 | phi3.53.8b-mini-instruct-fp16 | 7.925 |
 | gpt-4o-2024-05-13 | 7.887 |
 | gpt-4-0125-preview | 7.875 |
 | codex-mini-latest | 7.863 |
+| nousresearchhermes-4-70b | 7.850 |
 | phi4-reasoning | 7.850 |
 | o3-mini-20250131-HIGH | 7.838 |
 | gpt-4o-mini-2024-07-18 | 7.825 |
@@ -79,6 +81,7 @@
 | chatgpt-4o-latest-2025-04-26 | 7.388 |
 | qwenqwen3-coder | 7.363 |
 | devstral-small-2505 | 7.350 |
+| x-aigrok-code-fast-1 | 7.338 |
 | chatgpt-4o-latest-2025-03-26 | 7.325 |
 | gemini-1.5-flash-8b | 7.300 |
 | qwen2.5-7b-instruct-1m | 7.288 |

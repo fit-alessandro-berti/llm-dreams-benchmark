@@ -61,6 +61,7 @@
 | QwenQwen3-32B | 6.625 |
 | qwen38b | 6.600 |
 | gemma-3n-e4b-it | 6.587 |
+| x-aigrok-code-fast-1 | 6.562 |
 | nvidiallama-3.1-nemotron-nano-8b-v1 | 6.550 |
 | deepseek-aiDeepSeek-R1-Zero | 6.525 |
 | gemini-2.5-flash-lite-preview-06-17 | 6.513 |
@@ -86,10 +87,12 @@
 | openroutercypher-alphafree | 6.237 |
 | Grok-3-beta-thinking-20250303 | 6.237 |
 | googlegemma-2-9b-it | 6.213 |
+| nousresearchhermes-4-70b | 6.213 |
 | claude-4-opus-20250514 | 6.200 |
 | openrouteroptimus-alpha | 6.188 |
 | gemini-1.5-flash-8b | 6.125 |
 | falcon33b-instruct-q8_0 | 6.112 |
+| nousresearchhermes-4-405b | 6.075 |
 | chatgpt-4o-latest-2025-04-26 | 6.063 |
 | DeepSeek-R1-Lite-Preview | 6.062 |
 | baiduernie-4.5-21b-a3b | 6.037 |

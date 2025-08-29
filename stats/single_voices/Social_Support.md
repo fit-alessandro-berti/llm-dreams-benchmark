@@ -27,6 +27,7 @@
 | gpt-5-mini-2025-08-07 | 7.975 |
 | gpt-4o-2024-08-06 | 7.975 |
 | open-mistral-nemo | 7.938 |
+| nousresearchhermes-4-405b | 7.937 |
 | gpt-4o-2024-05-13 | 7.925 |
 | gpt-4.1-mini-2025-04-14 | 7.912 |
 | ministral-3b-2410 | 7.888 |
@@ -70,6 +71,7 @@
 | o1-2024-12-17 | 7.500 |
 | phi4-reasoningplus | 7.500 |
 | Grok-3-20250426-formal | 7.487 |
+| nousresearchhermes-4-70b | 7.487 |
 | deepseek-aiDeepSeek-R1-Zero | 7.462 |
 | phi4-reasoning | 7.450 |
 | gemini-1.5-flash-002 | 7.450 |
@@ -123,6 +125,7 @@
 | claude-3-5-sonnet-20241022 | 6.738 |
 | Gemini-1.5-Pro-Exp-0827 | 6.725 |
 | gemma312b-it-q8_0 | 6.725 |
+| x-aigrok-code-fast-1 | 6.725 |
 | grok-4-0709 | 6.700 |
 | meta-llamaMeta-Llama-3.1-70B-Instruct | 6.700 |
 | chatgpt-4o-latest-2024-11-20 | 6.700 |

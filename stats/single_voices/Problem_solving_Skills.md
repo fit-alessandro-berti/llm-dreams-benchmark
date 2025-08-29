@@ -71,6 +71,7 @@
 | deepseekdeepseek-chat-v3.1 | 8.500 |
 | o1-2024-12-17 | 8.500 |
 | phi4-reasoningplus | 8.500 |
+| nousresearchhermes-4-405b | 8.500 |
 | openaigpt-oss-20b | 8.487 |
 | gemini-1.5-flash-002 | 8.475 |
 | qwen2.5-7b-instruct-1m | 8.475 |
@@ -82,6 +83,7 @@
 | openrouterquasar-alpha | 8.450 |
 | QwenQwen3-32B | 8.450 |
 | qwen38b | 8.438 |
+| x-aigrok-code-fast-1 | 8.425 |
 | qwenqwen3-30b-a3b-instruct-2507 | 8.425 |
 | gemini-2.0-flash-exp | 8.413 |
 | gemma-3n-e4b-it | 8.412 |
@@ -95,6 +97,7 @@
 | magistral-small-2506 | 8.388 |
 | gemini-2.0-pro-exp-02-05 | 8.375 |
 | claude-3-7-sonnet-20250219 | 8.375 |
+| nousresearchhermes-4-70b | 8.375 |
 | QwenQwen3-14B | 8.375 |
 | z-aiglm-4.5 | 8.375 |
 | z-aiglm-4.5-air | 8.375 |

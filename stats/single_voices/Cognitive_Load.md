@@ -42,6 +42,7 @@
 | claude-4-sonnet-20250514 | 8.013 |
 | meta-llamallama-4-maverick | 8.000 |
 | qwen31.7b | 8.000 |
+| x-aigrok-code-fast-1 | 8.000 |
 | gemini-2.5-flash-lite-preview-06-17 | 7.988 |
 | gemini-exp-1206 | 7.987 |
 | chatgpt-4o-latest-2025-01-29 | 7.987 |
@@ -86,6 +87,7 @@
 | baiduernie-4.5-21b-a3b | 7.688 |
 | chatgpt-4o-latest-2024-11-20 | 7.688 |
 | gpt-4o-mini-2024-11-05 | 7.688 |
+| nousresearchhermes-4-70b | 7.688 |
 | openrouterhorizon-alpha | 7.688 |
 | gemma3270m | 7.675 |
 | meta-llamaLlama-3.2-1B-Instruct | 7.662 |
@@ -130,6 +132,7 @@
 | o4-mini-2025-04-16 | 7.425 |
 | openaigpt-oss-120b | 7.425 |
 | falcon310b-instruct-q8_0 | 7.412 |
+| nousresearchhermes-4-405b | 7.412 |
 | o1-pro-2024-12-05 | 7.412 |
 | qwen2.5-72b-instruct | 7.400 |
 | mistral-small-2409 | 7.400 |

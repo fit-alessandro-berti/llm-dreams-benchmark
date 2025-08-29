@@ -44,6 +44,7 @@
 | open-mistral-nemo | 7.775 |
 | o3-pro-2025-06-10 | 7.763 |
 | qwen-max-2025-01-25 | 7.763 |
+| nousresearchhermes-4-405b | 7.750 |
 | gpt-5-nano-2025-08-07 | 7.737 |
 | qwen2.5-7b-instruct | 7.725 |
 | baiduernie-4.5-300b-a47b | 7.725 |
@@ -86,6 +87,7 @@
 | openaigpt-oss-20b | 7.263 |
 | falcon33b-instruct-q8_0 | 7.263 |
 | chatgpt-4o-latest-2025-03-26 | 7.237 |
+| nousresearchhermes-4-70b | 7.225 |
 | gemini-2.0-flash-exp | 7.212 |
 | nvidiallama-3.3-nemotron-super-49b-v1 | 7.212 |
 | openroutercypher-alphafree | 7.200 |
@@ -128,6 +130,7 @@
 | grok-4-0709 | 6.875 |
 | claude-3-5-sonnet-20241022 | 6.862 |
 | mistral-medium-2508 | 6.862 |
+| x-aigrok-code-fast-1 | 6.838 |
 | gemini-2.0-flash-thinking-exp-01-21 | 6.825 |
 | claude-3-opus-20240229 | 6.812 |
 | z-aiglm-4.5 | 6.775 |

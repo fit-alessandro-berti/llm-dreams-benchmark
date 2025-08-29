@@ -77,6 +77,7 @@
 | deepseek-aiDeepSeek-R1-Zero | 6.725 |
 | devstral-small-2505 | 6.713 |
 | o1-pro-2024-12-17 | 6.712 |
+| nousresearchhermes-4-405b | 6.663 |
 | chatgpt-4o-latest-2025-03-26 | 6.650 |
 | gemini-1.5-flash-002 | 6.575 |
 | Grok-3-beta-thinking-20250303 | 6.575 |
@@ -90,6 +91,7 @@
 | smollm21.7b-instruct-q6_K | 6.462 |
 | gemini-1.5-flash-8b | 6.450 |
 | claude-3-7-sonnet-20250219 | 6.438 |
+| nousresearchhermes-4-70b | 6.438 |
 | claude-4-opus-20250514 | 6.425 |
 | googlegemma-2-9b-it | 6.412 |
 | qwen30.6b | 6.412 |
@@ -114,6 +116,7 @@
 | gemini-2.5-flash-lite-preview-06-17 | 6.075 |
 | gemma-3n-e4b-it | 6.050 |
 | deepseekdeepseek-r1 | 6.025 |
+| x-aigrok-code-fast-1 | 6.025 |
 | grok-3-beta | 6.025 |
 | QwenQwen3-32B | 6.013 |
 | chatgpt-4o-latest-2025-01-29 | 6.013 |

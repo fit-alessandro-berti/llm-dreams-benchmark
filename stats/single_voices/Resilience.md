@@ -46,6 +46,7 @@
 | phi4-reasoning | 8.725 |
 | Grok-3-20250426-formal | 8.712 |
 | baiduernie-4.5-300b-a47b | 8.700 |
+| nousresearchhermes-4-405b | 8.675 |
 | googlegemma-2-9b-it | 8.662 |
 | gemini-2.5-pro-preview-06-05 | 8.650 |
 | gpt-4o-2024-05-13 | 8.650 |
@@ -72,6 +73,7 @@
 | o1-2024-12-05 | 8.537 |
 | deepseek-aiDeepSeek-V3 | 8.525 |
 | ministral-8b-2410 | 8.513 |
+| nousresearchhermes-4-70b | 8.512 |
 | qwen2.5-7b-instruct | 8.512 |
 | chatgpt-4o-latest-2025-04-26 | 8.500 |
 | devstral-small-2505 | 8.500 |
@@ -114,6 +116,7 @@
 | qwen-turbo-0428 | 8.262 |
 | gemma312b-it-q8_0 | 8.250 |
 | gpt-4-1106-preview | 8.250 |
+| x-aigrok-code-fast-1 | 8.250 |
 | grok-3-beta | 8.212 |
 | googlegemma-2-2b-it | 8.200 |
 | gpt-4o-mini-2024-11-05 | 8.200 |

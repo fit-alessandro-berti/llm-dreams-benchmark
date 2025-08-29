@@ -49,6 +49,7 @@
 | grok-4-0709 | 7.537 |
 | qwenqwen3-235b-a22b-07-25 | 7.500 |
 | qwen2.51.5b-instruct-q6_K | 7.475 |
+| x-aigrok-code-fast-1 | 7.475 |
 | mistral-medium-2505 | 7.450 |
 | nvidiallama-3.1-nemotron-nano-8b-v1 | 7.438 |
 | QwenQwen3-32B | 7.413 |
@@ -72,6 +73,7 @@
 | claude-3-7-sonnet-20250219-thinking-high | 7.250 |
 | exaone-deep7.8b-fp16 | 7.250 |
 | deepseek-aiDeepSeek-R1-Zero | 7.225 |
+| nousresearchhermes-4-70b | 7.225 |
 | gpt-4-1106-preview | 7.200 |
 | anthropicclaude-opus-4.1 | 7.188 |
 | claude-3-5-sonnet-20241022 | 7.175 |
@@ -88,6 +90,7 @@
 | openrouteroptimus-alpha | 7.025 |
 | Grok-3-beta-thinking-20250303 | 7.013 |
 | claude-4-sonnet-20250514 | 7.000 |
+| nousresearchhermes-4-405b | 6.988 |
 | openroutercypher-alphafree | 6.975 |
 | smollm21.7b-instruct-q6_K | 6.975 |
 | nvidiaLlama-3.1-Nemotron-70B-Instruct | 6.963 |

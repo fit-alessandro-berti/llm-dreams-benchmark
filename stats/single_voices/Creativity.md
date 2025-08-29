@@ -72,6 +72,7 @@
 | chatgpt-4o-latest-20250215 | 9.312 |
 | mistral-large-2411 | 9.312 |
 | openrouterquasar-alpha | 9.312 |
+| x-aigrok-code-fast-1 | 9.312 |
 | gemini-2.0-flash-exp | 9.312 |
 | mistral-large-2407 | 9.312 |
 | microsoftWizardLM-2-8x22B | 9.300 |
@@ -118,6 +119,7 @@
 | qwen-max-2025-01-25 | 9.200 |
 | ministral-3b-2410 | 9.188 |
 | ministral-8b-2410 | 9.188 |
+| nousresearchhermes-4-405b | 9.188 |
 | qwen30.6b | 9.188 |
 | falcon33b-instruct-q8_0 | 9.175 |
 | grok-2-1212 | 9.175 |
@@ -125,6 +127,7 @@
 | Gemini-1.5-Pro-Exp-0801 | 9.175 |
 | gemini-2.0-flash-lite-preview-02-05 | 9.163 |
 | mistral-small-2501 | 9.163 |
+| nousresearchhermes-4-70b | 9.162 |
 | Grok-3-20250426-formal | 9.150 |
 | inceptionmercury | 9.150 |
 | qwen2.5-32b-instruct | 9.138 |

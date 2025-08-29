@@ -56,6 +56,7 @@
 | qwenqwen3-235b-a22b-07-25 | 7.400 |
 | qwen38b | 7.375 |
 | qwen2.51.5b-instruct-q6_K | 7.362 |
+| x-aigrok-code-fast-1 | 7.337 |
 | deepseek-aiDeepSeek-R1-Zero | 7.325 |
 | gemini-2.5-flash-lite-preview-06-17 | 7.325 |
 | claude-3-7-sonnet-20250219-thinking-high | 7.300 |
@@ -69,6 +70,7 @@
 | smollm21.7b-instruct-q6_K | 7.225 |
 | nvidiallama-3.1-nemotron-ultra-253b-v1free | 7.212 |
 | claude-3-5-sonnet-20241022 | 7.200 |
+| nousresearchhermes-4-405b | 7.200 |
 | qwenqwen3-30b-a3b-instruct-2507 | 7.200 |
 | deepseek-aiDeepSeek-V3 | 7.175 |
 | deepseekdeepseek-chat-v3.1 | 7.175 |
@@ -97,6 +99,7 @@
 | DeepSeek-R1-Lite-Preview | 6.825 |
 | qwen2.5-7b-instruct | 6.812 |
 | googlegemma-2-9b-it | 6.800 |
+| nousresearchhermes-4-70b | 6.800 |
 | gpt-5-chat-latest-2025-08-19 | 6.775 |
 | ai21jamba-large-1.7 | 6.738 |
 | qwen2.5-7b-instruct-1m | 6.725 |

@@ -47,6 +47,7 @@
 | open-mistral-7b | 7.925 |
 | ministral-3b-2410 | 7.925 |
 | mistral-large-2411 | 7.912 |
+| nousresearchhermes-4-405b | 7.912 |
 | openrouterhorizon-beta | 7.912 |
 | gemini-1.5-flash-8b | 7.900 |
 | gpt-4-turbo-2024-04-09 | 7.900 |
@@ -137,8 +138,10 @@
 | thudmglm-4-32b | 6.750 |
 | claude-3-5-sonnet-20241022 | 6.725 |
 | smollm21.7b-instruct-q6_K | 6.725 |
+| x-aigrok-code-fast-1 | 6.713 |
 | chatgpt-4o-latest-2025-01-29 | 6.700 |
 | grok-3-mini-beta | 6.700 |
+| nousresearchhermes-4-70b | 6.675 |
 | tngtechdeepseek-r1t-chimerafree | 6.663 |
 | gpt-5-chat-latest-2025-08-07 | 6.575 |
 | gemma34b-it-q8_0 | 6.562 |

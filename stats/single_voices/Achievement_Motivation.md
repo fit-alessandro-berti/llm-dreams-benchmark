@@ -108,6 +108,7 @@
 | meta-llamaLlama-3.3-70B-Instruct | 8.188 |
 | phi4-reasoningplus | 8.188 |
 | qwen-plus-0428 | 8.188 |
+| openroutersonoma-sky-alpha | 8.175 |
 | qwen-turbo-0428 | 8.175 |
 | openrouteroptimus-alpha | 8.162 |
 | gemma-3n-e4b-it | 8.150 |
@@ -124,6 +125,7 @@
 | gemini-2.5-pro-preview-05-06 | 8.075 |
 | gemini-exp-1206 | 8.075 |
 | gpt-4-1106-preview | 8.075 |
+| openroutersonoma-dusk-alpha | 8.075 |
 | DeepSeek-V3-0324 | 8.062 |
 | gpt-4.1-2025-04-14 | 8.062 |
 | mistral-medium-2505 | 8.050 |

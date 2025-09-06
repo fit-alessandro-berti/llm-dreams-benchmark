@@ -96,6 +96,7 @@
 | QwenQwen3-32B | 8.425 |
 | qwenqwen3-235b-a22b-07-25 | 8.412 |
 | qwen30.6b | 8.387 |
+| openroutersonoma-sky-alpha | 8.375 |
 | claude-3-7-sonnet-20250219 | 8.375 |
 | chatgpt-4o-latest-2025-03-26 | 8.363 |
 | gemini-2.5-flash-lite-preview-06-17 | 8.363 |
@@ -117,6 +118,7 @@
 | gemma312b-it-q8_0 | 8.250 |
 | gpt-4-1106-preview | 8.250 |
 | x-aigrok-code-fast-1 | 8.250 |
+| openroutersonoma-dusk-alpha | 8.213 |
 | grok-3-beta | 8.212 |
 | googlegemma-2-2b-it | 8.200 |
 | gpt-4o-mini-2024-11-05 | 8.200 |

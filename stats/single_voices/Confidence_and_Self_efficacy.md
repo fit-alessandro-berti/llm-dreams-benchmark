@@ -69,6 +69,7 @@
 | exaone-deep7.8b-fp16 | 7.538 |
 | openaigpt-oss-20b | 7.538 |
 | o1-2024-12-17 | 7.537 |
+| openroutersonoma-sky-alpha | 7.500 |
 | ai21jamba-large-1.7 | 7.487 |
 | falcon33b-instruct-q8_0 | 7.475 |
 | DeepSeek-R1-Lite-Preview | 7.475 |
@@ -86,6 +87,7 @@
 | gemini-1.5-flash-8b | 7.300 |
 | qwen2.5-7b-instruct-1m | 7.288 |
 | nvidiaLlama-3.1-Nemotron-70B-Instruct | 7.287 |
+| openroutersonoma-dusk-alpha | 7.287 |
 | o1-pro-2024-12-17 | 7.275 |
 | googlegemma-2-9b-it | 7.263 |
 | gemini-1.5-flash-002 | 7.250 |

@@ -102,6 +102,7 @@
 | deepseek-aiDeepSeek-R1-Zero | 7.350 |
 | Gemini-1.5-Pro-Exp-0801 | 7.350 |
 | qwen38b | 7.350 |
+| openroutersonoma-sky-alpha | 7.325 |
 | openrouteroptimus-alpha | 7.312 |
 | chatgpt-4o-latest-2025-03-26 | 7.287 |
 | chatgpt-4o-latest-2025-04-26 | 7.287 |
@@ -118,6 +119,7 @@
 | meta-llamaMeta-Llama-3.1-8B-Instruct | 7.175 |
 | meta-llamaMeta-Llama-3.1-405B-Instruct | 7.100 |
 | gemma-3n-e4b-it | 7.088 |
+| openroutersonoma-dusk-alpha | 7.075 |
 | meta-llamaMeta-Llama-3.1-70B-Instruct | 7.075 |
 | gemini-2.0-flash-thinking-exp-01-21 | 7.050 |
 | nvidiallama-3.3-nemotron-super-49b-v1 | 7.050 |

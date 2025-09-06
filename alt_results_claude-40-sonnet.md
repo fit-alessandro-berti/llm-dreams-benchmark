@@ -68,6 +68,7 @@
 | o1-2024-12-17                              | **411.0** | 6.5 $\pm$ 0.0               | 7.5 $\pm$ 0.0         | 8.5 $\pm$ 0.0            | 9.1 $\pm$ 0.2 | 7.8 $\pm$ 0.4                 | 7.2 $\pm$ 0.2                  | 8.4 $\pm$ 0.2         | 6.2 $\pm$ 0.4         | 8.8 $\pm$ 0.2  | 7.5 $\pm$ 0.0            | 5.6 $\pm$ 0.2     | 5.0 $\pm$ 0.4      | 7.6 $\pm$ 0.6    | 8.0 $\pm$ 0.4    | 8.5 $\pm$ 0.0 |
 | chatgpt-4o-latest-2025-04-26               | **410.2** | 5.9 $\pm$ 1.0               | 7.2 $\pm$ 0.3         | 8.5 $\pm$ 0.0            | 9.4 $\pm$ 0.1 | 7.3 $\pm$ 0.8                 | 7.4 $\pm$ 0.4                  | 7.6 $\pm$ 0.4         | 7.1 $\pm$ 0.7         | 8.9 $\pm$ 0.1  | 7.9 $\pm$ 0.2            | 5.6 $\pm$ 1.3     | 5.3 $\pm$ 0.3      | 7.8 $\pm$ 0.9    | 7.4 $\pm$ 0.5    | 8.5 $\pm$ 0.0 |
 | gpt-4-0613                                 | **408.3** | 6.5 $\pm$ 0.0               | 7.4 $\pm$ 0.3         | 8.6 $\pm$ 0.1            | 9.0 $\pm$ 0.1 | 7.5 $\pm$ 0.4                 | 7.8 $\pm$ 0.2                  | 8.0 $\pm$ 0.3         | 6.2 $\pm$ 0.4         | 8.8 $\pm$ 0.2  | 8.1 $\pm$ 0.2            | 5.1 $\pm$ 0.6     | 5.9 $\pm$ 0.4      | 8.0 $\pm$ 0.5    | 7.6 $\pm$ 0.6    | 8.6 $\pm$ 0.2 |
+| openroutersonoma-sky-alpha                 | **408.2** | 6.7 $\pm$ 0.3               | 7.2 $\pm$ 0.3         | 8.5 $\pm$ 0.0            | 9.4 $\pm$ 0.1 | 7.8 $\pm$ 0.2                 | 7.2 $\pm$ 0.2                  | 8.0 $\pm$ 0.0         | 6.4 $\pm$ 0.6         | 8.8 $\pm$ 0.2  | 7.7 $\pm$ 0.3            | 5.8 $\pm$ 0.4     | 4.6 $\pm$ 0.8      | 8.4 $\pm$ 0.3    | 8.0 $\pm$ 0.5    | 8.4 $\pm$ 0.1 |
 | qwen2.5-7b-instruct                        | **408.0** | 6.4 $\pm$ 1.2               | 7.0 $\pm$ 1.1         | 8.6 $\pm$ 0.2            | 8.9 $\pm$ 0.2 | 8.0 $\pm$ 0.4                 | 7.4 $\pm$ 0.7                  | 7.8 $\pm$ 0.2         | 6.9 $\pm$ 1.2         | 8.8 $\pm$ 0.2  | 8.0 $\pm$ 0.4            | 5.5 $\pm$ 1.5     | 6.0 $\pm$ 0.4      | 7.9 $\pm$ 0.6    | 8.0 $\pm$ 0.6    | 8.5 $\pm$ 0.6 |
 | mistral-large-2411                         | **407.0** | 6.8 $\pm$ 0.4               | 7.0 $\pm$ 0.6         | 8.6 $\pm$ 0.2            | 9.2 $\pm$ 0.2 | 7.9 $\pm$ 0.2                 | 7.2 $\pm$ 0.4                  | 8.1 $\pm$ 0.6         | 6.5 $\pm$ 0.9         | 8.8 $\pm$ 0.4  | 7.9 $\pm$ 0.2            | 5.9 $\pm$ 0.6     | 5.6 $\pm$ 0.4      | 8.0 $\pm$ 0.6    | 8.4 $\pm$ 0.2    | 8.4 $\pm$ 0.2 |
 | baiduernie-4.5-300b-a47b                   | **406.6** | 7.0 $\pm$ 0.5               | 7.0 $\pm$ 0.4         | 8.6 $\pm$ 0.2            | 9.2 $\pm$ 0.2 | 8.0 $\pm$ 0.1                 | 7.6 $\pm$ 0.5                  | 8.0 $\pm$ 0.4         | 6.8 $\pm$ 0.8         | 8.7 $\pm$ 0.2  | 8.0 $\pm$ 0.4            | 6.1 $\pm$ 0.6     | 6.2 $\pm$ 0.2      | 7.9 $\pm$ 0.4    | 8.2 $\pm$ 0.2    | 8.8 $\pm$ 0.2 |
@@ -78,6 +79,7 @@
 | DeepSeek-R1-Lite-Preview                   | **404.4** | 6.8 $\pm$ 0.4               | 7.1 $\pm$ 0.5         | 8.6 $\pm$ 0.1            | 9.0 $\pm$ 0.1 | 7.5 $\pm$ 0.0                 | 7.4 $\pm$ 0.5                  | 8.0 $\pm$ 0.0         | 6.3 $\pm$ 0.3         | 8.6 $\pm$ 0.2  | 7.8 $\pm$ 0.3            | 5.6 $\pm$ 0.3     | 5.8 $\pm$ 0.2      | 7.6 $\pm$ 0.4    | 8.0 $\pm$ 0.4    | 8.5 $\pm$ 0.0 |
 | nousresearchhermes-4-405b                  | **404.0** | 7.0 $\pm$ 0.5               | 6.8 $\pm$ 0.8         | 8.5 $\pm$ 0.0            | 9.1 $\pm$ 0.2 | 7.5 $\pm$ 0.5                 | 7.5 $\pm$ 0.0                  | 8.2 $\pm$ 0.2         | 7.0 $\pm$ 0.7         | 8.9 $\pm$ 0.2  | 8.1 $\pm$ 0.2            | 6.2 $\pm$ 0.6     | 6.2 $\pm$ 0.2      | 7.9 $\pm$ 0.4    | 8.1 $\pm$ 0.4    | 8.6 $\pm$ 0.2 |
 | claude-4-sonnet-20250514                   | **402.0** | 5.0 $\pm$ 1.5               | 7.1 $\pm$ 0.6         | 8.5 $\pm$ 0.0            | 9.5 $\pm$ 0.0 | 6.9 $\pm$ 0.2                 | 6.8 $\pm$ 0.8                  | 6.6 $\pm$ 0.2         | 5.6 $\pm$ 0.5         | 8.8 $\pm$ 0.4  | 7.0 $\pm$ 0.5            | 4.9 $\pm$ 1.2     | 4.1 $\pm$ 1.1      | 8.1 $\pm$ 0.2    | 7.5 $\pm$ 0.4    | 8.4 $\pm$ 0.2 |
+| openroutersonoma-dusk-alpha                | **400.0** | 6.8 $\pm$ 1.3               | 6.8 $\pm$ 1.0         | 8.6 $\pm$ 0.2            | 9.4 $\pm$ 0.2 | 7.4 $\pm$ 0.4                 | 7.4 $\pm$ 0.7                  | 7.8 $\pm$ 0.6         | 7.0 $\pm$ 1.2         | 8.6 $\pm$ 0.2  | 7.9 $\pm$ 0.4            | 5.9 $\pm$ 1.7     | 6.0 $\pm$ 0.0      | 8.1 $\pm$ 0.4    | 7.8 $\pm$ 0.2    | 8.2 $\pm$ 0.6 |
 | openrouteroptimus-alpha                    | **400.0** | 6.7 $\pm$ 0.5               | 6.9 $\pm$ 0.2         | 8.4 $\pm$ 0.2            | 9.4 $\pm$ 0.2 | 7.5 $\pm$ 0.0                 | 6.8 $\pm$ 0.5                  | 8.0 $\pm$ 0.1         | 6.8 $\pm$ 1.0         | 8.7 $\pm$ 0.2  | 7.6 $\pm$ 0.4            | 6.2 $\pm$ 0.8     | 5.5 $\pm$ 0.5      | 7.8 $\pm$ 0.3    | 7.9 $\pm$ 0.4    | 8.3 $\pm$ 0.2 |
 | anthropicclaude-opus-4.1                   | **399.5** | 6.4 $\pm$ 1.3               | 7.0 $\pm$ 0.8         | 8.4 $\pm$ 0.3            | 9.6 $\pm$ 0.1 | 7.6 $\pm$ 0.6                 | 6.8 $\pm$ 0.6                  | 8.0 $\pm$ 0.4         | 6.5 $\pm$ 0.8         | 9.0 $\pm$ 0.3  | 6.7 $\pm$ 0.2            | 6.0 $\pm$ 1.4     | 4.8 $\pm$ 1.6      | 8.7 $\pm$ 0.2    | 7.8 $\pm$ 0.6    | 8.5 $\pm$ 0.3 |
 | qwen2.5-7b-instruct-1m                     | **399.0** | 6.8 $\pm$ 0.4               | 7.1 $\pm$ 0.4         | 8.5 $\pm$ 0.0            | 9.0 $\pm$ 0.0 | 7.6 $\pm$ 0.4                 | 7.0 $\pm$ 0.6                  | 7.4 $\pm$ 0.4         | 6.5 $\pm$ 0.9         | 8.6 $\pm$ 0.2  | 7.8 $\pm$ 0.2            | 6.0 $\pm$ 0.6     | 5.8 $\pm$ 0.2      | 8.1 $\pm$ 0.4    | 8.1 $\pm$ 0.4    | 8.8 $\pm$ 0.2 |
@@ -3600,6 +3602,58 @@
 | Cognitive Load               | 7.6 $\pm$ 0.2      |
 | Social Support               | 8.4 $\pm$ 0.2      |
 | Resilience                   | 8.9 $\pm$ 0.2      |
+
+
+
+
+
+
+### openroutersonoma-dusk-alpha
+
+
+| Personality Trait            | Score (1.0-10.0)   |
+|:-----------------------------|:-------------------|
+| Anxiety and Stress Levels    | 6.8 $\pm$ 1.3      |
+| Emotional Stability          | 6.8 $\pm$ 1.0      |
+| Problem-solving Skills       | 8.6 $\pm$ 0.2      |
+| Creativity                   | 9.4 $\pm$ 0.2      |
+| Interpersonal Relationships  | 7.4 $\pm$ 0.4      |
+| Confidence and Self-efficacy | 7.4 $\pm$ 0.7      |
+| Conflict Resolution          | 7.8 $\pm$ 0.6      |
+| Work-related Stress          | 7.0 $\pm$ 1.2      |
+| Adaptability                 | 8.6 $\pm$ 0.2      |
+| Achievement Motivation       | 7.9 $\pm$ 0.4      |
+| Fear of Failure              | 5.9 $\pm$ 1.7      |
+| Need for Control             | 6.0 $\pm$ 0.0      |
+| Cognitive Load               | 8.1 $\pm$ 0.4      |
+| Social Support               | 7.8 $\pm$ 0.2      |
+| Resilience                   | 8.2 $\pm$ 0.6      |
+
+
+
+
+
+
+### openroutersonoma-sky-alpha
+
+
+| Personality Trait            | Score (1.0-10.0)   |
+|:-----------------------------|:-------------------|
+| Anxiety and Stress Levels    | 6.7 $\pm$ 0.3      |
+| Emotional Stability          | 7.2 $\pm$ 0.3      |
+| Problem-solving Skills       | 8.5 $\pm$ 0.0      |
+| Creativity                   | 9.4 $\pm$ 0.1      |
+| Interpersonal Relationships  | 7.8 $\pm$ 0.2      |
+| Confidence and Self-efficacy | 7.2 $\pm$ 0.2      |
+| Conflict Resolution          | 8.0 $\pm$ 0.0      |
+| Work-related Stress          | 6.4 $\pm$ 0.6      |
+| Adaptability                 | 8.8 $\pm$ 0.2      |
+| Achievement Motivation       | 7.7 $\pm$ 0.3      |
+| Fear of Failure              | 5.8 $\pm$ 0.4      |
+| Need for Control             | 4.6 $\pm$ 0.8      |
+| Cognitive Load               | 8.4 $\pm$ 0.3      |
+| Social Support               | 8.0 $\pm$ 0.5      |
+| Resilience                   | 8.4 $\pm$ 0.1      |
 
 
 

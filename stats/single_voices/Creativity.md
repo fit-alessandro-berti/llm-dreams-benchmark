@@ -12,6 +12,7 @@
 | gemini-2.5-pro-preview-06-05 | 9.588 |
 | gemini-exp-1206 | 9.588 |
 | o3-mini-20250131-HIGH | 9.563 |
+| openroutersonoma-sky-alpha | 9.562 |
 | claude-4-sonnet-20250514 | 9.562 |
 | grok-4-0709 | 9.550 |
 | o4-mini-2025-04-16 | 9.550 |
@@ -24,6 +25,7 @@
 | QwenQwen3-30B-A3B | 9.487 |
 | qwenqwen3-235b-a22b-07-25 | 9.475 |
 | gemini-2.5-pro-preview-05-06 | 9.475 |
+| openroutersonoma-dusk-alpha | 9.475 |
 | gpt-5-2025-08-07 | 9.462 |
 | QwenQwen3-32B | 9.462 |
 | gemma-3n-e4b-it | 9.450 |

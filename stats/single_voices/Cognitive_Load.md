@@ -37,6 +37,7 @@
 | grok-3-mini-beta | 8.050 |
 | chatgpt-4o-latest-20250215 | 8.037 |
 | gemini-1.5-flash-8b | 8.037 |
+| openroutersonoma-dusk-alpha | 8.025 |
 | qwen30.6b | 8.025 |
 | tngtechdeepseek-r1t-chimerafree | 8.025 |
 | claude-4-sonnet-20250514 | 8.013 |
@@ -82,6 +83,7 @@
 | gemini-1.5-flash-002 | 7.737 |
 | meta-llamaMeta-Llama-3.1-405B-Instruct | 7.737 |
 | nvidiallama-3.1-nemotron-ultra-253b-v1free | 7.725 |
+| openroutersonoma-sky-alpha | 7.725 |
 | qwen2.5-7b-instruct | 7.725 |
 | Gemini-1.5-Pro-Exp-0827 | 7.713 |
 | baiduernie-4.5-21b-a3b | 7.688 |

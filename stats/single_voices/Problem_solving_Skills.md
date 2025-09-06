@@ -86,12 +86,14 @@
 | x-aigrok-code-fast-1 | 8.425 |
 | qwenqwen3-30b-a3b-instruct-2507 | 8.425 |
 | gemini-2.0-flash-exp | 8.413 |
+| openroutersonoma-dusk-alpha | 8.413 |
 | gemma-3n-e4b-it | 8.412 |
 | deepseek-aiDeepSeek-R1-0528 | 8.400 |
 | deepseekdeepseek-r1 | 8.400 |
 | gpt-4.1-2025-04-14 | 8.400 |
 | gpt-4.1-nano-2025-04-14 | 8.400 |
 | Grok-3-beta-thinking-20250303 | 8.400 |
+| openroutersonoma-sky-alpha | 8.400 |
 | qwen-turbo-0428 | 8.400 |
 | qwenqwen3-coder | 8.400 |
 | magistral-small-2506 | 8.388 |

@@ -58,10 +58,12 @@
 | mistral-large-2411 | 8.738 |
 | claude-4-opus-20250514 | 8.737 |
 | deepseek-aiDeepSeek-V3 | 8.737 |
+| openroutersonoma-dusk-alpha | 8.737 |
 | qwenqwen3-30b-a3b-instruct-2507 | 8.725 |
 | gemini-2.5-pro-preview-05-06 | 8.725 |
 | nousresearchhermes-4-405b | 8.725 |
 | o1-2024-12-05 | 8.725 |
+| openroutersonoma-sky-alpha | 8.725 |
 | phi4-reasoning | 8.725 |
 | qwen2.5-32b-instruct | 8.725 |
 | codestral-2501 | 8.713 |

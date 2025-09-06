@@ -76,6 +76,7 @@
 | gemini-1.5-flash-002 | 7.425 |
 | qwenqwen3-coder | 7.425 |
 | qwen34b-instruct-2507-q8_0 | 7.412 |
+| openroutersonoma-sky-alpha | 7.388 |
 | smollm21.7b-instruct-q6_K | 7.388 |
 | DeepSeek-R1-Lite-Preview | 7.375 |
 | devstral-small-2505 | 7.313 |
@@ -104,6 +105,7 @@
 | moonshotaikimi-k2 | 7.125 |
 | gpt-5-chat-latest-2025-08-19 | 7.112 |
 | Gemini-1.5-Pro-Exp-0801 | 7.112 |
+| openroutersonoma-dusk-alpha | 7.100 |
 | claude-3-7-sonnet-20250219-thinking-high | 7.075 |
 | gemma-3-27b-it | 7.062 |
 | gemma312b-it-q8_0 | 7.050 |

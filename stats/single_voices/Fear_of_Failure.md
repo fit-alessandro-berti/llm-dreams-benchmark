@@ -81,6 +81,7 @@
 | qwen30.6b | 6.337 |
 | nvidiallama-3.1-nemotron-ultra-253b-v1free | 6.312 |
 | gemini-2.5-pro-preview-06-05 | 6.300 |
+| openroutersonoma-dusk-alpha | 6.300 |
 | gemma-3-27b-it | 6.262 |
 | exaone-deep7.8b-fp16 | 6.250 |
 | o1-pro-2024-12-17 | 6.237 |
@@ -111,6 +112,7 @@
 | gpt-5-chat-latest-2025-08-19 | 5.737 |
 | baiduernie-4.5-300b-a47b | 5.725 |
 | qwen-max-2025-01-25 | 5.712 |
+| openroutersonoma-sky-alpha | 5.688 |
 | Grok-3-20250426-formal | 5.662 |
 | gpt-4o-mini-2024-07-18 | 5.650 |
 | o1-2024-12-17 | 5.650 |

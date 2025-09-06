@@ -77,6 +77,7 @@
 | gpt-4-1106-preview | 7.200 |
 | anthropicclaude-opus-4.1 | 7.188 |
 | claude-3-5-sonnet-20241022 | 7.175 |
+| openroutersonoma-dusk-alpha | 7.175 |
 | gemini-2.5-pro-preview-06-05 | 7.162 |
 | qwen30.6b | 7.162 |
 | claude-3-7-sonnet-20250219 | 7.138 |
@@ -98,6 +99,7 @@
 | devstral-small-2505 | 6.888 |
 | claude-4-opus-20250514 | 6.850 |
 | chatgpt-4o-latest-2025-04-26 | 6.812 |
+| openroutersonoma-sky-alpha | 6.775 |
 | gpt-5-2025-08-07 | 6.713 |
 | qwen-max-2025-01-25 | 6.700 |
 | baiduernie-4.5-21b-a3b | 6.688 |

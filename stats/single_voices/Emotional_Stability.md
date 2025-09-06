@@ -77,6 +77,7 @@
 | deepseek-aiDeepSeek-R1-Zero | 6.725 |
 | devstral-small-2505 | 6.713 |
 | o1-pro-2024-12-17 | 6.712 |
+| openroutersonoma-sky-alpha | 6.688 |
 | nousresearchhermes-4-405b | 6.663 |
 | chatgpt-4o-latest-2025-03-26 | 6.650 |
 | gemini-1.5-flash-002 | 6.575 |
@@ -103,6 +104,7 @@
 | nvidiallama-3.1-nemotron-ultra-253b-v1free | 6.350 |
 | openroutercypher-alphafree | 6.338 |
 | gpt-4o-mini-2024-11-05 | 6.288 |
+| openroutersonoma-dusk-alpha | 6.287 |
 | qwen-turbo-0428 | 6.287 |
 | gemma312b-it-q8_0 | 6.263 |
 | claude-3-7-sonnet-20250219-thinking-high | 6.238 |

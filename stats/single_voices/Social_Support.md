@@ -67,6 +67,7 @@
 | DeepSeek-R1-Lite-Preview | 7.537 |
 | devstral-small-2505 | 7.537 |
 | qwen-plus-2025-01-25 | 7.537 |
+| openroutersonoma-sky-alpha | 7.525 |
 | granite3.28b-instruct-q4_K_M | 7.500 |
 | o1-2024-12-17 | 7.500 |
 | phi4-reasoningplus | 7.500 |
@@ -104,6 +105,7 @@
 | gemini-2.0-flash-exp | 7.125 |
 | magistral-small-2506 | 7.112 |
 | qwen-plus-0428 | 7.075 |
+| openroutersonoma-dusk-alpha | 7.062 |
 | nvidiallama-3.3-nemotron-super-49b-v1 | 7.038 |
 | meta-llamallama-4-scout | 7.013 |
 | Gemini-1.5-Pro-Exp-0801 | 7.012 |

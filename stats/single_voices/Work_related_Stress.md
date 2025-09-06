@@ -64,6 +64,7 @@
 | moonshotaikimi-k2 | 7.300 |
 | qwen-turbo-0428 | 7.300 |
 | magistral-small-2506 | 7.287 |
+| openroutersonoma-dusk-alpha | 7.275 |
 | claude-3-7-sonnet-20250219 | 7.263 |
 | falcon33b-instruct-q8_0 | 7.262 |
 | chatgpt-4o-latest-20250215 | 7.237 |
@@ -109,6 +110,7 @@
 | gemini-1.5-flash-002 | 6.537 |
 | gpt-5-2025-08-07 | 6.537 |
 | o1-2024-12-05 | 6.500 |
+| openroutersonoma-sky-alpha | 6.500 |
 | qwen-max-2025-01-25 | 6.500 |
 | gpt-4-0613 | 6.488 |
 | baiduernie-4.5-300b-a47b | 6.450 |

@@ -97,7 +97,6 @@
 | chatgpt-4o-latest-2025-01-29 | 8.225 |
 | chatgpt-4o-latest-2025-03-26 | 8.225 |
 | gemini-2.5-flash-lite-preview-06-17 | 8.213 |
-| grok-3-beta | 8.213 |
 | smollm21.7b-instruct-q6_K | 8.213 |
 | gpt-5-nano-2025-08-07 | 8.212 |
 | openaigpt-oss-20b | 8.212 |
@@ -119,6 +118,7 @@
 | qwenqwen3-235b-a22b-07-25 | 8.125 |
 | tngtechdeepseek-r1t-chimerafree | 8.125 |
 | QwenQwen3-14B | 8.112 |
+| qwenqwen3-next-80b-a3b-thinking | 8.100 |
 | gemini-1.5-flash-002 | 8.100 |
 | deepseek-aiDeepSeek-R1-0528 | 8.088 |
 | r1-1776 | 8.088 |
@@ -147,6 +147,7 @@
 | QwenQwen3-235B-A22B | 7.962 |
 | claude-3-7-sonnet-20250219-thinking-high | 7.950 |
 | qwenqwen3-coder | 7.950 |
+| nvidianemotron-nano-9b-v2 | 7.938 |
 | thudmglm-4-32b | 7.925 |
 | magistral-medium-2506 | 7.900 |
 | gemma-3-27b-it | 7.888 |
@@ -159,6 +160,7 @@
 | gemini-2.5-flash-preview-04-17 | 7.775 |
 | gemini-2.5-pro-preview-06-05 | 7.750 |
 | gpt-5-chat-latest-2025-08-07 | 7.737 |
+| qwenqwen3-next-80b-a3b-instruct | 7.713 |
 | gemini-2.0-flash-thinking-exp-01-21 | 7.712 |
 | gemini-2.5-pro-exp-03-25 | 7.687 |
 | mistral-small-2506 | 7.638 |

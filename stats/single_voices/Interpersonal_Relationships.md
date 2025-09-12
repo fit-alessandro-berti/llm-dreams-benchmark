@@ -79,6 +79,7 @@
 | openroutersonoma-sky-alpha | 7.388 |
 | smollm21.7b-instruct-q6_K | 7.388 |
 | DeepSeek-R1-Lite-Preview | 7.375 |
+| qwenqwen3-next-80b-a3b-instruct | 7.362 |
 | devstral-small-2505 | 7.313 |
 | deepseek-aiDeepSeek-R1-Zero | 7.312 |
 | qwenqwen3-30b-a3b-instruct-2507 | 7.312 |
@@ -95,9 +96,9 @@
 | claude-3-7-sonnet-20250219 | 7.188 |
 | meta-llamaLlama-3.2-3B-Instruct | 7.188 |
 | meta-llamaLlama-3.3-70B-Instruct | 7.188 |
+| qwenqwen3-next-80b-a3b-thinking | 7.175 |
 | gemini-2.5-pro-preview-06-05 | 7.175 |
 | gemini-1.5-flash-8b | 7.163 |
-| grok-3-beta | 7.163 |
 | gemini-2.5-pro-preview-05-06 | 7.162 |
 | openrouteroptimus-alpha | 7.162 |
 | meta-llamaMeta-Llama-3.1-405B-Instruct | 7.150 |
@@ -116,6 +117,7 @@
 | mistral-medium-2505 | 7.025 |
 | chatgpt-4o-latest-2024-11-20 | 7.013 |
 | qwen-turbo-0428 | 7.000 |
+| nvidianemotron-nano-9b-v2 | 6.987 |
 | qwen38b | 6.975 |
 | QwenQwen3-32B | 6.975 |
 | deepseekdeepseek-chat-v3.1 | 6.963 |

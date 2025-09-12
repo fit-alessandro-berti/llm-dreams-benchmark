@@ -35,7 +35,6 @@
 | mistral-medium-2508 | 7.738 |
 | meta-llamaMeta-Llama-3.1-8B-Instruct | 7.725 |
 | gemini-2.0-flash-thinking-exp-01-21 | 7.700 |
-| grok-3-beta | 7.662 |
 | mistral-medium-2505 | 7.662 |
 | DeepSeek-V3-0324 | 7.650 |
 | gemma3270m | 7.600 |
@@ -89,11 +88,13 @@
 | chatgpt-4o-latest-2025-04-26 | 7.013 |
 | gemma-3-27b-it | 7.000 |
 | gpt-4-1106-preview | 6.963 |
+| nvidianemotron-nano-9b-v2 | 6.925 |
 | gemini-1.5-flash-8b | 6.925 |
 | openroutercypher-alphafree | 6.913 |
 | gemini-2.5-pro-preview-06-05 | 6.862 |
 | chatgpt-4o-latest-2025-03-26 | 6.850 |
 | nvidiaLlama-3.1-Nemotron-70B-Instruct | 6.850 |
+| qwenqwen3-next-80b-a3b-thinking | 6.850 |
 | claude-4-opus-20250514 | 6.850 |
 | devstral-small-2505 | 6.838 |
 | phi4-mini-reasoning | 6.837 |
@@ -102,6 +103,7 @@
 | googlegemma-2-9b-it | 6.800 |
 | nousresearchhermes-4-70b | 6.800 |
 | gpt-5-chat-latest-2025-08-19 | 6.775 |
+| qwenqwen3-next-80b-a3b-instruct | 6.750 |
 | ai21jamba-large-1.7 | 6.738 |
 | qwen2.5-7b-instruct-1m | 6.725 |
 | claude-4-sonnet-20250514 | 6.712 |

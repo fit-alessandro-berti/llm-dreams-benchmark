@@ -55,6 +55,7 @@
 | claude-3-5-haiku-20241022 | 7.925 |
 | meta-llamaMeta-Llama-3.1-70B-Instruct | 7.912 |
 | meta-llamaLlama-3.2-3B-Instruct | 7.900 |
+| nvidianemotron-nano-9b-v2 | 7.900 |
 | claude-3-opus-20240229 | 7.888 |
 | gemma312b-it-q8_0 | 7.888 |
 | grok-4-0709 | 7.888 |
@@ -64,7 +65,6 @@
 | googlegemma-2-2b-it | 7.875 |
 | nvidiallama-3.1-nemotron-nano-8b-v1 | 7.875 |
 | gemma-3-27b-it | 7.850 |
-| grok-3-beta | 7.850 |
 | meta-llamallama-4-scout | 7.850 |
 | Gemini-1.5-Pro-Exp-0801 | 7.838 |
 | magistral-small-2506 | 7.838 |
@@ -92,7 +92,9 @@
 | nousresearchhermes-4-70b | 7.688 |
 | openrouterhorizon-alpha | 7.688 |
 | gemma3270m | 7.675 |
+| qwenqwen3-next-80b-a3b-instruct | 7.675 |
 | meta-llamaLlama-3.2-1B-Instruct | 7.662 |
+| qwenqwen3-next-80b-a3b-thinking | 7.662 |
 | openaigpt-oss-20b | 7.650 |
 | deepseek-aiDeepSeek-V3 | 7.638 |
 | chatgpt-4o-latest-2025-04-26 | 7.637 |

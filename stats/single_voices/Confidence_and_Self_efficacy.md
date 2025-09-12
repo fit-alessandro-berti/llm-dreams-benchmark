@@ -106,11 +106,12 @@
 | gpt-4o-mini-2024-11-05 | 7.075 |
 | QwenQwen3-32B | 7.062 |
 | qwenqwen3-30b-a3b-instruct-2507 | 7.050 |
+| nvidianemotron-nano-9b-v2 | 7.050 |
 | qwen-turbo-0428 | 7.038 |
 | gpt-4-1106-preview | 7.025 |
+| qwenqwen3-next-80b-a3b-thinking | 7.012 |
 | gemini-exp-1206 | 7.000 |
 | claude-3-7-sonnet-20250219-thinking-high | 6.987 |
-| grok-3-beta | 6.963 |
 | gemma-3-27b-it | 6.950 |
 | chatgpt-4o-latest-20250215 | 6.938 |
 | magistral-small-2506 | 6.912 |
@@ -142,6 +143,7 @@
 | tngtechdeepseek-r1t-chimerafree | 6.625 |
 | qwen34b | 6.625 |
 | claude-4-sonnet-20250514 | 6.613 |
+| qwenqwen3-next-80b-a3b-instruct | 6.613 |
 | phi4-mini-reasoning | 6.588 |
 | QwenQwen3-14B | 6.588 |
 | grok-3-mini-beta | 6.550 |

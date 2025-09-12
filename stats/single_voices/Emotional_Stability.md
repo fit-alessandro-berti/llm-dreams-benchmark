@@ -80,6 +80,7 @@
 | openroutersonoma-sky-alpha | 6.688 |
 | nousresearchhermes-4-405b | 6.663 |
 | chatgpt-4o-latest-2025-03-26 | 6.650 |
+| qwenqwen3-next-80b-a3b-thinking | 6.613 |
 | gemini-1.5-flash-002 | 6.575 |
 | Grok-3-beta-thinking-20250303 | 6.575 |
 | openrouteroptimus-alpha | 6.575 |
@@ -87,7 +88,9 @@
 | chatgpt-4o-latest-2025-04-26 | 6.537 |
 | nvidiaLlama-3.1-Nemotron-70B-Instruct | 6.537 |
 | deepseek-aiDeepSeek-V3 | 6.525 |
+| qwenqwen3-next-80b-a3b-instruct | 6.512 |
 | falcon33b-instruct-q8_0 | 6.500 |
+| nvidianemotron-nano-9b-v2 | 6.488 |
 | deepseekdeepseek-chat-v3.1 | 6.475 |
 | smollm21.7b-instruct-q6_K | 6.462 |
 | gemini-1.5-flash-8b | 6.450 |
@@ -119,7 +122,6 @@
 | gemma-3n-e4b-it | 6.050 |
 | deepseekdeepseek-r1 | 6.025 |
 | x-aigrok-code-fast-1 | 6.025 |
-| grok-3-beta | 6.025 |
 | QwenQwen3-32B | 6.013 |
 | chatgpt-4o-latest-2025-01-29 | 6.013 |
 | nvidiallama-3.3-nemotron-super-49b-v1 | 6.013 |

@@ -39,7 +39,6 @@
 | qwen31.7b | 6.562 |
 | deepseek-aiDeepSeek-R1-0528 | 6.550 |
 | mistral-medium-2508 | 6.538 |
-| grok-3-beta | 6.537 |
 | falcon33b-instruct-q8_0 | 6.525 |
 | nvidiallama-3.1-nemotron-nano-8b-v1 | 6.525 |
 | DeepSeek-V3-0324 | 6.500 |
@@ -100,8 +99,10 @@
 | gemini-2.5-flash-lite-preview-06-17 | 6.162 |
 | gpt-4-0613 | 6.162 |
 | Gemini-1.5-Pro-Exp-0827 | 6.138 |
+| nvidianemotron-nano-9b-v2 | 6.138 |
 | baiduernie-4.5-300b-a47b | 6.125 |
 | mistral-small-2409 | 6.125 |
+| qwenqwen3-next-80b-a3b-thinking | 6.112 |
 | gemini-2.5-pro-preview-05-06 | 6.088 |
 | o4-mini-2025-04-16 | 6.088 |
 | claude-3-7-sonnet-20250219-thinking-high | 6.075 |
@@ -165,6 +166,7 @@
 | gemma312b-it-q8_0 | 5.500 |
 | gpt-4-0125-preview | 5.487 |
 | gpt-4.1-2025-04-14 | 5.463 |
+| qwenqwen3-next-80b-a3b-instruct | 5.438 |
 | qwenqwen3-coder | 5.412 |
 | claude-4-sonnet-20250514 | 5.350 |
 | o3-pro-2025-06-10 | 5.350 |

@@ -9,6 +9,7 @@
 | anthropicclaude-opus-4.1 | 9.625 |
 | claude-4-opus-20250514 | 9.613 |
 | o3-2025-04-16 | 9.600 |
+| qwenqwen3-next-80b-a3b-instruct | 9.600 |
 | gemini-2.5-pro-preview-06-05 | 9.588 |
 | gemini-exp-1206 | 9.588 |
 | o3-mini-20250131-HIGH | 9.563 |
@@ -32,6 +33,7 @@
 | gpt-5-mini-2025-08-07 | 9.450 |
 | mistral-medium-2508 | 9.450 |
 | Qwen-QwQ-32B | 9.450 |
+| qwenqwen3-next-80b-a3b-thinking | 9.450 |
 | qwen2.5-14b-instruct | 9.438 |
 | gemma312b-it-q8_0 | 9.438 |
 | r1-1776 | 9.438 |
@@ -105,6 +107,7 @@
 | baiduernie-4.5-300b-a47b | 9.250 |
 | chatgpt-4o-latest-2025-01-29 | 9.250 |
 | magistral-small-2506 | 9.250 |
+| nvidianemotron-nano-9b-v2 | 9.250 |
 | o1-preview-2024-09-12 | 9.250 |
 | qwen-turbo-2024-11-01 | 9.250 |
 | o1-pro-2024-12-17 | 9.250 |
@@ -144,7 +147,6 @@
 | DeepSeek-V3-0324 | 9.113 |
 | qwen31.7b | 9.113 |
 | codestral-2501 | 9.100 |
-| grok-3-beta | 9.100 |
 | qwen2.5-7b-instruct | 9.075 |
 | Grok-3-beta-thinking-20250303 | 9.075 |
 | mistral-small-2506 | 9.075 |

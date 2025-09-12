@@ -98,6 +98,7 @@
 | qwen2.5-7b-instruct-1m | 8.625 |
 | ministral-8b-2410 | 8.613 |
 | openrouteroptimus-alpha | 8.613 |
+| qwenqwen3-next-80b-a3b-instruct | 8.613 |
 | exaone-deep7.8b-fp16 | 8.600 |
 | claude-4-sonnet-20250514 | 8.600 |
 | deepseekdeepseek-chat-v3.1 | 8.600 |
@@ -106,9 +107,11 @@
 | gemini-1.5-flash-8b | 8.588 |
 | QwenQwen3-32B | 8.588 |
 | DeepSeek-R1-Lite-Preview | 8.575 |
+| nvidianemotron-nano-9b-v2 | 8.575 |
 | claude-3-7-sonnet-20250219 | 8.562 |
 | gemini-2.5-flash-lite-preview-06-17 | 8.562 |
 | grok-4-0709 | 8.562 |
+| qwenqwen3-next-80b-a3b-thinking | 8.562 |
 | nousresearchhermes-4-70b | 8.550 |
 | chatgpt-4o-latest-20250215 | 8.538 |
 | qwen34b-instruct-2507-q8_0 | 8.537 |
@@ -123,7 +126,6 @@
 | qwen-turbo-0428 | 8.463 |
 | deepseek-aiDeepSeek-R1-0528 | 8.462 |
 | mistral-medium-2505 | 8.462 |
-| grok-3-beta | 8.450 |
 | magistral-small-2506 | 8.450 |
 | r1-1776 | 8.450 |
 | gpt-4o-mini-2024-11-05 | 8.438 |

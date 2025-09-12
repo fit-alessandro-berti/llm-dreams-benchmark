@@ -84,6 +84,7 @@
 | baiduernie-4.5-21b-a3b | 7.362 |
 | gpt-4-1106-preview | 7.362 |
 | openroutercypher-alphafree | 7.350 |
+| qwenqwen3-next-80b-a3b-instruct | 7.350 |
 | Grok-3-beta-thinking-20250303 | 7.325 |
 | qwen34b-instruct-2507-q8_0 | 7.287 |
 | openaigpt-oss-20b | 7.275 |
@@ -97,13 +98,13 @@
 | o1-2024-12-05 | 7.188 |
 | gemini-2.5-pro-preview-05-06 | 7.188 |
 | meta-llamaLlama-3.3-70B-Instruct | 7.175 |
-| grok-3-beta | 7.175 |
 | qwenqwen3-30b-a3b-instruct-2507 | 7.175 |
 | claude-3-7-sonnet-20250219-thinking-high | 7.137 |
 | moonshotaikimi-k2 | 7.125 |
 | exaone-deep7.8b-fp16 | 7.125 |
 | gemini-2.0-flash-exp | 7.125 |
 | magistral-small-2506 | 7.112 |
+| qwenqwen3-next-80b-a3b-thinking | 7.088 |
 | qwen-plus-0428 | 7.075 |
 | openroutersonoma-dusk-alpha | 7.062 |
 | nvidiallama-3.3-nemotron-super-49b-v1 | 7.038 |
@@ -127,6 +128,7 @@
 | claude-3-5-sonnet-20241022 | 6.738 |
 | Gemini-1.5-Pro-Exp-0827 | 6.725 |
 | gemma312b-it-q8_0 | 6.725 |
+| nvidianemotron-nano-9b-v2 | 6.725 |
 | x-aigrok-code-fast-1 | 6.725 |
 | grok-4-0709 | 6.700 |
 | meta-llamaMeta-Llama-3.1-70B-Instruct | 6.700 |

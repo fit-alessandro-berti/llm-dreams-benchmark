@@ -52,7 +52,6 @@
 | DeepSeek-V3-0324 | 6.750 |
 | nvidiallama-3.3-nemotron-super-49b-v1 | 6.725 |
 | chatgpt-4o-latest-2025-01-29 | 6.713 |
-| grok-3-beta | 6.713 |
 | qwenqwen3-30b-a3b-instruct-2507 | 6.713 |
 | chatgpt-4o-latest-20250215 | 6.688 |
 | meta-llamaLlama-3.2-3B-Instruct | 6.675 |
@@ -72,9 +71,12 @@
 | claude-3-5-sonnet-20241022 | 6.475 |
 | magistral-small-2506 | 6.463 |
 | claude-3-7-sonnet-20250219 | 6.462 |
+| nvidianemotron-nano-9b-v2 | 6.450 |
 | gpt-4-1106-preview | 6.450 |
 | claude-4-sonnet-20250514 | 6.438 |
+| qwenqwen3-next-80b-a3b-thinking | 6.437 |
 | smollm21.7b-instruct-q6_K | 6.425 |
+| qwenqwen3-next-80b-a3b-instruct | 6.388 |
 | gemma312b-it-q8_0 | 6.375 |
 | chatgpt-4o-latest-2024-11-20 | 6.363 |
 | deepseek-aiDeepSeek-V3 | 6.362 |

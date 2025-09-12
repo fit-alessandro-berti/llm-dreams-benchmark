@@ -66,6 +66,7 @@
 | gpt-4.1-nano-2025-04-14 | 8.575 |
 | Grok-3-20250426-concise | 8.575 |
 | moonshotaikimi-k2 | 8.562 |
+| qwenqwen3-next-80b-a3b-instruct | 8.562 |
 | exaone-deep7.8b-fp16 | 8.550 |
 | o1-pro-2024-12-17 | 8.550 |
 | qwen-plus-2025-01-25 | 8.550 |
@@ -93,6 +94,7 @@
 | baiduernie-4.5-21b-a3b | 8.425 |
 | deepseek-aiDeepSeek-R1-Zero | 8.425 |
 | qwen31.7b | 8.425 |
+| qwenqwen3-next-80b-a3b-thinking | 8.425 |
 | QwenQwen3-32B | 8.425 |
 | qwenqwen3-235b-a22b-07-25 | 8.412 |
 | qwen30.6b | 8.387 |
@@ -118,8 +120,8 @@
 | gemma312b-it-q8_0 | 8.250 |
 | gpt-4-1106-preview | 8.250 |
 | x-aigrok-code-fast-1 | 8.250 |
+| nvidianemotron-nano-9b-v2 | 8.213 |
 | openroutersonoma-dusk-alpha | 8.213 |
-| grok-3-beta | 8.212 |
 | googlegemma-2-2b-it | 8.200 |
 | gpt-4o-mini-2024-11-05 | 8.200 |
 | qwen-plus-0428 | 8.200 |

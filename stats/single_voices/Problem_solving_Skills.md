@@ -97,6 +97,7 @@
 | qwen-turbo-0428 | 8.400 |
 | qwenqwen3-coder | 8.400 |
 | magistral-small-2506 | 8.388 |
+| nvidianemotron-nano-9b-v2 | 8.388 |
 | gemini-2.0-pro-exp-02-05 | 8.375 |
 | claude-3-7-sonnet-20250219 | 8.375 |
 | nousresearchhermes-4-70b | 8.375 |
@@ -105,6 +106,7 @@
 | z-aiglm-4.5-air | 8.375 |
 | gemini-2.5-pro-preview-06-05 | 8.362 |
 | nvidiallama-3.1-nemotron-ultra-253b-v1free | 8.350 |
+| qwenqwen3-next-80b-a3b-thinking | 8.350 |
 | deepseek-aiDeepSeek-V3 | 8.350 |
 | gemma-3-27b-it | 8.338 |
 | gpt-5-chat-latest-2025-08-19 | 8.325 |
@@ -129,7 +131,6 @@
 | gemini-2.5-pro-preview-05-06 | 8.213 |
 | claude-3-5-sonnet-20241022 | 8.188 |
 | googlegemma-2-9b-it | 8.188 |
-| grok-3-beta | 8.188 |
 | qwen34b-instruct-2507-q8_0 | 8.162 |
 | Gemini-1.5-Pro-Exp-0827 | 8.138 |
 | meta-llamaMeta-Llama-3.1-405B-Instruct | 8.137 |
@@ -151,6 +152,7 @@
 | mistral-medium-2508 | 8.012 |
 | qwenqwen3-235b-a22b-thinking-2507 | 8.000 |
 | claude-4-sonnet-20250514 | 7.988 |
+| qwenqwen3-next-80b-a3b-instruct | 7.987 |
 | gemini-2.5-flash-preview-04-17 | 7.950 |
 | meta-llamaLlama-3.3-70B-Instruct | 7.925 |
 | anthropicclaude-opus-4.1 | 7.900 |

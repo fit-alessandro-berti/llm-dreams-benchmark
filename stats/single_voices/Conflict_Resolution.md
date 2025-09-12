@@ -85,6 +85,8 @@
 | DeepSeek-R1-Lite-Preview | 7.637 |
 | nvidiallama-3.1-nemotron-ultra-253b-v1free | 7.625 |
 | baiduernie-4.5-300b-a47b | 7.625 |
+| qwenqwen3-next-80b-a3b-thinking | 7.625 |
+| qwenqwen3-next-80b-a3b-instruct | 7.625 |
 | gpt-4-1106-preview | 7.600 |
 | codestral-2501 | 7.562 |
 | deepseekdeepseek-chat-v3.1 | 7.525 |
@@ -94,8 +96,8 @@
 | deepseekdeepseek-r1 | 7.462 |
 | qwen34b-instruct-2507-q8_0 | 7.462 |
 | openroutercypher-alphafree | 7.425 |
-| grok-3-beta | 7.413 |
 | exaone-deep7.8b-fp16 | 7.412 |
+| nvidianemotron-nano-9b-v2 | 7.400 |
 | QwenQwen3-32B | 7.400 |
 | claude-4-opus-20250514 | 7.375 |
 | falcon33b-instruct-q8_0 | 7.362 |

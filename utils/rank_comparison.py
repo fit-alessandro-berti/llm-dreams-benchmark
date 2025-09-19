@@ -29,6 +29,7 @@ JUDGES = {
     "gpt-5-mini": interpret(open(os.path.join("..", "alt_results_gpt5-mini.md"), "r").read()),
     "gpt-5": interpret(open(os.path.join("..", "results_gpt5.md"), "r").read()),
     "gpt-4.5": interpret(open(os.path.join("..", "results_gpt_45.md"), "r").read()),
+    "qwen3-max": interpret(open(os.path.join("..", "alt_results_qwen3-max.md"), "r").read()),
 }
 
 REFERENCE_JUDGE = "gpt-4.5"

@@ -45,6 +45,12 @@ ALL_JUDGES = {
         "evaluation_api_url": "https://api.openai.com/v1/",
         "api_key": open("../api_openai.txt", "r").read().strip(),
     },
+    "qwen/qwen3-max": {
+        "evaluation_folder": "evaluations-qwen3-max",
+        "git_table_result": "alt_results_qwen3-max.md",
+        "evaluation_api_url": "https://openrouter.ai/api/v1/",
+        "api_key": open("../api_openrouter.txt", "r").read().strip()
+    }
 }
 
 
@@ -52,7 +58,7 @@ def get_evaluation_folder(evaluating_model_name=None):
     if evaluating_model_name is None:
         evaluating_model_name = EVALUATING_MODEL_NAME
 
-    if "mistral-small-2503" in evaluating_model_name:
+    if "mistral-small" in evaluating_model_name:
         return ALL_JUDGES["mistral-small-2503"]["evaluation_folder"]
     elif "grok-3" in evaluating_model_name:
         return ALL_JUDGES["grok-3"]["evaluation_folder"]
@@ -66,15 +72,15 @@ def get_evaluation_folder(evaluating_model_name=None):
         return ALL_JUDGES["gpt-5"]["evaluation_folder"]
     elif "gpt-4.5" in evaluating_model_name:
         return ALL_JUDGES["gpt-4.5-preview"]["evaluation_folder"]
-    elif "kimi" in evaluating_model_name:
-        return ALL_JUDGES["moonshotai/kimi-k2"]["evaluation_folder"]
+    elif "qwen3-max" in evaluating_model_name:
+        return ALL_JUDGES["qwen/qwen3-max"]["evaluation_folder"]
 
 
 def get_git_table_result(evaluating_model_name=None):
     if evaluating_model_name is None:
         evaluating_model_name = EVALUATING_MODEL_NAME
 
-    if "mistral-small-2503" in evaluating_model_name:
+    if "mistral-small" in evaluating_model_name:
         return ALL_JUDGES["mistral-small-2503"]["git_table_result"]
     elif "grok-3" in evaluating_model_name:
         return ALL_JUDGES["grok-3"]["git_table_result"]
@@ -88,15 +94,15 @@ def get_git_table_result(evaluating_model_name=None):
         return ALL_JUDGES["gpt-5"]["git_table_result"]
     elif "gpt-4.5" in evaluating_model_name:
         return ALL_JUDGES["gpt-4.5-preview"]["git_table_result"]
-    elif "kimi" in evaluating_model_name:
-        return ALL_JUDGES["moonshotai/kimi-k2"]["git_table_result"]
+    elif "qwen3-max" in evaluating_model_name:
+        return ALL_JUDGES["qwen/qwen3-max"]["git_table_result"]
 
 
 def get_evaluation_api_url(evaluating_model_name=None):
     if evaluating_model_name is None:
         evaluating_model_name = EVALUATING_MODEL_NAME
 
-    if "mistral-small-2503" in evaluating_model_name:
+    if "mistral-small" in evaluating_model_name:
         return ALL_JUDGES["mistral-small-2503"]["evaluation_api_url"]
     elif "grok-3" in evaluating_model_name:
         return ALL_JUDGES["grok-3"]["evaluation_api_url"]
@@ -110,8 +116,8 @@ def get_evaluation_api_url(evaluating_model_name=None):
         return ALL_JUDGES["gpt-5"]["evaluation_api_url"]
     elif "gpt-4.5" in evaluating_model_name:
         return ALL_JUDGES["gpt-4.5-preview"]["evaluation_api_url"]
-    elif "kimi" in evaluating_model_name:
-        return ALL_JUDGES["moonshotai/kimi-k2"]["evaluation_api_url"]
+    elif "qwen3-max" in evaluating_model_name:
+        return ALL_JUDGES["qwen/qwen3-max"]["evaluation_api_url"]
 
 
 def get_manual(evaluating_model_name=None):
@@ -128,7 +134,7 @@ def get_api_key(evaluating_model_name=None):
     if evaluating_model_name is None:
         evaluating_model_name = EVALUATING_MODEL_NAME
 
-    elif "mistral-small-2503" in evaluating_model_name:
+    elif "mistral-small" in evaluating_model_name:
         return ALL_JUDGES["mistral-small-2503"]["api_key"]
     elif "grok-3" in evaluating_model_name:
         return ALL_JUDGES["grok-3"]["api_key"]
@@ -142,8 +148,8 @@ def get_api_key(evaluating_model_name=None):
         return ALL_JUDGES["gpt-5"]["api_key"]
     elif "gpt-4.5" in evaluating_model_name:
         return ALL_JUDGES["gpt-4.5-preview"]["api_key"]
-    elif "kimi" in evaluating_model_name:
-        return ALL_JUDGES["moonshotai/kimi-k2"]["api_key"]
+    elif "qwen3-max" in evaluating_model_name:
+        return ALL_JUDGES["qwen/qwen3-max"]["api_key"]
 
 
 #EVALUATION_FOLDER = get_evaluation_folder()

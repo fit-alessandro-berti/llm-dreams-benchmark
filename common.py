@@ -45,12 +45,6 @@ ALL_JUDGES = {
         "evaluation_api_url": "https://api.openai.com/v1/",
         "api_key": open("../api_openai.txt", "r").read().strip(),
     },
-    "moonshotai/kimi-k2": {
-        "evaluation_folder": "evaluations-kimik2",
-        "git_table_result": "alt_results_kimik2.md",
-        "evaluation_api_url": "https://openrouter.ai/api/v1/",
-        "api_key": open("../api_openrouter.txt", "r").read().strip()
-    }
 }
 
 

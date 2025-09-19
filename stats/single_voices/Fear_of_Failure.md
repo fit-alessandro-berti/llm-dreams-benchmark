@@ -122,6 +122,7 @@
 | qwen-plus-2025-01-25 | 5.550 |
 | gemini-2.0-flash-exp | 5.525 |
 | qwen2.5-omni-7b | 5.512 |
+| Grok-4-fast | 5.487 |
 | o1-pro-2024-12-05 | 5.475 |
 | openrouterhorizon-beta | 5.463 |
 | o4-mini-2025-04-16 | 5.412 |

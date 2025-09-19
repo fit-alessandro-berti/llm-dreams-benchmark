@@ -80,6 +80,7 @@
 | smollm21.7b-instruct-q6_K | 7.388 |
 | DeepSeek-R1-Lite-Preview | 7.375 |
 | qwenqwen3-next-80b-a3b-instruct | 7.362 |
+| Grok-4-fast | 7.325 |
 | devstral-small-2505 | 7.313 |
 | deepseek-aiDeepSeek-R1-Zero | 7.312 |
 | qwenqwen3-30b-a3b-instruct-2507 | 7.312 |

@@ -21,6 +21,7 @@
 | open-mixtral-8x22b | 8.925 |
 | o1-preview-2024-09-12 | 8.912 |
 | gpt-4-0125-preview | 8.912 |
+| Grok-4-fast | 8.900 |
 | openrouterhorizon-beta | 8.888 |
 | gpt-5-mini-2025-08-07 | 8.887 |
 | open-mixtral-8x7b | 8.887 |

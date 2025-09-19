@@ -120,6 +120,7 @@
 | phi3.53.8b-mini-instruct-fp16 | 6.487 |
 | gpt-4.1-nano-2025-04-14 | 6.475 |
 | gemini-2.0-flash-exp | 6.450 |
+| Grok-4-fast | 6.400 |
 | openrouterhorizon-alpha | 6.362 |
 | gpt-4-0613 | 6.338 |
 | o1-pro-2024-12-05 | 6.337 |

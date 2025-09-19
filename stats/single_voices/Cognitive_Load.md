@@ -37,6 +37,7 @@
 | grok-3-mini-beta | 8.050 |
 | chatgpt-4o-latest-20250215 | 8.037 |
 | gemini-1.5-flash-8b | 8.037 |
+| Grok-4-fast | 8.037 |
 | openroutersonoma-dusk-alpha | 8.025 |
 | qwen30.6b | 8.025 |
 | tngtechdeepseek-r1t-chimerafree | 8.025 |

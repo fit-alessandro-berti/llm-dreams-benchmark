@@ -72,6 +72,7 @@
 | o1-2024-12-17 | 8.500 |
 | phi4-reasoningplus | 8.500 |
 | nousresearchhermes-4-405b | 8.500 |
+| Grok-4-fast | 8.488 |
 | openaigpt-oss-20b | 8.487 |
 | gemini-1.5-flash-002 | 8.475 |
 | qwen2.5-7b-instruct-1m | 8.475 |

@@ -68,6 +68,7 @@
 | moonshotaikimi-k2 | 8.562 |
 | qwenqwen3-next-80b-a3b-instruct | 8.562 |
 | exaone-deep7.8b-fp16 | 8.550 |
+| Grok-4-fast | 8.550 |
 | o1-pro-2024-12-17 | 8.550 |
 | qwen-plus-2025-01-25 | 8.550 |
 | DeepSeek-R1-Lite-Preview | 8.537 |

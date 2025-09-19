@@ -165,6 +165,7 @@
 | gemini-2.5-pro-preview-06-05 | 5.513 |
 | gemma312b-it-q8_0 | 5.500 |
 | gpt-4-0125-preview | 5.487 |
+| Grok-4-fast | 5.475 |
 | gpt-4.1-2025-04-14 | 5.463 |
 | qwenqwen3-next-80b-a3b-instruct | 5.438 |
 | qwenqwen3-coder | 5.412 |

@@ -93,6 +93,7 @@
 | gemini-1.5-flash-8b | 7.238 |
 | gemma-3n-e4b-it | 7.225 |
 | meta-llamaLlama-3.2-3B-Instruct | 7.225 |
+| Grok-4-fast | 7.213 |
 | chatgpt-4o-latest-2025-03-26 | 7.212 |
 | falcon33b-instruct-q8_0 | 7.200 |
 | o1-2024-12-05 | 7.188 |

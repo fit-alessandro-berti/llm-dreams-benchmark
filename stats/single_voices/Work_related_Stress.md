@@ -120,6 +120,7 @@
 | qwen-plus-2025-01-25 | 6.413 |
 | gpt-3.5-turbo | 6.412 |
 | o1-2024-12-17 | 6.412 |
+| Grok-4-fast | 6.400 |
 | gpt-4o-mini-2024-07-18 | 6.388 |
 | qwen2.5-omni-7b | 6.388 |
 | microsoftWizardLM-2-8x22B | 6.375 |

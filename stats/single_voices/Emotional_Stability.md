@@ -77,6 +77,7 @@
 | deepseek-aiDeepSeek-R1-Zero | 6.725 |
 | devstral-small-2505 | 6.713 |
 | o1-pro-2024-12-17 | 6.712 |
+| Grok-4-fast | 6.688 |
 | openroutersonoma-sky-alpha | 6.688 |
 | nousresearchhermes-4-405b | 6.663 |
 | chatgpt-4o-latest-2025-03-26 | 6.650 |

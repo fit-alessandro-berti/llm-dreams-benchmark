@@ -100,6 +100,7 @@
 | nvidianemotron-nano-9b-v2 | 7.400 |
 | QwenQwen3-32B | 7.400 |
 | claude-4-opus-20250514 | 7.375 |
+| Grok-4-fast | 7.375 |
 | falcon33b-instruct-q8_0 | 7.362 |
 | deepseek-aiDeepSeek-R1-Zero | 7.350 |
 | Gemini-1.5-Pro-Exp-0801 | 7.350 |

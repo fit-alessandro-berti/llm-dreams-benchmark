@@ -110,6 +110,7 @@
 | openroutersonoma-sky-alpha | 8.175 |
 | qwen-turbo-0428 | 8.175 |
 | openrouteroptimus-alpha | 8.162 |
+| Grok-4-fast | 8.162 |
 | gemma-3n-e4b-it | 8.150 |
 | qwen38b | 8.150 |
 | magistral-small-2506 | 8.150 |

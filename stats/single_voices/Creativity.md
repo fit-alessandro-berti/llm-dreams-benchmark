@@ -7,6 +7,7 @@
 | openaigpt-oss-120b | 9.688 |
 | o3-pro-2025-06-10 | 9.662 |
 | anthropicclaude-opus-4.1 | 9.625 |
+| Grok-4-fast | 9.625 |
 | claude-4-opus-20250514 | 9.613 |
 | o3-2025-04-16 | 9.600 |
 | qwenqwen3-next-80b-a3b-instruct | 9.600 |

@@ -103,6 +103,7 @@
 | openroutersonoma-sky-alpha | 7.443 |
 | nvidianemotron-nano-9b-v2 | 7.443 |
 | falcon33b-instruct-q8_0 | 7.429 |
+| gemini-2.5-flash-lite-preview-09-2025 | 7.400 |
 | claude-4-opus-20250514 | 7.386 |
 | qwen38b | 7.386 |
 | qwenqwen3-235b-a22b-07-25 | 7.386 |
@@ -157,6 +158,7 @@
 | Gemini-1.5-Pro-Exp-0827 | 6.371 |
 | magistral-medium-2506 | 6.329 |
 | claude-3-opus-20240229 | 6.314 |
+| gemini-2.5-flash-preview-09-2025 | 6.271 |
 | qwenqwen3-235b-a22b-thinking-2507 | 6.271 |
 | gemini-2.5-pro-exp-03-25 | 6.243 |
 | gemini-2.5-flash-lite-preview-06-17 | 6.200 |

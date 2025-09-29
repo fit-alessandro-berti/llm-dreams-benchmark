@@ -83,6 +83,7 @@
 | gpt-5-chat-latest-2025-08-19 | 6.714 |
 | qwenqwen3-next-80b-a3b-instruct | 6.714 |
 | qwenqwen3-next-80b-a3b-thinking | 6.714 |
+| gemini-2.5-flash-lite-preview-09-2025 | 6.700 |
 | falcon33b-instruct-q8_0 | 6.657 |
 | Grok-3-beta-thinking-20250303 | 6.643 |
 | deepseek-aiDeepSeek-V3 | 6.629 |
@@ -172,6 +173,7 @@
 | gemma31b-it-q8_0 | 5.086 |
 | gemini-2.0-flash-lite-preview-02-05 | 5.071 |
 | meta-llamallama-4-maverick | 5.071 |
+| gemini-2.5-flash-preview-09-2025 | 5.043 |
 | QwenQwen3-235B-A22B | 5.014 |
 | gemma34b-it-q8_0 | 4.929 |
 | gemini-2.5-pro-exp-03-25 | 4.857 |

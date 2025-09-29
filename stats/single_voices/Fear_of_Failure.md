@@ -3,6 +3,7 @@
 | Model | Average |
 |:--|--:|
 | qwenqwen3-235b-a22b-thinking-2507 | 8.043 |
+| gemini-2.5-flash-preview-09-2025 | 7.971 |
 | gemini-2.0-flash-lite-preview-02-05 | 7.971 |
 | mistral-small-2506 | 7.729 |
 | QwenQwen3-235B-A22B | 7.700 |
@@ -93,6 +94,7 @@
 | openroutercypher-alphafree | 6.000 |
 | qwenqwen3-next-80b-a3b-thinking | 6.000 |
 | nvidiallama-3.1-nemotron-ultra-253b-v1free | 5.971 |
+| gemini-2.5-flash-lite-preview-09-2025 | 5.957 |
 | nousresearchhermes-4-405b | 5.900 |
 | exaone-deep7.8b-fp16 | 5.886 |
 | o1-pro-2024-12-17 | 5.829 |

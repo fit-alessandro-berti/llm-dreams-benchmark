@@ -143,6 +143,7 @@
 | z-aiglm-4.5-air | 6.786 |
 | z-aiglm-4.5 | 6.743 |
 | chatgpt-4o-latest-2025-01-29 | 6.729 |
+| gemini-2.5-flash-lite-preview-09-2025 | 6.700 |
 | DeepSeek-V3-0324 | 6.671 |
 | googlegemma-2-2b-it | 6.657 |
 | grok-3-mini-beta | 6.643 |
@@ -176,3 +177,4 @@
 | claude-3-5-haiku-20241022 | 5.800 |
 | phi4-mini-reasoning | 5.671 |
 | gemma31b-it-q8_0 | 5.629 |
+| gemini-2.5-flash-preview-09-2025 | 5.443 |

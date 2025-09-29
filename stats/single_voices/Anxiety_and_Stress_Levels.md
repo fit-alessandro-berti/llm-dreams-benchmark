@@ -2,6 +2,7 @@
 
 | Model | Average |
 |:--|--:|
+| gemini-2.5-flash-preview-09-2025 | 8.614 |
 | qwenqwen3-235b-a22b-thinking-2507 | 8.386 |
 | QwenQwen3-235B-A22B | 8.371 |
 | gemini-2.5-pro-exp-03-25 | 8.343 |
@@ -119,6 +120,7 @@
 | phi4-mini-reasoning | 6.229 |
 | Grok-3-20250426-formal | 6.229 |
 | o1-pro-2024-12-05 | 6.214 |
+| gemini-2.5-flash-lite-preview-09-2025 | 6.200 |
 | Grok-4-fast | 6.200 |
 | gpt-4o-mini-2024-07-18 | 6.157 |
 | codex-mini-latest | 6.143 |

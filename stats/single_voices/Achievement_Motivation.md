@@ -81,6 +81,7 @@
 | meta-llamaMeta-Llama-3.1-405B-Instruct | 8.371 |
 | qwen2.5-7b-instruct-1m | 8.371 |
 | gemini-2.5-flash-lite-preview-06-17 | 8.371 |
+| gemini-2.5-flash-lite-preview-09-2025 | 8.371 |
 | gpt-4.5-preview | 8.371 |
 | chatgpt-4o-latest-2025-03-26 | 8.357 |
 | deepseekdeepseek-r1 | 8.357 |
@@ -162,6 +163,7 @@
 | gemini-2.5-flash-preview-04-17 | 7.814 |
 | qwen34b-instruct-2507-q8_0 | 7.786 |
 | Qwen-QwQ-32B | 7.771 |
+| gemini-2.5-flash-preview-09-2025 | 7.757 |
 | gemma3270m | 7.743 |
 | gemini-2.5-pro-exp-03-25 | 7.729 |
 | gpt-5-chat-latest-2025-08-07 | 7.700 |

@@ -13,6 +13,7 @@
 | gemini-2.5-pro-preview-06-05 | 9.629 |
 | qwenqwen3-next-80b-a3b-instruct | 9.614 |
 | claude-4-sonnet-20250514 | 9.586 |
+| gemini-2.5-flash-lite-preview-09-2025 | 9.586 |
 | gemini-exp-1206 | 9.586 |
 | openroutersonoma-sky-alpha | 9.586 |
 | grok-4-0709 | 9.557 |
@@ -20,6 +21,7 @@
 | openrouterhorizon-beta | 9.543 |
 | qwenqwen3-30b-a3b-instruct-2507 | 9.543 |
 | claude-3-5-sonnet-20241022 | 9.543 |
+| gemini-2.5-flash-preview-09-2025 | 9.529 |
 | gemma34b-it-q8_0 | 9.529 |
 | o4-mini-2025-04-16 | 9.529 |
 | gemini-2.5-pro-preview-05-06 | 9.514 |

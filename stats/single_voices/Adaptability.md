@@ -80,6 +80,7 @@
 | deepseek-aiDeepSeek-V3 | 8.729 |
 | gemini-2.0-flash-exp | 8.729 |
 | gemma312b-it-q8_0 | 8.714 |
+| gemini-2.5-flash-lite-preview-09-2025 | 8.714 |
 | gemini-2.5-pro-preview-05-06 | 8.714 |
 | gpt-4.1-nano-2025-04-14 | 8.714 |
 | o1-2024-12-05 | 8.714 |
@@ -161,6 +162,7 @@
 | gpt-5-chat-latest-2025-08-07 | 8.100 |
 | Qwen-QwQ-32B | 8.086 |
 | nvidiallama-3.1-nemotron-nano-8b-v1 | 8.071 |
+| gemini-2.5-flash-preview-09-2025 | 8.057 |
 | QwenQwen3-235B-A22B | 7.971 |
 | qwenqwen3-235b-a22b-thinking-2507 | 7.971 |
 | gemini-2.5-pro-exp-03-25 | 7.943 |

@@ -7,6 +7,7 @@
 | mistral-small-2506 | 6.886 |
 | qwenqwen3-235b-a22b-thinking-2507 | 6.871 |
 | QwenQwen3-235B-A22B | 6.857 |
+| gemini-2.5-flash-preview-09-2025 | 6.857 |
 | qwen30.6b | 6.843 |
 | tngtechdeepseek-r1t-chimerafree | 6.800 |
 | deepseekdeepseek-r1 | 6.786 |
@@ -125,6 +126,7 @@
 | o1-pro-2024-12-05 | 5.929 |
 | openrouterhorizon-alpha | 5.914 |
 | qwen-plus-2025-01-25 | 5.900 |
+| gemini-2.5-flash-lite-preview-09-2025 | 5.900 |
 | falcon37b-instruct-q8_0 | 5.886 |
 | microsoftPhi-3-medium-4k-instruct | 5.886 |
 | ministral-3b-2410 | 5.871 |

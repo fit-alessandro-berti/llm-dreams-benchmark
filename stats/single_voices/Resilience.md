@@ -65,6 +65,7 @@
 | o1-2024-12-17 | 8.643 |
 | ministral-8b-2410 | 8.629 |
 | exaone-deep7.8b-fp16 | 8.614 |
+| gemini-2.5-flash-lite-preview-09-2025 | 8.614 |
 | mistral-small-2503 | 8.614 |
 | o1-pro-2024-12-17 | 8.614 |
 | qwen-plus-2025-01-25 | 8.614 |
@@ -160,6 +161,7 @@
 | meta-llamallama-4-scout | 7.629 |
 | meta-llamaMeta-Llama-3.1-8B-Instruct | 7.629 |
 | magistral-medium-2506 | 7.586 |
+| gemini-2.5-flash-preview-09-2025 | 7.557 |
 | thudmglm-4-32b | 7.557 |
 | phi4-mini-reasoning | 7.471 |
 | nvidiallama-3.1-nemotron-nano-8b-v1 | 7.429 |

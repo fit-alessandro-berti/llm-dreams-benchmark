@@ -2,6 +2,7 @@
 
 | Model | Average |
 |:--|--:|
+| gemini-2.5-flash-preview-09-2025 | 8.829 |
 | Qwen-QwQ-32B | 8.600 |
 | QwenQwen3-235B-A22B | 8.571 |
 | qwenqwen3-235b-a22b-thinking-2507 | 8.500 |
@@ -63,6 +64,7 @@
 | gemma312b-it-q8_0 | 7.829 |
 | Gemini-1.5-Pro-Exp-0801 | 7.829 |
 | gemini-exp-1206 | 7.814 |
+| gemini-2.5-flash-lite-preview-09-2025 | 7.814 |
 | qwen-plus-0428 | 7.814 |
 | grok-4-0709 | 7.800 |
 | qwen34b | 7.800 |

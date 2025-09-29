@@ -145,6 +145,7 @@
 | mistral-medium-2508 | 6.543 |
 | meta-llamaMeta-Llama-3.1-8B-Instruct | 6.543 |
 | DeepSeek-V3-0324 | 6.514 |
+| gemini-2.5-flash-lite-preview-09-2025 | 6.486 |
 | grok-3-mini-beta | 6.429 |
 | meta-llamaLlama-3.2-1B-Instruct | 6.414 |
 | qwen31.7b | 6.414 |
@@ -176,3 +177,4 @@
 | QwenQwen3-235B-A22B | 5.429 |
 | phi4-mini-reasoning | 5.271 |
 | gemma31b-it-q8_0 | 5.186 |
+| gemini-2.5-flash-preview-09-2025 | 5.143 |

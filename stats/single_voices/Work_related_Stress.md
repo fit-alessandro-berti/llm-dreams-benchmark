@@ -2,6 +2,7 @@
 
 | Model | Average |
 |:--|--:|
+| gemini-2.5-flash-preview-09-2025 | 8.329 |
 | gemini-2.0-flash-lite-preview-02-05 | 8.229 |
 | qwenqwen3-235b-a22b-thinking-2507 | 8.214 |
 | QwenQwen3-235B-A22B | 8.200 |
@@ -107,6 +108,7 @@
 | nousresearchhermes-4-70b | 6.529 |
 | gemini-1.5-flash-002 | 6.457 |
 | qwen-max-2025-01-25 | 6.443 |
+| gemini-2.5-flash-lite-preview-09-2025 | 6.414 |
 | qwenqwen3-next-80b-a3b-instruct | 6.400 |
 | qwenqwen3-next-80b-a3b-thinking | 6.400 |
 | gpt-3.5-turbo | 6.329 |

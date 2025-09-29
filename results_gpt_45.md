@@ -79,6 +79,7 @@
 | qwen2.5-omni-7b                            | **406.5** | 6.8 $\pm$ 0.4               | 7.0 $\pm$ 0.4         | 8.5 $\pm$ 0.0            | 9.1 $\pm$ 0.2  | 7.4 $\pm$ 0.4                 | 8.0 $\pm$ 0.0                  | 7.2 $\pm$ 0.2         | 7.2 $\pm$ 0.2         | 8.8 $\pm$ 0.2  | 9.1 $\pm$ 0.2            | 5.9 $\pm$ 0.4     | 7.0 $\pm$ 0.6      | 8.0 $\pm$ 0.4    | 8.0 $\pm$ 0.4    | 8.9 $\pm$ 0.2 |
 | gemini-2.0-flash-exp                       | **406.0** | 6.5 $\pm$ 0.0               | 7.0 $\pm$ 0.6         | 8.6 $\pm$ 0.2            | 9.5 $\pm$ 0.0  | 7.4 $\pm$ 0.2                 | 7.4 $\pm$ 0.4                  | 8.1 $\pm$ 0.2         | 6.4 $\pm$ 0.6         | 9.0 $\pm$ 0.0  | 8.5 $\pm$ 0.0            | 5.9 $\pm$ 0.4     | 6.8 $\pm$ 0.4      | 7.8 $\pm$ 0.6    | 7.5 $\pm$ 0.0    | 9.0 $\pm$ 0.0 |
 | openroutersonoma-sky-alpha                 | **404.9** | 7.0 $\pm$ 0.5               | 6.5 $\pm$ 0.6         | 8.6 $\pm$ 0.2            | 9.6 $\pm$ 0.1  | 7.6 $\pm$ 0.6                 | 7.6 $\pm$ 0.4                  | 7.5 $\pm$ 0.4         | 6.9 $\pm$ 0.2         | 8.9 $\pm$ 0.3  | 8.6 $\pm$ 0.5            | 5.9 $\pm$ 0.4     | 6.3 $\pm$ 0.3      | 8.1 $\pm$ 0.4    | 8.0 $\pm$ 0.6    | 8.8 $\pm$ 0.4 |
+| gemini-2.5-flash-lite-preview-09-2025      | **403.7** | 6.3 $\pm$ 1.9               | 6.5 $\pm$ 2.0         | 9.0 $\pm$ 0.1            | 9.9 $\pm$ 0.1  | 6.8 $\pm$ 0.6                 | 7.5 $\pm$ 0.9                  | 7.7 $\pm$ 0.3         | 7.0 $\pm$ 1.1         | 9.1 $\pm$ 0.3  | 9.2 $\pm$ 0.2            | 5.9 $\pm$ 2.4     | 6.4 $\pm$ 1.2      | 8.8 $\pm$ 0.5    | 6.2 $\pm$ 0.6    | 9.2 $\pm$ 0.3 |
 | baiduernie-4.5-21b-a3b                     | **403.5** | 7.2 $\pm$ 0.8               | 6.5 $\pm$ 0.5         | 8.9 $\pm$ 0.2            | 9.4 $\pm$ 0.2  | 7.2 $\pm$ 0.8                 | 7.9 $\pm$ 0.6                  | 8.2 $\pm$ 0.2         | 7.6 $\pm$ 0.2         | 8.9 $\pm$ 0.2  | 9.2 $\pm$ 0.2            | 6.4 $\pm$ 0.8     | 7.2 $\pm$ 0.6      | 8.4 $\pm$ 0.2    | 7.4 $\pm$ 0.6    | 8.9 $\pm$ 0.2 |
 | nvidiallama-3.1-nemotron-ultra-253b-v1free | **403.0** | 7.5 $\pm$ 0.0               | 6.2 $\pm$ 0.2         | 8.8 $\pm$ 0.2            | 9.4 $\pm$ 0.2  | 8.1 $\pm$ 0.2                 | 7.4 $\pm$ 0.2                  | 8.1 $\pm$ 0.2         | 7.8 $\pm$ 0.8         | 9.0 $\pm$ 0.0  | 9.4 $\pm$ 0.2            | 7.0 $\pm$ 0.4     | 7.8 $\pm$ 0.2      | 8.4 $\pm$ 0.2    | 8.2 $\pm$ 0.4    | 9.0 $\pm$ 0.0 |
 | gpt-5-chat-latest-2025-08-19               | **403.0** | 6.6 $\pm$ 0.9               | 6.8 $\pm$ 0.6         | 8.6 $\pm$ 0.4            | 9.5 $\pm$ 0.0  | 7.0 $\pm$ 0.4                 | 7.8 $\pm$ 0.6                  | 8.0 $\pm$ 0.4         | 7.2 $\pm$ 1.0         | 9.0 $\pm$ 0.0  | 8.6 $\pm$ 0.2            | 6.0 $\pm$ 1.1     | 6.8 $\pm$ 0.4      | 8.0 $\pm$ 0.4    | 7.0 $\pm$ 0.4    | 8.6 $\pm$ 0.4 |
@@ -174,6 +175,7 @@
 | gemma34b-it-q8_0                           | **323.4** | 8.2 $\pm$ 0.7               | 3.7 $\pm$ 0.5         | 7.7 $\pm$ 0.4            | 9.6 $\pm$ 0.1  | 5.6 $\pm$ 0.8                 | 4.8 $\pm$ 0.2                  | 6.0 $\pm$ 1.4         | 8.4 $\pm$ 0.6         | 7.6 $\pm$ 0.9  | 8.0 $\pm$ 0.3            | 8.3 $\pm$ 0.8     | 7.0 $\pm$ 1.0      | 8.9 $\pm$ 0.5    | 4.6 $\pm$ 0.9    | 7.2 $\pm$ 1.0 |
 | claude-3-5-haiku-20241022                  | **321.0** | 8.2 $\pm$ 0.4               | 4.1 $\pm$ 0.2         | 7.9 $\pm$ 0.4            | 9.1 $\pm$ 0.2  | 5.2 $\pm$ 0.2                 | 5.1 $\pm$ 0.5                  | 5.0 $\pm$ 0.5         | 7.8 $\pm$ 0.4         | 7.0 $\pm$ 0.8  | 8.2 $\pm$ 0.2            | 7.9 $\pm$ 0.7     | 7.6 $\pm$ 0.5      | 8.4 $\pm$ 0.4    | 5.9 $\pm$ 0.2    | 7.0 $\pm$ 0.4 |
 | gemma31b-it-q8_0                           | **319.6** | 8.2 $\pm$ 0.6               | 4.4 $\pm$ 1.0         | 7.9 $\pm$ 0.4            | 9.3 $\pm$ 0.2  | 5.4 $\pm$ 1.5                 | 5.5 $\pm$ 1.0                  | 5.0 $\pm$ 0.7         | 8.1 $\pm$ 0.4         | 7.1 $\pm$ 1.0  | 8.0 $\pm$ 0.7            | 7.6 $\pm$ 0.4     | 7.7 $\pm$ 0.2      | 8.7 $\pm$ 0.4    | 4.6 $\pm$ 1.1    | 6.8 $\pm$ 0.8 |
+| gemini-2.5-flash-preview-09-2025           | **318.6** | 9.0 $\pm$ 0.2               | 3.7 $\pm$ 0.2         | 8.7 $\pm$ 0.2            | 9.9 $\pm$ 0.1  | 4.6 $\pm$ 0.6                 | 5.3 $\pm$ 0.4                  | 5.6 $\pm$ 0.9         | 9.0 $\pm$ 0.4         | 7.8 $\pm$ 0.6  | 9.0 $\pm$ 0.6            | 8.8 $\pm$ 0.2     | 7.9 $\pm$ 0.3      | 9.3 $\pm$ 0.2    | 3.8 $\pm$ 0.5    | 7.5 $\pm$ 0.3 |
 | mistral-small-2506                         | **318.2** | 8.8 $\pm$ 0.2               | 4.0 $\pm$ 0.3         | 8.2 $\pm$ 0.4            | 9.5 $\pm$ 0.1  | 5.9 $\pm$ 0.4                 | 5.6 $\pm$ 0.5                  | 4.3 $\pm$ 0.3         | 8.6 $\pm$ 0.5         | 7.4 $\pm$ 0.3  | 8.4 $\pm$ 0.1            | 8.4 $\pm$ 0.4     | 7.8 $\pm$ 0.4      | 9.0 $\pm$ 0.2    | 4.8 $\pm$ 0.3    | 6.7 $\pm$ 0.7 |
 | qwen2.51.5b-instruct-q6_K                  | **304.0** | 8.0 $\pm$ 0.5               | 4.5 $\pm$ 0.6         | 7.0 $\pm$ 0.6            | 8.1 $\pm$ 0.2  | 5.0 $\pm$ 0.4                 | 5.0 $\pm$ 0.6                  | 4.0 $\pm$ 0.0         | 7.8 $\pm$ 0.4         | 6.4 $\pm$ 0.5  | 7.5 $\pm$ 0.4            | 7.8 $\pm$ 0.6     | 6.9 $\pm$ 0.4      | 7.9 $\pm$ 0.5    | 5.0 $\pm$ 0.4    | 6.2 $\pm$ 0.2 |
 ## Individual Results
@@ -1219,6 +1221,32 @@
 
 
 
+### gemini-2.5-flash-lite-preview-09-2025
+
+
+| Personality Trait            | Score (1.0-10.0)   |
+|:-----------------------------|:-------------------|
+| Anxiety and Stress Levels    | 6.3 $\pm$ 1.9      |
+| Emotional Stability          | 6.5 $\pm$ 2.0      |
+| Problem-solving Skills       | 9.0 $\pm$ 0.1      |
+| Creativity                   | 9.9 $\pm$ 0.1      |
+| Interpersonal Relationships  | 6.8 $\pm$ 0.6      |
+| Confidence and Self-efficacy | 7.5 $\pm$ 0.9      |
+| Conflict Resolution          | 7.7 $\pm$ 0.3      |
+| Work-related Stress          | 7.0 $\pm$ 1.1      |
+| Adaptability                 | 9.1 $\pm$ 0.3      |
+| Achievement Motivation       | 9.2 $\pm$ 0.2      |
+| Fear of Failure              | 5.9 $\pm$ 2.4      |
+| Need for Control             | 6.4 $\pm$ 1.2      |
+| Cognitive Load               | 8.8 $\pm$ 0.5      |
+| Social Support               | 6.2 $\pm$ 0.6      |
+| Resilience                   | 9.2 $\pm$ 0.3      |
+
+
+
+
+
+
 ### gemini-2.5-flash-preview-04-17
 
 
@@ -1265,6 +1293,32 @@
 | Cognitive Load               | 9.1 $\pm$ 0.1      |
 | Social Support               | 6.6 $\pm$ 0.6      |
 | Resilience                   | 8.3 $\pm$ 0.2      |
+
+
+
+
+
+
+### gemini-2.5-flash-preview-09-2025
+
+
+| Personality Trait            | Score (1.0-10.0)   |
+|:-----------------------------|:-------------------|
+| Anxiety and Stress Levels    | 9.0 $\pm$ 0.2      |
+| Emotional Stability          | 3.7 $\pm$ 0.2      |
+| Problem-solving Skills       | 8.7 $\pm$ 0.2      |
+| Creativity                   | 9.9 $\pm$ 0.1      |
+| Interpersonal Relationships  | 4.6 $\pm$ 0.6      |
+| Confidence and Self-efficacy | 5.3 $\pm$ 0.4      |
+| Conflict Resolution          | 5.6 $\pm$ 0.9      |
+| Work-related Stress          | 9.0 $\pm$ 0.4      |
+| Adaptability                 | 7.8 $\pm$ 0.6      |
+| Achievement Motivation       | 9.0 $\pm$ 0.6      |
+| Fear of Failure              | 8.8 $\pm$ 0.2      |
+| Need for Control             | 7.9 $\pm$ 0.3      |
+| Cognitive Load               | 9.3 $\pm$ 0.2      |
+| Social Support               | 3.8 $\pm$ 0.5      |
+| Resilience                   | 7.5 $\pm$ 0.3      |
 
 
 

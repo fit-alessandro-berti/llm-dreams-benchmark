@@ -74,6 +74,7 @@
 | DeepSeek-R1-Lite-Preview | 8.486 |
 | gemini-1.5-flash-8b | 8.486 |
 | deepseekdeepseek-chat-v3.1 | 8.471 |
+| gemini-2.5-flash-lite-preview-09-2025 | 8.471 |
 | Grok-4-fast | 8.471 |
 | o1-2024-12-17 | 8.471 |
 | gpt-4.5-preview | 8.457 |
@@ -143,6 +144,7 @@
 | meta-llamaLlama-3.2-3B-Instruct | 8.071 |
 | qwen31.7b | 8.057 |
 | Gemini-1.5-Pro-Exp-0801 | 8.057 |
+| gemini-2.5-flash-preview-09-2025 | 8.029 |
 | magistral-medium-2506 | 8.029 |
 | gpt-4-1106-preview | 8.014 |
 | mistral-medium-2508 | 8.014 |

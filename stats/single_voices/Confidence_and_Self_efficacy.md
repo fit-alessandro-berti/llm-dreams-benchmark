@@ -83,6 +83,7 @@
 | chatgpt-4o-latest-2025-03-26 | 7.414 |
 | gemini-2.0-flash-exp | 7.414 |
 | Grok-3-beta-thinking-20250303 | 7.400 |
+| gemini-2.5-flash-lite-preview-09-2025 | 7.386 |
 | qwenqwen3-coder | 7.371 |
 | gemini-1.5-flash-8b | 7.357 |
 | x-aigrok-code-fast-1 | 7.357 |
@@ -164,6 +165,7 @@
 | gpt-5-chat-latest-2025-08-07 | 6.329 |
 | gemini-2.5-flash-preview-05-20 | 6.314 |
 | nvidiallama-3.1-nemotron-nano-8b-v1 | 6.300 |
+| gemini-2.5-flash-preview-09-2025 | 6.229 |
 | meta-llamaMeta-Llama-3.1-8B-Instruct | 6.229 |
 | meta-llamallama-4-maverick | 6.157 |
 | gemini-2.5-flash-preview-04-17 | 6.129 |

@@ -48,6 +48,7 @@
 | gpt-5-2025-08-07 | 7.700 |
 | ai21jamba-mini-1.7 | 7.686 |
 | qwen-max-2025-01-25 | 7.657 |
+| deepseekdeepseek-v3.2-exp | 7.657 |
 | falcon37b-instruct-q8_0 | 7.643 |
 | qwenqwen3-coder | 7.643 |
 | qwen2.5-7b-instruct-1m | 7.629 |
@@ -155,6 +156,7 @@
 | gemini-2.5-flash-preview-05-20 | 6.343 |
 | qwen34b | 6.329 |
 | r1-1776 | 6.314 |
+| anthropicclaude-sonnet-4.5 | 6.214 |
 | meta-llamallama-4-maverick | 6.214 |
 | tngtechdeepseek-r1t-chimerafree | 6.171 |
 | chatgpt-4o-latest-2025-01-29 | 6.171 |

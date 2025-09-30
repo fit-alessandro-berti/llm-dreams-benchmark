@@ -12,6 +12,7 @@
 | gemini-2.5-flash-preview-05-20 | 8.071 |
 | meta-llamallama-4-maverick | 8.071 |
 | z-aiglm-4.5-air | 8.057 |
+| anthropicclaude-sonnet-4.5 | 8.029 |
 | meta-llamaLlama-3.3-70B-Instruct | 8.014 |
 | r1-1776 | 8.014 |
 | gemini-2.5-flash-preview-04-17 | 8.000 |
@@ -166,6 +167,7 @@
 | gpt-4o-2024-08-06 | 5.414 |
 | gpt-4o-2024-05-13 | 5.414 |
 | o1-preview-2024-09-12 | 5.414 |
+| deepseekdeepseek-v3.2-exp | 5.400 |
 | gpt-4-0125-preview | 5.343 |
 | gpt-5-nano-2025-08-07 | 5.300 |
 | phi4-reasoningplus | 5.286 |

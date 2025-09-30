@@ -12,10 +12,12 @@
 | o3-2025-04-16 | 9.643 |
 | gemini-2.5-pro-preview-06-05 | 9.629 |
 | qwenqwen3-next-80b-a3b-instruct | 9.614 |
+| anthropicclaude-sonnet-4.5 | 9.586 |
 | claude-4-sonnet-20250514 | 9.586 |
 | gemini-2.5-flash-lite-preview-09-2025 | 9.586 |
 | gemini-exp-1206 | 9.586 |
 | openroutersonoma-sky-alpha | 9.586 |
+| deepseekdeepseek-v3.2-exp | 9.557 |
 | grok-4-0709 | 9.557 |
 | o3-mini-20250131-HIGH | 9.557 |
 | openrouterhorizon-beta | 9.543 |

@@ -36,6 +36,7 @@
 | nousresearchhermes-4-405b | 7.886 |
 | gpt-4.1-2025-04-14 | 7.871 |
 | mistral-large-2407 | 7.871 |
+| deepseekdeepseek-v3.2-exp | 7.843 |
 | codex-mini-latest | 7.843 |
 | openrouterhorizon-beta | 7.829 |
 | ministral-3b-2410 | 7.829 |
@@ -165,6 +166,7 @@
 | thudmglm-4-32b | 6.271 |
 | chatgpt-4o-latest-20250215 | 6.271 |
 | gemma3270m | 6.171 |
+| anthropicclaude-sonnet-4.5 | 6.157 |
 | Qwen-QwQ-32B | 6.114 |
 | gemini-2.5-flash-preview-04-17 | 6.086 |
 | gemma34b-it-q8_0 | 6.086 |

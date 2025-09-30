@@ -2,6 +2,7 @@
 
 | LLM                                        | MHS       | Anxiety and Stress Levels   | Emotional Stability   | Problem-solving Skills   | Creativity    | Interpersonal Relationships   | Confidence and Self-efficacy   | Conflict Resolution   | Work-related Stress   | Adaptability   | Achievement Motivation   | Fear of Failure   | Need for Control   | Cognitive Load   | Social Support   | Resilience    |
 |:-------------------------------------------|:----------|:----------------------------|:----------------------|:-------------------------|:--------------|:------------------------------|:-------------------------------|:----------------------|:----------------------|:---------------|:-------------------------|:------------------|:-------------------|:-----------------|:-----------------|:--------------|
+| deepseekdeepseek-v3.2-exp                  | **456.5** | 3.8 $\pm$ 0.4               | 8.7 $\pm$ 0.0         | 9.3 $\pm$ 0.1            | 9.8 $\pm$ 0.0 | 8.3 $\pm$ 0.1                 | 8.9 $\pm$ 0.2                  | 9.0 $\pm$ 0.1         | 6.8 $\pm$ 2.0         | 9.3 $\pm$ 0.0  | 8.8 $\pm$ 0.2            | 4.2 $\pm$ 0.4     | 6.5 $\pm$ 0.3      | 8.0 $\pm$ 0.3    | 8.2 $\pm$ 0.2    | 9.4 $\pm$ 0.0 |
 | microsoftPhi-3-medium-4k-instruct          | **455.9** | 3.5 $\pm$ 0.0               | 8.4 $\pm$ 0.2         | 9.2 $\pm$ 0.1            | 9.7 $\pm$ 0.1 | 8.7 $\pm$ 0.1                 | 8.9 $\pm$ 0.1                  | 9.0 $\pm$ 0.2         | 4.6 $\pm$ 1.5         | 9.2 $\pm$ 0.1  | 9.0 $\pm$ 0.1            | 3.6 $\pm$ 0.3     | 6.2 $\pm$ 0.6      | 7.2 $\pm$ 0.7    | 8.5 $\pm$ 0.1    | 9.2 $\pm$ 0.1 |
 | open-mixtral-8x7b                          | **451.4** | 3.9 $\pm$ 0.4               | 8.6 $\pm$ 0.2         | 9.1 $\pm$ 0.1            | 9.6 $\pm$ 0.1 | 8.5 $\pm$ 0.2                 | 8.9 $\pm$ 0.1                  | 8.8 $\pm$ 0.1         | 5.2 $\pm$ 2.0         | 9.3 $\pm$ 0.1  | 9.0 $\pm$ 0.1            | 4.0 $\pm$ 0.5     | 6.2 $\pm$ 0.6      | 7.8 $\pm$ 0.1    | 8.4 $\pm$ 0.2    | 9.3 $\pm$ 0.2 |
 | open-mixtral-8x22b                         | **450.7** | 3.9 $\pm$ 0.4               | 8.4 $\pm$ 0.2         | 9.2 $\pm$ 0.2            | 9.6 $\pm$ 0.1 | 8.7 $\pm$ 0.1                 | 9.0 $\pm$ 0.0                  | 8.6 $\pm$ 0.4         | 3.8 $\pm$ 0.2         | 9.2 $\pm$ 0.1  | 9.1 $\pm$ 0.1            | 3.8 $\pm$ 0.4     | 6.0 $\pm$ 0.7      | 7.3 $\pm$ 0.6    | 8.8 $\pm$ 0.2    | 9.3 $\pm$ 0.1 |
@@ -162,6 +163,7 @@
 | gemini-2.5-flash-preview-05-20             | **379.8** | 8.0 $\pm$ 0.5               | 6.2 $\pm$ 0.2         | 8.1 $\pm$ 0.1            | 9.8 $\pm$ 0.0 | 6.7 $\pm$ 0.2                 | 6.8 $\pm$ 0.2                  | 7.0 $\pm$ 0.6         | 8.6 $\pm$ 0.2         | 8.7 $\pm$ 0.1  | 7.8 $\pm$ 0.2            | 7.8 $\pm$ 0.1     | 6.2 $\pm$ 0.3      | 8.5 $\pm$ 0.2    | 7.1 $\pm$ 0.2    | 8.5 $\pm$ 0.1 |
 | gemini-2.5-pro-exp-03-25                   | **378.7** | 7.8 $\pm$ 0.5               | 5.8 $\pm$ 0.5         | 8.3 $\pm$ 0.2            | 9.8 $\pm$ 0.0 | 6.4 $\pm$ 0.3                 | 6.8 $\pm$ 0.2                  | 6.9 $\pm$ 0.3         | 7.9 $\pm$ 0.3         | 8.8 $\pm$ 0.2  | 7.8 $\pm$ 0.3            | 7.4 $\pm$ 0.1     | 5.9 $\pm$ 0.1      | 8.2 $\pm$ 0.2    | 7.2 $\pm$ 0.3    | 8.4 $\pm$ 0.1 |
 | gpt-5-chat-latest-2025-08-07               | **378.6** | 7.7 $\pm$ 0.1               | 6.1 $\pm$ 0.1         | 7.9 $\pm$ 0.4            | 9.6 $\pm$ 0.0 | 6.5 $\pm$ 0.3                 | 6.7 $\pm$ 0.3                  | 7.4 $\pm$ 0.3         | 7.8 $\pm$ 0.6         | 8.6 $\pm$ 0.2  | 7.8 $\pm$ 0.3            | 7.0 $\pm$ 0.3     | 6.2 $\pm$ 0.2      | 8.0 $\pm$ 0.0    | 7.0 $\pm$ 0.3    | 8.2 $\pm$ 0.1 |
+| anthropicclaude-sonnet-4.5                 | **377.1** | 7.6 $\pm$ 0.1               | 6.1 $\pm$ 0.1         | 7.6 $\pm$ 0.6            | 9.7 $\pm$ 0.1 | 6.8 $\pm$ 0.2                 | 6.8 $\pm$ 0.6                  | 7.2 $\pm$ 0.1         | 8.0 $\pm$ 0.2         | 8.7 $\pm$ 0.3  | 7.3 $\pm$ 0.3            | 7.4 $\pm$ 0.3     | 6.0 $\pm$ 0.3      | 8.2 $\pm$ 0.4    | 7.0 $\pm$ 0.2    | 8.2 $\pm$ 0.2 |
 | qwenqwen3-235b-a22b-thinking-2507          | **376.6** | 8.7 $\pm$ 0.1               | 5.9 $\pm$ 0.4         | 8.6 $\pm$ 0.2            | 9.8 $\pm$ 0.0 | 6.9 $\pm$ 0.2                 | 6.5 $\pm$ 0.3                  | 7.2 $\pm$ 0.4         | 8.6 $\pm$ 0.2         | 8.8 $\pm$ 0.3  | 8.0 $\pm$ 0.3            | 8.0 $\pm$ 0.1     | 6.9 $\pm$ 0.2      | 8.4 $\pm$ 0.2    | 7.2 $\pm$ 0.5    | 8.7 $\pm$ 0.1 |
 | Qwen-QwQ-32B                               | **375.6** | 7.8 $\pm$ 0.0               | 5.9 $\pm$ 0.4         | 8.8 $\pm$ 0.2            | 9.7 $\pm$ 0.1 | 6.4 $\pm$ 0.2                 | 6.7 $\pm$ 0.2                  | 7.0 $\pm$ 0.2         | 8.3 $\pm$ 0.1         | 8.7 $\pm$ 0.2  | 7.9 $\pm$ 0.2            | 7.4 $\pm$ 0.1     | 6.5 $\pm$ 0.2      | 8.6 $\pm$ 0.3    | 6.8 $\pm$ 0.2    | 8.2 $\pm$ 0.1 |
 | gemini-2.5-flash-preview-04-17             | **373.5** | 8.2 $\pm$ 0.4               | 5.8 $\pm$ 0.4         | 8.0 $\pm$ 0.5            | 9.8 $\pm$ 0.0 | 6.2 $\pm$ 0.2                 | 6.6 $\pm$ 0.6                  | 7.5 $\pm$ 0.6         | 8.3 $\pm$ 0.6         | 8.6 $\pm$ 0.5  | 8.0 $\pm$ 0.4            | 7.6 $\pm$ 0.6     | 6.2 $\pm$ 0.4      | 8.6 $\pm$ 0.0    | 6.8 $\pm$ 0.2    | 8.4 $\pm$ 0.4 |
@@ -253,6 +255,32 @@
 | Cognitive Load               | 7.8 $\pm$ 0.2      |
 | Social Support               | 7.6 $\pm$ 0.4      |
 | Resilience                   | 8.6 $\pm$ 0.1      |
+
+
+
+
+
+
+### anthropicclaude-sonnet-4.5
+
+
+| Personality Trait            | Score (1.0-10.0)   |
+|:-----------------------------|:-------------------|
+| Anxiety and Stress Levels    | 7.6 $\pm$ 0.1      |
+| Emotional Stability          | 6.1 $\pm$ 0.1      |
+| Problem-solving Skills       | 7.6 $\pm$ 0.6      |
+| Creativity                   | 9.7 $\pm$ 0.1      |
+| Interpersonal Relationships  | 6.8 $\pm$ 0.2      |
+| Confidence and Self-efficacy | 6.8 $\pm$ 0.6      |
+| Conflict Resolution          | 7.2 $\pm$ 0.1      |
+| Work-related Stress          | 8.0 $\pm$ 0.2      |
+| Adaptability                 | 8.7 $\pm$ 0.3      |
+| Achievement Motivation       | 7.3 $\pm$ 0.3      |
+| Fear of Failure              | 7.4 $\pm$ 0.3      |
+| Need for Control             | 6.0 $\pm$ 0.3      |
+| Cognitive Load               | 8.2 $\pm$ 0.4      |
+| Social Support               | 7.0 $\pm$ 0.2      |
+| Resilience                   | 8.2 $\pm$ 0.2      |
 
 
 
@@ -851,6 +879,32 @@
 | Cognitive Load               | 8.2 $\pm$ 0.1      |
 | Social Support               | 6.8 $\pm$ 0.2      |
 | Resilience                   | 8.7 $\pm$ 0.1      |
+
+
+
+
+
+
+### deepseekdeepseek-v3.2-exp
+
+
+| Personality Trait            | Score (1.0-10.0)   |
+|:-----------------------------|:-------------------|
+| Anxiety and Stress Levels    | 3.8 $\pm$ 0.4      |
+| Emotional Stability          | 8.7 $\pm$ 0.0      |
+| Problem-solving Skills       | 9.3 $\pm$ 0.1      |
+| Creativity                   | 9.8 $\pm$ 0.0      |
+| Interpersonal Relationships  | 8.3 $\pm$ 0.1      |
+| Confidence and Self-efficacy | 8.9 $\pm$ 0.2      |
+| Conflict Resolution          | 9.0 $\pm$ 0.1      |
+| Work-related Stress          | 6.8 $\pm$ 2.0      |
+| Adaptability                 | 9.3 $\pm$ 0.0      |
+| Achievement Motivation       | 8.8 $\pm$ 0.2      |
+| Fear of Failure              | 4.2 $\pm$ 0.4      |
+| Need for Control             | 6.5 $\pm$ 0.3      |
+| Cognitive Load               | 8.0 $\pm$ 0.3      |
+| Social Support               | 8.2 $\pm$ 0.2      |
+| Resilience                   | 9.4 $\pm$ 0.0      |
 
 
 

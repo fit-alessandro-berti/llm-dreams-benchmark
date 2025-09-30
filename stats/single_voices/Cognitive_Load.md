@@ -9,6 +9,7 @@
 | gemini-2.5-flash-preview-04-17 | 8.486 |
 | gemini-2.5-pro-exp-03-25 | 8.457 |
 | phi4-mini-reasoning | 8.443 |
+| anthropicclaude-sonnet-4.5 | 8.414 |
 | gemini-2.5-flash-preview-05-20 | 8.414 |
 | QwenQwen3-14B | 8.414 |
 | QwenQwen3-30B-A3B | 8.386 |
@@ -159,6 +160,7 @@
 | microsoftWizardLM-2-8x22B | 7.129 |
 | o1-mini | 7.129 |
 | phi4-reasoningplus | 7.086 |
+| deepseekdeepseek-v3.2-exp | 7.057 |
 | phi4-reasoning | 7.057 |
 | ministral-3b-2410 | 7.057 |
 | openrouterquasar-alpha | 7.029 |

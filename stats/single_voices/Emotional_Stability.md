@@ -3,6 +3,7 @@
 | Model | Average |
 |:--|--:|
 | microsoftPhi-3-medium-4k-instruct | 8.071 |
+| deepseekdeepseek-v3.2-exp | 8.000 |
 | gpt-4.5-preview | 8.000 |
 | o3-pro-2025-06-10 | 7.929 |
 | microsoftphi-4 | 7.900 |
@@ -165,6 +166,7 @@
 | Qwen-QwQ-32B | 5.514 |
 | nvidiallama-3.1-nemotron-nano-8b-v1 | 5.457 |
 | qwen2.51.5b-instruct-q6_K | 5.357 |
+| anthropicclaude-sonnet-4.5 | 5.314 |
 | claude-3-5-haiku-20241022 | 5.243 |
 | qwenqwen3-235b-a22b-thinking-2507 | 5.200 |
 | gemma3270m | 5.186 |

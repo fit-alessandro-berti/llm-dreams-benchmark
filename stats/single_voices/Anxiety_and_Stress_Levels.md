@@ -10,6 +10,7 @@
 | mistral-small-2506 | 8.257 |
 | gemini-2.5-flash-preview-04-17 | 8.229 |
 | thudmglm-4-32b | 8.143 |
+| anthropicclaude-sonnet-4.5 | 8.114 |
 | gemma34b-it-q8_0 | 8.086 |
 | meta-llamallama-4-maverick | 8.086 |
 | mistral-medium-2508 | 7.986 |
@@ -176,5 +177,6 @@
 | codestral-2501 | 4.557 |
 | open-mixtral-8x7b | 4.543 |
 | gpt-4.5-preview | 4.486 |
+| deepseekdeepseek-v3.2-exp | 4.457 |
 | microsoftphi-4 | 4.329 |
 | microsoftPhi-3-medium-4k-instruct | 4.286 |

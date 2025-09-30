@@ -3,6 +3,7 @@
 | Model | Average |
 |:--|--:|
 | microsoftPhi-3-medium-4k-instruct | 9.186 |
+| deepseekdeepseek-v3.2-exp | 9.157 |
 | gpt-4.5-preview | 9.129 |
 | open-mistral-7b | 9.100 |
 | microsoftWizardLM-2-8x22B | 9.071 |
@@ -170,6 +171,7 @@
 | QwenQwen3-235B-A22B | 7.414 |
 | gemma34b-it-q8_0 | 7.386 |
 | gemini-2.0-flash-lite-preview-02-05 | 7.371 |
+| anthropicclaude-sonnet-4.5 | 7.357 |
 | gemini-2.5-pro-exp-03-25 | 7.357 |
 | meta-llamallama-4-maverick | 7.357 |
 | meta-llamaLlama-3.2-1B-Instruct | 7.300 |

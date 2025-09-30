@@ -9,6 +9,7 @@
 | QwenQwen3-235B-A22B | 7.700 |
 | gemini-2.5-pro-exp-03-25 | 7.629 |
 | gemini-2.5-flash-preview-05-20 | 7.571 |
+| anthropicclaude-sonnet-4.5 | 7.557 |
 | Gemini-1.5-Pro-Exp-0801 | 7.557 |
 | gemma34b-it-q8_0 | 7.529 |
 | thudmglm-4-32b | 7.529 |
@@ -170,6 +171,7 @@
 | codestral-2501 | 4.129 |
 | open-mixtral-8x22b | 4.114 |
 | qwen2.5-32b-instruct | 4.100 |
+| deepseekdeepseek-v3.2-exp | 4.071 |
 | open-mistral-7b | 4.029 |
 | falcon37b-instruct-q8_0 | 3.943 |
 | o3-pro-2025-06-10 | 3.900 |

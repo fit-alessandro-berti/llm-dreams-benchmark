@@ -113,11 +113,13 @@
 | openrouteroptimus-alpha | 6.014 |
 | qwenqwen3-235b-a22b-07-25 | 6.014 |
 | claude-3-7-sonnet-20250219-thinking-high | 6.000 |
+| deepseekdeepseek-v3.2-exp | 5.986 |
 | gemma-3n-e4b-it | 5.986 |
 | gpt-4o-mini-2024-07-18 | 5.986 |
 | grok-4-0709 | 5.986 |
 | o1-2024-12-05 | 5.986 |
 | open-mixtral-8x7b | 5.986 |
+| anthropicclaude-sonnet-4.5 | 5.971 |
 | gemini-2.5-flash-preview-05-20 | 5.971 |
 | chatgpt-4o-latest-2025-04-26 | 5.971 |
 | codex-mini-latest | 5.971 |

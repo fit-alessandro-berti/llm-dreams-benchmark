@@ -5,6 +5,7 @@
 | microsoftPhi-3-medium-4k-instruct | 8.986 |
 | openrouterhorizon-alpha | 8.943 |
 | o3-pro-2025-06-10 | 8.929 |
+| deepseekdeepseek-v3.2-exp | 8.914 |
 | qwen2.5-14b-instruct | 8.914 |
 | granite3.28b-instruct-q4_K_M | 8.886 |
 | o3-2025-04-16 | 8.871 |
@@ -177,4 +178,5 @@
 | meta-llamaLlama-3.2-1B-Instruct | 7.543 |
 | gemini-2.0-flash-lite-preview-02-05 | 7.386 |
 | gemma3270m | 7.229 |
+| anthropicclaude-sonnet-4.5 | 7.214 |
 | qwen2.51.5b-instruct-q6_K | 7.000 |

@@ -9,6 +9,7 @@
 | ai21jamba-mini-1.7 | 8.443 |
 | gpt-3.5-turbo | 8.429 |
 | granite3.28b-instruct-q4_K_M | 8.414 |
+| deepseekdeepseek-v3.2-exp | 8.400 |
 | gpt-4.5-preview | 8.371 |
 | grok-2-1212 | 8.371 |
 | microsoftWizardLM-2-8x22B | 8.357 |
@@ -175,6 +176,7 @@
 | claude-3-5-haiku-20241022 | 5.957 |
 | gemma34b-it-q8_0 | 5.943 |
 | gemma3270m | 5.900 |
+| anthropicclaude-sonnet-4.5 | 5.871 |
 | gemini-2.0-flash-lite-preview-02-05 | 5.814 |
 | qwen2.51.5b-instruct-q6_K | 5.700 |
 | gemini-2.5-pro-exp-03-25 | 5.543 |

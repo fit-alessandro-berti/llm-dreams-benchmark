@@ -5,6 +5,7 @@
 | gpt-4.5-preview | 8.471 |
 | microsoftPhi-3-medium-4k-instruct | 8.457 |
 | o1-preview-2024-09-12 | 8.443 |
+| deepseekdeepseek-v3.2-exp | 8.429 |
 | microsoftWizardLM-2-8x22B | 8.386 |
 | openrouterhorizon-alpha | 8.357 |
 | microsoftphi-4 | 8.343 |
@@ -158,6 +159,7 @@
 | Gemini-1.5-Pro-Exp-0827 | 6.371 |
 | magistral-medium-2506 | 6.329 |
 | claude-3-opus-20240229 | 6.314 |
+| anthropicclaude-sonnet-4.5 | 6.271 |
 | gemini-2.5-flash-preview-09-2025 | 6.271 |
 | qwenqwen3-235b-a22b-thinking-2507 | 6.271 |
 | gemini-2.5-pro-exp-03-25 | 6.243 |

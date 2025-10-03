@@ -68,6 +68,7 @@
 | grok-4-0709 | 7.114 |
 | nousresearchhermes-4-405b | 7.114 |
 | moonshotaikimi-k2 | 7.100 |
+| granite4tiny-h | 7.086 |
 | chatgpt-4o-latest-2024-11-20 | 7.071 |
 | claude-3-7-sonnet-20250219 | 7.071 |
 | smollm21.7b-instruct-q6_K | 7.057 |
@@ -110,10 +111,12 @@
 | gemini-1.5-flash-002 | 6.457 |
 | qwen-max-2025-01-25 | 6.443 |
 | gemini-2.5-flash-lite-preview-09-2025 | 6.414 |
+| granite4micro-h | 6.400 |
 | qwenqwen3-next-80b-a3b-instruct | 6.400 |
 | qwenqwen3-next-80b-a3b-thinking | 6.400 |
 | gpt-3.5-turbo | 6.329 |
 | gpt-5-2025-08-07 | 6.329 |
+| granite4micro | 6.300 |
 | o1-2024-12-05 | 6.286 |
 | gpt-4-0613 | 6.271 |
 | phi3.53.8b-mini-instruct-fp16 | 6.271 |
@@ -154,6 +157,7 @@
 | codestral-2501 | 5.614 |
 | gpt-4.1-2025-04-14 | 5.586 |
 | granite3.28b-instruct-q4_K_M | 5.586 |
+| granite4small-h | 5.586 |
 | phi4-reasoning | 5.557 |
 | mistral-large-2407 | 5.529 |
 | gpt-4.1-mini-2025-04-14 | 5.514 |

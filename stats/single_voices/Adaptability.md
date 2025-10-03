@@ -8,6 +8,7 @@
 | gpt-4-turbo-2024-04-09 | 9.114 |
 | microsoftWizardLM-2-8x22B | 9.100 |
 | granite3.28b-instruct-q4_K_M | 9.086 |
+| granite4small-h | 9.086 |
 | ai21jamba-mini-1.7 | 9.029 |
 | falcon310b-instruct-q8_0 | 9.029 |
 | qwen2.5-14b-instruct | 9.029 |
@@ -37,6 +38,7 @@
 | gpt-4o-2024-05-13 | 8.857 |
 | gpt-4o-2024-08-06 | 8.857 |
 | gpt-5-2025-08-07 | 8.857 |
+| granite4micro-h | 8.857 |
 | phi3.53.8b-mini-instruct-fp16 | 8.857 |
 | qwenqwen3-coder | 8.857 |
 | anthropicclaude-opus-4.1 | 8.843 |
@@ -81,11 +83,13 @@
 | deepseek-aiDeepSeek-V3 | 8.729 |
 | gemini-2.0-flash-exp | 8.729 |
 | gemma312b-it-q8_0 | 8.714 |
+| granite4tiny-h | 8.714 |
 | gemini-2.5-flash-lite-preview-09-2025 | 8.714 |
 | gemini-2.5-pro-preview-05-06 | 8.714 |
 | gpt-4.1-nano-2025-04-14 | 8.714 |
 | o1-2024-12-05 | 8.714 |
 | x-aigrok-code-fast-1 | 8.714 |
+| granite4micro | 8.700 |
 | mistral-small-2409 | 8.700 |
 | nvidiallama-3.1-nemotron-ultra-253b-v1free | 8.700 |
 | qwen-max-2025-01-25 | 8.700 |

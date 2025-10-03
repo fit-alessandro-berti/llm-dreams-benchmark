@@ -4,6 +4,7 @@
 |:--|--:|
 | gpt-3.5-turbo | 9.086 |
 | ai21jamba-mini-1.7 | 8.957 |
+| granite4small-h | 8.943 |
 | grok-2-1212 | 8.886 |
 | nousresearchhermes-4-405b | 8.871 |
 | open-mistral-nemo | 8.857 |
@@ -61,6 +62,7 @@
 | qwen-plus-2025-01-25 | 8.486 |
 | mistral-small-2503 | 8.471 |
 | devstral-small-2505 | 8.471 |
+| granite4tiny-h | 8.471 |
 | nvidiaLlama-3.1-Nemotron-70B-Instruct | 8.471 |
 | o3-2025-04-16 | 8.471 |
 | o1-preview-2024-09-12 | 8.457 |
@@ -69,11 +71,13 @@
 | openroutercypher-alphafree | 8.443 |
 | gpt-4o-2024-05-13 | 8.443 |
 | baiduernie-4.5-300b-a47b | 8.443 |
+| granite4micro | 8.429 |
 | meta-llamaLlama-3.2-3B-Instruct | 8.414 |
 | openrouterquasar-alpha | 8.414 |
 | o1-2024-12-05 | 8.414 |
 | qwen2.5-7b-instruct | 8.414 |
 | x-aigrok-code-fast-1 | 8.400 |
+| granite4micro-h | 8.386 |
 | openaigpt-oss-20b | 8.386 |
 | Grok-3-beta-thinking-20250303 | 8.386 |
 | Grok-4-fast | 8.386 |

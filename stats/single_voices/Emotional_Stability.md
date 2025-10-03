@@ -8,6 +8,7 @@
 | o3-pro-2025-06-10 | 7.929 |
 | microsoftphi-4 | 7.900 |
 | qwen2.5-72b-instruct | 7.857 |
+| granite4small-h | 7.829 |
 | ai21jamba-mini-1.7 | 7.829 |
 | inceptionmercury | 7.814 |
 | open-mixtral-8x7b | 7.800 |
@@ -49,6 +50,7 @@
 | Grok-3-20250426-concise | 7.300 |
 | mistral-small-2503 | 7.286 |
 | mistral-small-2409 | 7.271 |
+| granite4micro-h | 7.257 |
 | mistral-large-2411 | 7.257 |
 | gpt-5-2025-08-07 | 7.214 |
 | gpt-4.1-nano-2025-04-14 | 7.200 |
@@ -64,6 +66,7 @@
 | qwen34b-instruct-2507-q8_0 | 7.114 |
 | phi3.53.8b-mini-instruct-fp16 | 7.100 |
 | gemini-2.0-flash-exp | 7.086 |
+| granite4micro | 7.071 |
 | qwen2.5-7b-instruct-1m | 6.957 |
 | o1-2024-12-05 | 6.943 |
 | qwen2.5-7b-instruct | 6.943 |
@@ -107,6 +110,7 @@
 | googlegemma-2-9b-it | 6.471 |
 | qwen30.6b | 6.457 |
 | openroutercypher-alphafree | 6.443 |
+| granite4tiny-h | 6.429 |
 | moonshotaikimi-k2 | 6.429 |
 | openroutersonoma-dusk-alpha | 6.414 |
 | claude-3-7-sonnet-20250219-thinking-high | 6.386 |

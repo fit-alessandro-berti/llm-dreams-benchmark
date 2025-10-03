@@ -69,6 +69,7 @@
 | ministral-8b-2410 | 6.343 |
 | nousresearchhermes-4-405b | 6.343 |
 | gpt-4-1106-preview | 6.329 |
+| granite4tiny-h | 6.329 |
 | qwen2.5-7b-instruct | 6.329 |
 | mistral-medium-2505 | 6.329 |
 | chatgpt-4o-latest-20250215 | 6.314 |
@@ -84,6 +85,7 @@
 | smollm21.7b-instruct-q6_K | 6.214 |
 | qwen2.5-7b-instruct-1m | 6.214 |
 | gpt-4-0613 | 6.200 |
+| granite4small-h | 6.200 |
 | qwen2.5-omni-7b | 6.186 |
 | QwenQwen3-32B | 6.186 |
 | ai21jamba-mini-1.7 | 6.171 |
@@ -95,6 +97,7 @@
 | gemini-2.0-pro-exp-02-05 | 6.143 |
 | qwen2.5-14b-instruct | 6.143 |
 | gemini-2.5-pro-exp-03-25 | 6.129 |
+| granite4micro | 6.129 |
 | open-mistral-nemo | 6.129 |
 | gemini-1.5-flash-8b | 6.100 |
 | o4-mini-2025-04-16 | 6.100 |
@@ -102,6 +105,7 @@
 | microsoftWizardLM-2-8x22B | 6.100 |
 | gemini-2.5-flash-lite-preview-06-17 | 6.086 |
 | gemini-2.5-pro-preview-05-06 | 6.086 |
+| granite4micro-h | 6.086 |
 | qwen-turbo-2024-11-01 | 6.086 |
 | mistral-large-2411 | 6.071 |
 | o1-pro-2024-12-17 | 6.071 |

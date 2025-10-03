@@ -22,6 +22,7 @@
 | microsoftphi-4 | 8.043 |
 | microsoftWizardLM-2-8x22B | 8.014 |
 | nousresearchhermes-4-405b | 8.000 |
+| granite4micro-h | 7.986 |
 | gpt-4-0125-preview | 7.971 |
 | gpt-4-turbo-2024-04-09 | 7.957 |
 | gpt-4o-2024-08-06 | 7.943 |
@@ -29,9 +30,11 @@
 | openaigpt-oss-120b | 7.929 |
 | o1-mini | 7.929 |
 | open-mistral-nemo | 7.914 |
+| granite4small-h | 7.900 |
 | gpt-4o-2024-05-13 | 7.871 |
 | ministral-3b-2410 | 7.871 |
 | gpt-4.1-2025-04-14 | 7.843 |
+| granite4micro | 7.843 |
 | gpt-4.1-mini-2025-04-14 | 7.829 |
 | open-mixtral-8x7b | 7.829 |
 | gpt-4.1-nano-2025-04-14 | 7.814 |
@@ -55,6 +58,7 @@
 | Grok-3-20250426-concise | 7.600 |
 | openroutersonoma-sky-alpha | 7.600 |
 | qwen2.5-omni-7b | 7.600 |
+| granite4tiny-h | 7.586 |
 | ministral-8b-2410 | 7.586 |
 | nvidiaLlama-3.1-Nemotron-70B-Instruct | 7.586 |
 | o4-mini-2025-04-16 | 7.586 |

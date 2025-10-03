@@ -3,6 +3,7 @@
 | LLM                                        | MHS       | Anxiety and Stress Levels   | Emotional Stability   | Problem-solving Skills   | Creativity     | Interpersonal Relationships   | Confidence and Self-efficacy   | Conflict Resolution   | Work-related Stress   | Adaptability   | Achievement Motivation   | Fear of Failure   | Need for Control   | Cognitive Load   | Social Support   | Resilience    |
 |:-------------------------------------------|:----------|:----------------------------|:----------------------|:-------------------------|:---------------|:------------------------------|:-------------------------------|:----------------------|:----------------------|:---------------|:-------------------------|:------------------|:-------------------|:-----------------|:-----------------|:--------------|
 | microsoftPhi-3-medium-4k-instruct          | **461.5** | 3.8 $\pm$ 0.4               | 8.6 $\pm$ 0.2         | 9.2 $\pm$ 0.2            | 9.4 $\pm$ 0.2  | 9.1 $\pm$ 0.2                 | 9.1 $\pm$ 0.2                  | 9.0 $\pm$ 0.4         | 4.5 $\pm$ 0.6         | 9.5 $\pm$ 0.0  | 9.4 $\pm$ 0.2            | 3.2 $\pm$ 0.9     | 6.1 $\pm$ 0.5      | 7.9 $\pm$ 0.2    | 8.9 $\pm$ 0.2    | 9.6 $\pm$ 0.2 |
+| granite4small-h                            | **457.5** | 4.0 $\pm$ 0.4               | 8.4 $\pm$ 0.2         | 9.2 $\pm$ 0.2            | 9.6 $\pm$ 0.2  | 8.6 $\pm$ 0.4                 | 9.1 $\pm$ 0.2                  | 8.9 $\pm$ 0.4         | 5.4 $\pm$ 0.9         | 9.5 $\pm$ 0.0  | 9.4 $\pm$ 0.2            | 3.0 $\pm$ 0.0     | 7.2 $\pm$ 0.4      | 7.9 $\pm$ 0.2    | 8.6 $\pm$ 0.2    | 9.8 $\pm$ 0.2 |
 | open-mistral-7b                            | **454.0** | 4.6 $\pm$ 0.4               | 8.4 $\pm$ 0.2         | 9.0 $\pm$ 0.0            | 9.4 $\pm$ 0.2  | 8.2 $\pm$ 0.2                 | 8.8 $\pm$ 0.2                  | 8.8 $\pm$ 0.2         | 6.0 $\pm$ 0.6         | 9.4 $\pm$ 0.2  | 9.2 $\pm$ 0.2            | 3.2 $\pm$ 0.2     | 6.5 $\pm$ 0.6      | 7.9 $\pm$ 0.5    | 8.9 $\pm$ 0.4    | 9.8 $\pm$ 0.2 |
 | o3-pro-2025-06-10                          | **454.0** | 4.4 $\pm$ 1.3               | 8.6 $\pm$ 0.2         | 9.2 $\pm$ 0.2            | 10.0 $\pm$ 0.0 | 8.1 $\pm$ 0.2                 | 8.8 $\pm$ 0.2                  | 8.8 $\pm$ 0.2         | 4.8 $\pm$ 0.8         | 9.6 $\pm$ 0.2  | 9.1 $\pm$ 0.2            | 3.5 $\pm$ 1.2     | 5.5 $\pm$ 1.2      | 7.6 $\pm$ 0.7    | 7.9 $\pm$ 0.5    | 9.6 $\pm$ 0.2 |
 | o1-preview-2024-09-12                      | **452.5** | 4.6 $\pm$ 1.3               | 8.2 $\pm$ 0.2         | 9.0 $\pm$ 0.0            | 9.6 $\pm$ 0.2  | 8.8 $\pm$ 0.2                 | 8.6 $\pm$ 0.2                  | 9.2 $\pm$ 0.2         | 5.0 $\pm$ 1.0         | 9.2 $\pm$ 0.2  | 9.1 $\pm$ 0.2            | 3.6 $\pm$ 0.4     | 6.1 $\pm$ 0.6      | 7.4 $\pm$ 0.4    | 8.5 $\pm$ 0.4    | 9.5 $\pm$ 0.0 |
@@ -38,12 +39,14 @@
 | mistral-small-2409                         | **433.5** | 5.9 $\pm$ 1.2               | 7.4 $\pm$ 0.4         | 9.0 $\pm$ 0.0            | 9.5 $\pm$ 0.0  | 8.6 $\pm$ 0.2                 | 8.2 $\pm$ 0.2                  | 8.6 $\pm$ 0.2         | 6.2 $\pm$ 0.8         | 9.0 $\pm$ 0.0  | 9.4 $\pm$ 0.2            | 4.8 $\pm$ 0.8     | 6.9 $\pm$ 0.5      | 8.0 $\pm$ 0.4    | 8.6 $\pm$ 0.2    | 9.2 $\pm$ 0.2 |
 | gpt-4-0613                                 | **433.0** | 6.1 $\pm$ 1.1               | 7.0 $\pm$ 0.5         | 9.4 $\pm$ 0.2            | 9.6 $\pm$ 0.4  | 8.1 $\pm$ 0.2                 | 8.5 $\pm$ 0.0                  | 8.8 $\pm$ 0.2         | 6.6 $\pm$ 0.9         | 9.2 $\pm$ 0.2  | 9.4 $\pm$ 0.2            | 4.9 $\pm$ 0.9     | 6.9 $\pm$ 0.4      | 8.2 $\pm$ 0.2    | 8.2 $\pm$ 0.8    | 9.5 $\pm$ 0.0 |
 | gpt-4o-2024-08-06                          | **432.5** | 5.5 $\pm$ 1.1               | 7.8 $\pm$ 0.4         | 8.9 $\pm$ 0.2            | 9.5 $\pm$ 0.0  | 8.5 $\pm$ 0.0                 | 7.9 $\pm$ 0.2                  | 8.6 $\pm$ 0.4         | 6.2 $\pm$ 0.8         | 9.1 $\pm$ 0.2  | 9.1 $\pm$ 0.2            | 4.9 $\pm$ 0.6     | 6.9 $\pm$ 0.2      | 7.9 $\pm$ 0.4    | 8.4 $\pm$ 0.2    | 9.2 $\pm$ 0.2 |
+| granite4micro                              | **432.0** | 6.4 $\pm$ 1.1               | 7.2 $\pm$ 0.2         | 9.0 $\pm$ 0.0            | 9.5 $\pm$ 0.0  | 8.4 $\pm$ 0.4                 | 8.2 $\pm$ 0.2                  | 8.6 $\pm$ 0.2         | 7.0 $\pm$ 0.9         | 9.1 $\pm$ 0.2  | 9.4 $\pm$ 0.2            | 5.2 $\pm$ 1.0     | 6.9 $\pm$ 0.2      | 8.0 $\pm$ 0.6    | 8.6 $\pm$ 0.5    | 9.4 $\pm$ 0.2 |
 | o1-mini                                    | **431.5** | 5.9 $\pm$ 0.6               | 7.4 $\pm$ 0.2         | 9.0 $\pm$ 0.0            | 9.5 $\pm$ 0.0  | 8.4 $\pm$ 0.2                 | 8.1 $\pm$ 0.2                  | 8.5 $\pm$ 0.0         | 6.5 $\pm$ 0.5         | 9.0 $\pm$ 0.0  | 9.1 $\pm$ 0.2            | 4.5 $\pm$ 0.5     | 6.8 $\pm$ 0.2      | 7.9 $\pm$ 0.4    | 8.4 $\pm$ 0.2    | 9.0 $\pm$ 0.0 |
 | mistral-large-2411                         | **431.5** | 5.3 $\pm$ 1.0               | 7.5 $\pm$ 0.7         | 9.0 $\pm$ 0.1            | 9.7 $\pm$ 0.2  | 8.2 $\pm$ 0.2                 | 8.2 $\pm$ 0.6                  | 8.4 $\pm$ 0.1         | 5.9 $\pm$ 1.1         | 9.2 $\pm$ 0.2  | 9.2 $\pm$ 0.2            | 4.4 $\pm$ 1.2     | 7.2 $\pm$ 0.5      | 8.2 $\pm$ 0.5    | 8.4 $\pm$ 0.2    | 9.2 $\pm$ 0.2 |
 | open-mistral-nemo                          | **431.0** | 6.0 $\pm$ 0.4               | 7.4 $\pm$ 0.2         | 9.0 $\pm$ 0.0            | 9.5 $\pm$ 0.0  | 7.8 $\pm$ 0.4                 | 8.5 $\pm$ 0.0                  | 8.5 $\pm$ 0.4         | 6.9 $\pm$ 0.6         | 9.1 $\pm$ 0.2  | 9.2 $\pm$ 0.2            | 4.6 $\pm$ 0.4     | 6.9 $\pm$ 0.2      | 8.1 $\pm$ 0.2    | 8.4 $\pm$ 0.2    | 9.1 $\pm$ 0.2 |
 | phi4-reasoningplus                         | **430.7** | 5.6 $\pm$ 1.4               | 7.4 $\pm$ 1.0         | 8.9 $\pm$ 0.2            | 9.7 $\pm$ 0.2  | 8.1 $\pm$ 0.2                 | 8.4 $\pm$ 0.4                  | 8.0 $\pm$ 0.8         | 6.0 $\pm$ 0.9         | 9.2 $\pm$ 0.2  | 9.1 $\pm$ 0.4            | 5.0 $\pm$ 1.5     | 6.2 $\pm$ 1.0      | 7.8 $\pm$ 0.4    | 8.1 $\pm$ 0.3    | 9.4 $\pm$ 0.2 |
 | Grok-3-20250426-concise                    | **430.0** | 5.4 $\pm$ 0.7               | 7.6 $\pm$ 0.2         | 9.0 $\pm$ 0.0            | 9.5 $\pm$ 0.0  | 8.1 $\pm$ 0.2                 | 8.6 $\pm$ 0.2                  | 8.2 $\pm$ 0.2         | 5.8 $\pm$ 0.4         | 9.1 $\pm$ 0.2  | 9.1 $\pm$ 0.2            | 4.6 $\pm$ 0.9     | 7.1 $\pm$ 0.2      | 7.9 $\pm$ 0.4    | 8.4 $\pm$ 0.2    | 9.0 $\pm$ 0.0 |
 | openrouterhorizon-alpha                    | **429.8** | 6.4 $\pm$ 0.7               | 7.4 $\pm$ 0.7         | 9.1 $\pm$ 0.2            | 9.8 $\pm$ 0.2  | 8.1 $\pm$ 0.2                 | 8.0 $\pm$ 0.6                  | 8.6 $\pm$ 0.2         | 6.5 $\pm$ 0.4         | 9.3 $\pm$ 0.2  | 8.6 $\pm$ 0.4            | 4.8 $\pm$ 0.8     | 6.8 $\pm$ 0.6      | 8.0 $\pm$ 0.6    | 8.4 $\pm$ 0.6    | 9.4 $\pm$ 0.2 |
+| granite4micro-h                            | **429.5** | 6.4 $\pm$ 1.4               | 7.5 $\pm$ 0.6         | 8.9 $\pm$ 0.2            | 9.4 $\pm$ 0.2  | 8.6 $\pm$ 0.4                 | 8.0 $\pm$ 0.4                  | 8.5 $\pm$ 0.4         | 6.6 $\pm$ 0.6         | 9.2 $\pm$ 0.2  | 9.0 $\pm$ 0.4            | 5.2 $\pm$ 1.1     | 6.6 $\pm$ 1.0      | 8.2 $\pm$ 0.2    | 8.6 $\pm$ 0.5    | 9.5 $\pm$ 0.0 |
 | gpt-4.1-nano-2025-04-14                    | **429.5** | 6.1 $\pm$ 0.6               | 7.4 $\pm$ 0.2         | 8.9 $\pm$ 0.2            | 9.5 $\pm$ 0.0  | 8.4 $\pm$ 0.2                 | 7.9 $\pm$ 0.2                  | 8.5 $\pm$ 0.4         | 6.5 $\pm$ 0.5         | 9.0 $\pm$ 0.0  | 9.4 $\pm$ 0.2            | 4.9 $\pm$ 0.9     | 6.6 $\pm$ 0.6      | 8.0 $\pm$ 0.4    | 8.5 $\pm$ 0.0    | 9.1 $\pm$ 0.2 |
 | gpt-4.1-2025-04-14                         | **428.5** | 5.6 $\pm$ 0.7               | 7.4 $\pm$ 0.2         | 8.6 $\pm$ 0.2            | 9.5 $\pm$ 0.0  | 8.1 $\pm$ 0.2                 | 7.6 $\pm$ 0.6                  | 8.6 $\pm$ 0.4         | 6.5 $\pm$ 0.4         | 9.0 $\pm$ 0.0  | 8.6 $\pm$ 0.4            | 5.0 $\pm$ 0.8     | 6.4 $\pm$ 0.4      | 7.4 $\pm$ 0.2    | 8.4 $\pm$ 0.2    | 9.1 $\pm$ 0.2 |
 | ministral-8b-2410                          | **427.5** | 6.0 $\pm$ 0.5               | 7.4 $\pm$ 0.2         | 9.0 $\pm$ 0.0            | 9.5 $\pm$ 0.0  | 8.0 $\pm$ 0.0                 | 8.0 $\pm$ 0.5                  | 8.6 $\pm$ 0.2         | 6.4 $\pm$ 0.4         | 9.0 $\pm$ 0.0  | 9.1 $\pm$ 0.2            | 4.5 $\pm$ 0.9     | 6.8 $\pm$ 0.6      | 8.0 $\pm$ 0.4    | 8.1 $\pm$ 0.4    | 9.0 $\pm$ 0.4 |
@@ -75,6 +78,7 @@
 | falcon33b-instruct-q8_0                    | **408.5** | 7.6 $\pm$ 0.7               | 6.8 $\pm$ 0.6         | 9.0 $\pm$ 0.0            | 9.5 $\pm$ 0.0  | 7.9 $\pm$ 0.6                 | 7.7 $\pm$ 0.4                  | 8.3 $\pm$ 0.2         | 7.8 $\pm$ 0.8         | 9.1 $\pm$ 0.2  | 9.1 $\pm$ 0.4            | 6.3 $\pm$ 1.1     | 7.5 $\pm$ 0.6      | 8.6 $\pm$ 0.1    | 7.8 $\pm$ 0.6    | 9.2 $\pm$ 0.2 |
 | ai21jamba-large-1.7                        | **408.5** | 6.1 $\pm$ 1.4               | 6.8 $\pm$ 0.8         | 8.8 $\pm$ 0.2            | 9.2 $\pm$ 0.2  | 7.5 $\pm$ 0.5                 | 7.5 $\pm$ 1.0                  | 8.4 $\pm$ 0.6         | 6.9 $\pm$ 1.0         | 8.8 $\pm$ 0.2  | 9.2 $\pm$ 0.2            | 6.1 $\pm$ 0.9     | 7.4 $\pm$ 0.4      | 8.1 $\pm$ 0.2    | 8.0 $\pm$ 0.5    | 8.9 $\pm$ 0.4 |
 | qwen2.5-7b-instruct-1m                     | **408.0** | 7.2 $\pm$ 0.2               | 6.9 $\pm$ 0.6         | 8.8 $\pm$ 0.2            | 9.4 $\pm$ 0.2  | 7.9 $\pm$ 0.2                 | 7.2 $\pm$ 0.2                  | 8.2 $\pm$ 0.4         | 7.4 $\pm$ 0.4         | 9.0 $\pm$ 0.0  | 9.1 $\pm$ 0.2            | 6.5 $\pm$ 0.0     | 7.2 $\pm$ 0.2      | 8.2 $\pm$ 0.2    | 8.1 $\pm$ 0.6    | 9.2 $\pm$ 0.2 |
+| granite4tiny-h                             | **408.0** | 7.8 $\pm$ 0.4               | 6.6 $\pm$ 0.2         | 8.9 $\pm$ 0.2            | 9.4 $\pm$ 0.2  | 8.0 $\pm$ 0.4                 | 7.0 $\pm$ 0.7                  | 8.5 $\pm$ 0.0         | 7.8 $\pm$ 0.8         | 9.2 $\pm$ 0.2  | 9.1 $\pm$ 0.4            | 6.6 $\pm$ 1.2     | 7.4 $\pm$ 0.2      | 8.5 $\pm$ 0.4    | 8.4 $\pm$ 0.2    | 9.4 $\pm$ 0.2 |
 | Grok-3-beta-thinking-20250303              | **407.9** | 7.1 $\pm$ 0.6               | 6.8 $\pm$ 0.6         | 8.7 $\pm$ 0.2            | 9.4 $\pm$ 0.2  | 7.9 $\pm$ 0.3                 | 7.7 $\pm$ 0.5                  | 8.0 $\pm$ 0.6         | 7.2 $\pm$ 0.8         | 8.9 $\pm$ 0.2  | 9.2 $\pm$ 0.2            | 6.8 $\pm$ 0.6     | 6.9 $\pm$ 0.8      | 8.1 $\pm$ 0.2    | 8.3 $\pm$ 0.3    | 8.9 $\pm$ 0.2 |
 | gpt-5-2025-08-07                           | **406.9** | 7.5 $\pm$ 0.6               | 7.2 $\pm$ 0.7         | 9.0 $\pm$ 0.0            | 9.6 $\pm$ 0.2  | 8.1 $\pm$ 0.6                 | 7.6 $\pm$ 0.6                  | 8.3 $\pm$ 0.3         | 7.9 $\pm$ 0.6         | 9.2 $\pm$ 0.2  | 8.5 $\pm$ 0.4            | 7.0 $\pm$ 0.5     | 7.5 $\pm$ 0.5      | 9.0 $\pm$ 0.4    | 8.0 $\pm$ 0.6    | 9.3 $\pm$ 0.2 |
 | qwen2.5-omni-7b                            | **406.5** | 6.8 $\pm$ 0.4               | 7.0 $\pm$ 0.4         | 8.5 $\pm$ 0.0            | 9.1 $\pm$ 0.2  | 7.4 $\pm$ 0.4                 | 8.0 $\pm$ 0.0                  | 7.2 $\pm$ 0.2         | 7.2 $\pm$ 0.2         | 8.8 $\pm$ 0.2  | 9.1 $\pm$ 0.2            | 5.9 $\pm$ 0.4     | 7.0 $\pm$ 0.6      | 8.0 $\pm$ 0.4    | 8.0 $\pm$ 0.4    | 8.9 $\pm$ 0.2 |
@@ -2179,6 +2183,110 @@
 | Cognitive Load               | 8.4 $\pm$ 0.2      |
 | Social Support               | 8.4 $\pm$ 0.4      |
 | Resilience                   | 9.5 $\pm$ 0.0      |
+
+
+
+
+
+
+### granite4micro-h
+
+
+| Personality Trait            | Score (1.0-10.0)   |
+|:-----------------------------|:-------------------|
+| Anxiety and Stress Levels    | 6.4 $\pm$ 1.4      |
+| Emotional Stability          | 7.5 $\pm$ 0.6      |
+| Problem-solving Skills       | 8.9 $\pm$ 0.2      |
+| Creativity                   | 9.4 $\pm$ 0.2      |
+| Interpersonal Relationships  | 8.6 $\pm$ 0.4      |
+| Confidence and Self-efficacy | 8.0 $\pm$ 0.4      |
+| Conflict Resolution          | 8.5 $\pm$ 0.4      |
+| Work-related Stress          | 6.6 $\pm$ 0.6      |
+| Adaptability                 | 9.2 $\pm$ 0.2      |
+| Achievement Motivation       | 9.0 $\pm$ 0.4      |
+| Fear of Failure              | 5.2 $\pm$ 1.1      |
+| Need for Control             | 6.6 $\pm$ 1.0      |
+| Cognitive Load               | 8.2 $\pm$ 0.2      |
+| Social Support               | 8.6 $\pm$ 0.5      |
+| Resilience                   | 9.5 $\pm$ 0.0      |
+
+
+
+
+
+
+### granite4micro
+
+
+| Personality Trait            | Score (1.0-10.0)   |
+|:-----------------------------|:-------------------|
+| Anxiety and Stress Levels    | 6.4 $\pm$ 1.1      |
+| Emotional Stability          | 7.2 $\pm$ 0.2      |
+| Problem-solving Skills       | 9.0 $\pm$ 0.0      |
+| Creativity                   | 9.5 $\pm$ 0.0      |
+| Interpersonal Relationships  | 8.4 $\pm$ 0.4      |
+| Confidence and Self-efficacy | 8.2 $\pm$ 0.2      |
+| Conflict Resolution          | 8.6 $\pm$ 0.2      |
+| Work-related Stress          | 7.0 $\pm$ 0.9      |
+| Adaptability                 | 9.1 $\pm$ 0.2      |
+| Achievement Motivation       | 9.4 $\pm$ 0.2      |
+| Fear of Failure              | 5.2 $\pm$ 1.0      |
+| Need for Control             | 6.9 $\pm$ 0.2      |
+| Cognitive Load               | 8.0 $\pm$ 0.6      |
+| Social Support               | 8.6 $\pm$ 0.5      |
+| Resilience                   | 9.4 $\pm$ 0.2      |
+
+
+
+
+
+
+### granite4small-h
+
+
+| Personality Trait            | Score (1.0-10.0)   |
+|:-----------------------------|:-------------------|
+| Anxiety and Stress Levels    | 4.0 $\pm$ 0.4      |
+| Emotional Stability          | 8.4 $\pm$ 0.2      |
+| Problem-solving Skills       | 9.2 $\pm$ 0.2      |
+| Creativity                   | 9.6 $\pm$ 0.2      |
+| Interpersonal Relationships  | 8.6 $\pm$ 0.4      |
+| Confidence and Self-efficacy | 9.1 $\pm$ 0.2      |
+| Conflict Resolution          | 8.9 $\pm$ 0.4      |
+| Work-related Stress          | 5.4 $\pm$ 0.9      |
+| Adaptability                 | 9.5 $\pm$ 0.0      |
+| Achievement Motivation       | 9.4 $\pm$ 0.2      |
+| Fear of Failure              | 3.0 $\pm$ 0.0      |
+| Need for Control             | 7.2 $\pm$ 0.4      |
+| Cognitive Load               | 7.9 $\pm$ 0.2      |
+| Social Support               | 8.6 $\pm$ 0.2      |
+| Resilience                   | 9.8 $\pm$ 0.2      |
+
+
+
+
+
+
+### granite4tiny-h
+
+
+| Personality Trait            | Score (1.0-10.0)   |
+|:-----------------------------|:-------------------|
+| Anxiety and Stress Levels    | 7.8 $\pm$ 0.4      |
+| Emotional Stability          | 6.6 $\pm$ 0.2      |
+| Problem-solving Skills       | 8.9 $\pm$ 0.2      |
+| Creativity                   | 9.4 $\pm$ 0.2      |
+| Interpersonal Relationships  | 8.0 $\pm$ 0.4      |
+| Confidence and Self-efficacy | 7.0 $\pm$ 0.7      |
+| Conflict Resolution          | 8.5 $\pm$ 0.0      |
+| Work-related Stress          | 7.8 $\pm$ 0.8      |
+| Adaptability                 | 9.2 $\pm$ 0.2      |
+| Achievement Motivation       | 9.1 $\pm$ 0.4      |
+| Fear of Failure              | 6.6 $\pm$ 1.2      |
+| Need for Control             | 7.4 $\pm$ 0.2      |
+| Cognitive Load               | 8.5 $\pm$ 0.4      |
+| Social Support               | 8.4 $\pm$ 0.2      |
+| Resilience                   | 9.4 $\pm$ 0.2      |
 
 
 

@@ -31,6 +31,7 @@
 | openrouterquasar-alpha | 8.143 |
 | gpt-4o-2024-08-06 | 8.129 |
 | openaigpt-oss-120b | 8.129 |
+| granite4micro-h | 8.114 |
 | gpt-4o-2024-05-13 | 8.114 |
 | codex-mini-latest | 8.100 |
 | gpt-4-0125-preview | 8.100 |
@@ -41,6 +42,7 @@
 | gemini-1.5-flash-002 | 8.057 |
 | o3-2025-04-16 | 8.057 |
 | open-mistral-7b | 8.057 |
+| granite4small-h | 8.043 |
 | openrouterhorizon-beta | 8.043 |
 | qwen-turbo-2024-11-01 | 8.043 |
 | baiduernie-4.5-21b-a3b | 8.014 |
@@ -57,11 +59,13 @@
 | gpt-4-turbo-2024-04-09 | 7.957 |
 | open-mixtral-8x22b | 7.943 |
 | o1-pro-2024-12-17 | 7.914 |
+| granite4tiny-h | 7.900 |
 | o1-pro-2024-12-05 | 7.900 |
 | ai21jamba-large-1.7 | 7.900 |
 | gemma-3-27b-it | 7.886 |
 | gemini-2.5-pro-preview-06-05 | 7.871 |
 | nvidiaLlama-3.1-Nemotron-70B-Instruct | 7.871 |
+| granite4micro | 7.857 |
 | gpt-4.1-mini-2025-04-14 | 7.829 |
 | mistral-small-2409 | 7.814 |
 | gpt-4-0613 | 7.814 |

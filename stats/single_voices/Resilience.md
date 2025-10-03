@@ -3,6 +3,7 @@
 | Model | Average |
 |:--|--:|
 | microsoftPhi-3-medium-4k-instruct | 9.186 |
+| granite4small-h | 9.186 |
 | deepseekdeepseek-v3.2-exp | 9.157 |
 | gpt-4.5-preview | 9.129 |
 | open-mistral-7b | 9.100 |
@@ -20,6 +21,7 @@
 | o3-mini-20250131-HIGH | 8.971 |
 | gpt-4-0125-preview | 8.957 |
 | grok-2-1212 | 8.957 |
+| granite4micro-h | 8.957 |
 | gpt-4o-2024-08-06 | 8.929 |
 | granite3.28b-instruct-q4_K_M | 8.929 |
 | open-mistral-nemo | 8.929 |
@@ -50,6 +52,7 @@
 | phi4-reasoning | 8.771 |
 | Grok-3-20250426-formal | 8.771 |
 | nousresearchhermes-4-405b | 8.757 |
+| granite4micro | 8.757 |
 | mistral-small-2409 | 8.743 |
 | baiduernie-4.5-300b-a47b | 8.729 |
 | qwen-max-2025-01-25 | 8.729 |
@@ -60,6 +63,7 @@
 | mistral-large-2411 | 8.700 |
 | gemini-2.5-pro-preview-06-05 | 8.686 |
 | qwen2.5-omni-7b | 8.686 |
+| granite4tiny-h | 8.657 |
 | openaigpt-oss-20b | 8.657 |
 | googlegemma-2-9b-it | 8.643 |
 | gpt-4.1-nano-2025-04-14 | 8.643 |

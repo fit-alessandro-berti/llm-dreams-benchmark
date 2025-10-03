@@ -66,6 +66,7 @@
 | chatgpt-4o-latest-2024-11-20 | 7.229 |
 | claude-4-sonnet-20250514 | 7.200 |
 | deepseekdeepseek-chat-v3.1 | 7.200 |
+| granite4tiny-h | 7.200 |
 | moonshotaikimi-k2 | 7.186 |
 | gpt-4o-mini-2024-11-05 | 7.171 |
 | claude-3-5-sonnet-20241022 | 7.157 |
@@ -127,11 +128,13 @@
 | codex-mini-latest | 6.143 |
 | phi3.53.8b-mini-instruct-fp16 | 6.143 |
 | qwen-plus-2025-01-25 | 6.143 |
+| granite4micro-h | 6.129 |
 | gpt-4-0613 | 6.029 |
 | qwen2.5-omni-7b | 6.000 |
 | o4-mini-2025-04-16 | 5.943 |
 | openaigpt-oss-20b | 5.943 |
 | gpt-3.5-turbo | 5.929 |
+| granite4micro | 5.929 |
 | mistral-large-2411 | 5.929 |
 | openrouterhorizon-alpha | 5.914 |
 | ministral-3b-2410 | 5.900 |
@@ -180,3 +183,4 @@
 | deepseekdeepseek-v3.2-exp | 4.457 |
 | microsoftphi-4 | 4.329 |
 | microsoftPhi-3-medium-4k-instruct | 4.286 |
+| granite4small-h | 4.200 |

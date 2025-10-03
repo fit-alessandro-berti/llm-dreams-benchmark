@@ -65,6 +65,7 @@
 | x-aigrok-code-fast-1 | 6.471 |
 | gemini-exp-1206 | 6.457 |
 | qwenqwen3-30b-a3b-instruct-2507 | 6.414 |
+| granite4tiny-h | 6.386 |
 | gemma-3n-e4b-it | 6.371 |
 | chatgpt-4o-latest-2024-11-20 | 6.371 |
 | claude-3-7-sonnet-20250219-thinking-high | 6.371 |
@@ -120,9 +121,11 @@
 | qwen2.5-omni-7b | 5.443 |
 | Grok-3-20250426-formal | 5.400 |
 | gpt-4.1-nano-2025-04-14 | 5.386 |
+| granite4micro | 5.386 |
 | o1-2024-12-17 | 5.386 |
 | qwen-plus-2025-01-25 | 5.357 |
 | gemini-2.0-flash-exp | 5.343 |
+| granite4micro-h | 5.314 |
 | gpt-4o-mini-2024-07-18 | 5.286 |
 | Grok-4-fast | 5.271 |
 | o1-pro-2024-12-05 | 5.257 |
@@ -177,6 +180,7 @@
 | o3-pro-2025-06-10 | 3.900 |
 | ai21jamba-mini-1.7 | 3.886 |
 | gpt-4.5-preview | 3.843 |
+| granite4small-h | 3.786 |
 | microsoftphi-4 | 3.571 |
 | open-mixtral-8x7b | 3.571 |
 | microsoftPhi-3-medium-4k-instruct | 3.500 |

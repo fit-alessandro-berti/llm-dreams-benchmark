@@ -131,12 +131,14 @@
 | qwen2.5-32b-instruct | 9.229 |
 | baiduernie-4.5-300b-a47b | 9.214 |
 | codestral-2501 | 9.214 |
+| granite4tiny-h | 9.214 |
 | phi3.53.8b-mini-instruct-fp16 | 9.214 |
 | gpt-4.1-nano-2025-04-14 | 9.200 |
 | nousresearchhermes-4-70b | 9.200 |
 | mistral-medium-2505 | 9.200 |
 | mistral-small-2501 | 9.186 |
 | devstral-small-2505 | 9.186 |
+| granite4small-h | 9.186 |
 | Grok-3-20250426-formal | 9.186 |
 | ministral-3b-2410 | 9.186 |
 | falcon33b-instruct-q8_0 | 9.171 |
@@ -155,6 +157,7 @@
 | gpt-4o-mini-2024-11-05 | 9.100 |
 | nvidiallama-3.1-nemotron-nano-8b-v1 | 9.100 |
 | qwen2.5-7b-instruct-1m | 9.100 |
+| granite4micro | 9.086 |
 | Grok-3-beta-thinking-20250303 | 9.086 |
 | qwen2.5-72b-instruct | 9.086 |
 | qwen31.7b | 9.086 |
@@ -165,6 +168,7 @@
 | smollm21.7b-instruct-q6_K | 9.057 |
 | gpt-3.5-turbo | 9.057 |
 | mistral-small-2506 | 9.057 |
+| granite4micro-h | 9.043 |
 | meta-llamallama-4-scout | 9.043 |
 | qwen2.5-7b-instruct | 9.043 |
 | qwen-plus-0428 | 9.029 |

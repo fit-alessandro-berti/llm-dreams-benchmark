@@ -19,12 +19,14 @@
 | openrouterhorizon-alpha | 8.071 |
 | gpt-4.5-preview | 8.057 |
 | gpt-4o-2024-05-13 | 8.014 |
+| granite4micro-h | 8.014 |
 | qwen-turbo-2024-11-01 | 8.000 |
 | gpt-4o-2024-08-06 | 8.000 |
 | gpt-4o-mini-2024-07-18 | 8.000 |
 | o1-mini | 7.986 |
 | open-mistral-7b | 7.971 |
 | gpt-5-mini-2025-08-07 | 7.957 |
+| granite4small-h | 7.957 |
 | microsoftphi-4 | 7.957 |
 | falcon310b-instruct-q8_0 | 7.943 |
 | openaigpt-oss-120b | 7.929 |
@@ -36,6 +38,7 @@
 | nousresearchhermes-4-405b | 7.886 |
 | gpt-4.1-2025-04-14 | 7.871 |
 | mistral-large-2407 | 7.871 |
+| granite4micro | 7.871 |
 | deepseekdeepseek-v3.2-exp | 7.843 |
 | codex-mini-latest | 7.843 |
 | openrouterhorizon-beta | 7.829 |
@@ -69,6 +72,7 @@
 | mistral-small-2503 | 7.543 |
 | deepseek-aiDeepSeek-V3 | 7.529 |
 | qwen2.5-omni-7b | 7.514 |
+| granite4tiny-h | 7.500 |
 | o1-pro-2024-12-05 | 7.486 |
 | openroutersonoma-sky-alpha | 7.486 |
 | nvidiallama-3.1-nemotron-ultra-253b-v1free | 7.471 |

@@ -5,6 +5,7 @@
 | microsoftPhi-3-medium-4k-instruct | 8.671 |
 | qwen2.5-14b-instruct | 8.557 |
 | open-mixtral-8x22b | 8.514 |
+| granite4small-h | 8.500 |
 | open-mixtral-8x7b | 8.457 |
 | ai21jamba-mini-1.7 | 8.443 |
 | gpt-3.5-turbo | 8.429 |
@@ -72,6 +73,7 @@
 | baiduernie-4.5-300b-a47b | 7.571 |
 | exaone-deep7.8b-fp16 | 7.571 |
 | openrouterhorizon-beta | 7.557 |
+| granite4micro-h | 7.543 |
 | qwen2.5-7b-instruct | 7.543 |
 | o1-2024-12-17 | 7.543 |
 | DeepSeek-R1-Lite-Preview | 7.514 |
@@ -79,6 +81,7 @@
 | devstral-small-2505 | 7.500 |
 | ai21jamba-large-1.7 | 7.486 |
 | gpt-5-chat-latest-2025-08-19 | 7.486 |
+| granite4micro | 7.471 |
 | chatgpt-4o-latest-2025-04-26 | 7.457 |
 | deepseek-aiDeepSeek-R1-Zero | 7.429 |
 | chatgpt-4o-latest-2025-03-26 | 7.414 |
@@ -117,6 +120,7 @@
 | nvidianemotron-nano-9b-v2 | 7.057 |
 | Gemini-1.5-Pro-Exp-0827 | 6.986 |
 | qwen-plus-0428 | 6.971 |
+| granite4tiny-h | 6.971 |
 | claude-3-7-sonnet-20250219-thinking-high | 6.957 |
 | claude-3-5-sonnet-20241022 | 6.957 |
 | meta-llamaMeta-Llama-3.1-405B-Instruct | 6.957 |

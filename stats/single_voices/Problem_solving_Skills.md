@@ -8,6 +8,7 @@
 | deepseekdeepseek-v3.2-exp | 8.914 |
 | qwen2.5-14b-instruct | 8.914 |
 | granite3.28b-instruct-q4_K_M | 8.886 |
+| granite4small-h | 8.886 |
 | o3-2025-04-16 | 8.871 |
 | microsoftphi-4 | 8.871 |
 | qwen-turbo-2024-11-01 | 8.829 |
@@ -54,6 +55,8 @@
 | o1-preview-2024-09-12 | 8.586 |
 | gpt-4.1-mini-2025-04-14 | 8.571 |
 | gpt-5-2025-08-07 | 8.571 |
+| granite4micro | 8.557 |
+| granite4micro-h | 8.557 |
 | mistral-small-2409 | 8.557 |
 | mistral-small-2501 | 8.557 |
 | o1-pro-2024-12-17 | 8.543 |
@@ -69,6 +72,7 @@
 | qwen-plus-2025-01-25 | 8.514 |
 | qwen30.6b | 8.514 |
 | ai21jamba-large-1.7 | 8.500 |
+| granite4tiny-h | 8.500 |
 | nvidiaLlama-3.1-Nemotron-70B-Instruct | 8.500 |
 | o1-2024-12-05 | 8.500 |
 | phi4-reasoningplus | 8.500 |

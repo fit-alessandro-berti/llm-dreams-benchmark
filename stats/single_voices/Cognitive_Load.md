@@ -79,6 +79,7 @@
 | nvidiaLlama-3.1-Nemotron-70B-Instruct | 7.757 |
 | nvidiallama-3.3-nemotron-super-49b-v1 | 7.757 |
 | gemini-2.5-pro-preview-05-06 | 7.729 |
+| granite4tiny-h | 7.729 |
 | nvidianemotron-nano-9b-v2 | 7.729 |
 | Gemini-1.5-Pro-Exp-0827 | 7.714 |
 | chatgpt-4o-latest-2024-11-20 | 7.700 |
@@ -118,6 +119,7 @@
 | gpt-4-1106-preview | 7.414 |
 | qwen-plus-2025-01-25 | 7.414 |
 | googlegemma-2-9b-it | 7.400 |
+| granite4micro-h | 7.400 |
 | chatgpt-4o-latest-2025-03-26 | 7.371 |
 | o1-2024-12-05 | 7.371 |
 | o1-pro-2024-12-17 | 7.371 |
@@ -127,6 +129,7 @@
 | open-mistral-nemo | 7.357 |
 | qwen2.5-14b-instruct | 7.357 |
 | Grok-3-20250426-concise | 7.357 |
+| granite4micro | 7.343 |
 | nousresearchhermes-4-405b | 7.343 |
 | gpt-4.1-nano-2025-04-14 | 7.329 |
 | qwen2.51.5b-instruct-q6_K | 7.329 |
@@ -159,6 +162,7 @@
 | mistral-small-2503 | 7.157 |
 | microsoftWizardLM-2-8x22B | 7.129 |
 | o1-mini | 7.129 |
+| granite4small-h | 7.129 |
 | phi4-reasoningplus | 7.086 |
 | deepseekdeepseek-v3.2-exp | 7.057 |
 | phi4-reasoning | 7.057 |

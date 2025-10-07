@@ -1,0 +1,43 @@
+…you notice the puzzles begin to notice you back.
+
+At first they’re clean, Euclidean. A floor of black and white tiles flips color whenever you step; the door unlocks only if every tile ends light. You stop, count, and realize parity is your ally. You trace a path that touches each tile an odd number of times and the room exhales. The next chamber holds three hourglasses and a lock that reads: **5 minutes**. The grains don’t match their labels, but they do add. You start two, wait, invert, keep a running ledger in your head. When the sand in the smallest runs out twice, the door opens with a sound like a pencil lifted from paper.
+
+Deeper in, the walls bow inward, the corridors bend as if remembering you. A gate of brass asks a question in etched lines: **What remains the same when everything changes?** You answer aloud without thinking—“the rule itself”—and the gate swings wide, not from the cleverness, but from the recognition. The maze is teaching you its grammar. It rewards invariants, punishes guesses, uses paradox the way a river uses stones.
+
+A pair of identical doors appears. Each is attended by a smiling figure. One tells the truth, one lies—so says the placard, almost embarrassed by its own cliché. You ask each guard what the other would claim, take the opposite door, and step through into a hallway of framed proofs. On the walls: **Base Case** carved above a step, and beyond it **Inductive Step** repeats into shadow. You climb by breathing, which feels like cheating, but the stairs agree: if you can do it once, and if one breath enables the next, then you can do it any number of times. Near the landing, you realize that induction is not about steps at all, but about trust—something you haven’t given yourself in a while.
+
+The maze grows quieter. Puzzles soften, taking the shapes of your habits. A room of mirrors asks you to find the one that doesn’t reverse you. You pass by your grinning, wrong-handed reflections until you notice a pane that returns your face forward but shifts your posture to match how you feel instead of how you stand. You touch it. It’s warmer than glass. Behind it, a key hangs from a hook labeled **Eventually**. You take it now.
+
+Further in, a long corridor widens into a grid of low walls—a logic maze where plaques at intersections state rules that contradict one another:
+
+* **All paths with torches are dead ends.**
+* **At least one path with torches leads forward.**
+* **If you turn left here, you will forget why.**
+
+You try to reconcile them and realize the trick: the statements aren’t laws. They’re predictions. You can make them wrong by choosing differently. You test it. You turn left, narrate your reason—*because left smells faintly of cedar and I’m curious*—and the forgetting dissolves like sugar. You begin to understand the maze isn’t measuring correctness. It’s measuring presence.
+
+Now the puzzles press closer. Their difficulty isn’t in logic anymore but in cost. In one chamber, nine pedestals hold nine stones. Each stone bears a word: **Regret**, **Pride**, **Anger**, **Joy**, **Fear**, **Patience**, **Shame**, **Hope**, **Control**. A scale waits, empty. The inscription says: **Balance to pass.** You place **Fear** opposite **Curiosity**—(you find **Curiosity** only when you turn **Control** over and see the second word etched beneath). The arm teeters, settles. You stack **Regret** with **Hope**, **Anger** with **Boundaries** (which you discover hiding under **Pride**). The beam levels. The door yields.
+
+Another room is colder, bright as a theorem. A chessboard stretches to the walls, and at its center sits a knight and a king; the lock above the far door reads: **Minimum moves**. You count squares, trace L-shapes with your finger, and plot a shortest path. But the moment you try to move the knight, it refuses. On the underside of the piece, faint: **You are not obligated to solve everything optimally.** The door opens anyway. You laugh, surprised at the relief.
+
+The air changes. You arrive at a chamber with no puzzle evident, only a table and a single coin. One side is stamped with a circle, the other with a circle broken by a small gap. A note says: **Flip until you learn what it is for.** You flip it once and it lands on the broken circle. The torchlight flickers, but does not change. You carry the coin forward, turning it in your hand. Soon you notice something ordinary and impossible: no matter how cold the rooms become, the coin stays warm. It isn’t luck. It’s an invariant you can pocket. You test it—touch the coin when you’re unsure, and the room waits. You touch it when tempted to rush, and the path clarifies. The coin does not tell you what to do. It reminds you that some part of you can remain steady while you decide.
+
+At last, a final door. It has no handle, only a smooth slab of slate and a piece of chalk. On the stone someone has written: **Prove you are dreaming.** You know the old methods. Count fingers. Read a line twice. Try to push your hand through the wall. But the maze has taught you its language, and you want to answer in kind.
+
+You begin a proof by contradiction.
+
+1. Assume you are awake.
+2. If you are awake, the maze’s rules would be external, fixed, and indifferent.
+3. Test: declare a new rule—*In this room, a door appears when I accept that not all problems must be solved to move on.*
+4. Observe: the slate quivers. Chalk dust lifts, then curls into the outline of a door where there was none.
+5. The system responds to acceptance rather than to force.
+
+From (2) and (5), contradiction. Therefore, you are dreaming.
+
+You sign the proof with a small circle, then break it with a gap, a private echo of the coin. The door opens into a space that is not a room but an outdoors you can’t quite place. The sky looks accurate but unconcerned with being believed. A path runs through low grass. You step onto it and feel the dream thinning like a page held to the sun.
+
+There is one more inscription at the threshold. It’s not carved. It just arrives in your head at the volume of a whisper you cannot ignore: **Take one thing back.**
+
+You consider the coin, the key labeled **Eventually**, the knowledge that optimal is optional, the habit of explaining your turns so you remember why. You know the trick by now. The choice isn’t a puzzle; it’s a commitment. You pick something small and sturdy. You pick the practice of naming the reason before you turn. It feels like an invariant you can keep even when you wake.
+
+Grass underfoot. The path narrows. Your focus softens the way it does at the end of a deep breath. The maze fades, but not in a way that loses you; it releases you. The last thing you feel is the coin’s warmth in your palm, which is really your own—steady, ordinary, enough. Then the room returns, or the morning does, and you carry with you the new rule you wrote on the wall: not all problems have to be solved before you can move forward.

@@ -47,6 +47,7 @@
 | o1-pro-2024-12-05 | 8.814 |
 | codestral-2501 | 8.786 |
 | gpt-4o-2024-05-13 | 8.786 |
+| gpt-5-pro-2025-10-06 | 8.786 |
 | qwen2.5-32b-instruct | 8.786 |
 | openrouterquasar-alpha | 8.771 |
 | phi4-reasoning | 8.771 |

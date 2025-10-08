@@ -96,6 +96,7 @@
 | gemini-1.5-flash-002 | 6.886 |
 | nousresearchhermes-4-405b | 6.886 |
 | nvidiallama-3.1-nemotron-ultra-253b-v1free | 6.829 |
+| gpt-5-pro-2025-10-06 | 6.786 |
 | smollm21.7b-instruct-q6_K | 6.786 |
 | qwenqwen3-30b-a3b-instruct-2507 | 6.771 |
 | devstral-small-2505 | 6.757 |

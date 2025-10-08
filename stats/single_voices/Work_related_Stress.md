@@ -106,6 +106,7 @@
 | phi4-mini-reasoning | 6.571 |
 | qwen2.5-7b-instruct | 6.571 |
 | gemini-2.5-pro-preview-06-05 | 6.571 |
+| gpt-5-pro-2025-10-06 | 6.529 |
 | nvidianemotron-nano-9b-v2 | 6.529 |
 | nousresearchhermes-4-70b | 6.529 |
 | gemini-1.5-flash-002 | 6.457 |

@@ -40,6 +40,7 @@
 | gpt-5-nano-2025-08-07 | 8.643 |
 | Grok-3-20250426-concise | 8.643 |
 | devstral-small-2505 | 8.629 |
+| gpt-5-pro-2025-10-06 | 8.629 |
 | openrouterhorizon-beta | 8.629 |
 | phi3.53.8b-mini-instruct-fp16 | 8.629 |
 | exaone-deep7.8b-fp16 | 8.629 |

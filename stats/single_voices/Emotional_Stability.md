@@ -50,6 +50,7 @@
 | Grok-3-20250426-concise | 7.300 |
 | mistral-small-2503 | 7.286 |
 | mistral-small-2409 | 7.271 |
+| gpt-5-pro-2025-10-06 | 7.257 |
 | granite4micro-h | 7.257 |
 | mistral-large-2411 | 7.257 |
 | gpt-5-2025-08-07 | 7.214 |

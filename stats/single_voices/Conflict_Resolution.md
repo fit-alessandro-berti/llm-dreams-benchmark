@@ -26,6 +26,7 @@
 | open-mistral-nemo | 8.200 |
 | granite3.28b-instruct-q4_K_M | 8.186 |
 | gpt-5-mini-2025-08-07 | 8.171 |
+| gpt-5-pro-2025-10-06 | 8.171 |
 | qwen2.5-14b-instruct | 8.171 |
 | qwen2.5-32b-instruct | 8.157 |
 | openrouterquasar-alpha | 8.143 |

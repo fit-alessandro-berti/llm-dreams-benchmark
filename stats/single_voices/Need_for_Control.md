@@ -129,6 +129,7 @@
 | codex-mini-latest | 5.971 |
 | gpt-4.1-nano-2025-04-14 | 5.971 |
 | nvidianemotron-nano-9b-v2 | 5.957 |
+| gpt-5-pro-2025-10-06 | 5.943 |
 | o1-pro-2024-12-05 | 5.929 |
 | openrouterhorizon-alpha | 5.914 |
 | qwen-plus-2025-01-25 | 5.900 |

@@ -32,6 +32,7 @@
 | open-mistral-nemo | 7.914 |
 | granite4small-h | 7.900 |
 | gpt-4o-2024-05-13 | 7.871 |
+| gpt-5-pro-2025-10-06 | 7.871 |
 | ministral-3b-2410 | 7.871 |
 | gpt-4.1-2025-04-14 | 7.843 |
 | granite4micro | 7.843 |

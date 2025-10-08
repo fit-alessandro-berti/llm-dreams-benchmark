@@ -134,6 +134,7 @@
 | gpt-4.1-nano-2025-04-14 | 7.329 |
 | qwen2.51.5b-instruct-q6_K | 7.329 |
 | mistral-large-2411 | 7.314 |
+| gpt-5-pro-2025-10-06 | 7.314 |
 | mistral-small-2409 | 7.314 |
 | codex-mini-latest | 7.300 |
 | falcon310b-instruct-q8_0 | 7.271 |

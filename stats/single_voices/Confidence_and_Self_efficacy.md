@@ -107,6 +107,7 @@
 | smollm21.7b-instruct-q6_K | 7.171 |
 | chatgpt-4o-latest-2024-11-20 | 7.157 |
 | gpt-4o-mini-2024-11-05 | 7.157 |
+| gpt-5-pro-2025-10-06 | 7.157 |
 | gemini-2.5-flash-lite-preview-06-17 | 7.143 |
 | qwenqwen3-next-80b-a3b-thinking | 7.129 |
 | deepseekdeepseek-chat-v3.1 | 7.114 |

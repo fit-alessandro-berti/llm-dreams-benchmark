@@ -144,6 +144,7 @@
 | claude-3-7-sonnet-20250219 | 8.114 |
 | qwenqwen3-next-80b-a3b-thinking | 8.114 |
 | gpt-5-2025-08-07 | 8.100 |
+| gpt-5-pro-2025-10-06 | 8.100 |
 | grok-4-0709 | 8.100 |
 | grok-3-mini-beta | 8.071 |
 | mistral-medium-2505 | 8.057 |

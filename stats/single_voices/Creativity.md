@@ -71,6 +71,7 @@
 | gpt-5-chat-latest-2025-08-19 | 9.371 |
 | gpt-5-nano-2025-08-07 | 9.371 |
 | gemini-2.0-flash-exp | 9.357 |
+| gpt-5-pro-2025-10-06 | 9.357 |
 | openrouteroptimus-alpha | 9.357 |
 | gpt-4-0613 | 9.343 |
 | gpt-4.1-mini-2025-04-14 | 9.343 |

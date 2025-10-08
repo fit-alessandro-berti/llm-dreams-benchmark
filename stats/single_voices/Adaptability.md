@@ -26,6 +26,7 @@
 | openaigpt-oss-120b | 8.957 |
 | gpt-5-nano-2025-08-07 | 8.943 |
 | deepseekdeepseek-v3.2-exp | 8.929 |
+| gpt-5-pro-2025-10-06 | 8.929 |
 | Grok-4-fast | 8.929 |
 | falcon37b-instruct-q8_0 | 8.929 |
 | open-mistral-7b | 8.914 |

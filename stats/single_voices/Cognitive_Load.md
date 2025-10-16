@@ -140,6 +140,7 @@
 | falcon310b-instruct-q8_0 | 7.271 |
 | gpt-4o-2024-05-13 | 7.271 |
 | mistral-large-2407 | 7.257 |
+| claude-haiku-4-5-20251001 | 7.243 |
 | gpt-4o-mini-2024-07-18 | 7.243 |
 | qwen-turbo-2024-11-01 | 7.243 |
 | ai21jamba-mini-1.7 | 7.229 |

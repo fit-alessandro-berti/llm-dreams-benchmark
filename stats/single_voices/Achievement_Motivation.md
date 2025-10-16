@@ -183,5 +183,6 @@
 | gemma34b-it-q8_0 | 7.500 |
 | gemini-2.5-flash-preview-05-20 | 7.500 |
 | anthropicclaude-opus-4.1 | 7.400 |
+| claude-haiku-4-5-20251001 | 7.386 |
 | anthropicclaude-sonnet-4.5 | 7.200 |
 | qwen2.51.5b-instruct-q6_K | 7.100 |

@@ -112,6 +112,7 @@
 | claude-3-7-sonnet-20250219                 | **372.4** | 7.5 $\pm$ 0.0               | 5.5 $\pm$ 0.0         | 8.0 $\pm$ 0.0            | 9.4 $\pm$ 0.2 | 6.5 $\pm$ 0.0                 | 6.0 $\pm$ 0.0                  | 7.0 $\pm$ 0.0         | 7.9 $\pm$ 0.1         | 8.4 $\pm$ 0.2  | 7.5 $\pm$ 0.0            | 6.6 $\pm$ 0.1     | 6.1 $\pm$ 0.1      | 7.4 $\pm$ 0.1    | 6.9 $\pm$ 0.1    | 7.7 $\pm$ 0.2 |
 | moonshotaikimi-k2                          | **372.3** | 7.5 $\pm$ 0.0               | 5.6 $\pm$ 0.2         | 8.1 $\pm$ 0.2            | 9.5 $\pm$ 0.0 | 6.6 $\pm$ 0.2                 | 6.1 $\pm$ 0.2                  | 6.9 $\pm$ 0.2         | 7.6 $\pm$ 0.3         | 8.2 $\pm$ 0.2  | 7.7 $\pm$ 0.3            | 6.7 $\pm$ 0.1     | 5.6 $\pm$ 0.4      | 7.8 $\pm$ 0.2    | 6.6 $\pm$ 0.5    | 7.7 $\pm$ 0.2 |
 | claude-3-7-sonnet-20250219-thinking-high   | **372.1** | 7.5 $\pm$ 0.0               | 5.5 $\pm$ 0.0         | 8.0 $\pm$ 0.0            | 9.5 $\pm$ 0.0 | 6.5 $\pm$ 0.0                 | 6.0 $\pm$ 0.0                  | 7.0 $\pm$ 0.0         | 7.9 $\pm$ 0.1         | 8.4 $\pm$ 0.2  | 7.5 $\pm$ 0.0            | 6.9 $\pm$ 0.1     | 6.4 $\pm$ 0.1      | 7.3 $\pm$ 0.2    | 7.1 $\pm$ 0.2    | 7.8 $\pm$ 0.2 |
+| claude-haiku-4-5-20251001                  | **371.9** | 6.5 $\pm$ 0.0               | 6.2 $\pm$ 0.3         | 7.4 $\pm$ 0.1            | 9.0 $\pm$ 0.0 | 6.5 $\pm$ 0.0                 | 6.4 $\pm$ 0.5                  | 6.2 $\pm$ 0.7         | 6.7 $\pm$ 0.3         | 8.0 $\pm$ 0.0  | 7.1 $\pm$ 0.4            | 6.0 $\pm$ 0.4     | 5.1 $\pm$ 0.2      | 7.2 $\pm$ 0.2    | 6.7 $\pm$ 0.2    | 7.5 $\pm$ 0.3 |
 | meta-llamaLlama-3.2-3B-Instruct            | **371.8** | 7.5 $\pm$ 0.0               | 5.5 $\pm$ 0.0         | 7.9 $\pm$ 0.1            | 9.0 $\pm$ 0.1 | 6.7 $\pm$ 0.2                 | 6.1 $\pm$ 0.2                  | 6.8 $\pm$ 0.5         | 7.5 $\pm$ 0.5         | 8.0 $\pm$ 0.4  | 8.4 $\pm$ 0.2            | 6.6 $\pm$ 0.1     | 6.2 $\pm$ 0.5      | 7.4 $\pm$ 0.1    | 7.1 $\pm$ 0.4    | 7.5 $\pm$ 0.3 |
 | exaone-deep7.8b-fp16                       | **371.5** | 7.5 $\pm$ 0.0               | 5.9 $\pm$ 0.2         | 8.2 $\pm$ 0.2            | 8.8 $\pm$ 0.2 | 6.9 $\pm$ 0.2                 | 6.4 $\pm$ 0.2                  | 7.0 $\pm$ 0.6         | 7.1 $\pm$ 0.2         | 7.9 $\pm$ 0.2  | 8.4 $\pm$ 0.2            | 6.5 $\pm$ 0.0     | 6.8 $\pm$ 0.4      | 7.6 $\pm$ 0.2    | 7.0 $\pm$ 0.4    | 7.8 $\pm$ 0.4 |
 | chatgpt-4o-latest-2025-04-26               | **371.4** | 7.5 $\pm$ 0.0               | 5.5 $\pm$ 0.0         | 8.0 $\pm$ 0.0            | 9.5 $\pm$ 0.0 | 6.5 $\pm$ 0.0                 | 6.2 $\pm$ 0.3                  | 6.5 $\pm$ 0.4         | 7.4 $\pm$ 0.5         | 8.4 $\pm$ 0.1  | 7.9 $\pm$ 0.4            | 6.6 $\pm$ 0.2     | 5.8 $\pm$ 0.6      | 7.3 $\pm$ 0.2    | 6.4 $\pm$ 0.5    | 7.6 $\pm$ 0.2 |
@@ -650,6 +651,32 @@
 | Cognitive Load               | 7.6 $\pm$ 0.6      |
 | Social Support               | 6.2 $\pm$ 0.4      |
 | Resilience                   | 6.8 $\pm$ 0.9      |
+
+
+
+
+
+
+### claude-haiku-4-5-20251001
+
+
+| Personality Trait            | Score (1.0-10.0)   |
+|:-----------------------------|:-------------------|
+| Anxiety and Stress Levels    | 6.5 $\pm$ 0.0      |
+| Emotional Stability          | 6.2 $\pm$ 0.3      |
+| Problem-solving Skills       | 7.4 $\pm$ 0.1      |
+| Creativity                   | 9.0 $\pm$ 0.0      |
+| Interpersonal Relationships  | 6.5 $\pm$ 0.0      |
+| Confidence and Self-efficacy | 6.4 $\pm$ 0.5      |
+| Conflict Resolution          | 6.2 $\pm$ 0.7      |
+| Work-related Stress          | 6.7 $\pm$ 0.3      |
+| Adaptability                 | 8.0 $\pm$ 0.0      |
+| Achievement Motivation       | 7.1 $\pm$ 0.4      |
+| Fear of Failure              | 6.0 $\pm$ 0.4      |
+| Need for Control             | 5.1 $\pm$ 0.2      |
+| Cognitive Load               | 7.2 $\pm$ 0.2      |
+| Social Support               | 6.7 $\pm$ 0.2      |
+| Resilience                   | 7.5 $\pm$ 0.3      |
 
 
 

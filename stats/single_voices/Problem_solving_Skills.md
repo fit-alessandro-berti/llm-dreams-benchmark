@@ -177,6 +177,7 @@
 | meta-llamallama-4-maverick | 7.671 |
 | gemma31b-it-q8_0 | 7.671 |
 | gemini-2.5-pro-exp-03-25 | 7.629 |
+| claude-haiku-4-5-20251001 | 7.629 |
 | gemini-2.5-flash-preview-05-20 | 7.614 |
 | gemma34b-it-q8_0 | 7.586 |
 | mistral-small-2506 | 7.557 |

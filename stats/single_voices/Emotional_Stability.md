@@ -80,6 +80,7 @@
 | devstral-small-2505 | 6.814 |
 | nousresearchhermes-4-405b | 6.814 |
 | o1-pro-2024-12-17 | 6.786 |
+| claude-haiku-4-5-20251001 | 6.771 |
 | chatgpt-4o-latest-2025-03-26 | 6.757 |
 | qwenqwen3-coder | 6.743 |
 | ai21jamba-large-1.7 | 6.729 |

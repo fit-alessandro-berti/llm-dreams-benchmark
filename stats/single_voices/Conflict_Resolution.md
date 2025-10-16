@@ -130,6 +130,7 @@
 | meta-llamaMeta-Llama-3.1-8B-Instruct | 7.229 |
 | mistral-medium-2508 | 7.171 |
 | mistral-medium-2505 | 7.171 |
+| claude-haiku-4-5-20251001 | 7.100 |
 | gemini-2.0-flash-thinking-exp-01-21 | 7.086 |
 | googlegemma-2-2b-it | 7.086 |
 | qwen34b | 7.071 |

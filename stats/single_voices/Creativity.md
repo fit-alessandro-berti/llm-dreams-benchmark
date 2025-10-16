@@ -73,6 +73,7 @@
 | gemini-2.0-flash-exp | 9.357 |
 | gpt-5-pro-2025-10-06 | 9.357 |
 | openrouteroptimus-alpha | 9.357 |
+| claude-haiku-4-5-20251001 | 9.357 |
 | gpt-4-0613 | 9.343 |
 | gpt-4.1-mini-2025-04-14 | 9.343 |
 | mistral-large-2407 | 9.343 |

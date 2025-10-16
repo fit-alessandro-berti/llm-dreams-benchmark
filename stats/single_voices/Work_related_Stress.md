@@ -136,6 +136,7 @@
 | gemini-2.0-flash-exp | 6.071 |
 | o1-pro-2024-12-05 | 6.071 |
 | mistral-small-2409 | 6.057 |
+| claude-haiku-4-5-20251001 | 6.043 |
 | microsoftWizardLM-2-8x22B | 6.029 |
 | mistral-small-2503 | 6.029 |
 | openrouterhorizon-beta | 5.986 |

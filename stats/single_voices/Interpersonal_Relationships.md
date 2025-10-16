@@ -127,6 +127,7 @@
 | anthropicclaude-opus-4.1 | 7.029 |
 | gpt-5-chat-latest-2025-08-19 | 7.029 |
 | nvidianemotron-nano-9b-v2 | 7.029 |
+| claude-haiku-4-5-20251001 | 6.986 |
 | deepseekdeepseek-chat-v3.1 | 6.986 |
 | meta-llamaMeta-Llama-3.1-70B-Instruct | 6.986 |
 | mistral-medium-2505 | 6.986 |

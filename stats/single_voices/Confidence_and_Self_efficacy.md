@@ -125,6 +125,7 @@
 | claude-3-7-sonnet-20250219-thinking-high | 6.957 |
 | claude-3-5-sonnet-20241022 | 6.957 |
 | meta-llamaMeta-Llama-3.1-405B-Instruct | 6.957 |
+| claude-haiku-4-5-20251001 | 6.943 |
 | gemini-exp-1206 | 6.943 |
 | phi4-mini-reasoning | 6.929 |
 | chatgpt-4o-latest-20250215 | 6.929 |

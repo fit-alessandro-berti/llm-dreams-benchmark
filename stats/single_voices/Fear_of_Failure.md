@@ -120,6 +120,7 @@
 | qwen2.5-7b-instruct | 5.486 |
 | baiduernie-4.5-300b-a47b | 5.457 |
 | qwen2.5-omni-7b | 5.443 |
+| claude-haiku-4-5-20251001 | 5.414 |
 | Grok-3-20250426-formal | 5.400 |
 | gpt-4.1-nano-2025-04-14 | 5.386 |
 | granite4micro | 5.386 |

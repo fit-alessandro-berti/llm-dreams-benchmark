@@ -185,3 +185,4 @@
 | gpt-4.5-preview | 5.114 |
 | o3-mini-20250131-HIGH | 5.014 |
 | qwen34b-instruct-2507-q8_0 | 4.986 |
+| claude-haiku-4-5-20251001 | 4.829 |

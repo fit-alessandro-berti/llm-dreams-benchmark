@@ -111,6 +111,7 @@
 | meta-llamaLlama-3.3-70B-Instruct | 7.086 |
 | o1-2024-12-05 | 7.071 |
 | qwenqwen3-next-80b-a3b-thinking | 7.071 |
+| claude-haiku-4-5-20251001 | 7.057 |
 | gemini-2.0-flash-exp | 7.057 |
 | Gemini-1.5-Pro-Exp-0801 | 7.014 |
 | magistral-small-2506 | 7.000 |

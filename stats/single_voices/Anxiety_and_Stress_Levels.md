@@ -131,6 +131,7 @@
 | qwen-plus-2025-01-25 | 6.143 |
 | granite4micro-h | 6.129 |
 | gpt-4-0613 | 6.029 |
+| claude-haiku-4-5-20251001 | 6.014 |
 | qwen2.5-omni-7b | 6.000 |
 | o4-mini-2025-04-16 | 5.943 |
 | openaigpt-oss-20b | 5.943 |

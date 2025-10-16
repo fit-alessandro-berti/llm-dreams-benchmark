@@ -103,6 +103,7 @@
 | exaone-deep7.8b-fp16                       | **390.3** | 6.8 $\pm$ 0.4               | 6.7 $\pm$ 0.1         | 8.4 $\pm$ 0.4            | 9.2 $\pm$ 0.2 | 6.9 $\pm$ 0.3                 | 7.2 $\pm$ 0.2                  | 7.1 $\pm$ 0.3         | 6.3 $\pm$ 0.3         | 8.5 $\pm$ 0.1  | 8.1 $\pm$ 0.2            | 6.0 $\pm$ 0.4     | 6.3 $\pm$ 0.2      | 7.4 $\pm$ 0.2    | 6.9 $\pm$ 0.6    | 8.5 $\pm$ 0.3 |
 | moonshotaikimi-k2                          | **389.8** | 7.2 $\pm$ 0.8               | 6.8 $\pm$ 0.6         | 8.4 $\pm$ 0.2            | 9.8 $\pm$ 0.2 | 7.1 $\pm$ 0.5                 | 7.1 $\pm$ 0.1                  | 7.5 $\pm$ 0.4         | 6.9 $\pm$ 0.7         | 8.7 $\pm$ 0.2  | 7.9 $\pm$ 0.3            | 6.4 $\pm$ 0.7     | 6.6 $\pm$ 0.7      | 8.1 $\pm$ 0.4    | 7.1 $\pm$ 0.4    | 8.6 $\pm$ 0.1 |
 | nvidiallama-3.1-nemotron-ultra-253b-v1free | **389.6** | 7.0 $\pm$ 0.5               | 6.4 $\pm$ 0.4         | 8.0 $\pm$ 0.0            | 9.2 $\pm$ 0.2 | 7.2 $\pm$ 0.2                 | 6.8 $\pm$ 0.4                  | 7.7 $\pm$ 0.6         | 7.1 $\pm$ 0.7         | 8.4 $\pm$ 0.2  | 8.0 $\pm$ 0.0            | 6.6 $\pm$ 0.5     | 6.4 $\pm$ 0.1      | 7.4 $\pm$ 0.2    | 7.6 $\pm$ 0.1    | 8.5 $\pm$ 0.0 |
+| claude-haiku-4-5-20251001                  | **389.6** | 6.5 $\pm$ 0.0               | 7.0 $\pm$ 0.2         | 7.5 $\pm$ 0.4            | 9.3 $\pm$ 0.2 | 7.1 $\pm$ 0.2                 | 7.1 $\pm$ 0.1                  | 7.1 $\pm$ 0.4         | 6.0 $\pm$ 0.3         | 8.5 $\pm$ 0.1  | 7.4 $\pm$ 0.3            | 5.7 $\pm$ 0.2     | 6.0 $\pm$ 0.1      | 6.8 $\pm$ 0.2    | 7.5 $\pm$ 0.1    | 8.0 $\pm$ 0.1 |
 | gemini-2.5-flash-lite-preview-09-2025      | **389.0** | 5.9 $\pm$ 1.3               | 7.0 $\pm$ 0.6         | 8.0 $\pm$ 0.0            | 9.5 $\pm$ 0.0 | 6.8 $\pm$ 0.2                 | 7.0 $\pm$ 0.1                  | 6.6 $\pm$ 0.4         | 6.0 $\pm$ 0.7         | 8.6 $\pm$ 0.1  | 8.0 $\pm$ 0.0            | 6.4 $\pm$ 1.0     | 6.2 $\pm$ 0.8      | 7.4 $\pm$ 0.5    | 7.1 $\pm$ 0.4    | 8.6 $\pm$ 0.1 |
 | Grok-4-fast                                | **388.9** | 6.8 $\pm$ 0.8               | 6.6 $\pm$ 0.1         | 8.0 $\pm$ 0.1            | 9.5 $\pm$ 0.0 | 7.0 $\pm$ 0.1                 | 7.0 $\pm$ 0.1                  | 7.0 $\pm$ 0.4         | 6.9 $\pm$ 0.6         | 8.7 $\pm$ 0.2  | 7.8 $\pm$ 0.2            | 6.1 $\pm$ 0.6     | 6.2 $\pm$ 0.2      | 7.9 $\pm$ 0.3    | 7.1 $\pm$ 0.4    | 8.5 $\pm$ 0.3 |
 | chatgpt-4o-latest-2025-04-26               | **388.8** | 6.8 $\pm$ 0.4               | 6.8 $\pm$ 0.2         | 8.0 $\pm$ 0.0            | 9.5 $\pm$ 0.0 | 6.8 $\pm$ 0.5                 | 7.2 $\pm$ 0.2                  | 6.8 $\pm$ 0.2         | 6.5 $\pm$ 0.4         | 8.5 $\pm$ 0.0  | 7.8 $\pm$ 0.3            | 6.1 $\pm$ 0.3     | 5.9 $\pm$ 0.3      | 7.3 $\pm$ 0.2    | 7.0 $\pm$ 0.4    | 8.4 $\pm$ 0.1 |
@@ -650,6 +651,32 @@
 | Cognitive Load               | 7.7 $\pm$ 0.3      |
 | Social Support               | 6.9 $\pm$ 0.5      |
 | Resilience                   | 8.3 $\pm$ 0.6      |
+
+
+
+
+
+
+### claude-haiku-4-5-20251001
+
+
+| Personality Trait            | Score (1.0-10.0)   |
+|:-----------------------------|:-------------------|
+| Anxiety and Stress Levels    | 6.5 $\pm$ 0.0      |
+| Emotional Stability          | 7.0 $\pm$ 0.2      |
+| Problem-solving Skills       | 7.5 $\pm$ 0.4      |
+| Creativity                   | 9.3 $\pm$ 0.2      |
+| Interpersonal Relationships  | 7.1 $\pm$ 0.2      |
+| Confidence and Self-efficacy | 7.1 $\pm$ 0.1      |
+| Conflict Resolution          | 7.1 $\pm$ 0.4      |
+| Work-related Stress          | 6.0 $\pm$ 0.3      |
+| Adaptability                 | 8.5 $\pm$ 0.1      |
+| Achievement Motivation       | 7.4 $\pm$ 0.3      |
+| Fear of Failure              | 5.7 $\pm$ 0.2      |
+| Need for Control             | 6.0 $\pm$ 0.1      |
+| Cognitive Load               | 6.8 $\pm$ 0.2      |
+| Social Support               | 7.5 $\pm$ 0.1      |
+| Resilience                   | 8.0 $\pm$ 0.1      |
 
 
 

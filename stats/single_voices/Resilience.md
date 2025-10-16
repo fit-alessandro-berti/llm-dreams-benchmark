@@ -139,6 +139,7 @@
 | openroutercypher-alphafree | 8.214 |
 | meta-llamaMeta-Llama-3.1-405B-Instruct | 8.157 |
 | claude-4-opus-20250514 | 8.143 |
+| claude-haiku-4-5-20251001 | 8.129 |
 | meta-llamaLlama-3.2-3B-Instruct | 8.129 |
 | claude-3-opus-20240229 | 8.129 |
 | magistral-small-2506 | 8.086 |

@@ -114,6 +114,7 @@
 | gemini-2.5-flash-lite-preview-06-17 | 8.629 |
 | deepseekdeepseek-chat-v3.1 | 8.629 |
 | qwenqwen3-next-80b-a3b-thinking | 8.629 |
+| claude-haiku-4-5-20251001 | 8.614 |
 | nvidiaLlama-3.1-Nemotron-70B-Instruct | 8.614 |
 | nvidianemotron-nano-9b-v2 | 8.614 |
 | claude-3-5-sonnet-20241022 | 8.600 |

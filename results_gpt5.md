@@ -77,6 +77,7 @@
 | chatgpt-4o-latest-2025-03-26               | **422.8** | 6.0 $\pm$ 0.8               | 7.4 $\pm$ 0.2         | 8.6 $\pm$ 0.0            | 9.7 $\pm$ 0.1 | 7.8 $\pm$ 0.3                 | 8.1 $\pm$ 0.2                  | 8.0 $\pm$ 0.1         | 6.6 $\pm$ 0.5         | 9.0 $\pm$ 0.1  | 8.6 $\pm$ 0.2            | 5.5 $\pm$ 0.4     | 5.8 $\pm$ 0.5      | 7.6 $\pm$ 0.3    | 7.8 $\pm$ 0.5    | 8.9 $\pm$ 0.1 |
 | openaigpt-oss-20b                          | **422.6** | 5.1 $\pm$ 1.0               | 7.6 $\pm$ 0.5         | 8.8 $\pm$ 0.2            | 9.9 $\pm$ 0.1 | 7.4 $\pm$ 0.1                 | 8.1 $\pm$ 0.3                  | 8.1 $\pm$ 0.1         | 5.8 $\pm$ 0.8         | 9.1 $\pm$ 0.1  | 8.5 $\pm$ 0.1            | 5.2 $\pm$ 0.6     | 5.9 $\pm$ 0.2      | 7.5 $\pm$ 0.1    | 7.4 $\pm$ 0.4    | 8.9 $\pm$ 0.1 |
 | devstral-small-2505                        | **422.4** | 6.2 $\pm$ 0.5               | 7.7 $\pm$ 0.2         | 9.1 $\pm$ 0.1            | 9.6 $\pm$ 0.1 | 8.2 $\pm$ 0.1                 | 8.3 $\pm$ 0.2                  | 8.7 $\pm$ 0.1         | 6.4 $\pm$ 0.2         | 9.0 $\pm$ 0.0  | 8.9 $\pm$ 0.3            | 6.0 $\pm$ 0.3     | 7.0 $\pm$ 0.3      | 8.2 $\pm$ 0.6    | 8.2 $\pm$ 0.2    | 9.0 $\pm$ 0.0 |
+| claude-haiku-4-5-20251001                  | **422.1** | 4.6 $\pm$ 0.1               | 7.9 $\pm$ 0.2         | 8.2 $\pm$ 0.2            | 9.7 $\pm$ 0.1 | 7.4 $\pm$ 0.1                 | 7.8 $\pm$ 0.1                  | 8.0 $\pm$ 0.3         | 5.0 $\pm$ 0.1         | 9.1 $\pm$ 0.1  | 7.3 $\pm$ 0.2            | 4.9 $\pm$ 0.3     | 4.6 $\pm$ 0.4      | 6.8 $\pm$ 0.3    | 7.4 $\pm$ 0.4    | 8.6 $\pm$ 0.1 |
 | qwenqwen3-coder                            | **421.6** | 6.5 $\pm$ 0.0               | 7.8 $\pm$ 0.2         | 8.6 $\pm$ 0.2            | 9.7 $\pm$ 0.1 | 8.0 $\pm$ 0.3                 | 8.0 $\pm$ 0.2                  | 8.9 $\pm$ 0.1         | 6.2 $\pm$ 0.3         | 9.2 $\pm$ 0.0  | 8.3 $\pm$ 0.2            | 6.3 $\pm$ 0.4     | 6.1 $\pm$ 0.5      | 7.6 $\pm$ 0.5    | 8.2 $\pm$ 0.3    | 9.0 $\pm$ 0.0 |
 | baiduernie-4.5-21b-a3b                     | **421.6** | 5.7 $\pm$ 1.0               | 7.5 $\pm$ 0.2         | 8.7 $\pm$ 0.1            | 9.5 $\pm$ 0.0 | 7.8 $\pm$ 0.5                 | 8.0 $\pm$ 0.1                  | 8.5 $\pm$ 0.1         | 7.1 $\pm$ 0.3         | 8.8 $\pm$ 0.1  | 8.8 $\pm$ 0.2            | 6.0 $\pm$ 0.7     | 6.6 $\pm$ 0.5      | 7.7 $\pm$ 0.2    | 7.8 $\pm$ 0.1    | 8.8 $\pm$ 0.1 |
 | qwenqwen3-next-80b-a3b-instruct            | **421.2** | 5.8 $\pm$ 0.9               | 7.8 $\pm$ 0.2         | 8.0 $\pm$ 0.3            | 9.8 $\pm$ 0.0 | 8.2 $\pm$ 0.2                 | 7.6 $\pm$ 0.2                  | 8.6 $\pm$ 0.1         | 5.9 $\pm$ 0.5         | 9.1 $\pm$ 0.0  | 8.0 $\pm$ 0.1            | 6.2 $\pm$ 0.5     | 5.4 $\pm$ 0.5      | 7.3 $\pm$ 0.1    | 8.0 $\pm$ 0.1    | 9.0 $\pm$ 0.2 |
@@ -650,6 +651,32 @@
 | Cognitive Load               | 6.9 $\pm$ 0.5      |
 | Social Support               | 7.6 $\pm$ 0.4      |
 | Resilience                   | 8.6 $\pm$ 0.2      |
+
+
+
+
+
+
+### claude-haiku-4-5-20251001
+
+
+| Personality Trait            | Score (1.0-10.0)   |
+|:-----------------------------|:-------------------|
+| Anxiety and Stress Levels    | 4.6 $\pm$ 0.1      |
+| Emotional Stability          | 7.9 $\pm$ 0.2      |
+| Problem-solving Skills       | 8.2 $\pm$ 0.2      |
+| Creativity                   | 9.7 $\pm$ 0.1      |
+| Interpersonal Relationships  | 7.4 $\pm$ 0.1      |
+| Confidence and Self-efficacy | 7.8 $\pm$ 0.1      |
+| Conflict Resolution          | 8.0 $\pm$ 0.3      |
+| Work-related Stress          | 5.0 $\pm$ 0.1      |
+| Adaptability                 | 9.1 $\pm$ 0.1      |
+| Achievement Motivation       | 7.3 $\pm$ 0.2      |
+| Fear of Failure              | 4.9 $\pm$ 0.3      |
+| Need for Control             | 4.6 $\pm$ 0.4      |
+| Cognitive Load               | 6.8 $\pm$ 0.3      |
+| Social Support               | 7.4 $\pm$ 0.4      |
+| Resilience                   | 8.6 $\pm$ 0.1      |
 
 
 

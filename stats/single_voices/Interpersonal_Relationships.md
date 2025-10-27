@@ -92,6 +92,7 @@
 | qwenqwen3-coder | 7.400 |
 | DeepSeek-R1-Lite-Preview | 7.357 |
 | o1-2024-12-05 | 7.357 |
+| minimaxminimax-m2free | 7.357 |
 | baiduernie-4.5-21b-a3b | 7.343 |
 | gpt-4-1106-preview | 7.343 |
 | ai21jamba-large-1.7 | 7.314 |

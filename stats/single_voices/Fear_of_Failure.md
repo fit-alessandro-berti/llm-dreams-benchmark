@@ -102,6 +102,7 @@
 | exaone-deep7.8b-fp16 | 5.886 |
 | o1-pro-2024-12-17 | 5.829 |
 | qwenqwen3-coder | 5.829 |
+| minimaxminimax-m2free | 5.829 |
 | ai21jamba-large-1.7 | 5.814 |
 | falcon33b-instruct-q8_0 | 5.814 |
 | nvidiaLlama-3.1-Nemotron-70B-Instruct | 5.814 |

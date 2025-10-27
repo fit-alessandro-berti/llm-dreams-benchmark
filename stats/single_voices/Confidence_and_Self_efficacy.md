@@ -93,6 +93,7 @@
 | qwenqwen3-coder | 7.371 |
 | gemini-1.5-flash-8b | 7.357 |
 | x-aigrok-code-fast-1 | 7.357 |
+| minimaxminimax-m2free | 7.343 |
 | openroutersonoma-dusk-alpha | 7.343 |
 | openrouteroptimus-alpha | 7.314 |
 | gemini-1.5-flash-002 | 7.300 |

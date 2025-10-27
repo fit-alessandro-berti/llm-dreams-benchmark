@@ -104,6 +104,7 @@
 | nvidianemotron-nano-9b-v2 | 6.729 |
 | o1-pro-2024-12-17 | 6.729 |
 | qwenqwen3-next-80b-a3b-thinking | 6.700 |
+| minimaxminimax-m2free | 6.643 |
 | qwenqwen3-coder | 6.643 |
 | qwen-max-2025-01-25 | 6.629 |
 | qwen2.5-7b-instruct-1m | 6.600 |

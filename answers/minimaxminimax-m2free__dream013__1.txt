@@ -1,0 +1,28 @@
+
+
+# The Spiral Labyrinth of Memory
+
+You step out of the waking world into a corridor that spirals inward, walls etched with equations that hum like vowels. The floor tiles are faintly numbered and the ceiling blinks in constellations. Each turn summons a puzzle. Solve them to move deeper; the center lies at the end of a truth you will carry.
+
+## Puzzle I: The Cardinal Dawn
+
+On a stone archway is a small panel of three tiles. Above, a line of light slowly inches across them left to right. The arch murmurs:
+
+“From where you came and where you are going,
+Only one seat opens without showing.
+Choose the leaf that stays the same,
+When sunrise’s white lays down your name.”
+
+- A left leaf lights red.
+- A middle leaf lights white.
+- A right leaf lights green.
+
+The maze pauses, as if waiting for a single, safe answer.
+
+Hint: The arch’s “sunrise’s white” and “seat” may mean a card (seat = “chair”) and a suit color (sunrise = white = “dawn”).
+
+### What to choose?
+
+If you think the card is the Ace of Spades (A-S), enter the cipher key code: ANCHOR. If you suspect Ace of Hearts (A-H), enter: OATH.
+
+Confident it’s another card? Name it and I’ll check it.

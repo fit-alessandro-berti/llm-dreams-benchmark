@@ -100,6 +100,7 @@
 | qwenqwen3-30b-a3b-instruct-2507 | 7.257 |
 | o1-pro-2024-12-05 | 7.243 |
 | openaigpt-oss-20b | 7.229 |
+| minimaxminimax-m2free | 7.186 |
 | chatgpt-4o-latest-2025-03-26 | 7.171 |
 | openrouteroptimus-alpha | 7.171 |
 | gemini-2.5-pro-preview-05-06 | 7.157 |

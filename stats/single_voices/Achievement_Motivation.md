@@ -98,6 +98,7 @@
 | QwenQwen3-32B | 8.357 |
 | gemma-3n-e4b-it | 8.343 |
 | gpt-5-nano-2025-08-07 | 8.343 |
+| minimaxminimax-m2free | 8.343 |
 | z-aiglm-4.5 | 8.343 |
 | falcon33b-instruct-q8_0 | 8.329 |
 | phi4-reasoningplus | 8.329 |

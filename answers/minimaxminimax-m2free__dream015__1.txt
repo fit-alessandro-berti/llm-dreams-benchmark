@@ -1,0 +1,10 @@
+
+
+Your fingers feel the grit of wind-blown dust. The sky is a thin, pale cloth stretched over rusted ribs of skyscrapers. The city is a sleeping animal that sometimes snarls in the distance. Despite the hardships, you decide to [choose your direction]:
+
+- Follow the faint hum you hear to the collapsed radio tower; maybe it’s a signal, maybe a ghost.
+- Follow the blue glint on the horizon to the old reservoir; maybe water, maybe hope.
+- Climb into the shell of a stranded bus to wait for sunset and write a message in ash on the floor.
+- Tie a makeshift map on your wrist and lead the three strangers who woke in the stairwell beside you toward the rumored valley of green.
+
+Which path do you take?

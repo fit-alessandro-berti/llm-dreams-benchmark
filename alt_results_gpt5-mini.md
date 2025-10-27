@@ -90,6 +90,7 @@
 | gpt-4o-mini-2024-11-05                     | **398.5** | 7.0 $\pm$ 0.5               | 6.8 $\pm$ 0.2         | 8.1 $\pm$ 0.2            | 9.2 $\pm$ 0.2 | 6.9 $\pm$ 0.2                 | 7.2 $\pm$ 0.2                  | 7.9 $\pm$ 0.2         | 7.0 $\pm$ 0.4         | 8.5 $\pm$ 0.0  | 8.0 $\pm$ 0.0            | 6.0 $\pm$ 0.5     | 5.8 $\pm$ 0.2      | 7.1 $\pm$ 0.2    | 7.4 $\pm$ 0.2    | 8.5 $\pm$ 0.0 |
 | devstral-small-2505                        | **397.9** | 6.8 $\pm$ 0.4               | 6.8 $\pm$ 0.2         | 8.5 $\pm$ 0.0            | 9.0 $\pm$ 0.0 | 7.4 $\pm$ 0.2                 | 7.0 $\pm$ 0.1                  | 8.0 $\pm$ 0.0         | 6.3 $\pm$ 0.3         | 8.6 $\pm$ 0.1  | 8.1 $\pm$ 0.1            | 5.5 $\pm$ 0.0     | 6.6 $\pm$ 0.2      | 7.4 $\pm$ 0.2    | 7.5 $\pm$ 0.3    | 8.6 $\pm$ 0.1 |
 | claude-3-7-sonnet-20250219-thinking-high   | **397.8** | 6.5 $\pm$ 0.0               | 6.9 $\pm$ 0.1         | 8.1 $\pm$ 0.2            | 9.5 $\pm$ 0.0 | 7.4 $\pm$ 0.1                 | 7.0 $\pm$ 0.1                  | 7.8 $\pm$ 0.2         | 6.3 $\pm$ 0.3         | 8.6 $\pm$ 0.1  | 7.8 $\pm$ 0.2            | 5.6 $\pm$ 0.2     | 6.1 $\pm$ 0.1      | 7.4 $\pm$ 0.2    | 7.1 $\pm$ 0.2    | 8.5 $\pm$ 0.1 |
+| minimaxminimax-m2free                      | **397.5** | 5.9 $\pm$ 1.6               | 7.0 $\pm$ 0.5         | 8.0 $\pm$ 0.0            | 9.5 $\pm$ 0.0 | 7.0 $\pm$ 0.0                 | 7.0 $\pm$ 0.0                  | 7.6 $\pm$ 0.2         | 5.9 $\pm$ 0.9         | 8.5 $\pm$ 0.0  | 7.8 $\pm$ 0.2            | 5.5 $\pm$ 1.0     | 5.9 $\pm$ 0.9      | 7.1 $\pm$ 0.9    | 7.0 $\pm$ 0.5    | 8.5 $\pm$ 0.0 |
 | qwen2.5-7b-instruct-1m                     | **397.3** | 6.5 $\pm$ 0.0               | 7.1 $\pm$ 0.3         | 8.2 $\pm$ 0.2            | 9.2 $\pm$ 0.2 | 7.4 $\pm$ 0.2                 | 7.1 $\pm$ 0.2                  | 7.2 $\pm$ 0.2         | 6.4 $\pm$ 0.4         | 8.5 $\pm$ 0.0  | 8.0 $\pm$ 0.0            | 5.8 $\pm$ 0.2     | 6.2 $\pm$ 0.2      | 7.4 $\pm$ 0.2    | 7.6 $\pm$ 0.1    | 8.5 $\pm$ 0.0 |
 | openroutersonoma-sky-alpha                 | **397.0** | 6.5 $\pm$ 0.7               | 7.2 $\pm$ 0.4         | 8.1 $\pm$ 0.2            | 9.5 $\pm$ 0.0 | 7.2 $\pm$ 0.2                 | 7.0 $\pm$ 0.0                  | 7.3 $\pm$ 0.2         | 6.2 $\pm$ 0.4         | 8.6 $\pm$ 0.1  | 7.6 $\pm$ 0.4            | 5.6 $\pm$ 0.4     | 6.0 $\pm$ 0.8      | 7.0 $\pm$ 0.6    | 7.4 $\pm$ 0.2    | 8.4 $\pm$ 0.3 |
 | chatgpt-4o-latest-2025-03-26               | **396.7** | 6.5 $\pm$ 0.0               | 6.8 $\pm$ 0.1         | 7.9 $\pm$ 0.2            | 9.5 $\pm$ 0.0 | 7.3 $\pm$ 0.1                 | 7.1 $\pm$ 0.2                  | 7.2 $\pm$ 0.2         | 6.6 $\pm$ 0.2         | 8.5 $\pm$ 0.1  | 8.0 $\pm$ 0.2            | 5.6 $\pm$ 0.2     | 6.0 $\pm$ 0.3      | 7.2 $\pm$ 0.2    | 7.2 $\pm$ 0.3    | 8.3 $\pm$ 0.2 |
@@ -2941,6 +2942,32 @@
 | Cognitive Load               | 6.6 $\pm$ 0.2      |
 | Social Support               | 8.1 $\pm$ 0.4      |
 | Resilience                   | 9.0 $\pm$ 0.0      |
+
+
+
+
+
+
+### minimaxminimax-m2free
+
+
+| Personality Trait            | Score (1.0-10.0)   |
+|:-----------------------------|:-------------------|
+| Anxiety and Stress Levels    | 5.9 $\pm$ 1.6      |
+| Emotional Stability          | 7.0 $\pm$ 0.5      |
+| Problem-solving Skills       | 8.0 $\pm$ 0.0      |
+| Creativity                   | 9.5 $\pm$ 0.0      |
+| Interpersonal Relationships  | 7.0 $\pm$ 0.0      |
+| Confidence and Self-efficacy | 7.0 $\pm$ 0.0      |
+| Conflict Resolution          | 7.6 $\pm$ 0.2      |
+| Work-related Stress          | 5.9 $\pm$ 0.9      |
+| Adaptability                 | 8.5 $\pm$ 0.0      |
+| Achievement Motivation       | 7.8 $\pm$ 0.2      |
+| Fear of Failure              | 5.5 $\pm$ 1.0      |
+| Need for Control             | 5.9 $\pm$ 0.9      |
+| Cognitive Load               | 7.1 $\pm$ 0.9      |
+| Social Support               | 7.0 $\pm$ 0.5      |
+| Resilience                   | 8.5 $\pm$ 0.0      |
 
 
 

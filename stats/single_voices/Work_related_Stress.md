@@ -92,6 +92,7 @@
 | gemma312b-it-q8_0 | 6.786 |
 | exaone-deep7.8b-fp16 | 6.771 |
 | gpt-4-1106-preview | 6.771 |
+| minimaxminimax-m2free | 6.743 |
 | gemma-3-27b-it | 6.729 |
 | openroutercypher-alphafree | 6.714 |
 | qwen2.5-7b-instruct-1m | 6.700 |

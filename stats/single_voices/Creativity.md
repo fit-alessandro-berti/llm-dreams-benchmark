@@ -33,6 +33,7 @@
 | gemma-3n-e4b-it | 9.486 |
 | mistral-medium-2508 | 9.486 |
 | chatgpt-4o-latest-2025-04-26 | 9.471 |
+| minimaxminimax-m2free | 9.471 |
 | QwenQwen3-30B-A3B | 9.471 |
 | gpt-5-2025-08-07 | 9.457 |
 | qwen34b-instruct-2507-q8_0 | 9.457 |

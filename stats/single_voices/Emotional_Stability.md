@@ -86,6 +86,7 @@
 | chatgpt-4o-latest-2025-03-26 | 6.757 |
 | qwenqwen3-coder | 6.743 |
 | ai21jamba-large-1.7 | 6.729 |
+| minimaxminimax-m2free | 6.729 |
 | openroutersonoma-sky-alpha | 6.729 |
 | deepseek-aiDeepSeek-R1-Zero | 6.729 |
 | gpt-5-chat-latest-2025-08-19 | 6.714 |

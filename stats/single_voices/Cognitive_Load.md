@@ -111,6 +111,7 @@
 | openrouterhorizon-alpha | 7.514 |
 | openroutersonoma-sky-alpha | 7.514 |
 | openrouteroptimus-alpha | 7.500 |
+| minimaxminimax-m2free | 7.500 |
 | baiduernie-4.5-300b-a47b | 7.486 |
 | openaigpt-oss-20b | 7.486 |
 | phi3.53.8b-mini-instruct-fp16 | 7.486 |

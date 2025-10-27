@@ -101,6 +101,7 @@
 | QwenQwen3-32B | 8.529 |
 | qwenqwen3-next-80b-a3b-thinking | 8.529 |
 | gemini-1.5-flash-8b | 8.514 |
+| minimaxminimax-m2free | 8.514 |
 | gemini-exp-1206 | 8.486 |
 | chatgpt-4o-latest-2025-04-26 | 8.471 |
 | qwen31.7b | 8.471 |

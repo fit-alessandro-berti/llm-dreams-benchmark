@@ -90,6 +90,7 @@
 | googlegemma-2-9b-it                        | **383.0** | 7.5 $\pm$ 0.0               | 5.8 $\pm$ 0.2         | 8.0 $\pm$ 0.0            | 9.2 $\pm$ 0.2 | 6.8 $\pm$ 0.2                 | 6.8 $\pm$ 0.2                  | 7.2 $\pm$ 0.4         | 6.9 $\pm$ 0.2         | 8.5 $\pm$ 0.0  | 8.0 $\pm$ 0.0            | 6.4 $\pm$ 0.2     | 5.6 $\pm$ 0.2      | 7.1 $\pm$ 0.2    | 7.2 $\pm$ 0.2    | 8.0 $\pm$ 0.0 |
 | nvidiallama-3.1-nemotron-ultra-253b-v1free | **382.8** | 7.0 $\pm$ 0.5               | 6.0 $\pm$ 0.5         | 8.0 $\pm$ 0.1            | 9.0 $\pm$ 0.0 | 7.1 $\pm$ 0.4                 | 6.6 $\pm$ 0.4                  | 6.9 $\pm$ 0.4         | 7.2 $\pm$ 0.3         | 8.5 $\pm$ 0.0  | 8.0 $\pm$ 0.1            | 5.9 $\pm$ 0.4     | 6.3 $\pm$ 0.3      | 7.4 $\pm$ 0.1    | 7.1 $\pm$ 0.5    | 8.0 $\pm$ 0.3 |
 | granite4tiny-h                             | **382.5** | 7.5 $\pm$ 0.0               | 5.6 $\pm$ 0.2         | 8.0 $\pm$ 0.0            | 9.0 $\pm$ 0.0 | 7.2 $\pm$ 0.2                 | 6.5 $\pm$ 0.0                  | 7.2 $\pm$ 0.2         | 7.5 $\pm$ 0.5         | 8.5 $\pm$ 0.0  | 8.0 $\pm$ 0.0            | 6.4 $\pm$ 0.2     | 6.1 $\pm$ 0.2      | 7.5 $\pm$ 0.0    | 7.4 $\pm$ 0.4    | 8.1 $\pm$ 0.2 |
+| minimaxminimax-m2free                      | **382.2** | 7.0 $\pm$ 0.5               | 6.0 $\pm$ 0.5         | 8.0 $\pm$ 0.1            | 9.2 $\pm$ 0.2 | 7.1 $\pm$ 0.6                 | 6.6 $\pm$ 0.6                  | 7.1 $\pm$ 0.2         | 7.0 $\pm$ 0.6         | 8.2 $\pm$ 0.2  | 8.4 $\pm$ 0.3            | 6.0 $\pm$ 0.5     | 6.6 $\pm$ 0.5      | 7.2 $\pm$ 0.2    | 6.9 $\pm$ 0.6    | 7.8 $\pm$ 0.2 |
 | gemini-1.5-flash-8b                        | **381.5** | 7.0 $\pm$ 0.5               | 5.9 $\pm$ 1.0         | 8.1 $\pm$ 0.1            | 9.4 $\pm$ 0.2 | 6.8 $\pm$ 0.6                 | 6.7 $\pm$ 1.0                  | 7.4 $\pm$ 0.6         | 7.0 $\pm$ 1.0         | 8.1 $\pm$ 0.6  | 8.2 $\pm$ 0.2            | 6.1 $\pm$ 0.6     | 6.4 $\pm$ 0.4      | 7.4 $\pm$ 0.4    | 6.9 $\pm$ 0.7    | 7.8 $\pm$ 0.6 |
 | nvidiaLlama-3.1-Nemotron-70B-Instruct      | **381.3** | 7.0 $\pm$ 0.5               | 5.8 $\pm$ 0.6         | 8.0 $\pm$ 0.1            | 9.1 $\pm$ 0.2 | 7.0 $\pm$ 0.4                 | 6.5 $\pm$ 0.4                  | 7.4 $\pm$ 0.3         | 6.7 $\pm$ 0.8         | 8.3 $\pm$ 0.2  | 8.1 $\pm$ 0.4            | 6.0 $\pm$ 0.5     | 6.2 $\pm$ 0.2      | 7.2 $\pm$ 0.2    | 7.1 $\pm$ 0.3    | 7.5 $\pm$ 0.4 |
 | ai21jamba-large-1.7                        | **381.3** | 7.0 $\pm$ 0.5               | 5.9 $\pm$ 1.0         | 8.1 $\pm$ 0.1            | 9.0 $\pm$ 0.0 | 7.0 $\pm$ 0.5                 | 6.8 $\pm$ 1.0                  | 7.1 $\pm$ 0.7         | 7.0 $\pm$ 1.0         | 8.2 $\pm$ 0.4  | 8.4 $\pm$ 0.5            | 6.2 $\pm$ 0.8     | 6.4 $\pm$ 0.1      | 7.2 $\pm$ 0.2    | 6.9 $\pm$ 0.5    | 7.8 $\pm$ 0.5 |
@@ -2941,6 +2942,32 @@
 | Cognitive Load               | 6.9 $\pm$ 0.2      |
 | Social Support               | 8.0 $\pm$ 0.0      |
 | Resilience                   | 8.6 $\pm$ 0.1      |
+
+
+
+
+
+
+### minimaxminimax-m2free
+
+
+| Personality Trait            | Score (1.0-10.0)   |
+|:-----------------------------|:-------------------|
+| Anxiety and Stress Levels    | 7.0 $\pm$ 0.5      |
+| Emotional Stability          | 6.0 $\pm$ 0.5      |
+| Problem-solving Skills       | 8.0 $\pm$ 0.1      |
+| Creativity                   | 9.2 $\pm$ 0.2      |
+| Interpersonal Relationships  | 7.1 $\pm$ 0.6      |
+| Confidence and Self-efficacy | 6.6 $\pm$ 0.6      |
+| Conflict Resolution          | 7.1 $\pm$ 0.2      |
+| Work-related Stress          | 7.0 $\pm$ 0.6      |
+| Adaptability                 | 8.2 $\pm$ 0.2      |
+| Achievement Motivation       | 8.4 $\pm$ 0.3      |
+| Fear of Failure              | 6.0 $\pm$ 0.5      |
+| Need for Control             | 6.6 $\pm$ 0.5      |
+| Cognitive Load               | 7.2 $\pm$ 0.2      |
+| Social Support               | 6.9 $\pm$ 0.6      |
+| Resilience                   | 7.8 $\pm$ 0.2      |
 
 
 

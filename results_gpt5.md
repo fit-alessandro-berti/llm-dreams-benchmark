@@ -88,6 +88,7 @@
 | gemma-3-27b-it                             | **420.4** | 5.9 $\pm$ 0.6               | 7.4 $\pm$ 0.1         | 8.8 $\pm$ 0.1            | 9.7 $\pm$ 0.0 | 7.5 $\pm$ 0.3                 | 7.8 $\pm$ 0.3                  | 8.6 $\pm$ 0.1         | 6.4 $\pm$ 0.4         | 9.1 $\pm$ 0.1  | 8.2 $\pm$ 0.1            | 5.6 $\pm$ 0.4     | 5.7 $\pm$ 0.3      | 7.2 $\pm$ 0.2    | 7.2 $\pm$ 0.4    | 8.8 $\pm$ 0.1 |
 | DeepSeek-R1-Lite-Preview                   | **420.4** | 6.5 $\pm$ 0.0               | 7.3 $\pm$ 0.2         | 8.8 $\pm$ 0.0            | 9.4 $\pm$ 0.1 | 7.9 $\pm$ 0.1                 | 8.2 $\pm$ 0.0                  | 8.4 $\pm$ 0.2         | 6.9 $\pm$ 0.1         | 9.0 $\pm$ 0.0  | 8.9 $\pm$ 0.2            | 5.9 $\pm$ 0.2     | 6.5 $\pm$ 0.4      | 7.5 $\pm$ 0.2    | 8.0 $\pm$ 0.2    | 8.8 $\pm$ 0.1 |
 | gpt-4.1-nano-2025-04-14                    | **419.7** | 6.5 $\pm$ 0.0               | 7.6 $\pm$ 0.3         | 8.7 $\pm$ 0.1            | 9.6 $\pm$ 0.0 | 8.0 $\pm$ 0.1                 | 8.1 $\pm$ 0.1                  | 8.6 $\pm$ 0.1         | 7.0 $\pm$ 0.2         | 9.0 $\pm$ 0.1  | 8.8 $\pm$ 0.1            | 6.4 $\pm$ 0.4     | 6.8 $\pm$ 0.2      | 7.8 $\pm$ 0.2    | 8.0 $\pm$ 0.3    | 9.0 $\pm$ 0.1 |
+| minimaxminimax-m2free                      | **419.2** | 6.4 $\pm$ 0.5               | 7.4 $\pm$ 0.2         | 8.8 $\pm$ 0.2            | 9.8 $\pm$ 0.1 | 7.9 $\pm$ 0.4                 | 8.1 $\pm$ 0.1                  | 8.6 $\pm$ 0.2         | 6.8 $\pm$ 0.5         | 9.0 $\pm$ 0.1  | 8.4 $\pm$ 0.1            | 5.9 $\pm$ 0.3     | 6.6 $\pm$ 0.4      | 7.6 $\pm$ 0.3    | 7.7 $\pm$ 0.4    | 8.9 $\pm$ 0.1 |
 | deepseek-aiDeepSeek-V3                     | **418.6** | 6.8 $\pm$ 0.2               | 7.5 $\pm$ 0.1         | 8.6 $\pm$ 0.1            | 9.6 $\pm$ 0.1 | 8.1 $\pm$ 0.1                 | 8.3 $\pm$ 0.1                  | 8.3 $\pm$ 0.4         | 7.4 $\pm$ 0.6         | 9.0 $\pm$ 0.0  | 8.8 $\pm$ 0.2            | 6.6 $\pm$ 0.1     | 7.0 $\pm$ 0.2      | 7.8 $\pm$ 0.2    | 8.2 $\pm$ 0.2    | 9.0 $\pm$ 0.1 |
 | phi3.53.8b-mini-instruct-fp16              | **418.4** | 6.6 $\pm$ 0.1               | 7.2 $\pm$ 0.1         | 8.8 $\pm$ 0.0            | 9.6 $\pm$ 0.0 | 8.2 $\pm$ 0.2                 | 8.2 $\pm$ 0.1                  | 8.1 $\pm$ 0.2         | 7.2 $\pm$ 0.3         | 9.0 $\pm$ 0.0  | 8.8 $\pm$ 0.1            | 6.0 $\pm$ 0.2     | 6.8 $\pm$ 0.1      | 8.0 $\pm$ 0.3    | 8.0 $\pm$ 0.1    | 9.0 $\pm$ 0.1 |
 | gemini-2.5-pro-preview-06-05               | **418.4** | 6.4 $\pm$ 0.2               | 7.7 $\pm$ 0.3         | 8.4 $\pm$ 0.1            | 9.9 $\pm$ 0.1 | 7.6 $\pm$ 0.1                 | 7.8 $\pm$ 0.1                  | 8.5 $\pm$ 0.2         | 6.5 $\pm$ 0.6         | 9.1 $\pm$ 0.1  | 8.0 $\pm$ 0.0            | 6.0 $\pm$ 0.3     | 5.4 $\pm$ 0.5      | 7.2 $\pm$ 0.2    | 7.0 $\pm$ 0.1    | 9.0 $\pm$ 0.1 |
@@ -2941,6 +2942,32 @@
 | Cognitive Load               | 7.9 $\pm$ 0.4      |
 | Social Support               | 8.2 $\pm$ 0.2      |
 | Resilience                   | 9.2 $\pm$ 0.0      |
+
+
+
+
+
+
+### minimaxminimax-m2free
+
+
+| Personality Trait            | Score (1.0-10.0)   |
+|:-----------------------------|:-------------------|
+| Anxiety and Stress Levels    | 6.4 $\pm$ 0.5      |
+| Emotional Stability          | 7.4 $\pm$ 0.2      |
+| Problem-solving Skills       | 8.8 $\pm$ 0.2      |
+| Creativity                   | 9.8 $\pm$ 0.1      |
+| Interpersonal Relationships  | 7.9 $\pm$ 0.4      |
+| Confidence and Self-efficacy | 8.1 $\pm$ 0.1      |
+| Conflict Resolution          | 8.6 $\pm$ 0.2      |
+| Work-related Stress          | 6.8 $\pm$ 0.5      |
+| Adaptability                 | 9.0 $\pm$ 0.1      |
+| Achievement Motivation       | 8.4 $\pm$ 0.1      |
+| Fear of Failure              | 5.9 $\pm$ 0.3      |
+| Need for Control             | 6.6 $\pm$ 0.4      |
+| Cognitive Load               | 7.6 $\pm$ 0.3      |
+| Social Support               | 7.7 $\pm$ 0.4      |
+| Resilience                   | 8.9 $\pm$ 0.1      |
 
 
 

@@ -111,6 +111,7 @@
 | claude-3-7-sonnet-20250219 | 8.643 |
 | exaone-deep7.8b-fp16 | 8.643 |
 | gemini-1.5-flash-8b | 8.643 |
+| minimaxminimax-m2free | 8.643 |
 | qwen2.5-7b-instruct | 8.643 |
 | qwen2.5-7b-instruct-1m | 8.643 |
 | gemini-2.5-flash-lite-preview-06-17 | 8.629 |

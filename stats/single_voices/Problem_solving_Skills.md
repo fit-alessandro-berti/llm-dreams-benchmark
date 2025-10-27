@@ -114,6 +114,7 @@
 | Grok-3-beta-thinking-20250303 | 8.343 |
 | z-aiglm-4.5 | 8.343 |
 | nvidianemotron-nano-9b-v2 | 8.329 |
+| minimaxminimax-m2free | 8.329 |
 | qwenqwen3-next-80b-a3b-thinking | 8.329 |
 | chatgpt-4o-latest-2025-03-26 | 8.329 |
 | claude-3-7-sonnet-20250219 | 8.329 |

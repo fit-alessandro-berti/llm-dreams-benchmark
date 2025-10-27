@@ -114,6 +114,7 @@
 | claude-3-5-sonnet-20241022 | 6.043 |
 | baiduernie-4.5-300b-a47b | 6.029 |
 | moonshotaikimi-k2 | 6.029 |
+| liquidlfm-2.2-6b | 6.014 |
 | openrouteroptimus-alpha | 6.014 |
 | qwenqwen3-235b-a22b-07-25 | 6.014 |
 | claude-3-7-sonnet-20250219-thinking-high | 6.000 |
@@ -144,6 +145,7 @@
 | openrouterquasar-alpha | 5.829 |
 | gpt-5-2025-08-07 | 5.814 |
 | gpt-4o-2024-05-13 | 5.800 |
+| liquidlfm2-8b-a1b | 5.800 |
 | googlegemma-2-9b-it | 5.786 |
 | openaigpt-oss-20b | 5.786 |
 | claude-3-7-sonnet-20250219 | 5.771 |

@@ -100,6 +100,7 @@
 | gpt-4o-mini-2024-11-05 | 7.557 |
 | gpt-5-chat-latest-2025-08-19 | 7.557 |
 | Grok-3-20250426-formal | 7.557 |
+| liquidlfm-2.2-6b | 7.557 |
 | ai21jamba-large-1.7 | 7.543 |
 | openroutercypher-alphafree | 7.529 |
 | smollm21.7b-instruct-q6_K | 7.529 |
@@ -144,6 +145,7 @@
 | gpt-4o-mini-2024-07-18 | 7.243 |
 | qwen-turbo-2024-11-01 | 7.243 |
 | ai21jamba-mini-1.7 | 7.229 |
+| liquidlfm2-8b-a1b | 7.229 |
 | gpt-5-2025-08-07 | 7.214 |
 | open-mixtral-8x7b | 7.214 |
 | qwen2.5-72b-instruct | 7.214 |

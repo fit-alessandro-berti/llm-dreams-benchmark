@@ -17,6 +17,7 @@
 | qwen-turbo-2024-11-01 | 9.000 |
 | microsoftphi-4 | 8.986 |
 | open-mixtral-8x22b | 8.986 |
+| liquidlfm2-8b-a1b | 8.986 |
 | openrouterhorizon-alpha | 8.986 |
 | o3-mini-20250131-HIGH | 8.971 |
 | gpt-4-0125-preview | 8.957 |
@@ -45,6 +46,7 @@
 | phi3.53.8b-mini-instruct-fp16 | 8.829 |
 | gpt-5-2025-08-07 | 8.814 |
 | o1-pro-2024-12-05 | 8.814 |
+| liquidlfm-2.2-6b | 8.800 |
 | codestral-2501 | 8.786 |
 | gpt-4o-2024-05-13 | 8.786 |
 | gpt-5-pro-2025-10-06 | 8.786 |

@@ -137,6 +137,7 @@
 | o1-pro-2024-12-05 | 6.071 |
 | mistral-small-2409 | 6.057 |
 | claude-haiku-4-5-20251001 | 6.043 |
+| liquidlfm-2.2-6b | 6.029 |
 | microsoftWizardLM-2-8x22B | 6.029 |
 | mistral-small-2503 | 6.029 |
 | openrouterhorizon-beta | 5.986 |
@@ -175,6 +176,7 @@
 | o1-preview-2024-09-12 | 5.414 |
 | deepseekdeepseek-v3.2-exp | 5.400 |
 | gpt-4-0125-preview | 5.343 |
+| liquidlfm2-8b-a1b | 5.314 |
 | gpt-5-nano-2025-08-07 | 5.300 |
 | phi4-reasoningplus | 5.286 |
 | qwen2.5-72b-instruct | 5.286 |

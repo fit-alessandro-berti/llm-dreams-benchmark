@@ -15,6 +15,7 @@
 | grok-2-1212 | 8.371 |
 | microsoftWizardLM-2-8x22B | 8.357 |
 | falcon310b-instruct-q8_0 | 8.329 |
+| liquidlfm2-8b-a1b | 8.329 |
 | falcon37b-instruct-q8_0 | 8.314 |
 | o3-pro-2025-06-10 | 8.314 |
 | open-mistral-nemo | 8.314 |
@@ -36,6 +37,7 @@
 | phi4-reasoningplus | 8.071 |
 | phi3.53.8b-mini-instruct-fp16 | 8.029 |
 | Grok-3-20250426-formal | 8.014 |
+| liquidlfm-2.2-6b | 8.000 |
 | o1-preview-2024-09-12 | 7.986 |
 | gpt-4o-2024-05-13 | 7.957 |
 | codex-mini-latest | 7.943 |

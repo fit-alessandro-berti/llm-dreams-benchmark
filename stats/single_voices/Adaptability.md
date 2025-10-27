@@ -17,6 +17,7 @@
 | inceptionmercury | 9.000 |
 | o3-mini-20250131-HIGH | 9.000 |
 | grok-2-1212 | 8.986 |
+| liquidlfm2-8b-a1b | 8.986 |
 | o1-preview-2024-09-12 | 8.971 |
 | o3-2025-04-16 | 8.971 |
 | open-mixtral-8x22b | 8.971 |
@@ -54,6 +55,7 @@
 | gpt-3.5-turbo | 8.814 |
 | gpt-4.1-mini-2025-04-14 | 8.814 |
 | gpt-4o-mini-2024-07-18 | 8.814 |
+| liquidlfm-2.2-6b | 8.814 |
 | moonshotaikimi-k2 | 8.814 |
 | openrouterquasar-alpha | 8.814 |
 | qwen2.5-32b-instruct | 8.814 |

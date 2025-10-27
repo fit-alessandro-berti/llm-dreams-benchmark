@@ -37,6 +37,7 @@
 | codex-mini-latest | 8.100 |
 | gpt-4-0125-preview | 8.100 |
 | gpt-4o-mini-2024-07-18 | 8.100 |
+| liquidlfm-2.2-6b | 8.100 |
 | mistral-small-2501 | 8.086 |
 | gpt-5-2025-08-07 | 8.086 |
 | open-mixtral-8x7b | 8.086 |
@@ -67,6 +68,7 @@
 | gemini-2.5-pro-preview-06-05 | 7.871 |
 | nvidiaLlama-3.1-Nemotron-70B-Instruct | 7.871 |
 | granite4micro | 7.857 |
+| liquidlfm2-8b-a1b | 7.829 |
 | gpt-4.1-mini-2025-04-14 | 7.829 |
 | mistral-small-2409 | 7.814 |
 | gpt-4-0613 | 7.814 |

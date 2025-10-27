@@ -132,6 +132,7 @@
 | Grok-4-fast | 5.271 |
 | o1-pro-2024-12-05 | 5.257 |
 | qwen34b-instruct-2507-q8_0 | 5.171 |
+| liquidlfm-2.2-6b | 5.143 |
 | phi3.53.8b-mini-instruct-fp16 | 5.143 |
 | gpt-3.5-turbo | 5.114 |
 | mistral-small-2503 | 5.086 |
@@ -164,6 +165,7 @@
 | o1-mini | 4.429 |
 | gpt-4-0125-preview | 4.357 |
 | gpt-5-nano-2025-08-07 | 4.329 |
+| liquidlfm2-8b-a1b | 4.286 |
 | openaigpt-oss-120b | 4.286 |
 | gpt-4o-2024-08-06 | 4.271 |
 | granite3.28b-instruct-q4_K_M | 4.243 |

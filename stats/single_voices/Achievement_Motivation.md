@@ -16,6 +16,7 @@
 | microsoftWizardLM-2-8x22B | 8.729 |
 | baiduernie-4.5-21b-a3b | 8.714 |
 | gpt-4-turbo-2024-04-09 | 8.700 |
+| liquidlfm2-8b-a1b | 8.700 |
 | qwen-turbo-2024-11-01 | 8.686 |
 | codestral-2501 | 8.686 |
 | gpt-4-0613 | 8.671 |
@@ -32,6 +33,7 @@
 | exaone-deep7.8b-fp16 | 8.571 |
 | deepseekdeepseek-v3.2-exp | 8.571 |
 | inceptionmercury | 8.571 |
+| liquidlfm-2.2-6b | 8.571 |
 | qwen2.5-32b-instruct | 8.571 |
 | Grok-3-20250426-formal | 8.557 |
 | qwen30.6b | 8.543 |

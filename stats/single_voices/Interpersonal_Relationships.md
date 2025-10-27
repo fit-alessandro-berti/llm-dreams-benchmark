@@ -63,6 +63,8 @@
 | o4-mini-2025-04-16 | 7.686 |
 | o1-pro-2024-12-17 | 7.643 |
 | openrouterquasar-alpha | 7.643 |
+| liquidlfm2-8b-a1b | 7.629 |
+| liquidlfm-2.2-6b | 7.629 |
 | phi4-reasoningplus | 7.629 |
 | Grok-3-20250426-formal | 7.614 |
 | Grok-3-20250426-concise | 7.614 |

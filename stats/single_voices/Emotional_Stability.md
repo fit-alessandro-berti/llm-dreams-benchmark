@@ -21,6 +21,7 @@
 | qwen2.5-14b-instruct | 7.714 |
 | granite3.28b-instruct-q4_K_M | 7.714 |
 | gpt-4-turbo-2024-04-09 | 7.700 |
+| liquidlfm2-8b-a1b | 7.700 |
 | codestral-2501 | 7.686 |
 | gpt-4-0125-preview | 7.671 |
 | qwen2.5-32b-instruct | 7.671 |
@@ -56,6 +57,7 @@
 | gpt-5-2025-08-07 | 7.214 |
 | gpt-4.1-nano-2025-04-14 | 7.200 |
 | Grok-3-20250426-formal | 7.200 |
+| liquidlfm-2.2-6b | 7.200 |
 | codex-mini-latest | 7.186 |
 | qwen-plus-2025-01-25 | 7.171 |
 | gpt-4-0613 | 7.157 |

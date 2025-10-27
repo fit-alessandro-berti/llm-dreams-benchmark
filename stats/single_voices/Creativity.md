@@ -59,6 +59,7 @@
 | granite3.28b-instruct-q4_K_M | 9.414 |
 | qwenqwen3-next-80b-a3b-thinking | 9.414 |
 | Gemini-1.5-Pro-Exp-0827 | 9.414 |
+| liquidlfm2-8b-a1b | 9.414 |
 | claude-3-7-sonnet-20250219 | 9.400 |
 | qwenqwen3-235b-a22b-thinking-2507 | 9.386 |
 | codex-mini-latest | 9.386 |
@@ -76,6 +77,7 @@
 | claude-haiku-4-5-20251001 | 9.357 |
 | gpt-4-0613 | 9.343 |
 | gpt-4.1-mini-2025-04-14 | 9.343 |
+| liquidlfm-2.2-6b | 9.343 |
 | mistral-large-2407 | 9.343 |
 | nvidiaLlama-3.1-Nemotron-70B-Instruct | 9.343 |
 | x-aigrok-code-fast-1 | 9.343 |

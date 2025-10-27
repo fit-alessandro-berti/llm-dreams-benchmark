@@ -139,6 +139,7 @@
 | granite4micro | 5.929 |
 | mistral-large-2411 | 5.929 |
 | openrouterhorizon-alpha | 5.914 |
+| liquidlfm-2.2-6b | 5.900 |
 | ministral-3b-2410 | 5.900 |
 | phi4-reasoning | 5.886 |
 | mistral-small-2503 | 5.829 |
@@ -170,6 +171,7 @@
 | openaigpt-oss-120b | 5.057 |
 | inceptionmercury | 5.014 |
 | gpt-4o-2024-05-13 | 5.000 |
+| liquidlfm2-8b-a1b | 4.986 |
 | gpt-5-nano-2025-08-07 | 4.971 |
 | open-mistral-7b | 4.971 |
 | qwen2.5-72b-instruct | 4.943 |

@@ -27,8 +27,10 @@
 | grok-2-1212 | 8.743 |
 | openaigpt-oss-120b | 8.743 |
 | gpt-4-0613 | 8.743 |
+| liquidlfm2-8b-a1b | 8.700 |
 | qwen2.5-32b-instruct | 8.700 |
 | gpt-4o-2024-05-13 | 8.686 |
+| liquidlfm-2.2-6b | 8.671 |
 | mistral-large-2407 | 8.671 |
 | open-mistral-7b | 8.671 |
 | codex-mini-latest | 8.657 |

@@ -75,10 +75,12 @@
 | o3-2025-04-16 | 7.500 |
 | phi4-reasoningplus | 7.486 |
 | qwen-plus-2025-01-25 | 7.471 |
+| liquidlfm-2.2-6b | 7.457 |
 | Grok-3-20250426-formal | 7.443 |
 | meta-llamaMeta-Llama-3.1-405B-Instruct | 7.443 |
 | smollm21.7b-instruct-q6_K | 7.429 |
 | DeepSeek-R1-Lite-Preview | 7.414 |
+| liquidlfm2-8b-a1b | 7.414 |
 | o1-2024-12-17 | 7.414 |
 | phi4-reasoning | 7.386 |
 | gemini-1.5-flash-002 | 7.386 |

@@ -80,6 +80,7 @@
 | nvidiallama-3.3-nemotron-super-49b-v1 | 7.757 |
 | gemini-2.5-pro-preview-05-06 | 7.729 |
 | granite4tiny-h | 7.729 |
+| ibmgranite41b-h | 7.729 |
 | nvidianemotron-nano-9b-v2 | 7.729 |
 | Gemini-1.5-Pro-Exp-0827 | 7.714 |
 | chatgpt-4o-latest-2024-11-20 | 7.700 |
@@ -90,6 +91,7 @@
 | falcon33b-instruct-q8_0 | 7.686 |
 | meta-llamaLlama-3.2-1B-Instruct | 7.671 |
 | devstral-small-2505 | 7.671 |
+| ibmgranite4350m-h | 7.657 |
 | baiduernie-4.5-21b-a3b | 7.614 |
 | gemma3270m | 7.600 |
 | nvidiallama-3.1-nemotron-ultra-253b-v1free | 7.600 |

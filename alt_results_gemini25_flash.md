@@ -141,6 +141,7 @@
 | qwenqwen3-next-80b-a3b-thinking            | **377.0** | 7.9 $\pm$ 0.4               | 6.1 $\pm$ 0.2         | 7.5 $\pm$ 0.4            | 9.0 $\pm$ 0.0 | 7.0 $\pm$ 0.0                 | 7.0 $\pm$ 0.4                  | 7.1 $\pm$ 0.2         | 7.5 $\pm$ 0.8         | 8.2 $\pm$ 0.2  | 7.8 $\pm$ 0.4            | 6.9 $\pm$ 0.6     | 5.8 $\pm$ 0.4      | 7.8 $\pm$ 0.4    | 6.9 $\pm$ 0.2    | 8.4 $\pm$ 0.2 |
 | openroutersonoma-dusk-alpha                | **377.0** | 7.5 $\pm$ 0.0               | 6.0 $\pm$ 0.0         | 8.0 $\pm$ 0.0            | 9.2 $\pm$ 0.2 | 6.9 $\pm$ 0.2                 | 7.1 $\pm$ 0.2                  | 6.5 $\pm$ 0.4         | 7.5 $\pm$ 0.5         | 8.9 $\pm$ 0.2  | 8.2 $\pm$ 0.2            | 6.5 $\pm$ 0.4     | 5.9 $\pm$ 0.2      | 8.5 $\pm$ 0.0    | 6.2 $\pm$ 0.6    | 8.0 $\pm$ 0.5 |
 | magistral-small-2506                       | **377.0** | 7.9 $\pm$ 0.4               | 6.1 $\pm$ 0.2         | 7.9 $\pm$ 0.2            | 9.0 $\pm$ 0.0 | 7.1 $\pm$ 0.2                 | 6.9 $\pm$ 0.5                  | 6.9 $\pm$ 0.7         | 7.6 $\pm$ 0.6         | 8.5 $\pm$ 0.4  | 7.9 $\pm$ 0.5            | 6.6 $\pm$ 0.6     | 6.2 $\pm$ 0.2      | 8.1 $\pm$ 0.2    | 7.2 $\pm$ 0.2    | 8.0 $\pm$ 0.6 |
+| ibmgranite41b-h                            | **377.0** | 7.5 $\pm$ 0.0               | 6.0 $\pm$ 0.0         | 8.2 $\pm$ 0.2            | 8.2 $\pm$ 0.2 | 7.0 $\pm$ 0.0                 | 7.1 $\pm$ 0.2                  | 6.6 $\pm$ 0.2         | 7.5 $\pm$ 0.5         | 8.1 $\pm$ 0.2  | 8.1 $\pm$ 0.6            | 6.2 $\pm$ 0.4     | 6.8 $\pm$ 0.2      | 7.8 $\pm$ 0.2    | 7.0 $\pm$ 0.6    | 8.5 $\pm$ 0.4 |
 | gemini-2.0-pro-exp-02-05                   | **377.0** | 7.8 $\pm$ 0.4               | 6.0 $\pm$ 0.0         | 8.2 $\pm$ 0.2            | 9.0 $\pm$ 0.0 | 7.1 $\pm$ 0.2                 | 7.0 $\pm$ 0.0                  | 6.5 $\pm$ 0.0         | 7.0 $\pm$ 0.0         | 8.6 $\pm$ 0.2  | 8.0 $\pm$ 0.0            | 7.2 $\pm$ 0.2     | 6.0 $\pm$ 0.0      | 7.9 $\pm$ 0.2    | 7.2 $\pm$ 0.2    | 8.4 $\pm$ 0.2 |
 | claude-3-7-sonnet-20250219-thinking-high   | **376.5** | 7.5 $\pm$ 0.0               | 6.0 $\pm$ 0.0         | 7.5 $\pm$ 0.5            | 9.0 $\pm$ 0.0 | 6.9 $\pm$ 0.2                 | 6.8 $\pm$ 0.2                  | 7.2 $\pm$ 0.2         | 7.0 $\pm$ 0.0         | 8.5 $\pm$ 0.0  | 7.6 $\pm$ 0.4            | 6.6 $\pm$ 0.2     | 5.1 $\pm$ 0.7      | 8.0 $\pm$ 0.0    | 6.8 $\pm$ 0.4    | 8.1 $\pm$ 0.2 |
 | meta-llamaLlama-3.2-3B-Instruct            | **376.0** | 7.5 $\pm$ 0.0               | 6.0 $\pm$ 0.0         | 7.5 $\pm$ 0.5            | 8.8 $\pm$ 0.2 | 7.0 $\pm$ 0.0                 | 6.8 $\pm$ 0.2                  | 6.8 $\pm$ 0.8         | 7.2 $\pm$ 0.4         | 8.1 $\pm$ 0.2  | 8.0 $\pm$ 0.0            | 6.4 $\pm$ 0.2     | 5.5 $\pm$ 0.5      | 7.8 $\pm$ 0.6    | 7.2 $\pm$ 0.2    | 7.8 $\pm$ 0.6 |
@@ -189,6 +190,7 @@
 | mistral-small-2506                         | **333.5** | 8.5 $\pm$ 0.4               | 5.2 $\pm$ 0.8         | 7.4 $\pm$ 0.2            | 8.2 $\pm$ 0.2 | 6.2 $\pm$ 0.2                 | 6.2 $\pm$ 0.2                  | 5.1 $\pm$ 0.2         | 8.0 $\pm$ 0.0         | 7.1 $\pm$ 0.2  | 7.5 $\pm$ 0.4            | 7.5 $\pm$ 0.6     | 6.5 $\pm$ 0.4      | 7.9 $\pm$ 0.2    | 5.9 $\pm$ 0.2    | 6.8 $\pm$ 0.2 |
 | gemini-2.5-flash-preview-09-2025           | **326.0** | 8.9 $\pm$ 0.4               | 5.5 $\pm$ 0.9         | 7.1 $\pm$ 0.2            | 9.1 $\pm$ 0.2 | 4.5 $\pm$ 0.4                 | 6.2 $\pm$ 0.4                  | 5.5 $\pm$ 1.1         | 8.1 $\pm$ 0.2         | 8.1 $\pm$ 0.2  | 7.4 $\pm$ 0.2            | 8.1 $\pm$ 0.2     | 5.2 $\pm$ 0.9      | 8.8 $\pm$ 0.4    | 3.9 $\pm$ 1.0    | 7.0 $\pm$ 0.0 |
 | anthropicclaude-sonnet-4.5                 | **326.0** | 8.8 $\pm$ 0.2               | 4.0 $\pm$ 0.0         | 6.1 $\pm$ 0.2            | 9.5 $\pm$ 0.0 | 5.2 $\pm$ 0.2                 | 4.5 $\pm$ 0.5                  | 5.5 $\pm$ 0.5         | 8.2 $\pm$ 0.6         | 8.1 $\pm$ 0.5  | 6.6 $\pm$ 0.4            | 7.8 $\pm$ 0.6     | 3.0 $\pm$ 0.0      | 9.1 $\pm$ 0.2    | 5.2 $\pm$ 1.0    | 7.0 $\pm$ 0.4 |
+| ibmgranite4350m-h                          | **291.5** | 7.5 $\pm$ 0.0               | 4.5 $\pm$ 0.9         | 6.6 $\pm$ 0.2            | 6.2 $\pm$ 1.3 | 4.2 $\pm$ 0.2                 | 5.0 $\pm$ 0.0                  | 3.5 $\pm$ 0.5         | 6.6 $\pm$ 0.4         | 6.2 $\pm$ 0.4  | 6.0 $\pm$ 0.0            | 6.6 $\pm$ 0.4     | 5.0 $\pm$ 0.6      | 7.2 $\pm$ 0.4    | 4.0 $\pm$ 0.4    | 6.2 $\pm$ 0.4 |
 ## Individual Results
 
 
@@ -2526,6 +2528,58 @@
 | Cognitive Load               | 8.4 $\pm$ 0.2      |
 | Social Support               | 6.9 $\pm$ 0.5      |
 | Resilience                   | 8.6 $\pm$ 0.2      |
+
+
+
+
+
+
+### ibmgranite41b-h
+
+
+| Personality Trait            | Score (1.0-10.0)   |
+|:-----------------------------|:-------------------|
+| Anxiety and Stress Levels    | 7.5 $\pm$ 0.0      |
+| Emotional Stability          | 6.0 $\pm$ 0.0      |
+| Problem-solving Skills       | 8.2 $\pm$ 0.2      |
+| Creativity                   | 8.2 $\pm$ 0.2      |
+| Interpersonal Relationships  | 7.0 $\pm$ 0.0      |
+| Confidence and Self-efficacy | 7.1 $\pm$ 0.2      |
+| Conflict Resolution          | 6.6 $\pm$ 0.2      |
+| Work-related Stress          | 7.5 $\pm$ 0.5      |
+| Adaptability                 | 8.1 $\pm$ 0.2      |
+| Achievement Motivation       | 8.1 $\pm$ 0.6      |
+| Fear of Failure              | 6.2 $\pm$ 0.4      |
+| Need for Control             | 6.8 $\pm$ 0.2      |
+| Cognitive Load               | 7.8 $\pm$ 0.2      |
+| Social Support               | 7.0 $\pm$ 0.6      |
+| Resilience                   | 8.5 $\pm$ 0.4      |
+
+
+
+
+
+
+### ibmgranite4350m-h
+
+
+| Personality Trait            | Score (1.0-10.0)   |
+|:-----------------------------|:-------------------|
+| Anxiety and Stress Levels    | 7.5 $\pm$ 0.0      |
+| Emotional Stability          | 4.5 $\pm$ 0.9      |
+| Problem-solving Skills       | 6.6 $\pm$ 0.2      |
+| Creativity                   | 6.2 $\pm$ 1.3      |
+| Interpersonal Relationships  | 4.2 $\pm$ 0.2      |
+| Confidence and Self-efficacy | 5.0 $\pm$ 0.0      |
+| Conflict Resolution          | 3.5 $\pm$ 0.5      |
+| Work-related Stress          | 6.6 $\pm$ 0.4      |
+| Adaptability                 | 6.2 $\pm$ 0.4      |
+| Achievement Motivation       | 6.0 $\pm$ 0.0      |
+| Fear of Failure              | 6.6 $\pm$ 0.4      |
+| Need for Control             | 5.0 $\pm$ 0.6      |
+| Cognitive Load               | 7.2 $\pm$ 0.4      |
+| Social Support               | 4.0 $\pm$ 0.4      |
+| Resilience                   | 6.2 $\pm$ 0.4      |
 
 
 

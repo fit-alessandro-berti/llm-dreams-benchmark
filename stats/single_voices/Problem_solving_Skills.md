@@ -134,6 +134,7 @@
 | gemini-exp-1206 | 8.257 |
 | chatgpt-4o-latest-2025-01-29 | 8.229 |
 | chatgpt-4o-latest-2025-04-26 | 8.229 |
+| ibmgranite41b-h | 8.229 |
 | claude-3-7-sonnet-20250219-thinking-high | 8.214 |
 | mistral-medium-2505 | 8.200 |
 | Gemini-1.5-Pro-Exp-0827 | 8.200 |
@@ -186,6 +187,7 @@
 | mistral-small-2506 | 7.557 |
 | meta-llamaLlama-3.2-1B-Instruct | 7.543 |
 | gemini-2.0-flash-lite-preview-02-05 | 7.386 |
+| ibmgranite4350m-h | 7.286 |
 | gemma3270m | 7.229 |
 | anthropicclaude-sonnet-4.5 | 7.214 |
 | qwen2.51.5b-instruct-q6_K | 7.000 |

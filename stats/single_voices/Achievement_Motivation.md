@@ -155,6 +155,7 @@
 | qwenqwen3-coder | 8.057 |
 | magistral-medium-2506 | 8.029 |
 | meta-llamaLlama-3.2-1B-Instruct | 8.029 |
+| ibmgranite41b-h | 8.014 |
 | meta-llamallama-4-scout | 8.014 |
 | nvidianemotron-nano-9b-v2 | 8.014 |
 | QwenQwen3-30B-A3B | 8.014 |
@@ -189,3 +190,4 @@
 | claude-haiku-4-5-20251001 | 7.386 |
 | anthropicclaude-sonnet-4.5 | 7.200 |
 | qwen2.51.5b-instruct-q6_K | 7.100 |
+| ibmgranite4350m-h | 7.057 |

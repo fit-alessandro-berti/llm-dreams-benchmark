@@ -122,6 +122,7 @@
 | claude-3-7-sonnet-20250219 | 7.057 |
 | gemma-3-27b-it | 7.057 |
 | nvidianemotron-nano-9b-v2 | 7.057 |
+| ibmgranite41b-h | 7.029 |
 | Gemini-1.5-Pro-Exp-0827 | 6.986 |
 | qwen-plus-0428 | 6.971 |
 | granite4tiny-h | 6.971 |
@@ -188,4 +189,5 @@
 | anthropicclaude-sonnet-4.5 | 5.871 |
 | gemini-2.0-flash-lite-preview-02-05 | 5.814 |
 | qwen2.51.5b-instruct-q6_K | 5.700 |
+| ibmgranite4350m-h | 5.686 |
 | gemini-2.5-pro-exp-03-25 | 5.543 |

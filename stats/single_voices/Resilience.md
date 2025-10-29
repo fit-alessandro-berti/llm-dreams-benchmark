@@ -137,6 +137,7 @@
 | googlegemma-2-2b-it | 8.271 |
 | nvidianemotron-nano-9b-v2 | 8.271 |
 | r1-1776 | 8.257 |
+| ibmgranite41b-h | 8.243 |
 | Gemini-1.5-Pro-Exp-0827 | 8.243 |
 | gpt-4o-mini-2024-11-05 | 8.214 |
 | openroutercypher-alphafree | 8.214 |
@@ -188,4 +189,5 @@
 | claude-3-5-haiku-20241022 | 7.071 |
 | gemma3270m | 6.971 |
 | mistral-small-2506 | 6.900 |
+| ibmgranite4350m-h | 6.886 |
 | qwen2.51.5b-instruct-q6_K | 6.686 |

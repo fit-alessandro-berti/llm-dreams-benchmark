@@ -38,6 +38,7 @@
 | gemma3270m | 7.671 |
 | meta-llamaMeta-Llama-3.1-70B-Instruct | 7.657 |
 | gemini-2.0-pro-exp-02-05 | 7.629 |
+| ibmgranite4350m-h | 7.629 |
 | QwenQwen3-14B | 7.629 |
 | gpt-5-chat-latest-2025-08-07 | 7.614 |
 | gemini-2.5-pro-preview-05-06 | 7.586 |
@@ -63,6 +64,7 @@
 | qwen-turbo-0428 | 7.343 |
 | gemini-exp-1206 | 7.329 |
 | gemma-3n-e4b-it | 7.300 |
+| ibmgranite41b-h | 7.257 |
 | chatgpt-4o-latest-2024-11-20 | 7.229 |
 | claude-4-sonnet-20250514 | 7.200 |
 | deepseekdeepseek-chat-v3.1 | 7.200 |

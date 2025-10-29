@@ -185,7 +185,9 @@
 | claude-3-5-haiku-20241022 | 8.971 |
 | meta-llamaLlama-3.2-1B-Instruct | 8.886 |
 | openroutercypher-alphafree | 8.843 |
+| ibmgranite41b-h | 8.814 |
 | phi4-mini-reasoning | 8.714 |
 | deepseek-aiDeepSeek-R1-Zero | 8.514 |
 | gemma3270m | 8.286 |
+| ibmgranite4350m-h | 7.929 |
 | qwen2.51.5b-instruct-q6_K | 7.929 |

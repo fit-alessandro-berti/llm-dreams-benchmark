@@ -155,6 +155,7 @@
 | qwen2.5-omni-7b | 6.786 |
 | deepseek-aiDeepSeek-R1-0528 | 6.786 |
 | grok-3-mini-beta | 6.786 |
+| ibmgranite41b-h | 6.786 |
 | nousresearchhermes-4-70b | 6.757 |
 | x-aigrok-code-fast-1 | 6.757 |
 | smollm21.7b-instruct-q6_K | 6.757 |
@@ -189,3 +190,4 @@
 | meta-llamaLlama-3.2-1B-Instruct | 5.343 |
 | qwen2.51.5b-instruct-q6_K | 5.286 |
 | mistral-small-2506 | 5.186 |
+| ibmgranite4350m-h | 4.814 |

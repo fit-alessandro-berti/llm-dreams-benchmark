@@ -35,6 +35,7 @@
 | gemini-2.0-flash-thinking-exp-01-21 | 7.757 |
 | meta-llamaMeta-Llama-3.1-8B-Instruct | 7.743 |
 | qwen-plus-0428 | 7.729 |
+| ibmgranite41b-h | 7.714 |
 | mistral-medium-2508 | 7.643 |
 | deepseek-aiDeepSeek-R1-0528 | 7.571 |
 | DeepSeek-V3-0324 | 7.571 |
@@ -53,6 +54,7 @@
 | QwenQwen3-32B | 7.386 |
 | qwen2.51.5b-instruct-q6_K | 7.371 |
 | nvidiallama-3.3-nemotron-super-49b-v1 | 7.343 |
+| ibmgranite4350m-h | 7.343 |
 | Gemini-1.5-Pro-Exp-0827 | 7.329 |
 | gemini-2.5-pro-preview-05-06 | 7.329 |
 | chatgpt-4o-latest-20250215 | 7.329 |

@@ -169,6 +169,7 @@
 | magistral-medium-2506 | 8.200 |
 | gemini-2.5-flash-preview-05-20 | 8.157 |
 | meta-llamaLlama-3.3-70B-Instruct | 8.157 |
+| ibmgranite41b-h | 8.143 |
 | anthropicclaude-sonnet-4.5 | 8.100 |
 | gpt-5-chat-latest-2025-08-07 | 8.100 |
 | Qwen-QwQ-32B | 8.086 |
@@ -189,3 +190,4 @@
 | mistral-small-2506 | 7.514 |
 | gemma3270m | 7.171 |
 | qwen2.51.5b-instruct-q6_K | 7.086 |
+| ibmgranite4350m-h | 7.043 |

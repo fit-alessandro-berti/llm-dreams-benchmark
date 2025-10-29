@@ -130,6 +130,7 @@
 | gemini-2.0-pro-exp-02-05 | 6.886 |
 | gemini-2.5-pro-preview-06-05 | 6.871 |
 | mistral-medium-2505 | 6.871 |
+| ibmgranite41b-h | 6.843 |
 | gpt-4o-mini-2024-11-05 | 6.829 |
 | qwen38b | 6.829 |
 | chatgpt-4o-latest-2025-04-26 | 6.814 |
@@ -189,3 +190,4 @@
 | phi4-mini-reasoning | 5.271 |
 | gemma31b-it-q8_0 | 5.186 |
 | gemini-2.5-flash-preview-09-2025 | 5.143 |
+| ibmgranite4350m-h | 5.143 |

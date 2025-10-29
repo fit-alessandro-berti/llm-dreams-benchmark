@@ -126,6 +126,7 @@
 | gemini-exp-1206 | 6.286 |
 | magistral-small-2506 | 6.271 |
 | gemma-3-27b-it | 6.257 |
+| ibmgranite41b-h | 6.214 |
 | claude-3-5-sonnet-20241022 | 6.143 |
 | gemini-2.5-flash-lite-preview-06-17 | 6.143 |
 | qwen38b | 6.114 |
@@ -186,6 +187,7 @@
 | meta-llamallama-4-maverick | 5.071 |
 | gemini-2.5-flash-preview-09-2025 | 5.043 |
 | QwenQwen3-235B-A22B | 5.014 |
+| ibmgranite4350m-h | 4.957 |
 | gemma34b-it-q8_0 | 4.929 |
 | gemini-2.5-pro-exp-03-25 | 4.857 |
 | mistral-small-2506 | 4.771 |

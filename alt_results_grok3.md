@@ -154,6 +154,7 @@
 | grok-3-mini-beta                           | **353.2** | 7.8 $\pm$ 0.4               | 5.0 $\pm$ 0.5         | 7.7 $\pm$ 0.4            | 9.2 $\pm$ 0.2 | 6.5 $\pm$ 0.0                 | 5.8 $\pm$ 0.2                  | 6.2 $\pm$ 0.2         | 7.4 $\pm$ 0.4         | 7.9 $\pm$ 0.4  | 7.6 $\pm$ 0.4            | 6.8 $\pm$ 0.6     | 6.4 $\pm$ 0.5      | 7.4 $\pm$ 0.5    | 6.3 $\pm$ 0.2    | 7.2 $\pm$ 0.3 |
 | deepseek-aiDeepSeek-R1-0528                | **353.0** | 7.5 $\pm$ 0.0               | 4.8 $\pm$ 0.4         | 8.0 $\pm$ 0.0            | 9.0 $\pm$ 0.0 | 6.5 $\pm$ 0.0                 | 5.6 $\pm$ 0.2                  | 5.9 $\pm$ 0.2         | 7.0 $\pm$ 0.0         | 8.0 $\pm$ 0.5  | 7.8 $\pm$ 0.2            | 6.6 $\pm$ 0.2     | 6.1 $\pm$ 0.2      | 7.2 $\pm$ 0.2    | 6.4 $\pm$ 0.2    | 6.9 $\pm$ 0.2 |
 | chatgpt-4o-latest-2025-01-29               | **353.0** | 7.5 $\pm$ 0.0               | 4.9 $\pm$ 0.4         | 8.0 $\pm$ 0.0            | 9.0 $\pm$ 0.0 | 6.2 $\pm$ 0.2                 | 5.6 $\pm$ 0.2                  | 6.4 $\pm$ 0.2         | 7.2 $\pm$ 0.3         | 8.2 $\pm$ 0.6  | 8.1 $\pm$ 0.2            | 6.8 $\pm$ 0.2     | 6.8 $\pm$ 0.2      | 7.5 $\pm$ 0.0    | 6.0 $\pm$ 0.1    | 7.2 $\pm$ 0.4 |
+| ibmgranite41b-h                            | **352.7** | 7.5 $\pm$ 0.0               | 5.6 $\pm$ 0.2         | 8.0 $\pm$ 0.0            | 8.5 $\pm$ 0.0 | 6.6 $\pm$ 0.2                 | 6.1 $\pm$ 0.2                  | 6.0 $\pm$ 0.6         | 7.4 $\pm$ 0.4         | 7.2 $\pm$ 0.2  | 7.2 $\pm$ 0.2            | 6.6 $\pm$ 0.1     | 6.8 $\pm$ 0.5      | 7.5 $\pm$ 0.0    | 6.8 $\pm$ 0.2    | 7.1 $\pm$ 0.2 |
 | r1-1776                                    | **350.9** | 8.0 $\pm$ 0.5               | 5.0 $\pm$ 0.5         | 7.8 $\pm$ 0.2            | 9.3 $\pm$ 0.2 | 6.2 $\pm$ 0.2                 | 5.8 $\pm$ 0.2                  | 6.8 $\pm$ 0.2         | 7.9 $\pm$ 0.1         | 7.8 $\pm$ 0.6  | 7.4 $\pm$ 0.2            | 7.4 $\pm$ 0.6     | 6.5 $\pm$ 0.3      | 7.9 $\pm$ 0.5    | 6.2 $\pm$ 0.6    | 7.2 $\pm$ 0.7 |
 | QwenQwen3-30B-A3B                          | **349.0** | 7.8 $\pm$ 0.4               | 4.8 $\pm$ 0.4         | 7.9 $\pm$ 0.2            | 9.4 $\pm$ 0.2 | 6.1 $\pm$ 0.2                 | 5.6 $\pm$ 0.2                  | 6.6 $\pm$ 0.2         | 7.8 $\pm$ 0.4         | 7.6 $\pm$ 0.5  | 8.0 $\pm$ 0.5            | 7.1 $\pm$ 0.5     | 6.4 $\pm$ 0.2      | 7.9 $\pm$ 0.2    | 5.6 $\pm$ 0.2    | 7.0 $\pm$ 0.4 |
 | QwenQwen3-14B                              | **349.0** | 7.5 $\pm$ 0.0               | 4.8 $\pm$ 0.4         | 8.0 $\pm$ 0.0            | 9.5 $\pm$ 0.0 | 6.1 $\pm$ 0.2                 | 5.6 $\pm$ 0.2                  | 5.8 $\pm$ 0.8         | 7.7 $\pm$ 0.4         | 7.6 $\pm$ 0.4  | 7.8 $\pm$ 0.6            | 6.9 $\pm$ 0.2     | 6.4 $\pm$ 0.3      | 7.9 $\pm$ 0.4    | 6.1 $\pm$ 0.2    | 7.1 $\pm$ 0.5 |
@@ -188,6 +189,7 @@
 | gemini-2.5-pro-exp-03-25                   | **324.5** | 8.5 $\pm$ 0.0               | 4.2 $\pm$ 0.4         | 7.0 $\pm$ 0.0            | 9.2 $\pm$ 0.2 | 5.8 $\pm$ 0.2                 | 4.8 $\pm$ 0.6                  | 6.4 $\pm$ 0.2         | 8.0 $\pm$ 0.0         | 7.5 $\pm$ 0.0  | 6.8 $\pm$ 0.2            | 7.6 $\pm$ 0.2     | 6.2 $\pm$ 0.2      | 8.1 $\pm$ 0.2    | 5.6 $\pm$ 0.4    | 6.4 $\pm$ 0.2 |
 | gemini-2.5-flash-preview-09-2025           | **323.6** | 8.5 $\pm$ 0.0               | 4.2 $\pm$ 0.4         | 7.3 $\pm$ 0.3            | 9.3 $\pm$ 0.2 | 5.1 $\pm$ 0.6                 | 5.8 $\pm$ 0.4                  | 6.1 $\pm$ 0.7         | 8.0 $\pm$ 0.0         | 7.4 $\pm$ 0.2  | 7.0 $\pm$ 0.4            | 7.7 $\pm$ 0.5     | 6.6 $\pm$ 0.2      | 8.3 $\pm$ 0.3    | 5.1 $\pm$ 0.5    | 6.7 $\pm$ 0.3 |
 | gemma3270m                                 | **321.4** | 7.8 $\pm$ 0.4               | 4.6 $\pm$ 0.5         | 6.9 $\pm$ 0.1            | 7.6 $\pm$ 0.4 | 6.0 $\pm$ 0.5                 | 5.2 $\pm$ 0.5                  | 5.4 $\pm$ 0.3         | 7.4 $\pm$ 0.5         | 6.5 $\pm$ 0.6  | 7.2 $\pm$ 0.6            | 7.1 $\pm$ 0.5     | 6.4 $\pm$ 0.4      | 7.3 $\pm$ 0.2    | 6.0 $\pm$ 0.3    | 6.0 $\pm$ 0.6 |
+| ibmgranite4350m-h                          | **315.8** | 7.8 $\pm$ 0.4               | 4.5 $\pm$ 0.0         | 6.9 $\pm$ 0.1            | 7.6 $\pm$ 0.4 | 5.8 $\pm$ 0.2                 | 5.2 $\pm$ 0.2                  | 4.9 $\pm$ 0.1         | 7.8 $\pm$ 0.1         | 6.5 $\pm$ 0.0  | 6.7 $\pm$ 0.7            | 7.0 $\pm$ 0.0     | 6.5 $\pm$ 0.2      | 7.5 $\pm$ 0.0    | 5.6 $\pm$ 0.1    | 6.1 $\pm$ 0.1 |
 | qwen2.51.5b-instruct-q6_K                  | **307.9** | 7.5 $\pm$ 0.0               | 4.8 $\pm$ 0.4         | 6.4 $\pm$ 0.4            | 7.1 $\pm$ 0.1 | 5.6 $\pm$ 0.2                 | 4.7 $\pm$ 0.8                  | 5.1 $\pm$ 0.3         | 7.7 $\pm$ 0.4         | 6.4 $\pm$ 0.2  | 6.3 $\pm$ 0.3            | 7.0 $\pm$ 0.0     | 6.4 $\pm$ 0.1      | 7.2 $\pm$ 0.2    | 5.8 $\pm$ 0.3    | 5.4 $\pm$ 0.4 |
 ## Individual Results
 
@@ -2526,6 +2528,58 @@
 | Cognitive Load               | 7.5 $\pm$ 0.0      |
 | Social Support               | 7.0 $\pm$ 0.0      |
 | Resilience                   | 8.0 $\pm$ 0.0      |
+
+
+
+
+
+
+### ibmgranite41b-h
+
+
+| Personality Trait            | Score (1.0-10.0)   |
+|:-----------------------------|:-------------------|
+| Anxiety and Stress Levels    | 7.5 $\pm$ 0.0      |
+| Emotional Stability          | 5.6 $\pm$ 0.2      |
+| Problem-solving Skills       | 8.0 $\pm$ 0.0      |
+| Creativity                   | 8.5 $\pm$ 0.0      |
+| Interpersonal Relationships  | 6.6 $\pm$ 0.2      |
+| Confidence and Self-efficacy | 6.1 $\pm$ 0.2      |
+| Conflict Resolution          | 6.0 $\pm$ 0.6      |
+| Work-related Stress          | 7.4 $\pm$ 0.4      |
+| Adaptability                 | 7.2 $\pm$ 0.2      |
+| Achievement Motivation       | 7.2 $\pm$ 0.2      |
+| Fear of Failure              | 6.6 $\pm$ 0.1      |
+| Need for Control             | 6.8 $\pm$ 0.5      |
+| Cognitive Load               | 7.5 $\pm$ 0.0      |
+| Social Support               | 6.8 $\pm$ 0.2      |
+| Resilience                   | 7.1 $\pm$ 0.2      |
+
+
+
+
+
+
+### ibmgranite4350m-h
+
+
+| Personality Trait            | Score (1.0-10.0)   |
+|:-----------------------------|:-------------------|
+| Anxiety and Stress Levels    | 7.8 $\pm$ 0.4      |
+| Emotional Stability          | 4.5 $\pm$ 0.0      |
+| Problem-solving Skills       | 6.9 $\pm$ 0.1      |
+| Creativity                   | 7.6 $\pm$ 0.4      |
+| Interpersonal Relationships  | 5.8 $\pm$ 0.2      |
+| Confidence and Self-efficacy | 5.2 $\pm$ 0.2      |
+| Conflict Resolution          | 4.9 $\pm$ 0.1      |
+| Work-related Stress          | 7.8 $\pm$ 0.1      |
+| Adaptability                 | 6.5 $\pm$ 0.0      |
+| Achievement Motivation       | 6.7 $\pm$ 0.7      |
+| Fear of Failure              | 7.0 $\pm$ 0.0      |
+| Need for Control             | 6.5 $\pm$ 0.2      |
+| Cognitive Load               | 7.5 $\pm$ 0.0      |
+| Social Support               | 5.6 $\pm$ 0.1      |
+| Resilience                   | 6.1 $\pm$ 0.1      |
 
 
 

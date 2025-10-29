@@ -134,6 +134,7 @@
 | Gemini-1.5-Pro-Exp-0827                    | **380.2** | 7.5 $\pm$ 0.7               | 6.2 $\pm$ 0.5         | 8.0 $\pm$ 0.0            | 9.5 $\pm$ 0.0 | 6.9 $\pm$ 0.4                 | 7.0 $\pm$ 0.0                  | 6.6 $\pm$ 1.3         | 7.4 $\pm$ 0.4         | 8.3 $\pm$ 0.3  | 8.1 $\pm$ 0.2            | 6.9 $\pm$ 0.6     | 6.2 $\pm$ 0.4      | 7.7 $\pm$ 0.3    | 7.0 $\pm$ 0.5    | 8.5 $\pm$ 0.0 |
 | deepseekdeepseek-r1                        | **379.8** | 7.6 $\pm$ 0.2               | 6.5 $\pm$ 0.0         | 8.0 $\pm$ 0.0            | 9.5 $\pm$ 0.0 | 6.8 $\pm$ 0.2                 | 7.0 $\pm$ 0.1                  | 7.4 $\pm$ 0.2         | 7.7 $\pm$ 0.4         | 8.5 $\pm$ 0.0  | 8.1 $\pm$ 0.2            | 7.0 $\pm$ 0.4     | 6.8 $\pm$ 0.2      | 8.0 $\pm$ 0.1    | 6.4 $\pm$ 0.2    | 8.6 $\pm$ 0.1 |
 | qwen38b                                    | **379.6** | 7.9 $\pm$ 0.4               | 6.5 $\pm$ 0.3         | 8.3 $\pm$ 0.3            | 9.5 $\pm$ 0.0 | 7.0 $\pm$ 0.3                 | 6.6 $\pm$ 0.4                  | 7.5 $\pm$ 0.3         | 7.6 $\pm$ 0.4         | 8.5 $\pm$ 0.3  | 8.1 $\pm$ 0.1            | 7.1 $\pm$ 0.4     | 6.8 $\pm$ 0.2      | 8.1 $\pm$ 0.3    | 6.6 $\pm$ 0.4    | 8.6 $\pm$ 0.2 |
+| ibmgranite41b-h                            | **379.5** | 7.5 $\pm$ 0.7               | 6.4 $\pm$ 0.4         | 8.0 $\pm$ 0.0            | 9.0 $\pm$ 0.0 | 7.1 $\pm$ 0.2                 | 7.2 $\pm$ 0.2                  | 6.5 $\pm$ 0.0         | 7.8 $\pm$ 0.4         | 8.5 $\pm$ 0.0  | 7.8 $\pm$ 0.2            | 6.6 $\pm$ 0.5     | 6.9 $\pm$ 0.2      | 7.6 $\pm$ 0.2    | 6.9 $\pm$ 0.2    | 8.4 $\pm$ 0.2 |
 | gemini-2.5-flash-lite-preview-06-17        | **379.3** | 7.4 $\pm$ 0.9               | 6.3 $\pm$ 0.9         | 8.0 $\pm$ 0.1            | 9.5 $\pm$ 0.0 | 6.9 $\pm$ 0.9                 | 7.1 $\pm$ 0.4                  | 5.8 $\pm$ 1.2         | 7.2 $\pm$ 0.6         | 8.7 $\pm$ 0.2  | 8.0 $\pm$ 0.0            | 6.8 $\pm$ 0.8     | 6.1 $\pm$ 0.6      | 7.7 $\pm$ 0.6    | 6.7 $\pm$ 0.8    | 8.5 $\pm$ 0.0 |
 | gemini-exp-1206                            | **379.2** | 7.5 $\pm$ 0.0               | 6.4 $\pm$ 0.1         | 8.0 $\pm$ 0.1            | 9.5 $\pm$ 0.0 | 6.5 $\pm$ 0.5                 | 6.9 $\pm$ 0.2                  | 6.7 $\pm$ 0.7         | 7.2 $\pm$ 0.3         | 8.6 $\pm$ 0.2  | 7.7 $\pm$ 0.3            | 6.8 $\pm$ 0.2     | 6.2 $\pm$ 0.2      | 7.4 $\pm$ 0.1    | 6.8 $\pm$ 0.3    | 8.5 $\pm$ 0.0 |
 | meta-llamaMeta-Llama-3.1-405B-Instruct     | **377.5** | 7.8 $\pm$ 0.2               | 5.9 $\pm$ 0.4         | 7.9 $\pm$ 0.2            | 9.1 $\pm$ 0.2 | 7.0 $\pm$ 0.0                 | 6.9 $\pm$ 0.2                  | 6.9 $\pm$ 0.4         | 8.0 $\pm$ 0.5         | 8.2 $\pm$ 0.2  | 8.1 $\pm$ 0.2            | 7.1 $\pm$ 0.6     | 6.8 $\pm$ 0.4      | 7.8 $\pm$ 0.2    | 7.4 $\pm$ 0.2    | 8.4 $\pm$ 0.2 |
@@ -178,6 +179,7 @@
 | magistral-medium-2506                      | **343.5** | 7.6 $\pm$ 0.2               | 5.5 $\pm$ 0.0         | 7.4 $\pm$ 0.4            | 9.0 $\pm$ 0.0 | 6.0 $\pm$ 0.0                 | 6.0 $\pm$ 0.4                  | 5.9 $\pm$ 0.4         | 7.2 $\pm$ 0.4         | 7.8 $\pm$ 0.2  | 7.1 $\pm$ 0.2            | 7.0 $\pm$ 0.4     | 6.8 $\pm$ 0.2      | 7.8 $\pm$ 0.6    | 5.9 $\pm$ 0.6    | 7.2 $\pm$ 0.2 |
 | gemini-2.5-pro-exp-03-25                   | **342.5** | 8.6 $\pm$ 0.2               | 5.1 $\pm$ 0.6         | 7.4 $\pm$ 0.2            | 9.5 $\pm$ 0.0 | 6.0 $\pm$ 0.0                 | 5.6 $\pm$ 0.4                  | 5.8 $\pm$ 0.6         | 8.0 $\pm$ 0.4         | 7.6 $\pm$ 0.4  | 8.1 $\pm$ 0.2            | 7.9 $\pm$ 0.4     | 7.4 $\pm$ 0.4      | 8.0 $\pm$ 0.0    | 6.5 $\pm$ 0.0    | 7.9 $\pm$ 0.6 |
 | meta-llamallama-4-maverick                 | **341.0** | 8.4 $\pm$ 0.2               | 5.1 $\pm$ 0.2         | 7.2 $\pm$ 0.2            | 9.0 $\pm$ 0.0 | 6.4 $\pm$ 0.4                 | 6.1 $\pm$ 0.2                  | 5.2 $\pm$ 0.2         | 8.1 $\pm$ 0.2         | 7.5 $\pm$ 0.0  | 7.8 $\pm$ 0.4            | 7.8 $\pm$ 0.2     | 7.0 $\pm$ 0.0      | 8.0 $\pm$ 0.0    | 6.5 $\pm$ 0.0    | 7.4 $\pm$ 0.2 |
+| ibmgranite4350m-h                          | **340.5** | 7.5 $\pm$ 0.6               | 5.2 $\pm$ 0.4         | 7.8 $\pm$ 0.2            | 8.5 $\pm$ 0.0 | 6.0 $\pm$ 0.0                 | 6.0 $\pm$ 0.6                  | 5.5 $\pm$ 0.4         | 7.1 $\pm$ 0.2         | 7.6 $\pm$ 0.4  | 7.1 $\pm$ 0.2            | 6.8 $\pm$ 0.6     | 6.6 $\pm$ 0.2      | 7.8 $\pm$ 0.2    | 5.5 $\pm$ 0.0    | 7.4 $\pm$ 0.2 |
 | gemma3270m                                 | **338.0** | 7.9 $\pm$ 0.4               | 5.0 $\pm$ 0.8         | 7.4 $\pm$ 0.6            | 8.6 $\pm$ 0.4 | 6.1 $\pm$ 0.2                 | 5.8 $\pm$ 0.8                  | 5.8 $\pm$ 0.2         | 7.5 $\pm$ 0.5         | 7.2 $\pm$ 0.8  | 7.9 $\pm$ 0.6            | 7.4 $\pm$ 0.4     | 6.8 $\pm$ 0.2      | 7.9 $\pm$ 0.2    | 6.0 $\pm$ 0.5    | 7.1 $\pm$ 0.9 |
 | gemini-2.5-flash-preview-09-2025           | **337.0** | 8.4 $\pm$ 0.2               | 4.9 $\pm$ 0.4         | 7.5 $\pm$ 0.5            | 9.5 $\pm$ 0.0 | 5.9 $\pm$ 0.2                 | 6.0 $\pm$ 0.6                  | 5.5 $\pm$ 1.1         | 8.0 $\pm$ 0.0         | 7.6 $\pm$ 0.2  | 7.6 $\pm$ 0.6            | 8.0 $\pm$ 0.0     | 7.5 $\pm$ 0.0      | 8.6 $\pm$ 0.2    | 6.5 $\pm$ 0.0    | 7.8 $\pm$ 0.8 |
 | qwenqwen3-235b-a22b-thinking-2507          | **335.0** | 8.4 $\pm$ 0.2               | 5.5 $\pm$ 0.0         | 7.4 $\pm$ 0.2            | 9.4 $\pm$ 0.2 | 6.0 $\pm$ 0.0                 | 5.6 $\pm$ 0.4                  | 5.8 $\pm$ 0.2         | 8.1 $\pm$ 0.2         | 7.4 $\pm$ 0.2  | 7.8 $\pm$ 0.6            | 8.2 $\pm$ 0.2     | 7.6 $\pm$ 0.4      | 8.2 $\pm$ 0.2    | 5.9 $\pm$ 0.6    | 7.5 $\pm$ 0.0 |
@@ -2526,6 +2528,58 @@
 | Cognitive Load               | 7.9 $\pm$ 0.3      |
 | Social Support               | 7.1 $\pm$ 0.4      |
 | Resilience                   | 8.5 $\pm$ 0.3      |
+
+
+
+
+
+
+### ibmgranite41b-h
+
+
+| Personality Trait            | Score (1.0-10.0)   |
+|:-----------------------------|:-------------------|
+| Anxiety and Stress Levels    | 7.5 $\pm$ 0.7      |
+| Emotional Stability          | 6.4 $\pm$ 0.4      |
+| Problem-solving Skills       | 8.0 $\pm$ 0.0      |
+| Creativity                   | 9.0 $\pm$ 0.0      |
+| Interpersonal Relationships  | 7.1 $\pm$ 0.2      |
+| Confidence and Self-efficacy | 7.2 $\pm$ 0.2      |
+| Conflict Resolution          | 6.5 $\pm$ 0.0      |
+| Work-related Stress          | 7.8 $\pm$ 0.4      |
+| Adaptability                 | 8.5 $\pm$ 0.0      |
+| Achievement Motivation       | 7.8 $\pm$ 0.2      |
+| Fear of Failure              | 6.6 $\pm$ 0.5      |
+| Need for Control             | 6.9 $\pm$ 0.2      |
+| Cognitive Load               | 7.6 $\pm$ 0.2      |
+| Social Support               | 6.9 $\pm$ 0.2      |
+| Resilience                   | 8.4 $\pm$ 0.2      |
+
+
+
+
+
+
+### ibmgranite4350m-h
+
+
+| Personality Trait            | Score (1.0-10.0)   |
+|:-----------------------------|:-------------------|
+| Anxiety and Stress Levels    | 7.5 $\pm$ 0.6      |
+| Emotional Stability          | 5.2 $\pm$ 0.4      |
+| Problem-solving Skills       | 7.8 $\pm$ 0.2      |
+| Creativity                   | 8.5 $\pm$ 0.0      |
+| Interpersonal Relationships  | 6.0 $\pm$ 0.0      |
+| Confidence and Self-efficacy | 6.0 $\pm$ 0.6      |
+| Conflict Resolution          | 5.5 $\pm$ 0.4      |
+| Work-related Stress          | 7.1 $\pm$ 0.2      |
+| Adaptability                 | 7.6 $\pm$ 0.4      |
+| Achievement Motivation       | 7.1 $\pm$ 0.2      |
+| Fear of Failure              | 6.8 $\pm$ 0.6      |
+| Need for Control             | 6.6 $\pm$ 0.2      |
+| Cognitive Load               | 7.8 $\pm$ 0.2      |
+| Social Support               | 5.5 $\pm$ 0.0      |
+| Resilience                   | 7.4 $\pm$ 0.2      |
 
 
 

@@ -144,6 +144,7 @@
 | Gemini-1.5-Pro-Exp-0827 | 6.914 |
 | gemini-2.0-flash-thinking-exp-01-21 | 6.914 |
 | grok-4-0709 | 6.900 |
+| ibmgranite41b-h | 6.900 |
 | claude-4-opus-20250514 | 6.900 |
 | x-aigrok-code-fast-1 | 6.886 |
 | claude-3-5-sonnet-20241022 | 6.886 |
@@ -189,3 +190,4 @@
 | phi4-mini-reasoning | 5.671 |
 | gemma31b-it-q8_0 | 5.629 |
 | gemini-2.5-flash-preview-09-2025 | 5.443 |
+| ibmgranite4350m-h | 5.414 |

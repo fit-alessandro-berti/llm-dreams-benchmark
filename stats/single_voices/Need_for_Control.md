@@ -9,6 +9,7 @@
 | QwenQwen3-235B-A22B | 6.857 |
 | gemini-2.5-flash-preview-09-2025 | 6.857 |
 | qwen30.6b | 6.843 |
+| ibmgranite41b-h | 6.800 |
 | tngtechdeepseek-r1t-chimerafree | 6.800 |
 | deepseekdeepseek-r1 | 6.786 |
 | r1-1776 | 6.771 |
@@ -74,6 +75,7 @@
 | mistral-medium-2505 | 6.329 |
 | chatgpt-4o-latest-20250215 | 6.314 |
 | DeepSeek-R1-Lite-Preview | 6.314 |
+| ibmgranite4350m-h | 6.314 |
 | falcon310b-instruct-q8_0 | 6.257 |
 | mistral-small-2503 | 6.257 |
 | qwen-max-2025-01-25 | 6.257 |

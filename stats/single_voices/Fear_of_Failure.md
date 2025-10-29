@@ -36,6 +36,7 @@
 | mistral-medium-2508 | 6.986 |
 | meta-llamaMeta-Llama-3.1-8B-Instruct | 6.957 |
 | gemini-2.0-flash-thinking-exp-01-21 | 6.957 |
+| ibmgranite4350m-h | 6.957 |
 | googlegemma-2-2b-it | 6.943 |
 | gpt-5-chat-latest-2025-08-07 | 6.900 |
 | meta-llamaMeta-Llama-3.1-70B-Instruct | 6.900 |
@@ -54,6 +55,7 @@
 | gemini-2.5-pro-preview-05-06 | 6.600 |
 | meta-llamaLlama-3.2-3B-Instruct | 6.600 |
 | anthropicclaude-opus-4.1 | 6.586 |
+| ibmgranite41b-h | 6.586 |
 | nvidiallama-3.3-nemotron-super-49b-v1 | 6.571 |
 | deepseekdeepseek-chat-v3.1 | 6.543 |
 | chatgpt-4o-latest-2025-01-29 | 6.543 |

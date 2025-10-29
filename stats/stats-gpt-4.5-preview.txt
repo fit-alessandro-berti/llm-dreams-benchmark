@@ -73,15 +73,15 @@ Range:
   Resilience: 3.600
 
 2. UMAP Analysis:
-  Variance UMAP1: 6.211
-  Variance UMAP2: 7.674
-  Total variance: 13.885
-  Range UMAP1: 7.995
-  Range UMAP2: 9.062
+  Variance UMAP1: 4.541
+  Variance UMAP2: 15.103
+  Total variance: 19.645
+  Range UMAP1: 7.285
+  Range UMAP2: 12.622
   Sample embeddings (first 3 LLMs):
-    microsoftPhi-3-medium-4k-instruct: UMAP1=-6.173, UMAP2=5.962
-    granite4small-h: UMAP1=-6.805, UMAP2=5.971
-    open-mistral-7b: UMAP1=-6.481, UMAP2=6.165
+    microsoftPhi-3-medium-4k-instruct: UMAP1=-9.583, UMAP2=-3.633
+    granite4small-h: UMAP1=-9.993, UMAP2=-4.077
+    open-mistral-7b: UMAP1=-9.732, UMAP2=-4.083
 
 3. Correlation Analysis:
   Mean absolute correlation: 0.640

@@ -31,7 +31,6 @@
 | falcon37b-instruct-q8_0 | 8.929 |
 | open-mistral-7b | 8.914 |
 | qwen2.5-72b-instruct | 8.914 |
-| openrouterhorizon-beta | 8.900 |
 | gpt-4-0125-preview | 8.900 |
 | gpt-4.1-2025-04-14 | 8.886 |
 | gpt-5-mini-2025-08-07 | 8.886 |
@@ -170,7 +169,6 @@
 | qwenqwen3-235b-a22b-thinking-2507 | 7.971 |
 | gemini-2.5-pro-exp-03-25 | 7.943 |
 | gemma34b-it-q8_0 | 7.929 |
-| thudmglm-4-32b | 7.886 |
 | meta-llamaMeta-Llama-3.1-8B-Instruct | 7.886 |
 | gemma31b-it-q8_0 | 7.857 |
 | phi4-mini-reasoning | 7.857 |

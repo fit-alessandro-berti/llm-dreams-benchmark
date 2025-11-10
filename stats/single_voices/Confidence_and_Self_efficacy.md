@@ -71,7 +71,6 @@
 | qwen30.6b | 7.586 |
 | baiduernie-4.5-300b-a47b | 7.571 |
 | exaone-deep7.8b-fp16 | 7.571 |
-| openrouterhorizon-beta | 7.557 |
 | granite4micro-h | 7.543 |
 | qwen2.5-7b-instruct | 7.543 |
 | o1-2024-12-17 | 7.543 |
@@ -163,7 +162,6 @@
 | anthropicclaude-opus-4.1 | 6.386 |
 | meta-llamallama-4-scout | 6.357 |
 | Qwen-QwQ-32B | 6.343 |
-| thudmglm-4-32b | 6.343 |
 | gpt-5-chat-latest-2025-08-07 | 6.329 |
 | gemini-2.5-flash-preview-05-20 | 6.314 |
 | nvidiallama-3.1-nemotron-nano-8b-v1 | 6.300 |

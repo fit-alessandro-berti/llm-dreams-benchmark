@@ -12,7 +12,6 @@
 | anthropicclaude-sonnet-4.5 | 7.557 |
 | Gemini-1.5-Pro-Exp-0801 | 7.557 |
 | gemma34b-it-q8_0 | 7.529 |
-| thudmglm-4-32b | 7.529 |
 | QwenQwen3-30B-A3B | 7.486 |
 | gemini-2.5-flash-preview-04-17 | 7.457 |
 | meta-llamallama-4-maverick | 7.457 |
@@ -131,7 +130,6 @@
 | gpt-3.5-turbo | 5.114 |
 | mistral-small-2503 | 5.086 |
 | gpt-4-0613 | 5.086 |
-| openrouterhorizon-beta | 5.057 |
 | o4-mini-2025-04-16 | 5.043 |
 | codex-mini-latest | 5.029 |
 | mistral-large-2411 | 5.014 |

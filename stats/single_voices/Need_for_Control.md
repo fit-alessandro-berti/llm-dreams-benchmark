@@ -3,7 +3,6 @@
 | Model | Average |
 |:--|--:|
 | phi4-mini-reasoning | 7.557 |
-| thudmglm-4-32b | 6.900 |
 | mistral-small-2506 | 6.886 |
 | qwenqwen3-235b-a22b-thinking-2507 | 6.871 |
 | QwenQwen3-235B-A22B | 6.857 |
@@ -145,7 +144,6 @@
 | claude-3-7-sonnet-20250219 | 5.771 |
 | gpt-4o-2024-08-06 | 5.771 |
 | o1-preview-2024-09-12 | 5.686 |
-| openrouterhorizon-beta | 5.686 |
 | chatgpt-4o-latest-2025-03-26 | 5.671 |
 | inceptionmercury | 5.671 |
 | qwen2.5-32b-instruct | 5.671 |

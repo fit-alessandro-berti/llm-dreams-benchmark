@@ -40,7 +40,6 @@
 | granite4micro | 7.871 |
 | deepseekdeepseek-v3.2-exp | 7.843 |
 | codex-mini-latest | 7.843 |
-| openrouterhorizon-beta | 7.829 |
 | ministral-3b-2410 | 7.829 |
 | open-mistral-nemo | 7.814 |
 | mistral-large-2411 | 7.800 |
@@ -164,7 +163,6 @@
 | gemini-2.5-flash-preview-05-20 | 6.343 |
 | meta-llamallama-4-maverick | 6.329 |
 | qwenqwen3-235b-a22b-thinking-2507 | 6.286 |
-| thudmglm-4-32b | 6.271 |
 | chatgpt-4o-latest-20250215 | 6.271 |
 | anthropicclaude-sonnet-4.5 | 6.157 |
 | Qwen-QwQ-32B | 6.114 |

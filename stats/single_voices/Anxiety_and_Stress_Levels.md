@@ -9,7 +9,6 @@
 | gemini-2.0-flash-lite-preview-02-05 | 8.300 |
 | mistral-small-2506 | 8.257 |
 | gemini-2.5-flash-preview-04-17 | 8.229 |
-| thudmglm-4-32b | 8.143 |
 | anthropicclaude-sonnet-4.5 | 8.114 |
 | gemma34b-it-q8_0 | 8.086 |
 | meta-llamallama-4-maverick | 8.086 |
@@ -136,7 +135,6 @@
 | ministral-3b-2410 | 5.900 |
 | phi4-reasoning | 5.886 |
 | mistral-small-2503 | 5.829 |
-| openrouterhorizon-beta | 5.800 |
 | mistral-small-2501 | 5.786 |
 | qwen34b-instruct-2507-q8_0 | 5.757 |
 | mistral-small-2409 | 5.729 |

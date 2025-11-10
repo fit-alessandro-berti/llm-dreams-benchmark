@@ -42,7 +42,6 @@
 | o4-mini-2025-04-16 | 7.457 |
 | ministral-8b-2410 | 7.443 |
 | phi4-reasoningplus | 7.443 |
-| openrouterhorizon-beta | 7.414 |
 | gpt-4.1-2025-04-14 | 7.386 |
 | gpt-4o-mini-2024-07-18 | 7.343 |
 | mistral-small-2501 | 7.329 |
@@ -169,7 +168,6 @@
 | anthropicclaude-sonnet-4.5 | 5.314 |
 | claude-3-5-haiku-20241022 | 5.243 |
 | qwenqwen3-235b-a22b-thinking-2507 | 5.200 |
-| thudmglm-4-32b | 5.186 |
 | gemini-2.5-flash-preview-04-17 | 5.143 |
 | gemma31b-it-q8_0 | 5.086 |
 | gemini-2.0-flash-lite-preview-02-05 | 5.071 |

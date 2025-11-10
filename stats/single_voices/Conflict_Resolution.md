@@ -43,7 +43,6 @@
 | o3-2025-04-16 | 8.057 |
 | open-mistral-7b | 8.057 |
 | granite4small-h | 8.043 |
-| openrouterhorizon-beta | 8.043 |
 | qwen-turbo-2024-11-01 | 8.043 |
 | baiduernie-4.5-21b-a3b | 8.014 |
 | gpt-4.1-nano-2025-04-14 | 8.000 |
@@ -140,7 +139,6 @@
 | QwenQwen3-30B-A3B | 6.929 |
 | z-aiglm-4.5 | 6.929 |
 | grok-4-0709 | 6.914 |
-| thudmglm-4-32b | 6.914 |
 | tngtechdeepseek-r1t-chimerafree | 6.843 |
 | chatgpt-4o-latest-2025-01-29 | 6.800 |
 | qwen2.5-omni-7b | 6.786 |

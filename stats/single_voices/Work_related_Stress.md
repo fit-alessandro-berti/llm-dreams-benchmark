@@ -8,7 +8,6 @@
 | QwenQwen3-235B-A22B | 8.200 |
 | mistral-small-2506 | 8.143 |
 | gemini-2.5-pro-exp-03-25 | 8.100 |
-| thudmglm-4-32b | 8.100 |
 | gemini-2.5-flash-preview-05-20 | 8.071 |
 | meta-llamallama-4-maverick | 8.071 |
 | z-aiglm-4.5-air | 8.057 |
@@ -134,7 +133,6 @@
 | liquidlfm-2.2-6b | 6.029 |
 | microsoftWizardLM-2-8x22B | 6.029 |
 | mistral-small-2503 | 6.029 |
-| openrouterhorizon-beta | 5.986 |
 | mistral-large-2411 | 5.971 |
 | qwen-turbo-2024-11-01 | 5.957 |
 | o4-mini-2025-04-16 | 5.914 |

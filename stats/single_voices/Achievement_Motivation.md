@@ -89,7 +89,6 @@
 | chatgpt-4o-latest-2025-03-26 | 8.357 |
 | deepseekdeepseek-r1 | 8.357 |
 | Gemini-1.5-Pro-Exp-0827 | 8.357 |
-| openrouterhorizon-beta | 8.357 |
 | qwenqwen3-30b-a3b-instruct-2507 | 8.357 |
 | QwenQwen3-32B | 8.357 |
 | gemma-3n-e4b-it | 8.343 |
@@ -154,7 +153,6 @@
 | claude-3-7-sonnet-20250219-thinking-high | 7.986 |
 | gemma-3-27b-it | 7.986 |
 | QwenQwen3-235B-A22B | 7.971 |
-| thudmglm-4-32b | 7.971 |
 | gemma312b-it-q8_0 | 7.971 |
 | gemini-2.5-pro-preview-06-05 | 7.957 |
 | qwenqwen3-next-80b-a3b-instruct | 7.929 |

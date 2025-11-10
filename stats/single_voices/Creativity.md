@@ -17,7 +17,6 @@
 | deepseekdeepseek-v3.2-exp | 9.557 |
 | grok-4-0709 | 9.557 |
 | o3-mini-20250131-HIGH | 9.557 |
-| openrouterhorizon-beta | 9.543 |
 | qwenqwen3-30b-a3b-instruct-2507 | 9.543 |
 | claude-3-5-sonnet-20241022 | 9.543 |
 | gemini-2.5-flash-preview-09-2025 | 9.529 |
@@ -172,7 +171,6 @@
 | open-mistral-7b | 9.014 |
 | exaone-deep7.8b-fp16 | 8.986 |
 | qwen2.5-omni-7b | 8.986 |
-| thudmglm-4-32b | 8.986 |
 | meta-llamaLlama-3.3-70B-Instruct | 8.971 |
 | claude-3-5-haiku-20241022 | 8.971 |
 | meta-llamaLlama-3.2-1B-Instruct | 8.886 |

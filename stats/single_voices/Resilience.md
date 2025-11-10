@@ -25,7 +25,6 @@
 | gpt-4o-2024-08-06 | 8.929 |
 | granite3.28b-instruct-q4_K_M | 8.929 |
 | open-mistral-nemo | 8.929 |
-| openrouterhorizon-beta | 8.929 |
 | gpt-5-nano-2025-08-07 | 8.914 |
 | o3-2025-04-16 | 8.914 |
 | openaigpt-oss-120b | 8.914 |
@@ -164,7 +163,6 @@
 | meta-llamaMeta-Llama-3.1-8B-Instruct | 7.629 |
 | magistral-medium-2506 | 7.586 |
 | gemini-2.5-flash-preview-09-2025 | 7.557 |
-| thudmglm-4-32b | 7.557 |
 | phi4-mini-reasoning | 7.471 |
 | nvidiallama-3.1-nemotron-nano-8b-v1 | 7.429 |
 | gpt-5-chat-latest-2025-08-07 | 7.414 |

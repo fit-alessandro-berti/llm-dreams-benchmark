@@ -28,7 +28,6 @@
 | deepseekdeepseek-r1 | 8.143 |
 | qwen38b | 8.143 |
 | meta-llamaMeta-Llama-3.1-8B-Instruct | 8.129 |
-| thudmglm-4-32b | 8.114 |
 | QwenQwen3-32B | 8.086 |
 | deepseek-aiDeepSeek-R1-0528 | 8.071 |
 | magistral-medium-2506 | 8.071 |
@@ -145,7 +144,6 @@
 | openaigpt-oss-120b | 7.214 |
 | falcon37b-instruct-q8_0 | 7.200 |
 | gpt-4-turbo-2024-04-09 | 7.200 |
-| openrouterhorizon-beta | 7.200 |
 | gpt-3.5-turbo | 7.186 |
 | gemini-2.0-flash-exp | 7.171 |
 | o1-2024-12-17 | 7.171 |

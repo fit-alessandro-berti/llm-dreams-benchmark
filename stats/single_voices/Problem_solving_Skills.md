@@ -42,7 +42,6 @@
 | Grok-3-20250426-concise | 8.643 |
 | devstral-small-2505 | 8.629 |
 | gpt-5-pro-2025-10-06 | 8.629 |
-| openrouterhorizon-beta | 8.629 |
 | phi3.53.8b-mini-instruct-fp16 | 8.629 |
 | exaone-deep7.8b-fp16 | 8.629 |
 | mistral-large-2411 | 8.614 |
@@ -167,7 +166,6 @@
 | grok-3-mini-beta | 7.829 |
 | gpt-5-chat-latest-2025-08-07 | 7.814 |
 | meta-llamaMeta-Llama-3.1-8B-Instruct | 7.771 |
-| thudmglm-4-32b | 7.714 |
 | claude-3-5-haiku-20241022 | 7.686 |
 | meta-llamallama-4-maverick | 7.671 |
 | gemma31b-it-q8_0 | 7.671 |

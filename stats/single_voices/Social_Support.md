@@ -43,7 +43,6 @@
 | o3-mini-20250131-HIGH | 7.814 |
 | baiduernie-4.5-300b-a47b | 7.786 |
 | codex-mini-latest | 7.786 |
-| openrouterhorizon-beta | 7.771 |
 | mistral-large-2411 | 7.757 |
 | mistral-small-2501 | 7.757 |
 | falcon310b-instruct-q8_0 | 7.743 |
@@ -168,7 +167,6 @@
 | chatgpt-4o-latest-20250215 | 6.057 |
 | magistral-medium-2506 | 6.043 |
 | gemini-2.5-flash-preview-04-17 | 6.029 |
-| thudmglm-4-32b | 6.000 |
 | gemini-2.5-pro-exp-03-25 | 5.871 |
 | claude-3-5-haiku-20241022 | 5.871 |
 | gemma34b-it-q8_0 | 5.771 |

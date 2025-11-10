@@ -2,6 +2,7 @@
 
 | Model | Average |
 |:--|--:|
+| moonshotaikimi-k2-thinking | 8.486 |
 | gemini-2.5-flash-preview-09-2025 | 8.329 |
 | gemini-2.0-flash-lite-preview-02-05 | 8.229 |
 | qwenqwen3-235b-a22b-thinking-2507 | 8.214 |
@@ -34,6 +35,7 @@
 | meta-llamaMeta-Llama-3.1-8B-Instruct | 7.743 |
 | qwen-plus-0428 | 7.729 |
 | ibmgranite41b-h | 7.714 |
+| openrouterpolaris-alpha | 7.700 |
 | mistral-medium-2508 | 7.643 |
 | deepseek-aiDeepSeek-R1-0528 | 7.571 |
 | DeepSeek-V3-0324 | 7.571 |
@@ -69,6 +71,7 @@
 | granite4tiny-h | 7.086 |
 | chatgpt-4o-latest-2024-11-20 | 7.071 |
 | claude-3-7-sonnet-20250219 | 7.071 |
+| moonshotaikimi-linear-48b-a3b-instruct | 7.057 |
 | smollm21.7b-instruct-q6_K | 7.057 |
 | falcon33b-instruct-q8_0 | 7.029 |
 | nvidiallama-3.1-nemotron-ultra-253b-v1free | 7.014 |

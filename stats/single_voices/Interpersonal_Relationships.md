@@ -113,10 +113,12 @@
 | Gemini-1.5-Pro-Exp-0801 | 7.100 |
 | gemma312b-it-q8_0 | 7.100 |
 | gemini-2.5-pro-preview-05-06 | 7.086 |
+| moonshotaikimi-linear-48b-a3b-instruct | 7.071 |
 | gemma-3n-e4b-it | 7.057 |
 | qwen-turbo-0428 | 7.057 |
 | qwen38b | 7.043 |
 | meta-llamallama-4-scout | 7.043 |
+| openrouterpolaris-alpha | 7.043 |
 | qwenqwen3-235b-a22b-07-25 | 7.043 |
 | QwenQwen3-32B | 7.043 |
 | anthropicclaude-opus-4.1 | 7.029 |
@@ -172,6 +174,7 @@
 | gemini-2.5-pro-exp-03-25 | 6.057 |
 | mistral-small-2506 | 6.057 |
 | tngtechdeepseek-r1t-chimerafree | 6.057 |
+| moonshotaikimi-k2-thinking | 5.986 |
 | QwenQwen3-235B-A22B | 5.871 |
 | claude-3-5-haiku-20241022 | 5.800 |
 | phi4-mini-reasoning | 5.671 |

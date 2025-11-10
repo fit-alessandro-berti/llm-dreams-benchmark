@@ -120,6 +120,7 @@
 | z-aiglm-4.5-air | 8.257 |
 | gpt-5-mini-2025-08-07 | 8.243 |
 | o1-2024-12-17 | 8.229 |
+| openrouterpolaris-alpha | 8.229 |
 | QwenQwen3-14B | 8.214 |
 | gemini-2.5-pro-preview-05-06 | 8.200 |
 | meta-llamaMeta-Llama-3.1-8B-Instruct | 8.200 |
@@ -131,6 +132,7 @@
 | gpt-4-1106-preview | 8.171 |
 | gemini-2.0-flash-exp | 8.171 |
 | magistral-small-2506 | 8.171 |
+| moonshotaikimi-linear-48b-a3b-instruct | 8.143 |
 | deepseek-aiDeepSeek-R1-0528 | 8.143 |
 | meta-llamallama-4-maverick | 8.143 |
 | tngtechdeepseek-r1t-chimerafree | 8.143 |
@@ -174,6 +176,7 @@
 | gemini-2.0-flash-lite-preview-02-05 | 7.514 |
 | gemma34b-it-q8_0 | 7.500 |
 | gemini-2.5-flash-preview-05-20 | 7.500 |
+| moonshotaikimi-k2-thinking | 7.443 |
 | anthropicclaude-opus-4.1 | 7.400 |
 | claude-haiku-4-5-20251001 | 7.386 |
 | anthropicclaude-sonnet-4.5 | 7.200 |

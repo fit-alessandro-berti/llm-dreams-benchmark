@@ -40,6 +40,7 @@
 | meta-llamaLlama-3.3-70B-Instruct | 6.500 |
 | deepseek-aiDeepSeek-R1-0528 | 6.486 |
 | deepseek-aiDeepSeek-V3 | 6.486 |
+| moonshotaikimi-k2-thinking | 6.486 |
 | nvidiaLlama-3.1-Nemotron-70B-Instruct | 6.471 |
 | meta-llamallama-4-scout | 6.471 |
 | baiduernie-4.5-21b-a3b | 6.457 |
@@ -55,6 +56,7 @@
 | Grok-3-20250426-concise | 6.414 |
 | mistral-medium-2508 | 6.414 |
 | Grok-3-beta-thinking-20250303 | 6.400 |
+| openrouterpolaris-alpha | 6.400 |
 | meta-llamallama-4-maverick | 6.386 |
 | deepseekdeepseek-chat-v3.1 | 6.371 |
 | nvidiallama-3.1-nemotron-nano-8b-v1 | 6.371 |
@@ -88,6 +90,7 @@
 | chatgpt-4o-latest-2025-01-29 | 6.171 |
 | mistral-small-2501 | 6.171 |
 | Gemini-1.5-Pro-Exp-0827 | 6.157 |
+| moonshotaikimi-linear-48b-a3b-instruct | 6.157 |
 | phi3.53.8b-mini-instruct-fp16 | 6.157 |
 | gemini-2.0-pro-exp-02-05 | 6.143 |
 | qwen2.5-14b-instruct | 6.143 |

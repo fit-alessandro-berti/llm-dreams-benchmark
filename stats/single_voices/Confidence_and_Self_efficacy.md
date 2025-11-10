@@ -99,6 +99,7 @@
 | qwenqwen3-30b-a3b-instruct-2507 | 7.243 |
 | moonshotaikimi-k2 | 7.200 |
 | qwen-turbo-0428 | 7.171 |
+| moonshotaikimi-linear-48b-a3b-instruct | 7.171 |
 | smollm21.7b-instruct-q6_K | 7.171 |
 | chatgpt-4o-latest-2024-11-20 | 7.157 |
 | gpt-4o-mini-2024-11-05 | 7.157 |
@@ -141,6 +142,7 @@
 | z-aiglm-4.5 | 6.743 |
 | tngtechdeepseek-r1t-chimerafree | 6.743 |
 | deepseek-aiDeepSeek-R1-0528 | 6.729 |
+| openrouterpolaris-alpha | 6.714 |
 | z-aiglm-4.5-air | 6.714 |
 | claude-4-sonnet-20250514 | 6.700 |
 | googlegemma-2-2b-it | 6.700 |
@@ -178,3 +180,4 @@
 | gemini-2.0-flash-lite-preview-02-05 | 5.814 |
 | ibmgranite4350m-h | 5.686 |
 | gemini-2.5-pro-exp-03-25 | 5.543 |
+| moonshotaikimi-k2-thinking | 5.371 |

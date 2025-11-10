@@ -5,6 +5,7 @@
 | qwenqwen3-235b-a22b-thinking-2507 | 8.043 |
 | gemini-2.5-flash-preview-09-2025 | 7.971 |
 | gemini-2.0-flash-lite-preview-02-05 | 7.971 |
+| moonshotaikimi-k2-thinking | 7.943 |
 | mistral-small-2506 | 7.729 |
 | QwenQwen3-235B-A22B | 7.700 |
 | gemini-2.5-pro-exp-03-25 | 7.629 |
@@ -22,6 +23,7 @@
 | tngtechdeepseek-r1t-chimerafree | 7.257 |
 | claude-3-opus-20240229 | 7.243 |
 | z-aiglm-4.5 | 7.200 |
+| openrouterpolaris-alpha | 7.186 |
 | qwen31.7b | 7.186 |
 | meta-llamallama-4-scout | 7.186 |
 | Qwen-QwQ-32B | 7.171 |
@@ -62,6 +64,7 @@
 | claude-4-sonnet-20250514 | 6.471 |
 | x-aigrok-code-fast-1 | 6.471 |
 | qwenqwen3-30b-a3b-instruct-2507 | 6.414 |
+| moonshotaikimi-linear-48b-a3b-instruct | 6.400 |
 | granite4tiny-h | 6.386 |
 | gemma-3n-e4b-it | 6.371 |
 | chatgpt-4o-latest-2024-11-20 | 6.371 |

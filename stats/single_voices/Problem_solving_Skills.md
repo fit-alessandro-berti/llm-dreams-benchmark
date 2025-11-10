@@ -60,6 +60,7 @@
 | granite4micro-h | 8.557 |
 | mistral-small-2409 | 8.557 |
 | mistral-small-2501 | 8.557 |
+| openrouterpolaris-alpha | 8.557 |
 | o1-pro-2024-12-17 | 8.543 |
 | qwen2.5-7b-instruct | 8.543 |
 | phi4-reasoning | 8.543 |
@@ -122,6 +123,7 @@
 | gpt-5-chat-latest-2025-08-19 | 8.286 |
 | r1-1776 | 8.271 |
 | chatgpt-4o-latest-20250215 | 8.271 |
+| moonshotaikimi-linear-48b-a3b-instruct | 8.271 |
 | qwenqwen3-235b-a22b-07-25 | 8.271 |
 | chatgpt-4o-latest-2025-01-29 | 8.229 |
 | chatgpt-4o-latest-2025-04-26 | 8.229 |
@@ -177,4 +179,5 @@
 | meta-llamaLlama-3.2-1B-Instruct | 7.543 |
 | gemini-2.0-flash-lite-preview-02-05 | 7.386 |
 | ibmgranite4350m-h | 7.286 |
+| moonshotaikimi-k2-thinking | 7.229 |
 | anthropicclaude-sonnet-4.5 | 7.214 |

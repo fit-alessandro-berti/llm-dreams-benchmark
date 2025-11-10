@@ -3,6 +3,7 @@
 | Model | Average |
 |:--|--:|
 | gemini-2.5-flash-preview-09-2025 | 8.829 |
+| moonshotaikimi-k2-thinking | 8.700 |
 | Qwen-QwQ-32B | 8.600 |
 | QwenQwen3-235B-A22B | 8.571 |
 | qwenqwen3-235b-a22b-thinking-2507 | 8.500 |
@@ -20,6 +21,7 @@
 | mistral-medium-2508 | 8.243 |
 | z-aiglm-4.5-air | 8.243 |
 | anthropicclaude-opus-4.1 | 8.229 |
+| openrouterpolaris-alpha | 8.214 |
 | z-aiglm-4.5 | 8.200 |
 | mistral-small-2506 | 8.186 |
 | gemini-2.0-flash-lite-preview-02-05 | 8.157 |
@@ -48,6 +50,7 @@
 | x-aigrok-code-fast-1 | 7.929 |
 | claude-3-5-sonnet-20241022 | 7.929 |
 | gemini-1.5-flash-8b | 7.929 |
+| moonshotaikimi-linear-48b-a3b-instruct | 7.929 |
 | claude-3-opus-20240229 | 7.914 |
 | gemini-1.5-flash-002 | 7.914 |
 | claude-3-5-haiku-20241022 | 7.900 |

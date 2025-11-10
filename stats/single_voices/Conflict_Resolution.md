@@ -57,6 +57,7 @@
 | googlegemma-2-9b-it | 7.957 |
 | gpt-4-turbo-2024-04-09 | 7.957 |
 | open-mixtral-8x22b | 7.943 |
+| moonshotaikimi-linear-48b-a3b-instruct | 7.914 |
 | o1-pro-2024-12-17 | 7.914 |
 | granite4tiny-h | 7.900 |
 | o1-pro-2024-12-05 | 7.900 |
@@ -103,6 +104,7 @@
 | QwenQwen3-32B | 7.543 |
 | Grok-4-fast | 7.514 |
 | meta-llamaLlama-3.3-70B-Instruct | 7.500 |
+| openrouterpolaris-alpha | 7.471 |
 | Gemini-1.5-Pro-Exp-0801 | 7.457 |
 | nvidianemotron-nano-9b-v2 | 7.443 |
 | falcon33b-instruct-q8_0 | 7.429 |
@@ -131,6 +133,7 @@
 | qwen30.6b | 7.057 |
 | nvidiallama-3.3-nemotron-super-49b-v1 | 7.057 |
 | gemma312b-it-q8_0 | 7.029 |
+| moonshotaikimi-k2-thinking | 7.014 |
 | meta-llamaMeta-Llama-3.1-70B-Instruct | 7.014 |
 | chatgpt-4o-latest-2024-11-20 | 6.986 |
 | magistral-small-2506 | 6.943 |

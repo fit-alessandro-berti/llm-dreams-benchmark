@@ -110,9 +110,11 @@
 | claude-haiku-4-5-20251001 | 7.057 |
 | gemini-2.0-flash-exp | 7.057 |
 | Gemini-1.5-Pro-Exp-0801 | 7.014 |
+| moonshotaikimi-linear-48b-a3b-instruct | 7.014 |
 | magistral-small-2506 | 7.000 |
 | anthropicclaude-opus-4.1 | 6.986 |
 | gemma-3-27b-it | 6.986 |
+| openrouterpolaris-alpha | 6.971 |
 | meta-llamallama-4-scout | 6.957 |
 | qwen-turbo-0428 | 6.957 |
 | nvidiallama-3.3-nemotron-super-49b-v1 | 6.943 |
@@ -172,6 +174,7 @@
 | gemma34b-it-q8_0 | 5.771 |
 | Qwen-QwQ-32B | 5.757 |
 | gpt-5-chat-latest-2025-08-07 | 5.743 |
+| moonshotaikimi-k2-thinking | 5.671 |
 | mistral-small-2506 | 5.657 |
 | QwenQwen3-235B-A22B | 5.429 |
 | phi4-mini-reasoning | 5.271 |

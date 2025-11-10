@@ -8,6 +8,7 @@
 | o3-pro-2025-06-10 | 9.657 |
 | claude-4-opus-20250514 | 9.643 |
 | Grok-4-fast | 9.643 |
+| moonshotaikimi-k2-thinking | 9.643 |
 | o3-2025-04-16 | 9.643 |
 | gemini-2.5-pro-preview-06-05 | 9.629 |
 | qwenqwen3-next-80b-a3b-instruct | 9.614 |
@@ -16,6 +17,7 @@
 | gemini-2.5-flash-lite-preview-09-2025 | 9.586 |
 | deepseekdeepseek-v3.2-exp | 9.557 |
 | grok-4-0709 | 9.557 |
+| moonshotaikimi-linear-48b-a3b-instruct | 9.557 |
 | o3-mini-20250131-HIGH | 9.557 |
 | qwenqwen3-30b-a3b-instruct-2507 | 9.543 |
 | claude-3-5-sonnet-20241022 | 9.543 |
@@ -69,6 +71,7 @@
 | gpt-5-nano-2025-08-07 | 9.371 |
 | gemini-2.0-flash-exp | 9.357 |
 | gpt-5-pro-2025-10-06 | 9.357 |
+| openrouterpolaris-alpha | 9.357 |
 | claude-haiku-4-5-20251001 | 9.357 |
 | gpt-4-0613 | 9.343 |
 | gpt-4.1-mini-2025-04-14 | 9.343 |

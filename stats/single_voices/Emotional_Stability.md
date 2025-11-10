@@ -112,6 +112,7 @@
 | moonshotaikimi-k2 | 6.429 |
 | claude-3-7-sonnet-20250219-thinking-high | 6.386 |
 | gpt-4o-mini-2024-11-05 | 6.386 |
+| moonshotaikimi-linear-48b-a3b-instruct | 6.386 |
 | chatgpt-4o-latest-2024-11-20 | 6.343 |
 | qwen-turbo-0428 | 6.329 |
 | claude-4-opus-20250514 | 6.300 |
@@ -120,6 +121,7 @@
 | ibmgranite41b-h | 6.214 |
 | claude-3-5-sonnet-20241022 | 6.143 |
 | gemini-2.5-flash-lite-preview-06-17 | 6.143 |
+| openrouterpolaris-alpha | 6.114 |
 | qwen38b | 6.114 |
 | QwenQwen3-32B | 6.100 |
 | x-aigrok-code-fast-1 | 6.100 |
@@ -178,3 +180,4 @@
 | gemma34b-it-q8_0 | 4.929 |
 | gemini-2.5-pro-exp-03-25 | 4.857 |
 | mistral-small-2506 | 4.771 |
+| moonshotaikimi-k2-thinking | 4.514 |

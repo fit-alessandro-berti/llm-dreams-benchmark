@@ -61,6 +61,7 @@
 | gemini-1.5-flash-002 | 8.700 |
 | Grok-4-fast | 8.700 |
 | mistral-large-2411 | 8.700 |
+| moonshotaikimi-linear-48b-a3b-instruct | 8.686 |
 | gemini-2.5-pro-preview-06-05 | 8.686 |
 | qwen2.5-omni-7b | 8.686 |
 | granite4tiny-h | 8.657 |
@@ -91,6 +92,7 @@
 | baiduernie-4.5-21b-a3b | 8.543 |
 | gemma-3n-e4b-it | 8.543 |
 | nvidiallama-3.1-nemotron-ultra-253b-v1free | 8.543 |
+| openrouterpolaris-alpha | 8.543 |
 | qwen2.5-7b-instruct | 8.543 |
 | gemini-2.0-flash-exp | 8.529 |
 | ministral-3b-2410 | 8.529 |
@@ -163,6 +165,7 @@
 | meta-llamaMeta-Llama-3.1-8B-Instruct | 7.629 |
 | magistral-medium-2506 | 7.586 |
 | gemini-2.5-flash-preview-09-2025 | 7.557 |
+| moonshotaikimi-k2-thinking | 7.543 |
 | phi4-mini-reasoning | 7.471 |
 | nvidiallama-3.1-nemotron-nano-8b-v1 | 7.429 |
 | gpt-5-chat-latest-2025-08-07 | 7.414 |

@@ -15,6 +15,7 @@ evaluation_models = set()
 evaluations_models_counter = {}
 
 evaluation_folders = [x for x in os.listdir(base_path) if x.startswith("evaluations-")]
+evaluation_folders.append("OLD/evaluations-gpt45")
 
 for ev in evaluation_folders:
     dev = os.path.join(base_path, ev)

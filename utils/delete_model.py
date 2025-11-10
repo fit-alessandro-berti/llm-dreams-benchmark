@@ -14,7 +14,7 @@ def do_deletion(base_path, original_name):
 
 
 if __name__ == "__main__":
-    original_name = "grok-3-beta_"
+    original_name = "gemma3270m_"
 
     if not original_name.endswith("_"):
         raise Exception("error")
@@ -25,6 +25,7 @@ if __name__ == "__main__":
     do_deletion(answer_directory, original_name)
 
     evaluation_directories = [x for x in os.listdir(base_path) if "evaluations-" in x]
+    evaluation_directories.append("OLD/evaluations-gpt45")
 
     for x in evaluation_directories:
         ev_dir = os.path.join(base_path, x)

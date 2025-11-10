@@ -50,11 +50,9 @@
 | claude-3-5-sonnet-20241022 | 7.929 |
 | gemini-1.5-flash-8b | 7.929 |
 | claude-3-opus-20240229 | 7.914 |
-| openroutersonoma-dusk-alpha | 7.914 |
 | gemini-1.5-flash-002 | 7.914 |
 | claude-3-5-haiku-20241022 | 7.900 |
 | googlegemma-2-2b-it | 7.886 |
-| gemini-2.0-flash-thinking-exp-01-21 | 7.886 |
 | meta-llamaMeta-Llama-3.1-70B-Instruct | 7.871 |
 | chatgpt-4o-latest-2025-01-29 | 7.857 |
 | gemini-2.0-pro-exp-02-05 | 7.857 |
@@ -64,7 +62,6 @@
 | claude-3-7-sonnet-20250219-thinking-high | 7.843 |
 | gemma312b-it-q8_0 | 7.829 |
 | Gemini-1.5-Pro-Exp-0801 | 7.829 |
-| gemini-exp-1206 | 7.814 |
 | gemini-2.5-flash-lite-preview-09-2025 | 7.814 |
 | qwen-plus-0428 | 7.814 |
 | grok-4-0709 | 7.800 |
@@ -93,7 +90,6 @@
 | devstral-small-2505 | 7.671 |
 | ibmgranite4350m-h | 7.657 |
 | baiduernie-4.5-21b-a3b | 7.614 |
-| gemma3270m | 7.600 |
 | nvidiallama-3.1-nemotron-ultra-253b-v1free | 7.600 |
 | chatgpt-4o-latest-2025-04-26 | 7.571 |
 | nousresearchhermes-4-70b | 7.571 |
@@ -104,15 +100,10 @@
 | Grok-3-20250426-formal | 7.557 |
 | liquidlfm-2.2-6b | 7.557 |
 | ai21jamba-large-1.7 | 7.543 |
-| openroutercypher-alphafree | 7.529 |
 | smollm21.7b-instruct-q6_K | 7.529 |
-| DeepSeek-R1-Lite-Preview | 7.514 |
 | gpt-4-0613 | 7.514 |
 | gemini-2.5-pro-preview-06-05 | 7.514 |
 | Grok-3-beta-thinking-20250303 | 7.514 |
-| openrouterhorizon-alpha | 7.514 |
-| openroutersonoma-sky-alpha | 7.514 |
-| openrouteroptimus-alpha | 7.500 |
 | minimaxminimax-m2free | 7.500 |
 | baiduernie-4.5-300b-a47b | 7.486 |
 | openaigpt-oss-20b | 7.486 |
@@ -136,7 +127,6 @@
 | granite4micro | 7.343 |
 | nousresearchhermes-4-405b | 7.343 |
 | gpt-4.1-nano-2025-04-14 | 7.329 |
-| qwen2.51.5b-instruct-q6_K | 7.329 |
 | mistral-large-2411 | 7.314 |
 | gpt-5-pro-2025-10-06 | 7.314 |
 | mistral-small-2409 | 7.314 |
@@ -174,7 +164,6 @@
 | deepseekdeepseek-v3.2-exp | 7.057 |
 | phi4-reasoning | 7.057 |
 | ministral-3b-2410 | 7.057 |
-| openrouterquasar-alpha | 7.029 |
 | microsoftphi-4 | 7.014 |
 | inceptionmercury | 7.000 |
 | open-mixtral-8x22b | 6.986 |

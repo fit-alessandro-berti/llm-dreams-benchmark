@@ -4,7 +4,6 @@
 |:--|--:|
 | o3-pro-2025-06-10 | 9.229 |
 | microsoftPhi-3-medium-4k-instruct | 9.200 |
-| openrouterhorizon-alpha | 9.143 |
 | gpt-4-turbo-2024-04-09 | 9.114 |
 | microsoftWizardLM-2-8x22B | 9.100 |
 | granite3.28b-instruct-q4_K_M | 9.086 |
@@ -57,18 +56,14 @@
 | gpt-4o-mini-2024-07-18 | 8.814 |
 | liquidlfm-2.2-6b | 8.814 |
 | moonshotaikimi-k2 | 8.814 |
-| openrouterquasar-alpha | 8.814 |
 | qwen2.5-32b-instruct | 8.814 |
 | qwenqwen3-30b-a3b-instruct-2507 | 8.814 |
 | phi4-reasoning | 8.814 |
-| gemini-exp-1206 | 8.800 |
 | Grok-3-20250426-concise | 8.800 |
 | Grok-3-20250426-formal | 8.800 |
 | o1-pro-2024-12-05 | 8.800 |
-| openroutersonoma-dusk-alpha | 8.800 |
 | gemma-3-27b-it | 8.786 |
 | ministral-3b-2410 | 8.786 |
-| openroutersonoma-sky-alpha | 8.786 |
 | mistral-large-2411 | 8.771 |
 | nousresearchhermes-4-405b | 8.771 |
 | openaigpt-oss-20b | 8.771 |
@@ -121,9 +116,7 @@
 | nvidiaLlama-3.1-Nemotron-70B-Instruct | 8.614 |
 | nvidianemotron-nano-9b-v2 | 8.614 |
 | claude-3-5-sonnet-20241022 | 8.600 |
-| DeepSeek-R1-Lite-Preview | 8.600 |
 | grok-4-0709 | 8.600 |
-| openrouteroptimus-alpha | 8.600 |
 | chatgpt-4o-latest-20250215 | 8.586 |
 | claude-4-sonnet-20250514 | 8.586 |
 | nousresearchhermes-4-70b | 8.586 |
@@ -158,13 +151,11 @@
 | meta-llamaMeta-Llama-3.1-70B-Instruct | 8.343 |
 | mistral-medium-2508 | 8.329 |
 | Gemini-1.5-Pro-Exp-0801 | 8.329 |
-| openroutercypher-alphafree | 8.314 |
 | meta-llamallama-4-scout | 8.286 |
 | qwen31.7b | 8.257 |
 | tngtechdeepseek-r1t-chimerafree | 8.257 |
 | DeepSeek-V3-0324 | 8.229 |
 | googlegemma-2-2b-it | 8.229 |
-| gemini-2.0-flash-thinking-exp-01-21 | 8.214 |
 | gemini-2.5-flash-preview-04-17 | 8.214 |
 | magistral-medium-2506 | 8.200 |
 | gemini-2.5-flash-preview-05-20 | 8.157 |
@@ -188,6 +179,4 @@
 | meta-llamaLlama-3.2-1B-Instruct | 7.671 |
 | gemini-2.0-flash-lite-preview-02-05 | 7.600 |
 | mistral-small-2506 | 7.514 |
-| gemma3270m | 7.171 |
-| qwen2.51.5b-instruct-q6_K | 7.086 |
 | ibmgranite4350m-h | 7.043 |

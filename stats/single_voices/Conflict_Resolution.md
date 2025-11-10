@@ -7,7 +7,6 @@
 | o1-preview-2024-09-12 | 8.443 |
 | deepseekdeepseek-v3.2-exp | 8.429 |
 | microsoftWizardLM-2-8x22B | 8.386 |
-| openrouterhorizon-alpha | 8.357 |
 | microsoftphi-4 | 8.343 |
 | o3-mini-20250131-HIGH | 8.329 |
 | grok-2-1212 | 8.329 |
@@ -29,7 +28,6 @@
 | gpt-5-pro-2025-10-06 | 8.171 |
 | qwen2.5-14b-instruct | 8.171 |
 | qwen2.5-32b-instruct | 8.157 |
-| openrouterquasar-alpha | 8.143 |
 | gpt-4o-2024-08-06 | 8.129 |
 | openaigpt-oss-120b | 8.129 |
 | granite4micro-h | 8.114 |
@@ -96,7 +94,6 @@
 | deepseek-aiDeepSeek-V3 | 7.671 |
 | claude-3-7-sonnet-20250219 | 7.629 |
 | qwen34b-instruct-2507-q8_0 | 7.629 |
-| DeepSeek-R1-Lite-Preview | 7.629 |
 | openaigpt-oss-20b | 7.614 |
 | qwenqwen3-next-80b-a3b-thinking | 7.614 |
 | deepseekdeepseek-r1 | 7.586 |
@@ -106,10 +103,8 @@
 | exaone-deep7.8b-fp16 | 7.543 |
 | QwenQwen3-32B | 7.543 |
 | Grok-4-fast | 7.514 |
-| openroutercypher-alphafree | 7.514 |
 | meta-llamaLlama-3.3-70B-Instruct | 7.500 |
 | Gemini-1.5-Pro-Exp-0801 | 7.457 |
-| openroutersonoma-sky-alpha | 7.443 |
 | nvidianemotron-nano-9b-v2 | 7.443 |
 | falcon33b-instruct-q8_0 | 7.429 |
 | gemini-2.5-flash-lite-preview-09-2025 | 7.400 |
@@ -124,17 +119,13 @@
 | qwen-plus-0428 | 7.343 |
 | qwen-turbo-0428 | 7.343 |
 | qwen31.7b | 7.343 |
-| openrouteroptimus-alpha | 7.329 |
-| gemini-exp-1206 | 7.300 |
 | qwen2.5-7b-instruct-1m | 7.243 |
 | Grok-3-beta-thinking-20250303 | 7.243 |
 | meta-llamaMeta-Llama-3.1-405B-Instruct | 7.243 |
-| openroutersonoma-dusk-alpha | 7.229 |
 | meta-llamaMeta-Llama-3.1-8B-Instruct | 7.229 |
 | mistral-medium-2508 | 7.171 |
 | mistral-medium-2505 | 7.171 |
 | claude-haiku-4-5-20251001 | 7.100 |
-| gemini-2.0-flash-thinking-exp-01-21 | 7.086 |
 | googlegemma-2-2b-it | 7.086 |
 | qwen34b | 7.071 |
 | gemma-3n-e4b-it | 7.057 |
@@ -182,12 +173,10 @@
 | claude-4-sonnet-20250514 | 6.014 |
 | QwenQwen3-14B | 5.986 |
 | Qwen-QwQ-32B | 5.929 |
-| gemma3270m | 5.871 |
 | phi4-mini-reasoning | 5.786 |
 | claude-3-5-haiku-20241022 | 5.743 |
 | gemini-2.0-flash-lite-preview-02-05 | 5.457 |
 | meta-llamallama-4-maverick | 5.371 |
 | meta-llamaLlama-3.2-1B-Instruct | 5.343 |
-| qwen2.51.5b-instruct-q6_K | 5.286 |
 | mistral-small-2506 | 5.186 |
 | ibmgranite4350m-h | 4.814 |

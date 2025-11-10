@@ -32,7 +32,6 @@
 | Qwen-QwQ-32B | 7.771 |
 | grok-3-mini-beta | 7.771 |
 | QwenQwen3-14B | 7.771 |
-| gemini-2.0-flash-thinking-exp-01-21 | 7.757 |
 | meta-llamaMeta-Llama-3.1-8B-Instruct | 7.743 |
 | qwen-plus-0428 | 7.729 |
 | ibmgranite41b-h | 7.714 |
@@ -43,7 +42,6 @@
 | gpt-4o-mini-2024-11-05 | 7.543 |
 | gpt-5-chat-latest-2025-08-07 | 7.529 |
 | gemini-2.0-pro-exp-02-05 | 7.514 |
-| gemma3270m | 7.514 |
 | meta-llamaLlama-3.2-1B-Instruct | 7.514 |
 | mistral-medium-2505 | 7.500 |
 | claude-3-5-haiku-20241022 | 7.486 |
@@ -52,7 +50,6 @@
 | gemma31b-it-q8_0 | 7.414 |
 | gemma-3n-e4b-it | 7.386 |
 | QwenQwen3-32B | 7.386 |
-| qwen2.51.5b-instruct-q6_K | 7.371 |
 | nvidiallama-3.3-nemotron-super-49b-v1 | 7.343 |
 | ibmgranite4350m-h | 7.343 |
 | Gemini-1.5-Pro-Exp-0827 | 7.329 |
@@ -81,22 +78,17 @@
 | chatgpt-4o-latest-2025-01-29 | 6.957 |
 | nvidiallama-3.1-nemotron-nano-8b-v1 | 6.957 |
 | deepseek-aiDeepSeek-V3 | 6.943 |
-| openroutersonoma-dusk-alpha | 6.943 |
 | claude-4-opus-20250514 | 6.943 |
 | baiduernie-4.5-21b-a3b | 6.929 |
-| openrouteroptimus-alpha | 6.929 |
 | qwenqwen3-30b-a3b-instruct-2507 | 6.914 |
-| gemini-exp-1206 | 6.857 |
 | qwen34b | 6.843 |
 | deepseekdeepseek-chat-v3.1 | 6.829 |
-| DeepSeek-R1-Lite-Preview | 6.814 |
 | nvidiaLlama-3.1-Nemotron-70B-Instruct | 6.800 |
 | gemma312b-it-q8_0 | 6.786 |
 | exaone-deep7.8b-fp16 | 6.771 |
 | gpt-4-1106-preview | 6.771 |
 | minimaxminimax-m2free | 6.743 |
 | gemma-3-27b-it | 6.729 |
-| openroutercypher-alphafree | 6.714 |
 | qwen2.5-7b-instruct-1m | 6.700 |
 | o1-pro-2024-12-17 | 6.686 |
 | ai21jamba-large-1.7 | 6.657 |
@@ -125,7 +117,6 @@
 | gpt-4-0613 | 6.271 |
 | phi3.53.8b-mini-instruct-fp16 | 6.271 |
 | qwen2.5-omni-7b | 6.271 |
-| openroutersonoma-sky-alpha | 6.214 |
 | qwen-plus-2025-01-25 | 6.200 |
 | gpt-4.1-nano-2025-04-14 | 6.200 |
 | qwenqwen3-coder | 6.200 |
@@ -147,11 +138,9 @@
 | mistral-large-2411 | 5.971 |
 | qwen-turbo-2024-11-01 | 5.957 |
 | o4-mini-2025-04-16 | 5.914 |
-| openrouterhorizon-alpha | 5.886 |
 | ministral-8b-2410 | 5.871 |
 | openaigpt-oss-20b | 5.871 |
 | qwen34b-instruct-2507-q8_0 | 5.871 |
-| openrouterquasar-alpha | 5.829 |
 | mistral-small-2501 | 5.800 |
 | falcon310b-instruct-q8_0 | 5.786 |
 | ministral-3b-2410 | 5.743 |

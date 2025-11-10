@@ -3,7 +3,6 @@
 | Model | Average |
 |:--|--:|
 | microsoftPhi-3-medium-4k-instruct | 8.986 |
-| openrouterhorizon-alpha | 8.943 |
 | o3-pro-2025-06-10 | 8.929 |
 | deepseekdeepseek-v3.2-exp | 8.914 |
 | qwen2.5-14b-instruct | 8.914 |
@@ -79,7 +78,6 @@
 | nvidiaLlama-3.1-Nemotron-70B-Instruct | 8.500 |
 | o1-2024-12-05 | 8.500 |
 | phi4-reasoningplus | 8.500 |
-| DeepSeek-R1-Lite-Preview | 8.486 |
 | gemini-1.5-flash-8b | 8.486 |
 | deepseekdeepseek-chat-v3.1 | 8.471 |
 | gemini-2.5-flash-lite-preview-09-2025 | 8.471 |
@@ -91,13 +89,10 @@
 | qwenqwen3-30b-a3b-instruct-2507 | 8.443 |
 | QwenQwen3-32B | 8.443 |
 | gpt-4.1-2025-04-14 | 8.443 |
-| openroutersonoma-sky-alpha | 8.443 |
 | ministral-3b-2410 | 8.429 |
-| openrouterquasar-alpha | 8.429 |
 | falcon33b-instruct-q8_0 | 8.414 |
 | gemini-2.0-pro-exp-02-05 | 8.414 |
 | gpt-4.1-nano-2025-04-14 | 8.414 |
-| openroutersonoma-dusk-alpha | 8.414 |
 | qwen2.5-7b-instruct-1m | 8.414 |
 | qwen-turbo-0428 | 8.386 |
 | gemma-3n-e4b-it | 8.386 |
@@ -123,15 +118,12 @@
 | nousresearchhermes-4-70b | 8.329 |
 | qwenqwen3-coder | 8.329 |
 | magistral-small-2506 | 8.314 |
-| openrouteroptimus-alpha | 8.314 |
 | z-aiglm-4.5-air | 8.314 |
 | gemma312b-it-q8_0 | 8.286 |
 | gpt-5-chat-latest-2025-08-19 | 8.286 |
-| openroutercypher-alphafree | 8.286 |
 | r1-1776 | 8.271 |
 | chatgpt-4o-latest-20250215 | 8.271 |
 | qwenqwen3-235b-a22b-07-25 | 8.271 |
-| gemini-exp-1206 | 8.257 |
 | chatgpt-4o-latest-2025-01-29 | 8.229 |
 | chatgpt-4o-latest-2025-04-26 | 8.229 |
 | ibmgranite41b-h | 8.229 |
@@ -175,7 +167,6 @@
 | grok-3-mini-beta | 7.829 |
 | gpt-5-chat-latest-2025-08-07 | 7.814 |
 | meta-llamaMeta-Llama-3.1-8B-Instruct | 7.771 |
-| gemini-2.0-flash-thinking-exp-01-21 | 7.743 |
 | thudmglm-4-32b | 7.714 |
 | claude-3-5-haiku-20241022 | 7.686 |
 | meta-llamallama-4-maverick | 7.671 |
@@ -188,6 +179,4 @@
 | meta-llamaLlama-3.2-1B-Instruct | 7.543 |
 | gemini-2.0-flash-lite-preview-02-05 | 7.386 |
 | ibmgranite4350m-h | 7.286 |
-| gemma3270m | 7.229 |
 | anthropicclaude-sonnet-4.5 | 7.214 |
-| qwen2.51.5b-instruct-q6_K | 7.000 |

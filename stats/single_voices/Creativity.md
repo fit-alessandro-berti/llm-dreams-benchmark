@@ -4,7 +4,6 @@
 |:--|--:|
 | openaigpt-oss-120b | 9.729 |
 | moonshotaikimi-k2 | 9.686 |
-| openrouterhorizon-alpha | 9.686 |
 | anthropicclaude-opus-4.1 | 9.657 |
 | o3-pro-2025-06-10 | 9.657 |
 | claude-4-opus-20250514 | 9.643 |
@@ -15,8 +14,6 @@
 | anthropicclaude-sonnet-4.5 | 9.586 |
 | claude-4-sonnet-20250514 | 9.586 |
 | gemini-2.5-flash-lite-preview-09-2025 | 9.586 |
-| gemini-exp-1206 | 9.586 |
-| openroutersonoma-sky-alpha | 9.586 |
 | deepseekdeepseek-v3.2-exp | 9.557 |
 | grok-4-0709 | 9.557 |
 | o3-mini-20250131-HIGH | 9.557 |
@@ -27,7 +24,6 @@
 | gemma34b-it-q8_0 | 9.529 |
 | o4-mini-2025-04-16 | 9.529 |
 | gemini-2.5-pro-preview-05-06 | 9.514 |
-| openroutersonoma-dusk-alpha | 9.514 |
 | QwenQwen3-14B | 9.514 |
 | qwenqwen3-235b-a22b-07-25 | 9.500 |
 | gemma-3n-e4b-it | 9.486 |
@@ -74,7 +70,6 @@
 | gpt-5-nano-2025-08-07 | 9.371 |
 | gemini-2.0-flash-exp | 9.357 |
 | gpt-5-pro-2025-10-06 | 9.357 |
-| openrouteroptimus-alpha | 9.357 |
 | claude-haiku-4-5-20251001 | 9.357 |
 | gpt-4-0613 | 9.343 |
 | gpt-4.1-mini-2025-04-14 | 9.343 |
@@ -82,7 +77,6 @@
 | mistral-large-2407 | 9.343 |
 | nvidiaLlama-3.1-Nemotron-70B-Instruct | 9.343 |
 | x-aigrok-code-fast-1 | 9.343 |
-| gemini-2.0-flash-thinking-exp-01-21 | 9.343 |
 | chatgpt-4o-latest-20250215 | 9.329 |
 | gpt-5-chat-latest-2025-08-07 | 9.329 |
 | microsoftphi-4 | 9.329 |
@@ -126,7 +120,6 @@
 | nvidianemotron-nano-9b-v2 | 9.243 |
 | o1-pro-2024-12-17 | 9.243 |
 | open-mixtral-8x22b | 9.243 |
-| openrouterquasar-alpha | 9.243 |
 | qwen-turbo-0428 | 9.243 |
 | magistral-medium-2506 | 9.243 |
 | Gemini-1.5-Pro-Exp-0801 | 9.229 |
@@ -169,7 +162,6 @@
 | baiduernie-4.5-21b-a3b | 9.071 |
 | googlegemma-2-2b-it | 9.071 |
 | nvidiallama-3.3-nemotron-super-49b-v1 | 9.071 |
-| DeepSeek-R1-Lite-Preview | 9.057 |
 | smollm21.7b-instruct-q6_K | 9.057 |
 | gpt-3.5-turbo | 9.057 |
 | mistral-small-2506 | 9.057 |
@@ -184,10 +176,7 @@
 | meta-llamaLlama-3.3-70B-Instruct | 8.971 |
 | claude-3-5-haiku-20241022 | 8.971 |
 | meta-llamaLlama-3.2-1B-Instruct | 8.886 |
-| openroutercypher-alphafree | 8.843 |
 | ibmgranite41b-h | 8.814 |
 | phi4-mini-reasoning | 8.714 |
 | deepseek-aiDeepSeek-R1-Zero | 8.514 |
-| gemma3270m | 8.286 |
 | ibmgranite4350m-h | 7.929 |
-| qwen2.51.5b-instruct-q6_K | 7.929 |

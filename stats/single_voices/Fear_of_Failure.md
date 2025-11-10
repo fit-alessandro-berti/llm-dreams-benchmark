@@ -32,10 +32,8 @@
 | magistral-medium-2506 | 7.100 |
 | grok-3-mini-beta | 7.100 |
 | gemma31b-it-q8_0 | 7.086 |
-| gemma3270m | 7.086 |
 | mistral-medium-2508 | 6.986 |
 | meta-llamaMeta-Llama-3.1-8B-Instruct | 6.957 |
-| gemini-2.0-flash-thinking-exp-01-21 | 6.957 |
 | ibmgranite4350m-h | 6.957 |
 | googlegemma-2-2b-it | 6.943 |
 | gpt-5-chat-latest-2025-08-07 | 6.900 |
@@ -44,7 +42,6 @@
 | deepseekdeepseek-r1 | 6.871 |
 | qwenqwen3-235b-a22b-07-25 | 6.814 |
 | meta-llamaMeta-Llama-3.1-405B-Instruct | 6.786 |
-| qwen2.51.5b-instruct-q6_K | 6.771 |
 | chatgpt-4o-latest-20250215 | 6.757 |
 | Gemini-1.5-Pro-Exp-0827 | 6.757 |
 | mistral-medium-2505 | 6.743 |
@@ -65,7 +62,6 @@
 | gpt-4o-mini-2024-11-05 | 6.529 |
 | claude-4-sonnet-20250514 | 6.471 |
 | x-aigrok-code-fast-1 | 6.471 |
-| gemini-exp-1206 | 6.457 |
 | qwenqwen3-30b-a3b-instruct-2507 | 6.414 |
 | granite4tiny-h | 6.386 |
 | gemma-3n-e4b-it | 6.371 |
@@ -86,16 +82,12 @@
 | smollm21.7b-instruct-q6_K | 6.157 |
 | gemini-2.5-pro-preview-06-05 | 6.129 |
 | gemma312b-it-q8_0 | 6.100 |
-| openroutersonoma-dusk-alpha | 6.086 |
 | chatgpt-4o-latest-2025-04-26 | 6.071 |
 | deepseek-aiDeepSeek-V3 | 6.071 |
 | gemma-3-27b-it | 6.057 |
 | googlegemma-2-9b-it | 6.043 |
 | qwenqwen3-next-80b-a3b-instruct | 6.043 |
-| DeepSeek-R1-Lite-Preview | 6.029 |
-| openrouteroptimus-alpha | 6.029 |
 | nousresearchhermes-4-70b | 6.000 |
-| openroutercypher-alphafree | 6.000 |
 | qwenqwen3-next-80b-a3b-thinking | 6.000 |
 | gpt-5-pro-2025-10-06 | 5.971 |
 | nvidiallama-3.1-nemotron-ultra-253b-v1free | 5.971 |
@@ -119,7 +111,6 @@
 | o1-2024-12-05 | 5.529 |
 | gpt-5-2025-08-07 | 5.500 |
 | qwen-max-2025-01-25 | 5.500 |
-| openroutersonoma-sky-alpha | 5.486 |
 | qwen2.5-7b-instruct | 5.486 |
 | baiduernie-4.5-300b-a47b | 5.457 |
 | qwen2.5-omni-7b | 5.443 |
@@ -146,8 +137,6 @@
 | mistral-large-2411 | 5.014 |
 | openaigpt-oss-20b | 5.014 |
 | mistral-small-2501 | 4.971 |
-| openrouterquasar-alpha | 4.971 |
-| openrouterhorizon-alpha | 4.957 |
 | ministral-3b-2410 | 4.943 |
 | gpt-5-mini-2025-08-07 | 4.814 |
 | mistral-small-2409 | 4.814 |

@@ -52,10 +52,8 @@
 | o1-pro-2024-12-05 | 7.871 |
 | mistral-small-2503 | 7.857 |
 | qwen2.5-32b-instruct | 7.843 |
-| openrouterhorizon-alpha | 7.843 |
 | qwen-max-2025-01-25 | 7.829 |
 | Grok-4-fast | 7.814 |
-| openrouterquasar-alpha | 7.800 |
 | qwen-plus-2025-01-25 | 7.800 |
 | baiduernie-4.5-21b-a3b | 7.786 |
 | gpt-4.1-2025-04-14 | 7.786 |
@@ -70,7 +68,6 @@
 | openaigpt-oss-20b | 7.671 |
 | gpt-5-mini-2025-08-07 | 7.643 |
 | falcon33b-instruct-q8_0 | 7.600 |
-| openroutersonoma-sky-alpha | 7.600 |
 | qwen30.6b | 7.586 |
 | baiduernie-4.5-300b-a47b | 7.571 |
 | exaone-deep7.8b-fp16 | 7.571 |
@@ -78,7 +75,6 @@
 | granite4micro-h | 7.543 |
 | qwen2.5-7b-instruct | 7.543 |
 | o1-2024-12-17 | 7.543 |
-| DeepSeek-R1-Lite-Preview | 7.514 |
 | o1-2024-12-05 | 7.514 |
 | devstral-small-2505 | 7.500 |
 | ai21jamba-large-1.7 | 7.486 |
@@ -94,8 +90,6 @@
 | gemini-1.5-flash-8b | 7.357 |
 | x-aigrok-code-fast-1 | 7.357 |
 | minimaxminimax-m2free | 7.343 |
-| openroutersonoma-dusk-alpha | 7.343 |
-| openrouteroptimus-alpha | 7.314 |
 | gemini-1.5-flash-002 | 7.300 |
 | gpt-5-2025-08-07 | 7.300 |
 | o1-pro-2024-12-17 | 7.300 |
@@ -105,7 +99,6 @@
 | googlegemma-2-9b-it | 7.257 |
 | qwenqwen3-30b-a3b-instruct-2507 | 7.243 |
 | moonshotaikimi-k2 | 7.200 |
-| openroutercypher-alphafree | 7.171 |
 | qwen-turbo-0428 | 7.171 |
 | smollm21.7b-instruct-q6_K | 7.171 |
 | chatgpt-4o-latest-2024-11-20 | 7.157 |
@@ -130,7 +123,6 @@
 | claude-3-5-sonnet-20241022 | 6.957 |
 | meta-llamaMeta-Llama-3.1-405B-Instruct | 6.957 |
 | claude-haiku-4-5-20251001 | 6.943 |
-| gemini-exp-1206 | 6.943 |
 | phi4-mini-reasoning | 6.929 |
 | chatgpt-4o-latest-20250215 | 6.929 |
 | gemma312b-it-q8_0 | 6.929 |
@@ -154,7 +146,6 @@
 | claude-4-sonnet-20250514 | 6.700 |
 | googlegemma-2-2b-it | 6.700 |
 | chatgpt-4o-latest-2025-01-29 | 6.686 |
-| gemini-2.0-flash-thinking-exp-01-21 | 6.671 |
 | meta-llamaMeta-Llama-3.1-70B-Instruct | 6.657 |
 | mistral-medium-2505 | 6.643 |
 | mistral-medium-2508 | 6.614 |
@@ -185,9 +176,7 @@
 | gemma31b-it-q8_0 | 5.971 |
 | claude-3-5-haiku-20241022 | 5.957 |
 | gemma34b-it-q8_0 | 5.943 |
-| gemma3270m | 5.900 |
 | anthropicclaude-sonnet-4.5 | 5.871 |
 | gemini-2.0-flash-lite-preview-02-05 | 5.814 |
-| qwen2.51.5b-instruct-q6_K | 5.700 |
 | ibmgranite4350m-h | 5.686 |
 | gemini-2.5-pro-exp-03-25 | 5.543 |

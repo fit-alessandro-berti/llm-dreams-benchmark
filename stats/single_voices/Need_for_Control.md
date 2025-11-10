@@ -16,7 +16,6 @@
 | exaone-deep7.8b-fp16 | 6.757 |
 | devstral-small-2505 | 6.714 |
 | nousresearchhermes-4-70b | 6.714 |
-| openroutercypher-alphafree | 6.714 |
 | Qwen-QwQ-32B | 6.686 |
 | gemini-2.0-flash-lite-preview-02-05 | 6.686 |
 | magistral-medium-2506 | 6.686 |
@@ -30,7 +29,6 @@
 | googlegemma-2-2b-it | 6.600 |
 | x-aigrok-code-fast-1 | 6.600 |
 | DeepSeek-V3-0324 | 6.586 |
-| gemma3270m | 6.586 |
 | qwen38b | 6.571 |
 | meta-llamaLlama-3.2-1B-Instruct | 6.557 |
 | nvidiallama-3.3-nemotron-super-49b-v1 | 6.557 |
@@ -57,9 +55,7 @@
 | gpt-3.5-turbo | 6.414 |
 | Grok-3-20250426-concise | 6.414 |
 | mistral-medium-2508 | 6.414 |
-| openroutersonoma-dusk-alpha | 6.400 |
 | Grok-3-beta-thinking-20250303 | 6.400 |
-| qwen2.51.5b-instruct-q6_K | 6.400 |
 | meta-llamallama-4-maverick | 6.386 |
 | deepseekdeepseek-chat-v3.1 | 6.371 |
 | nvidiallama-3.1-nemotron-nano-8b-v1 | 6.371 |
@@ -74,12 +70,10 @@
 | qwen2.5-7b-instruct | 6.329 |
 | mistral-medium-2505 | 6.329 |
 | chatgpt-4o-latest-20250215 | 6.314 |
-| DeepSeek-R1-Lite-Preview | 6.314 |
 | ibmgranite4350m-h | 6.314 |
 | falcon310b-instruct-q8_0 | 6.257 |
 | mistral-small-2503 | 6.257 |
 | qwen-max-2025-01-25 | 6.257 |
-| gemini-2.0-flash-thinking-exp-01-21 | 6.243 |
 | gpt-4o-mini-2024-11-05 | 6.229 |
 | qwen34b | 6.229 |
 | gpt-5-chat-latest-2025-08-19 | 6.229 |
@@ -118,7 +112,6 @@
 | minimaxminimax-m2free | 6.029 |
 | moonshotaikimi-k2 | 6.029 |
 | liquidlfm-2.2-6b | 6.014 |
-| openrouteroptimus-alpha | 6.014 |
 | qwenqwen3-235b-a22b-07-25 | 6.014 |
 | claude-3-7-sonnet-20250219-thinking-high | 6.000 |
 | deepseekdeepseek-v3.2-exp | 5.986 |
@@ -135,7 +128,6 @@
 | nvidianemotron-nano-9b-v2 | 5.957 |
 | gpt-5-pro-2025-10-06 | 5.943 |
 | o1-pro-2024-12-05 | 5.929 |
-| openrouterhorizon-alpha | 5.914 |
 | qwen-plus-2025-01-25 | 5.900 |
 | gemini-2.5-flash-lite-preview-09-2025 | 5.900 |
 | falcon37b-instruct-q8_0 | 5.886 |
@@ -145,7 +137,6 @@
 | codestral-2501 | 5.857 |
 | o1-mini | 5.829 |
 | open-mistral-7b | 5.829 |
-| openrouterquasar-alpha | 5.829 |
 | gpt-5-2025-08-07 | 5.814 |
 | gpt-4o-2024-05-13 | 5.800 |
 | liquidlfm2-8b-a1b | 5.800 |
@@ -153,7 +144,6 @@
 | openaigpt-oss-20b | 5.786 |
 | claude-3-7-sonnet-20250219 | 5.771 |
 | gpt-4o-2024-08-06 | 5.771 |
-| openroutersonoma-sky-alpha | 5.729 |
 | o1-preview-2024-09-12 | 5.686 |
 | openrouterhorizon-beta | 5.686 |
 | chatgpt-4o-latest-2025-03-26 | 5.671 |
@@ -165,7 +155,6 @@
 | microsoftphi-4 | 5.643 |
 | o1-2024-12-17 | 5.629 |
 | qwen2.5-72b-instruct | 5.629 |
-| gemini-exp-1206 | 5.614 |
 | gpt-4-turbo-2024-04-09 | 5.600 |
 | gpt-4.1-mini-2025-04-14 | 5.600 |
 | gemini-2.0-flash-exp | 5.600 |

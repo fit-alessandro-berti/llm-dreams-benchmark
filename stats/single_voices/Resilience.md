@@ -18,7 +18,6 @@
 | microsoftphi-4 | 8.986 |
 | open-mixtral-8x22b | 8.986 |
 | liquidlfm2-8b-a1b | 8.986 |
-| openrouterhorizon-alpha | 8.986 |
 | o3-mini-20250131-HIGH | 8.971 |
 | gpt-4-0125-preview | 8.957 |
 | grok-2-1212 | 8.957 |
@@ -51,7 +50,6 @@
 | gpt-4o-2024-05-13 | 8.786 |
 | gpt-5-pro-2025-10-06 | 8.786 |
 | qwen2.5-32b-instruct | 8.786 |
-| openrouterquasar-alpha | 8.771 |
 | phi4-reasoning | 8.771 |
 | Grok-3-20250426-formal | 8.771 |
 | nousresearchhermes-4-405b | 8.757 |
@@ -92,7 +90,6 @@
 | smollm21.7b-instruct-q6_K | 8.557 |
 | mistral-small-2501 | 8.557 |
 | baiduernie-4.5-21b-a3b | 8.543 |
-| DeepSeek-R1-Lite-Preview | 8.543 |
 | gemma-3n-e4b-it | 8.543 |
 | nvidiallama-3.1-nemotron-ultra-253b-v1free | 8.543 |
 | qwen2.5-7b-instruct | 8.543 |
@@ -102,13 +99,11 @@
 | qwenqwen3-next-80b-a3b-thinking | 8.529 |
 | gemini-1.5-flash-8b | 8.514 |
 | minimaxminimax-m2free | 8.514 |
-| gemini-exp-1206 | 8.486 |
 | chatgpt-4o-latest-2025-04-26 | 8.471 |
 | qwen31.7b | 8.471 |
 | qwenqwen3-235b-a22b-07-25 | 8.471 |
 | ai21jamba-large-1.7 | 8.457 |
 | chatgpt-4o-latest-2025-03-26 | 8.457 |
-| openroutersonoma-sky-alpha | 8.457 |
 | deepseek-aiDeepSeek-R1-Zero | 8.414 |
 | deepseekdeepseek-r1 | 8.414 |
 | gemini-2.0-pro-exp-02-05 | 8.414 |
@@ -124,8 +119,6 @@
 | claude-3-7-sonnet-20250219-thinking-high | 8.357 |
 | Gemini-1.5-Pro-Exp-0801 | 8.357 |
 | qwen-turbo-0428 | 8.357 |
-| openroutersonoma-dusk-alpha | 8.343 |
-| openrouteroptimus-alpha | 8.329 |
 | gpt-5-chat-latest-2025-08-19 | 8.329 |
 | gpt-4-1106-preview | 8.314 |
 | x-aigrok-code-fast-1 | 8.314 |
@@ -140,14 +133,12 @@
 | ibmgranite41b-h | 8.243 |
 | Gemini-1.5-Pro-Exp-0827 | 8.243 |
 | gpt-4o-mini-2024-11-05 | 8.214 |
-| openroutercypher-alphafree | 8.214 |
 | meta-llamaMeta-Llama-3.1-405B-Instruct | 8.157 |
 | claude-4-opus-20250514 | 8.143 |
 | claude-haiku-4-5-20251001 | 8.129 |
 | meta-llamaLlama-3.2-3B-Instruct | 8.129 |
 | claude-3-opus-20240229 | 8.129 |
 | magistral-small-2506 | 8.086 |
-| gemini-2.0-flash-thinking-exp-01-21 | 8.071 |
 | nvidiallama-3.3-nemotron-super-49b-v1 | 8.043 |
 | qwen34b | 8.043 |
 | QwenQwen3-14B | 8.043 |
@@ -187,7 +178,5 @@
 | meta-llamaLlama-3.2-1B-Instruct | 7.300 |
 | gemma31b-it-q8_0 | 7.186 |
 | claude-3-5-haiku-20241022 | 7.071 |
-| gemma3270m | 6.971 |
 | mistral-small-2506 | 6.900 |
 | ibmgranite4350m-h | 6.886 |
-| qwen2.51.5b-instruct-q6_K | 6.686 |

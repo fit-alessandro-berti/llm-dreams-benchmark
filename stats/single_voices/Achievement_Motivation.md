@@ -57,10 +57,8 @@
 | nvidiallama-3.1-nemotron-ultra-253b-v1free | 8.500 |
 | o3-mini-20250131-HIGH | 8.500 |
 | qwen2.5-omni-7b | 8.500 |
-| DeepSeek-R1-Lite-Preview | 8.486 |
 | mistral-small-2501 | 8.486 |
 | o1-pro-2024-12-05 | 8.486 |
-| openrouterhorizon-alpha | 8.486 |
 | qwen-plus-2025-01-25 | 8.486 |
 | mistral-small-2503 | 8.471 |
 | devstral-small-2505 | 8.471 |
@@ -70,12 +68,10 @@
 | o1-preview-2024-09-12 | 8.457 |
 | phi4-reasoning | 8.457 |
 | gemini-1.5-flash-8b | 8.443 |
-| openroutercypher-alphafree | 8.443 |
 | gpt-4o-2024-05-13 | 8.443 |
 | baiduernie-4.5-300b-a47b | 8.443 |
 | granite4micro | 8.429 |
 | meta-llamaLlama-3.2-3B-Instruct | 8.414 |
-| openrouterquasar-alpha | 8.414 |
 | o1-2024-12-05 | 8.414 |
 | qwen2.5-7b-instruct | 8.414 |
 | x-aigrok-code-fast-1 | 8.400 |
@@ -114,13 +110,11 @@
 | googlegemma-2-9b-it | 8.286 |
 | gpt-4o-mini-2024-11-05 | 8.286 |
 | meta-llamaLlama-3.3-70B-Instruct | 8.286 |
-| openroutersonoma-sky-alpha | 8.286 |
 | chatgpt-4o-latest-2025-01-29 | 8.271 |
 | gemini-1.5-flash-002 | 8.271 |
 | moonshotaikimi-k2 | 8.271 |
 | qwen-turbo-0428 | 8.271 |
 | qwenqwen3-235b-a22b-07-25 | 8.271 |
-| openrouteroptimus-alpha | 8.257 |
 | deepseek-aiDeepSeek-R1-Zero | 8.257 |
 | gpt-4.1-2025-04-14 | 8.257 |
 | qwen-plus-0428 | 8.257 |
@@ -130,7 +124,6 @@
 | QwenQwen3-14B | 8.214 |
 | gemini-2.5-pro-preview-05-06 | 8.200 |
 | meta-llamaMeta-Llama-3.1-8B-Instruct | 8.200 |
-| gemini-exp-1206 | 8.186 |
 | r1-1776 | 8.186 |
 | DeepSeek-V3-0324 | 8.186 |
 | gpt-5-chat-latest-2025-08-19 | 8.186 |
@@ -139,7 +132,6 @@
 | gpt-4-1106-preview | 8.171 |
 | gemini-2.0-flash-exp | 8.171 |
 | magistral-small-2506 | 8.171 |
-| openroutersonoma-dusk-alpha | 8.157 |
 | deepseek-aiDeepSeek-R1-0528 | 8.143 |
 | meta-llamallama-4-maverick | 8.143 |
 | tngtechdeepseek-r1t-chimerafree | 8.143 |
@@ -169,12 +161,10 @@
 | phi4-mini-reasoning | 7.900 |
 | claude-3-5-sonnet-20241022 | 7.900 |
 | qwenqwen3-235b-a22b-thinking-2507 | 7.857 |
-| gemini-2.0-flash-thinking-exp-01-21 | 7.843 |
 | gemini-2.5-flash-preview-04-17 | 7.814 |
 | qwen34b-instruct-2507-q8_0 | 7.786 |
 | Qwen-QwQ-32B | 7.771 |
 | gemini-2.5-flash-preview-09-2025 | 7.757 |
-| gemma3270m | 7.743 |
 | gemini-2.5-pro-exp-03-25 | 7.729 |
 | gpt-5-chat-latest-2025-08-07 | 7.700 |
 | claude-4-sonnet-20250514 | 7.700 |
@@ -189,5 +179,4 @@
 | anthropicclaude-opus-4.1 | 7.400 |
 | claude-haiku-4-5-20251001 | 7.386 |
 | anthropicclaude-sonnet-4.5 | 7.200 |
-| qwen2.51.5b-instruct-q6_K | 7.100 |
 | ibmgranite4350m-h | 7.057 |

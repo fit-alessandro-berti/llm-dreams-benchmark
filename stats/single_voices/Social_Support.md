@@ -11,7 +11,6 @@
 | inceptionmercury | 8.214 |
 | qwen2.5-32b-instruct | 8.200 |
 | mistral-small-2409 | 8.186 |
-| openrouterhorizon-alpha | 8.186 |
 | qwen2.5-72b-instruct | 8.171 |
 | codestral-2501 | 8.157 |
 | qwen2.5-14b-instruct | 8.157 |
@@ -57,7 +56,6 @@
 | qwenqwen3-coder | 7.643 |
 | qwen2.5-7b-instruct-1m | 7.629 |
 | Grok-3-20250426-concise | 7.600 |
-| openroutersonoma-sky-alpha | 7.600 |
 | qwen2.5-omni-7b | 7.600 |
 | granite4tiny-h | 7.586 |
 | ministral-8b-2410 | 7.586 |
@@ -68,7 +66,6 @@
 | devstral-small-2505 | 7.543 |
 | nvidiallama-3.1-nemotron-ultra-253b-v1free | 7.543 |
 | o3-pro-2025-06-10 | 7.543 |
-| openrouterquasar-alpha | 7.543 |
 | googlegemma-2-9b-it | 7.529 |
 | granite3.28b-instruct-q4_K_M | 7.514 |
 | mistral-small-2503 | 7.514 |
@@ -79,7 +76,6 @@
 | Grok-3-20250426-formal | 7.443 |
 | meta-llamaMeta-Llama-3.1-405B-Instruct | 7.443 |
 | smollm21.7b-instruct-q6_K | 7.429 |
-| DeepSeek-R1-Lite-Preview | 7.414 |
 | liquidlfm2-8b-a1b | 7.414 |
 | o1-2024-12-17 | 7.414 |
 | phi4-reasoning | 7.386 |
@@ -91,7 +87,6 @@
 | meta-llamaLlama-3.2-3B-Instruct | 7.343 |
 | deepseek-aiDeepSeek-R1-Zero | 7.329 |
 | o1-pro-2024-12-17 | 7.314 |
-| openroutercypher-alphafree | 7.314 |
 | qwen34b-instruct-2507-q8_0 | 7.300 |
 | ai21jamba-large-1.7 | 7.286 |
 | baiduernie-4.5-21b-a3b | 7.271 |
@@ -102,7 +97,6 @@
 | openaigpt-oss-20b | 7.229 |
 | minimaxminimax-m2free | 7.186 |
 | chatgpt-4o-latest-2025-03-26 | 7.171 |
-| openrouteroptimus-alpha | 7.171 |
 | gemini-2.5-pro-preview-05-06 | 7.157 |
 | moonshotaikimi-k2 | 7.157 |
 | exaone-deep7.8b-fp16 | 7.143 |
@@ -118,7 +112,6 @@
 | gemini-2.0-flash-exp | 7.057 |
 | Gemini-1.5-Pro-Exp-0801 | 7.014 |
 | magistral-small-2506 | 7.000 |
-| openroutersonoma-dusk-alpha | 7.000 |
 | anthropicclaude-opus-4.1 | 6.986 |
 | gemma-3-27b-it | 6.986 |
 | meta-llamallama-4-scout | 6.957 |
@@ -134,10 +127,8 @@
 | gpt-4o-mini-2024-11-05 | 6.829 |
 | qwen38b | 6.829 |
 | chatgpt-4o-latest-2025-04-26 | 6.814 |
-| gemini-exp-1206 | 6.800 |
 | gpt-5-chat-latest-2025-08-19 | 6.800 |
 | gemma312b-it-q8_0 | 6.771 |
-| gemini-2.0-flash-thinking-exp-01-21 | 6.757 |
 | deepseekdeepseek-chat-v3.1 | 6.743 |
 | claude-3-opus-20240229 | 6.729 |
 | Gemini-1.5-Pro-Exp-0827 | 6.729 |
@@ -174,14 +165,12 @@
 | deepseekdeepseek-r1 | 6.143 |
 | qwenqwen3-235b-a22b-thinking-2507 | 6.143 |
 | QwenQwen3-30B-A3B | 6.129 |
-| gemma3270m | 6.071 |
 | chatgpt-4o-latest-20250215 | 6.057 |
 | magistral-medium-2506 | 6.043 |
 | gemini-2.5-flash-preview-04-17 | 6.029 |
 | thudmglm-4-32b | 6.000 |
 | gemini-2.5-pro-exp-03-25 | 5.871 |
 | claude-3-5-haiku-20241022 | 5.871 |
-| qwen2.51.5b-instruct-q6_K | 5.857 |
 | gemma34b-it-q8_0 | 5.771 |
 | Qwen-QwQ-32B | 5.757 |
 | gpt-5-chat-latest-2025-08-07 | 5.743 |

@@ -28,14 +28,12 @@
 | googlegemma-2-2b-it | 7.771 |
 | meta-llamaMeta-Llama-3.1-8B-Instruct | 7.771 |
 | magistral-medium-2506 | 7.757 |
-| gemini-2.0-flash-thinking-exp-01-21 | 7.729 |
 | claude-3-5-haiku-20241022 | 7.729 |
 | deepseekdeepseek-r1 | 7.714 |
 | qwen31.7b | 7.700 |
 | claude-3-opus-20240229 | 7.700 |
 | deepseek-aiDeepSeek-R1-0528 | 7.686 |
 | gemma31b-it-q8_0 | 7.686 |
-| gemma3270m | 7.671 |
 | meta-llamaMeta-Llama-3.1-70B-Instruct | 7.657 |
 | gemini-2.0-pro-exp-02-05 | 7.629 |
 | ibmgranite4350m-h | 7.629 |
@@ -50,7 +48,6 @@
 | DeepSeek-V3-0324 | 7.514 |
 | qwen38b | 7.457 |
 | qwenqwen3-235b-a22b-07-25 | 7.443 |
-| qwen2.51.5b-instruct-q6_K | 7.429 |
 | chatgpt-4o-latest-20250215 | 7.414 |
 | x-aigrok-code-fast-1 | 7.414 |
 | QwenQwen3-32B | 7.400 |
@@ -62,7 +59,6 @@
 | nvidiallama-3.1-nemotron-nano-8b-v1 | 7.343 |
 | grok-4-0709 | 7.343 |
 | qwen-turbo-0428 | 7.343 |
-| gemini-exp-1206 | 7.329 |
 | gemma-3n-e4b-it | 7.300 |
 | ibmgranite41b-h | 7.257 |
 | chatgpt-4o-latest-2024-11-20 | 7.229 |
@@ -85,11 +81,8 @@
 | claude-3-7-sonnet-20250219 | 7.086 |
 | qwen34b | 7.071 |
 | Grok-3-beta-thinking-20250303 | 7.000 |
-| DeepSeek-R1-Lite-Preview | 7.000 |
-| openroutersonoma-dusk-alpha | 6.971 |
 | exaone-deep7.8b-fp16 | 6.971 |
 | gemini-2.5-pro-preview-06-05 | 6.971 |
-| openrouteroptimus-alpha | 6.971 |
 | chatgpt-4o-latest-2025-04-26 | 6.971 |
 | nvidiaLlama-3.1-Nemotron-70B-Instruct | 6.943 |
 | claude-4-opus-20250514 | 6.943 |
@@ -102,7 +95,6 @@
 | smollm21.7b-instruct-q6_K | 6.786 |
 | qwenqwen3-30b-a3b-instruct-2507 | 6.771 |
 | devstral-small-2505 | 6.757 |
-| openroutercypher-alphafree | 6.743 |
 | nvidianemotron-nano-9b-v2 | 6.729 |
 | o1-pro-2024-12-17 | 6.729 |
 | qwenqwen3-next-80b-a3b-thinking | 6.700 |
@@ -111,7 +103,6 @@
 | qwen-max-2025-01-25 | 6.629 |
 | qwen2.5-7b-instruct-1m | 6.600 |
 | qwenqwen3-next-80b-a3b-instruct | 6.586 |
-| openroutersonoma-sky-alpha | 6.514 |
 | baiduernie-4.5-21b-a3b | 6.500 |
 | gpt-5-chat-latest-2025-08-19 | 6.486 |
 | ai21jamba-large-1.7 | 6.471 |
@@ -141,12 +132,10 @@
 | gpt-3.5-turbo | 5.929 |
 | granite4micro | 5.929 |
 | mistral-large-2411 | 5.929 |
-| openrouterhorizon-alpha | 5.914 |
 | liquidlfm-2.2-6b | 5.900 |
 | ministral-3b-2410 | 5.900 |
 | phi4-reasoning | 5.886 |
 | mistral-small-2503 | 5.829 |
-| openrouterquasar-alpha | 5.814 |
 | openrouterhorizon-beta | 5.800 |
 | mistral-small-2501 | 5.786 |
 | qwen34b-instruct-2507-q8_0 | 5.757 |

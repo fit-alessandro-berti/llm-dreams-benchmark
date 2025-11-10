@@ -16,7 +16,6 @@
 | qwen2.5-72b-instruct | 8.086 |
 | grok-2-1212 | 8.071 |
 | microsoftWizardLM-2-8x22B | 8.071 |
-| openrouterhorizon-alpha | 8.071 |
 | gpt-4.5-preview | 8.057 |
 | gpt-4o-2024-05-13 | 8.014 |
 | granite4micro-h | 8.014 |
@@ -62,7 +61,6 @@
 | baiduernie-4.5-300b-a47b | 7.686 |
 | o4-mini-2025-04-16 | 7.686 |
 | o1-pro-2024-12-17 | 7.643 |
-| openrouterquasar-alpha | 7.643 |
 | liquidlfm2-8b-a1b | 7.629 |
 | liquidlfm-2.2-6b | 7.629 |
 | phi4-reasoningplus | 7.629 |
@@ -77,7 +75,6 @@
 | qwen2.5-omni-7b | 7.514 |
 | granite4tiny-h | 7.500 |
 | o1-pro-2024-12-05 | 7.486 |
-| openroutersonoma-sky-alpha | 7.486 |
 | nvidiallama-3.1-nemotron-ultra-253b-v1free | 7.471 |
 | Grok-3-beta-thinking-20250303 | 7.471 |
 | qwenqwen3-next-80b-a3b-instruct | 7.457 |
@@ -90,7 +87,6 @@
 | gemini-1.5-flash-002 | 7.414 |
 | smollm21.7b-instruct-q6_K | 7.414 |
 | qwenqwen3-coder | 7.400 |
-| DeepSeek-R1-Lite-Preview | 7.357 |
 | o1-2024-12-05 | 7.357 |
 | minimaxminimax-m2free | 7.357 |
 | baiduernie-4.5-21b-a3b | 7.343 |
@@ -104,8 +100,6 @@
 | meta-llamaMeta-Llama-3.1-405B-Instruct | 7.243 |
 | nousresearchhermes-4-70b | 7.214 |
 | qwenqwen3-next-80b-a3b-thinking | 7.214 |
-| openroutercypher-alphafree | 7.214 |
-| openroutersonoma-dusk-alpha | 7.200 |
 | gemini-1.5-flash-8b | 7.186 |
 | gemini-2.0-flash-exp | 7.186 |
 | gemini-2.5-pro-preview-06-05 | 7.186 |
@@ -115,7 +109,6 @@
 | meta-llamaLlama-3.3-70B-Instruct | 7.157 |
 | qwen-plus-0428 | 7.157 |
 | claude-3-7-sonnet-20250219-thinking-high | 7.143 |
-| openrouteroptimus-alpha | 7.143 |
 | magistral-small-2506 | 7.114 |
 | gemma-3-27b-it | 7.114 |
 | Gemini-1.5-Pro-Exp-0801 | 7.100 |
@@ -137,12 +130,10 @@
 | qwen30.6b | 6.986 |
 | chatgpt-4o-latest-2025-04-26 | 6.986 |
 | chatgpt-4o-latest-2024-11-20 | 6.971 |
-| gemini-exp-1206 | 6.957 |
 | gemini-2.0-pro-exp-02-05 | 6.943 |
 | gemini-2.5-flash-lite-preview-06-17 | 6.943 |
 | claude-3-opus-20240229 | 6.914 |
 | Gemini-1.5-Pro-Exp-0827 | 6.914 |
-| gemini-2.0-flash-thinking-exp-01-21 | 6.914 |
 | grok-4-0709 | 6.900 |
 | ibmgranite41b-h | 6.900 |
 | claude-4-opus-20250514 | 6.900 |
@@ -175,7 +166,6 @@
 | qwenqwen3-235b-a22b-thinking-2507 | 6.286 |
 | thudmglm-4-32b | 6.271 |
 | chatgpt-4o-latest-20250215 | 6.271 |
-| gemma3270m | 6.171 |
 | anthropicclaude-sonnet-4.5 | 6.157 |
 | Qwen-QwQ-32B | 6.114 |
 | gemini-2.5-flash-preview-04-17 | 6.086 |
@@ -184,7 +174,6 @@
 | gemini-2.5-pro-exp-03-25 | 6.057 |
 | mistral-small-2506 | 6.057 |
 | tngtechdeepseek-r1t-chimerafree | 6.057 |
-| qwen2.51.5b-instruct-q6_K | 5.886 |
 | QwenQwen3-235B-A22B | 5.871 |
 | claude-3-5-haiku-20241022 | 5.800 |
 | phi4-mini-reasoning | 5.671 |

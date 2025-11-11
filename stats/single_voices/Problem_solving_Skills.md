@@ -93,6 +93,7 @@
 | falcon33b-instruct-q8_0 | 8.414 |
 | gemini-2.0-pro-exp-02-05 | 8.414 |
 | gpt-4.1-nano-2025-04-14 | 8.414 |
+| Grok-4-fast-20251111 | 8.414 |
 | qwen2.5-7b-instruct-1m | 8.414 |
 | qwen-turbo-0428 | 8.386 |
 | gemma-3n-e4b-it | 8.386 |

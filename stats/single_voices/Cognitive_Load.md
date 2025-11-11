@@ -52,6 +52,7 @@
 | gemini-1.5-flash-8b | 7.929 |
 | moonshotaikimi-linear-48b-a3b-instruct | 7.929 |
 | claude-3-opus-20240229 | 7.914 |
+| Grok-4-fast-20251111 | 7.914 |
 | gemini-1.5-flash-002 | 7.914 |
 | claude-3-5-haiku-20241022 | 7.900 |
 | googlegemma-2-2b-it | 7.886 |

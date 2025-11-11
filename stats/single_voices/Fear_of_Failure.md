@@ -91,6 +91,7 @@
 | qwenqwen3-next-80b-a3b-instruct | 6.043 |
 | nousresearchhermes-4-70b | 6.000 |
 | qwenqwen3-next-80b-a3b-thinking | 6.000 |
+| Grok-4-fast-20251111 | 5.986 |
 | gpt-5-pro-2025-10-06 | 5.971 |
 | nvidiallama-3.1-nemotron-ultra-253b-v1free | 5.971 |
 | gemini-2.5-flash-lite-preview-09-2025 | 5.957 |

@@ -12,6 +12,7 @@
 | o3-2025-04-16 | 9.643 |
 | gemini-2.5-pro-preview-06-05 | 9.629 |
 | qwenqwen3-next-80b-a3b-instruct | 9.614 |
+| Grok-4-fast-20251111 | 9.600 |
 | anthropicclaude-sonnet-4.5 | 9.586 |
 | claude-4-sonnet-20250514 | 9.586 |
 | gemini-2.5-flash-lite-preview-09-2025 | 9.586 |

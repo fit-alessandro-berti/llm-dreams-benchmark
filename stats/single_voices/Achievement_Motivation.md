@@ -106,6 +106,7 @@
 | ministral-3b-2410 | 8.300 |
 | qwen38b | 8.300 |
 | chatgpt-4o-latest-2025-04-26 | 8.300 |
+| Grok-4-fast-20251111 | 8.300 |
 | googlegemma-2-9b-it | 8.286 |
 | gpt-4o-mini-2024-11-05 | 8.286 |
 | meta-llamaLlama-3.3-70B-Instruct | 8.286 |

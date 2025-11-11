@@ -82,6 +82,7 @@
 | gpt-4-1106-preview | 7.100 |
 | claude-3-7-sonnet-20250219 | 7.086 |
 | qwen34b | 7.071 |
+| Grok-4-fast-20251111 | 7.043 |
 | Grok-3-beta-thinking-20250303 | 7.000 |
 | exaone-deep7.8b-fp16 | 6.971 |
 | gemini-2.5-pro-preview-06-05 | 6.971 |

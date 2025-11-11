@@ -111,6 +111,7 @@
 | granite3.28b-instruct-q4_K_M | 6.057 |
 | claude-3-5-sonnet-20241022 | 6.043 |
 | baiduernie-4.5-300b-a47b | 6.029 |
+| Grok-4-fast-20251111 | 6.029 |
 | minimaxminimax-m2free | 6.029 |
 | moonshotaikimi-k2 | 6.029 |
 | liquidlfm-2.2-6b | 6.014 |

@@ -66,6 +66,7 @@
 | mistral-small-2501 | 7.686 |
 | gpt-4.1-nano-2025-04-14 | 7.671 |
 | openaigpt-oss-20b | 7.671 |
+| Grok-4-fast-20251111 | 7.657 |
 | gpt-5-mini-2025-08-07 | 7.643 |
 | falcon33b-instruct-q8_0 | 7.600 |
 | qwen30.6b | 7.586 |

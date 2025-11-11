@@ -95,6 +95,7 @@
 | openrouterpolaris-alpha | 8.543 |
 | qwen2.5-7b-instruct | 8.543 |
 | gemini-2.0-flash-exp | 8.529 |
+| Grok-4-fast-20251111 | 8.529 |
 | ministral-3b-2410 | 8.529 |
 | QwenQwen3-32B | 8.529 |
 | qwenqwen3-next-80b-a3b-thinking | 8.529 |

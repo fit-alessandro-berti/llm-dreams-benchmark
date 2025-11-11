@@ -76,6 +76,7 @@
 | falcon33b-instruct-q8_0 | 7.029 |
 | nvidiallama-3.1-nemotron-ultra-253b-v1free | 7.014 |
 | Grok-3-beta-thinking-20250303 | 6.986 |
+| Grok-4-fast-20251111 | 6.971 |
 | chatgpt-4o-latest-2025-04-26 | 6.957 |
 | chatgpt-4o-latest-2025-01-29 | 6.957 |
 | nvidiallama-3.1-nemotron-nano-8b-v1 | 6.957 |

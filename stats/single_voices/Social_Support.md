@@ -119,6 +119,7 @@
 | qwen-turbo-0428 | 6.957 |
 | nvidiallama-3.3-nemotron-super-49b-v1 | 6.943 |
 | qwen30.6b | 6.943 |
+| Grok-4-fast-20251111 | 6.914 |
 | qwenqwen3-235b-a22b-07-25 | 6.886 |
 | claude-4-opus-20250514 | 6.886 |
 | gemini-2.0-pro-exp-02-05 | 6.886 |

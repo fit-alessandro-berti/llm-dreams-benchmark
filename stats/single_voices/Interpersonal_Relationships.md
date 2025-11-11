@@ -99,6 +99,7 @@
 | meta-llamaMeta-Llama-3.1-405B-Instruct | 7.243 |
 | nousresearchhermes-4-70b | 7.214 |
 | qwenqwen3-next-80b-a3b-thinking | 7.214 |
+| Grok-4-fast-20251111 | 7.200 |
 | gemini-1.5-flash-8b | 7.186 |
 | gemini-2.0-flash-exp | 7.186 |
 | gemini-2.5-pro-preview-06-05 | 7.186 |

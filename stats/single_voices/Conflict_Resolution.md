@@ -106,6 +106,7 @@
 | meta-llamaLlama-3.3-70B-Instruct | 7.500 |
 | openrouterpolaris-alpha | 7.471 |
 | Gemini-1.5-Pro-Exp-0801 | 7.457 |
+| Grok-4-fast-20251111 | 7.443 |
 | nvidianemotron-nano-9b-v2 | 7.443 |
 | falcon33b-instruct-q8_0 | 7.429 |
 | gemini-2.5-flash-lite-preview-09-2025 | 7.400 |

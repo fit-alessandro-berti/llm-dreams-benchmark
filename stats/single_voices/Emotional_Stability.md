@@ -97,6 +97,7 @@
 | nvidianemotron-nano-9b-v2 | 6.600 |
 | nvidiaLlama-3.1-Nemotron-70B-Instruct | 6.557 |
 | smollm21.7b-instruct-q6_K | 6.557 |
+| Grok-4-fast-20251111 | 6.529 |
 | nousresearchhermes-4-70b | 6.529 |
 | exaone-deep7.8b-fp16 | 6.514 |
 | gemini-1.5-flash-002 | 6.514 |

@@ -47,6 +47,7 @@ ALL_JUDGES = {
     }
 }
 
+del ALL_JUDGES["qwen/qwen3-max"]
 
 def get_evaluation_folder(evaluating_model_name=None):
     if evaluating_model_name is None:

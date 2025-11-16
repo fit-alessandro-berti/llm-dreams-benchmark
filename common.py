@@ -1,4 +1,4 @@
-ANSWERING_MODEL_NAME = "gpt-5-chat-latest"
+ANSWERING_MODEL_NAME = "openrouter/sherlock-dash-alpha"
 EVALUATING_MODEL_NAME = "gpt-4.1"
 
 
@@ -47,7 +47,7 @@ ALL_JUDGES = {
     }
 }
 
-del ALL_JUDGES["qwen/qwen3-max"]
+#del ALL_JUDGES["qwen/qwen3-max"]
 
 def get_evaluation_folder(evaluating_model_name=None):
     if evaluating_model_name is None:

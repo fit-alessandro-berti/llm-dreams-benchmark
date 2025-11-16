@@ -107,6 +107,7 @@
 | Grok-4-fast                                | **388.9** | 6.8 $\pm$ 0.8               | 6.6 $\pm$ 0.1         | 8.0 $\pm$ 0.1            | 9.5 $\pm$ 0.0 | 7.0 $\pm$ 0.1                 | 7.0 $\pm$ 0.1                  | 7.0 $\pm$ 0.4         | 6.9 $\pm$ 0.6         | 8.7 $\pm$ 0.2  | 7.8 $\pm$ 0.2            | 6.1 $\pm$ 0.6     | 6.2 $\pm$ 0.2      | 7.9 $\pm$ 0.3    | 7.1 $\pm$ 0.4    | 8.5 $\pm$ 0.3 |
 | chatgpt-4o-latest-2025-04-26               | **388.8** | 6.8 $\pm$ 0.4               | 6.8 $\pm$ 0.2         | 8.0 $\pm$ 0.0            | 9.5 $\pm$ 0.0 | 6.8 $\pm$ 0.5                 | 7.2 $\pm$ 0.2                  | 6.8 $\pm$ 0.2         | 6.5 $\pm$ 0.4         | 8.5 $\pm$ 0.0  | 7.8 $\pm$ 0.3            | 6.1 $\pm$ 0.3     | 5.9 $\pm$ 0.3      | 7.3 $\pm$ 0.2    | 7.0 $\pm$ 0.4    | 8.4 $\pm$ 0.1 |
 | QwenQwen3-32B                              | **388.3** | 7.0 $\pm$ 0.5               | 6.4 $\pm$ 0.4         | 8.2 $\pm$ 0.2            | 9.4 $\pm$ 0.1 | 7.0 $\pm$ 0.1                 | 7.0 $\pm$ 0.3                  | 7.5 $\pm$ 0.0         | 6.9 $\pm$ 0.1         | 8.6 $\pm$ 0.1  | 8.0 $\pm$ 0.0            | 6.3 $\pm$ 0.2     | 6.6 $\pm$ 0.3      | 7.6 $\pm$ 0.3    | 6.9 $\pm$ 0.2    | 8.6 $\pm$ 0.1 |
+| openroutersherlock-dash-alpha              | **388.2** | 7.5 $\pm$ 0.7               | 6.6 $\pm$ 0.5         | 8.4 $\pm$ 0.2            | 9.6 $\pm$ 0.1 | 7.0 $\pm$ 0.0                 | 7.8 $\pm$ 0.2                  | 6.8 $\pm$ 0.3         | 7.2 $\pm$ 0.5         | 8.6 $\pm$ 0.2  | 8.1 $\pm$ 0.2            | 6.4 $\pm$ 0.7     | 6.7 $\pm$ 0.4      | 7.8 $\pm$ 0.2    | 7.1 $\pm$ 0.4    | 8.4 $\pm$ 0.2 |
 | gemini-1.5-flash-8b                        | **387.8** | 7.2 $\pm$ 0.8               | 6.4 $\pm$ 0.8         | 8.2 $\pm$ 0.2            | 9.4 $\pm$ 0.2 | 6.7 $\pm$ 0.5                 | 7.0 $\pm$ 0.4                  | 7.8 $\pm$ 0.3         | 7.0 $\pm$ 0.7         | 8.6 $\pm$ 0.2  | 8.0 $\pm$ 0.0            | 6.5 $\pm$ 1.0     | 6.7 $\pm$ 0.4      | 7.8 $\pm$ 0.6    | 7.2 $\pm$ 0.4    | 8.7 $\pm$ 0.2 |
 | anthropicclaude-opus-4.1                   | **387.8** | 6.8 $\pm$ 0.4               | 6.8 $\pm$ 0.2         | 7.8 $\pm$ 0.2            | 9.6 $\pm$ 0.2 | 7.1 $\pm$ 0.1                 | 6.4 $\pm$ 0.4                  | 7.5 $\pm$ 0.0         | 6.8 $\pm$ 0.2         | 8.6 $\pm$ 0.1  | 7.0 $\pm$ 0.0            | 6.2 $\pm$ 0.2     | 5.5 $\pm$ 0.3      | 7.4 $\pm$ 0.5    | 7.2 $\pm$ 0.4    | 8.3 $\pm$ 0.2 |
 | qwen-turbo-0428                            | **387.3** | 7.0 $\pm$ 0.5               | 6.8 $\pm$ 0.5         | 8.2 $\pm$ 0.2            | 9.3 $\pm$ 0.2 | 7.2 $\pm$ 0.3                 | 7.1 $\pm$ 0.1                  | 7.1 $\pm$ 0.3         | 6.8 $\pm$ 0.8         | 8.5 $\pm$ 0.2  | 8.0 $\pm$ 0.0            | 6.6 $\pm$ 0.2     | 6.3 $\pm$ 0.5      | 7.7 $\pm$ 0.2    | 7.1 $\pm$ 0.5    | 8.4 $\pm$ 0.2 |
@@ -117,6 +118,7 @@
 | qwen31.7b                                  | **386.5** | 7.0 $\pm$ 0.5               | 6.6 $\pm$ 0.4         | 8.1 $\pm$ 0.2            | 9.1 $\pm$ 0.2 | 6.8 $\pm$ 0.6                 | 6.9 $\pm$ 0.2                  | 7.4 $\pm$ 0.4         | 7.1 $\pm$ 0.4         | 8.5 $\pm$ 0.0  | 8.0 $\pm$ 0.0            | 6.5 $\pm$ 0.5     | 6.2 $\pm$ 0.4      | 7.5 $\pm$ 0.0    | 6.9 $\pm$ 0.2    | 8.5 $\pm$ 0.0 |
 | gpt-4-1106-preview                         | **386.2** | 7.2 $\pm$ 0.4               | 6.8 $\pm$ 0.4         | 7.7 $\pm$ 0.4            | 9.1 $\pm$ 0.2 | 7.0 $\pm$ 0.0                 | 7.0 $\pm$ 0.1                  | 7.4 $\pm$ 0.2         | 6.6 $\pm$ 0.4         | 8.4 $\pm$ 0.2  | 8.0 $\pm$ 0.0            | 6.3 $\pm$ 0.5     | 6.4 $\pm$ 0.4      | 7.1 $\pm$ 0.4    | 7.3 $\pm$ 0.3    | 8.3 $\pm$ 0.2 |
 | qwen34b                                    | **386.1** | 6.8 $\pm$ 0.4               | 6.7 $\pm$ 0.1         | 8.0 $\pm$ 0.0            | 9.4 $\pm$ 0.2 | 7.1 $\pm$ 0.1                 | 6.8 $\pm$ 0.2                  | 7.0 $\pm$ 0.3         | 6.5 $\pm$ 0.6         | 8.4 $\pm$ 0.1  | 7.8 $\pm$ 0.2            | 6.2 $\pm$ 0.3     | 5.8 $\pm$ 0.2      | 7.4 $\pm$ 0.4    | 6.8 $\pm$ 0.3    | 8.2 $\pm$ 0.2 |
+| openroutersherlock-think-alpha             | **386.0** | 7.2 $\pm$ 0.4               | 6.6 $\pm$ 0.2         | 8.1 $\pm$ 0.2            | 9.6 $\pm$ 0.1 | 7.0 $\pm$ 0.1                 | 7.4 $\pm$ 0.1                  | 7.0 $\pm$ 0.0         | 7.4 $\pm$ 0.6         | 8.6 $\pm$ 0.0  | 8.0 $\pm$ 0.0            | 6.4 $\pm$ 0.6     | 6.7 $\pm$ 0.4      | 8.0 $\pm$ 0.3    | 6.9 $\pm$ 0.4    | 8.4 $\pm$ 0.2 |
 | gemma-3-27b-it                             | **385.7** | 7.1 $\pm$ 0.6               | 6.4 $\pm$ 0.4         | 7.9 $\pm$ 0.2            | 9.5 $\pm$ 0.0 | 7.1 $\pm$ 0.1                 | 6.8 $\pm$ 0.2                  | 8.0 $\pm$ 0.1         | 6.6 $\pm$ 0.6         | 8.7 $\pm$ 0.2  | 7.6 $\pm$ 0.2            | 6.3 $\pm$ 0.5     | 6.5 $\pm$ 0.6      | 7.8 $\pm$ 0.5    | 7.0 $\pm$ 0.0    | 8.5 $\pm$ 0.0 |
 | gpt-5-chat-latest-2025-08-19               | **384.2** | 7.0 $\pm$ 0.5               | 6.2 $\pm$ 0.3         | 8.0 $\pm$ 0.1            | 9.2 $\pm$ 0.2 | 6.9 $\pm$ 0.2                 | 7.0 $\pm$ 0.3                  | 7.4 $\pm$ 0.2         | 7.2 $\pm$ 0.8         | 8.6 $\pm$ 0.1  | 7.8 $\pm$ 0.2            | 6.4 $\pm$ 0.9     | 6.4 $\pm$ 0.4      | 7.7 $\pm$ 0.4    | 6.9 $\pm$ 0.2    | 8.4 $\pm$ 0.2 |
 | claude-4-opus-20250514                     | **383.8** | 6.9 $\pm$ 1.6               | 6.5 $\pm$ 1.0         | 7.6 $\pm$ 0.4            | 9.7 $\pm$ 0.2 | 6.6 $\pm$ 0.4                 | 6.6 $\pm$ 0.5                  | 6.6 $\pm$ 0.6         | 6.8 $\pm$ 1.2         | 8.8 $\pm$ 0.2  | 7.4 $\pm$ 0.2            | 6.1 $\pm$ 1.4     | 5.8 $\pm$ 1.5      | 7.3 $\pm$ 0.8    | 7.1 $\pm$ 0.4    | 8.4 $\pm$ 0.4 |
@@ -3924,6 +3926,58 @@
 | Cognitive Load               | 8.4 $\pm$ 0.4      |
 | Social Support               | 7.0 $\pm$ 0.5      |
 | Resilience                   | 8.7 $\pm$ 0.2      |
+
+
+
+
+
+
+### openroutersherlock-dash-alpha
+
+
+| Personality Trait            | Score (1.0-10.0)   |
+|:-----------------------------|:-------------------|
+| Anxiety and Stress Levels    | 7.5 $\pm$ 0.7      |
+| Emotional Stability          | 6.6 $\pm$ 0.5      |
+| Problem-solving Skills       | 8.4 $\pm$ 0.2      |
+| Creativity                   | 9.6 $\pm$ 0.1      |
+| Interpersonal Relationships  | 7.0 $\pm$ 0.0      |
+| Confidence and Self-efficacy | 7.8 $\pm$ 0.2      |
+| Conflict Resolution          | 6.8 $\pm$ 0.3      |
+| Work-related Stress          | 7.2 $\pm$ 0.5      |
+| Adaptability                 | 8.6 $\pm$ 0.2      |
+| Achievement Motivation       | 8.1 $\pm$ 0.2      |
+| Fear of Failure              | 6.4 $\pm$ 0.7      |
+| Need for Control             | 6.7 $\pm$ 0.4      |
+| Cognitive Load               | 7.8 $\pm$ 0.2      |
+| Social Support               | 7.1 $\pm$ 0.4      |
+| Resilience                   | 8.4 $\pm$ 0.2      |
+
+
+
+
+
+
+### openroutersherlock-think-alpha
+
+
+| Personality Trait            | Score (1.0-10.0)   |
+|:-----------------------------|:-------------------|
+| Anxiety and Stress Levels    | 7.2 $\pm$ 0.4      |
+| Emotional Stability          | 6.6 $\pm$ 0.2      |
+| Problem-solving Skills       | 8.1 $\pm$ 0.2      |
+| Creativity                   | 9.6 $\pm$ 0.1      |
+| Interpersonal Relationships  | 7.0 $\pm$ 0.1      |
+| Confidence and Self-efficacy | 7.4 $\pm$ 0.1      |
+| Conflict Resolution          | 7.0 $\pm$ 0.0      |
+| Work-related Stress          | 7.4 $\pm$ 0.6      |
+| Adaptability                 | 8.6 $\pm$ 0.0      |
+| Achievement Motivation       | 8.0 $\pm$ 0.0      |
+| Fear of Failure              | 6.4 $\pm$ 0.6      |
+| Need for Control             | 6.7 $\pm$ 0.4      |
+| Cognitive Load               | 8.0 $\pm$ 0.3      |
+| Social Support               | 6.9 $\pm$ 0.4      |
+| Resilience                   | 8.4 $\pm$ 0.2      |
 
 
 

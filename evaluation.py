@@ -216,7 +216,9 @@ def get_evaluation_openai_new(text):
         "input": text
     }
 
-    if "gpt-5" in Shared.evaluating_model_name:
+    if "gpt-5.1" in Shared.evaluating_model_name:
+        pass
+    elif "gpt-5" in Shared.evaluating_model_name:
         payload["reasoning"] = {"effort": "minimal"}
 
     complete_url = Shared.api_url + "responses"

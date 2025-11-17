@@ -23,6 +23,7 @@ def interpret(content):
 
 JUDGES = {
     "grok-3": interpret(open(os.path.join("..", "alt_results_grok3.md"), "r").read()),
+    "grok-4-fast-non-reasoning": interpret(open(os.path.join("..", "alt_results_grok4fast.md"), "r").read()),
     "mistral-small-2503": interpret(open(os.path.join("..", "alt_results_mistral-small-2503.md"), "r").read()),
     "gemini-2.5-flash": interpret(open(os.path.join("..", "alt_results_gemini25_flash.md"), "r").read()),
     "gpt-5-mini": interpret(open(os.path.join("..", "alt_results_gpt5-mini.md"), "r").read()),
@@ -31,7 +32,7 @@ JUDGES = {
     "qwen3-max": interpret(open(os.path.join("..", "alt_results_qwen3-max.md"), "r").read()),
 }
 
-REFERENCE_JUDGE = "gpt-5.1"
+REFERENCE_JUDGE = "grok-4-fast-non-reasoning"
 model_keys = list(JUDGES[REFERENCE_JUDGE].keys())
 
 for judge in JUDGES:

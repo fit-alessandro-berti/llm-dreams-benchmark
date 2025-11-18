@@ -57,6 +57,7 @@
 | deepseekdeepseek-chat-v3.1 | 6.314 |
 | Gemini-1.5-Pro-Exp-0801 | 6.314 |
 | gemma34b-it-q8_0 | 6.314 |
+| Grok-4.1-20251118 | 6.314 |
 | mistral-medium-2505 | 6.314 |
 | ministral-8b-2410 | 6.271 |
 | falcon33b-instruct-q8_0 | 6.271 |

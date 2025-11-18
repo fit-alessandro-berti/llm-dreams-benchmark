@@ -121,6 +121,7 @@
 | gemma-3-27b-it | 7.186 |
 | qwen-plus-0428 | 7.143 |
 | claude-3-5-sonnet-20241022 | 7.143 |
+| Grok-4.1-20251118 | 7.129 |
 | ibmgranite41b-h | 7.129 |
 | claude-3-7-sonnet-20250219-thinking-high | 7.129 |
 | claude-haiku-4-5-20251001 | 7.114 |

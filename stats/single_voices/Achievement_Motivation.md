@@ -128,6 +128,7 @@
 | qwen-turbo-0428 | 8.243 |
 | QwenQwen3-14B | 8.243 |
 | qwenqwen3-235b-a22b-07-25 | 8.214 |
+| Grok-4.1-20251118 | 8.186 |
 | deepseek-aiDeepSeek-R1-0528 | 8.186 |
 | magistral-small-2506 | 8.186 |
 | gpt-4-1106-preview | 8.171 |

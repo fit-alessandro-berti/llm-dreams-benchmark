@@ -22,6 +22,7 @@
 | o3-mini-20250131-HIGH | 9.629 |
 | qwenqwen3-30b-a3b-instruct-2507 | 9.629 |
 | claude-3-5-sonnet-20241022 | 9.614 |
+| Grok-4.1-20251118 | 9.614 |
 | moonshotaikimi-linear-48b-a3b-instruct | 9.614 |
 | o4-mini-2025-04-16 | 9.614 |
 | QwenQwen3-14B | 9.614 |

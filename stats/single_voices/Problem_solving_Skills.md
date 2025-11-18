@@ -147,6 +147,7 @@
 | googlegemma-2-9b-it | 8.171 |
 | meta-llamaLlama-3.2-3B-Instruct | 8.143 |
 | qwen-plus-0428 | 8.143 |
+| Grok-4.1-20251118 | 8.129 |
 | gpt-4-1106-preview | 8.100 |
 | qwen31.7b | 8.086 |
 | gpt-4o-mini-2024-11-05 | 8.086 |

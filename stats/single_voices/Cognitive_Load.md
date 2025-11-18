@@ -14,6 +14,7 @@
 | gemini-2.5-flash-preview-04-17 | 8.286 |
 | QwenQwen3-30B-A3B | 8.229 |
 | anthropicclaude-sonnet-4.5 | 8.229 |
+| Grok-4.1-20251118 | 8.214 |
 | gemma34b-it-q8_0 | 8.171 |
 | moonshotaikimi-k2 | 8.157 |
 | gemini-2.5-flash-preview-05-20 | 8.143 |

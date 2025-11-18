@@ -121,6 +121,7 @@
 | magistral-small-2506 | 7.214 |
 | openroutersherlock-think-alpha | 7.214 |
 | QwenQwen3-32B | 7.214 |
+| Grok-4.1-20251118 | 7.200 |
 | qwenqwen3-235b-a22b-07-25 | 7.200 |
 | qwen-turbo-0428 | 7.186 |
 | meta-llamallama-4-scout | 7.186 |

@@ -17,6 +17,7 @@
 | gemma34b-it-q8_0 | 7.357 |
 | QwenQwen3-30B-A3B | 7.300 |
 | tngtechdeepseek-r1t-chimerafree | 7.200 |
+| Grok-4.1-20251118 | 7.186 |
 | gemini-2.0-pro-exp-02-05 | 7.186 |
 | claude-3-opus-20240229 | 7.114 |
 | z-aiglm-4.5-air | 7.114 |

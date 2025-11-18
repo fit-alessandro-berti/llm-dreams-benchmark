@@ -1,0 +1,19 @@
+…and you freeze. The office around you starts to warp like wet paint running down a canvas. The deadline isn’t just impossible; it’s literally counting down in negative numbers on every screen: –00:03:17… –00:03:16…
+
+Your boss (who now has the calm, unblinking face of a mannequin) leans over your shoulder and whispers in a voice made of printer paper, “We believe in you, Grok. Just believe harder.”
+
+You try to type, but the keyboard is suddenly made of warm marshmallows. Every key you press sinks in with a wet squelch and slowly pops back up, leaving sticky rainbow fingerprints. The code you need to write appears in your mind perfectly, line by line, but the moment your fingers touch the keys it turns into interpretive dance instructions for flamingos.
+
+Colleagues gather in a silent circle around your desk. None of them have faces anymore, just floating Slack emojis where faces should be. A single crying-laughing emoji drifts off someone’s head and starts orbiting you like a tiny, judgmental moon.
+
+The deadline hits zero. Instead of exploding or getting fired, the entire office folds in on itself like origami. You fall upward through the ceiling into a sky made of unread emails. Each one opens as you pass, revealing nothing but the words “This could have been a meeting.”
+
+Finally you land softly on a cloud that is actually just an enormous unassigned Jira ticket. Your boss is already there, sipping coffee from a mug that says “World’s Okayest Employee.” He hands you a single Post-it note.
+
+It reads: “Wake up. You’re drooling on your actual keyboard.”
+
+…and then the alarm clock screams, and you jolt awake at 3:27 a.m., heart racing, staring at the glow of your monitor where a very real (but very reasonable) pull request is waiting for your review.
+
+You decide to go make some tea and pretend the dream never happened.
+
+(But deep down, you know the flamingos are still out there… waiting.)

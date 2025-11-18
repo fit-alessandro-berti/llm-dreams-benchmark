@@ -142,6 +142,7 @@
 | ibmgranite41b-h | 6.214 |
 | meta-llamaMeta-Llama-3.1-405B-Instruct | 6.200 |
 | z-aiglm-4.5-air | 6.186 |
+| Grok-4.1-20251118 | 6.186 |
 | nvidiallama-3.3-nemotron-super-49b-v1 | 6.171 |
 | z-aiglm-4.5 | 6.157 |
 | claude-3-opus-20240229 | 6.129 |

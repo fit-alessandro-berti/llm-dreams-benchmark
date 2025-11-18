@@ -122,6 +122,7 @@
 | mistral-medium-2508 | 7.500 |
 | r1-1776 | 7.500 |
 | meta-llamaLlama-3.2-3B-Instruct | 7.471 |
+| Grok-4.1-20251118 | 7.471 |
 | qwen31.7b | 7.457 |
 | meta-llamaMeta-Llama-3.1-8B-Instruct | 7.457 |
 | deepseek-aiDeepSeek-R1-Zero | 7.443 |

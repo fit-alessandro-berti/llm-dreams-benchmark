@@ -146,6 +146,7 @@
 | mistral-medium-2508 | 6.857 |
 | claude-4-sonnet-20250514 | 6.843 |
 | claude-3-5-sonnet-20241022 | 6.843 |
+| Grok-4.1-20251118 | 6.829 |
 | meta-llamaMeta-Llama-3.1-70B-Instruct | 6.800 |
 | gemini-2.5-flash-lite-preview-06-17 | 6.771 |
 | meta-llamaMeta-Llama-3.1-8B-Instruct | 6.757 |

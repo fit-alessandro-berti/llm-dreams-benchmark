@@ -20,6 +20,7 @@
 | meta-llamaMeta-Llama-3.1-405B-Instruct | 7.900 |
 | r1-1776 | 7.886 |
 | QwenQwen3-14B | 7.871 |
+| Grok-4.1-20251118 | 7.857 |
 | magistral-medium-2506 | 7.857 |
 | meta-llamallama-4-scout | 7.857 |
 | deepseekdeepseek-r1 | 7.829 |

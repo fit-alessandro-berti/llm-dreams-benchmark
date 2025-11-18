@@ -14,6 +14,7 @@
 | gemma34b-it-q8_0 | 8.100 |
 | meta-llamallama-4-maverick | 8.029 |
 | mistral-medium-2508 | 7.857 |
+| Grok-4.1-20251118 | 7.857 |
 | Gemini-1.5-Pro-Exp-0801 | 7.829 |
 | QwenQwen3-30B-A3B | 7.814 |
 | gemini-2.5-flash-preview-05-20 | 7.814 |

@@ -126,6 +126,7 @@
 | gpt-5-chat-latest-2025-08-19 | 8.386 |
 | gemma312b-it-q8_0 | 8.371 |
 | Gemini-1.5-Pro-Exp-0801 | 8.371 |
+| Grok-4.1-20251118 | 8.371 |
 | openroutersherlock-think-alpha | 8.357 |
 | chatgpt-4o-latest-2024-11-20 | 8.343 |
 | googlegemma-2-2b-it | 8.343 |

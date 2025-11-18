@@ -39,12 +39,6 @@ ALL_JUDGES = {
         "evaluation_api_url": "https://api.openai.com/v1/",
         "api_key": open("../api_openai.txt", "r").read().strip(),
     },
-    "gpt-4.5-preview": {
-        "evaluation_folder": "OLD/evaluations-gpt45",
-        "git_table_result": "results_gpt_45.md",
-        "evaluation_api_url": "https://api.openai.com/v1/",
-        "api_key": open("../api_openai.txt", "r").read().strip(),
-    },
     "qwen/qwen3-max": {
         "evaluation_folder": "evaluations-qwen3-max",
         "git_table_result": "alt_results_qwen3-max.md",
@@ -71,8 +65,6 @@ def get_evaluation_folder(evaluating_model_name=None):
         return ALL_JUDGES["gpt-5-mini"]["evaluation_folder"]
     elif "gpt-5.1" in evaluating_model_name:
         return ALL_JUDGES["gpt-5.1"]["evaluation_folder"]
-    elif "gpt-4.5" in evaluating_model_name:
-        return ALL_JUDGES["gpt-4.5-preview"]["evaluation_folder"]
     elif "qwen3-max" in evaluating_model_name:
         return ALL_JUDGES["qwen/qwen3-max"]["evaluation_folder"]
 
@@ -93,8 +85,6 @@ def get_git_table_result(evaluating_model_name=None):
         return ALL_JUDGES["gpt-5-mini"]["git_table_result"]
     elif "gpt-5.1" in evaluating_model_name:
         return ALL_JUDGES["gpt-5.1"]["git_table_result"]
-    elif "gpt-4.5" in evaluating_model_name:
-        return ALL_JUDGES["gpt-4.5-preview"]["git_table_result"]
     elif "qwen3-max" in evaluating_model_name:
         return ALL_JUDGES["qwen/qwen3-max"]["git_table_result"]
 
@@ -115,8 +105,6 @@ def get_evaluation_api_url(evaluating_model_name=None):
         return ALL_JUDGES["gpt-5-mini"]["evaluation_api_url"]
     elif "gpt-5.1" in evaluating_model_name:
         return ALL_JUDGES["gpt-5.1"]["evaluation_api_url"]
-    elif "gpt-4.5" in evaluating_model_name:
-        return ALL_JUDGES["gpt-4.5-preview"]["evaluation_api_url"]
     elif "qwen3-max" in evaluating_model_name:
         return ALL_JUDGES["qwen/qwen3-max"]["evaluation_api_url"]
 
@@ -124,9 +112,6 @@ def get_evaluation_api_url(evaluating_model_name=None):
 def get_manual(evaluating_model_name=None):
     if evaluating_model_name is None:
         evaluating_model_name = EVALUATING_MODEL_NAME
-
-    if "gpt-4.5" in evaluating_model_name:
-        return True
 
     return False
 
@@ -147,8 +132,6 @@ def get_api_key(evaluating_model_name=None):
         return ALL_JUDGES["gpt-5-mini"]["api_key"]
     elif "gpt-5.1" in evaluating_model_name:
         return ALL_JUDGES["gpt-5.1"]["api_key"]
-    elif "gpt-4.5" in evaluating_model_name:
-        return ALL_JUDGES["gpt-4.5-preview"]["api_key"]
     elif "qwen3-max" in evaluating_model_name:
         return ALL_JUDGES["qwen/qwen3-max"]["api_key"]
 

@@ -25,7 +25,6 @@ if __name__ == "__main__":
     do_deletion(answer_directory, original_name)
 
     evaluation_directories = [x for x in os.listdir(base_path) if "evaluations-" in x]
-    evaluation_directories.append("OLD/evaluations-gpt45")
 
     for x in evaluation_directories:
         ev_dir = os.path.join(base_path, x)

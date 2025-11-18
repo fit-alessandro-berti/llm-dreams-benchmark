@@ -4,6 +4,7 @@
 |:--|--:|
 | openaigpt-oss-120b | 9.757 |
 | anthropicclaude-opus-4.1 | 9.743 |
+| gemini-3-pro-preview | 9.729 |
 | moonshotaikimi-k2 | 9.729 |
 | claude-4-opus-20250514 | 9.714 |
 | Grok-4-fast | 9.700 |

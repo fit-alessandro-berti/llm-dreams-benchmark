@@ -173,6 +173,7 @@
 | tngtechdeepseek-r1t-chimerafree | 6.286 |
 | anthropicclaude-sonnet-4.5 | 6.271 |
 | deepseekdeepseek-r1 | 6.257 |
+| gemini-3-pro-preview | 6.214 |
 | gemini-2.5-pro-exp-03-25 | 6.157 |
 | moonshotaikimi-k2-thinking | 6.143 |
 | gemini-2.5-flash-preview-04-17 | 6.129 |

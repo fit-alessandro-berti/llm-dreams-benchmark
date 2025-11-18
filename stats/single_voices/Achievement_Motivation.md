@@ -179,6 +179,7 @@
 | claude-4-opus-20250514 | 7.586 |
 | gemma31b-it-q8_0 | 7.586 |
 | gemma34b-it-q8_0 | 7.557 |
+| gemini-3-pro-preview | 7.529 |
 | gemini-2.0-flash-lite-preview-02-05 | 7.514 |
 | gemini-2.5-flash-preview-05-20 | 7.414 |
 | moonshotaikimi-k2-thinking | 7.414 |

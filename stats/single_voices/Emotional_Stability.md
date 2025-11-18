@@ -177,6 +177,7 @@
 | gemini-2.5-flash-preview-04-17 | 5.386 |
 | gemma31b-it-q8_0 | 5.300 |
 | QwenQwen3-235B-A22B | 5.286 |
+| gemini-3-pro-preview | 5.271 |
 | gemini-2.5-flash-preview-09-2025 | 5.257 |
 | anthropicclaude-sonnet-4.5 | 5.214 |
 | gemini-2.0-flash-lite-preview-02-05 | 5.200 |

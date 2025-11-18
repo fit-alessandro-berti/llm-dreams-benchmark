@@ -11,6 +11,7 @@
 | gemini-2.5-pro-exp-03-25 | 7.600 |
 | anthropicclaude-sonnet-4.5 | 7.543 |
 | Gemini-1.5-Pro-Exp-0801 | 7.486 |
+| gemini-3-pro-preview | 7.457 |
 | gemini-2.5-flash-preview-05-20 | 7.400 |
 | gemini-2.5-flash-preview-04-17 | 7.371 |
 | meta-llamallama-4-maverick | 7.371 |

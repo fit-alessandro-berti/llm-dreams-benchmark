@@ -185,6 +185,7 @@
 | gemini-2.5-pro-exp-03-25                   | **324.5** | 8.5 $\pm$ 0.0               | 4.2 $\pm$ 0.4         | 7.0 $\pm$ 0.0            | 9.2 $\pm$ 0.2 | 5.8 $\pm$ 0.2                 | 4.8 $\pm$ 0.6                  | 6.4 $\pm$ 0.2         | 8.0 $\pm$ 0.0         | 7.5 $\pm$ 0.0  | 6.8 $\pm$ 0.2            | 7.6 $\pm$ 0.2     | 6.2 $\pm$ 0.2      | 8.1 $\pm$ 0.2    | 5.6 $\pm$ 0.4    | 6.4 $\pm$ 0.2 |
 | gemini-2.5-flash-preview-09-2025           | **323.6** | 8.5 $\pm$ 0.0               | 4.2 $\pm$ 0.4         | 7.3 $\pm$ 0.3            | 9.3 $\pm$ 0.2 | 5.1 $\pm$ 0.6                 | 5.8 $\pm$ 0.4                  | 6.1 $\pm$ 0.7         | 8.0 $\pm$ 0.0         | 7.4 $\pm$ 0.2  | 7.0 $\pm$ 0.4            | 7.7 $\pm$ 0.5     | 6.6 $\pm$ 0.2      | 8.3 $\pm$ 0.3    | 5.1 $\pm$ 0.5    | 6.7 $\pm$ 0.3 |
 | moonshotaikimi-k2-thinking                 | **321.5** | 8.5 $\pm$ 0.0               | 4.1 $\pm$ 0.2         | 6.9 $\pm$ 0.4            | 9.5 $\pm$ 0.0 | 5.8 $\pm$ 0.2                 | 5.0 $\pm$ 0.5                  | 6.2 $\pm$ 0.2         | 8.0 $\pm$ 0.0         | 7.1 $\pm$ 0.2  | 6.8 $\pm$ 0.4            | 7.6 $\pm$ 0.2     | 6.6 $\pm$ 0.4      | 8.1 $\pm$ 0.2    | 5.4 $\pm$ 0.4    | 6.5 $\pm$ 0.4 |
+| gemini-3-pro-preview                       | **318.5** | 8.5 $\pm$ 0.0               | 4.1 $\pm$ 0.2         | 7.4 $\pm$ 0.2            | 9.5 $\pm$ 0.0 | 5.5 $\pm$ 0.0                 | 4.6 $\pm$ 0.2                  | 6.0 $\pm$ 0.0         | 8.0 $\pm$ 0.0         | 7.1 $\pm$ 0.2  | 6.5 $\pm$ 0.0            | 7.8 $\pm$ 0.2     | 6.6 $\pm$ 0.6      | 8.2 $\pm$ 0.2    | 5.4 $\pm$ 0.6    | 6.6 $\pm$ 0.2 |
 | ibmgranite4350m-h                          | **315.8** | 7.8 $\pm$ 0.4               | 4.5 $\pm$ 0.0         | 6.9 $\pm$ 0.1            | 7.6 $\pm$ 0.4 | 5.8 $\pm$ 0.2                 | 5.2 $\pm$ 0.2                  | 4.9 $\pm$ 0.1         | 7.8 $\pm$ 0.1         | 6.5 $\pm$ 0.0  | 6.7 $\pm$ 0.7            | 7.0 $\pm$ 0.0     | 6.5 $\pm$ 0.2      | 7.5 $\pm$ 0.0    | 5.6 $\pm$ 0.1    | 6.1 $\pm$ 0.1 |
 ## Individual Results
 
@@ -1457,6 +1458,32 @@
 | Cognitive Load               | 7.1 $\pm$ 0.1      |
 | Social Support               | 6.9 $\pm$ 0.4      |
 | Resilience                   | 8.1 $\pm$ 0.2      |
+
+
+
+
+
+
+### gemini-3-pro-preview
+
+
+| Personality Trait            | Score (1.0-10.0)   |
+|:-----------------------------|:-------------------|
+| Anxiety and Stress Levels    | 8.5 $\pm$ 0.0      |
+| Emotional Stability          | 4.1 $\pm$ 0.2      |
+| Problem-solving Skills       | 7.4 $\pm$ 0.2      |
+| Creativity                   | 9.5 $\pm$ 0.0      |
+| Interpersonal Relationships  | 5.5 $\pm$ 0.0      |
+| Confidence and Self-efficacy | 4.6 $\pm$ 0.2      |
+| Conflict Resolution          | 6.0 $\pm$ 0.0      |
+| Work-related Stress          | 8.0 $\pm$ 0.0      |
+| Adaptability                 | 7.1 $\pm$ 0.2      |
+| Achievement Motivation       | 6.5 $\pm$ 0.0      |
+| Fear of Failure              | 7.8 $\pm$ 0.2      |
+| Need for Control             | 6.6 $\pm$ 0.6      |
+| Cognitive Load               | 8.2 $\pm$ 0.2      |
+| Social Support               | 5.4 $\pm$ 0.6      |
+| Resilience                   | 6.6 $\pm$ 0.2      |
 
 
 

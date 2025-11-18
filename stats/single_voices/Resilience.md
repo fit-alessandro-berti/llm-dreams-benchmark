@@ -165,6 +165,7 @@
 | tngtechdeepseek-r1t-chimerafree | 7.871 |
 | claude-3-5-sonnet-20241022 | 7.871 |
 | DeepSeek-V3-0324 | 7.829 |
+| gemini-3-pro-preview | 7.786 |
 | moonshotaikimi-k2-thinking | 7.771 |
 | meta-llamallama-4-scout | 7.757 |
 | gemini-2.5-flash-preview-04-17 | 7.686 |

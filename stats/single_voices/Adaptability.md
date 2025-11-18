@@ -165,6 +165,7 @@
 | meta-llamaLlama-3.3-70B-Instruct | 8.286 |
 | tngtechdeepseek-r1t-chimerafree | 8.271 |
 | Qwen-QwQ-32B | 8.257 |
+| gemini-3-pro-preview | 8.243 |
 | gemini-2.5-flash-preview-05-20 | 8.214 |
 | gpt-5-chat-latest-2025-08-07 | 8.214 |
 | magistral-medium-2506 | 8.214 |

@@ -181,6 +181,7 @@
 | gemini-2.5-flash-preview-04-17 | 6.143 |
 | QwenQwen3-235B-A22B | 6.086 |
 | tngtechdeepseek-r1t-chimerafree | 6.071 |
+| gemini-3-pro-preview | 6.029 |
 | claude-3-5-haiku-20241022 | 6.029 |
 | gemma31b-it-q8_0 | 5.743 |
 | ibmgranite4350m-h | 5.614 |

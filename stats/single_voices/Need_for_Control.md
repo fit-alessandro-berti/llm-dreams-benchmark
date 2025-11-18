@@ -106,6 +106,7 @@
 | microsoftPhi-3-medium-4k-instruct | 6.014 |
 | grok-4-0709 | 6.000 |
 | open-mixtral-8x7b | 6.000 |
+| gemini-3-pro-preview | 5.986 |
 | granite4micro | 5.986 |
 | gemini-1.5-flash-8b | 5.971 |
 | gemini-2.5-pro-preview-05-06 | 5.971 |

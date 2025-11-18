@@ -175,6 +175,7 @@
 | grok-3-mini-beta | 7.829 |
 | gemini-2.5-flash-preview-04-17 | 7.800 |
 | meta-llamallama-4-maverick | 7.786 |
+| gemini-3-pro-preview | 7.729 |
 | gemma31b-it-q8_0 | 7.700 |
 | gemini-2.5-pro-exp-03-25 | 7.600 |
 | gemma34b-it-q8_0 | 7.571 |

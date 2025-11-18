@@ -11,6 +11,7 @@
 | mistral-small-2506 | 8.129 |
 | qwenqwen3-235b-a22b-thinking-2507 | 8.114 |
 | meta-llamallama-4-maverick | 8.086 |
+| gemini-3-pro-preview | 8.043 |
 | gemini-2.5-flash-preview-05-20 | 8.014 |
 | gemini-2.5-flash-preview-04-17 | 7.986 |
 | z-aiglm-4.5-air | 7.986 |

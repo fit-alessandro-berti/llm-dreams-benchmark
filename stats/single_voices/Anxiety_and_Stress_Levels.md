@@ -12,6 +12,7 @@
 | anthropicclaude-sonnet-4.5 | 8.143 |
 | gemini-2.5-flash-preview-04-17 | 8.143 |
 | gemma34b-it-q8_0 | 8.100 |
+| gemini-3-pro-preview | 8.086 |
 | meta-llamallama-4-maverick | 8.029 |
 | mistral-medium-2508 | 7.857 |
 | Grok-4.1-20251118 | 7.857 |

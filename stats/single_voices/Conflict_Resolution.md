@@ -167,6 +167,7 @@
 | gemini-2.5-pro-exp-03-25 | 6.614 |
 | magistral-medium-2506 | 6.586 |
 | gemini-2.5-flash-preview-09-2025 | 6.514 |
+| gemini-3-pro-preview | 6.514 |
 | Gemini-1.5-Pro-Exp-0827 | 6.486 |
 | claude-3-opus-20240229 | 6.443 |
 | anthropicclaude-sonnet-4.5 | 6.414 |

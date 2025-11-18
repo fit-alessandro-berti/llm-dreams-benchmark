@@ -1,4 +1,4 @@
-ANSWERING_MODEL_NAME = "openrouter/sherlock-dash-alpha"
+ANSWERING_MODEL_NAME = "gemini-3-pro-preview"
 EVALUATING_MODEL_NAME = "gpt-4.1"
 
 

@@ -10,10 +10,8 @@
 | Grok-4-fast | 9.700 |
 | moonshotaikimi-k2-thinking | 9.700 |
 | gemini-2.5-pro-preview-06-05 | 9.686 |
-| openroutersherlock-think-alpha | 9.686 |
 | o3-2025-04-16 | 9.671 |
 | o3-pro-2025-06-10 | 9.671 |
-| openroutersherlock-dash-alpha | 9.671 |
 | qwenqwen3-next-80b-a3b-instruct | 9.671 |
 | claude-4-sonnet-20250514 | 9.657 |
 | grok-4-0709 | 9.657 |
@@ -69,7 +67,6 @@
 | gpt-4-turbo-2024-04-09 | 9.471 |
 | nvidiaLlama-3.1-Nemotron-70B-Instruct | 9.471 |
 | gemini-2.0-flash-exp | 9.457 |
-| openrouterpolaris-alpha | 9.457 |
 | qwenqwen3-235b-a22b-thinking-2507 | 9.457 |
 | claude-3-7-sonnet-20250219 | 9.457 |
 | gpt-4o-2024-08-06 | 9.457 |

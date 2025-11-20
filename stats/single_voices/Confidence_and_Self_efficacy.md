@@ -58,7 +58,6 @@
 | qwen-max-2025-01-25 | 7.914 |
 | qwen-plus-2025-01-25 | 7.914 |
 | baiduernie-4.5-21b-a3b | 7.886 |
-| openroutersherlock-dash-alpha | 7.886 |
 | ministral-8b-2410 | 7.871 |
 | gpt-5-nano-2025-08-07 | 7.843 |
 | gpt-5-mini-2025-08-07 | 7.814 |
@@ -68,7 +67,6 @@
 | Grok-4-fast-20251111 | 7.786 |
 | deepseek-aiDeepSeek-V3 | 7.743 |
 | falcon33b-instruct-q8_0 | 7.743 |
-| openroutersherlock-think-alpha | 7.729 |
 | baiduernie-4.5-300b-a47b | 7.714 |
 | mistral-small-2501 | 7.714 |
 | chatgpt-4o-latest-2025-04-26 | 7.686 |
@@ -145,7 +143,6 @@
 | gemma312b-it-q8_0 | 7.000 |
 | gemini-2.0-pro-exp-02-05 | 7.000 |
 | claude-4-sonnet-20250514 | 6.986 |
-| openrouterpolaris-alpha | 6.957 |
 | qwen31.7b | 6.943 |
 | z-aiglm-4.5 | 6.929 |
 | deepseek-aiDeepSeek-R1-0528 | 6.929 |

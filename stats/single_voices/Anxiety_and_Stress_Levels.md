@@ -50,7 +50,6 @@
 | meta-llamaLlama-3.2-3B-Instruct | 7.443 |
 | qwen38b | 7.429 |
 | nvidiallama-3.1-nemotron-nano-8b-v1 | 7.400 |
-| openrouterpolaris-alpha | 7.400 |
 | chatgpt-4o-latest-20250215 | 7.386 |
 | chatgpt-4o-latest-2025-01-29 | 7.357 |
 | magistral-small-2506 | 7.357 |
@@ -89,9 +88,7 @@
 | gpt-4-1106-preview | 6.929 |
 | anthropicclaude-opus-4.1 | 6.914 |
 | grok-4-1-fast-non-reasoning | 6.900 |
-| openroutersherlock-dash-alpha | 6.900 |
 | chatgpt-4o-latest-2025-04-26 | 6.886 |
-| openroutersherlock-think-alpha | 6.857 |
 | Grok-4-fast-20251111 | 6.829 |
 | gemini-1.5-flash-8b | 6.814 |
 | gemini-2.5-pro-preview-06-05 | 6.800 |

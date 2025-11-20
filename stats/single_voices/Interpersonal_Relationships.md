@@ -99,7 +99,6 @@
 | claude-3-7-sonnet-20250219 | 7.357 |
 | meta-llamaLlama-3.2-3B-Instruct | 7.357 |
 | nousresearchhermes-4-70b | 7.357 |
-| openroutersherlock-dash-alpha | 7.357 |
 | qwen34b-instruct-2507-q8_0 | 7.357 |
 | qwen-plus-0428 | 7.357 |
 | deepseek-aiDeepSeek-R1-Zero | 7.343 |
@@ -114,13 +113,11 @@
 | gemini-2.5-pro-preview-05-06 | 7.286 |
 | qwen38b | 7.271 |
 | Gemini-1.5-Pro-Exp-0801 | 7.271 |
-| openrouterpolaris-alpha | 7.271 |
 | gemini-1.5-flash-8b | 7.243 |
 | Grok-4-fast-20251111 | 7.243 |
 | nvidiallama-3.3-nemotron-super-49b-v1 | 7.229 |
 | anthropicclaude-opus-4.1 | 7.214 |
 | magistral-small-2506 | 7.214 |
-| openroutersherlock-think-alpha | 7.214 |
 | QwenQwen3-32B | 7.214 |
 | grok-4-1-fast-non-reasoning | 7.200 |
 | Grok-4.1-20251118 | 7.200 |

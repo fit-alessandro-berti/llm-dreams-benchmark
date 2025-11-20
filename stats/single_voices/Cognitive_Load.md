@@ -26,7 +26,6 @@
 | gemini-2.0-flash-lite-preview-02-05 | 8.043 |
 | qwen38b | 8.043 |
 | meta-llamaMeta-Llama-3.1-8B-Instruct | 8.029 |
-| openrouterpolaris-alpha | 8.029 |
 | chatgpt-4o-latest-20250215 | 7.986 |
 | mistral-small-2506 | 7.986 |
 | deepseekdeepseek-r1 | 7.986 |
@@ -43,7 +42,6 @@
 | qwen30.6b | 7.886 |
 | QwenQwen3-32B | 7.886 |
 | claude-3-5-haiku-20241022 | 7.871 |
-| openroutersherlock-dash-alpha | 7.871 |
 | gemma-3-27b-it | 7.843 |
 | Grok-4-fast | 7.843 |
 | claude-4-sonnet-20250514 | 7.829 |
@@ -53,7 +51,6 @@
 | qwen-turbo-0428 | 7.814 |
 | grok-4-1-fast-reasoning | 7.814 |
 | nvidiallama-3.1-nemotron-nano-8b-v1 | 7.800 |
-| openroutersherlock-think-alpha | 7.800 |
 | gemini-1.5-flash-8b | 7.786 |
 | claude-3-5-sonnet-20241022 | 7.786 |
 | chatgpt-4o-latest-2025-01-29 | 7.771 |

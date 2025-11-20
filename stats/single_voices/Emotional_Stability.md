@@ -103,12 +103,10 @@
 | nvidiaLlama-3.1-Nemotron-70B-Instruct | 6.743 |
 | nvidiallama-3.1-nemotron-ultra-253b-v1free | 6.743 |
 | deepseekdeepseek-chat-v3.1 | 6.714 |
-| openroutersherlock-dash-alpha | 6.714 |
 | chatgpt-4o-latest-2025-04-26 | 6.700 |
 | claude-3-7-sonnet-20250219 | 6.657 |
 | claude-3-7-sonnet-20250219-thinking-high | 6.657 |
 | nousresearchhermes-4-70b | 6.643 |
-| openroutersherlock-think-alpha | 6.629 |
 | claude-4-opus-20250514 | 6.629 |
 | googlegemma-2-9b-it | 6.614 |
 | granite4tiny-h | 6.614 |
@@ -130,7 +128,6 @@
 | gemma-3n-e4b-it | 6.400 |
 | gemini-2.5-pro-preview-05-06 | 6.386 |
 | gemini-2.5-flash-lite-preview-06-17 | 6.371 |
-| openrouterpolaris-alpha | 6.371 |
 | deepseekdeepseek-r1 | 6.343 |
 | grok-4-0709 | 6.343 |
 | qwenqwen3-235b-a22b-07-25 | 6.329 |

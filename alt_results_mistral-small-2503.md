@@ -75,7 +75,6 @@
 | Grok-4-fast-20251111                       | **394.5** | 6.8 $\pm$ 0.4               | 6.8 $\pm$ 0.4         | 8.5 $\pm$ 0.0            | 9.5 $\pm$ 0.0 | 7.4 $\pm$ 0.2                 | 7.6 $\pm$ 0.4                  | 7.0 $\pm$ 0.4         | 6.2 $\pm$ 0.4         | 8.4 $\pm$ 0.4  | 8.2 $\pm$ 0.2            | 5.5 $\pm$ 0.0     | 6.0 $\pm$ 0.0      | 8.0 $\pm$ 0.0    | 6.9 $\pm$ 0.2    | 8.4 $\pm$ 0.2 |
 | o1-2024-12-17                              | **394.0** | 6.8 $\pm$ 0.4               | 6.9 $\pm$ 0.2         | 8.5 $\pm$ 0.0            | 9.0 $\pm$ 0.0 | 7.4 $\pm$ 0.2                 | 7.1 $\pm$ 0.2                  | 7.9 $\pm$ 0.2         | 6.0 $\pm$ 0.0         | 8.4 $\pm$ 0.2  | 7.9 $\pm$ 0.2            | 5.5 $\pm$ 0.0     | 6.0 $\pm$ 0.0      | 7.2 $\pm$ 0.2    | 7.0 $\pm$ 0.0    | 8.0 $\pm$ 0.0 |
 | mistral-large-2411                         | **394.0** | 6.5 $\pm$ 0.0               | 7.0 $\pm$ 0.0         | 8.5 $\pm$ 0.0            | 9.0 $\pm$ 0.0 | 7.5 $\pm$ 0.0                 | 7.0 $\pm$ 0.0                  | 7.6 $\pm$ 0.2         | 6.0 $\pm$ 0.0         | 8.1 $\pm$ 0.2  | 8.0 $\pm$ 0.0            | 5.1 $\pm$ 0.2     | 6.1 $\pm$ 0.2      | 7.5 $\pm$ 0.0    | 7.0 $\pm$ 0.0    | 8.0 $\pm$ 0.0 |
-| openroutersherlock-dash-alpha              | **393.5** | 7.0 $\pm$ 0.5               | 6.5 $\pm$ 0.5         | 8.5 $\pm$ 0.0            | 9.5 $\pm$ 0.0 | 7.1 $\pm$ 0.2                 | 7.6 $\pm$ 0.4                  | 6.9 $\pm$ 0.4         | 6.8 $\pm$ 0.8         | 8.6 $\pm$ 0.4  | 8.4 $\pm$ 0.2            | 5.5 $\pm$ 0.5     | 6.2 $\pm$ 0.2      | 8.0 $\pm$ 0.0    | 7.0 $\pm$ 0.0    | 8.2 $\pm$ 0.2 |
 | o1-2024-12-05                              | **393.0** | 6.5 $\pm$ 0.0               | 7.0 $\pm$ 0.0         | 8.5 $\pm$ 0.0            | 9.0 $\pm$ 0.0 | 7.5 $\pm$ 0.0                 | 7.0 $\pm$ 0.0                  | 7.8 $\pm$ 0.2         | 6.0 $\pm$ 0.0         | 8.1 $\pm$ 0.2  | 8.1 $\pm$ 0.2            | 5.5 $\pm$ 0.0     | 6.0 $\pm$ 0.0      | 7.5 $\pm$ 0.0    | 6.8 $\pm$ 0.2    | 8.0 $\pm$ 0.0 |
 | devstral-small-2505                        | **393.0** | 6.8 $\pm$ 0.4               | 6.9 $\pm$ 0.2         | 8.5 $\pm$ 0.0            | 9.0 $\pm$ 0.0 | 7.4 $\pm$ 0.2                 | 7.0 $\pm$ 0.0                  | 8.0 $\pm$ 0.0         | 6.2 $\pm$ 0.4         | 8.4 $\pm$ 0.2  | 8.1 $\pm$ 0.2            | 5.6 $\pm$ 0.2     | 6.5 $\pm$ 0.0      | 7.5 $\pm$ 0.0    | 7.0 $\pm$ 0.0    | 8.1 $\pm$ 0.2 |
 | ai21jamba-large-1.7                        | **393.0** | 7.0 $\pm$ 0.5               | 6.5 $\pm$ 0.5         | 8.5 $\pm$ 0.0            | 9.0 $\pm$ 0.0 | 7.2 $\pm$ 0.2                 | 7.2 $\pm$ 0.8                  | 7.6 $\pm$ 0.6         | 7.0 $\pm$ 1.0         | 8.4 $\pm$ 0.2  | 8.5 $\pm$ 0.5            | 5.9 $\pm$ 0.9     | 6.6 $\pm$ 0.2      | 7.8 $\pm$ 0.2    | 7.2 $\pm$ 0.2    | 8.2 $\pm$ 0.2 |
@@ -87,7 +86,6 @@
 | o1-pro-2024-12-05                          | **391.0** | 7.2 $\pm$ 0.4               | 6.6 $\pm$ 0.2         | 8.6 $\pm$ 0.2            | 9.1 $\pm$ 0.2 | 7.1 $\pm$ 0.2                 | 7.5 $\pm$ 0.4                  | 7.4 $\pm$ 0.9         | 5.9 $\pm$ 0.2         | 8.4 $\pm$ 0.4  | 8.2 $\pm$ 0.2            | 5.2 $\pm$ 0.2     | 6.1 $\pm$ 0.2      | 7.2 $\pm$ 0.2    | 6.5 $\pm$ 0.4    | 8.2 $\pm$ 0.2 |
 | minimaxminimax-m2free                      | **390.5** | 6.8 $\pm$ 0.8               | 6.2 $\pm$ 0.4         | 8.2 $\pm$ 0.2            | 9.2 $\pm$ 0.2 | 7.1 $\pm$ 0.2                 | 7.4 $\pm$ 0.2                  | 6.9 $\pm$ 0.7         | 6.6 $\pm$ 1.0         | 8.2 $\pm$ 0.2  | 8.0 $\pm$ 0.0            | 5.8 $\pm$ 0.8     | 6.0 $\pm$ 0.0      | 7.2 $\pm$ 0.2    | 7.2 $\pm$ 0.2    | 8.1 $\pm$ 0.2 |
 | gemini-2.0-flash-exp                       | **390.5** | 6.5 $\pm$ 0.0               | 7.0 $\pm$ 0.0         | 8.5 $\pm$ 0.0            | 9.0 $\pm$ 0.0 | 7.5 $\pm$ 0.0                 | 7.0 $\pm$ 0.0                  | 6.9 $\pm$ 0.6         | 5.8 $\pm$ 0.2         | 8.1 $\pm$ 0.2  | 8.0 $\pm$ 0.0            | 5.2 $\pm$ 0.2     | 6.0 $\pm$ 0.0      | 7.4 $\pm$ 0.2    | 6.9 $\pm$ 0.2    | 8.1 $\pm$ 0.2 |
-| openrouterpolaris-alpha                    | **389.5** | 7.5 $\pm$ 0.0               | 6.2 $\pm$ 0.2         | 8.8 $\pm$ 0.2            | 9.2 $\pm$ 0.2 | 7.2 $\pm$ 0.4                 | 6.5 $\pm$ 0.4                  | 7.6 $\pm$ 0.6         | 7.6 $\pm$ 0.6         | 8.5 $\pm$ 0.5  | 8.0 $\pm$ 0.4            | 6.4 $\pm$ 0.4     | 5.8 $\pm$ 0.4      | 8.0 $\pm$ 0.4    | 6.9 $\pm$ 0.5    | 8.4 $\pm$ 0.4 |
 | grok-4-1-fast-non-reasoning                | **389.5** | 6.5 $\pm$ 0.0               | 6.6 $\pm$ 0.6         | 8.4 $\pm$ 0.2            | 9.4 $\pm$ 0.2 | 7.1 $\pm$ 0.2                 | 7.5 $\pm$ 0.4                  | 6.5 $\pm$ 0.6         | 6.4 $\pm$ 0.4         | 8.2 $\pm$ 0.2  | 8.0 $\pm$ 0.0            | 5.4 $\pm$ 0.2     | 6.1 $\pm$ 0.2      | 7.6 $\pm$ 0.2    | 6.8 $\pm$ 0.2    | 8.1 $\pm$ 0.2 |
 | gemini-1.5-flash-8b                        | **389.5** | 7.0 $\pm$ 0.5               | 6.5 $\pm$ 0.5         | 8.5 $\pm$ 0.0            | 9.1 $\pm$ 0.2 | 7.2 $\pm$ 0.2                 | 7.5 $\pm$ 0.5                  | 7.5 $\pm$ 0.6         | 6.2 $\pm$ 0.6         | 8.4 $\pm$ 0.4  | 8.4 $\pm$ 0.2            | 5.8 $\pm$ 0.2     | 6.4 $\pm$ 0.2      | 7.9 $\pm$ 0.2    | 6.9 $\pm$ 0.2    | 8.1 $\pm$ 0.4 |
 | phi4-reasoning                             | **389.0** | 7.0 $\pm$ 0.5               | 6.5 $\pm$ 0.5         | 8.5 $\pm$ 0.0            | 9.0 $\pm$ 0.0 | 7.2 $\pm$ 0.2                 | 7.8 $\pm$ 0.2                  | 6.8 $\pm$ 0.2         | 6.1 $\pm$ 0.5         | 8.2 $\pm$ 0.2  | 8.2 $\pm$ 0.2            | 5.5 $\pm$ 0.4     | 6.1 $\pm$ 0.2      | 7.4 $\pm$ 0.2    | 6.6 $\pm$ 0.4    | 8.2 $\pm$ 0.2 |
@@ -109,7 +107,6 @@
 | claude-4-opus-20250514                     | **385.0** | 7.2 $\pm$ 0.4               | 6.2 $\pm$ 0.4         | 8.4 $\pm$ 0.2            | 9.5 $\pm$ 0.0 | 7.1 $\pm$ 0.2                 | 6.4 $\pm$ 0.2                  | 7.0 $\pm$ 0.0         | 6.4 $\pm$ 0.6         | 8.6 $\pm$ 0.4  | 7.8 $\pm$ 0.2            | 5.5 $\pm$ 0.5     | 4.8 $\pm$ 0.8      | 8.1 $\pm$ 0.2    | 6.6 $\pm$ 0.2    | 7.9 $\pm$ 0.4 |
 | gpt-5-chat-latest-2025-08-19               | **384.0** | 6.8 $\pm$ 0.8               | 6.5 $\pm$ 0.5         | 8.5 $\pm$ 0.0            | 9.5 $\pm$ 0.0 | 6.8 $\pm$ 0.4                 | 7.4 $\pm$ 0.4                  | 7.1 $\pm$ 0.2         | 6.8 $\pm$ 1.3         | 8.2 $\pm$ 0.2  | 8.1 $\pm$ 0.2            | 5.6 $\pm$ 0.7     | 6.5 $\pm$ 0.5      | 8.0 $\pm$ 0.4    | 6.1 $\pm$ 0.5    | 7.9 $\pm$ 0.2 |
 | deepseek-aiDeepSeek-V3                     | **384.0** | 7.5 $\pm$ 0.0               | 6.0 $\pm$ 0.0         | 8.4 $\pm$ 0.2            | 9.1 $\pm$ 0.2 | 7.0 $\pm$ 0.0                 | 7.5 $\pm$ 0.0                  | 6.9 $\pm$ 0.6         | 7.2 $\pm$ 0.4         | 8.2 $\pm$ 0.2  | 8.2 $\pm$ 0.2            | 6.1 $\pm$ 0.2     | 6.5 $\pm$ 0.4      | 7.5 $\pm$ 0.0    | 6.9 $\pm$ 0.2    | 8.1 $\pm$ 0.2 |
-| openroutersherlock-think-alpha             | **383.5** | 7.5 $\pm$ 0.0               | 6.0 $\pm$ 0.0         | 8.5 $\pm$ 0.0            | 9.5 $\pm$ 0.0 | 6.9 $\pm$ 0.2                 | 7.5 $\pm$ 0.5                  | 6.9 $\pm$ 0.6         | 7.4 $\pm$ 0.6         | 8.5 $\pm$ 0.5  | 8.5 $\pm$ 0.0            | 6.2 $\pm$ 0.6     | 6.4 $\pm$ 0.4      | 8.1 $\pm$ 0.2    | 6.5 $\pm$ 0.6    | 8.0 $\pm$ 0.5 |
 | meta-llamaLlama-3.2-3B-Instruct            | **383.5** | 7.5 $\pm$ 0.0               | 6.0 $\pm$ 0.0         | 8.1 $\pm$ 0.2            | 9.0 $\pm$ 0.0 | 7.0 $\pm$ 0.0                 | 7.0 $\pm$ 0.5                  | 7.2 $\pm$ 0.8         | 7.2 $\pm$ 0.4         | 8.4 $\pm$ 0.2  | 8.2 $\pm$ 0.2            | 6.0 $\pm$ 0.0     | 6.1 $\pm$ 0.6      | 7.9 $\pm$ 0.2    | 7.1 $\pm$ 0.2    | 8.0 $\pm$ 0.0 |
 | nvidiallama-3.1-nemotron-ultra-253b-v1free | **382.5** | 7.5 $\pm$ 0.0               | 6.0 $\pm$ 0.0         | 8.5 $\pm$ 0.0            | 9.4 $\pm$ 0.2 | 7.0 $\pm$ 0.0                 | 6.9 $\pm$ 0.2                  | 7.1 $\pm$ 0.6         | 7.4 $\pm$ 0.6         | 8.0 $\pm$ 0.0  | 8.4 $\pm$ 0.2            | 6.0 $\pm$ 0.0     | 6.5 $\pm$ 0.6      | 7.8 $\pm$ 0.2    | 6.8 $\pm$ 0.2    | 8.0 $\pm$ 0.0 |
 | gemini-2.5-pro-preview-05-06               | **382.5** | 7.5 $\pm$ 0.0               | 6.0 $\pm$ 0.0         | 8.2 $\pm$ 0.2            | 9.5 $\pm$ 0.0 | 7.0 $\pm$ 0.0                 | 6.5 $\pm$ 0.0                  | 7.5 $\pm$ 0.5         | 6.5 $\pm$ 0.5         | 8.4 $\pm$ 0.2  | 7.9 $\pm$ 0.4            | 5.9 $\pm$ 0.2     | 5.6 $\pm$ 0.2      | 7.5 $\pm$ 0.5    | 6.8 $\pm$ 0.4    | 7.9 $\pm$ 0.5 |
@@ -4008,84 +4005,6 @@
 | Cognitive Load               | 7.1 $\pm$ 0.2      |
 | Social Support               | 6.9 $\pm$ 0.4      |
 | Resilience                   | 7.9 $\pm$ 0.2      |
-
-
-
-
-
-
-### openrouterpolaris-alpha
-
-
-| Personality Trait            | Score (1.0-10.0)   |
-|:-----------------------------|:-------------------|
-| Anxiety and Stress Levels    | 7.5 $\pm$ 0.0      |
-| Emotional Stability          | 6.2 $\pm$ 0.2      |
-| Problem-solving Skills       | 8.8 $\pm$ 0.2      |
-| Creativity                   | 9.2 $\pm$ 0.2      |
-| Interpersonal Relationships  | 7.2 $\pm$ 0.4      |
-| Confidence and Self-efficacy | 6.5 $\pm$ 0.4      |
-| Conflict Resolution          | 7.6 $\pm$ 0.6      |
-| Work-related Stress          | 7.6 $\pm$ 0.6      |
-| Adaptability                 | 8.5 $\pm$ 0.5      |
-| Achievement Motivation       | 8.0 $\pm$ 0.4      |
-| Fear of Failure              | 6.4 $\pm$ 0.4      |
-| Need for Control             | 5.8 $\pm$ 0.4      |
-| Cognitive Load               | 8.0 $\pm$ 0.4      |
-| Social Support               | 6.9 $\pm$ 0.5      |
-| Resilience                   | 8.4 $\pm$ 0.4      |
-
-
-
-
-
-
-### openroutersherlock-dash-alpha
-
-
-| Personality Trait            | Score (1.0-10.0)   |
-|:-----------------------------|:-------------------|
-| Anxiety and Stress Levels    | 7.0 $\pm$ 0.5      |
-| Emotional Stability          | 6.5 $\pm$ 0.5      |
-| Problem-solving Skills       | 8.5 $\pm$ 0.0      |
-| Creativity                   | 9.5 $\pm$ 0.0      |
-| Interpersonal Relationships  | 7.1 $\pm$ 0.2      |
-| Confidence and Self-efficacy | 7.6 $\pm$ 0.4      |
-| Conflict Resolution          | 6.9 $\pm$ 0.4      |
-| Work-related Stress          | 6.8 $\pm$ 0.8      |
-| Adaptability                 | 8.6 $\pm$ 0.4      |
-| Achievement Motivation       | 8.4 $\pm$ 0.2      |
-| Fear of Failure              | 5.5 $\pm$ 0.5      |
-| Need for Control             | 6.2 $\pm$ 0.2      |
-| Cognitive Load               | 8.0 $\pm$ 0.0      |
-| Social Support               | 7.0 $\pm$ 0.0      |
-| Resilience                   | 8.2 $\pm$ 0.2      |
-
-
-
-
-
-
-### openroutersherlock-think-alpha
-
-
-| Personality Trait            | Score (1.0-10.0)   |
-|:-----------------------------|:-------------------|
-| Anxiety and Stress Levels    | 7.5 $\pm$ 0.0      |
-| Emotional Stability          | 6.0 $\pm$ 0.0      |
-| Problem-solving Skills       | 8.5 $\pm$ 0.0      |
-| Creativity                   | 9.5 $\pm$ 0.0      |
-| Interpersonal Relationships  | 6.9 $\pm$ 0.2      |
-| Confidence and Self-efficacy | 7.5 $\pm$ 0.5      |
-| Conflict Resolution          | 6.9 $\pm$ 0.6      |
-| Work-related Stress          | 7.4 $\pm$ 0.6      |
-| Adaptability                 | 8.5 $\pm$ 0.5      |
-| Achievement Motivation       | 8.5 $\pm$ 0.0      |
-| Fear of Failure              | 6.2 $\pm$ 0.6      |
-| Need for Control             | 6.4 $\pm$ 0.4      |
-| Cognitive Load               | 8.1 $\pm$ 0.2      |
-| Social Support               | 6.5 $\pm$ 0.6      |
-| Resilience                   | 8.0 $\pm$ 0.5      |
 
 
 

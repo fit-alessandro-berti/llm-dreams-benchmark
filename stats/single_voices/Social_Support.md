@@ -109,10 +109,8 @@
 | gemini-1.5-flash-8b | 7.271 |
 | gemma-3n-e4b-it | 7.243 |
 | Gemini-1.5-Pro-Exp-0801 | 7.214 |
-| openroutersherlock-dash-alpha | 7.214 |
 | anthropicclaude-opus-4.1 | 7.200 |
 | claude-haiku-4-5-20251001 | 7.200 |
-| openrouterpolaris-alpha | 7.157 |
 | qwenqwen3-235b-a22b-07-25 | 7.157 |
 | qwenqwen3-next-80b-a3b-thinking | 7.143 |
 | gemma-3-27b-it | 7.143 |
@@ -125,7 +123,6 @@
 | gemini-2.0-pro-exp-02-05 | 7.086 |
 | claude-4-opus-20250514 | 7.071 |
 | grok-4-1-fast-non-reasoning | 7.071 |
-| openroutersherlock-think-alpha | 7.057 |
 | gemini-2.5-pro-preview-06-05 | 7.057 |
 | Grok-4-fast-20251111 | 7.029 |
 | qwen30.6b | 7.029 |

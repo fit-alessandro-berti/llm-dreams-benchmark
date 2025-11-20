@@ -30,7 +30,6 @@
 | claude-3-opus-20240229 | 7.800 |
 | gemma34b-it-q8_0 | 7.800 |
 | QwenQwen3-30B-A3B | 7.771 |
-| openrouterpolaris-alpha | 7.743 |
 | Qwen-QwQ-32B | 7.743 |
 | googlegemma-2-2b-it | 7.729 |
 | Gemini-1.5-Pro-Exp-0801 | 7.700 |
@@ -69,10 +68,8 @@
 | nousresearchhermes-4-405b | 7.171 |
 | chatgpt-4o-latest-2025-01-29 | 7.143 |
 | claude-3-7-sonnet-20250219-thinking-high | 7.143 |
-| openroutersherlock-think-alpha | 7.143 |
 | deepseek-aiDeepSeek-R1-Zero | 7.129 |
 | gemini-2.5-flash-lite-preview-06-17 | 7.129 |
-| openroutersherlock-dash-alpha | 7.129 |
 | smollm21.7b-instruct-q6_K | 7.129 |
 | moonshotaikimi-linear-48b-a3b-instruct | 7.071 |
 | nvidiallama-3.1-nemotron-nano-8b-v1 | 7.057 |

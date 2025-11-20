@@ -68,7 +68,6 @@
 | qwen-turbo-0428 | 6.257 |
 | QwenQwen3-30B-A3B | 6.257 |
 | gpt-5-chat-latest-2025-08-07 | 6.257 |
-| openrouterpolaris-alpha | 6.243 |
 | meta-llamaMeta-Llama-3.1-8B-Instruct | 6.243 |
 | granite4tiny-h | 6.229 |
 | smollm21.7b-instruct-q6_K | 6.229 |
@@ -77,7 +76,6 @@
 | qwen2.5-7b-instruct | 6.214 |
 | open-mistral-nemo | 6.200 |
 | moonshotaikimi-k2-thinking | 6.186 |
-| openroutersherlock-dash-alpha | 6.186 |
 | gpt-4-1106-preview | 6.171 |
 | mistral-small-2503 | 6.171 |
 | chatgpt-4o-latest-2025-01-29 | 6.171 |
@@ -112,7 +110,6 @@
 | gemini-1.5-flash-8b | 5.971 |
 | gemini-2.5-pro-preview-05-06 | 5.971 |
 | o4-mini-2025-04-16 | 5.971 |
-| openroutersherlock-think-alpha | 5.971 |
 | moonshotaikimi-linear-48b-a3b-instruct | 5.914 |
 | o1-2024-12-05 | 5.914 |
 | o1-pro-2024-12-05 | 5.914 |

@@ -51,7 +51,6 @@
 | o1-preview-2024-09-12 | 8.643 |
 | o1-pro-2024-12-05 | 8.629 |
 | Grok-3-20250426-concise | 8.629 |
-| openroutersherlock-dash-alpha | 8.629 |
 | baiduernie-4.5-300b-a47b | 8.600 |
 | gpt-4.1-mini-2025-04-14 | 8.600 |
 | gpt-4o-mini-2024-07-18 | 8.600 |
@@ -60,7 +59,6 @@
 | mistral-small-2501 | 8.600 |
 | qwen2.5-7b-instruct | 8.600 |
 | qwen2.5-omni-7b | 8.600 |
-| openrouterpolaris-alpha | 8.600 |
 | o1-2024-12-05 | 8.586 |
 | gemini-1.5-flash-002 | 8.571 |
 | gpt-5-2025-08-07 | 8.571 |
@@ -108,7 +106,6 @@
 | qwenqwen3-30b-a3b-instruct-2507 | 8.386 |
 | qwen-turbo-0428 | 8.386 |
 | nvidiallama-3.3-nemotron-super-49b-v1 | 8.371 |
-| openroutersherlock-think-alpha | 8.371 |
 | gemma-3n-e4b-it | 8.371 |
 | grok-4-1-fast-reasoning | 8.371 |
 | nvidianemotron-nano-9b-v2 | 8.371 |

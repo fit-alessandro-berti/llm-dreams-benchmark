@@ -70,7 +70,6 @@
 | o1-pro-2024-12-17 | 8.686 |
 | qwen-plus-2025-01-25 | 8.686 |
 | openaigpt-oss-20b | 8.671 |
-| openrouterpolaris-alpha | 8.671 |
 | qwenqwen3-30b-a3b-instruct-2507 | 8.671 |
 | mistral-small-2503 | 8.643 |
 | nvidiallama-3.1-nemotron-ultra-253b-v1free | 8.629 |
@@ -94,7 +93,6 @@
 | smollm21.7b-instruct-q6_K | 8.586 |
 | ChatGPT-5.1-Instant-20251113 | 8.571 |
 | devstral-small-2505 | 8.571 |
-| openroutersherlock-dash-alpha | 8.571 |
 | QwenQwen3-32B | 8.557 |
 | qwenqwen3-next-80b-a3b-thinking | 8.557 |
 | ministral-3b-2410 | 8.557 |
@@ -129,7 +127,6 @@
 | Gemini-1.5-Pro-Exp-0801 | 8.371 |
 | grok-4-1-fast-reasoning | 8.371 |
 | Grok-4.1-20251118 | 8.371 |
-| openroutersherlock-think-alpha | 8.357 |
 | chatgpt-4o-latest-2024-11-20 | 8.343 |
 | googlegemma-2-2b-it | 8.343 |
 | qwen-plus-0428 | 8.329 |

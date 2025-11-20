@@ -43,7 +43,6 @@
 | falcon37b-instruct-q8_0 | 8.571 |
 | mistral-small-2501 | 8.571 |
 | nousresearchhermes-4-70b | 8.571 |
-| openroutersherlock-dash-alpha | 8.571 |
 | ministral-8b-2410 | 8.557 |
 | liquidlfm-2.2-6b | 8.557 |
 | mistral-small-2409 | 8.557 |
@@ -56,7 +55,6 @@
 | nvidiaLlama-3.1-Nemotron-70B-Instruct | 8.529 |
 | nvidiallama-3.1-nemotron-ultra-253b-v1free | 8.529 |
 | openaigpt-oss-120b | 8.529 |
-| openroutersherlock-think-alpha | 8.529 |
 | gpt-4o-mini-2024-07-18 | 8.514 |
 | o3-2025-04-16 | 8.514 |
 | qwen30.6b | 8.514 |
@@ -122,7 +120,6 @@
 | gemini-2.5-pro-preview-05-06 | 8.286 |
 | chatgpt-4o-latest-2025-01-29 | 8.271 |
 | meta-llamaMeta-Llama-3.1-8B-Instruct | 8.271 |
-| openrouterpolaris-alpha | 8.271 |
 | googlegemma-2-9b-it | 8.257 |
 | gpt-5-chat-latest-2025-08-19 | 8.257 |
 | gpt-5-mini-2025-08-07 | 8.257 |

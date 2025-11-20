@@ -28,7 +28,6 @@
 | qwen31.7b | 7.057 |
 | magistral-medium-2506 | 7.043 |
 | claude-3-5-haiku-20241022 | 7.014 |
-| openrouterpolaris-alpha | 7.014 |
 | grok-3-mini-beta | 7.000 |
 | QwenQwen3-14B | 6.971 |
 | Qwen-QwQ-32B | 6.971 |
@@ -90,13 +89,11 @@
 | gemma-3-27b-it | 5.929 |
 | nousresearchhermes-4-70b | 5.929 |
 | grok-4-1-fast-non-reasoning | 5.914 |
-| openroutersherlock-think-alpha | 5.914 |
 | gemini-2.5-pro-preview-06-05 | 5.900 |
 | nousresearchhermes-4-405b | 5.886 |
 | nvidianemotron-nano-9b-v2 | 5.857 |
 | gemini-1.5-flash-002 | 5.786 |
 | gemini-2.5-flash-lite-preview-09-2025 | 5.771 |
-| openroutersherlock-dash-alpha | 5.771 |
 | chatgpt-4o-latest-2025-04-26 | 5.757 |
 | Grok-4-fast-20251111 | 5.757 |
 | qwenqwen3-next-80b-a3b-instruct | 5.743 |

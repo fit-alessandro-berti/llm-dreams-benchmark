@@ -41,10 +41,8 @@
 | gpt-4-0613 | 8.914 |
 | mistral-large-2407 | 8.914 |
 | open-mixtral-8x7b | 8.914 |
-| openrouterpolaris-alpha | 8.914 |
 | qwen2.5-32b-instruct | 8.914 |
 | granite4micro-h | 8.914 |
-| openroutersherlock-dash-alpha | 8.914 |
 | falcon37b-instruct-q8_0 | 8.900 |
 | o1-pro-2024-12-05 | 8.886 |
 | anthropicclaude-opus-4.1 | 8.886 |
@@ -61,7 +59,6 @@
 | gemini-2.5-pro-preview-06-05 | 8.843 |
 | grok-4-1-fast-reasoning | 8.843 |
 | gpt-4o-mini-2024-07-18 | 8.843 |
-| openroutersherlock-think-alpha | 8.829 |
 | ChatGPT-5.1-Instant-20251113 | 8.829 |
 | Grok-3-20250426-concise | 8.829 |
 | phi4-reasoning | 8.829 |

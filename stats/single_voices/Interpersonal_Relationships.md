@@ -106,6 +106,7 @@
 | qwenqwen3-next-80b-a3b-thinking | 7.343 |
 | meta-llamaLlama-3.3-70B-Instruct | 7.329 |
 | gemini-2.5-pro-preview-06-05 | 7.329 |
+| grok-4-1-fast-reasoning | 7.329 |
 | openaigpt-oss-20b | 7.314 |
 | exaone-deep7.8b-fp16 | 7.300 |
 | gemini-2.0-flash-exp | 7.286 |
@@ -121,6 +122,7 @@
 | magistral-small-2506 | 7.214 |
 | openroutersherlock-think-alpha | 7.214 |
 | QwenQwen3-32B | 7.214 |
+| grok-4-1-fast-non-reasoning | 7.200 |
 | Grok-4.1-20251118 | 7.200 |
 | qwenqwen3-235b-a22b-07-25 | 7.200 |
 | qwen-turbo-0428 | 7.186 |

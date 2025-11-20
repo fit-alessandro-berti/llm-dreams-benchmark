@@ -75,6 +75,7 @@
 | gpt-4.1-nano-2025-04-14 | 7.671 |
 | o1-2024-12-05 | 7.657 |
 | deepseek-aiDeepSeek-R1-Zero | 7.643 |
+| grok-4-1-fast-non-reasoning | 7.643 |
 | exaone-deep7.8b-fp16 | 7.614 |
 | qwen30.6b | 7.614 |
 | chatgpt-4o-latest-2025-03-26 | 7.600 |
@@ -114,6 +115,7 @@
 | gpt-5-pro-2025-10-06 | 7.257 |
 | qwenqwen3-next-80b-a3b-thinking | 7.257 |
 | claude-3-7-sonnet-20250219 | 7.229 |
+| grok-4-1-fast-reasoning | 7.229 |
 | nvidianemotron-nano-9b-v2 | 7.214 |
 | QwenQwen3-32B | 7.186 |
 | Gemini-1.5-Pro-Exp-0827 | 7.186 |

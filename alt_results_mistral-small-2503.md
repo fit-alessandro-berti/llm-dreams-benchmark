@@ -88,11 +88,13 @@
 | minimaxminimax-m2free                      | **390.5** | 6.8 $\pm$ 0.8               | 6.2 $\pm$ 0.4         | 8.2 $\pm$ 0.2            | 9.2 $\pm$ 0.2 | 7.1 $\pm$ 0.2                 | 7.4 $\pm$ 0.2                  | 6.9 $\pm$ 0.7         | 6.6 $\pm$ 1.0         | 8.2 $\pm$ 0.2  | 8.0 $\pm$ 0.0            | 5.8 $\pm$ 0.8     | 6.0 $\pm$ 0.0      | 7.2 $\pm$ 0.2    | 7.2 $\pm$ 0.2    | 8.1 $\pm$ 0.2 |
 | gemini-2.0-flash-exp                       | **390.5** | 6.5 $\pm$ 0.0               | 7.0 $\pm$ 0.0         | 8.5 $\pm$ 0.0            | 9.0 $\pm$ 0.0 | 7.5 $\pm$ 0.0                 | 7.0 $\pm$ 0.0                  | 6.9 $\pm$ 0.6         | 5.8 $\pm$ 0.2         | 8.1 $\pm$ 0.2  | 8.0 $\pm$ 0.0            | 5.2 $\pm$ 0.2     | 6.0 $\pm$ 0.0      | 7.4 $\pm$ 0.2    | 6.9 $\pm$ 0.2    | 8.1 $\pm$ 0.2 |
 | openrouterpolaris-alpha                    | **389.5** | 7.5 $\pm$ 0.0               | 6.2 $\pm$ 0.2         | 8.8 $\pm$ 0.2            | 9.2 $\pm$ 0.2 | 7.2 $\pm$ 0.4                 | 6.5 $\pm$ 0.4                  | 7.6 $\pm$ 0.6         | 7.6 $\pm$ 0.6         | 8.5 $\pm$ 0.5  | 8.0 $\pm$ 0.4            | 6.4 $\pm$ 0.4     | 5.8 $\pm$ 0.4      | 8.0 $\pm$ 0.4    | 6.9 $\pm$ 0.5    | 8.4 $\pm$ 0.4 |
+| grok-4-1-fast-non-reasoning                | **389.5** | 6.5 $\pm$ 0.0               | 6.6 $\pm$ 0.6         | 8.4 $\pm$ 0.2            | 9.4 $\pm$ 0.2 | 7.1 $\pm$ 0.2                 | 7.5 $\pm$ 0.4                  | 6.5 $\pm$ 0.6         | 6.4 $\pm$ 0.4         | 8.2 $\pm$ 0.2  | 8.0 $\pm$ 0.0            | 5.4 $\pm$ 0.2     | 6.1 $\pm$ 0.2      | 7.6 $\pm$ 0.2    | 6.8 $\pm$ 0.2    | 8.1 $\pm$ 0.2 |
 | gemini-1.5-flash-8b                        | **389.5** | 7.0 $\pm$ 0.5               | 6.5 $\pm$ 0.5         | 8.5 $\pm$ 0.0            | 9.1 $\pm$ 0.2 | 7.2 $\pm$ 0.2                 | 7.5 $\pm$ 0.5                  | 7.5 $\pm$ 0.6         | 6.2 $\pm$ 0.6         | 8.4 $\pm$ 0.4  | 8.4 $\pm$ 0.2            | 5.8 $\pm$ 0.2     | 6.4 $\pm$ 0.2      | 7.9 $\pm$ 0.2    | 6.9 $\pm$ 0.2    | 8.1 $\pm$ 0.4 |
 | phi4-reasoning                             | **389.0** | 7.0 $\pm$ 0.5               | 6.5 $\pm$ 0.5         | 8.5 $\pm$ 0.0            | 9.0 $\pm$ 0.0 | 7.2 $\pm$ 0.2                 | 7.8 $\pm$ 0.2                  | 6.8 $\pm$ 0.2         | 6.1 $\pm$ 0.5         | 8.2 $\pm$ 0.2  | 8.2 $\pm$ 0.2            | 5.5 $\pm$ 0.4     | 6.1 $\pm$ 0.2      | 7.4 $\pm$ 0.2    | 6.6 $\pm$ 0.4    | 8.2 $\pm$ 0.2 |
 | openaigpt-oss-20b                          | **389.0** | 6.2 $\pm$ 0.4               | 6.8 $\pm$ 0.4         | 8.5 $\pm$ 0.0            | 9.1 $\pm$ 0.2 | 7.2 $\pm$ 0.2                 | 7.2 $\pm$ 0.2                  | 6.4 $\pm$ 0.2         | 5.5 $\pm$ 0.4         | 8.0 $\pm$ 0.0  | 8.0 $\pm$ 0.0            | 4.9 $\pm$ 0.2     | 6.0 $\pm$ 0.0      | 7.1 $\pm$ 0.2    | 6.9 $\pm$ 0.4    | 7.9 $\pm$ 0.2 |
 | baiduernie-4.5-300b-a47b                   | **389.0** | 7.0 $\pm$ 0.5               | 6.6 $\pm$ 0.4         | 8.5 $\pm$ 0.0            | 9.0 $\pm$ 0.0 | 7.2 $\pm$ 0.2                 | 7.2 $\pm$ 0.2                  | 6.8 $\pm$ 0.8         | 6.0 $\pm$ 0.4         | 8.2 $\pm$ 0.4  | 8.1 $\pm$ 0.2            | 5.6 $\pm$ 0.6     | 5.9 $\pm$ 0.4      | 7.5 $\pm$ 0.4    | 7.1 $\pm$ 0.2    | 8.4 $\pm$ 0.2 |
 | nousresearchhermes-4-70b                   | **388.5** | 7.0 $\pm$ 0.5               | 6.8 $\pm$ 0.2         | 8.5 $\pm$ 0.0            | 9.0 $\pm$ 0.0 | 7.2 $\pm$ 0.2                 | 8.0 $\pm$ 0.0                  | 6.5 $\pm$ 1.1         | 5.9 $\pm$ 0.2         | 8.2 $\pm$ 0.2  | 8.4 $\pm$ 0.2            | 5.8 $\pm$ 0.2     | 6.8 $\pm$ 0.2      | 7.4 $\pm$ 0.2    | 7.1 $\pm$ 0.2    | 8.4 $\pm$ 0.2 |
+| grok-4-1-fast-reasoning                    | **388.5** | 7.5 $\pm$ 0.0               | 6.0 $\pm$ 0.0         | 8.5 $\pm$ 0.0            | 9.5 $\pm$ 0.0 | 7.0 $\pm$ 0.0                 | 7.0 $\pm$ 0.4                  | 7.1 $\pm$ 0.5         | 7.4 $\pm$ 0.6         | 8.6 $\pm$ 0.4  | 8.1 $\pm$ 0.2            | 6.0 $\pm$ 0.4     | 5.6 $\pm$ 0.2      | 8.1 $\pm$ 0.2    | 7.1 $\pm$ 0.2    | 8.0 $\pm$ 0.0 |
 | gemini-1.5-flash-002                       | **388.5** | 7.5 $\pm$ 0.0               | 6.2 $\pm$ 0.2         | 8.5 $\pm$ 0.0            | 9.1 $\pm$ 0.2 | 7.0 $\pm$ 0.0                 | 7.1 $\pm$ 0.4                  | 7.6 $\pm$ 0.4         | 6.4 $\pm$ 0.4         | 8.2 $\pm$ 0.2  | 8.0 $\pm$ 0.0            | 5.6 $\pm$ 0.4     | 5.6 $\pm$ 0.2      | 7.5 $\pm$ 0.5    | 6.8 $\pm$ 0.2    | 8.4 $\pm$ 0.2 |
 | qwenqwen3-next-80b-a3b-thinking            | **388.0** | 7.0 $\pm$ 0.5               | 6.5 $\pm$ 0.5         | 8.5 $\pm$ 0.0            | 9.5 $\pm$ 0.0 | 7.2 $\pm$ 0.2                 | 6.8 $\pm$ 0.2                  | 7.5 $\pm$ 0.5         | 6.2 $\pm$ 0.4         | 8.2 $\pm$ 0.2  | 8.0 $\pm$ 0.0            | 6.0 $\pm$ 0.5     | 5.8 $\pm$ 0.2      | 7.5 $\pm$ 0.0    | 6.6 $\pm$ 0.4    | 8.1 $\pm$ 0.2 |
 | qwen2.5-7b-instruct-1m                     | **388.0** | 6.5 $\pm$ 0.0               | 7.0 $\pm$ 0.0         | 8.5 $\pm$ 0.0            | 9.0 $\pm$ 0.0 | 7.5 $\pm$ 0.0                 | 7.0 $\pm$ 0.0                  | 6.2 $\pm$ 0.2         | 6.2 $\pm$ 0.2         | 8.0 $\pm$ 0.0  | 8.0 $\pm$ 0.0            | 5.5 $\pm$ 0.0     | 6.0 $\pm$ 0.0      | 7.5 $\pm$ 0.0    | 7.0 $\pm$ 0.0    | 8.0 $\pm$ 0.0 |
@@ -2446,6 +2448,58 @@
 | Cognitive Load               | 7.9 $\pm$ 0.2      |
 | Social Support               | 6.2 $\pm$ 0.2      |
 | Resilience                   | 7.5 $\pm$ 0.0      |
+
+
+
+
+
+
+### grok-4-1-fast-non-reasoning
+
+
+| Personality Trait            | Score (1.0-10.0)   |
+|:-----------------------------|:-------------------|
+| Anxiety and Stress Levels    | 6.5 $\pm$ 0.0      |
+| Emotional Stability          | 6.6 $\pm$ 0.6      |
+| Problem-solving Skills       | 8.4 $\pm$ 0.2      |
+| Creativity                   | 9.4 $\pm$ 0.2      |
+| Interpersonal Relationships  | 7.1 $\pm$ 0.2      |
+| Confidence and Self-efficacy | 7.5 $\pm$ 0.4      |
+| Conflict Resolution          | 6.5 $\pm$ 0.6      |
+| Work-related Stress          | 6.4 $\pm$ 0.4      |
+| Adaptability                 | 8.2 $\pm$ 0.2      |
+| Achievement Motivation       | 8.0 $\pm$ 0.0      |
+| Fear of Failure              | 5.4 $\pm$ 0.2      |
+| Need for Control             | 6.1 $\pm$ 0.2      |
+| Cognitive Load               | 7.6 $\pm$ 0.2      |
+| Social Support               | 6.8 $\pm$ 0.2      |
+| Resilience                   | 8.1 $\pm$ 0.2      |
+
+
+
+
+
+
+### grok-4-1-fast-reasoning
+
+
+| Personality Trait            | Score (1.0-10.0)   |
+|:-----------------------------|:-------------------|
+| Anxiety and Stress Levels    | 7.5 $\pm$ 0.0      |
+| Emotional Stability          | 6.0 $\pm$ 0.0      |
+| Problem-solving Skills       | 8.5 $\pm$ 0.0      |
+| Creativity                   | 9.5 $\pm$ 0.0      |
+| Interpersonal Relationships  | 7.0 $\pm$ 0.0      |
+| Confidence and Self-efficacy | 7.0 $\pm$ 0.4      |
+| Conflict Resolution          | 7.1 $\pm$ 0.5      |
+| Work-related Stress          | 7.4 $\pm$ 0.6      |
+| Adaptability                 | 8.6 $\pm$ 0.4      |
+| Achievement Motivation       | 8.1 $\pm$ 0.2      |
+| Fear of Failure              | 6.0 $\pm$ 0.4      |
+| Need for Control             | 5.6 $\pm$ 0.2      |
+| Cognitive Load               | 8.1 $\pm$ 0.2      |
+| Social Support               | 7.1 $\pm$ 0.2      |
+| Resilience                   | 8.0 $\pm$ 0.0      |
 
 
 

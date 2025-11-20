@@ -118,6 +118,7 @@
 | gemini-2.5-pro-preview-05-06 | 8.429 |
 | qwen30.6b | 8.429 |
 | qwen38b | 8.429 |
+| grok-4-1-fast-non-reasoning | 8.414 |
 | qwen31.7b | 8.414 |
 | Grok-3-beta-thinking-20250303 | 8.414 |
 | anthropicclaude-opus-4.1 | 8.386 |
@@ -126,6 +127,7 @@
 | gpt-5-chat-latest-2025-08-19 | 8.386 |
 | gemma312b-it-q8_0 | 8.371 |
 | Gemini-1.5-Pro-Exp-0801 | 8.371 |
+| grok-4-1-fast-reasoning | 8.371 |
 | Grok-4.1-20251118 | 8.371 |
 | openroutersherlock-think-alpha | 8.357 |
 | chatgpt-4o-latest-2024-11-20 | 8.343 |

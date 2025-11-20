@@ -105,6 +105,7 @@
 | claude-4-opus-20250514 | 7.700 |
 | openroutersherlock-dash-alpha | 7.700 |
 | deepseekdeepseek-r1 | 7.671 |
+| grok-4-1-fast-reasoning | 7.671 |
 | Grok-4-fast-20251111 | 7.671 |
 | openrouterpolaris-alpha | 7.671 |
 | qwen34b-instruct-2507-q8_0 | 7.657 |
@@ -121,6 +122,7 @@
 | chatgpt-4o-latest-2025-04-26 | 7.500 |
 | mistral-medium-2508 | 7.500 |
 | r1-1776 | 7.500 |
+| grok-4-1-fast-non-reasoning | 7.486 |
 | meta-llamaLlama-3.2-3B-Instruct | 7.471 |
 | Grok-4.1-20251118 | 7.471 |
 | qwen31.7b | 7.457 |

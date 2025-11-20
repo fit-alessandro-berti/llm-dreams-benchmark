@@ -59,6 +59,7 @@
 | claude-4-opus-20250514 | 8.843 |
 | codestral-2501 | 8.843 |
 | gemini-2.5-pro-preview-06-05 | 8.843 |
+| grok-4-1-fast-reasoning | 8.843 |
 | gpt-4o-mini-2024-07-18 | 8.843 |
 | openroutersherlock-think-alpha | 8.829 |
 | ChatGPT-5.1-Instant-20251113 | 8.829 |
@@ -72,6 +73,7 @@
 | liquidlfm-2.2-6b | 8.814 |
 | mistral-large-2411 | 8.814 |
 | qwenqwen3-30b-a3b-instruct-2507 | 8.814 |
+| grok-4-1-fast-non-reasoning | 8.814 |
 | o1-pro-2024-12-17 | 8.814 |
 | chatgpt-4o-latest-2025-04-26 | 8.800 |
 | gpt-3.5-turbo | 8.800 |

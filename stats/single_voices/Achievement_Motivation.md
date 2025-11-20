@@ -86,6 +86,7 @@
 | smollm21.7b-instruct-q6_K | 8.429 |
 | deepseekdeepseek-r1 | 8.414 |
 | phi4-reasoning | 8.414 |
+| grok-4-1-fast-non-reasoning | 8.414 |
 | granite4micro-h | 8.400 |
 | gpt-4.5-preview | 8.400 |
 | gpt-5-nano-2025-08-07 | 8.400 |
@@ -125,6 +126,7 @@
 | googlegemma-2-9b-it | 8.257 |
 | gpt-5-chat-latest-2025-08-19 | 8.257 |
 | gpt-5-mini-2025-08-07 | 8.257 |
+| grok-4-1-fast-reasoning | 8.243 |
 | qwen-turbo-0428 | 8.243 |
 | QwenQwen3-14B | 8.243 |
 | qwenqwen3-235b-a22b-07-25 | 8.214 |

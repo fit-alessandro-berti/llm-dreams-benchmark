@@ -46,6 +46,7 @@
 | gemini-2.0-pro-exp-02-05 | 7.543 |
 | meta-llamaLlama-3.2-3B-Instruct | 7.543 |
 | deepseek-aiDeepSeek-R1-0528 | 7.529 |
+| grok-4-1-fast-reasoning | 7.500 |
 | DeepSeek-V3-0324 | 7.414 |
 | meta-llamaLlama-3.2-1B-Instruct | 7.414 |
 | qwen38b | 7.400 |
@@ -60,6 +61,7 @@
 | magistral-small-2506 | 7.300 |
 | moonshotaikimi-k2 | 7.286 |
 | gemini-2.5-pro-preview-05-06 | 7.257 |
+| grok-4-1-fast-non-reasoning | 7.243 |
 | nvidiallama-3.3-nemotron-super-49b-v1 | 7.243 |
 | qwen-turbo-0428 | 7.243 |
 | claude-3-5-sonnet-20241022 | 7.186 |

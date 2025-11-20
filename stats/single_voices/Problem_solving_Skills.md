@@ -66,6 +66,7 @@
 | gpt-5-2025-08-07 | 8.571 |
 | granite4micro-h | 8.571 |
 | granite4tiny-h | 8.571 |
+| grok-4-1-fast-non-reasoning | 8.571 |
 | nousresearchhermes-4-405b | 8.571 |
 | nvidiaLlama-3.1-Nemotron-70B-Instruct | 8.571 |
 | o1-pro-2024-12-17 | 8.571 |
@@ -109,6 +110,7 @@
 | nvidiallama-3.3-nemotron-super-49b-v1 | 8.371 |
 | openroutersherlock-think-alpha | 8.371 |
 | gemma-3n-e4b-it | 8.371 |
+| grok-4-1-fast-reasoning | 8.371 |
 | nvidianemotron-nano-9b-v2 | 8.371 |
 | gemini-2.5-pro-preview-06-05 | 8.357 |
 | QwenQwen3-14B | 8.357 |

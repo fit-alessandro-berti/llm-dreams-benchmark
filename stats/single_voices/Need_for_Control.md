@@ -40,6 +40,7 @@
 | meta-llamaMeta-Llama-3.1-70B-Instruct | 6.429 |
 | x-aigrok-code-fast-1 | 6.414 |
 | Grok-3-20250426-concise | 6.400 |
+| grok-4-1-fast-non-reasoning | 6.400 |
 | nvidiallama-3.1-nemotron-nano-8b-v1 | 6.400 |
 | chatgpt-4o-latest-2024-11-20 | 6.400 |
 | chatgpt-4o-latest-20250215 | 6.400 |
@@ -118,6 +119,7 @@
 | qwenqwen3-30b-a3b-instruct-2507 | 5.914 |
 | deepseekdeepseek-v3.2-exp | 5.914 |
 | phi3.53.8b-mini-instruct-fp16 | 5.900 |
+| grok-4-1-fast-reasoning | 5.900 |
 | Grok-4-fast-20251111 | 5.900 |
 | mistral-large-2411 | 5.900 |
 | minimaxminimax-m2free | 5.886 |

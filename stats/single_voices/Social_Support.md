@@ -89,6 +89,7 @@
 | qwenqwen3-30b-a3b-instruct-2507 | 7.429 |
 | baiduernie-4.5-21b-a3b | 7.414 |
 | ChatGPT-5.1-Instant-20251113 | 7.414 |
+| grok-4-1-fast-reasoning | 7.400 |
 | chatgpt-4o-latest-2025-03-26 | 7.386 |
 | claude-3-7-sonnet-20250219 | 7.386 |
 | claude-3-7-sonnet-20250219-thinking-high | 7.386 |
@@ -123,6 +124,7 @@
 | meta-llamallama-4-scout | 7.100 |
 | gemini-2.0-pro-exp-02-05 | 7.086 |
 | claude-4-opus-20250514 | 7.071 |
+| grok-4-1-fast-non-reasoning | 7.071 |
 | openroutersherlock-think-alpha | 7.057 |
 | gemini-2.5-pro-preview-06-05 | 7.057 |
 | Grok-4-fast-20251111 | 7.029 |

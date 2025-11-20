@@ -51,6 +51,7 @@
 | moonshotaikimi-linear-48b-a3b-instruct | 7.829 |
 | gemini-2.5-flash-lite-preview-06-17 | 7.814 |
 | qwen-turbo-0428 | 7.814 |
+| grok-4-1-fast-reasoning | 7.814 |
 | nvidiallama-3.1-nemotron-nano-8b-v1 | 7.800 |
 | openroutersherlock-think-alpha | 7.800 |
 | gemini-1.5-flash-8b | 7.786 |
@@ -77,6 +78,7 @@
 | nvidiallama-3.3-nemotron-super-49b-v1 | 7.629 |
 | ibmgranite41b-h | 7.614 |
 | googlegemma-2-2b-it | 7.614 |
+| grok-4-1-fast-non-reasoning | 7.600 |
 | chatgpt-4o-latest-2024-11-20 | 7.586 |
 | ibmgranite4350m-h | 7.586 |
 | Gemini-1.5-Pro-Exp-0827 | 7.571 |

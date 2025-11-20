@@ -120,9 +120,11 @@
 | gpt-4o-mini-2024-11-05 | 6.571 |
 | moonshotaikimi-k2 | 6.571 |
 | chatgpt-4o-latest-2024-11-20 | 6.543 |
+| grok-4-1-fast-non-reasoning | 6.529 |
 | qwen-turbo-0428 | 6.529 |
 | anthropicclaude-opus-4.1 | 6.457 |
 | gemma-3-27b-it | 6.457 |
+| grok-4-1-fast-reasoning | 6.443 |
 | qwen38b | 6.443 |
 | magistral-small-2506 | 6.429 |
 | gemma-3n-e4b-it | 6.400 |

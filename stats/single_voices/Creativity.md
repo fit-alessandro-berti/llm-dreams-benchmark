@@ -20,6 +20,7 @@
 | Grok-4-fast-20251111 | 9.657 |
 | deepseekdeepseek-v3.2-exp | 9.643 |
 | gemini-2.5-flash-lite-preview-09-2025 | 9.629 |
+| grok-4-1-fast-reasoning | 9.629 |
 | o3-mini-20250131-HIGH | 9.629 |
 | qwenqwen3-30b-a3b-instruct-2507 | 9.629 |
 | claude-3-5-sonnet-20241022 | 9.614 |
@@ -32,6 +33,7 @@
 | gemini-2.5-pro-preview-05-06 | 9.586 |
 | mistral-medium-2508 | 9.586 |
 | gemini-2.5-flash-preview-09-2025 | 9.571 |
+| grok-4-1-fast-non-reasoning | 9.571 |
 | QwenQwen3-30B-A3B | 9.571 |
 | gemma-3n-e4b-it | 9.557 |
 | gemma-3-27b-it | 9.543 |

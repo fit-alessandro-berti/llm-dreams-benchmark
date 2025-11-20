@@ -61,6 +61,7 @@
 | DeepSeek-V3-0324 | 7.329 |
 | ibmgranite41b-h | 7.286 |
 | qwen-turbo-0428 | 7.286 |
+| grok-4-1-fast-reasoning | 7.257 |
 | gemma-3-27b-it | 7.257 |
 | grok-4-0709 | 7.229 |
 | gpt-4o-mini-2024-11-05 | 7.186 |
@@ -87,6 +88,7 @@
 | exaone-deep7.8b-fp16 | 6.943 |
 | gpt-4-1106-preview | 6.929 |
 | anthropicclaude-opus-4.1 | 6.914 |
+| grok-4-1-fast-non-reasoning | 6.900 |
 | openroutersherlock-dash-alpha | 6.900 |
 | chatgpt-4o-latest-2025-04-26 | 6.886 |
 | openroutersherlock-think-alpha | 6.857 |

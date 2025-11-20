@@ -67,6 +67,7 @@
 | gemma-3n-e4b-it | 6.329 |
 | moonshotaikimi-k2 | 6.329 |
 | qwenqwen3-30b-a3b-instruct-2507 | 6.314 |
+| grok-4-1-fast-reasoning | 6.257 |
 | x-aigrok-code-fast-1 | 6.243 |
 | moonshotaikimi-linear-48b-a3b-instruct | 6.229 |
 | claude-3-7-sonnet-20250219-thinking-high | 6.200 |
@@ -88,6 +89,7 @@
 | deepseek-aiDeepSeek-V3 | 5.929 |
 | gemma-3-27b-it | 5.929 |
 | nousresearchhermes-4-70b | 5.929 |
+| grok-4-1-fast-non-reasoning | 5.914 |
 | openroutersherlock-think-alpha | 5.914 |
 | gemini-2.5-pro-preview-06-05 | 5.900 |
 | nousresearchhermes-4-405b | 5.886 |

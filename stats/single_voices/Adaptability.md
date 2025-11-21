@@ -134,6 +134,7 @@
 | deepseekdeepseek-r1 | 8.600 |
 | z-aiglm-4.5 | 8.600 |
 | gpt-4-1106-preview | 8.586 |
+| Gpt-5.1-Pro-20251120 | 8.557 |
 | QwenQwen3-14B | 8.557 |
 | deepseek-aiDeepSeek-R1-Zero | 8.543 |
 | mistral-medium-2508 | 8.543 |

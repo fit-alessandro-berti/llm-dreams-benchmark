@@ -133,6 +133,7 @@
 | qwenqwen3-235b-a22b-07-25 | 6.329 |
 | QwenQwen3-32B | 6.329 |
 | claude-3-5-sonnet-20241022 | 6.286 |
+| Gpt-5.1-Pro-20251120 | 6.257 |
 | x-aigrok-code-fast-1 | 6.257 |
 | meta-llamaLlama-3.2-3B-Instruct | 6.257 |
 | claude-4-sonnet-20250514 | 6.229 |

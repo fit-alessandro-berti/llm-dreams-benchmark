@@ -24,6 +24,7 @@
 | z-aiglm-4.5-air | 7.114 |
 | meta-llamaLlama-3.3-70B-Instruct | 7.100 |
 | meta-llamallama-4-scout | 7.086 |
+| Gpt-5.1-Pro-20251120 | 7.071 |
 | r1-1776 | 7.071 |
 | qwen31.7b | 7.057 |
 | magistral-medium-2506 | 7.043 |

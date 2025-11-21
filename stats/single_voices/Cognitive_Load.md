@@ -36,6 +36,7 @@
 | anthropicclaude-opus-4.1 | 7.929 |
 | gemma-3n-e4b-it | 7.929 |
 | deepseek-aiDeepSeek-R1-0528 | 7.914 |
+| Gpt-5.1-Pro-20251120 | 7.900 |
 | grok-3-mini-beta | 7.900 |
 | qwenqwen3-30b-a3b-instruct-2507 | 7.900 |
 | meta-llamallama-4-maverick | 7.886 |

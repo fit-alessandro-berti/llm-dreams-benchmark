@@ -33,6 +33,7 @@
 | Qwen-QwQ-32B | 7.743 |
 | googlegemma-2-2b-it | 7.729 |
 | Gemini-1.5-Pro-Exp-0801 | 7.700 |
+| Gpt-5.1-Pro-20251120 | 7.686 |
 | meta-llamaMeta-Llama-3.1-8B-Instruct | 7.686 |
 | ibmgranite41b-h | 7.686 |
 | grok-3-mini-beta | 7.614 |

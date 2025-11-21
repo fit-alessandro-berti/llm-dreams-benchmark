@@ -47,6 +47,7 @@
 | Grok-3-beta-thinking-20250303 | 6.386 |
 | meta-llamaLlama-3.3-70B-Instruct | 6.386 |
 | gpt-3.5-turbo | 6.386 |
+| Gpt-5.1-Pro-20251120 | 6.386 |
 | nvidiaLlama-3.1-Nemotron-70B-Instruct | 6.357 |
 | qwen38b | 6.357 |
 | QwenQwen3-14B | 6.357 |

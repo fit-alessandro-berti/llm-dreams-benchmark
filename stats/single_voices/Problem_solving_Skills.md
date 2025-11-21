@@ -110,6 +110,7 @@
 | grok-4-1-fast-reasoning | 8.371 |
 | nvidianemotron-nano-9b-v2 | 8.371 |
 | gemini-2.5-pro-preview-06-05 | 8.357 |
+| Gpt-5.1-Pro-20251120 | 8.357 |
 | QwenQwen3-14B | 8.357 |
 | qwenqwen3-coder | 8.357 |
 | z-aiglm-4.5 | 8.357 |

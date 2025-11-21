@@ -135,6 +135,7 @@
 | magistral-medium-2506 | 9.271 |
 | magistral-small-2506 | 9.271 |
 | o1-2024-12-05 | 9.271 |
+| Gpt-5.1-Pro-20251120 | 9.257 |
 | granite4tiny-h | 9.257 |
 | ministral-3b-2410 | 9.257 |
 | open-mistral-nemo | 9.243 |

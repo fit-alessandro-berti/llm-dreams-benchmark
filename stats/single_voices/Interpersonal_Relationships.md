@@ -125,6 +125,7 @@
 | qwen-turbo-0428 | 7.186 |
 | meta-llamallama-4-scout | 7.186 |
 | gemma312b-it-q8_0 | 7.171 |
+| Gpt-5.1-Pro-20251120 | 7.171 |
 | gemma-3n-e4b-it | 7.157 |
 | claude-haiku-4-5-20251001 | 7.143 |
 | deepseekdeepseek-chat-v3.1 | 7.143 |

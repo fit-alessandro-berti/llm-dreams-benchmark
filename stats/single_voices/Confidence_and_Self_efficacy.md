@@ -165,6 +165,7 @@
 | claude-4-opus-20250514 | 6.671 |
 | meta-llamaLlama-3.3-70B-Instruct | 6.671 |
 | anthropicclaude-opus-4.1 | 6.657 |
+| Gpt-5.1-Pro-20251120 | 6.643 |
 | meta-llamallama-4-scout | 6.643 |
 | meta-llamaLlama-3.2-1B-Instruct | 6.600 |
 | Qwen-QwQ-32B | 6.543 |

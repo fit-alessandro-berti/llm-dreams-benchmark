@@ -129,6 +129,7 @@
 | Grok-4.1-20251118 | 8.371 |
 | chatgpt-4o-latest-2024-11-20 | 8.343 |
 | googlegemma-2-2b-it | 8.343 |
+| Gpt-5.1-Pro-20251120 | 8.343 |
 | qwen-plus-0428 | 8.329 |
 | Gemini-1.5-Pro-Exp-0827 | 8.314 |
 | z-aiglm-4.5 | 8.314 |

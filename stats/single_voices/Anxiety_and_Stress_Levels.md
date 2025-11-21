@@ -39,6 +39,7 @@
 | QwenQwen3-14B | 7.629 |
 | claude-3-opus-20240229 | 7.614 |
 | meta-llamaMeta-Llama-3.1-70B-Instruct | 7.586 |
+| Gpt-5.1-Pro-20251120 | 7.571 |
 | deepseek-aiDeepSeek-R1-0528 | 7.543 |
 | Gemini-1.5-Pro-Exp-0827 | 7.529 |
 | googlegemma-2-2b-it | 7.529 |

@@ -161,6 +161,7 @@
 | gemma312b-it-q8_0 | 8.000 |
 | meta-llamallama-4-scout | 8.000 |
 | qwenqwen3-235b-a22b-thinking-2507 | 7.971 |
+| Gpt-5.1-Pro-20251120 | 7.929 |
 | qwenqwen3-next-80b-a3b-instruct | 7.929 |
 | claude-3-5-sonnet-20241022 | 7.871 |
 | phi4-mini-reasoning | 7.871 |

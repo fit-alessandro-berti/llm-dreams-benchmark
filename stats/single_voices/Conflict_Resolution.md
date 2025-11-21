@@ -127,6 +127,7 @@
 | deepseek-aiDeepSeek-R1-Zero | 7.443 |
 | qwen-turbo-0428 | 7.414 |
 | falcon33b-instruct-q8_0 | 7.414 |
+| Gpt-5.1-Pro-20251120 | 7.371 |
 | qwen34b | 7.371 |
 | googlegemma-2-2b-it | 7.357 |
 | mistral-medium-2505 | 7.343 |

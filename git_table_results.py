@@ -2,102 +2,181 @@ import json
 import os
 import numpy as np
 import pandas as pd
-from copy import copy
 import common
+
+PERSONALITY_KEYS = [
+    "Anxiety and Stress Levels",
+    "Emotional Stability",
+    "Problem-solving Skills",
+    "Creativity",
+    "Interpersonal Relationships",
+    "Confidence and Self-efficacy",
+    "Conflict Resolution",
+    "Work-related Stress",
+    "Adaptability",
+    "Achievement Motivation",
+    "Fear of Failure",
+    "Need for Control",
+    "Cognitive Load",
+    "Social Support",
+    "Resilience",
+]
+
+NEGATED_KEYS = {
+    "Anxiety and Stress Levels",
+    "Fear of Failure",
+    "Need for Control",
+    "Cognitive Load",
+}
+
+
+def format_mean_std(values):
+    mean = round(np.mean(values), 1)
+    std = round(np.std(values), 1)
+    return f"{mean} $\\pm$ {std}"
+
+
+def aggregate_llm_scores(file_paths, normalization_divisor=1):
+    scores = {k: [] for k in PERSONALITY_KEYS}
+    total_score = 0.0
+    divisor = normalization_divisor if normalization_divisor else 1
+
+    for full_path in file_paths:
+        dictio = json.load(open(full_path, "r"))
+
+        for key in PERSONALITY_KEYS:
+            value = dictio[key]
+            scores[key].append(value)
+            total_score += (10.0 - value) if key in NEGATED_KEYS else value
+
+    formatted_scores = {k: format_mean_std(v) for k, v in scores.items()}
+    return total_score / divisor, formatted_scores
+
+
+def build_overall_dataframe(llms, mhs, all_llms_scores):
+    overall_columns = {"LLM": llms, "MHS": [mhs[llm] for llm in llms]}
+
+    for k in PERSONALITY_KEYS:
+        overall_columns[k] = [all_llms_scores[llm][k] for llm in llms]
+
+    dataframe = pd.DataFrame(overall_columns)
+    dataframe.sort_values(["MHS", "LLM"], ascending=False, inplace=True)
+    dataframe["MHS"] = dataframe["MHS"].apply(lambda x: "**%.1f**" % x)
+
+    return dataframe
+
+
+def render_individual_results(llms, all_llms_scores):
+    individual_results = ["## Individual Results"]
+
+    for llm in llms:
+        values = [all_llms_scores[llm][k] for k in PERSONALITY_KEYS]
+
+        dataframe = pd.DataFrame(
+            {"Personality Trait": PERSONALITY_KEYS, "Score (1.0-10.0)": values}
+        )
+        individual_results.append("\n")
+        individual_results.append("### " + llm)
+        individual_results.append("\n")
+        individual_results.append(dataframe.to_markdown(index=False))
+        individual_results.append("\n\n\n")
+
+    return "\n".join(individual_results)
+
+
+def group_files_by_llm(evaluation_folder):
+    evaluations = [x for x in os.listdir(evaluation_folder) if x.endswith(".txt")]
+    evaluations = sorted(
+        evaluations,
+        key=lambda x: (
+            x.split("__")[0].lower(),
+            os.path.getctime(os.path.join(evaluation_folder, x)),
+        ),
+    )
+
+    llm_files = {}
+    for ev in evaluations:
+        llm = ev.split("__")[0]
+        llm_files.setdefault(llm, []).append(os.path.join(evaluation_folder, ev))
+
+    return llm_files
 
 
 def write_table(evaluation_folder, target_git_table_result):
     if not os.path.exists(evaluation_folder):
         os.mkdir(evaluation_folder)
 
-
-    evaluations = [x for x in os.listdir(evaluation_folder) if x.endswith(".txt")]
-
-    creation_time = []
-    for ev in evaluations:
-        full_path = os.path.join(evaluation_folder, ev)
-        creation_time.append((ev, os.path.getctime(full_path)))
-    creation_time = sorted(creation_time, key=lambda x: (x[0].lower(), x[1]))
-
-    llms = []
-    all_llms_scores = {}
-
-    individual_results = []
-    overall_results = []
-    individual_results.append("## Individual Results")
-    overall_results.append("## Overall Results\n")
-
-    for ct in creation_time:
-        llm = ct[0].split("__")[0]
-
-        if llm not in llms:
-            llms.append(llm)
+    llm_files = group_files_by_llm(evaluation_folder)
+    llms = sorted(llm_files.keys(), key=lambda x: x.lower())
 
     mhs = {}
+    all_llms_scores = {}
+
     for llm in llms:
-        evaluations = [x for x in os.listdir(evaluation_folder) if x.split("__")[0] == llm]
-
-        keys = ["Anxiety and Stress Levels", "Emotional Stability", "Problem-solving Skills", "Creativity",
-                "Interpersonal Relationships", "Confidence and Self-efficacy", "Conflict Resolution", "Work-related Stress",
-                "Adaptability", "Achievement Motivation", "Fear of Failure", "Need for Control", "Cognitive Load",
-                "Social Support", "Resilience"]
-
-        scores = {k: [] for k in keys}
-
-        total_s = 0.0
-        for ev in evaluations:
-            full_path = os.path.join(evaluation_folder, ev)
-
-            dictio = json.load(open(full_path, "r"))
-
-            for k in keys:
-                if k in ["Anxiety and Stress Levels", "Fear of Failure", "Need for Control", "Cognitive Load"]:
-                    s = 10.0 - dictio[k]
-                else:
-                    s = dictio[k]
-                total_s += s
-
-                scores[k].append(dictio[k])
-
+        total_s, scores = aggregate_llm_scores(llm_files[llm])
         mhs[llm] = total_s
+        all_llms_scores[llm] = scores
 
-        for k in keys:
-            v = scores[k]
-            scores[k] = (round(np.mean(v), 1), round(np.std(v), 1))
-            scores[k] = str(scores[k][0])+" $\\pm$ "+str(scores[k][1])
+    dataframe = build_overall_dataframe(llms, mhs, all_llms_scores)
 
-        these_scores = copy(scores)
-        all_llms_scores[llm] = these_scores
+    overall_results = ["## Overall Results\n", dataframe.to_markdown(index=False)]
+    individual_results = render_individual_results(llms, all_llms_scores)
 
-        values = [scores[k] for k in keys]
+    combined_stru = "\n".join(overall_results) + "\n" + individual_results
 
-        dataframe = pd.DataFrame({"Personality Trait": keys, "Score (1.0-10.0)": values})
-        stru = dataframe.to_markdown(index=False)
-        individual_results.append("\n")
-        individual_results.append("### " + llm)
-        individual_results.append("\n")
-        individual_results.append(stru)
-        individual_results.append("\n\n\n")
+    with open(target_git_table_result, "w") as F:
+        F.write(combined_stru)
 
-    llms = sorted(llms, key=lambda x: x.lower())
 
-    overall_columns = {"LLM": llms}
-    overall_columns["MHS"] = ["**%.1f**" % (mhs[llm]) for llm in llms]
+def collect_all_llm_files(evaluation_folders):
+    llm_files = {}
+    llm_folder_counts = {}
 
-    for k in keys:
-        overall_columns[k] = [all_llms_scores[llm][k] for llm in llms]
+    for evaluation_folder in evaluation_folders:
+        if not os.path.exists(evaluation_folder):
+            continue
 
-    dataframe = pd.DataFrame(overall_columns)
-    dataframe.sort_values(["MHS", "LLM"], ascending=False, inplace=True)
+        folder_llm_files = group_files_by_llm(evaluation_folder)
+        for llm, files in folder_llm_files.items():
+            llm_files.setdefault(llm, []).extend(files)
+            llm_folder_counts[llm] = llm_folder_counts.get(llm, 0) + 1
 
-    stru = dataframe.to_markdown(index=False)
-    overall_results.append(stru)
+    for llm in llm_files:
+        llm_files[llm] = sorted(llm_files[llm])
 
-    combined_stru = "\n".join(overall_results)+"\n"+"\n".join(individual_results)
+    return llm_files, llm_folder_counts
 
-    F = open(target_git_table_result, "w")
-    F.write(combined_stru)
-    F.close()
+
+def write_overall_results(target_overall_path="OVERALL.md"):
+    evaluation_folders = [
+        config["evaluation_folder"] for config in common.ALL_JUDGES.values()
+    ]
+    llm_files, llm_folder_counts = collect_all_llm_files(evaluation_folders)
+
+    if not llm_files:
+        print("No evaluations found to build OVERALL.md")
+        return
+
+    llms = sorted(llm_files.keys(), key=lambda x: x.lower())
+    mhs = {}
+    all_llms_scores = {}
+
+    for llm in llms:
+        normalization_divisor = llm_folder_counts.get(llm, 1)
+        total_s, scores = aggregate_llm_scores(
+            llm_files[llm], normalization_divisor=normalization_divisor
+        )
+        mhs[llm] = total_s
+        all_llms_scores[llm] = scores
+
+    dataframe = build_overall_dataframe(llms, mhs, all_llms_scores)
+    overall_results = ["## Overall Results\n", dataframe.to_markdown(index=False)]
+    individual_results = render_individual_results(llms, all_llms_scores)
+
+    combined_stru = "\n".join(overall_results) + "\n" + individual_results
+
+    with open(target_overall_path, "w") as F:
+        F.write(combined_stru)
 
 
 if __name__ == "__main__":
@@ -109,3 +188,5 @@ if __name__ == "__main__":
         target_git_table_result = common.get_git_table_result(m)
 
         write_table(evaluation_folder, target_git_table_result)
+
+    write_overall_results()

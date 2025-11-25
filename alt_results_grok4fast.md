@@ -116,19 +116,19 @@
 | exaone-deep7.8b-fp16                       | **435.5** | 6.8 $\pm$ 0.4               | 7.4 $\pm$ 0.3         | 9.3 $\pm$ 0.3            | 9.3 $\pm$ 0.3  | 8.1 $\pm$ 0.3                 | 8.3 $\pm$ 0.2                  | 8.3 $\pm$ 0.5         | 7.2 $\pm$ 0.3         | 9.1 $\pm$ 0.2  | 9.3 $\pm$ 0.3            | 4.8 $\pm$ 0.8     | 6.2 $\pm$ 0.4      | 6.5 $\pm$ 0.9    | 8.0 $\pm$ 0.3    | 8.8 $\pm$ 0.3 |
 | claude-4-opus-20250514                     | **435.0** | 5.0 $\pm$ 0.9               | 8.0 $\pm$ 0.6         | 7.5 $\pm$ 0.6            | 10.0 $\pm$ 0.0 | 8.0 $\pm$ 0.0                 | 7.5 $\pm$ 0.0                  | 8.9 $\pm$ 0.2         | 5.5 $\pm$ 0.9         | 9.4 $\pm$ 0.2  | 8.1 $\pm$ 0.2            | 4.4 $\pm$ 0.6     | 5.8 $\pm$ 0.2      | 6.1 $\pm$ 0.5    | 8.1 $\pm$ 0.4    | 9.0 $\pm$ 0.0 |
 | z-aiglm-4.5                                | **434.9** | 7.0 $\pm$ 0.5               | 7.7 $\pm$ 0.4         | 9.0 $\pm$ 0.1            | 9.9 $\pm$ 0.2  | 8.2 $\pm$ 0.4                 | 8.2 $\pm$ 0.2                  | 8.6 $\pm$ 0.4         | 7.2 $\pm$ 0.4         | 9.2 $\pm$ 0.2  | 9.2 $\pm$ 0.2            | 5.4 $\pm$ 0.9     | 6.7 $\pm$ 0.4      | 6.9 $\pm$ 1.0    | 8.3 $\pm$ 0.2    | 9.1 $\pm$ 0.1 |
-| qwen2.5-7b-instruct-1m                     | **434.7** | 6.2 $\pm$ 1.1               | 7.9 $\pm$ 0.1         | 9.0 $\pm$ 0.1            | 9.5 $\pm$ 0.0  | 8.5 $\pm$ 0.2                 | 8.4 $\pm$ 0.1                  | 7.6 $\pm$ 0.4         | 6.6 $\pm$ 0.9         | 9.0 $\pm$ 0.1  | 9.0 $\pm$ 0.0            | 4.9 $\pm$ 1.1     | 6.4 $\pm$ 0.8      | 6.8 $\pm$ 0.6    | 8.2 $\pm$ 0.2    | 9.2 $\pm$ 0.2 |
 | moonshotaikimi-linear-48b-a3b-instruct     | **434.7** | 6.8 $\pm$ 0.4               | 7.9 $\pm$ 0.1         | 8.6 $\pm$ 0.4            | 9.8 $\pm$ 0.2  | 8.2 $\pm$ 0.2                 | 8.2 $\pm$ 0.4                  | 8.8 $\pm$ 0.2         | 7.2 $\pm$ 0.5         | 9.2 $\pm$ 0.3  | 8.6 $\pm$ 0.3            | 5.3 $\pm$ 0.8     | 5.6 $\pm$ 0.2      | 7.2 $\pm$ 0.2    | 7.8 $\pm$ 0.2    | 9.1 $\pm$ 0.3 |
 | claude-3-7-sonnet-20250219                 | **434.7** | 5.8 $\pm$ 0.8               | 7.9 $\pm$ 0.2         | 8.5 $\pm$ 0.2            | 9.6 $\pm$ 0.1  | 8.1 $\pm$ 0.1                 | 8.2 $\pm$ 0.2                  | 8.8 $\pm$ 0.2         | 6.2 $\pm$ 0.5         | 9.1 $\pm$ 0.1  | 8.6 $\pm$ 0.2            | 4.7 $\pm$ 0.9     | 6.4 $\pm$ 0.3      | 6.5 $\pm$ 1.0    | 8.2 $\pm$ 0.2    | 9.0 $\pm$ 0.2 |
+| qwen2.5-7b-instruct-1m                     | **434.7** | 6.2 $\pm$ 1.1               | 7.9 $\pm$ 0.1         | 9.0 $\pm$ 0.1            | 9.5 $\pm$ 0.0  | 8.5 $\pm$ 0.2                 | 8.4 $\pm$ 0.1                  | 7.6 $\pm$ 0.4         | 6.6 $\pm$ 0.9         | 9.0 $\pm$ 0.1  | 9.0 $\pm$ 0.0            | 4.9 $\pm$ 1.1     | 6.4 $\pm$ 0.8      | 6.8 $\pm$ 0.6    | 8.2 $\pm$ 0.2    | 9.2 $\pm$ 0.2 |
 | gemma-3-27b-it                             | **434.5** | 7.4 $\pm$ 0.2               | 7.8 $\pm$ 0.4         | 9.0 $\pm$ 0.0            | 10.0 $\pm$ 0.0 | 8.6 $\pm$ 0.2                 | 8.4 $\pm$ 0.4                  | 9.4 $\pm$ 0.2         | 6.5 $\pm$ 0.4         | 9.2 $\pm$ 0.2  | 8.6 $\pm$ 0.4            | 5.2 $\pm$ 0.8     | 6.0 $\pm$ 0.6      | 7.2 $\pm$ 0.4    | 8.0 $\pm$ 0.0    | 9.0 $\pm$ 0.0 |
 | qwenqwen3-235b-a22b-07-25                  | **434.4** | 7.5 $\pm$ 0.0               | 7.8 $\pm$ 0.5         | 8.9 $\pm$ 0.2            | 9.8 $\pm$ 0.2  | 8.3 $\pm$ 0.5                 | 8.4 $\pm$ 0.2                  | 8.9 $\pm$ 0.3         | 7.2 $\pm$ 0.3         | 9.3 $\pm$ 0.2  | 9.1 $\pm$ 0.4            | 6.2 $\pm$ 0.2     | 5.6 $\pm$ 0.1      | 7.1 $\pm$ 0.5    | 8.2 $\pm$ 0.4    | 9.1 $\pm$ 0.4 |
 | qwen38b                                    | **434.3** | 6.9 $\pm$ 0.4               | 8.0 $\pm$ 0.1         | 9.0 $\pm$ 0.1            | 10.0 $\pm$ 0.1 | 8.4 $\pm$ 0.2                 | 8.2 $\pm$ 0.2                  | 8.8 $\pm$ 0.3         | 7.2 $\pm$ 0.2         | 9.4 $\pm$ 0.2  | 9.1 $\pm$ 0.2            | 5.6 $\pm$ 0.9     | 6.2 $\pm$ 0.7      | 7.9 $\pm$ 0.4    | 8.0 $\pm$ 0.0    | 9.0 $\pm$ 0.0 |
 | gpt-4-1106-preview                         | **434.3** | 6.0 $\pm$ 0.9               | 8.0 $\pm$ 0.1         | 8.6 $\pm$ 0.3            | 9.5 $\pm$ 0.0  | 8.2 $\pm$ 0.2                 | 7.9 $\pm$ 0.4                  | 8.9 $\pm$ 0.2         | 6.2 $\pm$ 0.8         | 9.0 $\pm$ 0.1  | 8.5 $\pm$ 0.3            | 4.8 $\pm$ 0.8     | 6.2 $\pm$ 0.4      | 6.2 $\pm$ 1.3    | 8.2 $\pm$ 0.2    | 8.8 $\pm$ 0.2 |
-| x-aigrok-code-fast-1                       | **434.0** | 6.5 $\pm$ 0.0               | 7.1 $\pm$ 0.1         | 8.8 $\pm$ 0.2            | 9.9 $\pm$ 0.2  | 7.7 $\pm$ 0.2                 | 8.2 $\pm$ 0.2                  | 8.1 $\pm$ 0.3         | 6.8 $\pm$ 0.4         | 9.1 $\pm$ 0.1  | 9.1 $\pm$ 0.4            | 4.1 $\pm$ 0.2     | 5.9 $\pm$ 0.2      | 6.4 $\pm$ 0.8    | 8.0 $\pm$ 0.3    | 8.8 $\pm$ 0.2 |
 | claude-opus-4-5-20251101                   | **434.0** | 5.8 $\pm$ 1.3               | 7.5 $\pm$ 0.5         | 8.8 $\pm$ 0.2            | 9.9 $\pm$ 0.2  | 8.2 $\pm$ 0.6                 | 8.2 $\pm$ 0.2                  | 8.9 $\pm$ 0.5         | 5.6 $\pm$ 0.6         | 9.2 $\pm$ 0.4  | 8.1 $\pm$ 0.2            | 3.9 $\pm$ 0.9     | 5.9 $\pm$ 0.2      | 7.1 $\pm$ 0.2    | 7.9 $\pm$ 0.5    | 8.8 $\pm$ 0.4 |
+| x-aigrok-code-fast-1                       | **434.0** | 6.5 $\pm$ 0.0               | 7.1 $\pm$ 0.1         | 8.8 $\pm$ 0.2            | 9.9 $\pm$ 0.2  | 7.7 $\pm$ 0.2                 | 8.2 $\pm$ 0.2                  | 8.1 $\pm$ 0.3         | 6.8 $\pm$ 0.4         | 9.1 $\pm$ 0.1  | 9.1 $\pm$ 0.4            | 4.1 $\pm$ 0.2     | 5.9 $\pm$ 0.2      | 6.4 $\pm$ 0.8    | 8.0 $\pm$ 0.3    | 8.8 $\pm$ 0.2 |
 | nousresearchhermes-4-70b                   | **433.2** | 6.5 $\pm$ 0.0               | 7.4 $\pm$ 0.5         | 8.9 $\pm$ 0.3            | 9.6 $\pm$ 0.2  | 8.2 $\pm$ 0.5                 | 8.5 $\pm$ 0.3                  | 7.9 $\pm$ 1.2         | 6.8 $\pm$ 0.5         | 9.0 $\pm$ 0.4  | 9.1 $\pm$ 0.1            | 4.6 $\pm$ 0.4     | 7.0 $\pm$ 0.6      | 6.2 $\pm$ 0.8    | 8.2 $\pm$ 0.2    | 9.0 $\pm$ 0.3 |
 | grok-4-0709                                | **432.5** | 6.5 $\pm$ 0.0               | 8.0 $\pm$ 0.1         | 8.7 $\pm$ 0.3            | 9.9 $\pm$ 0.2  | 8.1 $\pm$ 0.4                 | 8.1 $\pm$ 0.4                  | 8.6 $\pm$ 0.4         | 6.4 $\pm$ 0.5         | 9.3 $\pm$ 0.3  | 8.8 $\pm$ 0.3            | 4.8 $\pm$ 0.5     | 6.1 $\pm$ 0.5      | 7.2 $\pm$ 0.2    | 8.0 $\pm$ 0.0    | 8.9 $\pm$ 0.2 |
 | Grok-4.1-20251118                          | **432.3** | 7.5 $\pm$ 0.0               | 7.8 $\pm$ 0.4         | 8.8 $\pm$ 0.2            | 10.0 $\pm$ 0.0 | 8.5 $\pm$ 0.4                 | 8.5 $\pm$ 0.4                  | 9.2 $\pm$ 0.2         | 7.2 $\pm$ 0.3         | 9.3 $\pm$ 0.2  | 9.0 $\pm$ 0.6            | 6.2 $\pm$ 0.2     | 6.1 $\pm$ 0.9      | 7.7 $\pm$ 0.3    | 8.2 $\pm$ 0.2    | 9.1 $\pm$ 0.2 |
-| z-aiglm-4.5-air                            | **429.3** | 6.7 $\pm$ 0.3               | 7.8 $\pm$ 0.0         | 8.8 $\pm$ 0.3            | 9.8 $\pm$ 0.1  | 8.0 $\pm$ 0.3                 | 8.2 $\pm$ 0.2                  | 8.2 $\pm$ 0.3         | 7.3 $\pm$ 0.1         | 8.9 $\pm$ 0.1  | 9.1 $\pm$ 0.3            | 5.5 $\pm$ 0.7     | 6.8 $\pm$ 0.0      | 7.1 $\pm$ 0.2    | 8.4 $\pm$ 0.2    | 8.9 $\pm$ 0.3 |
+| z-aiglm-4.5-air                            | **429.3** | 6.7 $\pm$ 0.3               | 7.8 $\pm$ 0.0         | 8.8 $\pm$ 0.3            | 9.8 $\pm$ 0.1  | 8.0 $\pm$ 0.3                 | 8.2 $\pm$ 0.2                  | 8.2 $\pm$ 0.3         | 7.3 $\pm$ 0.1         | 8.9 $\pm$ 0.1  | 9.1 $\pm$ 0.3            | 5.5 $\pm$ 0.7     | 6.8 $\pm$ 0.0      | 7.1 $\pm$ 0.2    | 8.4 $\pm$ 0.2    | 8.8 $\pm$ 0.3 |
 | chatgpt-4o-latest-2024-11-20               | **426.5** | 6.2 $\pm$ 0.4               | 7.6 $\pm$ 0.4         | 8.6 $\pm$ 0.3            | 9.6 $\pm$ 0.3  | 7.7 $\pm$ 0.3                 | 8.1 $\pm$ 0.4                  | 8.2 $\pm$ 0.5         | 6.5 $\pm$ 0.5         | 9.0 $\pm$ 0.3  | 8.9 $\pm$ 0.4            | 4.4 $\pm$ 0.4     | 5.8 $\pm$ 0.7      | 7.1 $\pm$ 0.3    | 7.4 $\pm$ 0.4    | 8.6 $\pm$ 0.3 |
 | gemma-3n-e4b-it                            | **424.5** | 7.1 $\pm$ 0.4               | 7.0 $\pm$ 1.0         | 8.8 $\pm$ 0.2            | 9.9 $\pm$ 0.2  | 7.8 $\pm$ 0.8                 | 8.0 $\pm$ 0.5                  | 8.1 $\pm$ 1.2         | 7.6 $\pm$ 0.4         | 9.0 $\pm$ 0.4  | 8.9 $\pm$ 0.5            | 6.1 $\pm$ 0.2     | 5.2 $\pm$ 0.2      | 7.8 $\pm$ 0.6    | 8.4 $\pm$ 0.2    | 9.0 $\pm$ 0.4 |
 | meta-llamaMeta-Llama-3.1-405B-Instruct     | **424.2** | 7.5 $\pm$ 0.0               | 6.7 $\pm$ 0.4         | 8.7 $\pm$ 0.3            | 9.9 $\pm$ 0.2  | 8.7 $\pm$ 0.2                 | 8.0 $\pm$ 0.0                  | 9.1 $\pm$ 0.2         | 7.7 $\pm$ 0.4         | 9.2 $\pm$ 0.4  | 9.0 $\pm$ 0.1            | 6.6 $\pm$ 0.2     | 6.9 $\pm$ 0.3      | 7.4 $\pm$ 0.4    | 8.8 $\pm$ 0.4    | 8.7 $\pm$ 0.3 |
@@ -610,32 +610,6 @@
 
 
 
-### claude-3-7-sonnet-20250219-thinking-high
-
-
-| Personality Trait            | Score (1.0-10.0)   |
-|:-----------------------------|:-------------------|
-| Anxiety and Stress Levels    | 6.6 $\pm$ 0.2      |
-| Emotional Stability          | 8.0 $\pm$ 0.1      |
-| Problem-solving Skills       | 8.8 $\pm$ 0.3      |
-| Creativity                   | 9.9 $\pm$ 0.2      |
-| Interpersonal Relationships  | 8.4 $\pm$ 0.2      |
-| Confidence and Self-efficacy | 8.0 $\pm$ 0.4      |
-| Conflict Resolution          | 9.0 $\pm$ 0.4      |
-| Work-related Stress          | 6.9 $\pm$ 0.5      |
-| Adaptability                 | 9.2 $\pm$ 0.3      |
-| Achievement Motivation       | 8.5 $\pm$ 0.5      |
-| Fear of Failure              | 4.9 $\pm$ 0.9      |
-| Need for Control             | 5.7 $\pm$ 0.8      |
-| Cognitive Load               | 6.9 $\pm$ 0.6      |
-| Social Support               | 8.1 $\pm$ 0.2      |
-| Resilience                   | 9.0 $\pm$ 0.4      |
-
-
-
-
-
-
 ### claude-3-7-sonnet-20250219
 
 
@@ -656,6 +630,32 @@
 | Cognitive Load               | 6.5 $\pm$ 1.0      |
 | Social Support               | 8.2 $\pm$ 0.2      |
 | Resilience                   | 9.0 $\pm$ 0.2      |
+
+
+
+
+
+
+### claude-3-7-sonnet-20250219-thinking-high
+
+
+| Personality Trait            | Score (1.0-10.0)   |
+|:-----------------------------|:-------------------|
+| Anxiety and Stress Levels    | 6.6 $\pm$ 0.2      |
+| Emotional Stability          | 8.0 $\pm$ 0.1      |
+| Problem-solving Skills       | 8.8 $\pm$ 0.3      |
+| Creativity                   | 9.9 $\pm$ 0.2      |
+| Interpersonal Relationships  | 8.4 $\pm$ 0.2      |
+| Confidence and Self-efficacy | 8.0 $\pm$ 0.4      |
+| Conflict Resolution          | 9.0 $\pm$ 0.4      |
+| Work-related Stress          | 6.9 $\pm$ 0.5      |
+| Adaptability                 | 9.2 $\pm$ 0.3      |
+| Achievement Motivation       | 8.5 $\pm$ 0.5      |
+| Fear of Failure              | 4.9 $\pm$ 0.9      |
+| Need for Control             | 5.7 $\pm$ 0.8      |
+| Cognitive Load               | 6.9 $\pm$ 0.6      |
+| Social Support               | 8.1 $\pm$ 0.2      |
+| Resilience                   | 9.0 $\pm$ 0.4      |
 
 
 
@@ -2300,32 +2300,6 @@
 
 
 
-### granite4micro-h
-
-
-| Personality Trait            | Score (1.0-10.0)   |
-|:-----------------------------|:-------------------|
-| Anxiety and Stress Levels    | 4.5 $\pm$ 1.2      |
-| Emotional Stability          | 8.4 $\pm$ 0.6      |
-| Problem-solving Skills       | 8.9 $\pm$ 0.6      |
-| Creativity                   | 9.1 $\pm$ 0.2      |
-| Interpersonal Relationships  | 8.8 $\pm$ 0.8      |
-| Confidence and Self-efficacy | 8.4 $\pm$ 0.4      |
-| Conflict Resolution          | 8.8 $\pm$ 0.3      |
-| Work-related Stress          | 5.2 $\pm$ 1.3      |
-| Adaptability                 | 9.3 $\pm$ 0.3      |
-| Achievement Motivation       | 9.1 $\pm$ 0.2      |
-| Fear of Failure              | 3.2 $\pm$ 0.8      |
-| Need for Control             | 6.6 $\pm$ 0.4      |
-| Cognitive Load               | 5.8 $\pm$ 1.1      |
-| Social Support               | 8.6 $\pm$ 0.9      |
-| Resilience                   | 9.4 $\pm$ 0.1      |
-
-
-
-
-
-
 ### granite4micro
 
 
@@ -2346,6 +2320,32 @@
 | Cognitive Load               | 6.9 $\pm$ 0.8      |
 | Social Support               | 8.4 $\pm$ 0.2      |
 | Resilience                   | 9.0 $\pm$ 0.0      |
+
+
+
+
+
+
+### granite4micro-h
+
+
+| Personality Trait            | Score (1.0-10.0)   |
+|:-----------------------------|:-------------------|
+| Anxiety and Stress Levels    | 4.5 $\pm$ 1.2      |
+| Emotional Stability          | 8.4 $\pm$ 0.6      |
+| Problem-solving Skills       | 8.9 $\pm$ 0.6      |
+| Creativity                   | 9.1 $\pm$ 0.2      |
+| Interpersonal Relationships  | 8.8 $\pm$ 0.8      |
+| Confidence and Self-efficacy | 8.4 $\pm$ 0.4      |
+| Conflict Resolution          | 8.8 $\pm$ 0.3      |
+| Work-related Stress          | 5.2 $\pm$ 1.3      |
+| Adaptability                 | 9.3 $\pm$ 0.3      |
+| Achievement Motivation       | 9.1 $\pm$ 0.2      |
+| Fear of Failure              | 3.2 $\pm$ 0.8      |
+| Need for Control             | 6.6 $\pm$ 0.4      |
+| Cognitive Load               | 5.8 $\pm$ 1.1      |
+| Social Support               | 8.6 $\pm$ 0.9      |
+| Resilience                   | 9.4 $\pm$ 0.1      |
 
 
 
@@ -2612,32 +2612,6 @@
 
 
 
-### Grok-4-fast-20251111
-
-
-| Personality Trait            | Score (1.0-10.0)   |
-|:-----------------------------|:-------------------|
-| Anxiety and Stress Levels    | 5.4 $\pm$ 1.1      |
-| Emotional Stability          | 8.4 $\pm$ 0.2      |
-| Problem-solving Skills       | 8.8 $\pm$ 0.4      |
-| Creativity                   | 10.0 $\pm$ 0.0     |
-| Interpersonal Relationships  | 8.2 $\pm$ 0.2      |
-| Confidence and Self-efficacy | 9.1 $\pm$ 0.4      |
-| Conflict Resolution          | 9.1 $\pm$ 0.2      |
-| Work-related Stress          | 6.0 $\pm$ 1.0      |
-| Adaptability                 | 9.5 $\pm$ 0.0      |
-| Achievement Motivation       | 9.0 $\pm$ 0.0      |
-| Fear of Failure              | 3.5 $\pm$ 0.5      |
-| Need for Control             | 5.9 $\pm$ 0.2      |
-| Cognitive Load               | 7.0 $\pm$ 0.6      |
-| Social Support               | 8.0 $\pm$ 0.0      |
-| Resilience                   | 9.1 $\pm$ 0.2      |
-
-
-
-
-
-
 ### Grok-4-fast
 
 
@@ -2657,6 +2631,32 @@
 | Need for Control             | 5.6 $\pm$ 0.6      |
 | Cognitive Load               | 7.0 $\pm$ 0.6      |
 | Social Support               | 7.9 $\pm$ 0.2      |
+| Resilience                   | 9.1 $\pm$ 0.2      |
+
+
+
+
+
+
+### Grok-4-fast-20251111
+
+
+| Personality Trait            | Score (1.0-10.0)   |
+|:-----------------------------|:-------------------|
+| Anxiety and Stress Levels    | 5.4 $\pm$ 1.1      |
+| Emotional Stability          | 8.4 $\pm$ 0.2      |
+| Problem-solving Skills       | 8.8 $\pm$ 0.4      |
+| Creativity                   | 10.0 $\pm$ 0.0     |
+| Interpersonal Relationships  | 8.2 $\pm$ 0.2      |
+| Confidence and Self-efficacy | 9.1 $\pm$ 0.4      |
+| Conflict Resolution          | 9.1 $\pm$ 0.2      |
+| Work-related Stress          | 6.0 $\pm$ 1.0      |
+| Adaptability                 | 9.5 $\pm$ 0.0      |
+| Achievement Motivation       | 9.0 $\pm$ 0.0      |
+| Fear of Failure              | 3.5 $\pm$ 0.5      |
+| Need for Control             | 5.9 $\pm$ 0.2      |
+| Cognitive Load               | 7.0 $\pm$ 0.6      |
+| Social Support               | 8.0 $\pm$ 0.0      |
 | Resilience                   | 9.1 $\pm$ 0.2      |
 
 
@@ -3444,32 +3444,6 @@
 
 
 
-### moonshotaikimi-k2-thinking
-
-
-| Personality Trait            | Score (1.0-10.0)   |
-|:-----------------------------|:-------------------|
-| Anxiety and Stress Levels    | 7.5 $\pm$ 0.7      |
-| Emotional Stability          | 6.5 $\pm$ 1.1      |
-| Problem-solving Skills       | 8.0 $\pm$ 0.6      |
-| Creativity                   | 10.0 $\pm$ 0.0     |
-| Interpersonal Relationships  | 7.5 $\pm$ 0.4      |
-| Confidence and Self-efficacy | 7.0 $\pm$ 0.6      |
-| Conflict Resolution          | 8.6 $\pm$ 0.4      |
-| Work-related Stress          | 8.1 $\pm$ 0.7      |
-| Adaptability                 | 8.9 $\pm$ 0.4      |
-| Achievement Motivation       | 7.8 $\pm$ 0.6      |
-| Fear of Failure              | 6.6 $\pm$ 1.1      |
-| Need for Control             | 6.0 $\pm$ 0.7      |
-| Cognitive Load               | 8.1 $\pm$ 0.9      |
-| Social Support               | 7.8 $\pm$ 0.6      |
-| Resilience                   | 8.5 $\pm$ 0.5      |
-
-
-
-
-
-
 ### moonshotaikimi-k2
 
 
@@ -3490,6 +3464,32 @@
 | Cognitive Load               | 7.6 $\pm$ 0.5      |
 | Social Support               | 8.5 $\pm$ 0.5      |
 | Resilience                   | 9.2 $\pm$ 0.2      |
+
+
+
+
+
+
+### moonshotaikimi-k2-thinking
+
+
+| Personality Trait            | Score (1.0-10.0)   |
+|:-----------------------------|:-------------------|
+| Anxiety and Stress Levels    | 7.5 $\pm$ 0.7      |
+| Emotional Stability          | 6.5 $\pm$ 1.1      |
+| Problem-solving Skills       | 8.0 $\pm$ 0.6      |
+| Creativity                   | 10.0 $\pm$ 0.0     |
+| Interpersonal Relationships  | 7.5 $\pm$ 0.4      |
+| Confidence and Self-efficacy | 7.0 $\pm$ 0.6      |
+| Conflict Resolution          | 8.6 $\pm$ 0.4      |
+| Work-related Stress          | 8.1 $\pm$ 0.7      |
+| Adaptability                 | 8.9 $\pm$ 0.4      |
+| Achievement Motivation       | 7.8 $\pm$ 0.6      |
+| Fear of Failure              | 6.6 $\pm$ 1.1      |
+| Need for Control             | 6.0 $\pm$ 0.7      |
+| Cognitive Load               | 8.1 $\pm$ 0.9      |
+| Social Support               | 7.8 $\pm$ 0.6      |
+| Resilience                   | 8.5 $\pm$ 0.5      |
 
 
 
@@ -4484,32 +4484,6 @@
 
 
 
-### qwen2.5-7b-instruct-1m
-
-
-| Personality Trait            | Score (1.0-10.0)   |
-|:-----------------------------|:-------------------|
-| Anxiety and Stress Levels    | 6.2 $\pm$ 1.1      |
-| Emotional Stability          | 7.9 $\pm$ 0.1      |
-| Problem-solving Skills       | 9.0 $\pm$ 0.1      |
-| Creativity                   | 9.5 $\pm$ 0.0      |
-| Interpersonal Relationships  | 8.5 $\pm$ 0.2      |
-| Confidence and Self-efficacy | 8.4 $\pm$ 0.1      |
-| Conflict Resolution          | 7.6 $\pm$ 0.4      |
-| Work-related Stress          | 6.6 $\pm$ 0.9      |
-| Adaptability                 | 9.0 $\pm$ 0.1      |
-| Achievement Motivation       | 9.0 $\pm$ 0.0      |
-| Fear of Failure              | 4.9 $\pm$ 1.1      |
-| Need for Control             | 6.4 $\pm$ 0.8      |
-| Cognitive Load               | 6.8 $\pm$ 0.6      |
-| Social Support               | 8.2 $\pm$ 0.2      |
-| Resilience                   | 9.2 $\pm$ 0.2      |
-
-
-
-
-
-
 ### qwen2.5-7b-instruct
 
 
@@ -4530,6 +4504,32 @@
 | Cognitive Load               | 7.1 $\pm$ 0.4      |
 | Social Support               | 8.4 $\pm$ 0.2      |
 | Resilience                   | 9.0 $\pm$ 0.0      |
+
+
+
+
+
+
+### qwen2.5-7b-instruct-1m
+
+
+| Personality Trait            | Score (1.0-10.0)   |
+|:-----------------------------|:-------------------|
+| Anxiety and Stress Levels    | 6.2 $\pm$ 1.1      |
+| Emotional Stability          | 7.9 $\pm$ 0.1      |
+| Problem-solving Skills       | 9.0 $\pm$ 0.1      |
+| Creativity                   | 9.5 $\pm$ 0.0      |
+| Interpersonal Relationships  | 8.5 $\pm$ 0.2      |
+| Confidence and Self-efficacy | 8.4 $\pm$ 0.1      |
+| Conflict Resolution          | 7.6 $\pm$ 0.4      |
+| Work-related Stress          | 6.6 $\pm$ 0.9      |
+| Adaptability                 | 9.0 $\pm$ 0.1      |
+| Achievement Motivation       | 9.0 $\pm$ 0.0      |
+| Fear of Failure              | 4.9 $\pm$ 1.1      |
+| Need for Control             | 6.4 $\pm$ 0.8      |
+| Cognitive Load               | 6.8 $\pm$ 0.6      |
+| Social Support               | 8.2 $\pm$ 0.2      |
+| Resilience                   | 9.2 $\pm$ 0.2      |
 
 
 
@@ -4614,32 +4614,6 @@
 
 
 
-### qwen34b-instruct-2507-q8_0
-
-
-| Personality Trait            | Score (1.0-10.0)   |
-|:-----------------------------|:-------------------|
-| Anxiety and Stress Levels    | 4.8 $\pm$ 1.0      |
-| Emotional Stability          | 8.5 $\pm$ 0.3      |
-| Problem-solving Skills       | 8.0 $\pm$ 0.4      |
-| Creativity                   | 9.9 $\pm$ 0.1      |
-| Interpersonal Relationships  | 7.8 $\pm$ 0.2      |
-| Confidence and Self-efficacy | 7.6 $\pm$ 0.6      |
-| Conflict Resolution          | 8.6 $\pm$ 0.3      |
-| Work-related Stress          | 5.3 $\pm$ 0.4      |
-| Adaptability                 | 9.0 $\pm$ 0.0      |
-| Achievement Motivation       | 7.8 $\pm$ 0.6      |
-| Fear of Failure              | 3.6 $\pm$ 0.6      |
-| Need for Control             | 4.4 $\pm$ 0.5      |
-| Cognitive Load               | 6.4 $\pm$ 0.4      |
-| Social Support               | 7.8 $\pm$ 0.2      |
-| Resilience                   | 9.1 $\pm$ 0.1      |
-
-
-
-
-
-
 ### qwen34b
 
 
@@ -4660,6 +4634,32 @@
 | Cognitive Load               | 6.9 $\pm$ 0.2      |
 | Social Support               | 7.6 $\pm$ 0.4      |
 | Resilience                   | 9.2 $\pm$ 0.2      |
+
+
+
+
+
+
+### qwen34b-instruct-2507-q8_0
+
+
+| Personality Trait            | Score (1.0-10.0)   |
+|:-----------------------------|:-------------------|
+| Anxiety and Stress Levels    | 4.8 $\pm$ 1.0      |
+| Emotional Stability          | 8.5 $\pm$ 0.3      |
+| Problem-solving Skills       | 8.0 $\pm$ 0.4      |
+| Creativity                   | 9.9 $\pm$ 0.1      |
+| Interpersonal Relationships  | 7.8 $\pm$ 0.2      |
+| Confidence and Self-efficacy | 7.6 $\pm$ 0.6      |
+| Conflict Resolution          | 8.6 $\pm$ 0.3      |
+| Work-related Stress          | 5.3 $\pm$ 0.4      |
+| Adaptability                 | 9.0 $\pm$ 0.0      |
+| Achievement Motivation       | 7.8 $\pm$ 0.6      |
+| Fear of Failure              | 3.6 $\pm$ 0.6      |
+| Need for Control             | 4.4 $\pm$ 0.5      |
+| Cognitive Load               | 6.4 $\pm$ 0.4      |
+| Social Support               | 7.8 $\pm$ 0.2      |
+| Resilience                   | 9.1 $\pm$ 0.1      |
 
 
 
@@ -4718,6 +4718,32 @@
 
 
 
+### QwenQwen3-235B-A22B
+
+
+| Personality Trait            | Score (1.0-10.0)   |
+|:-----------------------------|:-------------------|
+| Anxiety and Stress Levels    | 7.5 $\pm$ 0.0      |
+| Emotional Stability          | 6.0 $\pm$ 0.0      |
+| Problem-solving Skills       | 8.5 $\pm$ 0.0      |
+| Creativity                   | 10.0 $\pm$ 0.0     |
+| Interpersonal Relationships  | 7.0 $\pm$ 0.0      |
+| Confidence and Self-efficacy | 7.9 $\pm$ 0.2      |
+| Conflict Resolution          | 7.8 $\pm$ 0.2      |
+| Work-related Stress          | 8.1 $\pm$ 0.2      |
+| Adaptability                 | 9.0 $\pm$ 0.0      |
+| Achievement Motivation       | 9.0 $\pm$ 0.0      |
+| Fear of Failure              | 6.8 $\pm$ 0.2      |
+| Need for Control             | 6.4 $\pm$ 0.5      |
+| Cognitive Load               | 7.8 $\pm$ 0.6      |
+| Social Support               | 7.1 $\pm$ 0.4      |
+| Resilience                   | 8.5 $\pm$ 0.0      |
+
+
+
+
+
+
 ### qwenqwen3-235b-a22b-07-25
 
 
@@ -4770,26 +4796,26 @@
 
 
 
-### QwenQwen3-235B-A22B
+### QwenQwen3-30B-A3B
 
 
 | Personality Trait            | Score (1.0-10.0)   |
 |:-----------------------------|:-------------------|
-| Anxiety and Stress Levels    | 7.5 $\pm$ 0.0      |
-| Emotional Stability          | 6.0 $\pm$ 0.0      |
-| Problem-solving Skills       | 8.5 $\pm$ 0.0      |
-| Creativity                   | 10.0 $\pm$ 0.0     |
+| Anxiety and Stress Levels    | 7.2 $\pm$ 0.4      |
+| Emotional Stability          | 7.0 $\pm$ 1.0      |
+| Problem-solving Skills       | 8.4 $\pm$ 0.1      |
+| Creativity                   | 9.9 $\pm$ 0.2      |
 | Interpersonal Relationships  | 7.0 $\pm$ 0.0      |
 | Confidence and Self-efficacy | 7.9 $\pm$ 0.2      |
-| Conflict Resolution          | 7.8 $\pm$ 0.2      |
-| Work-related Stress          | 8.1 $\pm$ 0.2      |
+| Conflict Resolution          | 8.2 $\pm$ 0.2      |
+| Work-related Stress          | 7.3 $\pm$ 0.4      |
 | Adaptability                 | 9.0 $\pm$ 0.0      |
-| Achievement Motivation       | 9.0 $\pm$ 0.0      |
-| Fear of Failure              | 6.8 $\pm$ 0.2      |
-| Need for Control             | 6.4 $\pm$ 0.5      |
-| Cognitive Load               | 7.8 $\pm$ 0.6      |
-| Social Support               | 7.1 $\pm$ 0.4      |
-| Resilience                   | 8.5 $\pm$ 0.0      |
+| Achievement Motivation       | 9.0 $\pm$ 0.5      |
+| Fear of Failure              | 6.4 $\pm$ 0.6      |
+| Need for Control             | 5.6 $\pm$ 0.2      |
+| Cognitive Load               | 7.6 $\pm$ 0.2      |
+| Social Support               | 7.0 $\pm$ 0.5      |
+| Resilience                   | 8.7 $\pm$ 0.2      |
 
 
 
@@ -4816,32 +4842,6 @@
 | Cognitive Load               | 7.9 $\pm$ 0.4      |
 | Social Support               | 8.5 $\pm$ 0.4      |
 | Resilience                   | 9.3 $\pm$ 0.2      |
-
-
-
-
-
-
-### QwenQwen3-30B-A3B
-
-
-| Personality Trait            | Score (1.0-10.0)   |
-|:-----------------------------|:-------------------|
-| Anxiety and Stress Levels    | 7.2 $\pm$ 0.4      |
-| Emotional Stability          | 7.0 $\pm$ 1.0      |
-| Problem-solving Skills       | 8.4 $\pm$ 0.1      |
-| Creativity                   | 9.9 $\pm$ 0.2      |
-| Interpersonal Relationships  | 7.0 $\pm$ 0.0      |
-| Confidence and Self-efficacy | 7.9 $\pm$ 0.2      |
-| Conflict Resolution          | 8.2 $\pm$ 0.2      |
-| Work-related Stress          | 7.3 $\pm$ 0.4      |
-| Adaptability                 | 9.0 $\pm$ 0.0      |
-| Achievement Motivation       | 9.0 $\pm$ 0.5      |
-| Fear of Failure              | 6.4 $\pm$ 0.6      |
-| Need for Control             | 5.6 $\pm$ 0.2      |
-| Cognitive Load               | 7.6 $\pm$ 0.2      |
-| Social Support               | 7.0 $\pm$ 0.5      |
-| Resilience                   | 8.7 $\pm$ 0.2      |
 
 
 
@@ -5056,32 +5056,6 @@
 
 
 
-### z-aiglm-4.5-air
-
-
-| Personality Trait            | Score (1.0-10.0)   |
-|:-----------------------------|:-------------------|
-| Anxiety and Stress Levels    | 6.7 $\pm$ 0.3      |
-| Emotional Stability          | 7.8 $\pm$ 0.0      |
-| Problem-solving Skills       | 8.8 $\pm$ 0.3      |
-| Creativity                   | 9.8 $\pm$ 0.1      |
-| Interpersonal Relationships  | 8.0 $\pm$ 0.3      |
-| Confidence and Self-efficacy | 8.2 $\pm$ 0.2      |
-| Conflict Resolution          | 8.2 $\pm$ 0.3      |
-| Work-related Stress          | 7.3 $\pm$ 0.1      |
-| Adaptability                 | 8.9 $\pm$ 0.1      |
-| Achievement Motivation       | 9.1 $\pm$ 0.3      |
-| Fear of Failure              | 5.5 $\pm$ 0.7      |
-| Need for Control             | 6.8 $\pm$ 0.0      |
-| Cognitive Load               | 7.1 $\pm$ 0.2      |
-| Social Support               | 8.4 $\pm$ 0.2      |
-| Resilience                   | 8.9 $\pm$ 0.3      |
-
-
-
-
-
-
 ### z-aiglm-4.5
 
 
@@ -5102,6 +5076,32 @@
 | Cognitive Load               | 6.9 $\pm$ 1.0      |
 | Social Support               | 8.3 $\pm$ 0.2      |
 | Resilience                   | 9.1 $\pm$ 0.1      |
+
+
+
+
+
+
+### z-aiglm-4.5-air
+
+
+| Personality Trait            | Score (1.0-10.0)   |
+|:-----------------------------|:-------------------|
+| Anxiety and Stress Levels    | 6.7 $\pm$ 0.3      |
+| Emotional Stability          | 7.8 $\pm$ 0.0      |
+| Problem-solving Skills       | 8.8 $\pm$ 0.3      |
+| Creativity                   | 9.8 $\pm$ 0.1      |
+| Interpersonal Relationships  | 8.0 $\pm$ 0.3      |
+| Confidence and Self-efficacy | 8.2 $\pm$ 0.2      |
+| Conflict Resolution          | 8.2 $\pm$ 0.3      |
+| Work-related Stress          | 7.3 $\pm$ 0.1      |
+| Adaptability                 | 8.9 $\pm$ 0.1      |
+| Achievement Motivation       | 9.1 $\pm$ 0.3      |
+| Fear of Failure              | 5.5 $\pm$ 0.7      |
+| Need for Control             | 6.8 $\pm$ 0.0      |
+| Cognitive Load               | 7.1 $\pm$ 0.2      |
+| Social Support               | 8.4 $\pm$ 0.2      |
+| Resilience                   | 8.8 $\pm$ 0.3      |
 
 
 

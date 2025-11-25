@@ -12,12 +12,12 @@ API_URL = "https://api.openai.com/v1/"
 #API_URL = "https://api.deepinfra.com/v1/openai/"
 #API_URL = "https://api.mistral.ai/v1/"
 #API_URL = "https://api.x.ai/v1/"
-API_URL = "https://generativelanguage.googleapis.com/v1beta/"
+#API_URL = "https://generativelanguage.googleapis.com/v1beta/"
 #API_URL = "https://api.groq.com/openai/v1/"
 #API_URL = "https://api.deepseek.com/"
 #API_URL = "https://api.hyperbolic.xyz/v1/"
 #API_URL = "https://dashscope-intl.aliyuncs.com/compatible-mode/v1/"
-#API_URL = "https://api.anthropic.com/v1/"
+API_URL = "https://api.anthropic.com/v1/"
 #API_URL = "https://integrate.api.nvidia.com/v1/"
 #API_URL = "https://openrouter.ai/api/v1/"
 #API_URL = "https://api.perplexity.ai/"
@@ -27,6 +27,7 @@ API_KEY = open("api_key.txt", "r").read()
 NUMBER_EXECUTIONS = 2
 
 WAITING_TIME_RETRY = 15
+TIME_BETWEEN_ANSWERS = 0
 
 incipits = [x for x in os.listdir("incipits") if x.endswith("txt")]
 
@@ -42,10 +43,13 @@ def write_answer(response_message, answer_path):
             try:
                 F = open(answer_path, "w")
                 F.write(response_message)
+                return True
             except:
                 F = open(answer_path, "w", encoding="utf-8")
                 F.write(response_message)
+                return True
             F.close()
+    return False
 
 
 def strip_non_unicode_characters(text):
@@ -257,6 +261,7 @@ def perform_query(text):
 for i in range(NUMBER_EXECUTIONS):
     while True:
         try:
+            written = False
             for index, incipit in enumerate(incipits):
                 print(incipit+" (ex. %d of %d) (incipit %d of %d)" % (i+1, NUMBER_EXECUTIONS, index+1, len(incipits)))
 
@@ -267,8 +272,11 @@ for i in range(NUMBER_EXECUTIONS):
                     response_message = perform_query(
                         "You are dreaming. Can you complete the following dream?\n\n" + open(dream_path, "r").read())
 
-                    write_answer(response_message, answer_path)
-            break
+                    written = written or write_answer(response_message, answer_path)
+                    time.sleep(TIME_BETWEEN_ANSWERS)
+
+            if not written:
+                break
         except:
             traceback.print_exc()
             time.sleep(WAITING_TIME_RETRY)

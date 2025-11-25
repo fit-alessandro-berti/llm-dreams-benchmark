@@ -142,6 +142,7 @@
 | claude-haiku-4-5-20251001 | 8.200 |
 | gpt-4o-mini-2024-11-05 | 8.200 |
 | meta-llamaMeta-Llama-3.1-405B-Instruct | 8.200 |
+| allenaiolmo-3-7b-instruct | 8.171 |
 | claude-3-opus-20240229 | 8.157 |
 | qwen34b | 8.157 |
 | claude-opus-4-5-20251101 | 8.129 |

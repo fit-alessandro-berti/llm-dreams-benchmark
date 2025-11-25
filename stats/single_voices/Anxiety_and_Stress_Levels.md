@@ -107,6 +107,7 @@
 | qwenqwen3-next-80b-a3b-thinking | 6.600 |
 | ai21jamba-large-1.7 | 6.557 |
 | minimaxminimax-m2free | 6.543 |
+| allenaiolmo-3-7b-instruct | 6.500 |
 | baiduernie-4.5-21b-a3b | 6.500 |
 | o1-pro-2024-12-17 | 6.486 |
 | nvidianemotron-nano-9b-v2 | 6.471 |

@@ -78,6 +78,7 @@
 | gpt-4.5-preview | 9.443 |
 | gpt-5-pro-2025-10-06 | 9.443 |
 | granite3.28b-instruct-q4_K_M | 9.443 |
+| allenaiolmo-3-7b-instruct | 9.429 |
 | deepseekdeepseek-r1 | 9.429 |
 | gpt-4.1-mini-2025-04-14 | 9.429 |
 | gpt-5-chat-latest-2025-08-19 | 9.429 |

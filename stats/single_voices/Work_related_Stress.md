@@ -107,6 +107,7 @@
 | nousresearchhermes-4-70b | 6.571 |
 | minimaxminimax-m2free | 6.557 |
 | gemini-2.5-pro-preview-06-05 | 6.514 |
+| allenaiolmo-3-7b-instruct | 6.500 |
 | claude-4-sonnet-20250514 | 6.500 |
 | o1-pro-2024-12-17 | 6.486 |
 | gemini-1.5-flash-002 | 6.443 |

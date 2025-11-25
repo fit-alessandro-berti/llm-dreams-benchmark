@@ -93,6 +93,7 @@
 | chatgpt-4o-latest-2025-03-26 | 7.386 |
 | claude-3-7-sonnet-20250219 | 7.386 |
 | claude-3-7-sonnet-20250219-thinking-high | 7.386 |
+| allenaiolmo-3-7b-instruct | 7.386 |
 | Grok-4-fast | 7.386 |
 | o1-2024-12-05 | 7.357 |
 | o1-pro-2024-12-05 | 7.343 |

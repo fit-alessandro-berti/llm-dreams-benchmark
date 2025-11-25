@@ -146,6 +146,7 @@
 | googlegemma-2-9b-it | 5.757 |
 | openaigpt-oss-20b | 5.743 |
 | qwen-plus-2025-01-25 | 5.743 |
+| allenaiolmo-3-7b-instruct | 5.729 |
 | gemini-2.5-flash-lite-preview-09-2025 | 5.729 |
 | gemma-3n-e4b-it | 5.729 |
 | grok-2-1212 | 5.729 |

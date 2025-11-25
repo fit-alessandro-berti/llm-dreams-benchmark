@@ -109,6 +109,7 @@
 | gpt-4-1106-preview                         | **412.6** | 6.4 $\pm$ 1.1               | 7.0 $\pm$ 0.5         | 8.5 $\pm$ 0.1            | 9.2 $\pm$ 0.2  | 7.8 $\pm$ 0.5                 | 7.7 $\pm$ 0.2                  | 8.3 $\pm$ 0.2         | 5.9 $\pm$ 1.1         | 8.9 $\pm$ 0.2  | 8.6 $\pm$ 0.2            | 5.6 $\pm$ 1.2     | 5.7 $\pm$ 0.4      | 7.1 $\pm$ 0.4    | 7.5 $\pm$ 0.1    | 8.6 $\pm$ 0.4 |
 | grok-4-1-fast-non-reasoning                | **412.2** | 6.4 $\pm$ 0.4               | 6.7 $\pm$ 0.5         | 8.8 $\pm$ 0.1            | 9.6 $\pm$ 0.1  | 7.5 $\pm$ 0.2                 | 7.7 $\pm$ 0.2                  | 8.2 $\pm$ 0.1         | 7.1 $\pm$ 0.4         | 9.1 $\pm$ 0.1  | 8.7 $\pm$ 0.2            | 6.2 $\pm$ 0.3     | 5.5 $\pm$ 0.1      | 7.8 $\pm$ 0.6    | 7.0 $\pm$ 0.1    | 8.6 $\pm$ 0.1 |
 | gemma312b-it-q8_0                          | **412.0** | 6.4 $\pm$ 0.1               | 7.2 $\pm$ 0.3         | 8.5 $\pm$ 0.0            | 9.6 $\pm$ 0.1  | 7.4 $\pm$ 0.1                 | 7.2 $\pm$ 0.4                  | 8.0 $\pm$ 0.0         | 6.1 $\pm$ 0.2         | 9.0 $\pm$ 0.1  | 8.5 $\pm$ 0.0            | 5.5 $\pm$ 0.0     | 4.7 $\pm$ 0.2      | 7.7 $\pm$ 0.2    | 7.0 $\pm$ 0.0    | 8.6 $\pm$ 0.2 |
+| allenaiolmo-3-7b-instruct                  | **411.4** | 5.7 $\pm$ 0.5               | 7.1 $\pm$ 0.3         | 8.5 $\pm$ 0.1            | 9.4 $\pm$ 0.1  | 7.5 $\pm$ 0.3                 | 7.0 $\pm$ 0.4                  | 7.9 $\pm$ 0.2         | 6.4 $\pm$ 0.4         | 9.0 $\pm$ 0.1  | 8.3 $\pm$ 0.3            | 5.8 $\pm$ 0.2     | 5.1 $\pm$ 0.3      | 7.2 $\pm$ 0.6    | 7.0 $\pm$ 0.4    | 8.4 $\pm$ 0.2 |
 | gemini-2.5-flash-lite-preview-09-2025      | **411.0** | 5.3 $\pm$ 1.5               | 6.9 $\pm$ 1.1         | 8.8 $\pm$ 0.2            | 9.7 $\pm$ 0.1  | 6.5 $\pm$ 0.1                 | 7.7 $\pm$ 0.7                  | 8.3 $\pm$ 0.5         | 5.6 $\pm$ 1.1         | 9.2 $\pm$ 0.2  | 8.5 $\pm$ 0.2            | 5.6 $\pm$ 1.7     | 5.0 $\pm$ 1.1      | 7.4 $\pm$ 0.4    | 6.0 $\pm$ 0.1    | 8.8 $\pm$ 0.3 |
 | chatgpt-4o-latest-2025-04-26               | **409.5** | 6.8 $\pm$ 0.4               | 6.8 $\pm$ 0.4         | 8.5 $\pm$ 0.0            | 9.5 $\pm$ 0.0  | 7.4 $\pm$ 0.2                 | 7.9 $\pm$ 0.2                  | 8.2 $\pm$ 0.2         | 6.8 $\pm$ 0.4         | 9.0 $\pm$ 0.0  | 8.5 $\pm$ 0.0            | 5.8 $\pm$ 0.4     | 5.5 $\pm$ 0.6      | 7.5 $\pm$ 0.4    | 6.9 $\pm$ 0.2    | 8.5 $\pm$ 0.0 |
 | claude-3-7-sonnet-20250219                 | **409.0** | 6.5 $\pm$ 0.0               | 7.0 $\pm$ 0.0         | 8.5 $\pm$ 0.0            | 9.5 $\pm$ 0.0  | 7.5 $\pm$ 0.0                 | 7.2 $\pm$ 0.4                  | 8.1 $\pm$ 0.2         | 6.0 $\pm$ 0.0         | 9.0 $\pm$ 0.0  | 8.4 $\pm$ 0.2            | 5.5 $\pm$ 0.0     | 4.9 $\pm$ 0.6      | 7.6 $\pm$ 0.2    | 7.0 $\pm$ 0.0    | 8.5 $\pm$ 0.0 |
@@ -238,6 +239,32 @@
 | Cognitive Load               | 7.2 $\pm$ 0.2      |
 | Social Support               | 7.8 $\pm$ 0.2      |
 | Resilience                   | 9.5 $\pm$ 0.0      |
+
+
+
+
+
+
+### allenaiolmo-3-7b-instruct
+
+
+| Personality Trait            | Score (1.0-10.0)   |
+|:-----------------------------|:-------------------|
+| Anxiety and Stress Levels    | 5.7 $\pm$ 0.5      |
+| Emotional Stability          | 7.1 $\pm$ 0.3      |
+| Problem-solving Skills       | 8.5 $\pm$ 0.1      |
+| Creativity                   | 9.4 $\pm$ 0.1      |
+| Interpersonal Relationships  | 7.5 $\pm$ 0.3      |
+| Confidence and Self-efficacy | 7.0 $\pm$ 0.4      |
+| Conflict Resolution          | 7.9 $\pm$ 0.2      |
+| Work-related Stress          | 6.4 $\pm$ 0.4      |
+| Adaptability                 | 9.0 $\pm$ 0.1      |
+| Achievement Motivation       | 8.3 $\pm$ 0.3      |
+| Fear of Failure              | 5.8 $\pm$ 0.2      |
+| Need for Control             | 5.1 $\pm$ 0.3      |
+| Cognitive Load               | 7.2 $\pm$ 0.6      |
+| Social Support               | 7.0 $\pm$ 0.4      |
+| Resilience                   | 8.4 $\pm$ 0.2      |
 
 
 

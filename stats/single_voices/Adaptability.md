@@ -94,6 +94,7 @@
 | baiduernie-4.5-21b-a3b | 8.743 |
 | gemini-2.5-pro-preview-05-06 | 8.743 |
 | qwen-max-2025-01-25 | 8.743 |
+| allenaiolmo-3-7b-instruct | 8.729 |
 | devstral-small-2505 | 8.729 |
 | ministral-8b-2410 | 8.729 |
 | mistral-small-2409 | 8.729 |

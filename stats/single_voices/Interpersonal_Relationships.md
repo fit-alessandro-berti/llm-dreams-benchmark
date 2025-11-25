@@ -87,6 +87,7 @@
 | o1-pro-2024-12-05 | 7.543 |
 | chatgpt-4o-latest-2025-03-26 | 7.529 |
 | ChatGPT-5.1-Instant-20251113 | 7.514 |
+| allenaiolmo-3-7b-instruct | 7.500 |
 | baiduernie-4.5-21b-a3b | 7.500 |
 | falcon33b-instruct-q8_0 | 7.486 |
 | meta-llamaMeta-Llama-3.1-405B-Instruct | 7.486 |

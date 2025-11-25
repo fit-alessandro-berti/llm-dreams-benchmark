@@ -107,6 +107,7 @@
 | qwenqwen3-next-80b-a3b-thinking | 5.686 |
 | minimaxminimax-m2free | 5.657 |
 | gpt-5-pro-2025-10-06 | 5.643 |
+| allenaiolmo-3-7b-instruct | 5.643 |
 | devstral-small-2505 | 5.629 |
 | baiduernie-4.5-21b-a3b | 5.629 |
 | nvidiallama-3.1-nemotron-ultra-253b-v1free | 5.614 |

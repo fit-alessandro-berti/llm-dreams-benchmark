@@ -134,6 +134,7 @@
 | mistral-medium-2505 | 7.343 |
 | moonshotaikimi-k2-thinking | 7.343 |
 | Grok-3-beta-thinking-20250303 | 7.329 |
+| allenaiolmo-3-7b-instruct | 7.300 |
 | gemma-3n-e4b-it | 7.286 |
 | meta-llamaMeta-Llama-3.1-70B-Instruct | 7.271 |
 | claude-haiku-4-5-20251001 | 7.257 |

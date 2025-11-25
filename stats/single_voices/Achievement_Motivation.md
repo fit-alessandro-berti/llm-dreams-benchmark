@@ -138,6 +138,7 @@
 | meta-llamallama-4-maverick | 8.157 |
 | qwenqwen3-next-80b-a3b-thinking | 8.157 |
 | moonshotaikimi-k2 | 8.143 |
+| allenaiolmo-3-7b-instruct | 8.129 |
 | claude-3-7-sonnet-20250219 | 8.129 |
 | mistral-medium-2508 | 8.114 |
 | moonshotaikimi-linear-48b-a3b-instruct | 8.114 |

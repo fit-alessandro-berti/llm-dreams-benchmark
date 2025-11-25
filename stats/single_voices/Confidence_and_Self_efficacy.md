@@ -112,6 +112,7 @@
 | gpt-5-2025-08-07 | 7.257 |
 | gpt-5-pro-2025-10-06 | 7.257 |
 | qwenqwen3-next-80b-a3b-thinking | 7.257 |
+| allenaiolmo-3-7b-instruct | 7.229 |
 | claude-3-7-sonnet-20250219 | 7.229 |
 | grok-4-1-fast-reasoning | 7.229 |
 | nvidianemotron-nano-9b-v2 | 7.214 |

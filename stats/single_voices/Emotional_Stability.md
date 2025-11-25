@@ -87,6 +87,7 @@
 | qwenqwen3-coder | 6.914 |
 | gemini-2.5-flash-lite-preview-09-2025 | 6.914 |
 | qwenqwen3-30b-a3b-instruct-2507 | 6.886 |
+| allenaiolmo-3-7b-instruct | 6.886 |
 | gpt-5-chat-latest-2025-08-19 | 6.843 |
 | ai21jamba-large-1.7 | 6.814 |
 | gemini-1.5-flash-002 | 6.814 |

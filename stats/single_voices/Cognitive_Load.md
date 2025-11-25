@@ -96,6 +96,7 @@
 | baiduernie-4.5-21b-a3b | 7.500 |
 | nvidianemotron-nano-9b-v2 | 7.500 |
 | gpt-4o-mini-2024-11-05 | 7.457 |
+| allenaiolmo-3-7b-instruct | 7.443 |
 | exaone-deep7.8b-fp16 | 7.429 |
 | qwen2.5-7b-instruct | 7.429 |
 | smollm21.7b-instruct-q6_K | 7.429 |

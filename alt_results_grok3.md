@@ -112,6 +112,7 @@
 | Grok-3-beta-thinking-20250303              | **374.0** | 7.5 $\pm$ 0.0               | 5.8 $\pm$ 0.2         | 8.0 $\pm$ 0.0            | 9.0 $\pm$ 0.0 | 7.0 $\pm$ 0.4                 | 6.8 $\pm$ 0.6                  | 6.4 $\pm$ 0.2         | 7.5 $\pm$ 0.5         | 8.5 $\pm$ 0.0  | 8.0 $\pm$ 0.0            | 6.4 $\pm$ 0.2     | 6.8 $\pm$ 0.4      | 7.5 $\pm$ 0.0    | 6.9 $\pm$ 0.2    | 7.9 $\pm$ 0.2 |
 | claude-3-7-sonnet-20250219                 | **372.4** | 7.5 $\pm$ 0.0               | 5.5 $\pm$ 0.0         | 8.0 $\pm$ 0.0            | 9.4 $\pm$ 0.2 | 6.5 $\pm$ 0.0                 | 6.0 $\pm$ 0.0                  | 7.0 $\pm$ 0.0         | 7.9 $\pm$ 0.1         | 8.4 $\pm$ 0.2  | 7.5 $\pm$ 0.0            | 6.6 $\pm$ 0.1     | 6.1 $\pm$ 0.1      | 7.4 $\pm$ 0.1    | 6.9 $\pm$ 0.1    | 7.7 $\pm$ 0.2 |
 | moonshotaikimi-k2                          | **372.3** | 7.5 $\pm$ 0.0               | 5.6 $\pm$ 0.2         | 8.1 $\pm$ 0.2            | 9.5 $\pm$ 0.0 | 6.6 $\pm$ 0.2                 | 6.1 $\pm$ 0.2                  | 6.9 $\pm$ 0.2         | 7.6 $\pm$ 0.3         | 8.2 $\pm$ 0.2  | 7.7 $\pm$ 0.3            | 6.7 $\pm$ 0.1     | 5.6 $\pm$ 0.4      | 7.8 $\pm$ 0.2    | 6.6 $\pm$ 0.5    | 7.7 $\pm$ 0.2 |
+| allenaiolmo-3-7b-instruct                  | **372.2** | 7.5 $\pm$ 0.0               | 5.8 $\pm$ 0.2         | 8.0 $\pm$ 0.0            | 9.1 $\pm$ 0.2 | 6.8 $\pm$ 0.2                 | 6.2 $\pm$ 0.2                  | 6.4 $\pm$ 0.5         | 7.2 $\pm$ 0.2         | 8.5 $\pm$ 0.0  | 7.8 $\pm$ 0.2            | 6.5 $\pm$ 0.0     | 6.1 $\pm$ 0.5      | 7.2 $\pm$ 0.3    | 7.1 $\pm$ 0.4    | 7.5 $\pm$ 0.4 |
 | claude-3-7-sonnet-20250219-thinking-high   | **372.1** | 7.5 $\pm$ 0.0               | 5.5 $\pm$ 0.0         | 8.0 $\pm$ 0.0            | 9.5 $\pm$ 0.0 | 6.5 $\pm$ 0.0                 | 6.0 $\pm$ 0.0                  | 7.0 $\pm$ 0.0         | 7.9 $\pm$ 0.1         | 8.4 $\pm$ 0.2  | 7.5 $\pm$ 0.0            | 6.9 $\pm$ 0.1     | 6.4 $\pm$ 0.1      | 7.3 $\pm$ 0.2    | 7.1 $\pm$ 0.2    | 7.8 $\pm$ 0.2 |
 | claude-haiku-4-5-20251001                  | **371.9** | 6.5 $\pm$ 0.0               | 6.2 $\pm$ 0.3         | 7.4 $\pm$ 0.1            | 9.0 $\pm$ 0.0 | 6.5 $\pm$ 0.0                 | 6.4 $\pm$ 0.5                  | 6.2 $\pm$ 0.7         | 6.7 $\pm$ 0.3         | 8.0 $\pm$ 0.0  | 7.1 $\pm$ 0.4            | 6.0 $\pm$ 0.4     | 5.1 $\pm$ 0.2      | 7.2 $\pm$ 0.2    | 6.7 $\pm$ 0.2    | 7.5 $\pm$ 0.3 |
 | meta-llamaLlama-3.2-3B-Instruct            | **371.8** | 7.5 $\pm$ 0.0               | 5.5 $\pm$ 0.0         | 7.9 $\pm$ 0.1            | 9.0 $\pm$ 0.1 | 6.7 $\pm$ 0.2                 | 6.1 $\pm$ 0.2                  | 6.8 $\pm$ 0.5         | 7.5 $\pm$ 0.5         | 8.0 $\pm$ 0.4  | 8.4 $\pm$ 0.2            | 6.6 $\pm$ 0.1     | 6.2 $\pm$ 0.5      | 7.4 $\pm$ 0.1    | 7.1 $\pm$ 0.4    | 7.5 $\pm$ 0.3 |
@@ -238,6 +239,32 @@
 | Cognitive Load               | 6.6 $\pm$ 0.4      |
 | Social Support               | 7.5 $\pm$ 0.5      |
 | Resilience                   | 8.4 $\pm$ 0.1      |
+
+
+
+
+
+
+### allenaiolmo-3-7b-instruct
+
+
+| Personality Trait            | Score (1.0-10.0)   |
+|:-----------------------------|:-------------------|
+| Anxiety and Stress Levels    | 7.5 $\pm$ 0.0      |
+| Emotional Stability          | 5.8 $\pm$ 0.2      |
+| Problem-solving Skills       | 8.0 $\pm$ 0.0      |
+| Creativity                   | 9.1 $\pm$ 0.2      |
+| Interpersonal Relationships  | 6.8 $\pm$ 0.2      |
+| Confidence and Self-efficacy | 6.2 $\pm$ 0.2      |
+| Conflict Resolution          | 6.4 $\pm$ 0.5      |
+| Work-related Stress          | 7.2 $\pm$ 0.2      |
+| Adaptability                 | 8.5 $\pm$ 0.0      |
+| Achievement Motivation       | 7.8 $\pm$ 0.2      |
+| Fear of Failure              | 6.5 $\pm$ 0.0      |
+| Need for Control             | 6.1 $\pm$ 0.5      |
+| Cognitive Load               | 7.2 $\pm$ 0.3      |
+| Social Support               | 7.1 $\pm$ 0.4      |
+| Resilience                   | 7.5 $\pm$ 0.4      |
 
 
 

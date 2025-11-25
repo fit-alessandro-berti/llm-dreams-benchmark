@@ -105,6 +105,7 @@
 | chatgpt-4o-latest-2025-03-26 | 8.386 |
 | qwenqwen3-30b-a3b-instruct-2507 | 8.386 |
 | qwen-turbo-0428 | 8.386 |
+| allenaiolmo-3-7b-instruct | 8.371 |
 | nvidiallama-3.3-nemotron-super-49b-v1 | 8.371 |
 | gemma-3n-e4b-it | 8.371 |
 | grok-4-1-fast-reasoning | 8.371 |

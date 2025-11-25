@@ -60,6 +60,7 @@
 | moonshotaikimi-k2 | 7.343 |
 | QwenQwen3-32B | 7.343 |
 | DeepSeek-V3-0324 | 7.329 |
+| allenaiolmo-3-7b-think | 7.314 |
 | ibmgranite41b-h | 7.286 |
 | qwen-turbo-0428 | 7.286 |
 | grok-4-1-fast-reasoning | 7.257 |

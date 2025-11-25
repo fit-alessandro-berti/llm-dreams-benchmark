@@ -125,6 +125,7 @@
 | gemma-3-27b-it | 6.457 |
 | grok-4-1-fast-reasoning | 6.443 |
 | qwen38b | 6.443 |
+| allenaiolmo-3-7b-think | 6.429 |
 | magistral-small-2506 | 6.429 |
 | gemma-3n-e4b-it | 6.400 |
 | gemini-2.5-pro-preview-05-06 | 6.386 |

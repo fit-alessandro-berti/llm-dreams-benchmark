@@ -46,6 +46,7 @@
 | qwen-max-2025-01-25 | 8.671 |
 | baiduernie-4.5-21b-a3b | 8.671 |
 | phi3.53.8b-mini-instruct-fp16 | 8.657 |
+| allenaiolmo-3-7b-think | 8.643 |
 | Grok-3-20250426-formal | 8.643 |
 | mistral-small-2503 | 8.643 |
 | o1-preview-2024-09-12 | 8.643 |

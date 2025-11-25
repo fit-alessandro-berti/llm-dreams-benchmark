@@ -67,6 +67,7 @@
 | qwen-turbo-0428 | 7.243 |
 | claude-3-5-sonnet-20241022 | 7.186 |
 | x-aigrok-code-fast-1 | 7.186 |
+| allenaiolmo-3-7b-think | 7.171 |
 | nousresearchhermes-4-405b | 7.171 |
 | chatgpt-4o-latest-2025-01-29 | 7.143 |
 | claude-3-7-sonnet-20250219-thinking-high | 7.143 |

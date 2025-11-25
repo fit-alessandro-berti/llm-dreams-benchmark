@@ -75,6 +75,7 @@
 | deepseekdeepseek-chat-v3.1 | 8.443 |
 | gpt-4o-2024-05-13 | 8.443 |
 | Grok-4-fast | 8.443 |
+| allenaiolmo-3-7b-think | 8.429 |
 | chatgpt-4o-latest-2025-03-26 | 8.429 |
 | gpt-4.1-nano-2025-04-14 | 8.429 |
 | meta-llamaLlama-3.2-3B-Instruct | 8.429 |

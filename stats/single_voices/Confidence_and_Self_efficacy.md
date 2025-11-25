@@ -93,6 +93,7 @@
 | gemini-1.5-flash-002 | 7.457 |
 | qwen2.5-7b-instruct-1m | 7.443 |
 | nvidiallama-3.1-nemotron-ultra-253b-v1free | 7.443 |
+| allenaiolmo-3-7b-think | 7.429 |
 | minimaxminimax-m2free | 7.429 |
 | x-aigrok-code-fast-1 | 7.429 |
 | o1-pro-2024-12-17 | 7.414 |

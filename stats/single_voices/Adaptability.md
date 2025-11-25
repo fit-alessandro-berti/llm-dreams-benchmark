@@ -113,6 +113,7 @@
 | nousresearchhermes-4-70b | 8.686 |
 | qwen34b-instruct-2507-q8_0 | 8.686 |
 | chatgpt-4o-latest-20250215 | 8.686 |
+| allenaiolmo-3-7b-think | 8.671 |
 | Grok-4.1-20251118 | 8.671 |
 | nvidianemotron-nano-9b-v2 | 8.671 |
 | granite4tiny-h | 8.671 |

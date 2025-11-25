@@ -73,6 +73,7 @@
 | meta-llamaMeta-Llama-3.1-8B-Instruct | 6.243 |
 | granite4tiny-h | 6.229 |
 | smollm21.7b-instruct-q6_K | 6.229 |
+| allenaiolmo-3-7b-think | 6.214 |
 | falcon310b-instruct-q8_0 | 6.214 |
 | gpt-4-0613 | 6.214 |
 | qwen2.5-7b-instruct | 6.214 |

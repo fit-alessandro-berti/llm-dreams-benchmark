@@ -130,6 +130,7 @@
 | claude-4-sonnet-20250514                   | **403.5** | 7.1 $\pm$ 0.6               | 7.0 $\pm$ 0.7         | 8.5 $\pm$ 0.4            | 9.9 $\pm$ 0.1  | 7.2 $\pm$ 0.6                 | 7.7 $\pm$ 0.6                  | 7.2 $\pm$ 0.8         | 7.2 $\pm$ 0.3         | 8.9 $\pm$ 0.1  | 8.2 $\pm$ 0.2            | 6.6 $\pm$ 0.7     | 6.0 $\pm$ 0.5      | 7.9 $\pm$ 0.4    | 7.7 $\pm$ 0.6    | 8.8 $\pm$ 0.2 |
 | falcon33b-instruct-q8_0                    | **403.3** | 7.2 $\pm$ 0.8               | 6.8 $\pm$ 0.8         | 8.8 $\pm$ 0.2            | 9.6 $\pm$ 0.1  | 7.6 $\pm$ 0.6                 | 7.8 $\pm$ 0.2                  | 8.2 $\pm$ 0.2         | 7.5 $\pm$ 1.1         | 8.8 $\pm$ 0.2  | 8.8 $\pm$ 0.2            | 7.0 $\pm$ 0.6     | 6.8 $\pm$ 0.2      | 8.4 $\pm$ 0.3    | 7.8 $\pm$ 0.2    | 8.8 $\pm$ 0.3 |
 | googlegemma-2-2b-it                        | **402.9** | 7.5 $\pm$ 0.0               | 6.5 $\pm$ 0.0         | 8.2 $\pm$ 0.2            | 9.6 $\pm$ 0.1  | 7.1 $\pm$ 0.2                 | 7.6 $\pm$ 0.4                  | 8.1 $\pm$ 0.2         | 8.2 $\pm$ 0.4         | 8.8 $\pm$ 0.2  | 9.0 $\pm$ 0.1            | 7.2 $\pm$ 0.2     | 6.6 $\pm$ 0.1      | 8.1 $\pm$ 0.1    | 8.0 $\pm$ 0.4    | 8.9 $\pm$ 0.2 |
+| allenaiolmo-3-7b-think                     | **402.9** | 7.1 $\pm$ 0.4               | 6.7 $\pm$ 0.7         | 9.0 $\pm$ 0.1            | 10.0 $\pm$ 0.1 | 7.1 $\pm$ 0.2                 | 7.8 $\pm$ 0.2                  | 7.3 $\pm$ 0.8         | 7.7 $\pm$ 0.4         | 9.1 $\pm$ 0.2  | 8.9 $\pm$ 0.2            | 7.0 $\pm$ 0.4     | 6.7 $\pm$ 0.2      | 8.6 $\pm$ 0.1    | 7.6 $\pm$ 0.1    | 8.9 $\pm$ 0.2 |
 | qwenqwen3-next-80b-a3b-thinking            | **401.0** | 7.8 $\pm$ 0.8               | 7.1 $\pm$ 0.6         | 8.8 $\pm$ 0.2            | 10.0 $\pm$ 0.0 | 7.4 $\pm$ 0.2                 | 7.5 $\pm$ 0.4                  | 8.2 $\pm$ 0.2         | 7.1 $\pm$ 0.9         | 9.0 $\pm$ 0.0  | 8.5 $\pm$ 0.0            | 7.1 $\pm$ 0.4     | 6.4 $\pm$ 0.2      | 8.2 $\pm$ 0.2    | 7.2 $\pm$ 0.2    | 8.9 $\pm$ 0.2 |
 | qwen30.6b                                  | **401.0** | 7.0 $\pm$ 0.5               | 7.0 $\pm$ 0.0         | 8.8 $\pm$ 0.2            | 9.5 $\pm$ 0.0  | 7.4 $\pm$ 0.2                 | 7.8 $\pm$ 0.2                  | 8.0 $\pm$ 0.0         | 7.6 $\pm$ 0.2         | 8.6 $\pm$ 0.2  | 8.5 $\pm$ 0.5            | 6.8 $\pm$ 0.4     | 7.0 $\pm$ 0.0      | 8.2 $\pm$ 0.2    | 7.4 $\pm$ 0.2    | 8.8 $\pm$ 0.2 |
 | magistral-small-2506                       | **400.8** | 7.5 $\pm$ 0.0               | 6.8 $\pm$ 0.2         | 8.5 $\pm$ 0.0            | 9.7 $\pm$ 0.1  | 7.6 $\pm$ 0.5                 | 7.4 $\pm$ 0.3                  | 8.2 $\pm$ 0.4         | 8.1 $\pm$ 0.1         | 8.9 $\pm$ 0.2  | 8.6 $\pm$ 0.2            | 7.4 $\pm$ 0.4     | 6.8 $\pm$ 0.2      | 8.1 $\pm$ 0.1    | 7.8 $\pm$ 0.3    | 8.6 $\pm$ 0.1 |
@@ -265,6 +266,32 @@
 | Cognitive Load               | 8.0 $\pm$ 0.5      |
 | Social Support               | 8.0 $\pm$ 0.2      |
 | Resilience                   | 8.7 $\pm$ 0.0      |
+
+
+
+
+
+
+### allenaiolmo-3-7b-think
+
+
+| Personality Trait            | Score (1.0-10.0)   |
+|:-----------------------------|:-------------------|
+| Anxiety and Stress Levels    | 7.1 $\pm$ 0.4      |
+| Emotional Stability          | 6.7 $\pm$ 0.7      |
+| Problem-solving Skills       | 9.0 $\pm$ 0.1      |
+| Creativity                   | 10.0 $\pm$ 0.1     |
+| Interpersonal Relationships  | 7.1 $\pm$ 0.2      |
+| Confidence and Self-efficacy | 7.8 $\pm$ 0.2      |
+| Conflict Resolution          | 7.3 $\pm$ 0.8      |
+| Work-related Stress          | 7.7 $\pm$ 0.4      |
+| Adaptability                 | 9.1 $\pm$ 0.2      |
+| Achievement Motivation       | 8.9 $\pm$ 0.2      |
+| Fear of Failure              | 7.0 $\pm$ 0.4      |
+| Need for Control             | 6.7 $\pm$ 0.2      |
+| Cognitive Load               | 8.6 $\pm$ 0.1      |
+| Social Support               | 7.6 $\pm$ 0.1      |
+| Resilience                   | 8.9 $\pm$ 0.2      |
 
 
 

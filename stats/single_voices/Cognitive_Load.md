@@ -35,6 +35,7 @@
 | tngtechdeepseek-r1t-chimerafree | 7.943 |
 | z-aiglm-4.5 | 7.943 |
 | qwenqwen3-235b-a22b-07-25 | 7.943 |
+| allenaiolmo-3-7b-think | 7.929 |
 | anthropicclaude-opus-4.1 | 7.929 |
 | gemma-3n-e4b-it | 7.929 |
 | deepseek-aiDeepSeek-R1-0528 | 7.914 |

@@ -61,6 +61,7 @@
 | nvidiallama-3.3-nemotron-super-49b-v1 | 6.386 |
 | grok-4-0709 | 6.371 |
 | qwen-turbo-0428 | 6.357 |
+| allenaiolmo-3-7b-think | 6.357 |
 | claude-3-5-sonnet-20241022 | 6.357 |
 | nvidiallama-3.1-nemotron-nano-8b-v1 | 6.357 |
 | deepseekdeepseek-chat-v3.1 | 6.343 |

@@ -133,6 +133,7 @@
 | claude-3-opus-20240229 | 6.986 |
 | Gemini-1.5-Pro-Exp-0827 | 6.986 |
 | qwen38b | 6.986 |
+| allenaiolmo-3-7b-think | 6.957 |
 | ibmgranite41b-h | 6.957 |
 | grok-4-0709 | 6.943 |
 | claude-opus-4-5-20251101 | 6.929 |

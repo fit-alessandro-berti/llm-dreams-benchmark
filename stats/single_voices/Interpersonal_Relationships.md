@@ -140,6 +140,7 @@
 | claude-3-opus-20240229 | 7.100 |
 | qwen30.6b | 7.100 |
 | gemini-2.0-pro-exp-02-05 | 7.086 |
+| allenaiolmo-3-7b-think | 7.071 |
 | grok-4-0709 | 7.071 |
 | mistral-medium-2508 | 7.071 |
 | chatgpt-4o-latest-2025-04-26 | 7.071 |

@@ -69,6 +69,7 @@
 | nvidiaLlama-3.1-Nemotron-70B-Instruct | 9.471 |
 | gemini-2.0-flash-exp | 9.457 |
 | qwenqwen3-235b-a22b-thinking-2507 | 9.457 |
+| allenaiolmo-3-7b-think | 9.457 |
 | claude-3-7-sonnet-20250219 | 9.457 |
 | gpt-4o-2024-08-06 | 9.457 |
 | liquidlfm2-8b-a1b | 9.457 |

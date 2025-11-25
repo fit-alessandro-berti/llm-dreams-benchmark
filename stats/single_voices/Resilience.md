@@ -119,6 +119,7 @@
 | grok-4-1-fast-non-reasoning | 8.414 |
 | qwen31.7b | 8.414 |
 | Grok-3-beta-thinking-20250303 | 8.414 |
+| allenaiolmo-3-7b-think | 8.400 |
 | anthropicclaude-opus-4.1 | 8.386 |
 | qwen-turbo-0428 | 8.386 |
 | gpt-4-1106-preview | 8.386 |

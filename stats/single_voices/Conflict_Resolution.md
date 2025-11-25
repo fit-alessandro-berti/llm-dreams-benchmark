@@ -161,6 +161,7 @@
 | ibmgranite41b-h | 6.786 |
 | z-aiglm-4.5-air | 6.786 |
 | nousresearchhermes-4-70b | 6.771 |
+| allenaiolmo-3-7b-think | 6.771 |
 | gemini-2.5-flash-preview-04-17 | 6.686 |
 | claude-3-5-sonnet-20241022 | 6.686 |
 | meta-llamallama-4-scout | 6.686 |

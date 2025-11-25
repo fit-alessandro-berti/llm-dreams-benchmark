@@ -11,6 +11,7 @@
 | QwenQwen3-14B | 8.371 |
 | qwenqwen3-235b-a22b-thinking-2507 | 8.357 |
 | gemma31b-it-q8_0 | 8.314 |
+| openrouterbert-nebulon-alpha | 8.300 |
 | gemini-2.5-flash-preview-04-17 | 8.286 |
 | gemini-3-pro-preview | 8.229 |
 | QwenQwen3-30B-A3B | 8.229 |
@@ -26,6 +27,7 @@
 | gemini-2.0-flash-lite-preview-02-05 | 8.043 |
 | qwen38b | 8.043 |
 | meta-llamaMeta-Llama-3.1-8B-Instruct | 8.029 |
+| claude-opus-4-5-20251101 | 8.000 |
 | chatgpt-4o-latest-20250215 | 7.986 |
 | mistral-small-2506 | 7.986 |
 | deepseekdeepseek-r1 | 7.986 |

@@ -105,6 +105,7 @@
 | claude-4-opus-20250514 | 7.700 |
 | deepseekdeepseek-r1 | 7.671 |
 | grok-4-1-fast-reasoning | 7.671 |
+| claude-opus-4-5-20251101 | 7.671 |
 | Grok-4-fast-20251111 | 7.671 |
 | qwen34b-instruct-2507-q8_0 | 7.657 |
 | exaone-deep7.8b-fp16 | 7.643 |
@@ -180,6 +181,7 @@
 | QwenQwen3-14B | 6.243 |
 | claude-4-sonnet-20250514 | 6.214 |
 | gemini-2.5-flash-lite-preview-06-17 | 6.200 |
+| openrouterbert-nebulon-alpha | 6.157 |
 | claude-3-5-haiku-20241022 | 5.957 |
 | phi4-mini-reasoning | 5.500 |
 | meta-llamallama-4-maverick | 5.486 |

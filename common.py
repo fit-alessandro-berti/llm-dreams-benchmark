@@ -1,4 +1,4 @@
-ANSWERING_MODEL_NAME = "gemini-3-pro-preview"
+ANSWERING_MODEL_NAME = "openrouter/bert-nebulon-alpha"
 EVALUATING_MODEL_NAME = "gpt-4.1"
 
 

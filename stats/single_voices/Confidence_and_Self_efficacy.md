@@ -153,6 +153,7 @@
 | meta-llamaMeta-Llama-3.1-70B-Instruct | 6.857 |
 | mistral-medium-2508 | 6.857 |
 | QwenQwen3-14B | 6.857 |
+| claude-opus-4-5-20251101 | 6.857 |
 | chatgpt-4o-latest-2025-01-29 | 6.843 |
 | claude-3-opus-20240229 | 6.843 |
 | Gemini-1.5-Pro-Exp-0801 | 6.800 |
@@ -177,6 +178,7 @@
 | nvidiallama-3.1-nemotron-nano-8b-v1 | 6.386 |
 | gemini-3-pro-preview | 6.343 |
 | gemini-2.5-flash-preview-04-17 | 6.329 |
+| openrouterbert-nebulon-alpha | 6.329 |
 | claude-3-5-haiku-20241022 | 6.286 |
 | qwenqwen3-235b-a22b-thinking-2507 | 6.286 |
 | mistral-small-2506 | 6.257 |

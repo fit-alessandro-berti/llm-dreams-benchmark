@@ -143,6 +143,7 @@
 | meta-llamaMeta-Llama-3.1-405B-Instruct | 8.214 |
 | r1-1776 | 8.214 |
 | claude-3-opus-20240229 | 8.200 |
+| claude-opus-4-5-20251101 | 8.200 |
 | meta-llamaMeta-Llama-3.1-70B-Instruct | 8.186 |
 | googlegemma-2-9b-it | 8.171 |
 | meta-llamaLlama-3.2-3B-Instruct | 8.143 |
@@ -162,6 +163,7 @@
 | gemini-2.5-flash-preview-09-2025 | 7.986 |
 | meta-llamaLlama-3.3-70B-Instruct | 7.986 |
 | QwenQwen3-30B-A3B | 7.986 |
+| openrouterbert-nebulon-alpha | 7.971 |
 | meta-llamallama-4-scout | 7.957 |
 | qwenqwen3-next-80b-a3b-instruct | 7.957 |
 | googlegemma-2-2b-it | 7.943 |

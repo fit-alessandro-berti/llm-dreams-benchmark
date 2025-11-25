@@ -116,6 +116,7 @@
 | nvidianemotron-nano-9b-v2                  | **407.9** | 7.0 $\pm$ 0.5               | 7.2 $\pm$ 0.4         | 8.9 $\pm$ 0.2            | 9.9 $\pm$ 0.1  | 7.5 $\pm$ 0.5                 | 7.9 $\pm$ 0.3                  | 8.6 $\pm$ 0.4         | 6.9 $\pm$ 0.9         | 9.2 $\pm$ 0.2  | 8.5 $\pm$ 0.1            | 7.2 $\pm$ 0.4     | 6.4 $\pm$ 0.4      | 8.4 $\pm$ 0.4    | 7.5 $\pm$ 0.3    | 9.0 $\pm$ 0.1 |
 | qwen-turbo-0428                            | **407.2** | 7.5 $\pm$ 0.0               | 6.6 $\pm$ 0.2         | 8.6 $\pm$ 0.2            | 9.8 $\pm$ 0.0  | 7.7 $\pm$ 0.3                 | 8.0 $\pm$ 0.2                  | 8.2 $\pm$ 0.4         | 7.9 $\pm$ 0.3         | 9.0 $\pm$ 0.1  | 8.6 $\pm$ 0.1            | 7.1 $\pm$ 0.5     | 6.8 $\pm$ 0.2      | 8.3 $\pm$ 0.2    | 8.0 $\pm$ 0.2    | 9.0 $\pm$ 0.1 |
 | grok-4-1-fast-non-reasoning                | **407.1** | 7.3 $\pm$ 0.3               | 6.7 $\pm$ 0.5         | 9.0 $\pm$ 0.0            | 10.0 $\pm$ 0.1 | 7.2 $\pm$ 0.2                 | 7.8 $\pm$ 0.2                  | 7.8 $\pm$ 0.6         | 8.4 $\pm$ 0.3         | 9.2 $\pm$ 0.2  | 8.7 $\pm$ 0.2            | 6.8 $\pm$ 0.2     | 6.6 $\pm$ 0.2      | 8.3 $\pm$ 0.3    | 7.3 $\pm$ 0.3    | 8.8 $\pm$ 0.2 |
+| claude-opus-4-5-20251101                   | **406.6** | 6.8 $\pm$ 0.9               | 7.0 $\pm$ 0.9         | 8.8 $\pm$ 0.2            | 10.0 $\pm$ 0.1 | 7.5 $\pm$ 0.9                 | 7.3 $\pm$ 0.4                  | 8.6 $\pm$ 0.5         | 6.6 $\pm$ 1.2         | 9.2 $\pm$ 0.2  | 8.0 $\pm$ 0.3            | 6.5 $\pm$ 0.7     | 5.6 $\pm$ 1.0      | 8.6 $\pm$ 0.2    | 7.6 $\pm$ 0.4    | 8.8 $\pm$ 0.2 |
 | nvidiallama-3.3-nemotron-super-49b-v1      | **406.5** | 8.0 $\pm$ 0.5               | 6.8 $\pm$ 0.4         | 8.9 $\pm$ 0.2            | 9.5 $\pm$ 0.0  | 8.0 $\pm$ 0.0                 | 7.6 $\pm$ 0.4                  | 8.4 $\pm$ 0.2         | 8.0 $\pm$ 0.4         | 9.0 $\pm$ 0.0  | 8.5 $\pm$ 0.0            | 7.0 $\pm$ 0.5     | 6.8 $\pm$ 0.2      | 8.2 $\pm$ 0.2    | 8.2 $\pm$ 0.2    | 8.8 $\pm$ 0.2 |
 | smollm21.7b-instruct-q6_K                  | **406.0** | 7.4 $\pm$ 0.2               | 7.1 $\pm$ 0.2         | 8.5 $\pm$ 0.0            | 9.5 $\pm$ 0.0  | 8.1 $\pm$ 0.2                 | 7.6 $\pm$ 0.2                  | 7.6 $\pm$ 0.4         | 8.4 $\pm$ 0.2         | 8.6 $\pm$ 0.2  | 9.0 $\pm$ 0.0            | 7.6 $\pm$ 0.2     | 7.0 $\pm$ 0.0      | 8.1 $\pm$ 0.2    | 8.1 $\pm$ 0.2    | 9.0 $\pm$ 0.4 |
 | gemini-2.5-flash-lite-preview-06-17        | **405.3** | 6.8 $\pm$ 0.4               | 6.8 $\pm$ 0.8         | 8.6 $\pm$ 0.2            | 10.0 $\pm$ 0.1 | 7.4 $\pm$ 0.7                 | 8.0 $\pm$ 0.5                  | 7.1 $\pm$ 0.9         | 7.4 $\pm$ 0.6         | 9.0 $\pm$ 0.0  | 8.6 $\pm$ 0.1            | 6.4 $\pm$ 0.5     | 6.5 $\pm$ 0.6      | 8.1 $\pm$ 0.2    | 7.4 $\pm$ 0.3    | 8.9 $\pm$ 0.2 |
@@ -181,6 +182,7 @@
 | gemma34b-it-q8_0                           | **356.5** | 8.4 $\pm$ 0.2               | 4.8 $\pm$ 0.4         | 7.9 $\pm$ 0.2            | 10.0 $\pm$ 0.0 | 6.1 $\pm$ 0.2                 | 5.9 $\pm$ 0.2                  | 7.1 $\pm$ 0.4         | 8.2 $\pm$ 0.2         | 8.2 $\pm$ 0.2  | 7.6 $\pm$ 0.4            | 7.5 $\pm$ 0.0     | 6.8 $\pm$ 0.2      | 8.4 $\pm$ 0.2    | 6.4 $\pm$ 0.5    | 7.9 $\pm$ 0.2 |
 | gemini-2.0-flash-lite-preview-02-05        | **354.1** | 8.5 $\pm$ 0.0               | 4.5 $\pm$ 0.0         | 7.8 $\pm$ 0.2            | 9.8 $\pm$ 0.0  | 6.6 $\pm$ 0.4                 | 5.9 $\pm$ 0.4                  | 5.8 $\pm$ 0.8         | 8.8 $\pm$ 0.0         | 8.0 $\pm$ 0.2  | 8.1 $\pm$ 0.6            | 8.3 $\pm$ 0.0     | 7.1 $\pm$ 0.1      | 8.4 $\pm$ 0.2    | 7.4 $\pm$ 0.3    | 8.1 $\pm$ 0.1 |
 | QwenQwen3-235B-A22B                        | **353.6** | 8.4 $\pm$ 0.1               | 4.7 $\pm$ 0.4         | 8.2 $\pm$ 0.3            | 9.8 $\pm$ 0.2  | 6.0 $\pm$ 0.5                 | 6.8 $\pm$ 0.3                  | 6.1 $\pm$ 0.5         | 8.4 $\pm$ 0.4         | 8.3 $\pm$ 0.2  | 8.3 $\pm$ 0.2            | 8.1 $\pm$ 0.4     | 7.5 $\pm$ 0.2      | 8.2 $\pm$ 0.3    | 6.2 $\pm$ 0.7    | 8.0 $\pm$ 0.3 |
+| openrouterbert-nebulon-alpha               | **351.2** | 8.5 $\pm$ 0.0               | 4.5 $\pm$ 0.4         | 8.1 $\pm$ 0.2            | 9.8 $\pm$ 0.2  | 6.2 $\pm$ 0.4                 | 6.2 $\pm$ 0.4                  | 6.6 $\pm$ 0.5         | 8.6 $\pm$ 0.1         | 8.1 $\pm$ 0.4  | 7.8 $\pm$ 0.2            | 8.2 $\pm$ 0.3     | 7.3 $\pm$ 0.3      | 8.4 $\pm$ 0.2    | 6.6 $\pm$ 0.1    | 7.7 $\pm$ 0.2 |
 | gemma31b-it-q8_0                           | **351.1** | 8.0 $\pm$ 0.5               | 5.1 $\pm$ 0.6         | 8.0 $\pm$ 0.0            | 9.9 $\pm$ 0.1  | 5.9 $\pm$ 0.4                 | 5.9 $\pm$ 0.5                  | 6.6 $\pm$ 0.4         | 7.9 $\pm$ 0.4         | 8.4 $\pm$ 0.2  | 7.4 $\pm$ 0.2            | 7.5 $\pm$ 0.4     | 7.0 $\pm$ 0.4      | 8.5 $\pm$ 0.0    | 5.9 $\pm$ 0.6    | 7.9 $\pm$ 0.2 |
 | mistral-small-2506                         | **346.5** | 8.5 $\pm$ 0.0               | 4.5 $\pm$ 0.4         | 7.8 $\pm$ 0.2            | 9.6 $\pm$ 0.1  | 6.1 $\pm$ 0.4                 | 6.8 $\pm$ 0.2                  | 5.4 $\pm$ 0.6         | 8.4 $\pm$ 0.3         | 8.0 $\pm$ 0.6  | 7.8 $\pm$ 0.3            | 8.0 $\pm$ 0.0     | 7.2 $\pm$ 0.2      | 8.0 $\pm$ 0.1    | 6.5 $\pm$ 0.4    | 7.6 $\pm$ 0.3 |
 | ibmgranite4350m-h                          | **346.0** | 7.4 $\pm$ 0.2               | 5.1 $\pm$ 0.2         | 7.4 $\pm$ 0.4            | 9.0 $\pm$ 0.4  | 6.0 $\pm$ 0.0                 | 5.8 $\pm$ 0.2                  | 6.2 $\pm$ 0.4         | 7.4 $\pm$ 0.2         | 7.4 $\pm$ 0.4  | 7.2 $\pm$ 0.4            | 7.2 $\pm$ 0.2     | 6.6 $\pm$ 0.2      | 7.8 $\pm$ 0.2    | 6.5 $\pm$ 0.0    | 7.5 $\pm$ 0.0 |
@@ -704,6 +706,32 @@
 | Cognitive Load               | 7.5 $\pm$ 0.4      |
 | Social Support               | 7.8 $\pm$ 0.6      |
 | Resilience                   | 8.6 $\pm$ 0.1      |
+
+
+
+
+
+
+### claude-opus-4-5-20251101
+
+
+| Personality Trait            | Score (1.0-10.0)   |
+|:-----------------------------|:-------------------|
+| Anxiety and Stress Levels    | 6.8 $\pm$ 0.9      |
+| Emotional Stability          | 7.0 $\pm$ 0.9      |
+| Problem-solving Skills       | 8.8 $\pm$ 0.2      |
+| Creativity                   | 10.0 $\pm$ 0.1     |
+| Interpersonal Relationships  | 7.5 $\pm$ 0.9      |
+| Confidence and Self-efficacy | 7.3 $\pm$ 0.4      |
+| Conflict Resolution          | 8.6 $\pm$ 0.5      |
+| Work-related Stress          | 6.6 $\pm$ 1.2      |
+| Adaptability                 | 9.2 $\pm$ 0.2      |
+| Achievement Motivation       | 8.0 $\pm$ 0.3      |
+| Fear of Failure              | 6.5 $\pm$ 0.7      |
+| Need for Control             | 5.6 $\pm$ 1.0      |
+| Cognitive Load               | 8.6 $\pm$ 0.2      |
+| Social Support               | 7.6 $\pm$ 0.4      |
+| Resilience                   | 8.8 $\pm$ 0.2      |
 
 
 
@@ -4032,6 +4060,32 @@
 | Cognitive Load               | 8.2 $\pm$ 0.2      |
 | Social Support               | 7.4 $\pm$ 0.2      |
 | Resilience                   | 9.0 $\pm$ 0.0      |
+
+
+
+
+
+
+### openrouterbert-nebulon-alpha
+
+
+| Personality Trait            | Score (1.0-10.0)   |
+|:-----------------------------|:-------------------|
+| Anxiety and Stress Levels    | 8.5 $\pm$ 0.0      |
+| Emotional Stability          | 4.5 $\pm$ 0.4      |
+| Problem-solving Skills       | 8.1 $\pm$ 0.2      |
+| Creativity                   | 9.8 $\pm$ 0.2      |
+| Interpersonal Relationships  | 6.2 $\pm$ 0.4      |
+| Confidence and Self-efficacy | 6.2 $\pm$ 0.4      |
+| Conflict Resolution          | 6.6 $\pm$ 0.5      |
+| Work-related Stress          | 8.6 $\pm$ 0.1      |
+| Adaptability                 | 8.1 $\pm$ 0.4      |
+| Achievement Motivation       | 7.8 $\pm$ 0.2      |
+| Fear of Failure              | 8.2 $\pm$ 0.3      |
+| Need for Control             | 7.3 $\pm$ 0.3      |
+| Cognitive Load               | 8.4 $\pm$ 0.2      |
+| Social Support               | 6.6 $\pm$ 0.1      |
+| Resilience                   | 7.7 $\pm$ 0.2      |
 
 
 

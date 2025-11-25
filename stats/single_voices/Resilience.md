@@ -144,6 +144,7 @@
 | meta-llamaMeta-Llama-3.1-405B-Instruct | 8.200 |
 | claude-3-opus-20240229 | 8.157 |
 | qwen34b | 8.157 |
+| claude-opus-4-5-20251101 | 8.129 |
 | mistral-medium-2508 | 8.129 |
 | z-aiglm-4.5-air | 8.129 |
 | meta-llamaLlama-3.2-3B-Instruct | 8.129 |
@@ -185,5 +186,6 @@
 | anthropicclaude-sonnet-4.5 | 7.329 |
 | phi4-mini-reasoning | 7.286 |
 | claude-3-5-haiku-20241022 | 7.257 |
+| openrouterbert-nebulon-alpha | 7.229 |
 | ibmgranite4350m-h | 7.000 |
 | mistral-small-2506 | 6.914 |

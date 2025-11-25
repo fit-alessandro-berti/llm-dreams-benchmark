@@ -3,6 +3,7 @@
 | Model | Average |
 |:--|--:|
 | moonshotaikimi-k2-thinking | 8.357 |
+| openrouterbert-nebulon-alpha | 8.343 |
 | gemini-2.5-flash-preview-09-2025 | 8.214 |
 | gemini-2.0-flash-lite-preview-02-05 | 8.171 |
 | anthropicclaude-sonnet-4.5 | 8.143 |
@@ -99,6 +100,7 @@
 | devstral-small-2505 | 6.614 |
 | gemma-3-27b-it | 6.600 |
 | phi4-mini-reasoning | 6.600 |
+| claude-opus-4-5-20251101 | 6.600 |
 | gemini-1.5-flash-8b | 6.600 |
 | chatgpt-4o-latest-2025-03-26 | 6.586 |
 | gpt-4-1106-preview | 6.586 |

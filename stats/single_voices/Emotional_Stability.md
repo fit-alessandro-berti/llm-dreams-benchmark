@@ -127,6 +127,7 @@
 | magistral-small-2506 | 6.429 |
 | gemma-3n-e4b-it | 6.400 |
 | gemini-2.5-pro-preview-05-06 | 6.386 |
+| claude-opus-4-5-20251101 | 6.371 |
 | gemini-2.5-flash-lite-preview-06-17 | 6.371 |
 | deepseekdeepseek-r1 | 6.343 |
 | grok-4-0709 | 6.343 |
@@ -187,3 +188,4 @@
 | gemini-2.5-pro-exp-03-25 | 5.100 |
 | mistral-small-2506 | 4.929 |
 | moonshotaikimi-k2-thinking | 4.886 |
+| openrouterbert-nebulon-alpha | 4.886 |

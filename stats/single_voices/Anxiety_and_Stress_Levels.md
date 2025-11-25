@@ -4,6 +4,7 @@
 |:--|--:|
 | gemini-2.5-flash-preview-09-2025 | 8.500 |
 | moonshotaikimi-k2-thinking | 8.457 |
+| openrouterbert-nebulon-alpha | 8.443 |
 | gemini-2.0-flash-lite-preview-02-05 | 8.329 |
 | mistral-small-2506 | 8.271 |
 | qwenqwen3-235b-a22b-thinking-2507 | 8.271 |
@@ -83,6 +84,7 @@
 | qwen30.6b | 7.014 |
 | claude-3-7-sonnet-20250219 | 7.000 |
 | deepseek-aiDeepSeek-R1-Zero | 6.986 |
+| claude-opus-4-5-20251101 | 6.986 |
 | gemini-1.5-flash-002 | 6.957 |
 | nousresearchhermes-4-405b | 6.943 |
 | exaone-deep7.8b-fp16 | 6.943 |

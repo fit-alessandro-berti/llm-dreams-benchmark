@@ -21,6 +21,7 @@
 | grok-4-1-fast-reasoning | 9.629 |
 | o3-mini-20250131-HIGH | 9.629 |
 | qwenqwen3-30b-a3b-instruct-2507 | 9.629 |
+| claude-opus-4-5-20251101 | 9.629 |
 | claude-3-5-sonnet-20241022 | 9.614 |
 | Grok-4.1-20251118 | 9.614 |
 | moonshotaikimi-linear-48b-a3b-instruct | 9.614 |
@@ -99,6 +100,7 @@
 | gpt-5-chat-latest-2025-08-07 | 9.386 |
 | meta-llamaMeta-Llama-3.1-70B-Instruct | 9.386 |
 | microsoftPhi-3-medium-4k-instruct | 9.386 |
+| openrouterbert-nebulon-alpha | 9.386 |
 | chatgpt-4o-latest-20250215 | 9.371 |
 | deepseek-aiDeepSeek-R1-0528 | 9.371 |
 | o1-2024-12-17 | 9.371 |

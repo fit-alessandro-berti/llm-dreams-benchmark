@@ -8,6 +8,7 @@
 | ibmgranite41b-h | 6.814 |
 | deepseekdeepseek-r1 | 6.771 |
 | qwenqwen3-235b-a22b-thinking-2507 | 6.757 |
+| openrouterbert-nebulon-alpha | 6.757 |
 | tngtechdeepseek-r1t-chimerafree | 6.729 |
 | qwen-plus-0428 | 6.714 |
 | claude-3-5-haiku-20241022 | 6.700 |
@@ -169,6 +170,7 @@
 | chatgpt-4o-latest-2025-03-26 | 5.486 |
 | Grok-4-fast | 5.471 |
 | qwenqwen3-coder | 5.471 |
+| claude-opus-4-5-20251101 | 5.471 |
 | gpt-5-mini-2025-08-07 | 5.414 |
 | gemma-3-27b-it | 5.414 |
 | openaigpt-oss-120b | 5.414 |

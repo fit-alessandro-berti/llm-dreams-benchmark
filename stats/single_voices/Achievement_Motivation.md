@@ -163,6 +163,7 @@
 | qwenqwen3-235b-a22b-thinking-2507 | 7.971 |
 | Gpt-5.1-Pro-20251120 | 7.929 |
 | qwenqwen3-next-80b-a3b-instruct | 7.929 |
+| openrouterbert-nebulon-alpha | 7.900 |
 | claude-3-5-sonnet-20241022 | 7.871 |
 | phi4-mini-reasoning | 7.871 |
 | Qwen-QwQ-32B | 7.871 |
@@ -173,6 +174,7 @@
 | claude-4-sonnet-20250514 | 7.743 |
 | qwen34b-instruct-2507-q8_0 | 7.700 |
 | claude-3-5-haiku-20241022 | 7.700 |
+| claude-opus-4-5-20251101 | 7.686 |
 | gemini-2.5-flash-preview-09-2025 | 7.686 |
 | mistral-small-2506 | 7.600 |
 | nvidiallama-3.1-nemotron-nano-8b-v1 | 7.600 |

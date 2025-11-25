@@ -134,6 +134,7 @@
 | qwen38b | 6.986 |
 | ibmgranite41b-h | 6.957 |
 | grok-4-0709 | 6.943 |
+| claude-opus-4-5-20251101 | 6.929 |
 | deepseek-aiDeepSeek-R1-0528 | 6.929 |
 | gpt-5-chat-latest-2025-08-19 | 6.929 |
 | mistral-medium-2505 | 6.929 |
@@ -183,6 +184,7 @@
 | Qwen-QwQ-32B | 6.000 |
 | mistral-small-2506 | 5.943 |
 | QwenQwen3-235B-A22B | 5.743 |
+| openrouterbert-nebulon-alpha | 5.714 |
 | ibmgranite4350m-h | 5.414 |
 | gemini-2.5-flash-preview-09-2025 | 5.414 |
 | gemma31b-it-q8_0 | 5.371 |

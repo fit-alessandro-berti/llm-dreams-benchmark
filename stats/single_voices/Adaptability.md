@@ -126,6 +126,7 @@
 | gpt-5-chat-latest-2025-08-19 | 8.643 |
 | Gemini-1.5-Pro-Exp-0827 | 8.629 |
 | qwen-turbo-0428 | 8.629 |
+| claude-opus-4-5-20251101 | 8.629 |
 | minimaxminimax-m2free | 8.629 |
 | qwen2.5-7b-instruct-1m | 8.629 |
 | qwenqwen3-235b-a22b-07-25 | 8.629 |
@@ -177,6 +178,7 @@
 | qwenqwen3-235b-a22b-thinking-2507 | 8.086 |
 | anthropicclaude-sonnet-4.5 | 8.057 |
 | gemma31b-it-q8_0 | 8.000 |
+| openrouterbert-nebulon-alpha | 8.000 |
 | gemma34b-it-q8_0 | 7.971 |
 | meta-llamaMeta-Llama-3.1-8B-Instruct | 7.971 |
 | claude-3-5-haiku-20241022 | 7.957 |

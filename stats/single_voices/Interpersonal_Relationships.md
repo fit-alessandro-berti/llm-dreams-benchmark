@@ -142,6 +142,7 @@
 | grok-4-0709 | 7.071 |
 | mistral-medium-2508 | 7.071 |
 | chatgpt-4o-latest-2025-04-26 | 7.071 |
+| claude-opus-4-5-20251101 | 7.057 |
 | deepseek-aiDeepSeek-R1-0528 | 7.043 |
 | Gemini-1.5-Pro-Exp-0827 | 7.000 |
 | claude-3-5-sonnet-20241022 | 6.971 |
@@ -179,6 +180,7 @@
 | mistral-small-2506 | 6.200 |
 | gemini-2.5-pro-exp-03-25 | 6.171 |
 | gemini-2.5-flash-preview-04-17 | 6.143 |
+| openrouterbert-nebulon-alpha | 6.129 |
 | QwenQwen3-235B-A22B | 6.086 |
 | tngtechdeepseek-r1t-chimerafree | 6.071 |
 | gemini-3-pro-preview | 6.029 |

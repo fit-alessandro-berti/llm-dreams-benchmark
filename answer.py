@@ -272,7 +272,8 @@ for i in range(NUMBER_EXECUTIONS):
                     response_message = perform_query(
                         "You are dreaming. Can you complete the following dream?\n\n" + open(dream_path, "r").read())
 
-                    written = written or write_answer(response_message, answer_path)
+                    res = write_answer(response_message, answer_path)
+                    written = written or res
                     time.sleep(TIME_BETWEEN_ANSWERS)
 
             if not written:

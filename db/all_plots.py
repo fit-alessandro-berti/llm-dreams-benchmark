@@ -6,7 +6,7 @@ def __strip(x):
     return x.lower().replace("-", "").replace(" ", "_")
 
 
-for x in ["size", "date"]:
+for x in ["total_params", "active_params", "date"]:
     for y in ["MHS", "Anxiety and Stress Levels",
               "Emotional Stability",
               "Problem-solving Skills",

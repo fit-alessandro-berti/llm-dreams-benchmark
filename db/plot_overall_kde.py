@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Plot KDE-style trends from OVERALL.json against model metadata (dates or sizes).
+Plot KDE-style trends from OVERALL.json against model metadata (dates or params).
 
 Examples
 --------
@@ -10,15 +10,16 @@ From the project root:
   python db/plot_overall_kde.py --x date --y MHS \
       --output plots/mhs_vs_date.png
 
-  # Creativity vs model size (log10 of active params)
-  python db/plot_overall_kde.py --x size --y Creativity \
-      --output plots/creativity_vs_size.png
+  # Creativity vs model active params (log10)
+  python db/plot_overall_kde.py --x active_params --y Creativity \
+      --output plots/creativity_vs_active.png
 
 Notes
 -----
 - X-axis:
     * "date": days since the earliest model date in db/model_dates.json
-    * "size": log10 of active parameters from db/model_size.json
+    * "active_params": log10 of active parameters (last entry in list) from db/model_size.json
+    * "total_params": log10 of total parameters (first entry in list) from db/model_size.json
 - Y-axis:
     * "MHS" (overall score from OVERALL.json)
     * or any personality dimension name present in OVERALL.json, e.g.
@@ -207,14 +208,20 @@ def build_xy_date(overall_data: Sequence[dict],
     return x_vals, y_vals, min_date
 
 
-def build_xy_size(overall_data: Sequence[dict],
-                  metric_name: str,
-                  model_sizes_path: Path) -> Tuple[np.ndarray, np.ndarray]:
+def build_xy_params(overall_data: Sequence[dict],
+                    metric_name: str,
+                    model_sizes_path: Path,
+                    param_type: str) -> Tuple[np.ndarray, np.ndarray]:
     sizes_json = load_json(model_sizes_path)
     if not isinstance(sizes_json, dict):
-        print(f"Error: {model_sizes_path} must contain an object mapping model -> [active_params, ...].",
+        print(f"Error: {model_sizes_path} must contain an object mapping model -> list of param values.",
               file=sys.stderr)
         raise SystemExit(1)
+
+    if param_type == "total":
+        idx = 0
+    else:  # active
+        idx = -1
 
     points = []
     missing = []
@@ -229,35 +236,35 @@ def build_xy_size(overall_data: Sequence[dict],
             missing.append(model)
             continue
 
-        active = size_list[0]
+        param = size_list[idx]
         try:
-            active_f = float(active)
+            param_f = float(param)
         except (TypeError, ValueError):
-            invalid.append((model, active))
+            invalid.append((model, param))
             continue
 
-        if active_f <= 0:
-            invalid.append((model, active))
+        if param_f <= 0:
+            invalid.append((model, param))
             continue
 
-        log_size = math.log10(active_f)
-        points.append((model, log_size, value))
+        log_param = math.log10(param_f)
+        points.append((model, log_param, value))
 
     if missing:
-        print(f"Warning: skipped {len(missing)} models without a size in {model_sizes_path.name}.",
+        print(f"Warning: skipped {len(missing)} models without params in {model_sizes_path.name}.",
               file=sys.stderr)
     if invalid:
-        print(f"Warning: skipped {len(invalid)} models with invalid or non-positive sizes:",
+        print(f"Warning: skipped {len(invalid)} models with invalid or non-positive {param_type} params:",
               file=sys.stderr)
-        for model, s in invalid:
-            print(f"  - {model}: {s!r}", file=sys.stderr)
+        for model, p in invalid:
+            print(f"  - {model}: {p!r}", file=sys.stderr)
 
     if not points:
-        print("Error: no usable (size, metric) points found. "
-              "Check db/model_size.json.", file=sys.stderr)
+        print(f"Error: no usable ({param_type}_params, metric) points found. "
+              f"Check db/model_size.json.", file=sys.stderr)
         raise SystemExit(1)
 
-    x_vals = np.array([log_size for _, log_size, _ in points], dtype=float)
+    x_vals = np.array([log_param for _, log_param, _ in points], dtype=float)
     y_vals = np.array([float(v) for _, _, v in points], dtype=float)
 
     return x_vals, y_vals
@@ -269,16 +276,17 @@ def build_xy_size(overall_data: Sequence[dict],
 
 def parse_args():
     parser = argparse.ArgumentParser(
-        description="Plot KDE-style trends from OVERALL.json vs model dates or sizes."
+        description="Plot KDE-style trends from OVERALL.json vs model dates or params."
     )
 
     parser.add_argument(
         "--x", "--x-axis",
         dest="x_axis",
-        choices=["date", "size"],
+        choices=["date", "active_params", "total_params"],
         default="date",
         help="X-axis perspective: 'date' (days since earliest model) or "
-             "'size' (log10 of active params). Default: date.",
+             "'active_params'/'total_params' (log10 of params from model_size.json). "
+             "Default: date.",
     )
     parser.add_argument(
         "--y", "--metric",
@@ -314,7 +322,7 @@ def parse_args():
         type=Path,
         default=DEFAULT_MODEL_SIZES,
         help=f"Path to model_size.json (default: {DEFAULT_MODEL_SIZES}). "
-             "Used when --x size.",
+             "Used when --x active_params or total_params.",
     )
     parser.add_argument(
         "-b", "--bandwidth",
@@ -370,9 +378,10 @@ def main():
         x_label = f"Model release (days since {min_date.isoformat()})"
         x_descriptor = "release date"
     else:
-        x, y = build_xy_size(overall_data, metric_name, args.model_sizes_path)
-        x_label = "Active parameters (log10 of #params)"
-        x_descriptor = "model size (log10 params)"
+        param_type = args.x_axis.split("_")[0]
+        x, y = build_xy_params(overall_data, metric_name, args.model_sizes_path, param_type)
+        x_label = f"{param_type.capitalize()} parameters (log10 of #params)"
+        x_descriptor = f"model {param_type} params"
 
     if x.size == 0:
         print("Error: no data points available after filtering.", file=sys.stderr)

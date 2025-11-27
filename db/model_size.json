@@ -645,7 +645,10 @@
   "smollm21.7b-instruct-q6_K": [
     1.7
   ],
-  "tngtechdeepseek-r1t-chimerafree": [],
+  "tngtechdeepseek-r1t-chimerafree": [
+    671,
+    37
+  ],
   "x-aigrok-code-fast-1": [
     300,
     80

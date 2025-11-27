@@ -57,16 +57,36 @@
   "QwenQwen3-32B": [
     32
   ],
-  "ai21jamba-large-1.7": [398,
-  94],
-  "ai21jamba-mini-1.7": [52,
-  12],
-  "allenaiolmo-3-7b-instruct": [],
-  "allenaiolmo-3-7b-think": [],
-  "anthropicclaude-opus-4.1": [],
-  "anthropicclaude-sonnet-4.5": [],
-  "baiduernie-4.5-21b-a3b": [],
-  "baiduernie-4.5-300b-a47b": [],
+  "ai21jamba-large-1.7": [
+    398,
+    94
+  ],
+  "ai21jamba-mini-1.7": [
+    52,
+    12
+  ],
+  "allenaiolmo-3-7b-instruct": [
+    7
+  ],
+  "allenaiolmo-3-7b-think": [
+    7
+  ],
+  "anthropicclaude-opus-4.1": [
+    2000,
+    250
+  ],
+  "anthropicclaude-sonnet-4.5": [
+    300,
+    70
+  ],
+  "baiduernie-4.5-21b-a3b": [
+    21,
+    3
+  ],
+  "baiduernie-4.5-300b-a47b": [
+    300,
+    47
+  ],
   "chatgpt-4o-latest-2024-11-20": [
     400
   ],
@@ -146,18 +166,34 @@
     671,
     37
   ],
-  "devstral-small-2505": [],
-  "exaone-deep7.8b-fp16": [],
-  "falcon310b-instruct-q8_0": [],
-  "falcon33b-instruct-q8_0": [],
-  "falcon37b-instruct-q8_0": [],
+  "devstral-small-2505": [
+    24
+  ],
+  "exaone-deep7.8b-fp16": [
+    7.8
+  ],
+  "falcon310b-instruct-q8_0": [
+    10
+  ],
+  "falcon33b-instruct-q8_0": [
+    3
+  ],
+  "falcon37b-instruct-q8_0": [
+    7
+  ],
   "gemini-1.5-flash-002": [],
   "gemini-1.5-flash-8b": [
     8,
     2.5
   ],
-  "gemini-2.0-flash-exp": [],
-  "gemini-2.0-flash-lite-preview-02-05": [],
+  "gemini-2.0-flash-exp": [
+    40,
+    18
+  ],
+  "gemini-2.0-flash-lite-preview-02-05": [
+    10,
+    2.5
+  ],
   "gemini-2.0-pro-exp-02-05": [],
   "gemini-2.5-flash-lite-preview-06-17": [
     10,
@@ -198,16 +234,39 @@
   "gemma-3-27b-it": [
     27
   ],
-  "gemma-3n-e4b-it": [],
-  "gemma312b-it-q8_0": [],
-  "gemma31b-it-q8_0": [],
-  "gemma34b-it-q8_0": [],
-  "googlegemma-2-2b-it": [],
-  "googlegemma-2-9b-it": [],
-  "gpt-3.5-turbo": [],
-  "gpt-4-0125-preview": [],
-  "gpt-4-0613": [],
-  "gpt-4-1106-preview": [],
+  "gemma-3n-e4b-it": [
+    4
+  ],
+  "gemma312b-it-q8_0": [
+    12
+  ],
+  "gemma31b-it-q8_0": [
+    1
+  ],
+  "gemma34b-it-q8_0": [
+    4
+  ],
+  "googlegemma-2-2b-it": [
+    2
+  ],
+  "googlegemma-2-9b-it": [
+    9
+  ],
+  "gpt-3.5-turbo": [
+    20
+  ],
+  "gpt-4-0125-preview": [
+    1800,
+    280
+  ],
+  "gpt-4-0613": [
+    1800,
+    280
+  ],
+  "gpt-4-1106-preview": [
+    1800,
+    280
+  ],
   "gpt-4-turbo-2024-04-09": [
     1800,
     280
@@ -264,11 +323,23 @@
     200,
     32
   ],
-  "granite3.28b-instruct-q4_K_M": [],
-  "granite4micro": [],
-  "granite4micro-h": [],
-  "granite4small-h": [],
-  "granite4tiny-h": [],
+  "granite3.28b-instruct-q4_K_M": [
+    8
+  ],
+  "granite4micro": [
+    3
+  ],
+  "granite4micro-h": [
+    3
+  ],
+  "granite4small-h": [
+    32,
+    9
+  ],
+  "granite4tiny-h": [
+    7,
+    1
+  ],
   "grok-2-1212": [
     400
   ],
@@ -294,7 +365,9 @@
   "ibmgranite4350m-h": [
     0.35
   ],
-  "inceptionmercury": [],
+  "inceptionmercury": [
+    15
+  ],
   "liquidlfm-2.2-6b": [
     6
   ],
@@ -323,21 +396,30 @@
   "meta-llamaMeta-Llama-3.1-70B-Instruct": [
     70
   ],
-  "meta-llamaMeta-Llama-3.1-8B-Instruct": [8],
+  "meta-llamaMeta-Llama-3.1-8B-Instruct": [
+    8
+  ],
   "meta-llamallama-4-maverick": [
     400,
-    17],
-  "meta-llamallama-4-scout": [
-    100, 17
+    17
   ],
-  "microsoftPhi-3-medium-4k-instruct": [],
+  "meta-llamallama-4-scout": [
+    100,
+    17
+  ],
+  "microsoftPhi-3-medium-4k-instruct": [
+    14
+  ],
   "microsoftWizardLM-2-8x22B": [
     176
   ],
   "microsoftphi-4": [
-
+    14
   ],
-  "minimaxminimax-m2free": [],
+  "minimaxminimax-m2free": [
+    230,
+    10
+  ],
   "ministral-3b-2410": [
     3
   ],
@@ -368,53 +450,159 @@
   "mistral-small-2506": [
     24
   ],
-  "moonshotaikimi-k2": [],
-  "moonshotaikimi-k2-thinking": [],
-  "moonshotaikimi-linear-48b-a3b-instruct": [],
-  "nousresearchhermes-4-405b": [],
-  "nousresearchhermes-4-70b": [],
-  "nvidiaLlama-3.1-Nemotron-70B-Instruct": [],
-  "nvidiallama-3.1-nemotron-nano-8b-v1": [],
-  "nvidiallama-3.1-nemotron-ultra-253b-v1free": [],
-  "nvidiallama-3.3-nemotron-super-49b-v1": [],
-  "nvidianemotron-nano-9b-v2": [],
-  "o1-2024-12-05": [],
-  "o1-2024-12-17": [],
-  "o1-mini": [],
-  "o1-preview-2024-09-12": [],
-  "o1-pro-2024-12-05": [],
-  "o1-pro-2024-12-17": [],
-  "o3-2025-04-16": [],
-  "o3-mini-20250131-HIGH": [],
-  "o3-pro-2025-06-10": [],
-  "o4-mini-2025-04-16": [],
-  "open-mistral-7b": [],
-  "open-mistral-nemo": [],
-  "open-mixtral-8x22b": [],
-  "open-mixtral-8x7b": [],
-  "openaigpt-oss-120b": [],
-  "openaigpt-oss-20b": [],
+  "moonshotaikimi-k2": [
+    1000,
+    32
+  ],
+  "moonshotaikimi-k2-thinking": [
+    1000,
+    32
+  ],
+  "moonshotaikimi-linear-48b-a3b-instruct": [
+    48,
+    3
+  ],
+  "nousresearchhermes-4-405b": [
+    405
+  ],
+  "nousresearchhermes-4-70b": [
+    70
+  ],
+  "nvidiaLlama-3.1-Nemotron-70B-Instruct": [
+    70
+  ],
+  "nvidiallama-3.1-nemotron-nano-8b-v1": [
+    8
+  ],
+  "nvidiallama-3.1-nemotron-ultra-253b-v1free": [
+    253
+  ],
+  "nvidiallama-3.3-nemotron-super-49b-v1": [
+    49
+  ],
+  "nvidianemotron-nano-9b-v2": [
+    9
+  ],
+  "o1-2024-12-05": [
+    300
+  ],
+  "o1-2024-12-17": [
+    300
+  ],
+  "o1-mini": [
+    60,
+    8
+  ],
+  "o1-preview-2024-09-12": [
+    300
+  ],
+  "o1-pro-2024-12-05": [
+    300
+  ],
+  "o1-pro-2024-12-17": [
+    300
+  ],
+  "o3-2025-04-16": [
+    200,
+    32
+  ],
+  "o3-mini-20250131-HIGH": [
+    200,
+    32
+  ],
+  "o3-pro-2025-06-10": [
+    200,
+    23
+  ],
+  "o4-mini-2025-04-16": [
+    60,
+    8
+  ],
+  "open-mistral-7b": [
+    7
+  ],
+  "open-mistral-nemo": [
+    12
+  ],
+  "open-mixtral-8x22b": [
+    176
+  ],
+  "open-mixtral-8x7b": [
+    56
+  ],
+  "openaigpt-oss-120b": [
+    117,
+    5.1
+  ],
+  "openaigpt-oss-20b": [
+    21,
+    3.6
+  ],
   "openrouterbert-nebulon-alpha": [],
-  "phi3.53.8b-mini-instruct-fp16": [],
-  "phi4-mini-reasoning": [],
-  "phi4-reasoning": [],
-  "phi4-reasoningplus": [],
-  "qwen-max-2025-01-25": [],
-  "qwen-plus-0428": [],
-  "qwen-plus-2025-01-25": [],
-  "qwen-turbo-0428": [],
-  "qwen-turbo-2024-11-01": [],
-  "qwen2.5-14b-instruct": [],
-  "qwen2.5-32b-instruct": [],
-  "qwen2.5-72b-instruct": [],
-  "qwen2.5-7b-instruct": [],
-  "qwen2.5-7b-instruct-1m": [],
-  "qwen2.5-omni-7b": [],
-  "qwen30.6b": [],
-  "qwen31.7b": [],
-  "qwen34b": [],
-  "qwen34b-instruct-2507-q8_0": [],
-  "qwen38b": [],
+  "phi3.53.8b-mini-instruct-fp16": [
+    3.8
+  ],
+  "phi4-mini-reasoning": [
+    3.8
+  ],
+  "phi4-reasoning": [
+    14
+  ],
+  "phi4-reasoningplus": [
+    14
+  ],
+  "qwen-max-2025-01-25": [
+    325
+  ],
+  "qwen-plus-0428": [
+    271,
+    37
+  ],
+  "qwen-plus-2025-01-25": [
+    271,
+    37
+  ],
+  "qwen-turbo-0428": [
+    42,
+    6
+  ],
+  "qwen-turbo-2024-11-01": [
+    42,
+    6
+  ],
+  "qwen2.5-14b-instruct": [
+    14
+  ],
+  "qwen2.5-32b-instruct": [
+    32
+  ],
+  "qwen2.5-72b-instruct": [
+    72
+  ],
+  "qwen2.5-7b-instruct": [
+    7
+  ],
+  "qwen2.5-7b-instruct-1m": [
+    7
+  ],
+  "qwen2.5-omni-7b": [
+    7
+  ],
+  "qwen30.6b": [
+    0.6
+  ],
+  "qwen31.7b": [
+    1.7
+  ],
+  "qwen34b": [
+    4
+  ],
+  "qwen34b-instruct-2507-q8_0": [
+    4
+  ],
+  "qwen38b": [
+    8
+  ],
   "qwenqwen3-235b-a22b-07-25": [
     235,
     22
@@ -427,7 +615,10 @@
     30,
     3
   ],
-  "qwenqwen3-coder": [],
+  "qwenqwen3-coder": [
+    480,
+    35
+  ],
   "qwenqwen3-next-80b-a3b-instruct": [
     80,
     3
@@ -440,9 +631,20 @@
     671,
     37
   ],
-  "smollm21.7b-instruct-q6_K": [1.7],
+  "smollm21.7b-instruct-q6_K": [
+    1.7
+  ],
   "tngtechdeepseek-r1t-chimerafree": [],
-  "x-aigrok-code-fast-1": [],
-  "z-aiglm-4.5": [],
-  "z-aiglm-4.5-air": []
+  "x-aigrok-code-fast-1": [
+    300,
+    80
+  ],
+  "z-aiglm-4.5": [
+    355,
+    32
+  ],
+  "z-aiglm-4.5-air": [
+    106,
+    12
+  ]
 }

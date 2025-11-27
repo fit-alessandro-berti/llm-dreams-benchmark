@@ -30,9 +30,7 @@ NEGATED_KEYS = {
 }
 
 
-def format_mean_std(values):
-    mean = round(np.mean(values), 1)
-    std = round(np.std(values), 1)
+def format_mean_std(mean, std):
     return f"{mean} $\\pm$ {std}"
 
 
@@ -49,8 +47,15 @@ def aggregate_llm_scores(file_paths, normalization_divisor=1):
             scores[key].append(value)
             total_score += (10.0 - value) if key in NEGATED_KEYS else value
 
-    formatted_scores = {k: format_mean_std(v) for k, v in scores.items()}
-    return total_score / divisor, formatted_scores
+    score_stats = {}
+    formatted_scores = {}
+    for key in PERSONALITY_KEYS:
+        mean = round(np.mean(scores[key]), 1)
+        std = round(np.std(scores[key]), 1)
+        score_stats[key] = {"mean": mean, "std": std}
+        formatted_scores[key] = format_mean_std(mean, std)
+
+    return total_score / divisor, formatted_scores, score_stats
 
 
 def build_overall_dataframe(llms, mhs, all_llms_scores):
@@ -113,7 +118,7 @@ def write_table(evaluation_folder, target_git_table_result):
     all_llms_scores = {}
 
     for llm in llms:
-        total_s, scores = aggregate_llm_scores(llm_files[llm])
+        total_s, scores, _ = aggregate_llm_scores(llm_files[llm])
         mhs[llm] = total_s
         all_llms_scores[llm] = scores
 
@@ -147,7 +152,9 @@ def collect_all_llm_files(evaluation_folders):
     return llm_files, llm_folder_counts
 
 
-def write_overall_results(target_overall_path="OVERALL.md"):
+def write_overall_results(
+    target_overall_path="OVERALL.md", target_overall_json="OVERALL.json"
+):
     evaluation_folders = [
         config["evaluation_folder"] for config in common.ALL_JUDGES.values()
     ]
@@ -160,14 +167,16 @@ def write_overall_results(target_overall_path="OVERALL.md"):
     llms = sorted(llm_files.keys(), key=lambda x: x.lower())
     mhs = {}
     all_llms_scores = {}
+    all_llms_score_stats = {}
 
     for llm in llms:
         normalization_divisor = llm_folder_counts.get(llm, 1)
-        total_s, scores = aggregate_llm_scores(
+        total_s, scores, score_stats = aggregate_llm_scores(
             llm_files[llm], normalization_divisor=normalization_divisor
         )
         mhs[llm] = total_s
         all_llms_scores[llm] = scores
+        all_llms_score_stats[llm] = score_stats
 
     dataframe = build_overall_dataframe(llms, mhs, all_llms_scores)
     overall_results = ["## Overall Results\n", dataframe.to_markdown(index=False)]
@@ -177,6 +186,27 @@ def write_overall_results(target_overall_path="OVERALL.md"):
 
     with open(target_overall_path, "w") as F:
         F.write(combined_stru)
+
+    overall_json = []
+    for llm in llms:
+        overall_json.append(
+            {
+                "LLM": llm,
+                "MHS": round(mhs[llm], 1),
+                "scores": {
+                    key: all_llms_score_stats[llm][key] for key in PERSONALITY_KEYS
+                },
+            }
+        )
+
+    overall_json_path = target_overall_json
+    if not os.path.isabs(overall_json_path):
+        output_dir = os.path.dirname(target_overall_path)
+        if output_dir:
+            overall_json_path = os.path.join(output_dir, overall_json_path)
+
+    with open(overall_json_path, "w") as F:
+        json.dump(overall_json, F, indent=2)
 
 
 if __name__ == "__main__":

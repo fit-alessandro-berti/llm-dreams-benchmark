@@ -1,9 +1,24 @@
 {
-  "ChatGPT-5.1-Instant-20251113": [],
-  "DeepSeek-V3-0324": [],
-  "Gemini-1.5-Pro-Exp-0801": [],
-  "Gemini-1.5-Pro-Exp-0827": [],
-  "Gpt-5.1-Pro-20251120": [],
+  "ChatGPT-5.1-Instant-20251113": [
+    200,
+    23
+  ],
+  "DeepSeek-V3-0324": [
+    671,
+    37
+  ],
+  "Gemini-1.5-Pro-Exp-0801": [
+    1200,
+    120
+  ],
+  "Gemini-1.5-Pro-Exp-0827": [
+    1200,
+    120
+  ],
+  "Gpt-5.1-Pro-20251120": [
+    200,
+    23
+  ],
   "Grok-3-20250426-concise": [
     2700,
     50
@@ -16,64 +31,173 @@
     2700,
     50
   ],
-  "Grok-4-fast": [],
-  "Grok-4-fast-20251111": [],
+  "Grok-4-fast": [
+    500,
+    30
+  ],
+  "Grok-4-fast-20251111": [
+    500,
+    30
+  ],
   "Grok-4.1-20251118": [],
-  "Qwen-QwQ-32B": [],
-  "QwenQwen3-14B": [],
-  "QwenQwen3-235B-A22B": [],
-  "QwenQwen3-30B-A3B": [],
-  "QwenQwen3-32B": [],
-  "ai21jamba-large-1.7": [],
-  "ai21jamba-mini-1.7": [],
+  "Qwen-QwQ-32B": [
+    32
+  ],
+  "QwenQwen3-14B": [
+    14
+  ],
+  "QwenQwen3-235B-A22B": [
+    235,
+    22
+  ],
+  "QwenQwen3-30B-A3B": [
+    30,
+    3
+  ],
+  "QwenQwen3-32B": [
+    32
+  ],
+  "ai21jamba-large-1.7": [398,
+  94],
+  "ai21jamba-mini-1.7": [52,
+  12],
   "allenaiolmo-3-7b-instruct": [],
   "allenaiolmo-3-7b-think": [],
   "anthropicclaude-opus-4.1": [],
   "anthropicclaude-sonnet-4.5": [],
   "baiduernie-4.5-21b-a3b": [],
   "baiduernie-4.5-300b-a47b": [],
-  "chatgpt-4o-latest-2024-11-20": [],
-  "chatgpt-4o-latest-2025-01-29": [],
-  "chatgpt-4o-latest-2025-03-26": [],
-  "chatgpt-4o-latest-2025-04-26": [],
-  "chatgpt-4o-latest-20250215": [],
-  "claude-3-5-haiku-20241022": [],
-  "claude-3-5-sonnet-20241022": [],
-  "claude-3-7-sonnet-20250219": [],
-  "claude-3-7-sonnet-20250219-thinking-high": [],
-  "claude-3-opus-20240229": [],
-  "claude-4-opus-20250514": [],
-  "claude-4-sonnet-20250514": [],
-  "claude-haiku-4-5-20251001": [],
-  "claude-opus-4-5-20251101": [],
-  "codestral-2501": [],
+  "chatgpt-4o-latest-2024-11-20": [
+    400
+  ],
+  "chatgpt-4o-latest-2025-01-29": [
+    400
+  ],
+  "chatgpt-4o-latest-2025-03-26": [
+    400
+  ],
+  "chatgpt-4o-latest-2025-04-26": [
+    400
+  ],
+  "chatgpt-4o-latest-20250215": [
+    400
+  ],
+  "claude-3-5-haiku-20241022": [
+    80,
+    20
+  ],
+  "claude-3-5-sonnet-20241022": [
+    400,
+    100
+  ],
+  "claude-3-7-sonnet-20250219": [
+    400,
+    100
+  ],
+  "claude-3-7-sonnet-20250219-thinking-high": [
+    400,
+    100
+  ],
+  "claude-3-opus-20240229": [
+    2000,
+    250
+  ],
+  "claude-4-opus-20250514": [
+    2000,
+    250
+  ],
+  "claude-4-sonnet-20250514": [
+    300,
+    70
+  ],
+  "claude-haiku-4-5-20251001": [
+    80,
+    20
+  ],
+  "claude-opus-4-5-20251101": [
+    1700,
+    170
+  ],
+  "codestral-2501": [
+    24
+  ],
   "codex-mini-latest": [],
-  "deepseek-aiDeepSeek-R1-0528": [],
-  "deepseek-aiDeepSeek-R1-Zero": [],
-  "deepseek-aiDeepSeek-V3": [],
-  "deepseekdeepseek-chat-v3.1": [],
-  "deepseekdeepseek-r1": [],
-  "deepseekdeepseek-v3.2-exp": [],
+  "deepseek-aiDeepSeek-R1-0528": [
+    671,
+    37
+  ],
+  "deepseek-aiDeepSeek-R1-Zero": [
+    671,
+    37
+  ],
+  "deepseek-aiDeepSeek-V3": [
+    671,
+    37
+  ],
+  "deepseekdeepseek-chat-v3.1": [
+    671,
+    37
+  ],
+  "deepseekdeepseek-r1": [
+    671,
+    37
+  ],
+  "deepseekdeepseek-v3.2-exp": [
+    671,
+    37
+  ],
   "devstral-small-2505": [],
   "exaone-deep7.8b-fp16": [],
   "falcon310b-instruct-q8_0": [],
   "falcon33b-instruct-q8_0": [],
   "falcon37b-instruct-q8_0": [],
   "gemini-1.5-flash-002": [],
-  "gemini-1.5-flash-8b": [],
+  "gemini-1.5-flash-8b": [
+    8,
+    2.5
+  ],
   "gemini-2.0-flash-exp": [],
   "gemini-2.0-flash-lite-preview-02-05": [],
   "gemini-2.0-pro-exp-02-05": [],
-  "gemini-2.5-flash-lite-preview-06-17": [],
-  "gemini-2.5-flash-lite-preview-09-2025": [],
-  "gemini-2.5-flash-preview-04-17": [],
-  "gemini-2.5-flash-preview-05-20": [],
-  "gemini-2.5-flash-preview-09-2025": [],
-  "gemini-2.5-pro-exp-03-25": [],
-  "gemini-2.5-pro-preview-05-06": [],
-  "gemini-2.5-pro-preview-06-05": [],
-  "gemini-3-pro-preview": [],
-  "gemma-3-27b-it": [],
+  "gemini-2.5-flash-lite-preview-06-17": [
+    10,
+    2.5
+  ],
+  "gemini-2.5-flash-lite-preview-09-2025": [
+    10,
+    2.5
+  ],
+  "gemini-2.5-flash-preview-04-17": [
+    400,
+    20
+  ],
+  "gemini-2.5-flash-preview-05-20": [
+    400,
+    20
+  ],
+  "gemini-2.5-flash-preview-09-2025": [
+    400,
+    20
+  ],
+  "gemini-2.5-pro-exp-03-25": [
+    1500,
+    40
+  ],
+  "gemini-2.5-pro-preview-05-06": [
+    1500,
+    40
+  ],
+  "gemini-2.5-pro-preview-06-05": [
+    1500,
+    40
+  ],
+  "gemini-3-pro-preview": [
+    7500,
+    40
+  ],
+  "gemma-3-27b-it": [
+    27
+  ],
   "gemma-3n-e4b-it": [],
   "gemma312b-it-q8_0": [],
   "gemma31b-it-q8_0": [],
@@ -84,60 +208,166 @@
   "gpt-4-0125-preview": [],
   "gpt-4-0613": [],
   "gpt-4-1106-preview": [],
-  "gpt-4-turbo-2024-04-09": [],
-  "gpt-4.1-2025-04-14": [],
-  "gpt-4.1-mini-2025-04-14": [],
-  "gpt-4.1-nano-2025-04-14": [],
-  "gpt-4.5-preview": [],
-  "gpt-4o-2024-05-13": [],
-  "gpt-4o-2024-08-06": [],
-  "gpt-4o-mini-2024-07-18": [],
-  "gpt-4o-mini-2024-11-05": [],
-  "gpt-5-2025-08-07": [],
-  "gpt-5-chat-latest-2025-08-07": [],
-  "gpt-5-chat-latest-2025-08-19": [],
-  "gpt-5-mini-2025-08-07": [],
-  "gpt-5-nano-2025-08-07": [],
-  "gpt-5-pro-2025-10-06": [],
+  "gpt-4-turbo-2024-04-09": [
+    1800,
+    280
+  ],
+  "gpt-4.1-2025-04-14": [
+    200,
+    32
+  ],
+  "gpt-4.1-mini-2025-04-14": [
+    60,
+    8
+  ],
+  "gpt-4.1-nano-2025-04-14": [
+    17,
+    2
+  ],
+  "gpt-4.5-preview": [
+    6000,
+    600
+  ],
+  "gpt-4o-2024-05-13": [
+    400
+  ],
+  "gpt-4o-2024-08-06": [
+    400
+  ],
+  "gpt-4o-mini-2024-07-18": [
+    8
+  ],
+  "gpt-4o-mini-2024-11-05": [
+    8
+  ],
+  "gpt-5-2025-08-07": [
+    200,
+    32
+  ],
+  "gpt-5-chat-latest-2025-08-07": [
+    200,
+    32
+  ],
+  "gpt-5-chat-latest-2025-08-19": [
+    200,
+    32
+  ],
+  "gpt-5-mini-2025-08-07": [
+    60,
+    8
+  ],
+  "gpt-5-nano-2025-08-07": [
+    17,
+    2
+  ],
+  "gpt-5-pro-2025-10-06": [
+    200,
+    32
+  ],
   "granite3.28b-instruct-q4_K_M": [],
   "granite4micro": [],
   "granite4micro-h": [],
   "granite4small-h": [],
   "granite4tiny-h": [],
-  "grok-2-1212": [],
-  "grok-3-mini-beta": [],
-  "grok-4-0709": [],
-  "grok-4-1-fast-non-reasoning": [],
-  "grok-4-1-fast-reasoning": [],
-  "ibmgranite41b-h": [],
-  "ibmgranite4350m-h": [],
+  "grok-2-1212": [
+    400
+  ],
+  "grok-3-mini-beta": [
+    250,
+    35
+  ],
+  "grok-4-0709": [
+    2700,
+    50
+  ],
+  "grok-4-1-fast-non-reasoning": [
+    500,
+    30
+  ],
+  "grok-4-1-fast-reasoning": [
+    500,
+    30
+  ],
+  "ibmgranite41b-h": [
+    1
+  ],
+  "ibmgranite4350m-h": [
+    0.35
+  ],
   "inceptionmercury": [],
-  "liquidlfm-2.2-6b": [],
-  "liquidlfm2-8b-a1b": [],
-  "magistral-medium-2506": [],
-  "magistral-small-2506": [],
-  "meta-llamaLlama-3.2-1B-Instruct": [],
-  "meta-llamaLlama-3.2-3B-Instruct": [],
-  "meta-llamaLlama-3.3-70B-Instruct": [],
-  "meta-llamaMeta-Llama-3.1-405B-Instruct": [],
-  "meta-llamaMeta-Llama-3.1-70B-Instruct": [],
-  "meta-llamaMeta-Llama-3.1-8B-Instruct": [],
-  "meta-llamallama-4-maverick": [],
-  "meta-llamallama-4-scout": [],
+  "liquidlfm-2.2-6b": [
+    6
+  ],
+  "liquidlfm2-8b-a1b": [
+    8,
+    1
+  ],
+  "magistral-medium-2506": [
+    24
+  ],
+  "magistral-small-2506": [
+    24
+  ],
+  "meta-llamaLlama-3.2-1B-Instruct": [
+    1
+  ],
+  "meta-llamaLlama-3.2-3B-Instruct": [
+    3
+  ],
+  "meta-llamaLlama-3.3-70B-Instruct": [
+    70
+  ],
+  "meta-llamaMeta-Llama-3.1-405B-Instruct": [
+    405
+  ],
+  "meta-llamaMeta-Llama-3.1-70B-Instruct": [
+    70
+  ],
+  "meta-llamaMeta-Llama-3.1-8B-Instruct": [8],
+  "meta-llamallama-4-maverick": [
+    400,
+    17],
+  "meta-llamallama-4-scout": [
+    100, 17
+  ],
   "microsoftPhi-3-medium-4k-instruct": [],
-  "microsoftWizardLM-2-8x22B": [],
-  "microsoftphi-4": [],
+  "microsoftWizardLM-2-8x22B": [
+    176
+  ],
+  "microsoftphi-4": [
+
+  ],
   "minimaxminimax-m2free": [],
-  "ministral-3b-2410": [],
-  "ministral-8b-2410": [],
-  "mistral-large-2407": [],
-  "mistral-large-2411": [],
-  "mistral-medium-2505": [],
-  "mistral-medium-2508": [],
-  "mistral-small-2409": [],
-  "mistral-small-2501": [],
-  "mistral-small-2503": [],
-  "mistral-small-2506": [],
+  "ministral-3b-2410": [
+    3
+  ],
+  "ministral-8b-2410": [
+    8
+  ],
+  "mistral-large-2407": [
+    123
+  ],
+  "mistral-large-2411": [
+    123
+  ],
+  "mistral-medium-2505": [
+    70
+  ],
+  "mistral-medium-2508": [
+    70
+  ],
+  "mistral-small-2409": [
+    24
+  ],
+  "mistral-small-2501": [
+    24
+  ],
+  "mistral-small-2503": [
+    24
+  ],
+  "mistral-small-2506": [
+    24
+  ],
   "moonshotaikimi-k2": [],
   "moonshotaikimi-k2-thinking": [],
   "moonshotaikimi-linear-48b-a3b-instruct": [],
@@ -185,14 +415,32 @@
   "qwen34b": [],
   "qwen34b-instruct-2507-q8_0": [],
   "qwen38b": [],
-  "qwenqwen3-235b-a22b-07-25": [],
-  "qwenqwen3-235b-a22b-thinking-2507": [],
-  "qwenqwen3-30b-a3b-instruct-2507": [],
+  "qwenqwen3-235b-a22b-07-25": [
+    235,
+    22
+  ],
+  "qwenqwen3-235b-a22b-thinking-2507": [
+    235,
+    22
+  ],
+  "qwenqwen3-30b-a3b-instruct-2507": [
+    30,
+    3
+  ],
   "qwenqwen3-coder": [],
-  "qwenqwen3-next-80b-a3b-instruct": [],
-  "qwenqwen3-next-80b-a3b-thinking": [],
-  "r1-1776": [],
-  "smollm21.7b-instruct-q6_K": [],
+  "qwenqwen3-next-80b-a3b-instruct": [
+    80,
+    3
+  ],
+  "qwenqwen3-next-80b-a3b-thinking": [
+    80,
+    3
+  ],
+  "r1-1776": [
+    671,
+    37
+  ],
+  "smollm21.7b-instruct-q6_K": [1.7],
   "tngtechdeepseek-r1t-chimerafree": [],
   "x-aigrok-code-fast-1": [],
   "z-aiglm-4.5": [],

@@ -107,6 +107,28 @@ def group_files_by_llm(evaluation_folder):
     return llm_files
 
 
+def sync_model_metadata_file(path, models, default_factory):
+    try:
+        with open(path, "r") as f:
+            data = json.load(f)
+    except (FileNotFoundError, json.JSONDecodeError):
+        data = {}
+
+    models_set = set(models)
+    data = {k: v for k, v in data.items() if k in models_set}
+
+    for model in models:
+        if model not in data:
+            data[model] = default_factory()
+
+    dir_path = os.path.dirname(path)
+    if dir_path and not os.path.exists(dir_path):
+        os.makedirs(dir_path)
+
+    with open(path, "w") as f:
+        json.dump(data, f, indent=2, sort_keys=True)
+
+
 def write_table(evaluation_folder, target_git_table_result):
     if not os.path.exists(evaluation_folder):
         os.mkdir(evaluation_folder)
@@ -207,6 +229,9 @@ def write_overall_results(
 
     with open(overall_json_path, "w") as F:
         json.dump(overall_json, F, indent=2)
+
+    sync_model_metadata_file("db/model_dates.json", llms, lambda: "")
+    sync_model_metadata_file("db/model_size.json", llms, lambda: [])
 
 
 if __name__ == "__main__":

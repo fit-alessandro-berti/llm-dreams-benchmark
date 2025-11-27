@@ -39,7 +39,10 @@
     500,
     30
   ],
-  "Grok-4.1-20251118": [],
+  "Grok-4.1-20251118": [
+    1111,
+    70
+  ],
   "Qwen-QwQ-32B": [
     32
   ],
@@ -141,7 +144,10 @@
   "codestral-2501": [
     24
   ],
-  "codex-mini-latest": [],
+  "codex-mini-latest": [
+    60,
+    8
+  ],
   "deepseek-aiDeepSeek-R1-0528": [
     671,
     37
@@ -181,7 +187,9 @@
   "falcon37b-instruct-q8_0": [
     7
   ],
-  "gemini-1.5-flash-002": [],
+  "gemini-1.5-flash-002": [
+    20
+  ],
   "gemini-1.5-flash-8b": [
     8,
     2.5
@@ -194,7 +202,10 @@
     10,
     2.5
   ],
-  "gemini-2.0-pro-exp-02-05": [],
+  "gemini-2.0-pro-exp-02-05": [
+    2000,
+    65
+  ],
   "gemini-2.5-flash-lite-preview-06-17": [
     10,
     2.5

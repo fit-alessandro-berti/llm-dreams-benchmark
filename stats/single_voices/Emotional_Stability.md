@@ -40,8 +40,8 @@
 | falcon310b-instruct-q8_0 | 7.629 |
 | gpt-3.5-turbo | 7.586 |
 | ministral-8b-2410 | 7.586 |
+| o4-mini-2025-04-16 | 7.571 |
 | mistral-large-2407 | 7.557 |
-| o4-mini-2025-04-16 | 7.557 |
 | gpt-4.1-2025-04-14 | 7.514 |
 | mistral-small-2503 | 7.457 |
 | gpt-4o-mini-2024-07-18 | 7.443 |
@@ -176,7 +176,7 @@
 | nvidiallama-3.1-nemotron-nano-8b-v1 | 5.643 |
 | phi4-mini-reasoning | 5.600 |
 | qwenqwen3-235b-a22b-thinking-2507 | 5.571 |
-| claude-3-5-haiku-20241022 | 5.557 |
+| claude-3-5-haiku-20241022 | 5.543 |
 | gemini-2.5-flash-preview-04-17 | 5.386 |
 | gemma31b-it-q8_0 | 5.300 |
 | QwenQwen3-235B-A22B | 5.286 |
@@ -188,6 +188,8 @@
 | meta-llamallama-4-maverick | 5.171 |
 | ibmgranite4350m-h | 5.114 |
 | gemini-2.5-pro-exp-03-25 | 5.100 |
+| smollm2135m | 5.057 |
+| smollm2360m | 5.000 |
 | mistral-small-2506 | 4.929 |
 | moonshotaikimi-k2-thinking | 4.886 |
 | openrouterbert-nebulon-alpha | 4.886 |

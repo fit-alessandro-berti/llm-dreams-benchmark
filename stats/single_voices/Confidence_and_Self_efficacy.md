@@ -6,9 +6,9 @@
 | qwen2.5-14b-instruct | 8.643 |
 | open-mixtral-8x22b | 8.586 |
 | granite4small-h | 8.529 |
+| open-mixtral-8x7b | 8.486 |
 | gpt-4.5-preview | 8.471 |
 | grok-2-1212 | 8.471 |
-| open-mixtral-8x7b | 8.471 |
 | ai21jamba-mini-1.7 | 8.457 |
 | deepseekdeepseek-v3.2-exp | 8.457 |
 | microsoftWizardLM-2-8x22B | 8.457 |
@@ -176,8 +176,10 @@
 | gemini-2.5-flash-preview-09-2025 | 6.457 |
 | meta-llamaMeta-Llama-3.1-8B-Instruct | 6.457 |
 | gemini-2.5-flash-preview-05-20 | 6.414 |
+| smollm2135m | 6.400 |
 | meta-llamallama-4-maverick | 6.400 |
 | nvidiallama-3.1-nemotron-nano-8b-v1 | 6.386 |
+| smollm2360m | 6.357 |
 | gemini-3-pro-preview | 6.343 |
 | gemini-2.5-flash-preview-04-17 | 6.329 |
 | openrouterbert-nebulon-alpha | 6.329 |

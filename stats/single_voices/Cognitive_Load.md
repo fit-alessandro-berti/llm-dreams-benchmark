@@ -39,12 +39,14 @@
 | anthropicclaude-opus-4.1 | 7.929 |
 | gemma-3n-e4b-it | 7.929 |
 | deepseek-aiDeepSeek-R1-0528 | 7.914 |
+| meta-llamallama-4-maverick | 7.900 |
 | Gpt-5.1-Pro-20251120 | 7.900 |
 | grok-3-mini-beta | 7.900 |
 | qwenqwen3-30b-a3b-instruct-2507 | 7.900 |
-| meta-llamallama-4-maverick | 7.886 |
+| smollm2135m | 7.900 |
 | qwen30.6b | 7.886 |
 | QwenQwen3-32B | 7.886 |
+| smollm2360m | 7.886 |
 | claude-3-5-haiku-20241022 | 7.871 |
 | gemma-3-27b-it | 7.843 |
 | Grok-4-fast | 7.843 |

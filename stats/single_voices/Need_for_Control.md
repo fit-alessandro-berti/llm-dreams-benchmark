@@ -23,6 +23,7 @@
 | Qwen-QwQ-32B | 6.600 |
 | magistral-medium-2506 | 6.600 |
 | claude-3-opus-20240229 | 6.586 |
+| smollm2360m | 6.571 |
 | DeepSeek-V3-0324 | 6.529 |
 | grok-3-mini-beta | 6.500 |
 | meta-llamaMeta-Llama-3.1-405B-Instruct | 6.500 |
@@ -70,6 +71,7 @@
 | qwen-turbo-0428 | 6.257 |
 | QwenQwen3-30B-A3B | 6.257 |
 | gpt-5-chat-latest-2025-08-07 | 6.257 |
+| smollm2135m | 6.243 |
 | meta-llamaMeta-Llama-3.1-8B-Instruct | 6.243 |
 | granite4tiny-h | 6.229 |
 | smollm21.7b-instruct-q6_K | 6.229 |
@@ -109,9 +111,9 @@
 | grok-4-0709 | 6.000 |
 | open-mixtral-8x7b | 6.000 |
 | gemini-3-pro-preview | 5.986 |
-| granite4micro | 5.986 |
 | gemini-1.5-flash-8b | 5.971 |
 | gemini-2.5-pro-preview-05-06 | 5.971 |
+| granite4micro | 5.971 |
 | o4-mini-2025-04-16 | 5.971 |
 | moonshotaikimi-linear-48b-a3b-instruct | 5.914 |
 | o1-2024-12-05 | 5.914 |
@@ -147,11 +149,11 @@
 | googlegemma-2-9b-it | 5.757 |
 | openaigpt-oss-20b | 5.743 |
 | qwen-plus-2025-01-25 | 5.743 |
-| allenaiolmo-3-7b-instruct | 5.729 |
 | gemini-2.5-flash-lite-preview-09-2025 | 5.729 |
 | gemma-3n-e4b-it | 5.729 |
 | grok-2-1212 | 5.729 |
 | qwen2.5-72b-instruct | 5.729 |
+| allenaiolmo-3-7b-instruct | 5.714 |
 | ChatGPT-5.1-Instant-20251113 | 5.714 |
 | inceptionmercury | 5.714 |
 | gpt-4.1-mini-2025-04-14 | 5.714 |
@@ -159,7 +161,7 @@
 | o1-preview-2024-09-12 | 5.700 |
 | nvidianemotron-nano-9b-v2 | 5.671 |
 | o3-2025-04-16 | 5.671 |
-| gpt-5-pro-2025-10-06 | 5.600 |
+| gpt-5-pro-2025-10-06 | 5.614 |
 | qwenqwen3-next-80b-a3b-thinking | 5.600 |
 | gemini-2.5-pro-preview-06-05 | 5.586 |
 | microsoftphi-4 | 5.586 |

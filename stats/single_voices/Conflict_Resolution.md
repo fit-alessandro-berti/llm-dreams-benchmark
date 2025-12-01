@@ -6,7 +6,7 @@
 | microsoftPhi-3-medium-4k-instruct | 8.543 |
 | microsoftWizardLM-2-8x22B | 8.514 |
 | qwenqwen3-coder | 8.500 |
-| deepseekdeepseek-v3.2-exp | 8.486 |
+| deepseekdeepseek-v3.2-exp | 8.471 |
 | o1-preview-2024-09-12 | 8.471 |
 | gpt-4.1-2025-04-14 | 8.443 |
 | ministral-8b-2410 | 8.443 |
@@ -14,7 +14,7 @@
 | gpt-5-nano-2025-08-07 | 8.429 |
 | grok-2-1212 | 8.400 |
 | qwen-max-2025-01-25 | 8.400 |
-| microsoftphi-4 | 8.386 |
+| microsoftphi-4 | 8.371 |
 | inceptionmercury | 8.357 |
 | gpt-5-mini-2025-08-07 | 8.343 |
 | o3-pro-2025-06-10 | 8.329 |
@@ -168,7 +168,7 @@
 | nvidiallama-3.1-nemotron-nano-8b-v1 | 6.671 |
 | qwenqwen3-235b-a22b-thinking-2507 | 6.629 |
 | gemini-2.5-pro-exp-03-25 | 6.614 |
-| magistral-medium-2506 | 6.586 |
+| magistral-medium-2506 | 6.600 |
 | gemini-2.5-flash-preview-09-2025 | 6.514 |
 | gemini-3-pro-preview | 6.514 |
 | Gemini-1.5-Pro-Exp-0827 | 6.486 |
@@ -185,9 +185,11 @@
 | gemini-2.5-flash-lite-preview-06-17 | 6.200 |
 | openrouterbert-nebulon-alpha | 6.157 |
 | claude-3-5-haiku-20241022 | 5.957 |
+| smollm2135m | 5.871 |
 | phi4-mini-reasoning | 5.500 |
 | meta-llamallama-4-maverick | 5.486 |
 | gemini-2.0-flash-lite-preview-02-05 | 5.471 |
 | mistral-small-2506 | 5.443 |
 | meta-llamaLlama-3.2-1B-Instruct | 5.357 |
 | ibmgranite4350m-h | 5.200 |
+| smollm2360m | 4.929 |

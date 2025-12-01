@@ -148,8 +148,8 @@
 | qwen34b | 8.157 |
 | claude-opus-4-5-20251101 | 8.129 |
 | mistral-medium-2508 | 8.129 |
-| z-aiglm-4.5-air | 8.129 |
 | meta-llamaLlama-3.2-3B-Instruct | 8.129 |
+| z-aiglm-4.5-air | 8.114 |
 | claude-4-sonnet-20250514 | 8.100 |
 | magistral-small-2506 | 8.086 |
 | grok-4-0709 | 8.071 |
@@ -160,7 +160,7 @@
 | deepseek-aiDeepSeek-R1-0528 | 8.000 |
 | meta-llamaLlama-3.3-70B-Instruct | 8.000 |
 | nvidiallama-3.3-nemotron-super-49b-v1 | 8.000 |
-| chatgpt-4o-latest-2025-01-29 | 7.986 |
+| chatgpt-4o-latest-2025-01-29 | 7.971 |
 | grok-3-mini-beta | 7.971 |
 | chatgpt-4o-latest-20250215 | 7.971 |
 | qwenqwen3-235b-a22b-thinking-2507 | 7.914 |
@@ -191,3 +191,5 @@
 | openrouterbert-nebulon-alpha | 7.229 |
 | ibmgranite4350m-h | 7.000 |
 | mistral-small-2506 | 6.914 |
+| smollm2135m | 6.886 |
+| smollm2360m | 6.671 |

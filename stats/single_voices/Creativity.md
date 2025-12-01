@@ -82,7 +82,6 @@
 | allenaiolmo-3-7b-instruct | 9.429 |
 | deepseekdeepseek-r1 | 9.429 |
 | gpt-4.1-mini-2025-04-14 | 9.429 |
-| gpt-5-chat-latest-2025-08-19 | 9.429 |
 | gpt-5-nano-2025-08-07 | 9.429 |
 | mistral-large-2407 | 9.429 |
 | mistral-large-2411 | 9.429 |
@@ -93,6 +92,7 @@
 | o1-pro-2024-12-05 | 9.414 |
 | qwen38b | 9.414 |
 | z-aiglm-4.5 | 9.414 |
+| gpt-5-chat-latest-2025-08-19 | 9.414 |
 | nvidiallama-3.1-nemotron-ultra-253b-v1free | 9.414 |
 | claude-haiku-4-5-20251001 | 9.400 |
 | gemma31b-it-q8_0 | 9.400 |
@@ -110,9 +110,9 @@
 | o1-preview-2024-09-12 | 9.371 |
 | deepseek-aiDeepSeek-V3 | 9.357 |
 | falcon37b-instruct-q8_0 | 9.357 |
+| meta-llamaMeta-Llama-3.1-405B-Instruct | 9.357 |
 | deepseekdeepseek-chat-v3.1 | 9.343 |
 | Grok-3-20250426-concise | 9.343 |
-| meta-llamaMeta-Llama-3.1-405B-Instruct | 9.343 |
 | microsoftWizardLM-2-8x22B | 9.343 |
 | phi3.53.8b-mini-instruct-fp16 | 9.343 |
 | phi4-reasoningplus | 9.343 |
@@ -168,14 +168,15 @@
 | qwen30.6b | 9.129 |
 | qwen31.7b | 9.129 |
 | baiduernie-4.5-21b-a3b | 9.114 |
-| meta-llamallama-4-maverick | 9.114 |
 | qwen2.5-7b-instruct-1m | 9.114 |
 | granite4micro | 9.100 |
 | Grok-3-beta-thinking-20250303 | 9.100 |
+| meta-llamallama-4-maverick | 9.100 |
 | meta-llamallama-4-scout | 9.086 |
 | smollm21.7b-instruct-q6_K | 9.086 |
 | meta-llamaLlama-3.3-70B-Instruct | 9.071 |
 | qwen-plus-0428 | 9.071 |
+| smollm2360m | 9.071 |
 | googlegemma-2-2b-it | 9.057 |
 | nvidiallama-3.3-nemotron-super-49b-v1 | 9.057 |
 | gpt-3.5-turbo | 9.043 |
@@ -186,6 +187,7 @@
 | qwen2.5-omni-7b | 9.014 |
 | qwen2.5-7b-instruct | 9.000 |
 | exaone-deep7.8b-fp16 | 8.986 |
+| smollm2135m | 8.971 |
 | meta-llamaLlama-3.2-1B-Instruct | 8.900 |
 | ibmgranite41b-h | 8.857 |
 | phi4-mini-reasoning | 8.714 |

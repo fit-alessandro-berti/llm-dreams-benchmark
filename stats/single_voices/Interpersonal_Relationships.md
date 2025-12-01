@@ -56,9 +56,9 @@
 | gpt-4.1-nano-2025-04-14 | 7.786 |
 | o1-pro-2024-12-17 | 7.786 |
 | o3-2025-04-16 | 7.786 |
-| o1-2024-12-17 | 7.771 |
 | liquidlfm-2.2-6b | 7.757 |
 | gpt-4-0613 | 7.757 |
+| o1-2024-12-17 | 7.757 |
 | liquidlfm2-8b-a1b | 7.743 |
 | o4-mini-2025-04-16 | 7.743 |
 | falcon37b-instruct-q8_0 | 7.743 |
@@ -182,11 +182,13 @@
 | mistral-small-2506 | 6.200 |
 | gemini-2.5-pro-exp-03-25 | 6.171 |
 | gemini-2.5-flash-preview-04-17 | 6.143 |
+| smollm2135m | 6.129 |
 | openrouterbert-nebulon-alpha | 6.129 |
 | QwenQwen3-235B-A22B | 6.086 |
 | tngtechdeepseek-r1t-chimerafree | 6.071 |
 | gemini-3-pro-preview | 6.029 |
 | claude-3-5-haiku-20241022 | 6.029 |
+| smollm2360m | 5.786 |
 | gemma31b-it-q8_0 | 5.743 |
 | ibmgranite4350m-h | 5.614 |
 | gemini-2.5-flash-preview-09-2025 | 5.471 |

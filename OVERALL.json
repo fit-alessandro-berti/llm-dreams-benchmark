@@ -12210,6 +12210,138 @@
     }
   },
   {
+    "LLM": "smollm2135m",
+    "MHS": 345.3,
+    "scores": {
+      "Anxiety and Stress Levels": {
+        "mean": 7.6,
+        "std": 0.3
+      },
+      "Emotional Stability": {
+        "mean": 5.1,
+        "std": 0.7
+      },
+      "Problem-solving Skills": {
+        "mean": 7.0,
+        "std": 0.6
+      },
+      "Creativity": {
+        "mean": 9.0,
+        "std": 0.5
+      },
+      "Interpersonal Relationships": {
+        "mean": 6.1,
+        "std": 0.6
+      },
+      "Confidence and Self-efficacy": {
+        "mean": 6.4,
+        "std": 0.7
+      },
+      "Conflict Resolution": {
+        "mean": 5.9,
+        "std": 1.2
+      },
+      "Work-related Stress": {
+        "mean": 7.2,
+        "std": 0.5
+      },
+      "Adaptability": {
+        "mean": 7.6,
+        "std": 0.6
+      },
+      "Achievement Motivation": {
+        "mean": 7.4,
+        "std": 0.5
+      },
+      "Fear of Failure": {
+        "mean": 6.6,
+        "std": 0.7
+      },
+      "Need for Control": {
+        "mean": 6.2,
+        "std": 0.9
+      },
+      "Cognitive Load": {
+        "mean": 7.9,
+        "std": 0.5
+      },
+      "Social Support": {
+        "mean": 6.2,
+        "std": 0.8
+      },
+      "Resilience": {
+        "mean": 6.9,
+        "std": 0.6
+      }
+    }
+  },
+  {
+    "LLM": "smollm2360m",
+    "MHS": 335.3,
+    "scores": {
+      "Anxiety and Stress Levels": {
+        "mean": 7.6,
+        "std": 0.3
+      },
+      "Emotional Stability": {
+        "mean": 5.0,
+        "std": 0.7
+      },
+      "Problem-solving Skills": {
+        "mean": 7.4,
+        "std": 0.6
+      },
+      "Creativity": {
+        "mean": 9.1,
+        "std": 0.4
+      },
+      "Interpersonal Relationships": {
+        "mean": 5.8,
+        "std": 0.5
+      },
+      "Confidence and Self-efficacy": {
+        "mean": 6.3,
+        "std": 0.5
+      },
+      "Conflict Resolution": {
+        "mean": 4.9,
+        "std": 0.9
+      },
+      "Work-related Stress": {
+        "mean": 7.6,
+        "std": 0.5
+      },
+      "Adaptability": {
+        "mean": 7.3,
+        "std": 0.6
+      },
+      "Achievement Motivation": {
+        "mean": 7.3,
+        "std": 0.6
+      },
+      "Fear of Failure": {
+        "mean": 6.9,
+        "std": 0.6
+      },
+      "Need for Control": {
+        "mean": 6.6,
+        "std": 0.6
+      },
+      "Cognitive Load": {
+        "mean": 7.9,
+        "std": 0.5
+      },
+      "Social Support": {
+        "mean": 5.5,
+        "std": 0.7
+      },
+      "Resilience": {
+        "mean": 6.7,
+        "std": 0.6
+      }
+    }
+  },
+  {
     "LLM": "tngtechdeepseek-r1t-chimerafree",
     "MHS": 367.7,
     "scores": {

@@ -37,6 +37,7 @@
 | Gpt-5.1-Pro-20251120 | 7.686 |
 | meta-llamaMeta-Llama-3.1-8B-Instruct | 7.686 |
 | ibmgranite41b-h | 7.686 |
+| smollm2360m | 7.629 |
 | grok-3-mini-beta | 7.614 |
 | mistral-medium-2508 | 7.614 |
 | QwenQwen3-32B | 7.586 |
@@ -65,6 +66,7 @@
 | grok-4-1-fast-non-reasoning | 7.243 |
 | nvidiallama-3.3-nemotron-super-49b-v1 | 7.243 |
 | qwen-turbo-0428 | 7.243 |
+| smollm2135m | 7.200 |
 | claude-3-5-sonnet-20241022 | 7.186 |
 | x-aigrok-code-fast-1 | 7.186 |
 | allenaiolmo-3-7b-think | 7.171 |

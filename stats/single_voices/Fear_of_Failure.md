@@ -4,7 +4,7 @@
 |:--|--:|
 | gemini-2.0-flash-lite-preview-02-05 | 7.943 |
 | openrouterbert-nebulon-alpha | 7.871 |
-| gemini-2.5-flash-preview-09-2025 | 7.843 |
+| gemini-2.5-flash-preview-09-2025 | 7.857 |
 | qwenqwen3-235b-a22b-thinking-2507 | 7.800 |
 | mistral-small-2506 | 7.700 |
 | moonshotaikimi-k2-thinking | 7.657 |
@@ -17,7 +17,7 @@
 | gemini-2.5-flash-preview-04-17 | 7.371 |
 | meta-llamallama-4-maverick | 7.371 |
 | gemma34b-it-q8_0 | 7.357 |
-| QwenQwen3-30B-A3B | 7.300 |
+| QwenQwen3-30B-A3B | 7.314 |
 | tngtechdeepseek-r1t-chimerafree | 7.200 |
 | Grok-4.1-20251118 | 7.186 |
 | gemini-2.0-pro-exp-02-05 | 7.186 |
@@ -33,6 +33,7 @@
 | grok-3-mini-beta | 7.000 |
 | QwenQwen3-14B | 6.971 |
 | Qwen-QwQ-32B | 6.971 |
+| smollm2360m | 6.929 |
 | gemma31b-it-q8_0 | 6.929 |
 | z-aiglm-4.5 | 6.929 |
 | deepseek-aiDeepSeek-R1-0528 | 6.900 |
@@ -49,6 +50,7 @@
 | chatgpt-4o-latest-20250215 | 6.714 |
 | mistral-medium-2505 | 6.686 |
 | Gemini-1.5-Pro-Exp-0827 | 6.671 |
+| smollm2135m | 6.629 |
 | qwen38b | 6.543 |
 | meta-llamaLlama-3.2-3B-Instruct | 6.543 |
 | ibmgranite41b-h | 6.500 |
@@ -187,7 +189,7 @@
 | ai21jamba-mini-1.7 | 3.886 |
 | qwen2.5-14b-instruct | 3.829 |
 | granite4small-h | 3.729 |
+| open-mixtral-8x7b | 3.643 |
 | gpt-4.5-preview | 3.629 |
-| open-mixtral-8x7b | 3.629 |
 | microsoftphi-4 | 3.586 |
 | microsoftPhi-3-medium-4k-instruct | 3.443 |

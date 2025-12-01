@@ -645,6 +645,8 @@
   "smollm21.7b-instruct-q6_K": [
     1.7
   ],
+  "smollm2135m": [],
+  "smollm2360m": [],
   "tngtechdeepseek-r1t-chimerafree": [
     671,
     37

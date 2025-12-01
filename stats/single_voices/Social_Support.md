@@ -62,11 +62,11 @@
 | gpt-4-0613 | 7.614 |
 | deepseekdeepseek-v3.2-exp | 7.614 |
 | mistral-small-2503 | 7.614 |
+| deepseek-aiDeepSeek-V3 | 7.600 |
 | nvidiaLlama-3.1-Nemotron-70B-Instruct | 7.600 |
 | Grok-3-20250426-concise | 7.600 |
 | o3-pro-2025-06-10 | 7.600 |
 | granite4tiny-h | 7.586 |
-| deepseek-aiDeepSeek-V3 | 7.586 |
 | meta-llamaLlama-3.2-3B-Instruct | 7.586 |
 | phi4-reasoningplus | 7.571 |
 | smollm21.7b-instruct-q6_K | 7.571 |
@@ -153,10 +153,10 @@
 | meta-llamaMeta-Llama-3.1-70B-Instruct | 6.800 |
 | gemini-2.5-flash-lite-preview-06-17 | 6.771 |
 | meta-llamaMeta-Llama-3.1-8B-Instruct | 6.757 |
+| gemini-2.5-flash-lite-preview-09-2025 | 6.743 |
 | chatgpt-4o-latest-2024-11-20 | 6.743 |
 | DeepSeek-V3-0324 | 6.743 |
 | nvidianemotron-nano-9b-v2 | 6.743 |
-| gemini-2.5-flash-lite-preview-09-2025 | 6.729 |
 | z-aiglm-4.5 | 6.714 |
 | grok-3-mini-beta | 6.657 |
 | meta-llamaLlama-3.2-1B-Instruct | 6.657 |
@@ -177,9 +177,10 @@
 | anthropicclaude-sonnet-4.5 | 6.271 |
 | deepseekdeepseek-r1 | 6.257 |
 | gemini-3-pro-preview | 6.214 |
+| smollm2135m | 6.200 |
 | gemini-2.5-pro-exp-03-25 | 6.157 |
-| moonshotaikimi-k2-thinking | 6.143 |
 | gemini-2.5-flash-preview-04-17 | 6.129 |
+| moonshotaikimi-k2-thinking | 6.129 |
 | gemma34b-it-q8_0 | 6.071 |
 | gpt-5-chat-latest-2025-08-07 | 6.057 |
 | claude-3-5-haiku-20241022 | 6.043 |
@@ -187,6 +188,7 @@
 | mistral-small-2506 | 5.943 |
 | QwenQwen3-235B-A22B | 5.743 |
 | openrouterbert-nebulon-alpha | 5.714 |
+| smollm2360m | 5.529 |
 | ibmgranite4350m-h | 5.414 |
 | gemini-2.5-flash-preview-09-2025 | 5.414 |
 | gemma31b-it-q8_0 | 5.371 |

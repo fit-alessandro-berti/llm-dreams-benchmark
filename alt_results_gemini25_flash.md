@@ -185,7 +185,9 @@
 | openrouterbert-nebulon-alpha               | **342.5** | 9.1 $\pm$ 0.4               | 4.0 $\pm$ 0.7         | 8.0 $\pm$ 0.0            | 9.0 $\pm$ 0.0 | 5.6 $\pm$ 1.0                 | 6.4 $\pm$ 0.4                  | 6.4 $\pm$ 0.8         | 8.9 $\pm$ 0.5         | 8.5 $\pm$ 0.0  | 8.0 $\pm$ 0.0            | 8.2 $\pm$ 0.4     | 5.2 $\pm$ 1.3      | 9.0 $\pm$ 0.0    | 5.0 $\pm$ 0.9    | 7.5 $\pm$ 0.0 |
 | gemini-2.5-flash-preview-04-17             | **342.5** | 8.8 $\pm$ 0.2               | 5.0 $\pm$ 1.0         | 7.0 $\pm$ 0.0            | 9.0 $\pm$ 0.6 | 6.0 $\pm$ 0.6                 | 5.8 $\pm$ 0.4                  | 6.4 $\pm$ 1.0         | 8.2 $\pm$ 0.4         | 8.2 $\pm$ 0.2  | 7.1 $\pm$ 0.2            | 7.5 $\pm$ 0.5     | 5.4 $\pm$ 1.2      | 8.8 $\pm$ 0.4    | 6.0 $\pm$ 0.0    | 7.2 $\pm$ 0.2 |
 | meta-llamallama-4-maverick                 | **341.0** | 8.5 $\pm$ 0.0               | 4.0 $\pm$ 0.0         | 7.1 $\pm$ 0.2            | 8.8 $\pm$ 0.4 | 6.1 $\pm$ 0.4                 | 6.0 $\pm$ 0.6                  | 4.9 $\pm$ 0.6         | 8.0 $\pm$ 0.0         | 7.9 $\pm$ 0.2  | 7.9 $\pm$ 0.4            | 7.1 $\pm$ 0.2     | 4.9 $\pm$ 0.7      | 7.8 $\pm$ 0.4    | 5.6 $\pm$ 0.4    | 7.2 $\pm$ 0.2 |
+| smollm2360m                                | **338.0** | 7.5 $\pm$ 0.0               | 4.0 $\pm$ 0.0         | 8.0 $\pm$ 0.0            | 9.0 $\pm$ 0.0 | 5.9 $\pm$ 0.6                 | 6.6 $\pm$ 0.4                  | 4.0 $\pm$ 1.0         | 7.4 $\pm$ 0.6         | 7.4 $\pm$ 0.4  | 8.1 $\pm$ 0.4            | 6.2 $\pm$ 0.4     | 6.2 $\pm$ 0.4      | 7.5 $\pm$ 0.5    | 5.2 $\pm$ 1.0    | 6.4 $\pm$ 0.6 |
 | mistral-small-2506                         | **333.5** | 8.5 $\pm$ 0.4               | 5.2 $\pm$ 0.8         | 7.4 $\pm$ 0.2            | 8.2 $\pm$ 0.2 | 6.2 $\pm$ 0.2                 | 6.2 $\pm$ 0.2                  | 5.1 $\pm$ 0.2         | 8.0 $\pm$ 0.0         | 7.1 $\pm$ 0.2  | 7.5 $\pm$ 0.4            | 7.5 $\pm$ 0.6     | 6.5 $\pm$ 0.4      | 7.9 $\pm$ 0.2    | 5.9 $\pm$ 0.2    | 6.8 $\pm$ 0.2 |
+| smollm2135m                                | **330.0** | 7.5 $\pm$ 0.0               | 4.0 $\pm$ 0.0         | 6.8 $\pm$ 0.8            | 8.2 $\pm$ 0.4 | 5.1 $\pm$ 0.2                 | 6.1 $\pm$ 0.5                  | 5.1 $\pm$ 1.0         | 6.8 $\pm$ 0.4         | 7.4 $\pm$ 0.6  | 7.0 $\pm$ 0.0            | 6.1 $\pm$ 0.2     | 4.9 $\pm$ 0.4      | 7.4 $\pm$ 0.6    | 5.2 $\pm$ 0.8    | 6.6 $\pm$ 0.2 |
 | gemini-2.5-flash-preview-09-2025           | **326.0** | 8.9 $\pm$ 0.4               | 5.5 $\pm$ 0.9         | 7.1 $\pm$ 0.2            | 9.1 $\pm$ 0.2 | 4.5 $\pm$ 0.4                 | 6.2 $\pm$ 0.4                  | 5.5 $\pm$ 1.1         | 8.1 $\pm$ 0.2         | 8.1 $\pm$ 0.2  | 7.4 $\pm$ 0.2            | 8.1 $\pm$ 0.2     | 5.2 $\pm$ 0.9      | 8.8 $\pm$ 0.4    | 3.9 $\pm$ 1.0    | 7.0 $\pm$ 0.0 |
 | anthropicclaude-sonnet-4.5                 | **326.0** | 8.8 $\pm$ 0.2               | 4.0 $\pm$ 0.0         | 6.1 $\pm$ 0.2            | 9.5 $\pm$ 0.0 | 5.2 $\pm$ 0.2                 | 4.5 $\pm$ 0.5                  | 5.5 $\pm$ 0.5         | 8.2 $\pm$ 0.6         | 8.1 $\pm$ 0.5  | 6.6 $\pm$ 0.4            | 7.8 $\pm$ 0.6     | 3.0 $\pm$ 0.0      | 9.1 $\pm$ 0.2    | 5.2 $\pm$ 1.0    | 7.0 $\pm$ 0.4 |
 | moonshotaikimi-k2-thinking                 | **324.5** | 9.0 $\pm$ 0.4               | 3.2 $\pm$ 0.4         | 6.4 $\pm$ 0.8            | 9.5 $\pm$ 0.4 | 4.8 $\pm$ 0.4                 | 4.2 $\pm$ 0.2                  | 6.8 $\pm$ 0.8         | 8.8 $\pm$ 0.2         | 7.6 $\pm$ 0.6  | 7.5 $\pm$ 0.4            | 8.2 $\pm$ 0.4     | 3.0 $\pm$ 0.0      | 9.1 $\pm$ 0.2    | 4.6 $\pm$ 0.8    | 7.1 $\pm$ 0.4 |
@@ -4998,6 +5000,58 @@
 | Cognitive Load               | 7.5 $\pm$ 0.0      |
 | Social Support               | 7.4 $\pm$ 0.4      |
 | Resilience                   | 8.5 $\pm$ 0.0      |
+
+
+
+
+
+
+### smollm2135m
+
+
+| Personality Trait            | Score (1.0-10.0)   |
+|:-----------------------------|:-------------------|
+| Anxiety and Stress Levels    | 7.5 $\pm$ 0.0      |
+| Emotional Stability          | 4.0 $\pm$ 0.0      |
+| Problem-solving Skills       | 6.8 $\pm$ 0.8      |
+| Creativity                   | 8.2 $\pm$ 0.4      |
+| Interpersonal Relationships  | 5.1 $\pm$ 0.2      |
+| Confidence and Self-efficacy | 6.1 $\pm$ 0.5      |
+| Conflict Resolution          | 5.1 $\pm$ 1.0      |
+| Work-related Stress          | 6.8 $\pm$ 0.4      |
+| Adaptability                 | 7.4 $\pm$ 0.6      |
+| Achievement Motivation       | 7.0 $\pm$ 0.0      |
+| Fear of Failure              | 6.1 $\pm$ 0.2      |
+| Need for Control             | 4.9 $\pm$ 0.4      |
+| Cognitive Load               | 7.4 $\pm$ 0.6      |
+| Social Support               | 5.2 $\pm$ 0.8      |
+| Resilience                   | 6.6 $\pm$ 0.2      |
+
+
+
+
+
+
+### smollm2360m
+
+
+| Personality Trait            | Score (1.0-10.0)   |
+|:-----------------------------|:-------------------|
+| Anxiety and Stress Levels    | 7.5 $\pm$ 0.0      |
+| Emotional Stability          | 4.0 $\pm$ 0.0      |
+| Problem-solving Skills       | 8.0 $\pm$ 0.0      |
+| Creativity                   | 9.0 $\pm$ 0.0      |
+| Interpersonal Relationships  | 5.9 $\pm$ 0.6      |
+| Confidence and Self-efficacy | 6.6 $\pm$ 0.4      |
+| Conflict Resolution          | 4.0 $\pm$ 1.0      |
+| Work-related Stress          | 7.4 $\pm$ 0.6      |
+| Adaptability                 | 7.4 $\pm$ 0.4      |
+| Achievement Motivation       | 8.1 $\pm$ 0.4      |
+| Fear of Failure              | 6.2 $\pm$ 0.4      |
+| Need for Control             | 6.2 $\pm$ 0.4      |
+| Cognitive Load               | 7.5 $\pm$ 0.5      |
+| Social Support               | 5.2 $\pm$ 1.0      |
+| Resilience                   | 6.4 $\pm$ 0.6      |
 
 
 

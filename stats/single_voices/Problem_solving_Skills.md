@@ -187,7 +187,9 @@
 | gemini-2.5-flash-preview-05-20 | 7.543 |
 | claude-haiku-4-5-20251001 | 7.543 |
 | mistral-small-2506 | 7.514 |
+| smollm2360m | 7.400 |
 | ibmgranite4350m-h | 7.400 |
 | moonshotaikimi-k2-thinking | 7.386 |
 | gemini-2.0-flash-lite-preview-02-05 | 7.329 |
 | anthropicclaude-sonnet-4.5 | 7.171 |
+| smollm2135m | 6.971 |

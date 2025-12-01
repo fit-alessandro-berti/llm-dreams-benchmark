@@ -157,7 +157,7 @@
 | gemma-3-27b-it | 8.043 |
 | ibmgranite41b-h | 8.043 |
 | meta-llamaLlama-3.2-1B-Instruct | 8.043 |
-| qwenqwen3-coder | 8.029 |
+| qwenqwen3-coder | 8.043 |
 | nvidianemotron-nano-9b-v2 | 8.014 |
 | claude-3-7-sonnet-20250219-thinking-high | 8.000 |
 | gemma312b-it-q8_0 | 8.000 |
@@ -187,7 +187,9 @@
 | gemini-2.0-flash-lite-preview-02-05 | 7.514 |
 | gemini-2.5-flash-preview-05-20 | 7.414 |
 | moonshotaikimi-k2-thinking | 7.414 |
+| smollm2135m | 7.371 |
 | claude-haiku-4-5-20251001 | 7.329 |
 | anthropicclaude-opus-4.1 | 7.300 |
 | anthropicclaude-sonnet-4.5 | 7.300 |
+| smollm2360m | 7.271 |
 | ibmgranite4350m-h | 7.171 |

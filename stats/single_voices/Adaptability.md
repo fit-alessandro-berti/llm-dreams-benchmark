@@ -51,12 +51,12 @@
 | phi4-reasoningplus | 8.871 |
 | qwen-plus-2025-01-25 | 8.871 |
 | gemini-2.0-pro-exp-02-05 | 8.857 |
+| gemini-2.5-pro-preview-06-05 | 8.857 |
 | gpt-4.1-mini-2025-04-14 | 8.857 |
 | openaigpt-oss-20b | 8.857 |
 | gemma-3-27b-it | 8.857 |
 | claude-4-opus-20250514 | 8.843 |
 | codestral-2501 | 8.843 |
-| gemini-2.5-pro-preview-06-05 | 8.843 |
 | grok-4-1-fast-reasoning | 8.843 |
 | gpt-4o-mini-2024-07-18 | 8.843 |
 | ChatGPT-5.1-Instant-20251113 | 8.829 |
@@ -126,9 +126,9 @@
 | qwen2.5-7b-instruct | 8.657 |
 | claude-haiku-4-5-20251001 | 8.643 |
 | gpt-5-chat-latest-2025-08-19 | 8.643 |
+| claude-opus-4-5-20251101 | 8.643 |
 | Gemini-1.5-Pro-Exp-0827 | 8.629 |
 | qwen-turbo-0428 | 8.629 |
-| claude-opus-4-5-20251101 | 8.629 |
 | minimaxminimax-m2free | 8.629 |
 | qwen2.5-7b-instruct-1m | 8.629 |
 | qwenqwen3-235b-a22b-07-25 | 8.629 |
@@ -190,4 +190,6 @@
 | meta-llamaLlama-3.2-1B-Instruct | 7.786 |
 | gemini-2.0-flash-lite-preview-02-05 | 7.671 |
 | mistral-small-2506 | 7.671 |
+| smollm2135m | 7.557 |
 | ibmgranite4350m-h | 7.286 |
+| smollm2360m | 7.286 |

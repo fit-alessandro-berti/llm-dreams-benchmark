@@ -82,6 +82,7 @@
     300,
     70
   ],
+  "arcee-aitrinity-mini": [],
   "baiduernie-4.5-21b-a3b": [
     21,
     3
@@ -168,10 +169,12 @@
     671,
     37
   ],
+  "deepseekdeepseek-v3.2": [],
   "deepseekdeepseek-v3.2-exp": [
     671,
     37
   ],
+  "deepseekdeepseek-v3.2-speciale": [],
   "devstral-small-2505": [
     24
   ],
@@ -562,6 +565,7 @@
   "phi4-reasoningplus": [
     14
   ],
+  "prime-intellectintellect-3": [],
   "qwen-max-2025-01-25": [
     325
   ],

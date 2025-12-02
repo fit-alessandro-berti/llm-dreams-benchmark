@@ -65,6 +65,7 @@
 | Grok-3-beta-thinking-20250303 | 8.486 |
 | o1-preview-2024-09-12 | 8.486 |
 | deepseek-aiDeepSeek-V3 | 8.471 |
+| deepseekdeepseek-v3.2 | 8.471 |
 | qwen2.5-7b-instruct | 8.471 |
 | o3-mini-20250131-HIGH | 8.457 |
 | qwen-plus-2025-01-25 | 8.457 |
@@ -105,6 +106,8 @@
 | chatgpt-4o-latest-2025-04-26 | 8.343 |
 | gpt-4o-mini-2024-11-05 | 8.343 |
 | phi4-reasoningplus | 8.343 |
+| deepseekdeepseek-v3.2-speciale | 8.329 |
+| prime-intellectintellect-3 | 8.329 |
 | chatgpt-4o-latest-20250215 | 8.329 |
 | Grok-4-fast-20251111 | 8.329 |
 | qwen31.7b | 8.329 |
@@ -127,6 +130,7 @@
 | grok-4-1-fast-reasoning | 8.243 |
 | qwen-turbo-0428 | 8.243 |
 | QwenQwen3-14B | 8.243 |
+| arcee-aitrinity-mini | 8.229 |
 | qwenqwen3-235b-a22b-07-25 | 8.214 |
 | Grok-4.1-20251118 | 8.186 |
 | deepseek-aiDeepSeek-R1-0528 | 8.186 |

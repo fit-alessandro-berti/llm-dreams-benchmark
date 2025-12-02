@@ -54,6 +54,7 @@
 | qwen2.5-7b-instruct-1m | 7.700 |
 | qwen2.5-omni-7b | 7.700 |
 | falcon310b-instruct-q8_0 | 7.686 |
+| deepseekdeepseek-v3.2 | 7.671 |
 | devstral-small-2505 | 7.657 |
 | falcon37b-instruct-q8_0 | 7.643 |
 | o4-mini-2025-04-16 | 7.643 |
@@ -132,7 +133,9 @@
 | gpt-4o-mini-2024-11-05 | 7.000 |
 | claude-3-opus-20240229 | 6.986 |
 | Gemini-1.5-Pro-Exp-0827 | 6.986 |
+| prime-intellectintellect-3 | 6.986 |
 | qwen38b | 6.986 |
+| deepseekdeepseek-v3.2-speciale | 6.971 |
 | allenaiolmo-3-7b-think | 6.957 |
 | ibmgranite41b-h | 6.957 |
 | grok-4-0709 | 6.943 |
@@ -181,6 +184,7 @@
 | gemini-2.5-pro-exp-03-25 | 6.157 |
 | gemini-2.5-flash-preview-04-17 | 6.129 |
 | moonshotaikimi-k2-thinking | 6.129 |
+| arcee-aitrinity-mini | 6.100 |
 | gemma34b-it-q8_0 | 6.071 |
 | gpt-5-chat-latest-2025-08-07 | 6.057 |
 | claude-3-5-haiku-20241022 | 6.043 |

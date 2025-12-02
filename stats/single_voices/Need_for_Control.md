@@ -3,6 +3,7 @@
 | Model | Average |
 |:--|--:|
 | phi4-mini-reasoning | 7.586 |
+| arcee-aitrinity-mini | 6.929 |
 | mistral-small-2506 | 6.871 |
 | QwenQwen3-235B-A22B | 6.829 |
 | ibmgranite41b-h | 6.814 |
@@ -14,6 +15,7 @@
 | claude-3-5-haiku-20241022 | 6.700 |
 | nousresearchhermes-4-70b | 6.700 |
 | gemini-2.5-flash-preview-09-2025 | 6.700 |
+| prime-intellectintellect-3 | 6.686 |
 | devstral-small-2505 | 6.671 |
 | z-aiglm-4.5-air | 6.671 |
 | z-aiglm-4.5 | 6.671 |
@@ -95,6 +97,7 @@
 | granite3.28b-instruct-q4_K_M | 6.114 |
 | granite4micro-h | 6.114 |
 | granite4small-h | 6.114 |
+| deepseekdeepseek-v3.2-speciale | 6.100 |
 | Gemini-1.5-Pro-Exp-0827 | 6.100 |
 | gemini-2.0-pro-exp-02-05 | 6.100 |
 | gemini-2.5-pro-exp-03-25 | 6.100 |
@@ -130,6 +133,7 @@
 | gemini-2.5-flash-preview-05-20 | 5.871 |
 | qwen34b | 5.871 |
 | qwenqwen3-235b-a22b-07-25 | 5.871 |
+| deepseekdeepseek-v3.2 | 5.857 |
 | anthropicclaude-sonnet-4.5 | 5.857 |
 | o1-pro-2024-12-17 | 5.857 |
 | o1-mini | 5.843 |

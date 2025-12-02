@@ -11,6 +11,7 @@
 | granite4small-h | 7.900 |
 | qwen2.5-14b-instruct | 7.900 |
 | ai21jamba-mini-1.7 | 7.886 |
+| deepseekdeepseek-v3.2 | 7.886 |
 | qwen2.5-72b-instruct | 7.886 |
 | gpt-4o-2024-08-06 | 7.871 |
 | inceptionmercury | 7.857 |
@@ -96,6 +97,7 @@
 | minimaxminimax-m2free | 6.786 |
 | nvidianemotron-nano-9b-v2 | 6.786 |
 | falcon33b-instruct-q8_0 | 6.786 |
+| deepseekdeepseek-v3.2-speciale | 6.771 |
 | gemini-1.5-flash-8b | 6.771 |
 | deepseek-aiDeepSeek-V3 | 6.757 |
 | gpt-4-1106-preview | 6.757 |
@@ -156,6 +158,7 @@
 | Gemini-1.5-Pro-Exp-0801 | 6.086 |
 | qwen-plus-0428 | 6.086 |
 | gemini-2.0-pro-exp-02-05 | 6.043 |
+| prime-intellectintellect-3 | 6.043 |
 | gemini-2.5-flash-preview-05-20 | 6.029 |
 | QwenQwen3-30B-A3B | 5.986 |
 | tngtechdeepseek-r1t-chimerafree | 5.986 |
@@ -182,6 +185,7 @@
 | QwenQwen3-235B-A22B | 5.286 |
 | gemini-3-pro-preview | 5.271 |
 | gemini-2.5-flash-preview-09-2025 | 5.257 |
+| arcee-aitrinity-mini | 5.243 |
 | anthropicclaude-sonnet-4.5 | 5.214 |
 | gemini-2.0-flash-lite-preview-02-05 | 5.200 |
 | gemma34b-it-q8_0 | 5.200 |

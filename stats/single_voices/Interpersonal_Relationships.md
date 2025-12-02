@@ -36,6 +36,7 @@
 | gpt-5-nano-2025-08-07 | 7.957 |
 | ministral-3b-2410 | 7.943 |
 | mistral-large-2407 | 7.929 |
+| deepseekdeepseek-v3.2 | 7.914 |
 | ai21jamba-mini-1.7 | 7.914 |
 | gpt-4.1-2025-04-14 | 7.914 |
 | codex-mini-latest | 7.886 |
@@ -145,6 +146,7 @@
 | mistral-medium-2508 | 7.071 |
 | chatgpt-4o-latest-2025-04-26 | 7.071 |
 | claude-opus-4-5-20251101 | 7.057 |
+| prime-intellectintellect-3 | 7.057 |
 | deepseek-aiDeepSeek-R1-0528 | 7.043 |
 | Gemini-1.5-Pro-Exp-0827 | 7.000 |
 | claude-3-5-sonnet-20241022 | 6.971 |
@@ -157,6 +159,7 @@
 | gemini-2.5-flash-lite-preview-09-2025 | 6.814 |
 | chatgpt-4o-latest-2025-01-29 | 6.800 |
 | grok-3-mini-beta | 6.771 |
+| deepseekdeepseek-v3.2-speciale | 6.757 |
 | DeepSeek-V3-0324 | 6.743 |
 | r1-1776 | 6.714 |
 | meta-llamaMeta-Llama-3.1-8B-Instruct | 6.700 |
@@ -176,6 +179,7 @@
 | chatgpt-4o-latest-20250215 | 6.400 |
 | moonshotaikimi-k2-thinking | 6.357 |
 | Qwen-QwQ-32B | 6.271 |
+| arcee-aitrinity-mini | 6.271 |
 | gemma34b-it-q8_0 | 6.257 |
 | gpt-5-chat-latest-2025-08-07 | 6.243 |
 | anthropicclaude-sonnet-4.5 | 6.243 |

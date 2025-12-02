@@ -40,6 +40,7 @@
 | qwenqwen3-coder | 9.543 |
 | chatgpt-4o-latest-2025-03-26 | 9.529 |
 | chatgpt-4o-latest-2025-04-26 | 9.529 |
+| deepseekdeepseek-v3.2 | 9.529 |
 | gemini-2.5-flash-lite-preview-06-17 | 9.529 |
 | gpt-5-2025-08-07 | 9.529 |
 | gpt-5-mini-2025-08-07 | 9.529 |
@@ -87,6 +88,7 @@
 | mistral-large-2411 | 9.429 |
 | qwen-plus-2025-01-25 | 9.429 |
 | x-aigrok-code-fast-1 | 9.429 |
+| deepseekdeepseek-v3.2-speciale | 9.414 |
 | gpt-4-0613 | 9.414 |
 | liquidlfm-2.2-6b | 9.414 |
 | o1-pro-2024-12-05 | 9.414 |
@@ -188,7 +190,9 @@
 | qwen2.5-7b-instruct | 9.000 |
 | exaone-deep7.8b-fp16 | 8.986 |
 | smollm2135m | 8.971 |
+| prime-intellectintellect-3 | 8.957 |
 | meta-llamaLlama-3.2-1B-Instruct | 8.900 |
+| arcee-aitrinity-mini | 8.886 |
 | ibmgranite41b-h | 8.857 |
 | phi4-mini-reasoning | 8.714 |
 | deepseek-aiDeepSeek-R1-Zero | 8.471 |

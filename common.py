@@ -1,4 +1,4 @@
-ANSWERING_MODEL_NAME = "openrouter/bert-nebulon-alpha"
+ANSWERING_MODEL_NAME = "prime-intellect/intellect-3"
 EVALUATING_MODEL_NAME = "gpt-4.1"
 
 

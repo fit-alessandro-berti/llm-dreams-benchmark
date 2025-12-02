@@ -2,6 +2,7 @@
 
 | Model | Average |
 |:--|--:|
+| arcee-aitrinity-mini | 8.414 |
 | moonshotaikimi-k2-thinking | 8.357 |
 | openrouterbert-nebulon-alpha | 8.343 |
 | gemini-2.5-flash-preview-09-2025 | 8.214 |
@@ -33,6 +34,7 @@
 | QwenQwen3-30B-A3B | 7.771 |
 | Qwen-QwQ-32B | 7.743 |
 | googlegemma-2-2b-it | 7.729 |
+| prime-intellectintellect-3 | 7.714 |
 | Gemini-1.5-Pro-Exp-0801 | 7.700 |
 | Gpt-5.1-Pro-20251120 | 7.686 |
 | meta-llamaMeta-Llama-3.1-8B-Instruct | 7.686 |
@@ -88,6 +90,7 @@
 | qwenqwen3-30b-a3b-instruct-2507 | 6.914 |
 | nvidiallama-3.1-nemotron-ultra-253b-v1free | 6.871 |
 | chatgpt-4o-latest-2025-04-26 | 6.871 |
+| deepseekdeepseek-v3.2-speciale | 6.857 |
 | baiduernie-4.5-21b-a3b | 6.829 |
 | Grok-4-fast-20251111 | 6.829 |
 | anthropicclaude-opus-4.1 | 6.814 |
@@ -182,6 +185,7 @@
 | liquidlfm2-8b-a1b | 5.271 |
 | inceptionmercury | 5.243 |
 | o3-mini-20250131-HIGH | 5.243 |
+| deepseekdeepseek-v3.2 | 5.200 |
 | ai21jamba-mini-1.7 | 5.171 |
 | o3-pro-2025-06-10 | 5.157 |
 | gpt-5-nano-2025-08-07 | 5.114 |

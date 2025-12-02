@@ -13,6 +13,7 @@
 | microsoftphi-4 | 8.914 |
 | qwen-turbo-2024-11-01 | 8.914 |
 | microsoftWizardLM-2-8x22B | 8.900 |
+| deepseekdeepseek-v3.2 | 8.886 |
 | open-mistral-nemo | 8.871 |
 | inceptionmercury | 8.857 |
 | codestral-2501 | 8.829 |
@@ -99,6 +100,7 @@
 | gpt-4.1-nano-2025-04-14 | 8.429 |
 | Grok-4-fast-20251111 | 8.429 |
 | nousresearchhermes-4-70b | 8.429 |
+| prime-intellectintellect-3 | 8.429 |
 | gemma-3-27b-it | 8.414 |
 | deepseek-aiDeepSeek-R1-0528 | 8.400 |
 | Grok-3-beta-thinking-20250303 | 8.400 |
@@ -146,6 +148,7 @@
 | r1-1776 | 8.214 |
 | claude-3-opus-20240229 | 8.200 |
 | claude-opus-4-5-20251101 | 8.200 |
+| deepseekdeepseek-v3.2-speciale | 8.186 |
 | meta-llamaMeta-Llama-3.1-70B-Instruct | 8.186 |
 | googlegemma-2-9b-it | 8.171 |
 | meta-llamaLlama-3.2-3B-Instruct | 8.143 |
@@ -178,6 +181,7 @@
 | claude-3-5-haiku-20241022 | 7.829 |
 | grok-3-mini-beta | 7.829 |
 | gemini-2.5-flash-preview-04-17 | 7.800 |
+| arcee-aitrinity-mini | 7.786 |
 | meta-llamallama-4-maverick | 7.786 |
 | gemini-3-pro-preview | 7.729 |
 | gemma31b-it-q8_0 | 7.700 |

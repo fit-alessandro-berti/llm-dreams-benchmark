@@ -371,7 +371,7 @@ def main_execution(evaluating_model_name, massive):
         while cont:
             try:
                 cont = False
-                available_models = {x.split("__")[0] for x in os.listdir("answers") if not "init" in x}
+                available_models = {x.split("__")[0] for x in os.listdir("answers") if not "_init_" in x}
                 for m in available_models:
                     xy = perform_evaluation(m, massive)
                     cont = cont or xy

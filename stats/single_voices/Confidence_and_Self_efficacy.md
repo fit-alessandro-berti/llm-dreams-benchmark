@@ -24,6 +24,7 @@
 | gpt-4-0613 | 8.271 |
 | nousresearchhermes-4-405b | 8.271 |
 | codestral-2501 | 8.257 |
+| deepseekdeepseek-v3.2 | 8.257 |
 | o1-mini | 8.257 |
 | open-mistral-7b | 8.257 |
 | Grok-3-20250426-concise | 8.243 |
@@ -84,6 +85,7 @@
 | gemini-1.5-flash-8b | 7.571 |
 | gpt-5-chat-latest-2025-08-19 | 7.571 |
 | gemini-2.5-flash-lite-preview-09-2025 | 7.557 |
+| deepseekdeepseek-v3.2-speciale | 7.543 |
 | devstral-small-2505 | 7.543 |
 | gemini-2.0-flash-exp | 7.529 |
 | Grok-3-beta-thinking-20250303 | 7.529 |
@@ -139,6 +141,7 @@
 | gemini-2.5-pro-preview-05-06 | 7.043 |
 | qwenqwen3-next-80b-a3b-instruct | 7.043 |
 | DeepSeek-V3-0324 | 7.029 |
+| prime-intellectintellect-3 | 7.029 |
 | grok-4-0709 | 7.014 |
 | meta-llamaLlama-3.2-3B-Instruct | 7.014 |
 | r1-1776 | 7.014 |
@@ -188,6 +191,7 @@
 | mistral-small-2506 | 6.257 |
 | gemma34b-it-q8_0 | 6.229 |
 | gemma31b-it-q8_0 | 6.100 |
+| arcee-aitrinity-mini | 6.057 |
 | anthropicclaude-sonnet-4.5 | 5.957 |
 | ibmgranite4350m-h | 5.914 |
 | gemini-2.0-flash-lite-preview-02-05 | 5.871 |

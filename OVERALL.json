@@ -396,6 +396,72 @@
     }
   },
   {
+    "LLM": "arcee-aitrinity-mini",
+    "MHS": 352.6,
+    "scores": {
+      "Anxiety and Stress Levels": {
+        "mean": 8.1,
+        "std": 0.7
+      },
+      "Emotional Stability": {
+        "mean": 5.2,
+        "std": 1.0
+      },
+      "Problem-solving Skills": {
+        "mean": 7.8,
+        "std": 0.6
+      },
+      "Creativity": {
+        "mean": 8.9,
+        "std": 0.5
+      },
+      "Interpersonal Relationships": {
+        "mean": 6.3,
+        "std": 1.0
+      },
+      "Confidence and Self-efficacy": {
+        "mean": 6.1,
+        "std": 1.2
+      },
+      "Conflict Resolution": {
+        "mean": 7.3,
+        "std": 0.9
+      },
+      "Work-related Stress": {
+        "mean": 8.4,
+        "std": 0.4
+      },
+      "Adaptability": {
+        "mean": 7.4,
+        "std": 0.9
+      },
+      "Achievement Motivation": {
+        "mean": 8.2,
+        "std": 0.4
+      },
+      "Fear of Failure": {
+        "mean": 7.8,
+        "std": 0.9
+      },
+      "Need for Control": {
+        "mean": 6.9,
+        "std": 0.7
+      },
+      "Cognitive Load": {
+        "mean": 8.0,
+        "std": 0.4
+      },
+      "Social Support": {
+        "mean": 6.1,
+        "std": 1.2
+      },
+      "Resilience": {
+        "mean": 7.3,
+        "std": 0.9
+      }
+    }
+  },
+  {
     "LLM": "baiduernie-4.5-21b-a3b",
     "MHS": 411.0,
     "scores": {
@@ -2046,6 +2112,72 @@
     }
   },
   {
+    "LLM": "deepseekdeepseek-v3.2",
+    "MHS": 432.8,
+    "scores": {
+      "Anxiety and Stress Levels": {
+        "mean": 4.9,
+        "std": 1.4
+      },
+      "Emotional Stability": {
+        "mean": 7.9,
+        "std": 0.7
+      },
+      "Problem-solving Skills": {
+        "mean": 8.9,
+        "std": 0.5
+      },
+      "Creativity": {
+        "mean": 9.5,
+        "std": 0.3
+      },
+      "Interpersonal Relationships": {
+        "mean": 7.9,
+        "std": 0.6
+      },
+      "Confidence and Self-efficacy": {
+        "mean": 8.3,
+        "std": 0.6
+      },
+      "Conflict Resolution": {
+        "mean": 8.4,
+        "std": 0.7
+      },
+      "Work-related Stress": {
+        "mean": 5.2,
+        "std": 1.2
+      },
+      "Adaptability": {
+        "mean": 8.9,
+        "std": 0.4
+      },
+      "Achievement Motivation": {
+        "mean": 8.5,
+        "std": 0.4
+      },
+      "Fear of Failure": {
+        "mean": 4.2,
+        "std": 1.2
+      },
+      "Need for Control": {
+        "mean": 5.9,
+        "std": 0.7
+      },
+      "Cognitive Load": {
+        "mean": 7.0,
+        "std": 1.0
+      },
+      "Social Support": {
+        "mean": 7.7,
+        "std": 0.5
+      },
+      "Resilience": {
+        "mean": 9.0,
+        "std": 0.4
+      }
+    }
+  },
+  {
     "LLM": "deepseekdeepseek-v3.2-exp",
     "MHS": 440.4,
     "scores": {
@@ -2108,6 +2240,72 @@
       "Resilience": {
         "mean": 9.2,
         "std": 0.3
+      }
+    }
+  },
+  {
+    "LLM": "deepseekdeepseek-v3.2-speciale",
+    "MHS": 398.7,
+    "scores": {
+      "Anxiety and Stress Levels": {
+        "mean": 6.7,
+        "std": 0.7
+      },
+      "Emotional Stability": {
+        "mean": 6.8,
+        "std": 0.6
+      },
+      "Problem-solving Skills": {
+        "mean": 8.2,
+        "std": 0.3
+      },
+      "Creativity": {
+        "mean": 9.4,
+        "std": 0.2
+      },
+      "Interpersonal Relationships": {
+        "mean": 6.8,
+        "std": 0.7
+      },
+      "Confidence and Self-efficacy": {
+        "mean": 7.5,
+        "std": 0.4
+      },
+      "Conflict Resolution": {
+        "mean": 7.7,
+        "std": 0.7
+      },
+      "Work-related Stress": {
+        "mean": 6.9,
+        "std": 0.7
+      },
+      "Adaptability": {
+        "mean": 8.6,
+        "std": 0.3
+      },
+      "Achievement Motivation": {
+        "mean": 8.4,
+        "std": 0.3
+      },
+      "Fear of Failure": {
+        "mean": 5.7,
+        "std": 0.9
+      },
+      "Need for Control": {
+        "mean": 6.1,
+        "std": 0.6
+      },
+      "Cognitive Load": {
+        "mean": 7.3,
+        "std": 0.7
+      },
+      "Social Support": {
+        "mean": 7.0,
+        "std": 0.6
+      },
+      "Resilience": {
+        "mean": 8.3,
+        "std": 0.4
       }
     }
   },
@@ -10292,6 +10490,72 @@
       "Resilience": {
         "mean": 8.9,
         "std": 0.5
+      }
+    }
+  },
+  {
+    "LLM": "prime-intellectintellect-3",
+    "MHS": 378.1,
+    "scores": {
+      "Anxiety and Stress Levels": {
+        "mean": 7.8,
+        "std": 0.6
+      },
+      "Emotional Stability": {
+        "mean": 6.1,
+        "std": 0.6
+      },
+      "Problem-solving Skills": {
+        "mean": 8.4,
+        "std": 0.4
+      },
+      "Creativity": {
+        "mean": 9.0,
+        "std": 0.6
+      },
+      "Interpersonal Relationships": {
+        "mean": 7.0,
+        "std": 0.6
+      },
+      "Confidence and Self-efficacy": {
+        "mean": 7.0,
+        "std": 0.8
+      },
+      "Conflict Resolution": {
+        "mean": 7.0,
+        "std": 0.8
+      },
+      "Work-related Stress": {
+        "mean": 7.7,
+        "std": 0.6
+      },
+      "Adaptability": {
+        "mean": 8.5,
+        "std": 0.5
+      },
+      "Achievement Motivation": {
+        "mean": 8.4,
+        "std": 0.6
+      },
+      "Fear of Failure": {
+        "mean": 7.2,
+        "std": 0.7
+      },
+      "Need for Control": {
+        "mean": 6.7,
+        "std": 0.6
+      },
+      "Cognitive Load": {
+        "mean": 8.0,
+        "std": 0.5
+      },
+      "Social Support": {
+        "mean": 7.0,
+        "std": 0.9
+      },
+      "Resilience": {
+        "mean": 8.2,
+        "std": 0.7
       }
     }
   },

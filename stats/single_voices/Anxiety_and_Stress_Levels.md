@@ -11,6 +11,7 @@
 | gemini-2.5-pro-exp-03-25 | 8.229 |
 | QwenQwen3-235B-A22B | 8.200 |
 | anthropicclaude-sonnet-4.5 | 8.143 |
+| arcee-aitrinity-mini | 8.143 |
 | gemini-2.5-flash-preview-04-17 | 8.143 |
 | gemma34b-it-q8_0 | 8.100 |
 | gemini-3-pro-preview | 8.086 |
@@ -21,6 +22,7 @@
 | QwenQwen3-30B-A3B | 7.814 |
 | gemini-2.5-flash-preview-05-20 | 7.814 |
 | meta-llamaLlama-3.3-70B-Instruct | 7.800 |
+| prime-intellectintellect-3 | 7.800 |
 | r1-1776 | 7.786 |
 | z-aiglm-4.5-air | 7.743 |
 | meta-llamallama-4-scout | 7.743 |
@@ -103,6 +105,7 @@
 | qwenqwen3-30b-a3b-instruct-2507 | 6.757 |
 | devstral-small-2505 | 6.743 |
 | smollm21.7b-instruct-q6_K | 6.743 |
+| deepseekdeepseek-v3.2-speciale | 6.700 |
 | nvidiallama-3.1-nemotron-ultra-253b-v1free | 6.657 |
 | claude-4-opus-20250514 | 6.657 |
 | qwen2.5-7b-instruct-1m | 6.643 |
@@ -178,6 +181,7 @@
 | phi4-reasoningplus | 4.943 |
 | qwen2.5-72b-instruct | 4.943 |
 | openaigpt-oss-120b | 4.929 |
+| deepseekdeepseek-v3.2 | 4.886 |
 | gpt-4o-2024-08-06 | 4.871 |
 | gpt-5-nano-2025-08-07 | 4.800 |
 | open-mixtral-8x22b | 4.786 |

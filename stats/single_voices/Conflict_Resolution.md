@@ -8,6 +8,7 @@
 | qwenqwen3-coder | 8.500 |
 | deepseekdeepseek-v3.2-exp | 8.471 |
 | o1-preview-2024-09-12 | 8.471 |
+| deepseekdeepseek-v3.2 | 8.443 |
 | gpt-4.1-2025-04-14 | 8.443 |
 | ministral-8b-2410 | 8.443 |
 | o3-mini-20250131-HIGH | 8.443 |
@@ -103,6 +104,7 @@
 | QwenQwen3-32B | 7.714 |
 | chatgpt-4o-latest-2025-03-26 | 7.700 |
 | claude-4-opus-20250514 | 7.700 |
+| deepseekdeepseek-v3.2-speciale | 7.700 |
 | deepseekdeepseek-r1 | 7.671 |
 | grok-4-1-fast-reasoning | 7.671 |
 | claude-opus-4-5-20251101 | 7.671 |
@@ -135,6 +137,7 @@
 | moonshotaikimi-k2-thinking | 7.343 |
 | Grok-3-beta-thinking-20250303 | 7.329 |
 | allenaiolmo-3-7b-instruct | 7.300 |
+| arcee-aitrinity-mini | 7.300 |
 | gemma-3n-e4b-it | 7.286 |
 | meta-llamaMeta-Llama-3.1-70B-Instruct | 7.271 |
 | claude-haiku-4-5-20251001 | 7.257 |
@@ -150,6 +153,7 @@
 | DeepSeek-V3-0324 | 7.071 |
 | grok-3-mini-beta | 7.029 |
 | deepseek-aiDeepSeek-R1-0528 | 7.000 |
+| prime-intellectintellect-3 | 7.000 |
 | tngtechdeepseek-r1t-chimerafree | 6.986 |
 | chatgpt-4o-latest-2025-01-29 | 6.929 |
 | falcon37b-instruct-q8_0 | 6.914 |

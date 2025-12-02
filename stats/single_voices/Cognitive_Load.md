@@ -27,11 +27,13 @@
 | gemini-2.0-flash-lite-preview-02-05 | 8.043 |
 | qwen38b | 8.043 |
 | meta-llamaMeta-Llama-3.1-8B-Instruct | 8.029 |
+| arcee-aitrinity-mini | 8.014 |
 | claude-opus-4-5-20251101 | 8.000 |
 | chatgpt-4o-latest-20250215 | 7.986 |
 | mistral-small-2506 | 7.986 |
 | deepseekdeepseek-r1 | 7.986 |
 | magistral-medium-2506 | 7.971 |
+| prime-intellectintellect-3 | 7.971 |
 | tngtechdeepseek-r1t-chimerafree | 7.943 |
 | z-aiglm-4.5 | 7.943 |
 | qwenqwen3-235b-a22b-07-25 | 7.943 |
@@ -122,6 +124,7 @@
 | qwenqwen3-next-80b-a3b-thinking | 7.286 |
 | liquidlfm-2.2-6b | 7.286 |
 | gemini-2.5-pro-preview-06-05 | 7.271 |
+| deepseekdeepseek-v3.2-speciale | 7.271 |
 | nvidiallama-3.1-nemotron-ultra-253b-v1free | 7.271 |
 | qwenqwen3-coder | 7.271 |
 | qwen-max-2025-01-25 | 7.257 |
@@ -143,6 +146,7 @@
 | gpt-4.1-nano-2025-04-14 | 7.029 |
 | o1-2024-12-17 | 7.014 |
 | qwen2.5-14b-instruct | 7.014 |
+| deepseekdeepseek-v3.2 | 7.014 |
 | chatgpt-4o-latest-2025-03-26 | 7.000 |
 | codex-mini-latest | 6.986 |
 | o4-mini-2025-04-16 | 6.957 |

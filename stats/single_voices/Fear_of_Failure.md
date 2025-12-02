@@ -5,6 +5,7 @@
 | gemini-2.0-flash-lite-preview-02-05 | 7.943 |
 | openrouterbert-nebulon-alpha | 7.871 |
 | gemini-2.5-flash-preview-09-2025 | 7.857 |
+| arcee-aitrinity-mini | 7.814 |
 | qwenqwen3-235b-a22b-thinking-2507 | 7.800 |
 | mistral-small-2506 | 7.700 |
 | moonshotaikimi-k2-thinking | 7.657 |
@@ -18,6 +19,7 @@
 | meta-llamallama-4-maverick | 7.371 |
 | gemma34b-it-q8_0 | 7.357 |
 | QwenQwen3-30B-A3B | 7.314 |
+| prime-intellectintellect-3 | 7.257 |
 | tngtechdeepseek-r1t-chimerafree | 7.200 |
 | Grok-4.1-20251118 | 7.186 |
 | gemini-2.0-pro-exp-02-05 | 7.186 |
@@ -106,6 +108,7 @@
 | exaone-deep7.8b-fp16 | 5.729 |
 | qwen2.5-7b-instruct-1m | 5.729 |
 | ai21jamba-large-1.7 | 5.700 |
+| deepseekdeepseek-v3.2-speciale | 5.700 |
 | phi4-mini-reasoning | 5.700 |
 | qwenqwen3-next-80b-a3b-thinking | 5.686 |
 | minimaxminimax-m2free | 5.657 |
@@ -176,6 +179,7 @@
 | openaigpt-oss-120b | 4.200 |
 | grok-2-1212 | 4.200 |
 | inceptionmercury | 4.200 |
+| deepseekdeepseek-v3.2 | 4.171 |
 | phi4-reasoningplus | 4.157 |
 | gpt-4o-2024-08-06 | 4.129 |
 | deepseekdeepseek-v3.2-exp | 4.100 |

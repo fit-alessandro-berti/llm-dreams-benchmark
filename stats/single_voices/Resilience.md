@@ -23,6 +23,7 @@
 | gpt-4o-2024-08-06 | 8.986 |
 | o1-mini | 8.986 |
 | o3-2025-04-16 | 8.986 |
+| deepseekdeepseek-v3.2 | 8.971 |
 | gpt-4-0125-preview | 8.971 |
 | gpt-5-nano-2025-08-07 | 8.971 |
 | open-mistral-nemo | 8.957 |
@@ -138,12 +139,14 @@
 | x-aigrok-code-fast-1 | 8.300 |
 | claude-4-opus-20250514 | 8.300 |
 | nvidiaLlama-3.1-Nemotron-70B-Instruct | 8.286 |
+| deepseekdeepseek-v3.2-speciale | 8.271 |
 | r1-1776 | 8.257 |
 | ibmgranite41b-h | 8.229 |
 | claude-haiku-4-5-20251001 | 8.200 |
 | gpt-4o-mini-2024-11-05 | 8.200 |
 | meta-llamaMeta-Llama-3.1-405B-Instruct | 8.200 |
 | allenaiolmo-3-7b-instruct | 8.171 |
+| prime-intellectintellect-3 | 8.171 |
 | claude-3-opus-20240229 | 8.157 |
 | qwen34b | 8.157 |
 | claude-opus-4-5-20251101 | 8.129 |
@@ -186,6 +189,7 @@
 | nvidiallama-3.1-nemotron-nano-8b-v1 | 7.386 |
 | gemma31b-it-q8_0 | 7.357 |
 | anthropicclaude-sonnet-4.5 | 7.329 |
+| arcee-aitrinity-mini | 7.329 |
 | phi4-mini-reasoning | 7.286 |
 | claude-3-5-haiku-20241022 | 7.257 |
 | openrouterbert-nebulon-alpha | 7.229 |

@@ -82,7 +82,10 @@
     300,
     70
   ],
-  "arcee-aitrinity-mini": [],
+  "arcee-aitrinity-mini": [
+    26,
+    3
+  ],
   "baiduernie-4.5-21b-a3b": [
     21,
     3
@@ -169,12 +172,18 @@
     671,
     37
   ],
-  "deepseekdeepseek-v3.2": [],
+  "deepseekdeepseek-v3.2": [
+    671,
+    37
+  ],
   "deepseekdeepseek-v3.2-exp": [
     671,
     37
   ],
-  "deepseekdeepseek-v3.2-speciale": [],
+  "deepseekdeepseek-v3.2-speciale": [
+    671,
+    37
+  ],
   "devstral-small-2505": [
     24
   ],
@@ -565,7 +574,10 @@
   "phi4-reasoningplus": [
     14
   ],
-  "prime-intellectintellect-3": [],
+  "prime-intellectintellect-3": [
+    106,
+    12
+  ],
   "qwen-max-2025-01-25": [
     325
   ],

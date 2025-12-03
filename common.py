@@ -1,4 +1,4 @@
-ANSWERING_MODEL_NAME = "prime-intellect/intellect-3"
+ANSWERING_MODEL_NAME = "amazon/nova-2-lite-v1"
 EVALUATING_MODEL_NAME = "gpt-4.1"
 
 

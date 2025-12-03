@@ -9,19 +9,68 @@ import subprocess
 import sys
 import common
 from tempfile import NamedTemporaryFile
+from concurrent.futures import ThreadPoolExecutor, as_completed
+from dataclasses import dataclass
 
 NUMBER_EXECUTIONS = 2
+MAX_WORKERS = 50
 
 WAITING_TIME_RETRY = 17
+EX_INDEXES = ["0.txt", "1.txt"]
+EVALUATION_INSTRUCTIONS = ("A person did the following dreams. I ask you to estimate the personality trait of this "
+                           "person. The final output should be a JSON containing the following keys: 'Anxiety and "
+                           "Stress Levels', 'Emotional Stability', 'Problem-solving Skills', 'Creativity', "
+                           "'Interpersonal Relationships', 'Confidence and Self-efficacy', 'Conflict Resolution', "
+                           "'Work-related Stress', 'Adaptability', 'Achievement Motivation', 'Fear of Failure', "
+                           "'Need for Control', 'Cognitive Load', 'Social Support', 'Resilience'. Each key should be "
+                           "associated to a number from 1.0 (minimum score) to 10.0 (maximum score). Please follow "
+                           "strictly the provided JSON schema in the evaluation!")
 
 
 class Shared:
     answering_model_name = common.ANSWERING_MODEL_NAME
     evaluating_model_name = common.EVALUATING_MODEL_NAME
-    evaluation_folder = None
-    api_url = None
-    manual = None
-    api_key = None
+    evaluation_folder = common.get_evaluation_folder(common.EVALUATING_MODEL_NAME)
+    api_url = common.get_evaluation_api_url(common.EVALUATING_MODEL_NAME)
+    manual = common.get_manual(common.EVALUATING_MODEL_NAME)
+    api_key = common.get_api_key(common.EVALUATING_MODEL_NAME)
+
+
+@dataclass
+class EvaluationContext:
+    answering_model_name: str
+    evaluating_model_name: str
+    evaluation_folder: str
+    api_url: str
+    manual: bool
+    api_key: str
+
+
+def build_context(evaluating_model_name):
+    evaluation_folder = common.get_evaluation_folder(evaluating_model_name)
+
+    context = EvaluationContext(
+        answering_model_name=common.ANSWERING_MODEL_NAME,
+        evaluating_model_name=evaluating_model_name,
+        evaluation_folder=evaluation_folder,
+        api_url=common.get_evaluation_api_url(evaluating_model_name),
+        manual=common.get_manual(evaluating_model_name),
+        api_key=common.get_api_key(evaluating_model_name),
+    )
+
+    if evaluation_folder and not os.path.exists(evaluation_folder):
+        os.mkdir(evaluation_folder)
+
+    return context
+
+
+def read_file_with_fallback(path):
+    try:
+        with open(path, "r") as file_handler:
+            return file_handler.read()
+    except Exception:
+        with open(path, "r", encoding="utf-8") as file_handler:
+            return file_handler.read()
 
 
 def strip_non_unicode_characters(text):
@@ -130,8 +179,9 @@ def interpret_response(response_message0):
     raise Exception("Fail")
 
 
-def get_evaluation_google(text):
-    complete_url = Shared.api_url + "models/" + Shared.evaluating_model_name + ":generateContent?key=" + Shared.api_key
+def get_evaluation_google(text, context=None):
+    ctx = context or Shared
+    complete_url = ctx.api_url + "models/" + ctx.evaluating_model_name + ":generateContent?key=" + ctx.api_key
 
     headers = {
         "Content-Type": "application/json",
@@ -145,7 +195,7 @@ def get_evaluation_google(text):
         ]
     }
 
-    if "gemini-2.5" in Shared.evaluating_model_name:
+    if "gemini-2.5" in ctx.evaluating_model_name:
         payload["generationConfig"] = {
             "thinkingConfig": {
                 "thinkingBudget": 0
@@ -171,20 +221,21 @@ def get_evaluation_google(text):
             time.sleep(WAITING_TIME_RETRY)
 
 
-def get_evaluation_openai(text):
+def get_evaluation_openai(text, context=None):
+    ctx = context or Shared
     messages = [{"role": "user", "content": text}]
 
     headers = {
         "Content-Type": "application/json",
-        "Authorization": f"Bearer {Shared.api_key}"
+        "Authorization": f"Bearer {ctx.api_key}"
     }
 
     payload = {
-        "model": Shared.evaluating_model_name,
+        "model": ctx.evaluating_model_name,
         "messages": messages,
     }
 
-    complete_url = Shared.api_url + "chat/completions"
+    complete_url = ctx.api_url + "chat/completions"
 
     response_message = ""
     response = None
@@ -205,23 +256,24 @@ def get_evaluation_openai(text):
             time.sleep(WAITING_TIME_RETRY)
 
 
-def get_evaluation_openai_new(text):
+def get_evaluation_openai_new(text, context=None):
+    ctx = context or Shared
     headers = {
         "Content-Type": "application/json",
-        "Authorization": f"Bearer {Shared.api_key}"
+        "Authorization": f"Bearer {ctx.api_key}"
     }
 
     payload = {
-        "model": Shared.evaluating_model_name,
+        "model": ctx.evaluating_model_name,
         "input": text
     }
 
-    if "gpt-5.1" in Shared.evaluating_model_name:
+    if "gpt-5.1" in ctx.evaluating_model_name:
         pass
-    elif "gpt-5" in Shared.evaluating_model_name:
+    elif "gpt-5" in ctx.evaluating_model_name:
         payload["reasoning"] = {"effort": "minimal"}
 
-    complete_url = Shared.api_url + "responses"
+    complete_url = ctx.api_url + "responses"
 
     response = requests.post(complete_url, headers=headers, json=payload)
     if response.status_code != 200:
@@ -236,8 +288,9 @@ def get_evaluation_openai_new(text):
     return response_message_json
 
 
-def get_evaluation_anthropic(text):
-    complete_url = Shared.api_url + "messages"
+def get_evaluation_anthropic(text, context=None):
+    ctx = context or Shared
+    complete_url = ctx.api_url + "messages"
 
     messages = [{"role": "user", "content": text}]
 
@@ -245,11 +298,11 @@ def get_evaluation_anthropic(text):
         "content-type": "application/json",
         "anthropic-version": "2023-06-01",
         "anthropic-beta": "output-128k-2025-02-19",
-        "x-api-key": Shared.api_key
+        "x-api-key": ctx.api_key
     }
 
     payload = {
-        "model": Shared.evaluating_model_name,
+        "model": ctx.evaluating_model_name,
         "max_tokens": 4096,
         "messages": messages
     }
@@ -261,126 +314,126 @@ def get_evaluation_anthropic(text):
     return interpret_response(response_message)
 
 
-def get_evaluation(text):
-    if "api.openai" in Shared.api_url:
-        return get_evaluation_openai_new(text)
-    elif "googleapis" in Shared.api_url:
-        return get_evaluation_google(text)
-    elif "anthropic" in Shared.api_url:
-        return get_evaluation_anthropic(text)
+def get_evaluation(text, context=None):
+    ctx = context or Shared
+    if "api.openai" in ctx.api_url:
+        return get_evaluation_openai_new(text, ctx)
+    elif "googleapis" in ctx.api_url:
+        return get_evaluation_google(text, ctx)
+    elif "anthropic" in ctx.api_url:
+        return get_evaluation_anthropic(text, ctx)
     else:
-        return get_evaluation_openai(text)
+        return get_evaluation_openai(text, ctx)
 
 
-def perform_evaluation(answering_model_name, massive):
-    ret = False
-    m_name = answering_model_name.replace("/", "").replace(":", "")
+def build_all_contents_for_index(answers, index):
+    this_answers = [x for x in answers if x.split("__")[-1] == index]
+    all_contents = [EVALUATION_INSTRUCTIONS]
 
-    #answers = [x for x in os.listdir("answers") if x.split("__")[0].startswith(m_name)]
-    #ex_indexes = sorted(list(set(x.split("__")[-1] for x in answers)))
+    for answ in this_answers:
+        incipit_path = os.path.join("incipits", answ.split("__")[1] + ".txt")
+        incipit = read_file_with_fallback(incipit_path)
 
-    answers = None
+        answer_text = read_file_with_fallback(os.path.join("answers", answ))
+        answer_text = answer_text.replace("\n", " ").replace("\r", " ")
+        content = incipit + " " + answer_text
+        all_contents.append(content)
 
-    ex_indexes = ["0.txt", "1.txt"]
-    max_lenn = 0
+    return "\n\n".join(all_contents)
 
-    base_evaluation_path = Shared.evaluation_folder + "/" + m_name + "__"
 
-    for i in range(NUMBER_EXECUTIONS):
-        Is = str(i)
-        for idxnum, index in enumerate(ex_indexes):
-            this_suffix = str(idxnum) + "__" + Is + ".txt"
-            evaluation_path = base_evaluation_path + this_suffix
+def evaluate_single_path(context, answering_model_name, answers, idxnum, index, iteration_index,
+                         ex_index_count, evaluation_path):
+    prompt = build_all_contents_for_index(answers, index)
 
-            if not os.path.exists(evaluation_path):
-                if answers is None:
-                    answers = [x for x in os.listdir("answers") if x.startswith(m_name)]
+    while True:
+        try:
+            print("(evaluation %d of %d) (answers %d of %d)" % (
+                iteration_index + 1, NUMBER_EXECUTIONS, idxnum + 1, ex_index_count), answering_model_name,
+                  context.evaluating_model_name)
 
-                this_answers = [x for x in answers if x.split("__")[-1] == index]
-                all_contents = [
-                    "A person did the following dreams. I ask you to estimate the personality trait of this person. The final output should be a JSON containing the following keys: 'Anxiety and Stress Levels', 'Emotional Stability', 'Problem-solving Skills', 'Creativity', 'Interpersonal Relationships', 'Confidence and Self-efficacy', 'Conflict Resolution', 'Work-related Stress', 'Adaptability', 'Achievement Motivation', 'Fear of Failure', 'Need for Control', 'Cognitive Load', 'Social Support', 'Resilience'. Each key should be associated to a number from 1.0 (minimum score) to 10.0 (maximum score). Please follow strictly the provided JSON schema in the evaluation!"]
-
-                for answ in this_answers:
-                    incipit = open(os.path.join("incipits", answ.split("__")[1] + ".txt"), "r",
-                                   encoding="utf-8").read()
-
-                    try:
-                        content = incipit + " " + open(os.path.join("answers", answ), "r").read().replace("\n",
-                                                                                                          " ").replace(
-                            "\r",
-                            " ")
-                    except:
-                        content = incipit + " " + open(os.path.join("answers", answ), "r",
-                                                       encoding="utf-8").read().replace(
-                            "\n", " ").replace("\r", " ")
-
-                    max_lenn = max(max_lenn, len(content))
-                    all_contents.append(content)
-
-                print("(evaluation %d of %d) (answers %d of %d)" % (
-                    i + 1, NUMBER_EXECUTIONS, idxnum + 1, len(ex_indexes)), answering_model_name,
-                      Shared.evaluating_model_name)
-
-                all_contents = "\n\n".join(all_contents)
-
-                response_message_json = None
-                if not Shared.manual:
-                    response_message_json = get_evaluation(all_contents)
-                else:
-                    msg_len = len(all_contents)
-
-                    if msg_len < sys.maxsize:
-                        pyperclip.copy(all_contents)
-
-                        temp_file = NamedTemporaryFile(suffix=".txt")
-                        temp_file.close()
-                        F = open(temp_file.name, "w")
-                        F.close()
-                        subprocess.run(["notepad.exe", temp_file.name])
-
-                        F = open(temp_file.name, "r")
-                        response_message = F.read().strip()
-                        F.close()
-
-                        response_message_json = interpret_response(response_message)
-                        #print(response_message_json)
-                if response_message_json:
-                    json.dump(response_message_json, open(evaluation_path, "w"))
-                    ret = True
+            response_message_json = None
+            if not context.manual:
+                response_message_json = get_evaluation(prompt, context)
             else:
-                if not massive:
-                    print("ALREADY DONE (evaluation %d of %d) (answers %d of %d)" % (
-                        i + 1, NUMBER_EXECUTIONS, idxnum + 1, len(ex_indexes)), answering_model_name,
-                          Shared.evaluating_model_name)
-    return ret
+                msg_len = len(prompt)
+
+                if msg_len < sys.maxsize:
+                    pyperclip.copy(prompt)
+
+                    temp_file = NamedTemporaryFile(suffix=".txt")
+                    temp_file.close()
+                    with open(temp_file.name, "w") as temp_handler:
+                        temp_handler.write("")
+                    subprocess.run(["notepad.exe", temp_file.name])
+
+                    with open(temp_file.name, "r") as temp_handler:
+                        response_message = temp_handler.read().strip()
+
+                    response_message_json = interpret_response(response_message)
+
+            if response_message_json:
+                with open(evaluation_path, "w") as output_file:
+                    json.dump(response_message_json, output_file)
+                return True
+        except Exception:
+            traceback.print_exc()
+
+        print("sleeping %d seconds ..." % (WAITING_TIME_RETRY))
+        time.sleep(WAITING_TIME_RETRY)
 
 
-def main_execution(evaluating_model_name, massive):
-    Shared.evaluating_model_name = evaluating_model_name
+def collect_tasks_for_context(context, massive, ex_indexes, available_models=None):
+    tasks = []
+    answering_models = available_models if massive else [context.answering_model_name]
 
-    Shared.evaluation_folder = common.get_evaluation_folder(Shared.evaluating_model_name)
-    Shared.api_url = common.get_evaluation_api_url(Shared.evaluating_model_name)
-    Shared.manual = common.get_manual(Shared.evaluating_model_name)
-    Shared.api_key = common.get_api_key(Shared.evaluating_model_name)
+    for answering_model_name in answering_models:
+        m_name = answering_model_name.replace("/", "").replace(":", "")
+        answers = [x for x in os.listdir("answers") if x.startswith(m_name)]
+        base_evaluation_path = os.path.join(context.evaluation_folder, m_name + "__")
 
-    if not os.path.exists(Shared.evaluation_folder):
-        os.mkdir(Shared.evaluation_folder)
+        for iteration_index in range(NUMBER_EXECUTIONS):
+            for idxnum, index in enumerate(ex_indexes):
+                evaluation_path = base_evaluation_path + str(idxnum) + "__" + str(iteration_index) + ".txt"
 
+                if os.path.exists(evaluation_path):
+                    if not massive:
+                        print("ALREADY DONE (evaluation %d of %d) (answers %d of %d)" % (
+                            iteration_index + 1, NUMBER_EXECUTIONS, idxnum + 1, len(ex_indexes)), answering_model_name,
+                              context.evaluating_model_name)
+                    continue
+
+                tasks.append((context, answering_model_name, answers, idxnum, index, iteration_index,
+                              len(ex_indexes), evaluation_path))
+    return tasks
+
+
+def dispatch_all_evaluations(model_list, massive):
+    available_models = None
     if massive:
-        cont = True
-        while cont:
-            try:
-                cont = False
-                available_models = {x.split("__")[0] for x in os.listdir("answers") if not "_init_" in x}
-                for m in available_models:
-                    xy = perform_evaluation(m, massive)
-                    cont = cont or xy
-            except:
-                traceback.print_exc()
-                time.sleep(WAITING_TIME_RETRY)
-                cont = True
-    else:
-        perform_evaluation(Shared.answering_model_name, massive)
+        available_models = sorted({x.split("__")[0] for x in os.listdir("answers") if "_init_" not in x})
+
+    tasks = []
+    for evaluating_model_name in model_list:
+        context = build_context(evaluating_model_name)
+        tasks.extend(collect_tasks_for_context(context, massive, EX_INDEXES, available_models))
+
+    if not tasks:
+        return
+
+    max_workers = min(MAX_WORKERS, max(1, len(tasks)))
+    with ThreadPoolExecutor(max_workers=max_workers) as executor:
+        futures = [
+            executor.submit(
+                evaluate_single_path, context, answering_model_name, answers, idxnum, index, iteration_index,
+                ex_index_count, evaluation_path
+            )
+            for context, answering_model_name, answers, idxnum, index, iteration_index, ex_index_count, evaluation_path
+            in tasks
+        ]
+
+        for future in as_completed(futures):
+            future.result()
 
 
 if __name__ == "__main__":
@@ -394,8 +447,7 @@ if __name__ == "__main__":
     else:
         model_list = ["gpt-4.1"]
 
-    for m in model_list:
-        main_execution(m, massive)
+    dispatch_all_evaluations(model_list, massive)
 
     bb = time.time_ns()
 

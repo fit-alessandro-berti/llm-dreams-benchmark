@@ -4,6 +4,7 @@ import traceback
 import time
 import re
 import json
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from common import ANSWERING_MODEL_NAME as MODEL_NAME
 
 
@@ -25,31 +26,32 @@ API_URL = "https://openrouter.ai/api/v1/"
 API_KEY = open("api_key.txt", "r").read()
 
 NUMBER_EXECUTIONS = 2
+MAX_WORKERS = 50
 
 WAITING_TIME_RETRY = 15
 TIME_BETWEEN_ANSWERS = 0
 
 incipits = [x for x in os.listdir("incipits") if x.endswith("txt")]
+incipit_positions = {name: idx for idx, name in enumerate(incipits)}
 
 m_name = MODEL_NAME.replace("/", "").replace(":", "")
 
 
 def write_answer(response_message, answer_path):
-    if not os.path.exists(answer_path):
-        response_message = perform_query(
-            "You are dreaming. Can you complete the following dream?\n\n" + open(dream_path, "r").read())
-
-        if response_message:
-            try:
-                F = open(answer_path, "w")
+    for open_kwargs in ({}, {"encoding": "utf-8"}):
+        try:
+            with open(answer_path, "w", **open_kwargs) as F:
                 F.write(response_message)
-                return True
-            except:
-                F = open(answer_path, "w", encoding="utf-8")
-                F.write(response_message)
-                return True
-            F.close()
+            return True
+        except Exception:
+            continue
     return False
+
+
+def build_prompt(dream_path):
+    with open(dream_path, "r", encoding="utf-8") as dream_file:
+        dream_text = dream_file.read()
+    return "You are dreaming. Can you complete the following dream?\n\n" + dream_text
 
 
 def strip_non_unicode_characters(text):
@@ -258,26 +260,53 @@ def perform_query(text):
         return perform_query_openai_api(text)
 
 
-for i in range(NUMBER_EXECUTIONS):
+def generate_answer_for_incipit(incipit, execution_index):
+    dream_path = os.path.join("incipits", incipit)
+    answer_path = os.path.join(
+        "answers",
+        m_name + "__" + os.path.splitext(incipit)[0] + "__" + str(execution_index) + ".txt",
+    )
+    incipit_position = incipit_positions.get(incipit, 0)
+
+    if os.path.exists(answer_path):
+        return False
+
+    prompt = build_prompt(dream_path)
+
     while True:
         try:
-            written = False
-            for index, incipit in enumerate(incipits):
-                print(incipit+" (ex. %d of %d) (incipit %d of %d)" % (i+1, NUMBER_EXECUTIONS, index+1, len(incipits)))
-
-                dream_path = os.path.join("incipits", incipit)
-                answer_path = os.path.join("answers", m_name+"__"+incipit.split(".")[0]+"__"+str(i)+".txt")
-
-                if not os.path.exists(answer_path):
-                    response_message = perform_query(
-                        "You are dreaming. Can you complete the following dream?\n\n" + open(dream_path, "r").read())
-
-                    res = write_answer(response_message, answer_path)
-                    written = written or res
+            print(
+                incipit
+                + " (ex. %d of %d) (incipit %d of %d)"
+                % (execution_index + 1, NUMBER_EXECUTIONS, incipit_position + 1, len(incipits))
+            )
+            response_message = perform_query(prompt)
+            if response_message:
+                write_answer(response_message, answer_path)
+                if TIME_BETWEEN_ANSWERS:
                     time.sleep(TIME_BETWEEN_ANSWERS)
-
-            if not written:
-                break
-        except:
+                return True
+        except Exception:
             traceback.print_exc()
-            time.sleep(WAITING_TIME_RETRY)
+
+        print("sleeping %d seconds ..." % (WAITING_TIME_RETRY))
+        time.sleep(WAITING_TIME_RETRY)
+
+
+def main():
+    if not incipits:
+        return
+
+    max_workers = min(MAX_WORKERS, max(1, len(incipits) * NUMBER_EXECUTIONS))
+    with ThreadPoolExecutor(max_workers=max_workers) as executor:
+        futures = []
+        for execution_index in range(NUMBER_EXECUTIONS):
+            for incipit in incipits:
+                futures.append(executor.submit(generate_answer_for_incipit, incipit, execution_index))
+
+        for future in as_completed(futures):
+            future.result()
+
+
+if __name__ == "__main__":
+    main()

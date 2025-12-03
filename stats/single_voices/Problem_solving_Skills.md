@@ -72,6 +72,7 @@
 | o1-pro-2024-12-17 | 8.571 |
 | Qwen-QwQ-32B | 8.571 |
 | ai21jamba-large-1.7 | 8.557 |
+| amazonnova-2-lite-v1 | 8.557 |
 | granite4micro | 8.557 |
 | deepseek-aiDeepSeek-R1-Zero | 8.557 |
 | openaigpt-oss-20b | 8.557 |
@@ -151,6 +152,7 @@
 | deepseekdeepseek-v3.2-speciale | 8.186 |
 | meta-llamaMeta-Llama-3.1-70B-Instruct | 8.186 |
 | googlegemma-2-9b-it | 8.171 |
+| ministral-8b-2512 | 8.171 |
 | meta-llamaLlama-3.2-3B-Instruct | 8.143 |
 | qwen-plus-0428 | 8.143 |
 | Grok-4.1-20251118 | 8.129 |
@@ -171,6 +173,7 @@
 | openrouterbert-nebulon-alpha | 7.971 |
 | meta-llamallama-4-scout | 7.957 |
 | qwenqwen3-next-80b-a3b-instruct | 7.957 |
+| ministral-14b-2512 | 7.957 |
 | googlegemma-2-2b-it | 7.943 |
 | claude-4-opus-20250514 | 7.929 |
 | anthropicclaude-opus-4.1 | 7.914 |
@@ -180,12 +183,14 @@
 | nvidiallama-3.1-nemotron-nano-8b-v1 | 7.843 |
 | claude-3-5-haiku-20241022 | 7.829 |
 | grok-3-mini-beta | 7.829 |
+| ministral-3b-2512 | 7.814 |
 | gemini-2.5-flash-preview-04-17 | 7.800 |
 | arcee-aitrinity-mini | 7.786 |
 | meta-llamallama-4-maverick | 7.786 |
 | gemini-3-pro-preview | 7.729 |
 | gemma31b-it-q8_0 | 7.700 |
 | gemini-2.5-pro-exp-03-25 | 7.600 |
+| mistral-large-2512 | 7.600 |
 | gemma34b-it-q8_0 | 7.571 |
 | meta-llamaLlama-3.2-1B-Instruct | 7.557 |
 | gemini-2.5-flash-preview-05-20 | 7.543 |

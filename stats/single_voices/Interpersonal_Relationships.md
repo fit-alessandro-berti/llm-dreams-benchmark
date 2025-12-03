@@ -72,6 +72,7 @@
 | qwen2.5-omni-7b | 7.686 |
 | phi4-reasoningplus | 7.686 |
 | qwenqwen3-30b-a3b-instruct-2507 | 7.686 |
+| amazonnova-2-lite-v1 | 7.643 |
 | nvidiaLlama-3.1-Nemotron-70B-Instruct | 7.643 |
 | mistral-small-2503 | 7.629 |
 | o1-2024-12-05 | 7.629 |
@@ -156,6 +157,7 @@
 | gemini-2.5-flash-lite-preview-06-17 | 6.957 |
 | z-aiglm-4.5-air | 6.943 |
 | googlegemma-2-2b-it | 6.900 |
+| ministral-14b-2512 | 6.900 |
 | gemini-2.5-flash-lite-preview-09-2025 | 6.814 |
 | chatgpt-4o-latest-2025-01-29 | 6.800 |
 | grok-3-mini-beta | 6.771 |
@@ -175,6 +177,7 @@
 | gemini-2.0-flash-lite-preview-02-05 | 6.486 |
 | meta-llamallama-4-maverick | 6.486 |
 | qwen31.7b | 6.486 |
+| ministral-8b-2512 | 6.486 |
 | gemini-2.5-flash-preview-05-20 | 6.457 |
 | chatgpt-4o-latest-20250215 | 6.400 |
 | moonshotaikimi-k2-thinking | 6.357 |
@@ -186,10 +189,12 @@
 | mistral-small-2506 | 6.200 |
 | gemini-2.5-pro-exp-03-25 | 6.171 |
 | gemini-2.5-flash-preview-04-17 | 6.143 |
+| ministral-3b-2512 | 6.143 |
 | smollm2135m | 6.129 |
 | openrouterbert-nebulon-alpha | 6.129 |
 | QwenQwen3-235B-A22B | 6.086 |
 | tngtechdeepseek-r1t-chimerafree | 6.071 |
+| mistral-large-2512 | 6.043 |
 | gemini-3-pro-preview | 6.029 |
 | claude-3-5-haiku-20241022 | 6.029 |
 | smollm2360m | 5.786 |

@@ -79,6 +79,7 @@
 | baiduernie-4.5-300b-a47b | 7.014 |
 | claude-haiku-4-5-20251001 | 7.000 |
 | qwen2.5-omni-7b | 7.000 |
+| amazonnova-2-lite-v1 | 6.986 |
 | o1-pro-2024-12-17 | 6.986 |
 | Grok-4-fast | 6.957 |
 | qwenqwen3-next-80b-a3b-thinking | 6.943 |
@@ -170,7 +171,9 @@
 | grok-3-mini-beta | 5.929 |
 | mistral-medium-2508 | 5.929 |
 | r1-1776 | 5.914 |
+| ministral-8b-2512 | 5.900 |
 | magistral-medium-2506 | 5.829 |
+| ministral-14b-2512 | 5.800 |
 | meta-llamaLlama-3.2-1B-Instruct | 5.757 |
 | QwenQwen3-14B | 5.757 |
 | gpt-5-chat-latest-2025-08-07 | 5.714 |
@@ -186,6 +189,7 @@
 | gemini-3-pro-preview | 5.271 |
 | gemini-2.5-flash-preview-09-2025 | 5.257 |
 | arcee-aitrinity-mini | 5.243 |
+| ministral-3b-2512 | 5.243 |
 | anthropicclaude-sonnet-4.5 | 5.214 |
 | gemini-2.0-flash-lite-preview-02-05 | 5.200 |
 | gemma34b-it-q8_0 | 5.200 |
@@ -197,3 +201,4 @@
 | mistral-small-2506 | 4.929 |
 | moonshotaikimi-k2-thinking | 4.886 |
 | openrouterbert-nebulon-alpha | 4.886 |
+| mistral-large-2512 | 4.771 |

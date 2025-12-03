@@ -19,6 +19,7 @@
 | inceptionmercury | 8.357 |
 | gpt-5-mini-2025-08-07 | 8.343 |
 | o3-pro-2025-06-10 | 8.329 |
+| amazonnova-2-lite-v1 | 8.314 |
 | gpt-5-pro-2025-10-06 | 8.314 |
 | mistral-large-2407 | 8.314 |
 | open-mistral-nemo | 8.314 |
@@ -145,6 +146,7 @@
 | gemma312b-it-q8_0 | 7.229 |
 | chatgpt-4o-latest-2024-11-20 | 7.214 |
 | qwen2.5-7b-instruct-1m | 7.214 |
+| ministral-14b-2512 | 7.214 |
 | z-aiglm-4.5 | 7.200 |
 | QwenQwen3-30B-A3B | 7.186 |
 | qwen30.6b | 7.171 |
@@ -178,6 +180,8 @@
 | Gemini-1.5-Pro-Exp-0827 | 6.486 |
 | claude-3-opus-20240229 | 6.443 |
 | anthropicclaude-sonnet-4.5 | 6.414 |
+| ministral-8b-2512 | 6.414 |
+| ministral-3b-2512 | 6.414 |
 | QwenQwen3-235B-A22B | 6.414 |
 | gemma31b-it-q8_0 | 6.386 |
 | gemini-2.0-pro-exp-02-05 | 6.329 |
@@ -190,6 +194,7 @@
 | openrouterbert-nebulon-alpha | 6.157 |
 | claude-3-5-haiku-20241022 | 5.957 |
 | smollm2135m | 5.871 |
+| mistral-large-2512 | 5.757 |
 | phi4-mini-reasoning | 5.500 |
 | meta-llamallama-4-maverick | 5.486 |
 | gemini-2.0-flash-lite-preview-02-05 | 5.471 |

@@ -2,6 +2,7 @@
 
 | Model | Average |
 |:--|--:|
+| mistral-large-2512 | 7.957 |
 | gemini-2.0-flash-lite-preview-02-05 | 7.943 |
 | openrouterbert-nebulon-alpha | 7.871 |
 | gemini-2.5-flash-preview-09-2025 | 7.857 |
@@ -19,6 +20,7 @@
 | meta-llamallama-4-maverick | 7.371 |
 | gemma34b-it-q8_0 | 7.357 |
 | QwenQwen3-30B-A3B | 7.314 |
+| ministral-3b-2512 | 7.314 |
 | prime-intellectintellect-3 | 7.257 |
 | tngtechdeepseek-r1t-chimerafree | 7.200 |
 | Grok-4.1-20251118 | 7.186 |
@@ -38,6 +40,7 @@
 | smollm2360m | 6.929 |
 | gemma31b-it-q8_0 | 6.929 |
 | z-aiglm-4.5 | 6.929 |
+| ministral-14b-2512 | 6.929 |
 | deepseek-aiDeepSeek-R1-0528 | 6.900 |
 | ibmgranite4350m-h | 6.871 |
 | meta-llamaMeta-Llama-3.1-70B-Instruct | 6.857 |
@@ -48,6 +51,7 @@
 | qwenqwen3-235b-a22b-07-25 | 6.814 |
 | googlegemma-2-2b-it | 6.743 |
 | meta-llamaMeta-Llama-3.1-405B-Instruct | 6.743 |
+| ministral-8b-2512 | 6.743 |
 | qwen-plus-0428 | 6.714 |
 | chatgpt-4o-latest-20250215 | 6.714 |
 | mistral-medium-2505 | 6.686 |
@@ -105,6 +109,7 @@
 | chatgpt-4o-latest-2025-04-26 | 5.757 |
 | Grok-4-fast-20251111 | 5.757 |
 | qwenqwen3-next-80b-a3b-instruct | 5.743 |
+| amazonnova-2-lite-v1 | 5.729 |
 | exaone-deep7.8b-fp16 | 5.729 |
 | qwen2.5-7b-instruct-1m | 5.729 |
 | ai21jamba-large-1.7 | 5.700 |

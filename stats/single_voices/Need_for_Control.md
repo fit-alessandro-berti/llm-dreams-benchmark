@@ -4,6 +4,7 @@
 |:--|--:|
 | phi4-mini-reasoning | 7.586 |
 | arcee-aitrinity-mini | 6.929 |
+| mistral-large-2512 | 6.871 |
 | mistral-small-2506 | 6.871 |
 | QwenQwen3-235B-A22B | 6.829 |
 | ibmgranite41b-h | 6.814 |
@@ -29,6 +30,7 @@
 | DeepSeek-V3-0324 | 6.529 |
 | grok-3-mini-beta | 6.500 |
 | meta-llamaMeta-Llama-3.1-405B-Instruct | 6.500 |
+| ministral-3b-2512 | 6.500 |
 | meta-llamaLlama-3.2-1B-Instruct | 6.500 |
 | deepseek-aiDeepSeek-R1-Zero | 6.486 |
 | googlegemma-2-2b-it | 6.486 |
@@ -50,8 +52,10 @@
 | chatgpt-4o-latest-20250215 | 6.400 |
 | Grok-3-beta-thinking-20250303 | 6.386 |
 | meta-llamaLlama-3.3-70B-Instruct | 6.386 |
+| ministral-14b-2512 | 6.386 |
 | gpt-3.5-turbo | 6.386 |
 | Gpt-5.1-Pro-20251120 | 6.386 |
+| ministral-8b-2512 | 6.357 |
 | nvidiaLlama-3.1-Nemotron-70B-Instruct | 6.357 |
 | qwen38b | 6.357 |
 | QwenQwen3-14B | 6.357 |
@@ -73,6 +77,7 @@
 | qwen-turbo-0428 | 6.257 |
 | QwenQwen3-30B-A3B | 6.257 |
 | gpt-5-chat-latest-2025-08-07 | 6.257 |
+| amazonnova-2-lite-v1 | 6.243 |
 | smollm2135m | 6.243 |
 | meta-llamaMeta-Llama-3.1-8B-Instruct | 6.243 |
 | granite4tiny-h | 6.229 |

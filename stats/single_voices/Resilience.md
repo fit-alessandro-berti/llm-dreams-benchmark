@@ -63,6 +63,7 @@
 | qwen2.5-omni-7b | 8.743 |
 | granite4micro | 8.729 |
 | moonshotaikimi-linear-48b-a3b-instruct | 8.700 |
+| amazonnova-2-lite-v1 | 8.700 |
 | baiduernie-4.5-300b-a47b | 8.700 |
 | gemini-2.5-pro-preview-06-05 | 8.700 |
 | googlegemma-2-9b-it | 8.700 |
@@ -170,7 +171,9 @@
 | gemini-2.5-flash-preview-05-20 | 7.886 |
 | tngtechdeepseek-r1t-chimerafree | 7.871 |
 | claude-3-5-sonnet-20241022 | 7.871 |
+| ministral-14b-2512 | 7.871 |
 | DeepSeek-V3-0324 | 7.829 |
+| ministral-8b-2512 | 7.800 |
 | gemini-3-pro-preview | 7.786 |
 | moonshotaikimi-k2-thinking | 7.771 |
 | meta-llamallama-4-scout | 7.757 |
@@ -185,6 +188,7 @@
 | gemini-2.5-pro-exp-03-25 | 7.486 |
 | meta-llamaLlama-3.2-1B-Instruct | 7.471 |
 | gemma34b-it-q8_0 | 7.457 |
+| ministral-3b-2512 | 7.414 |
 | gemini-2.0-flash-lite-preview-02-05 | 7.386 |
 | nvidiallama-3.1-nemotron-nano-8b-v1 | 7.386 |
 | gemma31b-it-q8_0 | 7.357 |
@@ -193,6 +197,7 @@
 | phi4-mini-reasoning | 7.286 |
 | claude-3-5-haiku-20241022 | 7.257 |
 | openrouterbert-nebulon-alpha | 7.229 |
+| mistral-large-2512 | 7.000 |
 | ibmgranite4350m-h | 7.000 |
 | mistral-small-2506 | 6.914 |
 | smollm2135m | 6.886 |

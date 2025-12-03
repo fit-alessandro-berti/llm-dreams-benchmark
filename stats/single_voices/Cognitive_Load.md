@@ -7,6 +7,8 @@
 | Qwen-QwQ-32B | 8.557 |
 | phi4-mini-reasoning | 8.543 |
 | gemini-2.5-pro-exp-03-25 | 8.414 |
+| mistral-large-2512 | 8.400 |
+| ministral-3b-2512 | 8.386 |
 | QwenQwen3-235B-A22B | 8.386 |
 | QwenQwen3-14B | 8.371 |
 | qwenqwen3-235b-a22b-thinking-2507 | 8.357 |
@@ -14,6 +16,7 @@
 | openrouterbert-nebulon-alpha | 8.300 |
 | gemini-2.5-flash-preview-04-17 | 8.286 |
 | gemini-3-pro-preview | 8.229 |
+| ministral-8b-2512 | 8.229 |
 | QwenQwen3-30B-A3B | 8.229 |
 | anthropicclaude-sonnet-4.5 | 8.229 |
 | Grok-4.1-20251118 | 8.214 |
@@ -22,6 +25,7 @@
 | gemini-2.5-flash-preview-05-20 | 8.143 |
 | r1-1776 | 8.086 |
 | gpt-5-chat-latest-2025-08-07 | 8.071 |
+| ministral-14b-2512 | 8.071 |
 | mistral-medium-2508 | 8.071 |
 | z-aiglm-4.5-air | 8.057 |
 | gemini-2.0-flash-lite-preview-02-05 | 8.043 |
@@ -111,6 +115,7 @@
 | minimaxminimax-m2free | 7.400 |
 | gpt-4-0613 | 7.400 |
 | googlegemma-2-9b-it | 7.371 |
+| amazonnova-2-lite-v1 | 7.357 |
 | deepseek-aiDeepSeek-R1-Zero | 7.357 |
 | deepseek-aiDeepSeek-V3 | 7.357 |
 | Grok-3-beta-thinking-20250303 | 7.357 |

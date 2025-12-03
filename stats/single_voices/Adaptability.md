@@ -51,6 +51,7 @@
 | qwen-turbo-2024-11-01 | 8.886 |
 | phi4-reasoningplus | 8.871 |
 | qwen-plus-2025-01-25 | 8.871 |
+| amazonnova-2-lite-v1 | 8.857 |
 | gemini-2.0-pro-exp-02-05 | 8.857 |
 | gemini-2.5-pro-preview-06-05 | 8.857 |
 | gpt-4.1-mini-2025-04-14 | 8.857 |
@@ -151,6 +152,7 @@
 | qwen34b | 8.500 |
 | magistral-small-2506 | 8.486 |
 | prime-intellectintellect-3 | 8.486 |
+| ministral-14b-2512 | 8.486 |
 | chatgpt-4o-latest-2025-01-29 | 8.471 |
 | gpt-4o-mini-2024-11-05 | 8.471 |
 | mistral-medium-2505 | 8.471 |
@@ -160,6 +162,7 @@
 | grok-3-mini-beta | 8.457 |
 | meta-llamaMeta-Llama-3.1-70B-Instruct | 8.457 |
 | nvidiallama-3.3-nemotron-super-49b-v1 | 8.429 |
+| ministral-8b-2512 | 8.414 |
 | meta-llamaLlama-3.2-3B-Instruct | 8.414 |
 | qwen30.6b | 8.386 |
 | googlegemma-2-2b-it | 8.357 |
@@ -172,6 +175,7 @@
 | tngtechdeepseek-r1t-chimerafree | 8.271 |
 | Qwen-QwQ-32B | 8.257 |
 | gemini-3-pro-preview | 8.243 |
+| ministral-3b-2512 | 8.229 |
 | gemini-2.5-flash-preview-05-20 | 8.214 |
 | gpt-5-chat-latest-2025-08-07 | 8.214 |
 | magistral-medium-2506 | 8.214 |
@@ -189,6 +193,7 @@
 | claude-3-5-haiku-20241022 | 7.957 |
 | moonshotaikimi-k2-thinking | 7.943 |
 | meta-llamallama-4-maverick | 7.929 |
+| mistral-large-2512 | 7.914 |
 | phi4-mini-reasoning | 7.900 |
 | meta-llamaLlama-3.2-1B-Instruct | 7.786 |
 | gemini-2.0-flash-lite-preview-02-05 | 7.671 |

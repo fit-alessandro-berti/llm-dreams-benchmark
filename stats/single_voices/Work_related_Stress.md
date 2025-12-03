@@ -7,6 +7,7 @@
 | openrouterbert-nebulon-alpha | 8.343 |
 | gemini-2.5-flash-preview-09-2025 | 8.214 |
 | gemini-2.0-flash-lite-preview-02-05 | 8.171 |
+| mistral-large-2512 | 8.171 |
 | anthropicclaude-sonnet-4.5 | 8.143 |
 | gemini-2.5-pro-exp-03-25 | 8.143 |
 | QwenQwen3-235B-A22B | 8.143 |
@@ -20,6 +21,7 @@
 | meta-llamaLlama-3.3-70B-Instruct | 7.943 |
 | meta-llamaMeta-Llama-3.1-70B-Instruct | 7.943 |
 | qwen31.7b | 7.929 |
+| ministral-3b-2512 | 7.929 |
 | meta-llamaMeta-Llama-3.1-405B-Instruct | 7.900 |
 | r1-1776 | 7.886 |
 | QwenQwen3-14B | 7.871 |
@@ -39,6 +41,7 @@
 | Gpt-5.1-Pro-20251120 | 7.686 |
 | meta-llamaMeta-Llama-3.1-8B-Instruct | 7.686 |
 | ibmgranite41b-h | 7.686 |
+| ministral-14b-2512 | 7.643 |
 | smollm2360m | 7.629 |
 | grok-3-mini-beta | 7.614 |
 | mistral-medium-2508 | 7.614 |
@@ -68,6 +71,7 @@
 | grok-4-1-fast-non-reasoning | 7.243 |
 | nvidiallama-3.3-nemotron-super-49b-v1 | 7.243 |
 | qwen-turbo-0428 | 7.243 |
+| ministral-8b-2512 | 7.229 |
 | smollm2135m | 7.200 |
 | claude-3-5-sonnet-20241022 | 7.186 |
 | x-aigrok-code-fast-1 | 7.186 |
@@ -95,6 +99,7 @@
 | Grok-4-fast-20251111 | 6.829 |
 | anthropicclaude-opus-4.1 | 6.814 |
 | falcon33b-instruct-q8_0 | 6.800 |
+| amazonnova-2-lite-v1 | 6.786 |
 | deepseekdeepseek-chat-v3.1 | 6.757 |
 | googlegemma-2-9b-it | 6.757 |
 | exaone-deep7.8b-fp16 | 6.714 |

@@ -85,6 +85,7 @@
 | gemini-1.5-flash-8b | 7.571 |
 | gpt-5-chat-latest-2025-08-19 | 7.571 |
 | gemini-2.5-flash-lite-preview-09-2025 | 7.557 |
+| amazonnova-2-lite-v1 | 7.543 |
 | deepseekdeepseek-v3.2-speciale | 7.543 |
 | devstral-small-2505 | 7.543 |
 | gemini-2.0-flash-exp | 7.529 |
@@ -167,6 +168,7 @@
 | magistral-medium-2506 | 6.757 |
 | QwenQwen3-235B-A22B | 6.743 |
 | phi4-mini-reasoning | 6.714 |
+| ministral-8b-2512 | 6.686 |
 | QwenQwen3-30B-A3B | 6.686 |
 | claude-4-opus-20250514 | 6.671 |
 | meta-llamaLlama-3.3-70B-Instruct | 6.671 |
@@ -174,8 +176,10 @@
 | Gpt-5.1-Pro-20251120 | 6.643 |
 | meta-llamallama-4-scout | 6.643 |
 | meta-llamaLlama-3.2-1B-Instruct | 6.600 |
+| ministral-14b-2512 | 6.600 |
 | Qwen-QwQ-32B | 6.543 |
 | gpt-5-chat-latest-2025-08-07 | 6.471 |
+| ministral-3b-2512 | 6.457 |
 | gemini-2.5-flash-preview-09-2025 | 6.457 |
 | meta-llamaMeta-Llama-3.1-8B-Instruct | 6.457 |
 | gemini-2.5-flash-preview-05-20 | 6.414 |
@@ -194,6 +198,7 @@
 | arcee-aitrinity-mini | 6.057 |
 | anthropicclaude-sonnet-4.5 | 5.957 |
 | ibmgranite4350m-h | 5.914 |
+| mistral-large-2512 | 5.886 |
 | gemini-2.0-flash-lite-preview-02-05 | 5.871 |
 | gemini-2.5-pro-exp-03-25 | 5.800 |
 | moonshotaikimi-k2-thinking | 5.714 |

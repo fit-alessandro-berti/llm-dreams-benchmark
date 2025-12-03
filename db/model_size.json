@@ -444,22 +444,31 @@
     230,
     10
   ],
-  "ministral-14b-2512": [],
+  "ministral-14b-2512": [
+    14
+  ],
   "ministral-3b-2410": [
     3
   ],
-  "ministral-3b-2512": [],
+  "ministral-3b-2512": [
+    3
+  ],
   "ministral-8b-2410": [
     8
   ],
-  "ministral-8b-2512": [],
+  "ministral-8b-2512": [
+    8
+  ],
   "mistral-large-2407": [
     123
   ],
   "mistral-large-2411": [
     123
   ],
-  "mistral-large-2512": [],
+  "mistral-large-2512": [
+    675,
+    41
+  ],
   "mistral-medium-2505": [
     70
   ],

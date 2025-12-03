@@ -191,7 +191,6 @@
 | gemini-2.5-flash-preview-04-17 | 6.143 |
 | ministral-3b-2512 | 6.143 |
 | smollm2135m | 6.129 |
-| openrouterbert-nebulon-alpha | 6.129 |
 | QwenQwen3-235B-A22B | 6.086 |
 | tngtechdeepseek-r1t-chimerafree | 6.071 |
 | mistral-large-2512 | 6.043 |

@@ -106,7 +106,6 @@
 | gpt-5-chat-latest-2025-08-07 | 9.386 |
 | meta-llamaMeta-Llama-3.1-70B-Instruct | 9.386 |
 | microsoftPhi-3-medium-4k-instruct | 9.386 |
-| openrouterbert-nebulon-alpha | 9.386 |
 | chatgpt-4o-latest-20250215 | 9.371 |
 | deepseek-aiDeepSeek-R1-0528 | 9.371 |
 | ministral-14b-2512 | 9.371 |

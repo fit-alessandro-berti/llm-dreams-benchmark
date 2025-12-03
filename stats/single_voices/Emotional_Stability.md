@@ -200,5 +200,4 @@
 | smollm2360m | 5.000 |
 | mistral-small-2506 | 4.929 |
 | moonshotaikimi-k2-thinking | 4.886 |
-| openrouterbert-nebulon-alpha | 4.886 |
 | mistral-large-2512 | 4.771 |

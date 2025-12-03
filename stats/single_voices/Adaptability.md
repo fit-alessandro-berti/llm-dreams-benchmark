@@ -187,7 +187,6 @@
 | qwenqwen3-235b-a22b-thinking-2507 | 8.086 |
 | anthropicclaude-sonnet-4.5 | 8.057 |
 | gemma31b-it-q8_0 | 8.000 |
-| openrouterbert-nebulon-alpha | 8.000 |
 | gemma34b-it-q8_0 | 7.971 |
 | meta-llamaMeta-Llama-3.1-8B-Instruct | 7.971 |
 | claude-3-5-haiku-20241022 | 7.957 |

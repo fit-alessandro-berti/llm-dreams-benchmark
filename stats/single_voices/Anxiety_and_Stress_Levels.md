@@ -4,7 +4,6 @@
 |:--|--:|
 | gemini-2.5-flash-preview-09-2025 | 8.500 |
 | moonshotaikimi-k2-thinking | 8.457 |
-| openrouterbert-nebulon-alpha | 8.443 |
 | mistral-large-2512 | 8.429 |
 | gemini-2.0-flash-lite-preview-02-05 | 8.329 |
 | mistral-small-2506 | 8.271 |

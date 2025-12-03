@@ -170,7 +170,6 @@
 | gemini-2.5-flash-preview-09-2025 | 7.986 |
 | meta-llamaLlama-3.3-70B-Instruct | 7.986 |
 | QwenQwen3-30B-A3B | 7.986 |
-| openrouterbert-nebulon-alpha | 7.971 |
 | meta-llamallama-4-scout | 7.957 |
 | qwenqwen3-next-80b-a3b-instruct | 7.957 |
 | ministral-14b-2512 | 7.957 |

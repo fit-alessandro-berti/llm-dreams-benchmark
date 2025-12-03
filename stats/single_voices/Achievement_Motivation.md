@@ -171,7 +171,6 @@
 | Gpt-5.1-Pro-20251120 | 7.929 |
 | qwenqwen3-next-80b-a3b-instruct | 7.929 |
 | ministral-14b-2512 | 7.914 |
-| openrouterbert-nebulon-alpha | 7.900 |
 | claude-3-5-sonnet-20241022 | 7.871 |
 | phi4-mini-reasoning | 7.871 |
 | Qwen-QwQ-32B | 7.871 |

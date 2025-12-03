@@ -4,7 +4,6 @@
 |:--|--:|
 | mistral-large-2512 | 7.957 |
 | gemini-2.0-flash-lite-preview-02-05 | 7.943 |
-| openrouterbert-nebulon-alpha | 7.871 |
 | gemini-2.5-flash-preview-09-2025 | 7.857 |
 | arcee-aitrinity-mini | 7.814 |
 | qwenqwen3-235b-a22b-thinking-2507 | 7.800 |

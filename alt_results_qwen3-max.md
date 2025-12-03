@@ -197,7 +197,6 @@
 | smollm2360m                                | **345.5** | 7.8 $\pm$ 0.0               | 5.2 $\pm$ 0.0         | 8.1 $\pm$ 0.0            | 9.4 $\pm$ 0.0  | 6.2 $\pm$ 0.1                 | 6.4 $\pm$ 0.3                  | 5.6 $\pm$ 0.2         | 8.0 $\pm$ 0.1         | 7.8 $\pm$ 0.1  | 7.6 $\pm$ 0.3            | 7.6 $\pm$ 0.0     | 6.8 $\pm$ 0.0      | 8.4 $\pm$ 0.1    | 5.9 $\pm$ 0.0    | 6.9 $\pm$ 0.3 |
 | ibmgranite4350m-h                          | **344.0** | 7.6 $\pm$ 0.3               | 5.4 $\pm$ 0.3         | 8.2 $\pm$ 0.4            | 8.7 $\pm$ 0.1  | 5.9 $\pm$ 0.3                 | 6.3 $\pm$ 0.2                  | 5.6 $\pm$ 0.2         | 7.9 $\pm$ 0.2         | 7.9 $\pm$ 0.4  | 7.8 $\pm$ 0.1            | 7.7 $\pm$ 0.3     | 6.9 $\pm$ 0.2      | 8.0 $\pm$ 0.2    | 5.2 $\pm$ 0.5    | 7.3 $\pm$ 0.4 |
 | gemma31b-it-q8_0                           | **343.1** | 7.5 $\pm$ 1.2               | 4.3 $\pm$ 1.1         | 7.8 $\pm$ 0.2            | 9.6 $\pm$ 0.1  | 5.2 $\pm$ 1.1                 | 6.1 $\pm$ 0.8                  | 6.6 $\pm$ 0.4         | 7.7 $\pm$ 1.3         | 8.0 $\pm$ 0.7  | 8.2 $\pm$ 0.2            | 7.3 $\pm$ 1.8     | 5.9 $\pm$ 1.5      | 8.8 $\pm$ 0.5    | 4.8 $\pm$ 1.0    | 6.9 $\pm$ 0.7 |
-| openrouterbert-nebulon-alpha               | **339.8** | 8.6 $\pm$ 0.2               | 4.5 $\pm$ 0.4         | 8.1 $\pm$ 0.3            | 9.6 $\pm$ 0.0  | 6.0 $\pm$ 0.2                 | 6.2 $\pm$ 0.6                  | 6.2 $\pm$ 0.2         | 8.7 $\pm$ 0.3         | 8.0 $\pm$ 0.5  | 8.0 $\pm$ 0.4            | 8.4 $\pm$ 0.4     | 7.0 $\pm$ 0.3      | 8.8 $\pm$ 0.2    | 5.3 $\pm$ 0.2    | 7.0 $\pm$ 0.4 |
 | gemini-2.5-flash-preview-09-2025           | **336.8** | 8.6 $\pm$ 0.2               | 4.8 $\pm$ 0.4         | 7.9 $\pm$ 0.0            | 9.6 $\pm$ 0.0  | 5.6 $\pm$ 0.4                 | 5.9 $\pm$ 0.1                  | 7.0 $\pm$ 0.5         | 8.6 $\pm$ 0.1         | 8.1 $\pm$ 0.2  | 7.4 $\pm$ 0.2            | 8.5 $\pm$ 0.3     | 6.8 $\pm$ 0.2      | 9.1 $\pm$ 0.1    | 4.8 $\pm$ 0.5    | 7.4 $\pm$ 0.3 |
 | gemini-2.0-flash-lite-preview-02-05        | **333.3** | 8.6 $\pm$ 0.1               | 4.3 $\pm$ 0.4         | 7.4 $\pm$ 0.2            | 9.5 $\pm$ 0.0  | 6.1 $\pm$ 0.4                 | 5.8 $\pm$ 0.3                  | 5.4 $\pm$ 0.7         | 8.8 $\pm$ 0.5         | 7.8 $\pm$ 0.5  | 7.7 $\pm$ 0.5            | 8.4 $\pm$ 0.4     | 6.4 $\pm$ 1.2      | 9.0 $\pm$ 0.3    | 5.8 $\pm$ 0.8    | 7.0 $\pm$ 0.5 |
 | mistral-large-2512                         | **330.1** | 8.7 $\pm$ 0.0               | 4.4 $\pm$ 0.4         | 7.9 $\pm$ 0.0            | 9.6 $\pm$ 0.0  | 5.8 $\pm$ 0.0                 | 6.1 $\pm$ 0.4                  | 5.6 $\pm$ 0.4         | 8.8 $\pm$ 0.2         | 7.5 $\pm$ 0.2  | 7.9 $\pm$ 0.1            | 8.6 $\pm$ 0.2     | 7.2 $\pm$ 0.3      | 8.8 $\pm$ 0.3    | 5.6 $\pm$ 0.3    | 6.7 $\pm$ 0.0 |
@@ -4333,32 +4332,6 @@
 | Cognitive Load               | 7.0 $\pm$ 0.7      |
 | Social Support               | 7.4 $\pm$ 0.5      |
 | Resilience                   | 9.0 $\pm$ 0.3      |
-
-
-
-
-
-
-### openrouterbert-nebulon-alpha
-
-
-| Personality Trait            | Score (1.0-10.0)   |
-|:-----------------------------|:-------------------|
-| Anxiety and Stress Levels    | 8.6 $\pm$ 0.2      |
-| Emotional Stability          | 4.5 $\pm$ 0.4      |
-| Problem-solving Skills       | 8.1 $\pm$ 0.3      |
-| Creativity                   | 9.6 $\pm$ 0.0      |
-| Interpersonal Relationships  | 6.0 $\pm$ 0.2      |
-| Confidence and Self-efficacy | 6.2 $\pm$ 0.6      |
-| Conflict Resolution          | 6.2 $\pm$ 0.2      |
-| Work-related Stress          | 8.7 $\pm$ 0.3      |
-| Adaptability                 | 8.0 $\pm$ 0.5      |
-| Achievement Motivation       | 8.0 $\pm$ 0.4      |
-| Fear of Failure              | 8.4 $\pm$ 0.4      |
-| Need for Control             | 7.0 $\pm$ 0.3      |
-| Cognitive Load               | 8.8 $\pm$ 0.2      |
-| Social Support               | 5.3 $\pm$ 0.2      |
-| Resilience                   | 7.0 $\pm$ 0.4      |
 
 
 

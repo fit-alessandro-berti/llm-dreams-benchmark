@@ -4,7 +4,6 @@
 |:--|--:|
 | arcee-aitrinity-mini | 8.414 |
 | moonshotaikimi-k2-thinking | 8.357 |
-| openrouterbert-nebulon-alpha | 8.343 |
 | gemini-2.5-flash-preview-09-2025 | 8.214 |
 | gemini-2.0-flash-lite-preview-02-05 | 8.171 |
 | mistral-large-2512 | 8.171 |

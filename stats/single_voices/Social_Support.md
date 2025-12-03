@@ -195,7 +195,6 @@
 | Qwen-QwQ-32B | 6.000 |
 | mistral-small-2506 | 5.943 |
 | QwenQwen3-235B-A22B | 5.743 |
-| openrouterbert-nebulon-alpha | 5.714 |
 | mistral-large-2512 | 5.700 |
 | smollm2360m | 5.529 |
 | ibmgranite4350m-h | 5.414 |

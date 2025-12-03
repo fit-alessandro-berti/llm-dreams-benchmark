@@ -10,7 +10,6 @@
 | ibmgranite41b-h | 6.814 |
 | deepseekdeepseek-r1 | 6.771 |
 | qwenqwen3-235b-a22b-thinking-2507 | 6.757 |
-| openrouterbert-nebulon-alpha | 6.757 |
 | tngtechdeepseek-r1t-chimerafree | 6.729 |
 | qwen-plus-0428 | 6.714 |
 | claude-3-5-haiku-20241022 | 6.700 |

@@ -13,7 +13,6 @@
 | QwenQwen3-14B | 8.371 |
 | qwenqwen3-235b-a22b-thinking-2507 | 8.357 |
 | gemma31b-it-q8_0 | 8.314 |
-| openrouterbert-nebulon-alpha | 8.300 |
 | gemini-2.5-flash-preview-04-17 | 8.286 |
 | gemini-3-pro-preview | 8.229 |
 | ministral-8b-2512 | 8.229 |

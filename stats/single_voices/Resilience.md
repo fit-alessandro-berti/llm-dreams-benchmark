@@ -196,7 +196,6 @@
 | arcee-aitrinity-mini | 7.329 |
 | phi4-mini-reasoning | 7.286 |
 | claude-3-5-haiku-20241022 | 7.257 |
-| openrouterbert-nebulon-alpha | 7.229 |
 | mistral-large-2512 | 7.000 |
 | ibmgranite4350m-h | 7.000 |
 | mistral-small-2506 | 6.914 |

@@ -191,7 +191,6 @@
 | QwenQwen3-14B | 6.243 |
 | claude-4-sonnet-20250514 | 6.214 |
 | gemini-2.5-flash-lite-preview-06-17 | 6.200 |
-| openrouterbert-nebulon-alpha | 6.157 |
 | claude-3-5-haiku-20241022 | 5.957 |
 | smollm2135m | 5.871 |
 | mistral-large-2512 | 5.757 |

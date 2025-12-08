@@ -1,4 +1,4 @@
-ANSWERING_MODEL_NAME = "amazon/nova-2-lite-v1"
+ANSWERING_MODEL_NAME = "qwen/qwen3-max"
 EVALUATING_MODEL_NAME = "gpt-4.1"
 
 

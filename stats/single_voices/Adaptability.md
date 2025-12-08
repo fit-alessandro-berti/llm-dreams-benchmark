@@ -56,6 +56,7 @@
 | gemini-2.5-pro-preview-06-05 | 8.857 |
 | gpt-4.1-mini-2025-04-14 | 8.857 |
 | openaigpt-oss-20b | 8.857 |
+| qwenqwen3-max | 8.857 |
 | gemma-3-27b-it | 8.857 |
 | claude-4-opus-20250514 | 8.843 |
 | codestral-2501 | 8.843 |

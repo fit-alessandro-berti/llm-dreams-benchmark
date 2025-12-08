@@ -43,6 +43,7 @@
 | qwen2.5-32b-instruct | 8.871 |
 | qwen2.5-72b-instruct | 8.871 |
 | gpt-5-pro-2025-10-06 | 8.857 |
+| qwenqwen3-max | 8.857 |
 | gpt-4o-2024-05-13 | 8.857 |
 | gpt-5-2025-08-07 | 8.857 |
 | falcon310b-instruct-q8_0 | 8.843 |

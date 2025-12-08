@@ -84,6 +84,7 @@
 | moonshotaikimi-linear-48b-a3b-instruct | 7.071 |
 | nvidiallama-3.1-nemotron-nano-8b-v1 | 7.057 |
 | grok-4-0709 | 7.000 |
+| qwenqwen3-max | 7.000 |
 | chatgpt-4o-latest-2024-11-20 | 7.000 |
 | granite4tiny-h | 7.000 |
 | claude-3-7-sonnet-20250219 | 6.957 |

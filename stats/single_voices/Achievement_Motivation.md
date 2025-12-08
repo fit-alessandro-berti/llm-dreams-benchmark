@@ -122,6 +122,7 @@
 | ministral-3b-2410 | 8.300 |
 | z-aiglm-4.5-air | 8.300 |
 | qwen-plus-0428 | 8.300 |
+| qwenqwen3-max | 8.300 |
 | gemini-2.5-pro-preview-05-06 | 8.286 |
 | chatgpt-4o-latest-2025-01-29 | 8.271 |
 | meta-llamaMeta-Llama-3.1-8B-Instruct | 8.271 |

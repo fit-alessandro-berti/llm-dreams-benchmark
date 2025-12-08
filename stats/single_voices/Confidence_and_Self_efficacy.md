@@ -113,6 +113,7 @@
 | moonshotaikimi-linear-48b-a3b-instruct | 7.300 |
 | moonshotaikimi-k2 | 7.286 |
 | gpt-4-1106-preview | 7.271 |
+| qwenqwen3-max | 7.257 |
 | gpt-5-2025-08-07 | 7.257 |
 | gpt-5-pro-2025-10-06 | 7.257 |
 | qwenqwen3-next-80b-a3b-thinking | 7.257 |

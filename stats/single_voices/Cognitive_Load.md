@@ -73,6 +73,7 @@
 | magistral-small-2506 | 7.714 |
 | claude-4-opus-20250514 | 7.714 |
 | gemini-2.0-pro-exp-02-05 | 7.700 |
+| qwenqwen3-max | 7.700 |
 | meta-llamaMeta-Llama-3.1-405B-Instruct | 7.686 |
 | meta-llamallama-4-scout | 7.686 |
 | grok-4-0709 | 7.671 |

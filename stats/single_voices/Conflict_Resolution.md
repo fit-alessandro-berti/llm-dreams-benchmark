@@ -45,6 +45,7 @@
 | mistral-large-2411 | 8.186 |
 | open-mistral-7b | 8.186 |
 | mistral-small-2501 | 8.171 |
+| qwenqwen3-max | 8.171 |
 | gemini-1.5-flash-8b | 8.171 |
 | ministral-3b-2410 | 8.157 |
 | o1-2024-12-17 | 8.157 |

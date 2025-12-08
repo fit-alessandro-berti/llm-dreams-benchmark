@@ -95,6 +95,7 @@
 | meta-llamaMeta-Llama-3.1-405B-Instruct | 7.486 |
 | ai21jamba-large-1.7 | 7.471 |
 | minimaxminimax-m2free | 7.457 |
+| qwenqwen3-max | 7.457 |
 | gpt-4-1106-preview | 7.457 |
 | moonshotaikimi-k2 | 7.414 |
 | claude-3-7-sonnet-20250219-thinking-high | 7.371 |

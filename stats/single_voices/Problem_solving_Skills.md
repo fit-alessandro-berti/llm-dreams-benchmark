@@ -130,6 +130,7 @@
 | z-aiglm-4.5-air | 8.300 |
 | chatgpt-4o-latest-20250215 | 8.300 |
 | gemma312b-it-q8_0 | 8.286 |
+| qwenqwen3-max | 8.286 |
 | qwenqwen3-next-80b-a3b-thinking | 8.286 |
 | ibmgranite41b-h | 8.271 |
 | chatgpt-4o-latest-2025-04-26 | 8.257 |

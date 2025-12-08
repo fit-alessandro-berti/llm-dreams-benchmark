@@ -106,6 +106,7 @@
 | Grok-4-fast-20251111 | 6.743 |
 | nvidiaLlama-3.1-Nemotron-70B-Instruct | 6.743 |
 | nvidiallama-3.1-nemotron-ultra-253b-v1free | 6.743 |
+| qwenqwen3-max | 6.729 |
 | deepseekdeepseek-chat-v3.1 | 6.714 |
 | chatgpt-4o-latest-2025-04-26 | 6.700 |
 | claude-3-7-sonnet-20250219 | 6.657 |

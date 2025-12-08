@@ -83,6 +83,7 @@
 | granite4tiny-h | 6.200 |
 | claude-4-sonnet-20250514 | 6.186 |
 | gemma312b-it-q8_0 | 6.143 |
+| qwenqwen3-max | 6.143 |
 | claude-opus-4-5-20251101 | 6.129 |
 | smollm21.7b-instruct-q6_K | 6.129 |
 | claude-3-7-sonnet-20250219 | 6.114 |

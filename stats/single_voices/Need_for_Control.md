@@ -161,6 +161,7 @@
 | gemma-3n-e4b-it | 5.729 |
 | grok-2-1212 | 5.729 |
 | qwen2.5-72b-instruct | 5.729 |
+| qwenqwen3-max | 5.729 |
 | allenaiolmo-3-7b-instruct | 5.714 |
 | ChatGPT-5.1-Instant-20251113 | 5.714 |
 | inceptionmercury | 5.714 |

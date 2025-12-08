@@ -34,6 +34,7 @@
 | gemini-2.5-flash-preview-09-2025 | 9.571 |
 | grok-4-1-fast-non-reasoning | 9.571 |
 | QwenQwen3-30B-A3B | 9.571 |
+| qwenqwen3-max | 9.571 |
 | gemma-3n-e4b-it | 9.557 |
 | gemma-3-27b-it | 9.543 |
 | qwenqwen3-235b-a22b-07-25 | 9.543 |

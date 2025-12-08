@@ -98,6 +98,7 @@
 | allenaiolmo-3-7b-instruct | 7.386 |
 | Grok-4-fast | 7.386 |
 | o1-2024-12-05 | 7.357 |
+| qwenqwen3-max | 7.343 |
 | o1-pro-2024-12-05 | 7.343 |
 | ai21jamba-large-1.7 | 7.329 |
 | moonshotaikimi-k2 | 7.329 |

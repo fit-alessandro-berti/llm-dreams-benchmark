@@ -1,4 +1,4 @@
-ANSWERING_MODEL_NAME = "qwen/qwen3-max"
+ANSWERING_MODEL_NAME = "essentialai/rnj-1-instruct"
 EVALUATING_MODEL_NAME = "gpt-4.1"
 
 

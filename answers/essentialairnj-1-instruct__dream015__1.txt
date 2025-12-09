@@ -1,0 +1,54 @@
+```python
+def find_survival_tools(resources, threats):
+    """
+    This function simulates a dream in a post-apocalyptic world where finding survival tools is a critical task.
+    
+    A list of available resources and threats are given. The function determines the tools that can be built from the resources.
+    
+    Parameters:
+    resources (list): A list of available resources, each represented as a string.
+    threats (list): A list of threats, each represented as a string.
+    
+    Returns:
+    dict: A dictionary containing the survival tools built from resources and their effectiveness against threats.
+    """
+    
+    # The available tools and their required resources
+    tools = {
+        "Sharp Knife": ["Iron", "Stone"],
+        "Water Filter": ["Plastic", "Filter Paper"],
+        "Barrier": ["Wood", "Tarp"],
+        "Fire Starter": ["Rubber", "Dry Herbs"],
+        "Sewing Kit": ["Dirt", "Bone", "Fiber"]
+    }
+    
+    # A dictionary to store the built tools and their effectiveness against threats
+    built_tools = {}
+    
+    # Iterate over each tool and its required resources
+    for tool, required_resources in tools.items():
+        # Check if all required resources for the tool are available
+        if all(resource in resources for resource in required_resources):
+            # If the resources are available, add the tool to the built tools with a vulnerability rating based on the threats
+            built_tools[tool] = {"resources": required_resources, "vulnerability": 0}
+            
+            # Check each threat and increment the vulnerability rating if the tool has no defense against the threat
+            for threat in threats:
+                if "air" in threat or "cold" in threat:
+                    if tool != "Fire Starter" and tool != "Sewing Kit":
+                        built_tools[tool]["vulnerability"] += 1.5
+                elif "water" in threat:
+                    if tool != "Water Filter":
+                        built_tools[tool]["vulnerability"] += 1
+                elif "blunt" in threat:
+                    if "Shield" not in required_resources:
+                        built_tools[tool]["vulnerability"] += 0.5
+    
+    return built_tools
+
+# Example usage
+resources = ["Iron", "Stone", "Plastic", "Dry Herbs","Wood", "Bone", "Dirt", "Fiber", "Vegetable Oil", "Glass"]
+threats = ["blunt", "wildlife habitat destruction", "boiling point drop", "air", "cold"]
+
+print(find_survival_tools(resources, threats))
+```

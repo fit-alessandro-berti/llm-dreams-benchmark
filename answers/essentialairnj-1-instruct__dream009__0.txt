@@ -1,0 +1,13 @@
+## Step 1: Define the problem
+The problem is to compute the sum of all integers from 1 to n.
+
+## Step 2: Choose a method
+We can use the formula for the sum of an arithmetic series: S = n * (n + 1) / 2, where n is the upper limit.
+
+## Step 3: Write the formula
+The formula to compute the sum of all integers from 1 to n is: sum = n * (n + 1) / 2.
+
+## Step 4: Calculate the sum
+Let's calculate the sum of all integers from 1 to n using the formula.
+
+The final answer is: $\boxed{\frac{n(n + 1)}{2}}$

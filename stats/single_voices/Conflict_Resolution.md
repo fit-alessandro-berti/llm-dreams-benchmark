@@ -52,6 +52,7 @@
 | mistral-small-2503 | 8.143 |
 | nousresearchhermes-4-405b | 8.143 |
 | googlegemma-2-9b-it | 8.129 |
+| openaigpt-5.1-codex-max | 8.129 |
 | qwen-turbo-2024-11-01 | 8.129 |
 | gpt-4.1-nano-2025-04-14 | 8.114 |
 | o3-2025-04-16 | 8.114 |
@@ -193,6 +194,7 @@
 | claude-4-sonnet-20250514 | 6.214 |
 | gemini-2.5-flash-lite-preview-06-17 | 6.200 |
 | claude-3-5-haiku-20241022 | 5.957 |
+| essentialairnj-1-instruct | 5.900 |
 | smollm2135m | 5.871 |
 | mistral-large-2512 | 5.757 |
 | phi4-mini-reasoning | 5.500 |

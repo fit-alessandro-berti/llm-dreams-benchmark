@@ -79,6 +79,7 @@
 | gemma312b-it-q8_0 | 7.186 |
 | googlegemma-2-9b-it | 7.186 |
 | gemma-3n-e4b-it | 7.143 |
+| essentialairnj-1-instruct | 7.143 |
 | moonshotaikimi-linear-48b-a3b-instruct | 7.129 |
 | claude-3-5-sonnet-20241022 | 7.114 |
 | granite4tiny-h | 7.114 |
@@ -125,6 +126,7 @@
 | phi4-mini-reasoning | 6.471 |
 | qwenqwen3-next-80b-a3b-instruct | 6.471 |
 | gpt-5-pro-2025-10-06 | 6.429 |
+| openaigpt-5.1-codex-max | 6.429 |
 | qwen-max-2025-01-25 | 6.386 |
 | qwenqwen3-coder | 6.386 |
 | qwen2.5-7b-instruct | 6.329 |

@@ -1,0 +1,44 @@
+```python
+import math
+
+current_stage = "Final Phase"
+solutions_solved = 3
+total_challenges = 5
+rating_reduction = 200
+recruitment_burden = 80
+
+class Player:
+    def __init__(self, username: str, current_rating: int):
+        self.username = username
+        self.current_rating = current_rating
+        self.challenges_solved = 0
+        self.recruitment_burden = 0
+
+    def solve_challenge(self, difficulty: float):
+        new_rating = math.ceil(self.current_rating * difficulty)
+        self.current_rating = new_rating
+        self.challenges_solved += 1
+
+    def take_qualifying_step(self):
+        self.recruitment_burden += math.ceil((self.current_rating - 2400) / 10)
+
+player = Player("DreamProgrammer", 2400)
+remaining_challenges = total_challenges - solutions_solved
+
+# Assuming challenges are equally difficult, with the final step leading to job offer.
+base_difficulty = 1.0 / total_challenges
+final_step_difficulty = remaining_challenges * base_difficulty
+
+for _ in range(solutions_solved, total_challenges):
+    if _ == total_challenges - 1:  # Last challenge leading to job offer.
+        player.take_qualifying_step()
+    else:
+        player.solve_challenge(base_difficulty)
+
+new_rating_with_reduction = player.current_rating - rating_reduction if player.challenges_solved == total_challenges else player.current_rating
+final_step_difficulty = remaining_challenges * base_difficulty
+new_recruitment_burden = player.recruitment_burden + math.ceil((new_rating_with_reduction - 2400) / 10)
+
+print(f"New current rating: {new_rating_with_reduction}")
+print(f"Recruitment burden: {new_recruitment_burden}%")
+```

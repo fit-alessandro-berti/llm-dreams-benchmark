@@ -1,0 +1,23 @@
+#include <iostream>
+#include <string>
+
+using namespace std;
+
+string solve_puzzle(const string &freeform, string &input, const string &key) {
+    input = freeform; // In C++, 'keyword' as a variable name is used, but to align with the problem statement, we'll assume the variable is named 'input'.
+    // Processing is required? The problem states to decode, but without more details, assuming a simple shift cipher.
+    
+    // Example: Caesar cipher shift of 3, but this is a generic template to show the function can be customized to the specific puzzle solving mechanism.
+    int shift = key.length() % 26; // Convert shift to be within 0-25 range.
+
+    for (int i = 0; i < input.size(); i++) {
+        char ch = input[i];
+        if (ch >= 'a' && ch <= 'z') {
+            ch = (ch - shift - 'a' + 26) % 26 + 'a';
+        } else if (ch >= 'A' && ch <= 'Z') {
+            ch = (ch - shift - 'A' + 26) % 26 + 'A';
+        }
+        input[i] = ch;
+    }
+    return input;
+}

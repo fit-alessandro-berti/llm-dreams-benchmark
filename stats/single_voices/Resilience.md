@@ -37,6 +37,7 @@
 | granite3.28b-instruct-q4_K_M | 8.914 |
 | phi3.53.8b-mini-instruct-fp16 | 8.900 |
 | gpt-4-turbo-2024-04-09 | 8.900 |
+| openaigpt-5.1-codex-max | 8.900 |
 | codex-mini-latest | 8.886 |
 | open-mixtral-8x7b | 8.886 |
 | gpt-4.1-mini-2025-04-14 | 8.871 |
@@ -185,6 +186,7 @@
 | gpt-5-chat-latest-2025-08-07 | 7.571 |
 | QwenQwen3-235B-A22B | 7.543 |
 | meta-llamallama-4-maverick | 7.529 |
+| essentialairnj-1-instruct | 7.514 |
 | Qwen-QwQ-32B | 7.500 |
 | gemini-2.5-pro-exp-03-25 | 7.486 |
 | meta-llamaLlama-3.2-1B-Instruct | 7.471 |

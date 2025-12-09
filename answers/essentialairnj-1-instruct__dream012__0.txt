@@ -1,0 +1,38 @@
+```python
+def steer_ship(current_course, desired_course):
+    """
+    Guide the ship by adjusting the helm.
+    
+    This function will calculate the necessary helm angle adjustment to steer the ship 
+    toward its desired course, considering the current course and wind conditions.
+    
+    Parameters:
+    current_course (float): The current course of the ship in degrees, 0-360.
+    desired_course (float): The desired course of the ship in degrees, 0-360.
+    
+    Returns:
+    float: The helm angle adjustment in degrees, positive for right turn and negative for left turn.
+    """
+    
+    # Boundary check
+    if not 0 <= current_course <= 360:
+        raise ValueError("Current course must be between 0 and 360 degrees")
+    if not 0 <= desired_course <= 360:
+        raise ValueError("Desired course must be between 0 and 360 degrees")
+    
+    # Calculate the difference in course
+    course_diff = desired_course - current_course
+    
+    # Take the smallest angle
+    helm_adjustment = course_diff % 360
+    if helm_adjustment > 180:
+        helm_adjustment -= 360
+    
+    return helm_adjustment
+
+# Example usage
+current_course = 270  # West
+desired_course = 90   # North
+steering_adjustment = steer_ship(current_course, desired_course)
+print("The steering wheel needs to be turned", steering_adjustment, "degrees to the right.")
+```

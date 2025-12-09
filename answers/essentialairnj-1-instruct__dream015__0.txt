@@ -1,0 +1,10 @@
+#include <iostream>
+
+using namespace std;
+
+int main() {
+    cout << "You step into a world where survival requires every drop of water." << endl;
+    cout << "The sun beats down relentlessly, and an oppressive heat intensifies." << endl;
+    cout << "Yet, hope lingers. It's the only resource you hold that sparks the difference." << endl;
+    return 0;
+}

@@ -81,6 +81,7 @@
 | deepseek-aiDeepSeek-R1-Zero | 7.129 |
 | gemini-2.5-flash-lite-preview-06-17 | 7.129 |
 | smollm21.7b-instruct-q6_K | 7.129 |
+| essentialairnj-1-instruct | 7.071 |
 | moonshotaikimi-linear-48b-a3b-instruct | 7.071 |
 | nvidiallama-3.1-nemotron-nano-8b-v1 | 7.057 |
 | grok-4-0709 | 7.000 |
@@ -117,6 +118,7 @@
 | gpt-4-1106-preview | 6.586 |
 | nousresearchhermes-4-70b | 6.571 |
 | minimaxminimax-m2free | 6.557 |
+| openaigpt-5.1-codex-max | 6.543 |
 | gemini-2.5-pro-preview-06-05 | 6.514 |
 | allenaiolmo-3-7b-instruct | 6.500 |
 | claude-4-sonnet-20250514 | 6.500 |

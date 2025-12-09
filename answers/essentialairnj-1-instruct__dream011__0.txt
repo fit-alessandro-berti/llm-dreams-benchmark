@@ -1,0 +1,41 @@
+Weather analysis is a common mathematical problem that can be solved algorithmically. Here is a Python function to determine the next day's weather prediction based on the current temperature and historical temperature ranges.
+
+```python
+def predict_next_day_weather(current_temperature, historical_temps):
+    """
+    Predict the next day's weather based on current temperature and historical data.
+    
+    Args:
+        current_temperature (float): The current temperature.
+        historical_temps (list of float): Historical temperature data.
+    
+    Returns:
+        str: Prediction of the next day's weather ("warm", "cool", "Neither").
+    """
+    import statistics
+    
+    # Calculate historical mean and standard deviation
+    mean_temp = statistics.mean(historical_temps)
+    stdev_temp = statistics.stdev(historical_temps) if len(historical_temps) > 1 else 0
+    
+    # Define thresholds (you can adjust these values based on real data)
+    warm_threshold = mean_temp + 1.5 * stdev_temp  if stdev_temp > 0 else mean_temp
+    cool_threshold = mean_temp - 1.5 * stdev_temp if stdev_temp > 0 else mean_temp
+    
+    # Predict next day's weather
+    if current_temperature > warm_threshold:
+        return "warm"
+    elif current_temperature < cool_threshold:
+        return "cool"
+    else:
+        return "Neither"
+
+# Example usage
+historical_temps = [60, 62, 65, 63, 64, 61, 60, 58]
+current_temp = 67
+
+prediction = predict_next_day_weather(current_temp, historical_temps)
+print(f"Next day's weather prediction: {prediction}")
+```
+
+This code uses the historical temperature data to calculate statistical thresholds for warm and cool conditions. It then classifies the current temperature as warm, cool, or neither based on these thresholds. You'll need to adjust the warm and cool thresholds according to your real-world temperature data.

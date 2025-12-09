@@ -188,6 +188,9 @@
   "devstral-small-2505": [
     24
   ],
+  "essentialairnj-1-instruct": [
+    8
+  ],
   "exaone-deep7.8b-fp16": [
     7.8
   ],
@@ -566,6 +569,10 @@
   ],
   "open-mixtral-8x7b": [
     56
+  ],
+  "openaigpt-5.1-codex-max": [
+    200,
+    23
   ],
   "openaigpt-oss-120b": [
     117,

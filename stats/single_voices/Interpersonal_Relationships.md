@@ -63,6 +63,7 @@
 | liquidlfm2-8b-a1b | 7.743 |
 | o4-mini-2025-04-16 | 7.743 |
 | falcon37b-instruct-q8_0 | 7.743 |
+| openaigpt-5.1-codex-max | 7.743 |
 | phi4-reasoning | 7.714 |
 | qwen-plus-2025-01-25 | 7.714 |
 | qwenqwen3-next-80b-a3b-instruct | 7.714 |
@@ -192,6 +193,7 @@
 | gemini-2.5-flash-preview-04-17 | 6.143 |
 | ministral-3b-2512 | 6.143 |
 | smollm2135m | 6.129 |
+| essentialairnj-1-instruct | 6.114 |
 | QwenQwen3-235B-A22B | 6.086 |
 | tngtechdeepseek-r1t-chimerafree | 6.071 |
 | mistral-large-2512 | 6.043 |

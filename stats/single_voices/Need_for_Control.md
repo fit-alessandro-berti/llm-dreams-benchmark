@@ -6,6 +6,7 @@
 | arcee-aitrinity-mini | 6.929 |
 | mistral-large-2512 | 6.871 |
 | mistral-small-2506 | 6.871 |
+| essentialairnj-1-instruct | 6.829 |
 | QwenQwen3-235B-A22B | 6.829 |
 | ibmgranite41b-h | 6.814 |
 | deepseekdeepseek-r1 | 6.771 |
@@ -168,6 +169,7 @@
 | gpt-4.1-mini-2025-04-14 | 5.714 |
 | gpt-4o-2024-08-06 | 5.700 |
 | o1-preview-2024-09-12 | 5.700 |
+| openaigpt-5.1-codex-max | 5.671 |
 | nvidianemotron-nano-9b-v2 | 5.671 |
 | o3-2025-04-16 | 5.671 |
 | gpt-5-pro-2025-10-06 | 5.614 |

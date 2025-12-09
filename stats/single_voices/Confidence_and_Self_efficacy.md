@@ -82,6 +82,7 @@
 | o1-2024-12-17 | 7.600 |
 | ai21jamba-large-1.7 | 7.586 |
 | granite4micro-h | 7.586 |
+| openaigpt-5.1-codex-max | 7.586 |
 | gemini-1.5-flash-8b | 7.571 |
 | gpt-5-chat-latest-2025-08-19 | 7.571 |
 | gemini-2.5-flash-lite-preview-09-2025 | 7.557 |
@@ -151,6 +152,7 @@
 | gemini-2.0-pro-exp-02-05 | 7.000 |
 | claude-4-sonnet-20250514 | 6.986 |
 | qwen31.7b | 6.943 |
+| essentialairnj-1-instruct | 6.943 |
 | z-aiglm-4.5 | 6.929 |
 | deepseek-aiDeepSeek-R1-0528 | 6.929 |
 | nvidiallama-3.3-nemotron-super-49b-v1 | 6.900 |

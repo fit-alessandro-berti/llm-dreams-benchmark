@@ -62,6 +62,7 @@
 | o1-pro-2024-12-05 | 7.314 |
 | phi3.53.8b-mini-instruct-fp16 | 7.314 |
 | liquidlfm-2.2-6b | 7.300 |
+| openaigpt-5.1-codex-max | 7.300 |
 | ministral-3b-2410 | 7.286 |
 | gpt-4.1-nano-2025-04-14 | 7.271 |
 | qwen-plus-2025-01-25 | 7.271 |
@@ -179,6 +180,7 @@
 | QwenQwen3-14B | 5.757 |
 | gpt-5-chat-latest-2025-08-07 | 5.714 |
 | meta-llamaMeta-Llama-3.1-8B-Instruct | 5.700 |
+| essentialairnj-1-instruct | 5.671 |
 | Qwen-QwQ-32B | 5.657 |
 | nvidiallama-3.1-nemotron-nano-8b-v1 | 5.643 |
 | phi4-mini-reasoning | 5.600 |

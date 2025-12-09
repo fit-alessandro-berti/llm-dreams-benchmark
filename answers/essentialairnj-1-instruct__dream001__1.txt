@@ -1,0 +1,9 @@
+def find_meeting():
+    directions = [
+        "head straight for the tallest building.",
+        "walk 300 meters east then turn north.",
+        "pass the statue of the dragon.",
+        "avoid the construction site."
+    ]
+    # You have 1 step left.
+    return directions[0]

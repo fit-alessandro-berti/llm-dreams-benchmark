@@ -1,0 +1,66 @@
+from collections import Counter
+
+def find_most_frequent(colors):
+    """
+    Given an array of eye colors, returns the most frequent color.
+    If there are ties, returns any one of them (due to specification ambiguity).
+    Assumes at least one color is provided.
+    """
+    count = Counter(colors)
+    # Counter.most_common()[0][0] returns the first most common element
+    return count.most_common()[0][0]
+
+def update_ship(ships, stamina_positions, group_positions, directions, colors):
+    """
+    Updates ship's crew and position based on the current state.
+    Returns a string containing the new ship information.
+    """
+    num_ships = len(ships)
+
+    # Determine cross-sectional shape if number of ships changed
+    if num_ships != ships[-1].num_ships:
+        ships[-1].cross_section = 'hexagonal' if num_ships >= 5 else 'rectangular'
+
+    # Calculate changes and update ship's crew
+    stamina_change = sum([1 for ship in stamina_positions if stamina_positions[ship] == 'increased'])
+    equity_change = sum([1 for ship in group_positions if group_positions[ship] == 'accumulated'])
+
+    ships[-1].update_crew(stamina_change, equity_change)
+
+    # Determine ship color
+    current_colors = [color for color in colors if color in ships[-1].eyes]
+    new_color = find_most_frequent(current_colors)
+
+    # Toggle direction
+    new_direction = 'clockwise' if directions[-1] == 'counterclockwise' else 'counterclockwise'
+
+    # Format updated ship information
+    output = f"{new_direction} {new_color} {ships[-1].num_ships} {ships[-1].equity} {ships[-1].stamina} {ships[-1].crew} ships\n"
+    
+    return output
+
+class Ship:
+    def __init__(self, num_ships, direction):
+        self.num_ships = num_ships
+        self.direction = direction
+        self.eyes = []
+        self.cross_section = 'rectangular'  # Assuming initial shape based on size
+        self.equity = 0
+        self.stamina = 0
+        self.crew = 0
+
+    def update_crew(self, stamina_change, equity_change):
+        # Implement logic for updating crew and seascape attributes
+        # As per the question, simple addition of changes is assumed
+        self.equity += equity_change
+        self.stamina += stamina_change
+        self.crew += stamina_change + equity_change
+
+    def set_eyes(self, colors):
+        self.eyes = colors
+
+# Example usage:
+# ships = [Ship(3, 'counterclockwise')]
+# ships[-1].set_eyes(['blue', 'blue', 'red'])
+# new_colors = ['blue', 'green', 'green']
+# print(update_ship(ships, stamina_positions={'ship1': 'increased'}, group_positions={'ship1': 'accumulated'}, directions=['counterclockwise'], colors=new_colors + ships[-1].eyes))

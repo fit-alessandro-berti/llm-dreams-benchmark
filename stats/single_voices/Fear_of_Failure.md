@@ -91,6 +91,7 @@
 | deepseek-aiDeepSeek-R1-Zero | 6.086 |
 | gemini-2.5-flash-lite-preview-06-17 | 6.071 |
 | anthropicclaude-opus-4.1 | 6.057 |
+| essentialairnj-1-instruct | 6.043 |
 | gpt-4-1106-preview | 6.029 |
 | chatgpt-4o-latest-2024-11-20 | 6.029 |
 | qwen30.6b | 5.986 |
@@ -128,6 +129,7 @@
 | qwenqwen3-coder | 5.500 |
 | o1-pro-2024-12-17 | 5.486 |
 | gpt-5-chat-latest-2025-08-19 | 5.429 |
+| openaigpt-5.1-codex-max | 5.357 |
 | baiduernie-4.5-300b-a47b | 5.343 |
 | o1-2024-12-05 | 5.329 |
 | gpt-4.1-nano-2025-04-14 | 5.300 |

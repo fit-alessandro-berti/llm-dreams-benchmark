@@ -1,0 +1,131 @@
+```python
+import random
+
+class Shape:
+    """
+    A class to represent a shape with a color and a list of points.
+
+    Attributes:
+    -----------
+    id: int
+        A unique identifier for the shape.
+    color: str
+        The color of the shape.
+    points: list
+        A list of (x, y) coordinates representing the shape.
+    """
+
+    def __init__(self, id: int, color: str, points: list):
+        """
+        Initializes a new shape.
+
+        Parameters:
+        -----------
+        id: int
+            The unique identifier for the shape.
+        color: str
+            The color of the shape.
+        points: list
+            A list of (x, y) coordinates representing the shape.
+        """
+        self.id = id
+        self.color = color
+        self.points = points
+
+    def paint(self, color: str) -> None:
+        """
+        Changes the color of the shape.
+
+        Parameters:
+        -----------
+        color: str
+            The new color for the shape.
+        """
+        self.color = color
+
+    def move(self, x: int, y: int) -> None:
+        """
+        Moves the shape by a given amount in the x and y directions.
+
+        Parameters:
+        -----------
+        x: int
+            The amount to move in the x direction.
+        y: int
+            The amount to move in the y direction.
+        """
+        for i in range(len(self.points)):
+            self.points[i][0] += x
+            self.points[i][1] += y
+
+
+class Dream:
+    """
+    A class to represent a dream with a list of shapes.
+
+    Attributes:
+    -----------
+    shapes: list
+        A list of shapes in the dream.
+    """
+
+    def __init__(self):
+        """
+        Initializes a new dream with no shapes.
+        """
+        self.shapes = []
+
+    def add_shape(self) -> None:
+        """
+        Adds a new shape to the dream with a random color and points.
+        """
+        colors = ["red", "blue", "green", "yellow", "purple"]
+        num_points = random.randint(3, 10)
+        points = []
+        for i in range(num_points):
+            point = [random.randint(-100, 100), random.randint(-100, 100)]
+            points.append(point)
+        shape = Shape(random.randint(1, 1000), random.choice(colors), points)
+        self.shapes.append(shape)
+
+    def change_color(self, shape_id: int, color: str) -> None:
+        """
+        Changes the color of a shape in the dream.
+
+        Parameters:
+        -----------
+        shape_id: int
+            The ID of the shape to change the color of.
+        color: str
+            The new color for the shape.
+        """
+        for shape in self.shapes:
+            if shape.id == shape_id:
+                shape.paint(color)
+                return
+
+    def move_shape(self, shape_id: int, x: int, y: int) -> None:
+        """
+        Moves a shape in the dream by a given amount in the x and y directions.
+
+        Parameters:
+        -----------
+        shape_id: int
+            The ID of the shape to move.
+        x: int
+            The amount to move in the x direction.
+        y: int
+            The amount to move in the y direction.
+        """
+        for shape in self.shapes:
+            if shape.id == shape_id:
+                shape.move(x, y)
+                return
+
+
+dream = Dream()
+dream.add_shape()
+dream.shapes[0].paint("blue")
+dream.move_shape(dream.shapes[0].id, 10, 20)
+
+```

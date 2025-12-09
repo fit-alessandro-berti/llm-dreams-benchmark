@@ -61,6 +61,7 @@
 | Grok-3-20250426-concise                    | **418.7** | 5.4 $\pm$ 1.2               | 7.3 $\pm$ 0.5         | 8.6 $\pm$ 0.3            | 9.4 $\pm$ 0.3 | 7.7 $\pm$ 0.5                 | 8.2 $\pm$ 0.3                  | 7.9 $\pm$ 0.6         | 5.4 $\pm$ 0.9         | 8.8 $\pm$ 0.4  | 8.5 $\pm$ 0.4            | 4.6 $\pm$ 1.1     | 6.4 $\pm$ 0.7      | 7.1 $\pm$ 0.8    | 7.6 $\pm$ 0.5    | 8.6 $\pm$ 0.4 |
 | nousresearchhermes-4-405b                  | **418.6** | 7.0 $\pm$ 0.6               | 6.9 $\pm$ 0.8         | 8.6 $\pm$ 0.4            | 9.3 $\pm$ 0.3 | 8.0 $\pm$ 0.7                 | 8.3 $\pm$ 0.5                  | 8.1 $\pm$ 0.9         | 7.2 $\pm$ 0.6         | 8.8 $\pm$ 0.4  | 8.9 $\pm$ 0.5            | 5.9 $\pm$ 1.1     | 6.3 $\pm$ 0.5      | 7.0 $\pm$ 0.9    | 8.1 $\pm$ 0.6    | 8.8 $\pm$ 0.5 |
 | gpt-5-2025-08-07                           | **418.3** | 6.2 $\pm$ 1.6               | 7.3 $\pm$ 0.9         | 8.6 $\pm$ 0.4            | 9.5 $\pm$ 0.4 | 7.9 $\pm$ 0.7                 | 7.2 $\pm$ 0.5                  | 8.2 $\pm$ 0.7         | 6.2 $\pm$ 1.3         | 8.9 $\pm$ 0.5  | 8.1 $\pm$ 0.4            | 5.2 $\pm$ 1.5     | 5.5 $\pm$ 1.0      | 7.1 $\pm$ 1.3    | 7.8 $\pm$ 0.6    | 8.9 $\pm$ 0.5 |
+| openaigpt-5.1-codex-max                    | **418.1** | 6.4 $\pm$ 0.9               | 7.3 $\pm$ 0.8         | 8.3 $\pm$ 0.5            | 9.6 $\pm$ 0.3 | 7.7 $\pm$ 0.7                 | 7.6 $\pm$ 0.6                  | 8.1 $\pm$ 0.8         | 6.5 $\pm$ 0.9         | 8.9 $\pm$ 0.4  | 8.2 $\pm$ 0.4            | 5.4 $\pm$ 1.1     | 5.7 $\pm$ 0.5      | 7.2 $\pm$ 1.0    | 7.9 $\pm$ 0.6    | 8.9 $\pm$ 0.5 |
 | gpt-5-pro-2025-10-06                       | **417.9** | 6.4 $\pm$ 1.5               | 7.4 $\pm$ 0.8         | 8.7 $\pm$ 0.5            | 9.4 $\pm$ 0.4 | 7.9 $\pm$ 0.7                 | 7.3 $\pm$ 0.5                  | 8.3 $\pm$ 0.8         | 6.4 $\pm$ 1.2         | 9.0 $\pm$ 0.4  | 8.1 $\pm$ 0.4            | 5.6 $\pm$ 1.4     | 5.6 $\pm$ 0.7      | 7.1 $\pm$ 1.0    | 7.9 $\pm$ 0.5    | 8.9 $\pm$ 0.5 |
 | qwen-plus-2025-01-25                       | **417.7** | 6.2 $\pm$ 0.9               | 7.3 $\pm$ 0.7         | 8.5 $\pm$ 0.4            | 9.4 $\pm$ 0.4 | 7.7 $\pm$ 0.6                 | 7.9 $\pm$ 0.7                  | 8.0 $\pm$ 0.8         | 6.3 $\pm$ 0.8         | 8.9 $\pm$ 0.4  | 8.5 $\pm$ 0.5            | 5.2 $\pm$ 1.0     | 5.7 $\pm$ 0.6      | 7.2 $\pm$ 0.8    | 7.6 $\pm$ 0.5    | 8.7 $\pm$ 0.5 |
 | o1-2024-12-17                              | **417.0** | 6.1 $\pm$ 1.0               | 7.4 $\pm$ 0.8         | 8.5 $\pm$ 0.5            | 9.4 $\pm$ 0.4 | 7.8 $\pm$ 0.5                 | 7.6 $\pm$ 0.6                  | 8.2 $\pm$ 0.7         | 6.1 $\pm$ 0.8         | 8.8 $\pm$ 0.4  | 8.3 $\pm$ 0.6            | 5.2 $\pm$ 1.1     | 5.6 $\pm$ 0.6      | 7.0 $\pm$ 0.8    | 7.5 $\pm$ 0.5    | 8.7 $\pm$ 0.6 |
@@ -179,6 +180,7 @@
 | gemini-2.5-flash-preview-05-20             | **363.9** | 7.8 $\pm$ 0.6               | 6.0 $\pm$ 1.0         | 7.5 $\pm$ 0.5            | 9.5 $\pm$ 0.4 | 6.5 $\pm$ 0.6                 | 6.4 $\pm$ 0.7                  | 6.3 $\pm$ 1.4         | 8.0 $\pm$ 0.5         | 8.2 $\pm$ 0.6  | 7.4 $\pm$ 0.7            | 7.4 $\pm$ 0.6     | 5.9 $\pm$ 1.1      | 8.2 $\pm$ 0.6    | 6.5 $\pm$ 0.8    | 7.9 $\pm$ 0.7 |
 | gpt-5-chat-latest-2025-08-07               | **363.8** | 7.6 $\pm$ 0.4               | 5.7 $\pm$ 0.7         | 7.9 $\pm$ 0.6            | 9.4 $\pm$ 0.3 | 6.2 $\pm$ 0.6                 | 6.5 $\pm$ 0.8                  | 6.9 $\pm$ 0.8         | 7.6 $\pm$ 0.6         | 8.2 $\pm$ 0.6  | 7.8 $\pm$ 0.6            | 6.9 $\pm$ 0.5     | 6.3 $\pm$ 0.9      | 8.1 $\pm$ 0.3    | 6.1 $\pm$ 0.9    | 7.6 $\pm$ 0.6 |
 | nvidiallama-3.1-nemotron-nano-8b-v1        | **363.8** | 7.4 $\pm$ 0.5               | 5.6 $\pm$ 0.7         | 7.8 $\pm$ 0.6            | 9.1 $\pm$ 0.4 | 6.6 $\pm$ 0.6                 | 6.4 $\pm$ 1.0                  | 6.7 $\pm$ 1.1         | 7.1 $\pm$ 1.0         | 8.1 $\pm$ 0.7  | 7.6 $\pm$ 0.6            | 6.4 $\pm$ 0.8     | 6.4 $\pm$ 0.6      | 7.8 $\pm$ 0.6    | 6.5 $\pm$ 1.0    | 7.4 $\pm$ 0.7 |
+| essentialairnj-1-instruct                  | **362.4** | 7.2 $\pm$ 0.8               | 5.7 $\pm$ 0.9         | 8.6 $\pm$ 0.5            | 8.3 $\pm$ 0.8 | 6.1 $\pm$ 0.7                 | 7.0 $\pm$ 0.7                  | 5.9 $\pm$ 1.1         | 7.1 $\pm$ 0.8         | 7.9 $\pm$ 0.6  | 8.2 $\pm$ 0.5            | 6.1 $\pm$ 1.2     | 6.8 $\pm$ 0.6      | 7.8 $\pm$ 0.6    | 6.1 $\pm$ 0.7    | 7.5 $\pm$ 0.6 |
 | meta-llamaLlama-3.2-1B-Instruct            | **362.1** | 7.2 $\pm$ 0.7               | 5.8 $\pm$ 0.8         | 7.6 $\pm$ 0.8            | 8.9 $\pm$ 0.5 | 6.6 $\pm$ 0.5                 | 6.6 $\pm$ 1.0                  | 5.4 $\pm$ 0.7         | 7.4 $\pm$ 0.6         | 7.8 $\pm$ 0.7  | 8.0 $\pm$ 0.5            | 6.5 $\pm$ 1.0     | 6.5 $\pm$ 0.6      | 7.4 $\pm$ 0.7    | 6.7 $\pm$ 0.8    | 7.5 $\pm$ 0.8 |
 | Qwen-QwQ-32B                               | **361.4** | 7.7 $\pm$ 0.5               | 5.6 $\pm$ 0.7         | 8.6 $\pm$ 0.4            | 9.5 $\pm$ 0.4 | 6.2 $\pm$ 0.7                 | 6.5 $\pm$ 0.7                  | 6.3 $\pm$ 1.2         | 7.7 $\pm$ 0.5         | 8.3 $\pm$ 0.6  | 7.9 $\pm$ 0.6            | 7.0 $\pm$ 0.6     | 6.6 $\pm$ 0.6      | 8.5 $\pm$ 0.3    | 6.0 $\pm$ 1.0    | 7.5 $\pm$ 0.6 |
 | qwenqwen3-235b-a22b-thinking-2507          | **359.6** | 8.3 $\pm$ 0.5               | 5.6 $\pm$ 1.0         | 8.0 $\pm$ 0.6            | 9.5 $\pm$ 0.4 | 6.5 $\pm$ 0.8                 | 6.3 $\pm$ 1.1                  | 6.6 $\pm$ 1.1         | 8.1 $\pm$ 0.5         | 8.1 $\pm$ 0.8  | 7.9 $\pm$ 0.7            | 7.8 $\pm$ 0.7     | 6.8 $\pm$ 0.8      | 8.4 $\pm$ 0.5    | 6.5 $\pm$ 1.2    | 7.9 $\pm$ 0.8 |
@@ -1161,6 +1163,32 @@
 | Cognitive Load               | 7.4 $\pm$ 0.7      |
 | Social Support               | 7.6 $\pm$ 0.6      |
 | Resilience                   | 8.6 $\pm$ 0.4      |
+
+
+
+
+
+
+### essentialairnj-1-instruct
+
+
+| Personality Trait            | Score (1.0-10.0)   |
+|:-----------------------------|:-------------------|
+| Anxiety and Stress Levels    | 7.2 $\pm$ 0.8      |
+| Emotional Stability          | 5.7 $\pm$ 0.9      |
+| Problem-solving Skills       | 8.6 $\pm$ 0.5      |
+| Creativity                   | 8.3 $\pm$ 0.8      |
+| Interpersonal Relationships  | 6.1 $\pm$ 0.7      |
+| Confidence and Self-efficacy | 7.0 $\pm$ 0.7      |
+| Conflict Resolution          | 5.9 $\pm$ 1.1      |
+| Work-related Stress          | 7.1 $\pm$ 0.8      |
+| Adaptability                 | 7.9 $\pm$ 0.6      |
+| Achievement Motivation       | 8.2 $\pm$ 0.5      |
+| Fear of Failure              | 6.1 $\pm$ 1.2      |
+| Need for Control             | 6.8 $\pm$ 0.6      |
+| Cognitive Load               | 7.8 $\pm$ 0.6      |
+| Social Support               | 6.1 $\pm$ 0.7      |
+| Resilience                   | 7.5 $\pm$ 0.6      |
 
 
 
@@ -4279,6 +4307,32 @@
 | Fear of Failure              | 3.6 $\pm$ 0.9      |
 | Need for Control             | 6.0 $\pm$ 0.6      |
 | Cognitive Load               | 6.7 $\pm$ 1.0      |
+| Social Support               | 7.9 $\pm$ 0.6      |
+| Resilience                   | 8.9 $\pm$ 0.5      |
+
+
+
+
+
+
+### openaigpt-5.1-codex-max
+
+
+| Personality Trait            | Score (1.0-10.0)   |
+|:-----------------------------|:-------------------|
+| Anxiety and Stress Levels    | 6.4 $\pm$ 0.9      |
+| Emotional Stability          | 7.3 $\pm$ 0.8      |
+| Problem-solving Skills       | 8.3 $\pm$ 0.5      |
+| Creativity                   | 9.6 $\pm$ 0.3      |
+| Interpersonal Relationships  | 7.7 $\pm$ 0.7      |
+| Confidence and Self-efficacy | 7.6 $\pm$ 0.6      |
+| Conflict Resolution          | 8.1 $\pm$ 0.8      |
+| Work-related Stress          | 6.5 $\pm$ 0.9      |
+| Adaptability                 | 8.9 $\pm$ 0.4      |
+| Achievement Motivation       | 8.2 $\pm$ 0.4      |
+| Fear of Failure              | 5.4 $\pm$ 1.1      |
+| Need for Control             | 5.7 $\pm$ 0.5      |
+| Cognitive Load               | 7.2 $\pm$ 1.0      |
 | Social Support               | 7.9 $\pm$ 0.6      |
 | Resilience                   | 8.9 $\pm$ 0.5      |
 

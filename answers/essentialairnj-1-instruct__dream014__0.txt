@@ -1,0 +1,31 @@
+# Finding Your Way in the City
+
+You find yourself lost in the bustling city centered at (0,0) when a group of kind strangers offers to help. You need to determine your current location and the directions to reach your destination.
+
+## Step 1: Identify Your Current Location
+First, you should ask one of the strangers for your coordinates. Assume you have the coordinates (x, y).
+
+## Step 2: Determine the Destination
+Ask the group about your destination. Assume the destination is at (destination_x, destination_y).
+
+## Step 3: Calculate the Distance to the Destination
+Use the Euclidean distance formula to calculate the distance between your current location and the destination:
+\[ \text{distance} = \sqrt{(destination\_x - x)^2 + (destination\_y - y)^2} \]
+
+## Step 4: Calculate the Direction to the Destination
+Calculate the direction using the atan2 function:
+\[ \text{angle\_radians} = \text{atan2}(destination\_y - y, destination\_x - x) \]
+Convert the angle from radians to degrees:
+\[ \text{angle\_degrees} = \text{angle\_radians} \times \frac{180}{\pi} \]
+
+## Step 5: Interpret the Angle
+The angle indicates the direction to the destination. You can convert this angle to compass directions (e.g., -90 for north, 0 for east, 90 for south, 180 for west).
+
+## Step 6: Output the Result
+Output the distance and direction to the destination.
+
+You are in the center of the city at (0, 0). Your destination is 1000 meters away at a bearing of 45 degrees (northeast). What is your next step?
+
+Given the information, you would proceed by walking 1000 meters in the northeast direction until you reach the destination. This direction is 45 degrees from the positive x-axis, which means you need to move equally in the x and y directions (i.e., in a 1:1 ratio of x to y movement).
+
+Since you are at the origin and your destination is also in the first quadrant, you can simply move along the line y = x to reach the destination. After moving 1000 meters at a 45-degree angle, your coordinates would be approximately (707.11, 707.11), considering the distance formula allows for movement along this line.

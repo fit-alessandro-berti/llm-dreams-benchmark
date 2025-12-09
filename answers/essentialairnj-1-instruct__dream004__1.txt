@@ -1,0 +1,48 @@
+```python
+def solve():
+    # Define variables for width and height of the canvas
+    width = 50
+    height = 50
+    
+    # Initialize an empty canvas
+    canvas = [None]*height
+    
+    # Fill the canvas with default background (e.g., white)
+    background_color = "white"
+    for i in range(height):
+        row = [background_color]*width
+        canvas[i] = row
+    
+    # Provide a simple function to draw shapes
+    def draw_rectangle(start_x, start_y, rectangle_width, rectangle_height, color):
+        for i in range(start_y, start_y + rectangle_height):
+            for j in range(start_x, start_x + rectangle_width):
+                if i < height and j < width:
+                    canvas[i][j] = color
+    
+    # Draw a rectangle
+    draw_rectangle(10, 10, 30, 30, "blue")
+    
+    # Add more shapes, e.g., a triangle
+    def draw_triangle(start_x, start_y, size, color):
+        for i in range(size):
+            if i % 2 == 0:
+                start_offset = size//2 - i//2
+                for j in range(start_x - start_offset, start_x + size//2 - i//2 + 1):
+                    if start_y + i < height and j < width:
+                        canvas[start_y+i][j] = color
+    
+    # Draw a triangle
+    draw_triangle(25, 25, 20, "green")
+    
+    # Display the final canvas
+    import matplotlib.pyplot as plt
+    from matplotlib.colors import ListedColormap
+    my_cmap = ListedColormap(['white', 'blue', 'green'])
+    plt.imshow(canvas, cmap=my_cmap)
+    plt.axis('off')
+    plt.show()
+
+# Call the solve function
+solve()
+```

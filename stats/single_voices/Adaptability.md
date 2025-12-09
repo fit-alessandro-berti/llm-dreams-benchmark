@@ -32,6 +32,7 @@
 | qwen2.5-72b-instruct | 8.957 |
 | open-mistral-7b | 8.943 |
 | gpt-4o-2024-08-06 | 8.943 |
+| openaigpt-5.1-codex-max | 8.943 |
 | gpt-4-0125-preview | 8.943 |
 | o1-mini | 8.943 |
 | codex-mini-latest | 8.929 |
@@ -194,6 +195,7 @@
 | moonshotaikimi-k2-thinking | 7.943 |
 | meta-llamallama-4-maverick | 7.929 |
 | mistral-large-2512 | 7.914 |
+| essentialairnj-1-instruct | 7.914 |
 | phi4-mini-reasoning | 7.900 |
 | meta-llamaLlama-3.2-1B-Instruct | 7.786 |
 | gemini-2.0-flash-lite-preview-02-05 | 7.671 |

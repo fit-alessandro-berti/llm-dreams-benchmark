@@ -1,0 +1,19 @@
+def impossible_task(n, b, x, y):
+    if x + y > n:
+        return -1
+    steps = x / b
+    if x % b != 0:
+        steps += 1
+    current = x
+    remaining = n - x
+    for _ in range(int(steps)):
+        current *= y
+        remaining -= current
+        if remaining < 0:
+            return -1
+    if current > remaining:
+        return -1
+    return int(steps)
+
+n, b, x, y = map(int, input().split())
+print(impossible_task(n, b, x, y))

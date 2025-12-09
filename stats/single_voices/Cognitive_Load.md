@@ -58,6 +58,7 @@
 | claude-4-sonnet-20250514 | 7.829 |
 | meta-llamaMeta-Llama-3.1-70B-Instruct | 7.829 |
 | moonshotaikimi-linear-48b-a3b-instruct | 7.829 |
+| essentialairnj-1-instruct | 7.814 |
 | gemini-2.5-flash-lite-preview-06-17 | 7.814 |
 | qwen-turbo-0428 | 7.814 |
 | grok-4-1-fast-reasoning | 7.814 |
@@ -137,6 +138,7 @@
 | qwen-plus-2025-01-25 | 7.200 |
 | gpt-4-1106-preview | 7.171 |
 | gpt-5-chat-latest-2025-08-19 | 7.171 |
+| openaigpt-5.1-codex-max | 7.171 |
 | ChatGPT-5.1-Instant-20251113 | 7.129 |
 | granite4micro-h | 7.129 |
 | o1-pro-2024-12-17 | 7.114 |

@@ -126,6 +126,7 @@
 | gemini-2.5-pro-preview-05-06 | 8.286 |
 | chatgpt-4o-latest-2025-01-29 | 8.271 |
 | meta-llamaMeta-Llama-3.1-8B-Instruct | 8.271 |
+| openaigpt-5.1-codex-max | 8.257 |
 | googlegemma-2-9b-it | 8.257 |
 | gpt-5-chat-latest-2025-08-19 | 8.257 |
 | gpt-5-mini-2025-08-07 | 8.257 |
@@ -134,6 +135,7 @@
 | QwenQwen3-14B | 8.243 |
 | arcee-aitrinity-mini | 8.229 |
 | qwenqwen3-235b-a22b-07-25 | 8.214 |
+| essentialairnj-1-instruct | 8.200 |
 | Grok-4.1-20251118 | 8.186 |
 | deepseek-aiDeepSeek-R1-0528 | 8.186 |
 | magistral-small-2506 | 8.186 |

@@ -1,0 +1,48 @@
+from collections import deque
+
+def solve_maze(maze):
+    if not maze:
+        return []
+    rows = len(maze)
+    cols = len(maze[0]) if rows > 0 else 0
+    if not rows or not cols:
+        return []
+
+    # Find start and end positions
+    start = end = None
+    for r in range(rows):
+        if 'S' in maze[r]:
+            start = (r, maze[r].index('S'))
+        if 'E' in maze[r]:
+            end = (r, maze[r].index('E'))
+
+    if not start or not end:
+        return []
+
+    directions = [(-1, 0), (1, 0), (0, -1), (0, 1)]  # up, down, left, right
+    queue = deque([(start, [])])
+    visited = set([start])
+
+    while queue:
+        current_pos, path = queue.popleft()
+        current_r, current_c = current_pos
+
+        if current_pos == end:
+            return path + [current_pos]
+
+        for dr, dc in directions:
+            new_r, new_c = current_r + dr, current_c + dc
+            if 0 <= new_r < rows and 0 <= new_c < cols and (new_r, new_c) not in visited and maze[new_r][new_c] != '#':
+                visited.add((new_r, new_c))
+                queue.append(((new_r, new_c), path + [current_pos]))
+
+    return []  # Return empty if no path found
+
+# Example usage:
+# maze = [
+#     "S..##",
+#     "....#",
+#     "#E.#.",
+#     "....#"
+# ]
+# print(solve_maze(maze))  # Output: [(0, 0), (1, 0), (1, 1), (1, 2), (1, 3), (2, 3), (3, 3)]

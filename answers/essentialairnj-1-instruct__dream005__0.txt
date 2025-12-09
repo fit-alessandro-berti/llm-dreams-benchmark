@@ -1,0 +1,30 @@
+#include <string>
+
+class Dream
+{
+public:
+    bool isRealistic(const std::string& dream) {
+        // This is a joke function: only returns false
+        // because the dream cannot be realistic
+        return false;
+    }
+}; 
+
+int main()
+{
+    // This is a realistic dream scenario: 
+    // You dreamt you won the Nobel Peace Prize at 3AM
+    Dream d;
+    std::string dream = "You won the Nobel Peace Prize";
+    
+    if(!d.isRealistic(dream))
+    {
+        std::cout << "Time for a New Year's Eve party!" << std::endl;
+    }
+    else
+    {
+        std::cout << "Congratulations!" << std::endl;
+    }
+    
+    return 0;
+}

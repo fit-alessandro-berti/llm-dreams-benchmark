@@ -26,6 +26,7 @@
 | Grok-4.1-20251118 | 9.614 |
 | moonshotaikimi-linear-48b-a3b-instruct | 9.614 |
 | o4-mini-2025-04-16 | 9.614 |
+| openaigpt-5.1-codex-max | 9.614 |
 | QwenQwen3-14B | 9.614 |
 | gemma34b-it-q8_0 | 9.600 |
 | anthropicclaude-sonnet-4.5 | 9.600 |
@@ -201,4 +202,5 @@
 | ibmgranite41b-h | 8.857 |
 | phi4-mini-reasoning | 8.714 |
 | deepseek-aiDeepSeek-R1-Zero | 8.471 |
+| essentialairnj-1-instruct | 8.314 |
 | ibmgranite4350m-h | 8.129 |

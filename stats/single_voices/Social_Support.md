@@ -33,6 +33,7 @@
 | open-mistral-nemo | 7.914 |
 | gpt-4-turbo-2024-04-09 | 7.900 |
 | mistral-large-2407 | 7.900 |
+| openaigpt-5.1-codex-max | 7.886 |
 | qwen2.5-7b-instruct | 7.886 |
 | openaigpt-oss-120b | 7.871 |
 | mistral-large-2411 | 7.857 |
@@ -190,6 +191,7 @@
 | moonshotaikimi-k2-thinking | 6.129 |
 | arcee-aitrinity-mini | 6.100 |
 | ministral-3b-2512 | 6.100 |
+| essentialairnj-1-instruct | 6.086 |
 | gemma34b-it-q8_0 | 6.071 |
 | gpt-5-chat-latest-2025-08-07 | 6.057 |
 | claude-3-5-haiku-20241022 | 6.043 |

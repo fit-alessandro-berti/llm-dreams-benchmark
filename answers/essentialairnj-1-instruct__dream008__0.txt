@@ -1,0 +1,25 @@
+# Sum of First N Natural Numbers
+
+This code calculates the sum of the first n natural numbers using the mathematical formula n*(n+1)/2 which is derived from the arithmetic series formula.
+
+```python
+def sum_first_n(n):
+    """
+    Calculate the sum of first n natural numbers using the formula n*(n+1)/2.
+    
+    Args:
+        n (int): The number of terms in the series.
+    
+    Returns:
+        int: The sum of the first n natural numbers.
+    """
+    return n * (n + 1) // 2  # Using integer division to ensure an integer result
+
+# Example usage
+if __name__ == "__main__":
+    n = 10  # You can change this value to calculate for different numbers
+    result = sum_first_n(n)
+    print(f"The sum of first {n} natural numbers is: {result}")
+```
+
+This program is exceptionally efficient as it computes the sum in constant time O(1), making it suitable for very large values of n without any risk of overflow (in languages with fixed integer sizes). In Python, the `int` type is arbitrary precision, so this solution works for arbitrarily large numbers as long as memory permits.

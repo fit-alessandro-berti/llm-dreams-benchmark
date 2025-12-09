@@ -1,0 +1,40 @@
+from typing import List, Optional
+
+class Speech:
+    audience: List[str]
+    topic: Optional[str]
+    outline: List[str]
+    notes: List[str]
+    time: Optional[int]
+    location: Optional[str]
+    materials: List[str]
+
+    def __init__(self, audience: List[str], topic: Optional[str] = None):
+        self.audience = audience
+        self.topic = topic
+        self.outline = []
+        self.notes = []
+        self.time = None
+        self.location = None
+        self.materials = []
+
+    def add_outline_item(self, item: str):
+        self.outline.append(item)
+
+    def add_note(self, note: str):
+        self.notes.append(note)
+
+    def set_time(self, time: int):
+        self.time = time
+
+    def set_location(self, location: str):
+        self.location = location
+
+    def add_material(self, material: str):
+        self.materials.append(material)
+
+    def rehearse(self):
+        print(f"Rehearsing speech for {self.audience} on topic: {self.topic}")
+
+    def prepare(self):
+        print(f"Preparing for speech in {self.location} with topic: {self.topic}")

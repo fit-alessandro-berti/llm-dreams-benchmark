@@ -1,0 +1,3 @@
+def dream():
+    print("Congratulations! You've earned your dream job.")
+    return "Vacation"

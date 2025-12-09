@@ -48,6 +48,7 @@
 | baiduernie-4.5-21b-a3b | 8.671 |
 | phi3.53.8b-mini-instruct-fp16 | 8.657 |
 | allenaiolmo-3-7b-think | 8.643 |
+| essentialairnj-1-instruct | 8.643 |
 | Grok-3-20250426-formal | 8.643 |
 | mistral-small-2503 | 8.643 |
 | o1-preview-2024-09-12 | 8.643 |
@@ -132,6 +133,7 @@
 | gemma312b-it-q8_0 | 8.286 |
 | qwenqwen3-max | 8.286 |
 | qwenqwen3-next-80b-a3b-thinking | 8.286 |
+| openaigpt-5.1-codex-max | 8.271 |
 | ibmgranite41b-h | 8.271 |
 | chatgpt-4o-latest-2025-04-26 | 8.257 |
 | grok-4-0709 | 8.257 |

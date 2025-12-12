@@ -5,8 +5,9 @@ The script fits two regressors:
 - active parameter count when available
 
 By default targets are log1p-transformed before fitting and transformed back for
-reporting. Provide the model name to score via --model; its psychological scores
-are pulled from OVERALL.json.
+reporting. After training, a Markdown table of all models in OVERALL.json is
+written to PREDICTIONS.md with predicted total/active parameter counts alongside
+known values when available.
 """
 
 import argparse
@@ -121,11 +122,6 @@ def parse_args() -> argparse.Namespace:
         description="Train regressors to predict model sizes from psychological score vectors."
     )
     parser.add_argument(
-        "--model",
-        required=True,
-        help="Model name to predict (must exist in OVERALL.json).",
-    )
-    parser.add_argument(
         "--overall",
         type=Path,
         default=DEFAULT_OVERALL_PATH,
@@ -160,7 +156,60 @@ def parse_args() -> argparse.Namespace:
         action="store_true",
         help="Disable log1p transform of parameter counts before fitting.",
     )
+    parser.add_argument(
+        "--output",
+        type=Path,
+        default="PREDICTIONS.md",
+        help="Path to write Markdown table of predictions (default: PREDICTIONS.md in repo root).",
+    )
     return parser.parse_args()
+
+
+def predict_all_models(
+    overall: Sequence[dict],
+    size_map: Dict[str, List],
+    names: Sequence[str],
+    total_reg: RandomForestRegressor,
+    active_reg: Optional[RandomForestRegressor],
+    use_log: bool,
+) -> List[Tuple[str, float, Optional[float], Optional[float], Optional[float]]]:
+    predictions: List[Tuple[str, float, Optional[float], Optional[float], Optional[float]]] = []
+    for entry in overall:
+        features = vector_from_scores(entry["scores"], names)
+        predicted_total = inverse_transform(float(total_reg.predict([features])[0]), use_log)
+
+        predicted_active: Optional[float] = None
+        if active_reg is not None:
+            predicted_active = inverse_transform(float(active_reg.predict([features])[0]), use_log)
+
+        size_entry = size_map.get(entry["LLM"], [])
+        actual_total = (
+            float(size_entry[0]) if len(size_entry) > 0 and isinstance(size_entry[0], (int, float)) else None
+        )
+        actual_active = (
+            float(size_entry[1]) if len(size_entry) > 1 and isinstance(size_entry[1], (int, float)) else None
+        )
+
+        predictions.append((entry["LLM"], predicted_total, predicted_active, actual_total, actual_active))
+    return predictions
+
+
+def build_markdown_table(
+    predictions: Sequence[Tuple[str, float, Optional[float], Optional[float], Optional[float]]]
+) -> str:
+    sorted_rows = sorted(predictions, key=lambda row: row[1], reverse=True)
+    lines = [
+        "| Model | Predicted Total Params | Known Total Params | Predicted Active Params | Known Active Params |",
+        "| --- | --- | --- | --- | --- |",
+    ]
+    for model, total, active, actual_total, actual_active in sorted_rows:
+        active_str = format_size(active) if active is not None else "n/a"
+        total_actual_str = format_size(actual_total) if actual_total is not None else "n/a"
+        active_actual_str = format_size(actual_active) if actual_active is not None else "n/a"
+        lines.append(
+            f"| {model} | {format_size(total)} | {total_actual_str} | {active_str} | {active_actual_str} |"
+        )
+    return "\n".join(lines) + "\n"
 
 
 def main() -> None:
@@ -175,12 +224,6 @@ def main() -> None:
     overall = load_json(args.overall)
     size_map = load_json(args.model_size)
     names = trait_names(overall)
-
-    model_lookup = {entry["LLM"]: entry for entry in overall}
-    target = model_lookup.get(args.model)
-    if target is None:
-        known = ", ".join(sorted(model_lookup)[:5]) + (" ..." if len(model_lookup) > 5 else "")
-        raise SystemExit(f"Model '{args.model}' not found in OVERALL.json. Known examples: {known}")
 
     total_X, total_y, active_X, active_y = prepare_training_sets(
         overall, size_map, names, use_log
@@ -204,30 +247,13 @@ def main() -> None:
     else:
         print("Not enough active-parameter labels to train an active regressor; skipping.")
 
-    target_features = vector_from_scores(target["scores"], names)
-    predicted_total = inverse_transform(float(total_reg.predict([target_features])[0]), use_log)
+    predictions = predict_all_models(overall, size_map, names, total_reg, active_reg, use_log)
+    table_md = build_markdown_table(predictions)
 
-    predicted_active = None
-    if active_reg is not None:
-        predicted_active = inverse_transform(
-            float(active_reg.predict([target_features])[0]), use_log
-        )
-
-    actual_sizes = size_map.get(args.model, [])
-    actual_total = actual_sizes[0] if len(actual_sizes) > 0 else None
-    actual_active = actual_sizes[1] if len(actual_sizes) > 1 else None
-
-    print(f"\nPrediction for {args.model}:")
-    print(f"- Total parameters:  {format_size(predicted_total)}")
-    if actual_total is not None:
-        print(f"  (known total:     {format_size(float(actual_total))})")
-
-    if predicted_active is not None:
-        print(f"- Active parameters: {format_size(predicted_active)}")
-        if actual_active is not None:
-            print(f"  (known active:    {format_size(float(actual_active))})")
-    else:
-        print("- Active parameters: regressor not trained (insufficient labels).")
+    args.output.parent.mkdir(parents=True, exist_ok=True)
+    args.output.write_text(table_md, encoding="utf-8")
+    print(f"\nPredictions table written to {args.output}\n")
+    print(table_md)
 
 
 if __name__ == "__main__":

@@ -90,6 +90,7 @@
 | gpt-4.5-preview | 8.486 |
 | o1-2024-12-17 | 8.486 |
 | deepseekdeepseek-r1 | 8.471 |
+| gpt-5.2-2025-12-11 | 8.471 |
 | ministral-3b-2410 | 8.471 |
 | qwen2.5-7b-instruct-1m | 8.471 |
 | gemini-2.0-flash-exp | 8.457 |
@@ -105,6 +106,7 @@
 | prime-intellectintellect-3 | 8.429 |
 | gemma-3-27b-it | 8.414 |
 | deepseek-aiDeepSeek-R1-0528 | 8.400 |
+| gpt-5.2-pro-2025-12-11 | 8.400 |
 | Grok-3-beta-thinking-20250303 | 8.400 |
 | o3-mini-20250131-HIGH | 8.400 |
 | chatgpt-4o-latest-2025-03-26 | 8.386 |

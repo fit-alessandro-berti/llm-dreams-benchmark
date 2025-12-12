@@ -38,6 +38,7 @@
 | gemini-2.0-pro-exp-02-05 | 7.657 |
 | gemma31b-it-q8_0 | 7.657 |
 | claude-3-5-haiku-20241022 | 7.643 |
+| gpt-5.2-2025-12-11 | 7.643 |
 | gpt-5-chat-latest-2025-08-07 | 7.629 |
 | magistral-medium-2506 | 7.629 |
 | qwen31.7b | 7.629 |
@@ -54,6 +55,7 @@
 | meta-llamaMeta-Llama-3.1-405B-Instruct | 7.529 |
 | ibmgranite4350m-h | 7.514 |
 | qwen-plus-0428 | 7.486 |
+| gpt-5.2-pro-2025-12-11 | 7.486 |
 | gemini-2.5-pro-preview-05-06 | 7.457 |
 | nvidiallama-3.3-nemotron-super-49b-v1 | 7.457 |
 | meta-llamaLlama-3.2-3B-Instruct | 7.443 |

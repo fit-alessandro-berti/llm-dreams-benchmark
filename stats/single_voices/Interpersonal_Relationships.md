@@ -116,6 +116,7 @@
 | gemini-2.0-flash-exp | 7.286 |
 | moonshotaikimi-linear-48b-a3b-instruct | 7.286 |
 | gemini-2.5-pro-preview-05-06 | 7.286 |
+| gpt-5.2-2025-12-11 | 7.286 |
 | qwen38b | 7.271 |
 | Gemini-1.5-Pro-Exp-0801 | 7.271 |
 | gemini-1.5-flash-8b | 7.243 |
@@ -134,6 +135,7 @@
 | gemma-3n-e4b-it | 7.157 |
 | claude-haiku-4-5-20251001 | 7.143 |
 | deepseekdeepseek-chat-v3.1 | 7.143 |
+| gpt-5.2-pro-2025-12-11 | 7.143 |
 | gpt-5-chat-latest-2025-08-19 | 7.129 |
 | chatgpt-4o-latest-2024-11-20 | 7.114 |
 | claude-4-opus-20250514 | 7.114 |

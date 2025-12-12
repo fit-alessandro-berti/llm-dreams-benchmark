@@ -27,6 +27,7 @@
 | magistral-medium-2506 | 6.600 |
 | claude-3-opus-20240229 | 6.586 |
 | smollm2360m | 6.571 |
+| gpt-5.2-2025-12-11 | 6.543 |
 | DeepSeek-V3-0324 | 6.529 |
 | grok-3-mini-beta | 6.500 |
 | meta-llamaMeta-Llama-3.1-405B-Instruct | 6.500 |
@@ -74,6 +75,7 @@
 | gemini-2.5-flash-preview-04-17 | 6.271 |
 | meta-llamallama-4-maverick | 6.271 |
 | ai21jamba-large-1.7 | 6.257 |
+| gpt-5.2-pro-2025-12-11 | 6.257 |
 | qwen-turbo-0428 | 6.257 |
 | QwenQwen3-30B-A3B | 6.257 |
 | gpt-5-chat-latest-2025-08-07 | 6.257 |

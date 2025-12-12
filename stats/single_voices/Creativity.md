@@ -110,6 +110,7 @@
 | microsoftPhi-3-medium-4k-instruct | 9.386 |
 | chatgpt-4o-latest-20250215 | 9.371 |
 | deepseek-aiDeepSeek-R1-0528 | 9.371 |
+| gpt-5.2-pro-2025-12-11 | 9.371 |
 | ministral-14b-2512 | 9.371 |
 | ministral-3b-2512 | 9.371 |
 | o1-2024-12-17 | 9.371 |
@@ -149,6 +150,7 @@
 | o1-2024-12-05 | 9.271 |
 | Gpt-5.1-Pro-20251120 | 9.257 |
 | granite4tiny-h | 9.257 |
+| gpt-5.2-2025-12-11 | 9.257 |
 | ministral-3b-2410 | 9.257 |
 | open-mistral-nemo | 9.243 |
 | mistral-medium-2505 | 9.229 |

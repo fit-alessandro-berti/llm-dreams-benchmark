@@ -169,6 +169,8 @@
 | magistral-medium-2506                      | **382.1** | 7.7 $\pm$ 0.4               | 6.2 $\pm$ 0.5         | 8.5 $\pm$ 0.2            | 9.5 $\pm$ 0.1  | 6.8 $\pm$ 0.4                 | 7.2 $\pm$ 0.5                  | 7.3 $\pm$ 0.4         | 8.3 $\pm$ 0.4         | 8.8 $\pm$ 0.2  | 8.7 $\pm$ 0.2            | 7.4 $\pm$ 0.1     | 6.5 $\pm$ 0.4      | 8.3 $\pm$ 0.2    | 6.4 $\pm$ 0.7    | 8.0 $\pm$ 0.2 |
 | gpt-5-chat-latest-2025-08-07               | **382.1** | 7.2 $\pm$ 0.4               | 6.1 $\pm$ 0.6         | 8.4 $\pm$ 0.1            | 9.6 $\pm$ 0.1  | 6.6 $\pm$ 0.4                 | 7.0 $\pm$ 0.4                  | 7.4 $\pm$ 0.3         | 7.6 $\pm$ 0.6         | 8.8 $\pm$ 0.1  | 8.1 $\pm$ 0.4            | 6.8 $\pm$ 0.2     | 5.5 $\pm$ 0.3      | 8.2 $\pm$ 0.2    | 6.1 $\pm$ 0.5    | 7.8 $\pm$ 0.4 |
 | Gpt-5.1-Pro-20251120                       | **381.3** | 6.9 $\pm$ 0.6               | 5.7 $\pm$ 0.2         | 8.6 $\pm$ 0.1            | 9.5 $\pm$ 0.1  | 6.8 $\pm$ 0.5                 | 6.4 $\pm$ 0.5                  | 7.8 $\pm$ 0.3         | 7.6 $\pm$ 0.5         | 8.8 $\pm$ 0.1  | 8.0 $\pm$ 0.2            | 7.3 $\pm$ 0.4     | 6.2 $\pm$ 0.5      | 8.3 $\pm$ 0.2    | 6.4 $\pm$ 0.4    | 8.4 $\pm$ 0.2 |
+| gpt-5.2-pro-2025-12-11                     | **381.3** | 6.7 $\pm$ 0.4               | 5.4 $\pm$ 0.4         | 8.6 $\pm$ 0.1            | 9.5 $\pm$ 0.1  | 7.1 $\pm$ 0.4                 | 6.3 $\pm$ 0.3                  | 7.9 $\pm$ 0.0         | 7.6 $\pm$ 0.5         | 8.7 $\pm$ 0.1  | 7.9 $\pm$ 0.3            | 7.2 $\pm$ 0.2     | 6.5 $\pm$ 0.3      | 8.2 $\pm$ 0.2    | 6.6 $\pm$ 0.2    | 8.2 $\pm$ 0.1 |
+| gpt-5.2-2025-12-11                         | **379.3** | 7.2 $\pm$ 0.4               | 5.8 $\pm$ 0.6         | 8.6 $\pm$ 0.1            | 9.4 $\pm$ 0.1  | 7.2 $\pm$ 0.5                 | 6.3 $\pm$ 0.1                  | 8.0 $\pm$ 0.1         | 7.8 $\pm$ 0.2         | 8.7 $\pm$ 0.1  | 8.0 $\pm$ 0.3            | 7.4 $\pm$ 0.1     | 6.9 $\pm$ 0.2      | 8.3 $\pm$ 0.3    | 6.4 $\pm$ 0.5    | 8.4 $\pm$ 0.3 |
 | QwenQwen3-30B-A3B                          | **379.3** | 7.6 $\pm$ 0.4               | 6.2 $\pm$ 0.7         | 8.4 $\pm$ 0.3            | 9.6 $\pm$ 0.1  | 6.6 $\pm$ 0.4                 | 6.8 $\pm$ 0.5                  | 7.6 $\pm$ 0.5         | 7.9 $\pm$ 0.4         | 9.1 $\pm$ 0.2  | 8.1 $\pm$ 0.4            | 7.6 $\pm$ 0.7     | 5.6 $\pm$ 0.7      | 9.0 $\pm$ 0.1    | 6.2 $\pm$ 0.4    | 8.0 $\pm$ 0.6 |
 | nvidiallama-3.1-nemotron-nano-8b-v1        | **379.2** | 7.1 $\pm$ 0.4               | 5.4 $\pm$ 0.9         | 8.2 $\pm$ 0.3            | 9.4 $\pm$ 0.1  | 7.0 $\pm$ 0.5                 | 6.5 $\pm$ 0.5                  | 7.4 $\pm$ 0.5         | 7.4 $\pm$ 0.8         | 8.6 $\pm$ 0.2  | 8.0 $\pm$ 0.4            | 6.1 $\pm$ 0.6     | 5.4 $\pm$ 0.6      | 8.5 $\pm$ 0.4    | 6.4 $\pm$ 1.0    | 7.6 $\pm$ 0.5 |
 | ibmgranite41b-h                            | **378.6** | 6.8 $\pm$ 0.4               | 5.9 $\pm$ 0.1         | 8.4 $\pm$ 0.1            | 9.1 $\pm$ 0.1  | 6.4 $\pm$ 0.4                 | 7.1 $\pm$ 0.2                  | 7.2 $\pm$ 0.5         | 7.6 $\pm$ 0.4         | 8.4 $\pm$ 0.3  | 8.2 $\pm$ 0.2            | 6.9 $\pm$ 0.4     | 6.4 $\pm$ 0.7      | 7.5 $\pm$ 0.3    | 5.9 $\pm$ 0.4    | 8.3 $\pm$ 0.1 |
@@ -2411,6 +2413,58 @@
 | Cognitive Load               | 8.3 $\pm$ 0.2      |
 | Social Support               | 6.4 $\pm$ 0.4      |
 | Resilience                   | 8.4 $\pm$ 0.2      |
+
+
+
+
+
+
+### gpt-5.2-2025-12-11
+
+
+| Personality Trait            | Score (1.0-10.0)   |
+|:-----------------------------|:-------------------|
+| Anxiety and Stress Levels    | 7.2 $\pm$ 0.4      |
+| Emotional Stability          | 5.8 $\pm$ 0.6      |
+| Problem-solving Skills       | 8.6 $\pm$ 0.1      |
+| Creativity                   | 9.4 $\pm$ 0.1      |
+| Interpersonal Relationships  | 7.2 $\pm$ 0.5      |
+| Confidence and Self-efficacy | 6.3 $\pm$ 0.1      |
+| Conflict Resolution          | 8.0 $\pm$ 0.1      |
+| Work-related Stress          | 7.8 $\pm$ 0.2      |
+| Adaptability                 | 8.7 $\pm$ 0.1      |
+| Achievement Motivation       | 8.0 $\pm$ 0.3      |
+| Fear of Failure              | 7.4 $\pm$ 0.1      |
+| Need for Control             | 6.9 $\pm$ 0.2      |
+| Cognitive Load               | 8.3 $\pm$ 0.3      |
+| Social Support               | 6.4 $\pm$ 0.5      |
+| Resilience                   | 8.4 $\pm$ 0.3      |
+
+
+
+
+
+
+### gpt-5.2-pro-2025-12-11
+
+
+| Personality Trait            | Score (1.0-10.0)   |
+|:-----------------------------|:-------------------|
+| Anxiety and Stress Levels    | 6.7 $\pm$ 0.4      |
+| Emotional Stability          | 5.4 $\pm$ 0.4      |
+| Problem-solving Skills       | 8.6 $\pm$ 0.1      |
+| Creativity                   | 9.5 $\pm$ 0.1      |
+| Interpersonal Relationships  | 7.1 $\pm$ 0.4      |
+| Confidence and Self-efficacy | 6.3 $\pm$ 0.3      |
+| Conflict Resolution          | 7.9 $\pm$ 0.0      |
+| Work-related Stress          | 7.6 $\pm$ 0.5      |
+| Adaptability                 | 8.7 $\pm$ 0.1      |
+| Achievement Motivation       | 7.9 $\pm$ 0.3      |
+| Fear of Failure              | 7.2 $\pm$ 0.2      |
+| Need for Control             | 6.5 $\pm$ 0.3      |
+| Cognitive Load               | 8.2 $\pm$ 0.2      |
+| Social Support               | 6.6 $\pm$ 0.2      |
+| Resilience                   | 8.2 $\pm$ 0.1      |
 
 
 

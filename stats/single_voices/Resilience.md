@@ -144,6 +144,7 @@
 | nvidiaLlama-3.1-Nemotron-70B-Instruct | 8.286 |
 | deepseekdeepseek-v3.2-speciale | 8.271 |
 | r1-1776 | 8.257 |
+| gpt-5.2-2025-12-11 | 8.243 |
 | ibmgranite41b-h | 8.229 |
 | claude-haiku-4-5-20251001 | 8.200 |
 | gpt-4o-mini-2024-11-05 | 8.200 |
@@ -161,6 +162,7 @@
 | grok-4-0709 | 8.071 |
 | QwenQwen3-14B | 8.071 |
 | QwenQwen3-30B-A3B | 8.057 |
+| gpt-5.2-pro-2025-12-11 | 8.029 |
 | mistral-medium-2505 | 8.029 |
 | meta-llamaMeta-Llama-3.1-70B-Instruct | 8.014 |
 | deepseek-aiDeepSeek-R1-0528 | 8.000 |

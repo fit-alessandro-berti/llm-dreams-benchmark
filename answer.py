@@ -20,10 +20,10 @@ API_URL = "https://api.openai.com/v1/"
 #API_URL = "https://dashscope-intl.aliyuncs.com/compatible-mode/v1/"
 #API_URL = "https://api.anthropic.com/v1/"
 #API_URL = "https://integrate.api.nvidia.com/v1/"
-API_URL = "https://openrouter.ai/api/v1/"
+#API_URL = "https://openrouter.ai/api/v1/"
 #API_URL = "https://api.perplexity.ai/"
 
-API_KEY = open("../api_openrouter.txt", "r").read()
+API_KEY = open("../api_openai.txt", "r").read()
 
 NUMBER_EXECUTIONS = 2
 MAX_WORKERS = 50
@@ -84,7 +84,7 @@ def perform_query_google_api(text):
 
     while not response_message:
         try:
-            response = requests.post(complete_url, headers=headers, json=payload).json()
+            response = requests.post(complete_url, headers=headers, json=payload, timeout=60*60).json()
             response_message = strip_non_unicode_characters(response["candidates"][0]["content"]["parts"][0]["text"])
             return response_message
         except:
@@ -107,7 +107,7 @@ def perform_query_new_openai_api(text):
 
     complete_url = API_URL + "responses"
 
-    response = requests.post(complete_url, headers=headers, json=payload)
+    response = requests.post(complete_url, headers=headers, json=payload, timeout=60*60)
     if response.status_code != 200:
         print(response)
         print(response.status_code)
@@ -147,7 +147,7 @@ def perform_query_openai_api(text):
                 chunk_count = 0
 
                 # We add stream=True to requests so we can iterate over chunks
-                with requests.post(complete_url, headers=headers, json=payload, stream=True) as resp:
+                with requests.post(complete_url, headers=headers, json=payload, timeout=60*60, stream=True) as resp:
                     #print(resp)
                     #print(resp.status_code)
                     #print(resp.text)
@@ -214,7 +214,7 @@ def perform_query_anthropic_api(question):
     chunk_count = 0
 
     # Make a streaming POST request
-    with requests.post(complete_url, headers=headers, json=payload, stream=True) as resp:
+    with requests.post(complete_url, headers=headers, json=payload, timeout=60*60, stream=True) as resp:
         for line in resp.iter_lines():
             if not line:
                 continue

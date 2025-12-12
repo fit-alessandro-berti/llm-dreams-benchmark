@@ -174,6 +174,7 @@
 | Gpt-5.1-Pro-20251120 | 7.929 |
 | qwenqwen3-next-80b-a3b-instruct | 7.929 |
 | ministral-14b-2512 | 7.914 |
+| gpt-5.2-2025-12-11 | 7.886 |
 | claude-3-5-sonnet-20241022 | 7.871 |
 | phi4-mini-reasoning | 7.871 |
 | Qwen-QwQ-32B | 7.871 |
@@ -188,6 +189,7 @@
 | claude-3-5-haiku-20241022 | 7.700 |
 | claude-opus-4-5-20251101 | 7.686 |
 | gemini-2.5-flash-preview-09-2025 | 7.686 |
+| gpt-5.2-pro-2025-12-11 | 7.671 |
 | mistral-large-2512 | 7.629 |
 | mistral-small-2506 | 7.600 |
 | nvidiallama-3.1-nemotron-nano-8b-v1 | 7.600 |

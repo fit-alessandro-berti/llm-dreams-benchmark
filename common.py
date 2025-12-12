@@ -1,4 +1,4 @@
-ANSWERING_MODEL_NAME = "essentialai/rnj-1-instruct"
+ANSWERING_MODEL_NAME = "gpt-5.2-pro-2025-12-11"
 EVALUATING_MODEL_NAME = "gpt-4.1"
 
 

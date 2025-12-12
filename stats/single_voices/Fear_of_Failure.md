@@ -24,10 +24,12 @@
 | tngtechdeepseek-r1t-chimerafree | 7.200 |
 | Grok-4.1-20251118 | 7.186 |
 | gemini-2.0-pro-exp-02-05 | 7.186 |
+| gpt-5.2-pro-2025-12-11 | 7.171 |
 | claude-3-opus-20240229 | 7.114 |
 | z-aiglm-4.5-air | 7.114 |
 | meta-llamaLlama-3.3-70B-Instruct | 7.100 |
 | meta-llamallama-4-scout | 7.086 |
+| gpt-5.2-2025-12-11 | 7.086 |
 | Gpt-5.1-Pro-20251120 | 7.071 |
 | r1-1776 | 7.071 |
 | qwen31.7b | 7.057 |

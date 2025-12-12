@@ -143,6 +143,7 @@
 | claude-3-5-sonnet-20241022 | 6.286 |
 | Gpt-5.1-Pro-20251120 | 6.257 |
 | x-aigrok-code-fast-1 | 6.257 |
+| gpt-5.2-2025-12-11 | 6.257 |
 | meta-llamaLlama-3.2-3B-Instruct | 6.257 |
 | claude-4-sonnet-20250514 | 6.229 |
 | chatgpt-4o-latest-2025-01-29 | 6.214 |
@@ -153,6 +154,7 @@
 | Grok-4.1-20251118 | 6.186 |
 | nvidiallama-3.3-nemotron-super-49b-v1 | 6.171 |
 | z-aiglm-4.5 | 6.157 |
+| gpt-5.2-pro-2025-12-11 | 6.157 |
 | claude-3-opus-20240229 | 6.129 |
 | deepseek-aiDeepSeek-R1-0528 | 6.129 |
 | DeepSeek-V3-0324 | 6.114 |

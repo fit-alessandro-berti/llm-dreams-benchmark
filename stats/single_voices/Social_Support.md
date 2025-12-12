@@ -134,6 +134,7 @@
 | googlegemma-2-2b-it | 7.029 |
 | chatgpt-4o-latest-2025-04-26 | 7.014 |
 | gpt-4o-mini-2024-11-05 | 7.000 |
+| gpt-5.2-2025-12-11 | 7.000 |
 | claude-3-opus-20240229 | 6.986 |
 | Gemini-1.5-Pro-Exp-0827 | 6.986 |
 | prime-intellectintellect-3 | 6.986 |
@@ -164,6 +165,7 @@
 | DeepSeek-V3-0324 | 6.743 |
 | nvidianemotron-nano-9b-v2 | 6.743 |
 | z-aiglm-4.5 | 6.714 |
+| gpt-5.2-pro-2025-12-11 | 6.671 |
 | grok-3-mini-beta | 6.657 |
 | meta-llamaLlama-3.2-1B-Instruct | 6.657 |
 | gemini-2.0-flash-lite-preview-02-05 | 6.614 |

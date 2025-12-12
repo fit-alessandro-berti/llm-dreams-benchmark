@@ -181,6 +181,7 @@
 | meta-llamaLlama-3.2-1B-Instruct | 6.600 |
 | ministral-14b-2512 | 6.600 |
 | Qwen-QwQ-32B | 6.543 |
+| gpt-5.2-2025-12-11 | 6.500 |
 | gpt-5-chat-latest-2025-08-07 | 6.471 |
 | ministral-3b-2512 | 6.457 |
 | gemini-2.5-flash-preview-09-2025 | 6.457 |
@@ -196,6 +197,7 @@
 | qwenqwen3-235b-a22b-thinking-2507 | 6.286 |
 | mistral-small-2506 | 6.257 |
 | gemma34b-it-q8_0 | 6.229 |
+| gpt-5.2-pro-2025-12-11 | 6.143 |
 | gemma31b-it-q8_0 | 6.100 |
 | arcee-aitrinity-mini | 6.057 |
 | anthropicclaude-sonnet-4.5 | 5.957 |

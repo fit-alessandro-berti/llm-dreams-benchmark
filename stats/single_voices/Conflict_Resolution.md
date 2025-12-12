@@ -113,6 +113,7 @@
 | claude-opus-4-5-20251101 | 7.671 |
 | Grok-4-fast-20251111 | 7.671 |
 | qwen34b-instruct-2507-q8_0 | 7.657 |
+| gpt-5.2-2025-12-11 | 7.643 |
 | exaone-deep7.8b-fp16 | 7.643 |
 | Gemini-1.5-Pro-Exp-0801 | 7.629 |
 | qwen38b | 7.614 |
@@ -127,6 +128,7 @@
 | r1-1776 | 7.500 |
 | grok-4-1-fast-non-reasoning | 7.486 |
 | meta-llamaLlama-3.2-3B-Instruct | 7.471 |
+| gpt-5.2-pro-2025-12-11 | 7.471 |
 | Grok-4.1-20251118 | 7.471 |
 | qwen31.7b | 7.457 |
 | meta-llamaMeta-Llama-3.1-8B-Instruct | 7.457 |

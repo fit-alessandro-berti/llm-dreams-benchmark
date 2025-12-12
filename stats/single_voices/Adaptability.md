@@ -131,6 +131,7 @@
 | qwen2.5-7b-instruct | 8.657 |
 | claude-haiku-4-5-20251001 | 8.643 |
 | gpt-5-chat-latest-2025-08-19 | 8.643 |
+| gpt-5.2-2025-12-11 | 8.643 |
 | claude-opus-4-5-20251101 | 8.643 |
 | Gemini-1.5-Pro-Exp-0827 | 8.629 |
 | qwen-turbo-0428 | 8.629 |
@@ -171,6 +172,7 @@
 | meta-llamallama-4-scout | 8.357 |
 | DeepSeek-V3-0324 | 8.343 |
 | Gemini-1.5-Pro-Exp-0801 | 8.343 |
+| gpt-5.2-pro-2025-12-11 | 8.343 |
 | gemini-2.5-flash-preview-04-17 | 8.314 |
 | qwen31.7b | 8.314 |
 | meta-llamaLlama-3.3-70B-Instruct | 8.286 |

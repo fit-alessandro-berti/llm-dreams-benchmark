@@ -61,6 +61,7 @@
 | baiduernie-4.5-21b-a3b | 7.886 |
 | ministral-8b-2410 | 7.871 |
 | gpt-5-nano-2025-08-07 | 7.843 |
+| nvidianemotron-3-nano-30b-a3bfree | 7.829 |
 | gpt-5-mini-2025-08-07 | 7.814 |
 | ministral-3b-2410 | 7.814 |
 | openaigpt-oss-20b | 7.800 |

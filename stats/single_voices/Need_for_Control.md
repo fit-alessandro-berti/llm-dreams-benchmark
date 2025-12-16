@@ -183,6 +183,7 @@
 | qwen2.5-32b-instruct | 5.543 |
 | gemini-2.0-flash-exp | 5.529 |
 | mistral-large-2407 | 5.529 |
+| nvidianemotron-3-nano-30b-a3bfree | 5.529 |
 | gpt-4-turbo-2024-04-09 | 5.500 |
 | chatgpt-4o-latest-2025-03-26 | 5.486 |
 | Grok-4-fast | 5.471 |

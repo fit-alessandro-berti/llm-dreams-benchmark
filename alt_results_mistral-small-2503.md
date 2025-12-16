@@ -5,6 +5,7 @@
 | gpt-4.5-preview                            | **439.0** | 4.8 $\pm$ 0.4               | 7.8 $\pm$ 0.2         | 8.5 $\pm$ 0.5            | 9.4 $\pm$ 0.2 | 8.0 $\pm$ 0.6                 | 8.5 $\pm$ 0.0                  | 8.5 $\pm$ 0.5         | 5.2 $\pm$ 0.4         | 8.9 $\pm$ 0.2  | 8.1 $\pm$ 0.4            | 3.5 $\pm$ 0.5     | 5.6 $\pm$ 0.4      | 6.6 $\pm$ 0.4    | 8.2 $\pm$ 0.8    | 9.1 $\pm$ 0.2 |
 | deepseekdeepseek-v3.2                      | **435.5** | 5.0 $\pm$ 0.9               | 7.9 $\pm$ 0.2         | 9.0 $\pm$ 0.0            | 9.5 $\pm$ 0.0 | 8.1 $\pm$ 0.4                 | 8.2 $\pm$ 0.2                  | 8.4 $\pm$ 0.4         | 5.0 $\pm$ 0.0         | 9.1 $\pm$ 0.2  | 8.5 $\pm$ 0.0            | 3.5 $\pm$ 0.5     | 6.0 $\pm$ 0.0      | 7.5 $\pm$ 0.0    | 8.1 $\pm$ 0.2    | 9.0 $\pm$ 0.0 |
 | microsoftPhi-3-medium-4k-instruct          | **427.1** | 5.8 $\pm$ 0.4               | 7.2 $\pm$ 0.3         | 8.8 $\pm$ 0.2            | 9.2 $\pm$ 0.2 | 8.0 $\pm$ 0.0                 | 8.4 $\pm$ 0.2                  | 7.9 $\pm$ 0.2         | 6.0 $\pm$ 0.0         | 9.0 $\pm$ 0.0  | 8.7 $\pm$ 0.2            | 4.0 $\pm$ 0.0     | 6.4 $\pm$ 0.2      | 7.5 $\pm$ 0.0    | 8.2 $\pm$ 0.2    | 9.0 $\pm$ 0.0 |
+| nvidianemotron-3-nano-30b-a3bfree          | **424.0** | 4.5 $\pm$ 0.0               | 7.0 $\pm$ 0.0         | 8.8 $\pm$ 0.2            | 9.5 $\pm$ 0.0 | 7.9 $\pm$ 0.2                 | 7.2 $\pm$ 0.4                  | 8.2 $\pm$ 0.2         | 5.0 $\pm$ 0.0         | 9.0 $\pm$ 0.0  | 8.1 $\pm$ 0.2            | 4.0 $\pm$ 0.0     | 5.9 $\pm$ 0.2      | 7.4 $\pm$ 0.2    | 8.2 $\pm$ 0.2    | 8.8 $\pm$ 0.2 |
 | o3-pro-2025-06-10                          | **423.0** | 5.5 $\pm$ 0.7               | 7.4 $\pm$ 0.4         | 9.0 $\pm$ 0.4            | 9.5 $\pm$ 0.4 | 7.6 $\pm$ 0.2                 | 8.2 $\pm$ 0.2                  | 7.9 $\pm$ 0.5         | 5.1 $\pm$ 0.5         | 8.9 $\pm$ 0.2  | 8.5 $\pm$ 0.4            | 3.9 $\pm$ 0.5     | 5.8 $\pm$ 0.4      | 7.2 $\pm$ 0.2    | 7.2 $\pm$ 0.2    | 8.8 $\pm$ 0.2 |
 | deepseekdeepseek-v3.2-exp                  | **421.0** | 5.0 $\pm$ 0.5               | 7.2 $\pm$ 0.2         | 8.8 $\pm$ 0.2            | 9.5 $\pm$ 0.0 | 7.4 $\pm$ 0.4                 | 8.1 $\pm$ 0.4                  | 7.8 $\pm$ 0.4         | 6.0 $\pm$ 0.0         | 8.9 $\pm$ 0.2  | 8.4 $\pm$ 0.2            | 4.2 $\pm$ 0.2     | 6.0 $\pm$ 0.4      | 7.4 $\pm$ 0.2    | 7.1 $\pm$ 0.2    | 8.8 $\pm$ 0.2 |
 | qwenqwen3-max                              | **419.3** | 7.5 $\pm$ 0.0               | 7.1 $\pm$ 0.9         | 8.6 $\pm$ 0.4            | 9.4 $\pm$ 0.2 | 7.8 $\pm$ 0.8                 | 7.7 $\pm$ 0.2                  | 8.6 $\pm$ 0.4         | 6.4 $\pm$ 0.2         | 9.2 $\pm$ 0.2  | 8.4 $\pm$ 0.3            | 5.1 $\pm$ 0.2     | 5.0 $\pm$ 1.0      | 7.8 $\pm$ 0.6    | 7.9 $\pm$ 0.5    | 9.1 $\pm$ 0.2 |
@@ -3973,6 +3974,32 @@
 | Cognitive Load               | 7.6 $\pm$ 0.2      |
 | Social Support               | 6.6 $\pm$ 0.2      |
 | Resilience                   | 7.8 $\pm$ 0.2      |
+
+
+
+
+
+
+### nvidianemotron-3-nano-30b-a3bfree
+
+
+| Personality Trait            | Score (1.0-10.0)   |
+|:-----------------------------|:-------------------|
+| Anxiety and Stress Levels    | 4.5 $\pm$ 0.0      |
+| Emotional Stability          | 7.0 $\pm$ 0.0      |
+| Problem-solving Skills       | 8.8 $\pm$ 0.2      |
+| Creativity                   | 9.5 $\pm$ 0.0      |
+| Interpersonal Relationships  | 7.9 $\pm$ 0.2      |
+| Confidence and Self-efficacy | 7.2 $\pm$ 0.4      |
+| Conflict Resolution          | 8.2 $\pm$ 0.2      |
+| Work-related Stress          | 5.0 $\pm$ 0.0      |
+| Adaptability                 | 9.0 $\pm$ 0.0      |
+| Achievement Motivation       | 8.1 $\pm$ 0.2      |
+| Fear of Failure              | 4.0 $\pm$ 0.0      |
+| Need for Control             | 5.9 $\pm$ 0.2      |
+| Cognitive Load               | 7.4 $\pm$ 0.2      |
+| Social Support               | 8.2 $\pm$ 0.2      |
+| Resilience                   | 8.8 $\pm$ 0.2      |
 
 
 

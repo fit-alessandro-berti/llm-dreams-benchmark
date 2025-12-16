@@ -76,6 +76,7 @@
 | amazonnova-2-lite-v1 | 7.643 |
 | nvidiaLlama-3.1-Nemotron-70B-Instruct | 7.643 |
 | mistral-small-2503 | 7.629 |
+| nvidianemotron-3-nano-30b-a3bfree | 7.629 |
 | o1-2024-12-05 | 7.629 |
 | deepseek-aiDeepSeek-V3 | 7.629 |
 | gemini-1.5-flash-002 | 7.614 |

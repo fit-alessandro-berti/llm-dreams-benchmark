@@ -522,6 +522,10 @@
   "nvidiallama-3.3-nemotron-super-49b-v1": [
     49
   ],
+  "nvidianemotron-3-nano-30b-a3bfree": [
+    30,
+    3
+  ],
   "nvidianemotron-nano-9b-v2": [
     9
   ],
@@ -549,8 +553,8 @@
     32
   ],
   "o3-mini-20250131-HIGH": [
-    200,
-    32
+    60,
+    8
   ],
   "o3-pro-2025-06-10": [
     200,

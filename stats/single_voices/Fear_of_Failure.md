@@ -170,6 +170,7 @@
 | gpt-5-mini-2025-08-07 | 4.671 |
 | qwen-turbo-2024-11-01 | 4.586 |
 | Grok-3-20250426-concise | 4.571 |
+| nvidianemotron-3-nano-30b-a3bfree | 4.543 |
 | o1-preview-2024-09-12 | 4.543 |
 | open-mistral-nemo | 4.486 |
 | o3-2025-04-16 | 4.471 |

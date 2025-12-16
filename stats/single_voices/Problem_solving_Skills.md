@@ -35,6 +35,7 @@
 | liquidlfm2-8b-a1b | 8.729 |
 | gpt-5-pro-2025-10-06 | 8.714 |
 | open-mistral-7b | 8.714 |
+| nvidianemotron-3-nano-30b-a3bfree | 8.700 |
 | gpt-4o-2024-08-06 | 8.700 |
 | o4-mini-2025-04-16 | 8.700 |
 | exaone-deep7.8b-fp16 | 8.686 |

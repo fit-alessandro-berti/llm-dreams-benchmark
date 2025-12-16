@@ -1,4 +1,4 @@
-ANSWERING_MODEL_NAME = "gpt-5.2-pro-2025-12-11"
+ANSWERING_MODEL_NAME = "nvidia/nemotron-3-nano-30b-a3b:free"
 EVALUATING_MODEL_NAME = "gpt-4.1"
 
 

@@ -42,6 +42,7 @@
 | deepseekdeepseek-v3.2 | 8.914 |
 | gpt-4-0613 | 8.914 |
 | mistral-large-2407 | 8.914 |
+| nvidianemotron-3-nano-30b-a3bfree | 8.914 |
 | open-mixtral-8x7b | 8.914 |
 | qwen2.5-32b-instruct | 8.914 |
 | granite4micro-h | 8.914 |

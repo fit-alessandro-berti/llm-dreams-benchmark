@@ -171,6 +171,7 @@
 | Grok-3-20250426-concise | 5.371 |
 | gpt-5-mini-2025-08-07 | 5.357 |
 | granite3.28b-instruct-q4_K_M | 5.357 |
+| nvidianemotron-3-nano-30b-a3bfree | 5.357 |
 | phi4-reasoning | 5.357 |
 | o1-mini | 5.314 |
 | open-mistral-nemo | 5.300 |

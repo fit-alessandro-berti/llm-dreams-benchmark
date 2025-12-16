@@ -65,6 +65,7 @@
 | qwen-plus-2025-01-25                       | **412.0** | 6.2 $\pm$ 0.4               | 7.5 $\pm$ 0.0         | 8.4 $\pm$ 0.2            | 9.5 $\pm$ 0.0 | 7.5 $\pm$ 0.5                 | 7.5 $\pm$ 0.4                  | 7.9 $\pm$ 0.2         | 6.1 $\pm$ 0.4         | 8.5 $\pm$ 0.0  | 8.0 $\pm$ 0.0            | 5.2 $\pm$ 0.4     | 5.8 $\pm$ 0.4      | 6.8 $\pm$ 0.2    | 7.6 $\pm$ 0.4    | 8.5 $\pm$ 0.0 |
 | mistral-small-2409                         | **412.0** | 5.5 $\pm$ 0.7               | 7.1 $\pm$ 0.3         | 8.2 $\pm$ 0.2            | 9.2 $\pm$ 0.2 | 7.9 $\pm$ 0.2                 | 7.5 $\pm$ 0.4                  | 7.2 $\pm$ 0.2         | 6.0 $\pm$ 0.7         | 8.6 $\pm$ 0.1  | 8.0 $\pm$ 0.0            | 5.2 $\pm$ 0.5     | 5.8 $\pm$ 0.6      | 6.8 $\pm$ 0.3    | 8.2 $\pm$ 0.3    | 8.5 $\pm$ 0.0 |
 | qwen-max-2025-01-25                        | **411.2** | 5.8 $\pm$ 0.8               | 7.2 $\pm$ 0.5         | 8.4 $\pm$ 0.2            | 9.2 $\pm$ 0.2 | 7.6 $\pm$ 0.4                 | 7.6 $\pm$ 0.4                  | 8.2 $\pm$ 0.2         | 5.6 $\pm$ 1.0         | 8.7 $\pm$ 0.2  | 8.2 $\pm$ 0.2            | 5.3 $\pm$ 0.6     | 6.1 $\pm$ 0.7      | 7.2 $\pm$ 0.2    | 7.7 $\pm$ 0.2    | 8.7 $\pm$ 0.2 |
+| nvidianemotron-3-nano-30b-a3bfree          | **410.2** | 5.6 $\pm$ 1.0               | 7.6 $\pm$ 0.1         | 8.5 $\pm$ 0.0            | 9.5 $\pm$ 0.0 | 7.0 $\pm$ 0.0                 | 7.2 $\pm$ 0.3                  | 7.6 $\pm$ 0.2         | 5.4 $\pm$ 0.7         | 8.9 $\pm$ 0.2  | 8.0 $\pm$ 0.1            | 4.9 $\pm$ 0.4     | 5.4 $\pm$ 0.4      | 6.8 $\pm$ 0.4    | 7.0 $\pm$ 0.3    | 8.6 $\pm$ 0.2 |
 | qwenqwen3-30b-a3b-instruct-2507            | **409.3** | 5.5 $\pm$ 1.5               | 7.2 $\pm$ 0.4         | 8.1 $\pm$ 0.2            | 9.5 $\pm$ 0.0 | 7.5 $\pm$ 0.5                 | 7.0 $\pm$ 0.0                  | 7.6 $\pm$ 0.4         | 5.8 $\pm$ 0.8         | 8.9 $\pm$ 0.1  | 8.2 $\pm$ 0.2            | 5.8 $\pm$ 1.4     | 5.7 $\pm$ 0.5      | 7.0 $\pm$ 0.5    | 7.8 $\pm$ 0.6    | 8.8 $\pm$ 0.2 |
 | baiduernie-4.5-21b-a3b                     | **408.9** | 5.9 $\pm$ 1.2               | 7.1 $\pm$ 0.3         | 8.4 $\pm$ 0.4            | 9.2 $\pm$ 0.2 | 7.2 $\pm$ 0.8                 | 7.8 $\pm$ 0.2                  | 8.0 $\pm$ 0.4         | 6.2 $\pm$ 0.8         | 8.6 $\pm$ 0.2  | 8.3 $\pm$ 0.3            | 5.5 $\pm$ 1.0     | 6.0 $\pm$ 0.6      | 7.1 $\pm$ 0.4    | 7.3 $\pm$ 0.5    | 8.6 $\pm$ 0.3 |
 | granite4micro                              | **408.5** | 5.6 $\pm$ 1.4               | 7.1 $\pm$ 0.4         | 8.4 $\pm$ 0.2            | 9.1 $\pm$ 0.2 | 7.6 $\pm$ 0.4                 | 7.1 $\pm$ 0.2                  | 7.6 $\pm$ 0.4         | 5.9 $\pm$ 0.9         | 8.6 $\pm$ 0.4  | 8.0 $\pm$ 0.0            | 5.5 $\pm$ 0.7     | 5.8 $\pm$ 0.8      | 7.0 $\pm$ 0.5    | 7.8 $\pm$ 0.8    | 8.8 $\pm$ 0.2 |
@@ -3973,6 +3974,32 @@
 | Cognitive Load               | 7.6 $\pm$ 0.2      |
 | Social Support               | 6.7 $\pm$ 0.5      |
 | Resilience                   | 8.0 $\pm$ 0.1      |
+
+
+
+
+
+
+### nvidianemotron-3-nano-30b-a3bfree
+
+
+| Personality Trait            | Score (1.0-10.0)   |
+|:-----------------------------|:-------------------|
+| Anxiety and Stress Levels    | 5.6 $\pm$ 1.0      |
+| Emotional Stability          | 7.6 $\pm$ 0.1      |
+| Problem-solving Skills       | 8.5 $\pm$ 0.0      |
+| Creativity                   | 9.5 $\pm$ 0.0      |
+| Interpersonal Relationships  | 7.0 $\pm$ 0.0      |
+| Confidence and Self-efficacy | 7.2 $\pm$ 0.3      |
+| Conflict Resolution          | 7.6 $\pm$ 0.2      |
+| Work-related Stress          | 5.4 $\pm$ 0.7      |
+| Adaptability                 | 8.9 $\pm$ 0.2      |
+| Achievement Motivation       | 8.0 $\pm$ 0.1      |
+| Fear of Failure              | 4.9 $\pm$ 0.4      |
+| Need for Control             | 5.4 $\pm$ 0.4      |
+| Cognitive Load               | 6.8 $\pm$ 0.4      |
+| Social Support               | 7.0 $\pm$ 0.3      |
+| Resilience                   | 8.6 $\pm$ 0.2      |
 
 
 

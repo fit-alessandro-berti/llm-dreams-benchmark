@@ -93,6 +93,7 @@
 | gpt-5-nano-2025-08-07 | 8.400 |
 | qwen2.5-7b-instruct-1m | 8.400 |
 | minimaxminimax-m2free | 8.386 |
+| nvidianemotron-3-nano-30b-a3bfree | 8.386 |
 | chatgpt-4o-latest-2024-11-20 | 8.386 |
 | falcon33b-instruct-q8_0 | 8.386 |
 | Gemini-1.5-Pro-Exp-0827 | 8.386 |

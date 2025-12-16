@@ -61,6 +61,7 @@
 | gemini-1.5-flash-002 | 8.757 |
 | mistral-small-2409 | 8.757 |
 | gpt-4.1-2025-04-14 | 8.757 |
+| nvidianemotron-3-nano-30b-a3bfree | 8.757 |
 | Grok-4-fast | 8.743 |
 | qwen2.5-omni-7b | 8.743 |
 | granite4micro | 8.729 |

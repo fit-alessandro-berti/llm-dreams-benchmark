@@ -158,6 +158,7 @@
 | deepseekdeepseek-v3.2 | 7.014 |
 | chatgpt-4o-latest-2025-03-26 | 7.000 |
 | codex-mini-latest | 6.986 |
+| nvidianemotron-3-nano-30b-a3bfree | 6.957 |
 | o4-mini-2025-04-16 | 6.957 |
 | qwen-turbo-2024-11-01 | 6.957 |
 | gpt-4o-mini-2024-07-18 | 6.943 |

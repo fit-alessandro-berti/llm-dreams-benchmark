@@ -174,6 +174,7 @@
 | open-mistral-7b | 5.614 |
 | ministral-3b-2410 | 5.586 |
 | mistral-large-2407 | 5.543 |
+| nvidianemotron-3-nano-30b-a3bfree | 5.543 |
 | gpt-5-mini-2025-08-07 | 5.529 |
 | codestral-2501 | 5.500 |
 | o1-mini | 5.500 |

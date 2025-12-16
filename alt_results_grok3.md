@@ -40,6 +40,7 @@
 | liquidlfm-2.2-6b                           | **402.6** | 6.5 $\pm$ 0.0               | 7.0 $\pm$ 0.1         | 8.4 $\pm$ 0.1            | 9.0 $\pm$ 0.0 | 7.5 $\pm$ 0.0                 | 7.8 $\pm$ 0.1                  | 7.7 $\pm$ 0.3         | 6.0 $\pm$ 0.0         | 8.4 $\pm$ 0.2  | 8.7 $\pm$ 0.2            | 5.5 $\pm$ 0.0     | 6.6 $\pm$ 0.2      | 7.0 $\pm$ 0.0    | 7.6 $\pm$ 0.1    | 8.2 $\pm$ 0.2 |
 | gpt-4o-2024-05-13                          | **402.6** | 6.5 $\pm$ 0.0               | 7.0 $\pm$ 0.0         | 8.5 $\pm$ 0.0            | 9.0 $\pm$ 0.0 | 7.5 $\pm$ 0.0                 | 7.8 $\pm$ 0.0                  | 7.2 $\pm$ 0.0         | 6.8 $\pm$ 0.0         | 8.1 $\pm$ 0.1  | 8.1 $\pm$ 0.1            | 5.5 $\pm$ 0.0     | 6.0 $\pm$ 0.0      | 7.0 $\pm$ 0.0    | 7.5 $\pm$ 0.0    | 8.1 $\pm$ 0.1 |
 | phi3.53.8b-mini-instruct-fp16              | **402.4** | 6.5 $\pm$ 0.0               | 6.6 $\pm$ 0.4         | 8.4 $\pm$ 0.2            | 9.0 $\pm$ 0.0 | 7.6 $\pm$ 0.2                 | 7.5 $\pm$ 0.3                  | 7.3 $\pm$ 0.3         | 6.4 $\pm$ 0.3         | 8.3 $\pm$ 0.2  | 8.2 $\pm$ 0.2            | 5.5 $\pm$ 0.0     | 6.0 $\pm$ 0.1      | 7.1 $\pm$ 0.1    | 7.9 $\pm$ 0.1    | 8.4 $\pm$ 0.1 |
+| nvidianemotron-3-nano-30b-a3bfree          | **402.4** | 6.5 $\pm$ 0.0               | 7.0 $\pm$ 0.0         | 8.5 $\pm$ 0.0            | 9.2 $\pm$ 0.2 | 7.5 $\pm$ 0.0                 | 7.6 $\pm$ 0.3                  | 7.3 $\pm$ 0.1         | 6.6 $\pm$ 0.3         | 8.0 $\pm$ 0.0  | 8.2 $\pm$ 0.1            | 5.5 $\pm$ 0.0     | 6.0 $\pm$ 0.0      | 7.0 $\pm$ 0.0    | 7.5 $\pm$ 0.0    | 8.2 $\pm$ 0.1 |
 | granite3.28b-instruct-q4_K_M               | **402.3** | 6.2 $\pm$ 0.4               | 7.0 $\pm$ 0.0         | 8.5 $\pm$ 0.0            | 9.0 $\pm$ 0.0 | 7.6 $\pm$ 0.2                 | 7.8 $\pm$ 0.2                  | 7.4 $\pm$ 0.1         | 6.2 $\pm$ 0.3         | 8.4 $\pm$ 0.1  | 8.0 $\pm$ 0.0            | 5.2 $\pm$ 0.4     | 6.4 $\pm$ 0.2      | 7.1 $\pm$ 0.2    | 7.4 $\pm$ 0.4    | 8.2 $\pm$ 0.2 |
 | ministral-8b-2410                          | **402.2** | 6.5 $\pm$ 0.0               | 7.0 $\pm$ 0.0         | 8.5 $\pm$ 0.0            | 9.0 $\pm$ 0.0 | 7.5 $\pm$ 0.0                 | 7.8 $\pm$ 0.0                  | 7.6 $\pm$ 0.4         | 6.4 $\pm$ 0.4         | 8.1 $\pm$ 0.1  | 8.4 $\pm$ 0.1            | 5.5 $\pm$ 0.0     | 6.5 $\pm$ 0.5      | 6.9 $\pm$ 0.1    | 7.5 $\pm$ 0.0    | 8.1 $\pm$ 0.1 |
 | Grok-3-20250426-concise                    | **401.3** | 6.5 $\pm$ 0.0               | 7.0 $\pm$ 0.1         | 8.5 $\pm$ 0.0            | 9.0 $\pm$ 0.1 | 7.5 $\pm$ 0.0                 | 8.0 $\pm$ 0.0                  | 7.6 $\pm$ 0.1         | 6.0 $\pm$ 0.0         | 8.6 $\pm$ 0.1  | 8.2 $\pm$ 0.2            | 5.5 $\pm$ 0.0     | 6.9 $\pm$ 0.2      | 7.0 $\pm$ 0.4    | 7.7 $\pm$ 0.2    | 8.2 $\pm$ 0.2 |
@@ -3973,6 +3974,32 @@
 | Cognitive Load               | 7.1 $\pm$ 0.2      |
 | Social Support               | 6.5 $\pm$ 0.4      |
 | Resilience                   | 7.2 $\pm$ 0.2      |
+
+
+
+
+
+
+### nvidianemotron-3-nano-30b-a3bfree
+
+
+| Personality Trait            | Score (1.0-10.0)   |
+|:-----------------------------|:-------------------|
+| Anxiety and Stress Levels    | 6.5 $\pm$ 0.0      |
+| Emotional Stability          | 7.0 $\pm$ 0.0      |
+| Problem-solving Skills       | 8.5 $\pm$ 0.0      |
+| Creativity                   | 9.2 $\pm$ 0.2      |
+| Interpersonal Relationships  | 7.5 $\pm$ 0.0      |
+| Confidence and Self-efficacy | 7.6 $\pm$ 0.3      |
+| Conflict Resolution          | 7.3 $\pm$ 0.1      |
+| Work-related Stress          | 6.6 $\pm$ 0.3      |
+| Adaptability                 | 8.0 $\pm$ 0.0      |
+| Achievement Motivation       | 8.2 $\pm$ 0.1      |
+| Fear of Failure              | 5.5 $\pm$ 0.0      |
+| Need for Control             | 6.0 $\pm$ 0.0      |
+| Cognitive Load               | 7.0 $\pm$ 0.0      |
+| Social Support               | 7.5 $\pm$ 0.0      |
+| Resilience                   | 8.2 $\pm$ 0.1      |
 
 
 

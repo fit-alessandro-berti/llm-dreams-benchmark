@@ -66,6 +66,7 @@
 | gemini-2.5-pro-preview-06-05 | 8.071 |
 | gpt-4-turbo-2024-04-09 | 8.071 |
 | moonshotaikimi-linear-48b-a3b-instruct | 8.071 |
+| nvidianemotron-3-nano-30b-a3bfree | 8.057 |
 | qwenqwen3-30b-a3b-instruct-2507 | 8.043 |
 | open-mixtral-8x22b | 8.029 |
 | gemini-2.5-pro-preview-05-06 | 8.014 |

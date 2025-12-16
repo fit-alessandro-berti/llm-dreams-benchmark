@@ -47,6 +47,7 @@
 | mistral-small-2503 | 7.457 |
 | gpt-4o-mini-2024-07-18 | 7.443 |
 | gpt-5-pro-2025-10-06 | 7.443 |
+| nvidianemotron-3-nano-30b-a3bfree | 7.414 |
 | mistral-small-2409 | 7.400 |
 | mistral-small-2501 | 7.400 |
 | phi4-reasoning | 7.400 |

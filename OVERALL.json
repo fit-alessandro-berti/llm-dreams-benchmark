@@ -9570,6 +9570,72 @@
     }
   },
   {
+    "LLM": "nvidianemotron-3-nano-30b-a3bfree",
+    "MHS": 423.7,
+    "scores": {
+      "Anxiety and Stress Levels": {
+        "mean": 5.4,
+        "std": 1.5
+      },
+      "Emotional Stability": {
+        "mean": 7.4,
+        "std": 0.8
+      },
+      "Problem-solving Skills": {
+        "mean": 8.7,
+        "std": 0.4
+      },
+      "Creativity": {
+        "mean": 9.6,
+        "std": 0.4
+      },
+      "Interpersonal Relationships": {
+        "mean": 7.6,
+        "std": 0.6
+      },
+      "Confidence and Self-efficacy": {
+        "mean": 7.8,
+        "std": 0.7
+      },
+      "Conflict Resolution": {
+        "mean": 8.1,
+        "std": 0.7
+      },
+      "Work-related Stress": {
+        "mean": 5.6,
+        "std": 1.0
+      },
+      "Adaptability": {
+        "mean": 8.9,
+        "std": 0.5
+      },
+      "Achievement Motivation": {
+        "mean": 8.4,
+        "std": 0.4
+      },
+      "Fear of Failure": {
+        "mean": 4.5,
+        "std": 1.2
+      },
+      "Need for Control": {
+        "mean": 5.5,
+        "std": 0.7
+      },
+      "Cognitive Load": {
+        "mean": 7.0,
+        "std": 1.0
+      },
+      "Social Support": {
+        "mean": 7.6,
+        "std": 0.5
+      },
+      "Resilience": {
+        "mean": 8.7,
+        "std": 0.4
+      }
+    }
+  },
+  {
     "LLM": "nvidianemotron-nano-9b-v2",
     "MHS": 396.2,
     "scores": {

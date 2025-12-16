@@ -76,6 +76,7 @@
 | nvidiallama-3.1-nemotron-ultra-253b-v1free | 7.557 |
 | qwen-plus-2025-01-25 | 7.543 |
 | gemini-1.5-flash-002 | 7.543 |
+| nvidianemotron-3-nano-30b-a3bfree | 7.543 |
 | granite3.28b-instruct-q4_K_M | 7.529 |
 | liquidlfm-2.2-6b | 7.529 |
 | o1-2024-12-17 | 7.529 |

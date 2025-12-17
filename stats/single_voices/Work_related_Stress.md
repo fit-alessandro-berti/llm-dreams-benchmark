@@ -5,6 +5,7 @@
 | arcee-aitrinity-mini | 8.414 |
 | moonshotaikimi-k2-thinking | 8.357 |
 | gemini-2.5-flash-preview-09-2025 | 8.214 |
+| mistralaimistral-small-creative | 8.200 |
 | gemini-2.0-flash-lite-preview-02-05 | 8.171 |
 | mistral-large-2512 | 8.171 |
 | anthropicclaude-sonnet-4.5 | 8.143 |
@@ -32,6 +33,7 @@
 | z-aiglm-4.5 | 7.829 |
 | claude-3-opus-20240229 | 7.800 |
 | gemma34b-it-q8_0 | 7.800 |
+| xiaomimimo-v2-flashfree | 7.786 |
 | QwenQwen3-30B-A3B | 7.771 |
 | Qwen-QwQ-32B | 7.743 |
 | googlegemma-2-2b-it | 7.729 |

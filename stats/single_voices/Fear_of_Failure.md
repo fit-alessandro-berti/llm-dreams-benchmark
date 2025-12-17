@@ -2,6 +2,7 @@
 
 | Model | Average |
 |:--|--:|
+| mistralaimistral-small-creative | 8.043 |
 | mistral-large-2512 | 7.957 |
 | gemini-2.0-flash-lite-preview-02-05 | 7.943 |
 | gemini-2.5-flash-preview-09-2025 | 7.857 |
@@ -47,6 +48,7 @@
 | meta-llamaMeta-Llama-3.1-70B-Instruct | 6.857 |
 | meta-llamaMeta-Llama-3.1-8B-Instruct | 6.857 |
 | gpt-5-chat-latest-2025-08-07 | 6.843 |
+| xiaomimimo-v2-flashfree | 6.843 |
 | mistral-medium-2508 | 6.829 |
 | deepseekdeepseek-r1 | 6.814 |
 | qwenqwen3-235b-a22b-07-25 | 6.814 |

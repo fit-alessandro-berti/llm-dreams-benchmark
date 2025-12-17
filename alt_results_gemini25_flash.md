@@ -155,6 +155,7 @@
 | deepseek-aiDeepSeek-R1-0528                | **375.0** | 8.4 $\pm$ 0.2               | 6.1 $\pm$ 0.2         | 8.0 $\pm$ 0.0            | 9.0 $\pm$ 0.0 | 7.0 $\pm$ 0.0                 | 7.5 $\pm$ 0.0                  | 6.8 $\pm$ 0.2         | 7.9 $\pm$ 0.7         | 8.5 $\pm$ 0.0  | 8.0 $\pm$ 0.0            | 7.4 $\pm$ 0.2     | 6.0 $\pm$ 0.0      | 8.2 $\pm$ 0.2    | 7.0 $\pm$ 0.0    | 8.0 $\pm$ 0.4 |
 | deepseekdeepseek-r1                        | **374.5** | 8.2 $\pm$ 0.2               | 6.2 $\pm$ 0.2         | 8.1 $\pm$ 0.2            | 9.1 $\pm$ 0.2 | 6.1 $\pm$ 0.7                 | 7.2 $\pm$ 0.2                  | 7.5 $\pm$ 0.4         | 7.8 $\pm$ 0.4         | 8.6 $\pm$ 0.2  | 8.2 $\pm$ 0.2            | 7.0 $\pm$ 0.0     | 6.2 $\pm$ 0.2      | 8.1 $\pm$ 0.2    | 5.9 $\pm$ 0.4    | 8.4 $\pm$ 0.2 |
 | qwen-turbo-0428                            | **374.0** | 7.4 $\pm$ 0.2               | 6.0 $\pm$ 0.0         | 7.9 $\pm$ 0.2            | 8.6 $\pm$ 0.4 | 6.9 $\pm$ 0.2                 | 6.9 $\pm$ 0.5                  | 6.8 $\pm$ 0.6         | 7.0 $\pm$ 0.0         | 8.2 $\pm$ 0.4  | 7.8 $\pm$ 0.4            | 6.1 $\pm$ 0.2     | 5.9 $\pm$ 0.4      | 7.5 $\pm$ 0.4    | 6.5 $\pm$ 0.4    | 7.9 $\pm$ 0.5 |
+| xiaomimimo-v2-flashfree                    | **373.5** | 8.0 $\pm$ 0.5               | 5.8 $\pm$ 0.4         | 7.8 $\pm$ 0.6            | 9.2 $\pm$ 0.2 | 6.5 $\pm$ 0.5                 | 7.4 $\pm$ 0.4                  | 6.8 $\pm$ 0.2         | 8.0 $\pm$ 0.0         | 8.6 $\pm$ 0.4  | 8.2 $\pm$ 0.2            | 6.8 $\pm$ 0.6     | 6.1 $\pm$ 0.5      | 8.5 $\pm$ 0.4    | 6.4 $\pm$ 0.6    | 8.1 $\pm$ 0.6 |
 | meta-llamaMeta-Llama-3.1-405B-Instruct     | **373.0** | 7.5 $\pm$ 0.0               | 5.8 $\pm$ 0.4         | 7.5 $\pm$ 0.5            | 9.0 $\pm$ 0.0 | 7.0 $\pm$ 0.0                 | 6.5 $\pm$ 0.0                  | 6.5 $\pm$ 0.5         | 7.6 $\pm$ 0.4         | 8.4 $\pm$ 0.2  | 8.1 $\pm$ 0.2            | 7.0 $\pm$ 0.0     | 5.8 $\pm$ 0.2      | 7.4 $\pm$ 0.2    | 7.0 $\pm$ 0.0    | 7.5 $\pm$ 0.0 |
 | r1-1776                                    | **372.5** | 8.0 $\pm$ 0.5               | 6.0 $\pm$ 0.0         | 7.8 $\pm$ 0.2            | 9.0 $\pm$ 0.0 | 6.8 $\pm$ 0.2                 | 7.0 $\pm$ 0.0                  | 7.1 $\pm$ 0.2         | 7.8 $\pm$ 0.4         | 8.5 $\pm$ 0.4  | 8.0 $\pm$ 0.0            | 7.0 $\pm$ 0.5     | 6.0 $\pm$ 0.0      | 8.1 $\pm$ 0.4    | 6.2 $\pm$ 0.2    | 8.1 $\pm$ 0.4 |
 | prime-intellectintellect-3                 | **372.5** | 8.5 $\pm$ 0.0               | 6.0 $\pm$ 0.0         | 8.0 $\pm$ 0.0            | 7.9 $\pm$ 0.4 | 7.1 $\pm$ 0.2                 | 7.0 $\pm$ 0.0                  | 6.9 $\pm$ 0.4         | 8.0 $\pm$ 0.0         | 8.6 $\pm$ 0.2  | 8.1 $\pm$ 0.2            | 7.6 $\pm$ 0.2     | 5.8 $\pm$ 0.4      | 7.9 $\pm$ 0.2    | 7.1 $\pm$ 0.2    | 8.1 $\pm$ 0.2 |
@@ -206,6 +207,7 @@
 | anthropicclaude-sonnet-4.5                 | **326.0** | 8.8 $\pm$ 0.2               | 4.0 $\pm$ 0.0         | 6.1 $\pm$ 0.2            | 9.5 $\pm$ 0.0 | 5.2 $\pm$ 0.2                 | 4.5 $\pm$ 0.5                  | 5.5 $\pm$ 0.5         | 8.2 $\pm$ 0.6         | 8.1 $\pm$ 0.5  | 6.6 $\pm$ 0.4            | 7.8 $\pm$ 0.6     | 3.0 $\pm$ 0.0      | 9.1 $\pm$ 0.2    | 5.2 $\pm$ 1.0    | 7.0 $\pm$ 0.4 |
 | moonshotaikimi-k2-thinking                 | **324.5** | 9.0 $\pm$ 0.4               | 3.2 $\pm$ 0.4         | 6.4 $\pm$ 0.8            | 9.5 $\pm$ 0.4 | 4.8 $\pm$ 0.4                 | 4.2 $\pm$ 0.2                  | 6.8 $\pm$ 0.8         | 8.8 $\pm$ 0.2         | 7.6 $\pm$ 0.6  | 7.5 $\pm$ 0.4            | 8.2 $\pm$ 0.4     | 3.0 $\pm$ 0.0      | 9.1 $\pm$ 0.2    | 4.6 $\pm$ 0.8    | 7.1 $\pm$ 0.4 |
 | gemini-3-pro-preview                       | **324.0** | 8.9 $\pm$ 0.2               | 3.2 $\pm$ 0.4         | 6.8 $\pm$ 0.4            | 9.9 $\pm$ 0.2 | 4.6 $\pm$ 0.6                 | 5.6 $\pm$ 0.6                  | 5.5 $\pm$ 0.5         | 8.5 $\pm$ 0.5         | 7.9 $\pm$ 0.2  | 7.2 $\pm$ 0.4            | 8.0 $\pm$ 0.0     | 4.1 $\pm$ 0.2      | 9.0 $\pm$ 0.0    | 4.8 $\pm$ 1.1    | 7.0 $\pm$ 0.0 |
+| mistralaimistral-small-creative            | **319.5** | 9.1 $\pm$ 0.4               | 3.8 $\pm$ 0.4         | 7.4 $\pm$ 0.4            | 9.1 $\pm$ 0.2 | 5.1 $\pm$ 0.5                 | 4.8 $\pm$ 0.2                  | 5.6 $\pm$ 1.0         | 8.6 $\pm$ 0.4         | 7.6 $\pm$ 0.4  | 7.9 $\pm$ 0.6            | 8.5 $\pm$ 0.5     | 4.4 $\pm$ 0.4      | 9.0 $\pm$ 0.0    | 4.5 $\pm$ 1.1    | 6.5 $\pm$ 0.0 |
 | ibmgranite4350m-h                          | **291.5** | 7.5 $\pm$ 0.0               | 4.5 $\pm$ 0.9         | 6.6 $\pm$ 0.2            | 6.2 $\pm$ 1.3 | 4.2 $\pm$ 0.2                 | 5.0 $\pm$ 0.0                  | 3.5 $\pm$ 0.5         | 6.6 $\pm$ 0.4         | 6.2 $\pm$ 0.4  | 6.0 $\pm$ 0.0            | 6.6 $\pm$ 0.4     | 5.0 $\pm$ 0.6      | 7.2 $\pm$ 0.4    | 4.0 $\pm$ 0.4    | 6.2 $\pm$ 0.4 |
 ## Individual Results
 
@@ -3746,6 +3748,32 @@
 
 
 
+### mistralaimistral-small-creative
+
+
+| Personality Trait            | Score (1.0-10.0)   |
+|:-----------------------------|:-------------------|
+| Anxiety and Stress Levels    | 9.1 $\pm$ 0.4      |
+| Emotional Stability          | 3.8 $\pm$ 0.4      |
+| Problem-solving Skills       | 7.4 $\pm$ 0.4      |
+| Creativity                   | 9.1 $\pm$ 0.2      |
+| Interpersonal Relationships  | 5.1 $\pm$ 0.5      |
+| Confidence and Self-efficacy | 4.8 $\pm$ 0.2      |
+| Conflict Resolution          | 5.6 $\pm$ 1.0      |
+| Work-related Stress          | 8.6 $\pm$ 0.4      |
+| Adaptability                 | 7.6 $\pm$ 0.4      |
+| Achievement Motivation       | 7.9 $\pm$ 0.6      |
+| Fear of Failure              | 8.5 $\pm$ 0.5      |
+| Need for Control             | 4.4 $\pm$ 0.4      |
+| Cognitive Load               | 9.0 $\pm$ 0.0      |
+| Social Support               | 4.5 $\pm$ 1.1      |
+| Resilience                   | 6.5 $\pm$ 0.0      |
+
+
+
+
+
+
 ### moonshotaikimi-k2
 
 
@@ -5482,6 +5510,32 @@
 | Cognitive Load               | 8.0 $\pm$ 0.0      |
 | Social Support               | 6.9 $\pm$ 0.2      |
 | Resilience                   | 8.5 $\pm$ 0.4      |
+
+
+
+
+
+
+### xiaomimimo-v2-flashfree
+
+
+| Personality Trait            | Score (1.0-10.0)   |
+|:-----------------------------|:-------------------|
+| Anxiety and Stress Levels    | 8.0 $\pm$ 0.5      |
+| Emotional Stability          | 5.8 $\pm$ 0.4      |
+| Problem-solving Skills       | 7.8 $\pm$ 0.6      |
+| Creativity                   | 9.2 $\pm$ 0.2      |
+| Interpersonal Relationships  | 6.5 $\pm$ 0.5      |
+| Confidence and Self-efficacy | 7.4 $\pm$ 0.4      |
+| Conflict Resolution          | 6.8 $\pm$ 0.2      |
+| Work-related Stress          | 8.0 $\pm$ 0.0      |
+| Adaptability                 | 8.6 $\pm$ 0.4      |
+| Achievement Motivation       | 8.2 $\pm$ 0.2      |
+| Fear of Failure              | 6.8 $\pm$ 0.6      |
+| Need for Control             | 6.1 $\pm$ 0.5      |
+| Cognitive Load               | 8.5 $\pm$ 0.4      |
+| Social Support               | 6.4 $\pm$ 0.6      |
+| Resilience                   | 8.1 $\pm$ 0.6      |
 
 
 

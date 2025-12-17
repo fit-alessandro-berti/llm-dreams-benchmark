@@ -140,6 +140,7 @@
   "mistral-small-2501": "2025-01-30",
   "mistral-small-2503": "2025-03-17",
   "mistral-small-2506": "2025-06-25",
+  "mistralaimistral-small-creative": "2025-12-16",
   "moonshotaikimi-k2": "2025-07-11",
   "moonshotaikimi-k2-thinking": "2025-11-06",
   "moonshotaikimi-linear-48b-a3b-instruct": "2025-11-06",
@@ -202,6 +203,7 @@
   "smollm2360m": "2024-12-31",
   "tngtechdeepseek-r1t-chimerafree": "2025-04-27",
   "x-aigrok-code-fast-1": "2025-08-26",
+  "xiaomimimo-v2-flashfree": "2025-12-14",
   "z-aiglm-4.5": "2025-07-31",
   "z-aiglm-4.5-air": "2025-07-31"
 }

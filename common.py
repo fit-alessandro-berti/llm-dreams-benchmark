@@ -1,4 +1,4 @@
-ANSWERING_MODEL_NAME = "nvidia/nemotron-3-nano-30b-a3b:free"
+ANSWERING_MODEL_NAME = "xiaomi/mimo-v2-flash:free"
 EVALUATING_MODEL_NAME = "gpt-4.1"
 
 

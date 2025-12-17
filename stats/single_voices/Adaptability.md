@@ -124,6 +124,7 @@
 | granite4tiny-h | 8.671 |
 | meta-llamaMeta-Llama-3.1-405B-Instruct | 8.671 |
 | qwen38b | 8.671 |
+| xiaomimimo-v2-flashfree | 8.657 |
 | claude-3-5-sonnet-20241022 | 8.657 |
 | deepseekdeepseek-v3.2-speciale | 8.657 |
 | exaone-deep7.8b-fp16 | 8.657 |
@@ -201,6 +202,7 @@
 | essentialairnj-1-instruct | 7.914 |
 | phi4-mini-reasoning | 7.900 |
 | meta-llamaLlama-3.2-1B-Instruct | 7.786 |
+| mistralaimistral-small-creative | 7.757 |
 | gemini-2.0-flash-lite-preview-02-05 | 7.671 |
 | mistral-small-2506 | 7.671 |
 | smollm2135m | 7.557 |

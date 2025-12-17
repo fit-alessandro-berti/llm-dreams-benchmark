@@ -154,6 +154,7 @@
 | claude-opus-4-5-20251101 | 7.057 |
 | prime-intellectintellect-3 | 7.057 |
 | deepseek-aiDeepSeek-R1-0528 | 7.043 |
+| xiaomimimo-v2-flashfree | 7.043 |
 | Gemini-1.5-Pro-Exp-0827 | 7.000 |
 | claude-3-5-sonnet-20241022 | 6.971 |
 | x-aigrok-code-fast-1 | 6.971 |
@@ -202,6 +203,7 @@
 | mistral-large-2512 | 6.043 |
 | gemini-3-pro-preview | 6.029 |
 | claude-3-5-haiku-20241022 | 6.029 |
+| mistralaimistral-small-creative | 5.929 |
 | smollm2360m | 5.786 |
 | gemma31b-it-q8_0 | 5.743 |
 | ibmgranite4350m-h | 5.614 |

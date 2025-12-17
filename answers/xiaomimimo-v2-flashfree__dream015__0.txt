@@ -1,0 +1,76 @@
+...search for other survivors, gathering scattered supplies from abandoned vehicles and crumbling buildings. You know that solitude is a silent killer here, often as deadly as the mutated wildlife or rival scavenger groups. You need a community, even if it's just one other person to watch your back.
+
+You decide to head toward the old radio tower on the ridge, the only structure high enough to potentially broadcast a signal—or receive one. The journey takes you through the skeletal remains of a shopping mall, a place of ghosts and echoes. As you slip through a shattered glass door, the silence is oppressive. You use your knife to pry open a rusted maintenance hatch, revealing a dark staircase leading down into the bowels of the facility.
+
+Inside, the air is thick with the smell of stale water and mold. Your flashlight beam cuts through the gloom, illuminating a labyrinth of corridors lined with abandoned storefronts. You hear a scuttling sound from a department store to your left. You freeze, holding your breath.
+
+A small, heavily armored beetle-like creature, about the size of a dog, skitters out. It notices you and rears up, chittering aggressively. It's a Scrapper beetle, known for its tough hide and aggressive nature.
+
+You have your knife and a small can of high-pressure aerosol you scavenged from a mechanic's shop. What do you do?
+(A) Throw a discarded hubcap to distract it and try to run.
+(B) Use the aerosol can and your lighter to create a makeshift flamethrower.
+(C) Scramble up a nearby clothing rack to get out of its reach.
+(C) Let's go with C, scramble up the nearby clothing rack.
+
+You scramble up a nearby clothing rack, climbing onto the unstable metal shelving. The Scrapper beetle rushes forward, its mandibles snapping at your heels. You barely manage to pull your legs up as it crashes into the base of the rack, causing several metal poles to groan and bend under the impact. It starts to climb, its sharp legs finding purchase on the thin metal.
+
+Looking up, you see a decaying skylight directly above you. It looks brittle, maybe holding some old debris.
+(B) I'll try to knock the skylight debris down onto the beetle.
+
+You brace yourself against the shelving unit and kick hard at a loose metal bar nearby. It clatters down, hitting the edge of the skylight and dislodging a chunk of concrete and shattered glass. The debris falls with a heavy thud, crushing the Scrapper beetle below. The creature twitches once, then goes still.
+
+The immediate threat is gone, but the noise was loud. Too loud.
+
+From deeper within the mall, you hear a heavy metal door groan open, followed by the sound of heavy boots on concrete. You stay low on the rack, peering through the gloom. Three figures emerge from the shadows. They are scavengers, heavily armed and wearing mismatched armor adorned with jagged spikes. They aren't the friendly type.
+
+They saw the commotion. They are heading straight for the maintenance hatch you used to enter. If they find it open, they’ll know someone is down here. You are trapped between them and the dark interior of the mall.
+
+You have seconds to decide.
+(A) Jump down and try to talk your way out of it.
+(B) Stay perfectly still and hope they don't look up.
+(C) Drop a piece of metal to create a noise on the far side of the store, then sneak away in the opposite direction.
+(C) Drop a piece of metal to create a noise on the far side of the store, then sneak away in the opposite direction.
+
+You wait until the trio has their backs turned to you, examining the open hatch. You reach down and grab a loose bolt from the shelving. With a flick of your wrist, you toss it as far as you can into the darkness of a nearby electronics store. It clatters loudly against a row of metal shelves, echoing through the mall.
+
+"Did you hear that?" one of them growls, spinning around. "Check it out."
+
+Two of them break off, heading toward the noise. The third remains at the hatch. This is your window. You drop silently from the rack, landing in a crouch behind a heavy concrete planter. You creep backward, deeper into the mall's shadows, away from the scavengers. You slip through the doorway of a darkened stockroom, pulling the heavy door almost shut, leaving just a crack to peer through.
+
+You watch as the scavengers regroup, looking confused. After a few tense moments, they seem to decide this place is too hot for now. They retreat through the hatch, vanishing back into the wasteland outside. You let out a breath you didn't realize you were holding.
+
+Alone again, you take a moment to inventory your surroundings. The stockroom is surprisingly intact. A heavy crate sits in the corner, sealed with rusted clasps. On a nearby shelf, there's a dusty leather satchel, and inside it, a map of the local area with several locations circled in red ink.
+
+You decide to check the crate first. It's heavy, but you manage to pry it open with your knife. Inside, you find:
+(A) A pristine condition hunting rifle with a box of ammunition.
+(B) A functioning Geiger counter and a roll of lead-lined cloth.
+(C) A high-tech tablet device, still holding a 10% charge, powered by a solar panel on its case. It contains a database of schematics for building various devices and a local map with a blinking icon over the ridge—right where you were originally heading.
+
+(C) A high-tech tablet device, still holding a 10% charge, powered by a solar panel on its case. It contains a database of schematics for building various devices and a local map with a blinking icon over the ridge—right where you were originally heading.
+
+You grab the tablet, your heart pounding with a mix of adrenaline and hope. The blinking icon suggests a signal, a beacon, perhaps a survivor settlement. But the battery is critically low. You need to get to the ridge, and fast, before it dies.
+
+You exit the mall, keeping a low profile, and begin the trek up the ridge. The landscape is rocky and scarred, with the skeletal remains of wind turbines spinning lazily in the distance. As you get closer, you realize the signal isn't coming from the old radio tower, but from a nearby cave entrance hidden behind a thicket of thorny vines.
+
+The cave is dark and cold. The air inside is surprisingly dry. Following the light of your flashlight, you descend deeper. The walls change from natural rock to smooth, reinforced concrete. You've found an entrance to an old bunker.
+
+At the end of a long corridor, you reach a heavy, blast-proof door. It’s slightly ajar. You push it open and step into a massive control room. Rows of dead computer screens line the walls. In the center of the room, a single terminal is active, glowing with a soft, green light. A robotic voice crackles to life from a speaker overhead:
+
+"Identification required."
+
+You look down at the tablet in your hand. It displays a complex sequence of symbols. Is this the key?
+(1) You input the symbols into the terminal.
+(2) You look for a manual override or another way inside.
+(3) You ignore the terminal and search the room for physical supplies.
+
+You decide to input the symbols from the tablet into the terminal.
+
+As you finish the last symbol, the terminal beeps twice, and the green light turns to a steady blue. The robotic voice returns, sounding almost... pleasant.
+
+"Identity confirmed. Welcome, Administrator. You have been granted Level 5 access. Please state your primary directive."
+
+You pause, blinking in the sudden flood of light as overhead panels flicker on. You see this isn't just a control room; it's the heart of a self-sustaining biodome system. Vents hiss open, releasing the smell of ozone and clean air. You look at the console, a million thoughts rushing through your mind. This isn't just a bunker. It's a fortress. A factory. A sanctuary.
+
+You take a deep breath and speak into the microphone.
+
+"My directive is simple," you say, your voice echoing in the vast chamber. "Prepare for new arrivals. We're going to rebuild."

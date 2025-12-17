@@ -146,6 +146,7 @@
 | x-aigrok-code-fast-1 | 6.257 |
 | gpt-5.2-2025-12-11 | 6.257 |
 | meta-llamaLlama-3.2-3B-Instruct | 6.257 |
+| xiaomimimo-v2-flashfree | 6.257 |
 | claude-4-sonnet-20250514 | 6.229 |
 | chatgpt-4o-latest-2025-01-29 | 6.214 |
 | mistral-medium-2505 | 6.214 |
@@ -206,4 +207,5 @@
 | smollm2360m | 5.000 |
 | mistral-small-2506 | 4.929 |
 | moonshotaikimi-k2-thinking | 4.886 |
+| mistralaimistral-small-creative | 4.800 |
 | mistral-large-2512 | 4.771 |

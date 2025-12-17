@@ -126,6 +126,7 @@
 | nvidiallama-3.3-nemotron-super-49b-v1 | 7.129 |
 | qwen-turbo-0428 | 7.129 |
 | meta-llamallama-4-scout | 7.100 |
+| xiaomimimo-v2-flashfree | 7.100 |
 | gemini-2.0-pro-exp-02-05 | 7.086 |
 | claude-4-opus-20250514 | 7.071 |
 | grok-4-1-fast-non-reasoning | 7.071 |
@@ -203,6 +204,7 @@
 | QwenQwen3-235B-A22B | 5.743 |
 | mistral-large-2512 | 5.700 |
 | smollm2360m | 5.529 |
+| mistralaimistral-small-creative | 5.443 |
 | ibmgranite4350m-h | 5.414 |
 | gemini-2.5-flash-preview-09-2025 | 5.414 |
 | gemma31b-it-q8_0 | 5.371 |

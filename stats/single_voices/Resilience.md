@@ -148,6 +148,7 @@
 | gpt-5.2-2025-12-11 | 8.243 |
 | ibmgranite41b-h | 8.229 |
 | claude-haiku-4-5-20251001 | 8.200 |
+| xiaomimimo-v2-flashfree | 8.200 |
 | gpt-4o-mini-2024-11-05 | 8.200 |
 | meta-llamaMeta-Llama-3.1-405B-Instruct | 8.200 |
 | allenaiolmo-3-7b-instruct | 8.171 |
@@ -204,6 +205,7 @@
 | claude-3-5-haiku-20241022 | 7.257 |
 | mistral-large-2512 | 7.000 |
 | ibmgranite4350m-h | 7.000 |
+| mistralaimistral-small-creative | 7.000 |
 | mistral-small-2506 | 6.914 |
 | smollm2135m | 6.886 |
 | smollm2360m | 6.671 |

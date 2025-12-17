@@ -125,6 +125,7 @@
 | qwen-plus-0428 | 8.300 |
 | qwenqwen3-max | 8.300 |
 | gemini-2.5-pro-preview-05-06 | 8.286 |
+| xiaomimimo-v2-flashfree | 8.286 |
 | chatgpt-4o-latest-2025-01-29 | 8.271 |
 | meta-llamaMeta-Llama-3.1-8B-Instruct | 8.271 |
 | openaigpt-5.1-codex-max | 8.257 |
@@ -192,6 +193,7 @@
 | gemini-2.5-flash-preview-09-2025 | 7.686 |
 | gpt-5.2-pro-2025-12-11 | 7.671 |
 | mistral-large-2512 | 7.629 |
+| mistralaimistral-small-creative | 7.614 |
 | mistral-small-2506 | 7.600 |
 | nvidiallama-3.1-nemotron-nano-8b-v1 | 7.600 |
 | claude-4-opus-20250514 | 7.586 |

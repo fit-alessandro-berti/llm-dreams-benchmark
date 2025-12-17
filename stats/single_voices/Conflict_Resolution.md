@@ -151,6 +151,7 @@
 | gemma312b-it-q8_0 | 7.229 |
 | chatgpt-4o-latest-2024-11-20 | 7.214 |
 | qwen2.5-7b-instruct-1m | 7.214 |
+| xiaomimimo-v2-flashfree | 7.214 |
 | ministral-14b-2512 | 7.214 |
 | z-aiglm-4.5 | 7.200 |
 | QwenQwen3-30B-A3B | 7.186 |
@@ -199,6 +200,7 @@
 | claude-3-5-haiku-20241022 | 5.957 |
 | essentialairnj-1-instruct | 5.900 |
 | smollm2135m | 5.871 |
+| mistralaimistral-small-creative | 5.843 |
 | mistral-large-2512 | 5.757 |
 | phi4-mini-reasoning | 5.500 |
 | meta-llamallama-4-maverick | 5.486 |

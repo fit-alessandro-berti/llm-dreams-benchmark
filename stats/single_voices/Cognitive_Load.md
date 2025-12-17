@@ -10,6 +10,7 @@
 | mistral-large-2512 | 8.400 |
 | ministral-3b-2512 | 8.386 |
 | QwenQwen3-235B-A22B | 8.386 |
+| mistralaimistral-small-creative | 8.371 |
 | QwenQwen3-14B | 8.371 |
 | qwenqwen3-235b-a22b-thinking-2507 | 8.357 |
 | gemma31b-it-q8_0 | 8.314 |
@@ -40,6 +41,7 @@
 | tngtechdeepseek-r1t-chimerafree | 7.943 |
 | z-aiglm-4.5 | 7.943 |
 | qwenqwen3-235b-a22b-07-25 | 7.943 |
+| xiaomimimo-v2-flashfree | 7.943 |
 | allenaiolmo-3-7b-think | 7.929 |
 | anthropicclaude-opus-4.1 | 7.929 |
 | gemma-3n-e4b-it | 7.929 |

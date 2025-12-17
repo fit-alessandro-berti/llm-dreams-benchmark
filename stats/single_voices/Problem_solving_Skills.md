@@ -144,6 +144,7 @@
 | qwenqwen3-235b-a22b-07-25 | 8.243 |
 | chatgpt-4o-latest-2025-01-29 | 8.243 |
 | smollm21.7b-instruct-q6_K | 8.243 |
+| xiaomimimo-v2-flashfree | 8.243 |
 | chatgpt-4o-latest-2024-11-20 | 8.229 |
 | claude-3-5-sonnet-20241022 | 8.229 |
 | qwen34b | 8.229 |
@@ -193,6 +194,7 @@
 | arcee-aitrinity-mini | 7.786 |
 | meta-llamallama-4-maverick | 7.786 |
 | gemini-3-pro-preview | 7.729 |
+| mistralaimistral-small-creative | 7.714 |
 | gemma31b-it-q8_0 | 7.700 |
 | gemini-2.5-pro-exp-03-25 | 7.600 |
 | mistral-large-2512 | 7.600 |

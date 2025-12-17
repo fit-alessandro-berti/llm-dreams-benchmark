@@ -7,6 +7,7 @@
 | mistral-large-2512 | 6.871 |
 | mistral-small-2506 | 6.871 |
 | essentialairnj-1-instruct | 6.829 |
+| mistralaimistral-small-creative | 6.829 |
 | QwenQwen3-235B-A22B | 6.829 |
 | ibmgranite41b-h | 6.814 |
 | deepseekdeepseek-r1 | 6.771 |
@@ -33,6 +34,7 @@
 | meta-llamaMeta-Llama-3.1-405B-Instruct | 6.500 |
 | ministral-3b-2512 | 6.500 |
 | meta-llamaLlama-3.2-1B-Instruct | 6.500 |
+| xiaomimimo-v2-flashfree | 6.500 |
 | deepseek-aiDeepSeek-R1-Zero | 6.486 |
 | googlegemma-2-2b-it | 6.486 |
 | Grok-3-20250426-formal | 6.471 |

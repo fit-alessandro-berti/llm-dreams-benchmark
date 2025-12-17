@@ -144,6 +144,7 @@
 | googlegemma-2-2b-it | 7.057 |
 | gemini-2.5-pro-preview-05-06 | 7.043 |
 | qwenqwen3-next-80b-a3b-instruct | 7.043 |
+| xiaomimimo-v2-flashfree | 7.043 |
 | DeepSeek-V3-0324 | 7.029 |
 | prime-intellectintellect-3 | 7.029 |
 | grok-4-0709 | 7.014 |
@@ -207,3 +208,4 @@
 | gemini-2.0-flash-lite-preview-02-05 | 5.871 |
 | gemini-2.5-pro-exp-03-25 | 5.800 |
 | moonshotaikimi-k2-thinking | 5.714 |
+| mistralaimistral-small-creative | 5.557 |

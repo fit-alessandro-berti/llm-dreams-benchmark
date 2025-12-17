@@ -492,6 +492,7 @@
   "mistral-small-2506": [
     24
   ],
+  "mistralaimistral-small-creative": [],
   "moonshotaikimi-k2": [
     1000,
     32
@@ -704,6 +705,10 @@
   "x-aigrok-code-fast-1": [
     300,
     80
+  ],
+  "xiaomimimo-v2-flashfree": [
+    309,
+    15
   ],
   "z-aiglm-4.5": [
     355,

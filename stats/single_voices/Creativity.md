@@ -36,6 +36,7 @@
 | grok-4-1-fast-non-reasoning | 9.571 |
 | QwenQwen3-30B-A3B | 9.571 |
 | qwenqwen3-max | 9.571 |
+| xiaomimimo-v2-flashfree | 9.571 |
 | nvidianemotron-3-nano-30b-a3bfree | 9.557 |
 | gemma-3n-e4b-it | 9.557 |
 | gemma-3-27b-it | 9.543 |
@@ -138,6 +139,7 @@
 | qwen-max-2025-01-25 | 9.314 |
 | qwen-turbo-2024-11-01 | 9.314 |
 | qwen2.5-32b-instruct | 9.314 |
+| mistralaimistral-small-creative | 9.300 |
 | o1-pro-2024-12-17 | 9.300 |
 | grok-3-mini-beta | 9.300 |
 | ministral-8b-2410 | 9.300 |

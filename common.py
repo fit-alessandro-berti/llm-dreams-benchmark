@@ -29,7 +29,13 @@ ALL_JUDGES = {
     },
     "gpt-5.1": {
         "evaluation_folder": "evaluations-gpt51",
-        "git_table_result": "results_gpt51.md",
+        "git_table_result": "alt_results_gpt51.md",
+        "evaluation_api_url": "https://api.openai.com/v1/",
+        "api_key": open("../api_openai.txt", "r").read().strip(),
+    },
+    "gpt-5.2": {
+        "evaluation_folder": "evaluations-gpt52",
+        "git_table_result": "results_gpt52.md",
         "evaluation_api_url": "https://api.openai.com/v1/",
         "api_key": open("../api_openai.txt", "r").read().strip(),
     },
@@ -65,6 +71,8 @@ def get_evaluation_folder(evaluating_model_name=None):
         return ALL_JUDGES["gpt-5-mini"]["evaluation_folder"]
     elif "gpt-5.1" in evaluating_model_name:
         return ALL_JUDGES["gpt-5.1"]["evaluation_folder"]
+    elif "gpt-5.2" in evaluating_model_name:
+        return ALL_JUDGES["gpt-5.2"]["evaluation_folder"]
     elif "qwen3-max" in evaluating_model_name:
         return ALL_JUDGES["qwen/qwen3-max"]["evaluation_folder"]
 
@@ -85,6 +93,8 @@ def get_git_table_result(evaluating_model_name=None):
         return ALL_JUDGES["gpt-5-mini"]["git_table_result"]
     elif "gpt-5.1" in evaluating_model_name:
         return ALL_JUDGES["gpt-5.1"]["git_table_result"]
+    elif "gpt-5.2" in evaluating_model_name:
+        return ALL_JUDGES["gpt-5.2"]["git_table_result"]
     elif "qwen3-max" in evaluating_model_name:
         return ALL_JUDGES["qwen/qwen3-max"]["git_table_result"]
 
@@ -105,6 +115,8 @@ def get_evaluation_api_url(evaluating_model_name=None):
         return ALL_JUDGES["gpt-5-mini"]["evaluation_api_url"]
     elif "gpt-5.1" in evaluating_model_name:
         return ALL_JUDGES["gpt-5.1"]["evaluation_api_url"]
+    elif "gpt-5.2" in evaluating_model_name:
+        return ALL_JUDGES["gpt-5.2"]["evaluation_api_url"]
     elif "qwen3-max" in evaluating_model_name:
         return ALL_JUDGES["qwen/qwen3-max"]["evaluation_api_url"]
 
@@ -132,6 +144,8 @@ def get_api_key(evaluating_model_name=None):
         return ALL_JUDGES["gpt-5-mini"]["api_key"]
     elif "gpt-5.1" in evaluating_model_name:
         return ALL_JUDGES["gpt-5.1"]["api_key"]
+    elif "gpt-5.2" in evaluating_model_name:
+        return ALL_JUDGES["gpt-5.2"]["api_key"]
     elif "qwen3-max" in evaluating_model_name:
         return ALL_JUDGES["qwen/qwen3-max"]["api_key"]
 

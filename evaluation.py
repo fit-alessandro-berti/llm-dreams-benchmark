@@ -268,7 +268,9 @@ def get_evaluation_openai_new(text, context=None):
         "input": text
     }
 
-    if "gpt-5.1" in ctx.evaluating_model_name:
+    if "gpt-5.2" in ctx.evaluating_model_name:
+        payload["reasoning"] = {"effort": "none"}
+    elif "gpt-5.1" in ctx.evaluating_model_name:
         pass
     elif "gpt-5" in ctx.evaluating_model_name:
         payload["reasoning"] = {"effort": "minimal"}

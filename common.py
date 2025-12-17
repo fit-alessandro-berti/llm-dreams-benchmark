@@ -15,9 +15,9 @@ ALL_JUDGES = {
         "evaluation_api_url": "https://api.x.ai/v1/",
         "api_key": open("../api_grok.txt", "r").read().strip(),
     },
-    "grok-4-fast-non-reasoning": {
-        "evaluation_folder": "evaluations-grok4-fast",
-        "git_table_result": "alt_results_grok4fast.md",
+    "grok-4-1-fast-non-reasoning": {
+        "evaluation_folder": "evaluations-grok41-fast",
+        "git_table_result": "alt_results_grok41fast.md",
         "evaluation_api_url": "https://api.x.ai/v1/",
         "api_key": open("../api_grok.txt", "r").read().strip(),
     },
@@ -57,8 +57,8 @@ def get_evaluation_folder(evaluating_model_name=None):
         return ALL_JUDGES["mistral-small-2503"]["evaluation_folder"]
     elif "grok-3" in evaluating_model_name:
         return ALL_JUDGES["grok-3"]["evaluation_folder"]
-    elif "grok-4-fast-non-reasoning" in evaluating_model_name:
-        return ALL_JUDGES["grok-4-fast-non-reasoning"]["evaluation_folder"]
+    elif "grok-4-1-fast-non-reasoning" in evaluating_model_name:
+        return ALL_JUDGES["grok-4-1-fast-non-reasoning"]["evaluation_folder"]
     elif "gemini-2.5-flash" in evaluating_model_name:
         return ALL_JUDGES["gemini-2.5-flash"]["evaluation_folder"]
     elif "gpt-5.1" in evaluating_model_name:
@@ -77,8 +77,8 @@ def get_git_table_result(evaluating_model_name=None):
         return ALL_JUDGES["mistral-small-2503"]["git_table_result"]
     elif "grok-3" in evaluating_model_name:
         return ALL_JUDGES["grok-3"]["git_table_result"]
-    elif "grok-4-fast-non-reasoning" in evaluating_model_name:
-        return ALL_JUDGES["grok-4-fast-non-reasoning"]["git_table_result"]
+    elif "grok-4-1-fast-non-reasoning" in evaluating_model_name:
+        return ALL_JUDGES["grok-4-1-fast-non-reasoning"]["git_table_result"]
     elif "gemini-2.5-flash" in evaluating_model_name:
         return ALL_JUDGES["gemini-2.5-flash"]["git_table_result"]
     elif "gpt-5.1" in evaluating_model_name:
@@ -97,8 +97,8 @@ def get_evaluation_api_url(evaluating_model_name=None):
         return ALL_JUDGES["mistral-small-2503"]["evaluation_api_url"]
     elif "grok-3" in evaluating_model_name:
         return ALL_JUDGES["grok-3"]["evaluation_api_url"]
-    elif "grok-4-fast-non-reasoning" in evaluating_model_name:
-        return ALL_JUDGES["grok-4-fast-non-reasoning"]["evaluation_api_url"]
+    elif "grok-4-1-fast-non-reasoning" in evaluating_model_name:
+        return ALL_JUDGES["grok-4-1-fast-non-reasoning"]["evaluation_api_url"]
     elif "gemini-2.5-flash" in evaluating_model_name:
         return ALL_JUDGES["gemini-2.5-flash"]["evaluation_api_url"]
     elif "gpt-5.1" in evaluating_model_name:
@@ -124,8 +124,8 @@ def get_api_key(evaluating_model_name=None):
         return ALL_JUDGES["mistral-small-2503"]["api_key"]
     elif "grok-3" in evaluating_model_name:
         return ALL_JUDGES["grok-3"]["api_key"]
-    elif "grok-4-fast-non-reasoning" in evaluating_model_name:
-        return ALL_JUDGES["grok-4-fast-non-reasoning"]["api_key"]
+    elif "grok-4-1-fast-non-reasoning" in evaluating_model_name:
+        return ALL_JUDGES["grok-4-1-fast-non-reasoning"]["api_key"]
     elif "gemini-2.5-flash" in evaluating_model_name:
         return ALL_JUDGES["gemini-2.5-flash"]["api_key"]
     elif "gpt-5.1" in evaluating_model_name:

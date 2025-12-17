@@ -58,12 +58,12 @@ The following table collect the average results over all the judges LLMs:
 
 The following tables collect results evaluated by the same judge LLM:
 
-* [gpt-5.1](results_gpt51.md)
+* [gpt-5.2](results_gpt52.md)
 
 Alternative leaderboards (maintaned and updated less frequently):
 
 * [grok-3](alt_results_grok3.md)
-* [gpt-5-mini](alt_results_gpt5-mini.md)
+* [gpt-5.1](alt_results_gpt51.md)
 * [mistral-small-2503](alt_results_mistral-small-2503.md)
 * [gemini-2.5-flash](alt_results_gemini25_flash.md)
 

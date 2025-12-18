@@ -125,6 +125,7 @@
 | qwenqwen3-235b-a22b-07-25 | 7.243 |
 | anthropicclaude-opus-4.1 | 7.229 |
 | gemini-1.5-flash-8b | 7.229 |
+| gemini-3-flash-preview | 7.214 |
 | Grok-4-fast-20251111 | 7.214 |
 | meta-llamallama-4-scout | 7.214 |
 | magistral-small-2506 | 7.200 |

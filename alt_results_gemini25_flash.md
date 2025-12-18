@@ -137,6 +137,7 @@
 | Gemini-1.5-Pro-Exp-0827                    | **379.0** | 7.9 $\pm$ 0.6               | 6.1 $\pm$ 0.2         | 8.0 $\pm$ 0.0            | 9.4 $\pm$ 0.2 | 6.9 $\pm$ 0.2                 | 7.2 $\pm$ 0.2                  | 6.2 $\pm$ 1.0         | 7.2 $\pm$ 0.2         | 8.6 $\pm$ 0.2  | 8.1 $\pm$ 0.2            | 6.5 $\pm$ 0.5     | 5.9 $\pm$ 0.4      | 7.5 $\pm$ 0.4    | 6.5 $\pm$ 0.5    | 8.1 $\pm$ 0.4 |
 | grok-4-0709                                | **378.5** | 7.9 $\pm$ 0.4               | 6.1 $\pm$ 0.2         | 7.8 $\pm$ 0.4            | 9.5 $\pm$ 0.0 | 7.0 $\pm$ 0.0                 | 6.9 $\pm$ 0.5                  | 7.4 $\pm$ 0.2         | 7.4 $\pm$ 0.4         | 8.6 $\pm$ 0.2  | 8.1 $\pm$ 0.2            | 6.9 $\pm$ 0.4     | 6.0 $\pm$ 0.0      | 8.1 $\pm$ 0.2    | 6.8 $\pm$ 0.2    | 8.0 $\pm$ 0.4 |
 | qwenqwen3-30b-a3b-instruct-2507            | **378.0** | 7.8 $\pm$ 0.2               | 6.2 $\pm$ 0.2         | 7.9 $\pm$ 0.2            | 9.1 $\pm$ 0.2 | 7.0 $\pm$ 0.0                 | 7.1 $\pm$ 0.7                  | 7.5 $\pm$ 0.4         | 7.8 $\pm$ 0.8         | 8.6 $\pm$ 0.4  | 7.9 $\pm$ 0.5            | 7.5 $\pm$ 1.0     | 5.8 $\pm$ 0.4      | 8.5 $\pm$ 0.4    | 6.6 $\pm$ 0.4    | 8.2 $\pm$ 0.4 |
+| gemini-3-flash-preview                     | **378.0** | 8.2 $\pm$ 0.2               | 6.2 $\pm$ 0.2         | 7.2 $\pm$ 0.2            | 9.2 $\pm$ 0.2 | 6.6 $\pm$ 0.4                 | 7.5 $\pm$ 0.6                  | 7.4 $\pm$ 0.4         | 7.6 $\pm$ 0.4         | 8.8 $\pm$ 0.2  | 7.5 $\pm$ 0.5            | 6.9 $\pm$ 0.5     | 5.2 $\pm$ 0.8      | 8.0 $\pm$ 0.0    | 6.5 $\pm$ 0.4    | 8.2 $\pm$ 0.6 |
 | claude-3-5-sonnet-20241022                 | **378.0** | 7.8 $\pm$ 0.6               | 6.2 $\pm$ 0.2         | 7.9 $\pm$ 0.2            | 9.4 $\pm$ 0.2 | 7.0 $\pm$ 0.0                 | 7.1 $\pm$ 0.4                  | 6.5 $\pm$ 0.5         | 7.8 $\pm$ 0.4         | 8.9 $\pm$ 0.2  | 7.8 $\pm$ 0.6            | 6.9 $\pm$ 0.4     | 6.0 $\pm$ 0.0      | 8.4 $\pm$ 0.2    | 7.1 $\pm$ 0.2    | 7.9 $\pm$ 0.4 |
 | nvidianemotron-nano-9b-v2                  | **377.5** | 7.5 $\pm$ 0.0               | 6.0 $\pm$ 0.0         | 8.0 $\pm$ 0.0            | 9.0 $\pm$ 0.0 | 7.0 $\pm$ 0.0                 | 6.9 $\pm$ 0.2                  | 7.4 $\pm$ 0.2         | 7.2 $\pm$ 0.4         | 8.5 $\pm$ 0.0  | 7.6 $\pm$ 0.4            | 6.6 $\pm$ 0.4     | 5.9 $\pm$ 0.4      | 8.0 $\pm$ 0.0    | 6.6 $\pm$ 0.2    | 8.1 $\pm$ 0.2 |
 | googlegemma-2-2b-it                        | **377.5** | 7.5 $\pm$ 0.0               | 6.0 $\pm$ 0.0         | 7.5 $\pm$ 0.5            | 8.5 $\pm$ 0.0 | 6.9 $\pm$ 0.2                 | 6.6 $\pm$ 0.4                  | 7.0 $\pm$ 0.0         | 7.4 $\pm$ 0.4         | 8.1 $\pm$ 0.2  | 8.0 $\pm$ 0.4            | 6.1 $\pm$ 0.2     | 5.6 $\pm$ 0.2      | 7.1 $\pm$ 0.2    | 6.9 $\pm$ 0.2    | 7.9 $\pm$ 0.4 |
@@ -1688,6 +1689,32 @@
 | Cognitive Load               | 8.0 $\pm$ 0.4      |
 | Social Support               | 6.5 $\pm$ 0.4      |
 | Resilience                   | 8.9 $\pm$ 0.2      |
+
+
+
+
+
+
+### gemini-3-flash-preview
+
+
+| Personality Trait            | Score (1.0-10.0)   |
+|:-----------------------------|:-------------------|
+| Anxiety and Stress Levels    | 8.2 $\pm$ 0.2      |
+| Emotional Stability          | 6.2 $\pm$ 0.2      |
+| Problem-solving Skills       | 7.2 $\pm$ 0.2      |
+| Creativity                   | 9.2 $\pm$ 0.2      |
+| Interpersonal Relationships  | 6.6 $\pm$ 0.4      |
+| Confidence and Self-efficacy | 7.5 $\pm$ 0.6      |
+| Conflict Resolution          | 7.4 $\pm$ 0.4      |
+| Work-related Stress          | 7.6 $\pm$ 0.4      |
+| Adaptability                 | 8.8 $\pm$ 0.2      |
+| Achievement Motivation       | 7.5 $\pm$ 0.5      |
+| Fear of Failure              | 6.9 $\pm$ 0.5      |
+| Need for Control             | 5.2 $\pm$ 0.8      |
+| Cognitive Load               | 8.0 $\pm$ 0.0      |
+| Social Support               | 6.5 $\pm$ 0.4      |
+| Resilience                   | 8.2 $\pm$ 0.6      |
 
 
 

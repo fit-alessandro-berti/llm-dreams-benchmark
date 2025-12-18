@@ -17,6 +17,7 @@
 | microsoftphi-4 | 9.043 |
 | o3-2025-04-16 | 9.043 |
 | falcon310b-instruct-q8_0 | 9.029 |
+| gemini-3-flash-preview | 9.029 |
 | gpt-5-mini-2025-08-07 | 9.029 |
 | Grok-4-fast | 9.014 |
 | liquidlfm2-8b-a1b | 9.014 |

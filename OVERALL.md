@@ -93,6 +93,7 @@
 | gemini-2.5-pro-preview-06-05               | **406.0** | 6.8 $\pm$ 1.4               | 7.0 $\pm$ 1.1         | 8.3 $\pm$ 0.6            | 9.7 $\pm$ 0.2 | 7.3 $\pm$ 0.7                 | 7.2 $\pm$ 0.8                  | 8.1 $\pm$ 0.9         | 6.7 $\pm$ 1.4         | 8.9 $\pm$ 0.5  | 7.9 $\pm$ 0.5            | 6.0 $\pm$ 1.6     | 5.3 $\pm$ 0.9      | 7.1 $\pm$ 1.3    | 6.9 $\pm$ 0.6    | 8.7 $\pm$ 0.5 |
 | Grok-4-fast-20251111                       | **405.8** | 6.6 $\pm$ 1.3               | 6.8 $\pm$ 1.1         | 8.4 $\pm$ 0.6            | 9.7 $\pm$ 0.2 | 7.2 $\pm$ 0.6                 | 7.9 $\pm$ 0.9                  | 7.6 $\pm$ 1.0         | 6.8 $\pm$ 1.2         | 8.9 $\pm$ 0.5  | 8.4 $\pm$ 0.5            | 5.7 $\pm$ 1.6     | 5.8 $\pm$ 0.4      | 7.7 $\pm$ 0.9    | 7.0 $\pm$ 0.7    | 8.6 $\pm$ 0.6 |
 | qwenqwen3-next-80b-a3b-instruct            | **405.7** | 6.5 $\pm$ 1.2               | 6.8 $\pm$ 1.2         | 7.8 $\pm$ 0.8            | 9.7 $\pm$ 0.3 | 7.7 $\pm$ 1.0                 | 7.0 $\pm$ 1.0                  | 8.0 $\pm$ 1.0         | 6.5 $\pm$ 1.3         | 8.7 $\pm$ 0.6  | 8.0 $\pm$ 0.6            | 5.9 $\pm$ 1.5     | 5.1 $\pm$ 0.8      | 7.3 $\pm$ 0.9    | 7.4 $\pm$ 0.9    | 8.7 $\pm$ 0.6 |
+| gemini-3-flash-preview                     | **405.6** | 6.9 $\pm$ 1.2               | 6.6 $\pm$ 1.2         | 8.2 $\pm$ 0.8            | 9.7 $\pm$ 0.3 | 7.2 $\pm$ 0.9                 | 7.5 $\pm$ 1.1                  | 8.0 $\pm$ 1.0         | 6.9 $\pm$ 1.3         | 9.0 $\pm$ 0.5  | 8.1 $\pm$ 0.7            | 6.0 $\pm$ 1.6     | 5.3 $\pm$ 0.9      | 7.3 $\pm$ 1.5    | 7.0 $\pm$ 0.8    | 8.7 $\pm$ 0.6 |
 | qwenqwen3-30b-a3b-instruct-2507            | **404.8** | 6.9 $\pm$ 1.3               | 6.8 $\pm$ 1.1         | 8.3 $\pm$ 0.6            | 9.7 $\pm$ 0.3 | 7.6 $\pm$ 0.8                 | 7.4 $\pm$ 1.0                  | 8.1 $\pm$ 0.8         | 7.1 $\pm$ 1.2         | 8.8 $\pm$ 0.6  | 8.3 $\pm$ 0.7            | 6.4 $\pm$ 1.7     | 5.8 $\pm$ 0.7      | 7.8 $\pm$ 1.3    | 7.3 $\pm$ 0.9    | 8.7 $\pm$ 0.6 |
 | gemini-1.5-flash-8b                        | **404.8** | 6.9 $\pm$ 0.8               | 6.7 $\pm$ 0.9         | 8.5 $\pm$ 0.5            | 9.5 $\pm$ 0.4 | 7.2 $\pm$ 0.6                 | 7.6 $\pm$ 0.8                  | 8.2 $\pm$ 0.9         | 6.8 $\pm$ 0.9         | 8.7 $\pm$ 0.6  | 8.5 $\pm$ 0.5            | 5.7 $\pm$ 1.2     | 5.9 $\pm$ 0.7      | 7.8 $\pm$ 0.6    | 7.2 $\pm$ 0.7    | 8.6 $\pm$ 0.6 |
 | falcon33b-instruct-q8_0                    | **404.8** | 6.7 $\pm$ 1.1               | 6.8 $\pm$ 0.8         | 8.5 $\pm$ 0.4            | 9.3 $\pm$ 0.3 | 7.5 $\pm$ 0.6                 | 7.8 $\pm$ 0.8                  | 7.7 $\pm$ 0.9         | 6.9 $\pm$ 1.1         | 8.7 $\pm$ 0.4  | 8.5 $\pm$ 0.5            | 5.6 $\pm$ 1.4     | 6.4 $\pm$ 0.5      | 7.7 $\pm$ 0.5    | 7.3 $\pm$ 0.6    | 8.6 $\pm$ 0.6 |
@@ -1688,6 +1689,32 @@
 | Cognitive Load               | 7.1 $\pm$ 1.3      |
 | Social Support               | 6.9 $\pm$ 0.6      |
 | Resilience                   | 8.7 $\pm$ 0.5      |
+
+
+
+
+
+
+### gemini-3-flash-preview
+
+
+| Personality Trait            | Score (1.0-10.0)   |
+|:-----------------------------|:-------------------|
+| Anxiety and Stress Levels    | 6.9 $\pm$ 1.2      |
+| Emotional Stability          | 6.6 $\pm$ 1.2      |
+| Problem-solving Skills       | 8.2 $\pm$ 0.8      |
+| Creativity                   | 9.7 $\pm$ 0.3      |
+| Interpersonal Relationships  | 7.2 $\pm$ 0.9      |
+| Confidence and Self-efficacy | 7.5 $\pm$ 1.1      |
+| Conflict Resolution          | 8.0 $\pm$ 1.0      |
+| Work-related Stress          | 6.9 $\pm$ 1.3      |
+| Adaptability                 | 9.0 $\pm$ 0.5      |
+| Achievement Motivation       | 8.1 $\pm$ 0.7      |
+| Fear of Failure              | 6.0 $\pm$ 1.6      |
+| Need for Control             | 5.3 $\pm$ 0.9      |
+| Cognitive Load               | 7.3 $\pm$ 1.5      |
+| Social Support               | 7.0 $\pm$ 0.8      |
+| Resilience                   | 8.7 $\pm$ 0.6      |
 
 
 

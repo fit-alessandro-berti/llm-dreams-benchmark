@@ -124,6 +124,7 @@
 | deepseek-aiDeepSeek-R1-Zero | 7.357 |
 | nousresearchhermes-4-70b | 7.343 |
 | granite4micro | 7.343 |
+| gemini-3-flash-preview | 7.343 |
 | minimaxminimax-m2free | 7.343 |
 | exaone-deep7.8b-fp16 | 7.329 |
 | ai21jamba-large-1.7 | 7.314 |

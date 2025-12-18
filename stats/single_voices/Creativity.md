@@ -9,6 +9,7 @@
 | claude-4-opus-20250514 | 9.714 |
 | Grok-4-fast | 9.714 |
 | gemini-2.5-pro-preview-06-05 | 9.700 |
+| gemini-3-flash-preview | 9.700 |
 | grok-4-0709 | 9.686 |
 | moonshotaikimi-k2-thinking | 9.686 |
 | claude-4-sonnet-20250514 | 9.671 |

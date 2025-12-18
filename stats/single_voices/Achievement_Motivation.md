@@ -158,6 +158,7 @@
 | moonshotaikimi-linear-48b-a3b-instruct | 8.129 |
 | QwenQwen3-30B-A3B | 8.129 |
 | qwenqwen3-next-80b-a3b-thinking | 8.129 |
+| gemini-3-flash-preview | 8.100 |
 | gemma-3-27b-it | 8.100 |
 | mistral-medium-2505 | 8.100 |
 | QwenQwen3-235B-A22B | 8.100 |

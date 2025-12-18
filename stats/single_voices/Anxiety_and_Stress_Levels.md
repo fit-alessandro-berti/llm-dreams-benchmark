@@ -99,6 +99,7 @@
 | deepseek-aiDeepSeek-R1-Zero | 6.914 |
 | deepseek-aiDeepSeek-V3 | 6.914 |
 | gemini-2.5-flash-lite-preview-06-17 | 6.900 |
+| gemini-3-flash-preview | 6.900 |
 | chatgpt-4o-latest-2025-04-26 | 6.886 |
 | qwenqwen3-30b-a3b-instruct-2507 | 6.886 |
 | gemini-1.5-flash-002 | 6.857 |

@@ -72,6 +72,7 @@
 | o1-pro-2024-12-17 | 8.729 |
 | ministral-8b-2410 | 8.714 |
 | gemini-2.5-pro-preview-06-05 | 8.686 |
+| gemini-3-flash-preview | 8.686 |
 | mistral-small-2503 | 8.686 |
 | o1-2024-12-17 | 8.686 |
 | qwenqwen3-30b-a3b-instruct-2507 | 8.686 |

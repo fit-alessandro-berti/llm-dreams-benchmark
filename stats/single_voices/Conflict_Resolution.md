@@ -73,6 +73,7 @@
 | gemini-2.5-pro-preview-05-06 | 8.071 |
 | open-mixtral-8x22b | 8.071 |
 | qwenqwen3-30b-a3b-instruct-2507 | 8.057 |
+| gemini-3-flash-preview | 8.057 |
 | minimaxminimax-m2free | 8.057 |
 | o1-2024-12-05 | 8.043 |
 | qwenqwen3-next-80b-a3b-instruct | 8.043 |

@@ -99,6 +99,7 @@
 | nvidiallama-3.1-nemotron-ultra-253b-v1free | 7.514 |
 | gemini-1.5-flash-002 | 7.500 |
 | qwen2.5-7b-instruct-1m | 7.500 |
+| gemini-3-flash-preview | 7.486 |
 | minimaxminimax-m2free | 7.486 |
 | x-aigrok-code-fast-1 | 7.486 |
 | nvidiaLlama-3.1-Nemotron-70B-Instruct | 7.471 |

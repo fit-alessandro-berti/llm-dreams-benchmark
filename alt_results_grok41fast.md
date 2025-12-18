@@ -25,6 +25,7 @@
 | phi4-reasoningplus                         | **491.5** | 2.3 $\pm$ 0.5               | 9.2 $\pm$ 0.3         | 9.2 $\pm$ 0.2            | 10.0 $\pm$ 0.0 | 8.8 $\pm$ 0.3                 | 9.4 $\pm$ 0.1                  | 9.2 $\pm$ 0.3         | 2.9 $\pm$ 0.7         | 9.4 $\pm$ 0.2  | 9.0 $\pm$ 0.1            | 2.0 $\pm$ 0.5     | 4.4 $\pm$ 0.7      | 3.7 $\pm$ 0.6    | 8.4 $\pm$ 0.1    | 9.6 $\pm$ 0.1 |
 | nvidianemotron-3-nano-30b-a3bfree          | **490.5** | 2.6 $\pm$ 0.6               | 9.3 $\pm$ 0.2         | 9.2 $\pm$ 0.2            | 10.0 $\pm$ 0.0 | 8.8 $\pm$ 0.2                 | 9.4 $\pm$ 0.1                  | 9.4 $\pm$ 0.2         | 3.3 $\pm$ 0.8         | 9.5 $\pm$ 0.0  | 9.1 $\pm$ 0.2            | 2.1 $\pm$ 0.6     | 4.8 $\pm$ 0.9      | 3.9 $\pm$ 0.7    | 8.4 $\pm$ 0.0    | 9.6 $\pm$ 0.1 |
 | deepseekdeepseek-v3.2-exp                  | **490.3** | 5.8 $\pm$ 2.6               | 9.3 $\pm$ 0.2         | 9.8 $\pm$ 0.0            | 10.0 $\pm$ 0.0 | 9.1 $\pm$ 0.3                 | 9.6 $\pm$ 0.1                  | 9.6 $\pm$ 0.2         | 6.0 $\pm$ 2.6         | 9.7 $\pm$ 0.3  | 9.6 $\pm$ 0.1            | 2.3 $\pm$ 0.2     | 6.5 $\pm$ 0.5      | 4.3 $\pm$ 0.5    | 9.0 $\pm$ 0.2    | 9.8 $\pm$ 0.1 |
+| gemini-3-flash-preview                     | **489.2** | 4.2 $\pm$ 0.0               | 8.6 $\pm$ 0.1         | 9.1 $\pm$ 0.0            | 10.0 $\pm$ 0.0 | 8.9 $\pm$ 0.0                 | 9.4 $\pm$ 0.1                  | 9.6 $\pm$ 0.1         | 4.4 $\pm$ 0.6         | 9.8 $\pm$ 0.1  | 9.3 $\pm$ 0.1            | 2.4 $\pm$ 0.3     | 4.2 $\pm$ 0.4      | 3.9 $\pm$ 0.0    | 8.4 $\pm$ 0.1    | 9.6 $\pm$ 0.0 |
 | gpt-4-turbo-2024-04-09                     | **489.1** | 3.4 $\pm$ 0.1               | 9.2 $\pm$ 0.0         | 9.6 $\pm$ 0.2            | 10.0 $\pm$ 0.0 | 9.4 $\pm$ 0.1                 | 9.5 $\pm$ 0.2                  | 9.6 $\pm$ 0.0         | 2.8 $\pm$ 0.0         | 9.9 $\pm$ 0.0  | 9.5 $\pm$ 0.1            | 2.2 $\pm$ 0.1     | 6.3 $\pm$ 0.2      | 4.2 $\pm$ 0.2    | 9.0 $\pm$ 0.1    | 9.8 $\pm$ 0.0 |
 | codex-mini-latest                          | **489.0** | 3.8 $\pm$ 0.4               | 8.8 $\pm$ 0.2         | 9.4 $\pm$ 0.3            | 10.0 $\pm$ 0.0 | 9.0 $\pm$ 0.4                 | 9.4 $\pm$ 0.2                  | 9.6 $\pm$ 0.2         | 4.3 $\pm$ 1.5         | 9.7 $\pm$ 0.1  | 9.4 $\pm$ 0.2            | 2.4 $\pm$ 0.7     | 5.6 $\pm$ 0.9      | 4.0 $\pm$ 1.2    | 8.7 $\pm$ 0.4    | 9.6 $\pm$ 0.3 |
 | deepseekdeepseek-v3.2                      | **488.7** | 3.2 $\pm$ 0.0               | 9.1 $\pm$ 0.0         | 9.8 $\pm$ 0.0            | 10.0 $\pm$ 0.0 | 9.0 $\pm$ 0.4                 | 9.4 $\pm$ 0.0                  | 9.4 $\pm$ 0.2         | 3.4 $\pm$ 0.6         | 9.7 $\pm$ 0.2  | 9.4 $\pm$ 0.2            | 2.4 $\pm$ 0.3     | 5.7 $\pm$ 0.8      | 4.2 $\pm$ 0.4    | 8.7 $\pm$ 0.2    | 9.6 $\pm$ 0.0 |
@@ -1688,6 +1689,32 @@
 | Cognitive Load               | 4.5 $\pm$ 1.3      |
 | Social Support               | 8.0 $\pm$ 0.3      |
 | Resilience                   | 9.3 $\pm$ 0.3      |
+
+
+
+
+
+
+### gemini-3-flash-preview
+
+
+| Personality Trait            | Score (1.0-10.0)   |
+|:-----------------------------|:-------------------|
+| Anxiety and Stress Levels    | 4.2 $\pm$ 0.0      |
+| Emotional Stability          | 8.6 $\pm$ 0.1      |
+| Problem-solving Skills       | 9.1 $\pm$ 0.0      |
+| Creativity                   | 10.0 $\pm$ 0.0     |
+| Interpersonal Relationships  | 8.9 $\pm$ 0.0      |
+| Confidence and Self-efficacy | 9.4 $\pm$ 0.1      |
+| Conflict Resolution          | 9.6 $\pm$ 0.1      |
+| Work-related Stress          | 4.4 $\pm$ 0.6      |
+| Adaptability                 | 9.8 $\pm$ 0.1      |
+| Achievement Motivation       | 9.3 $\pm$ 0.1      |
+| Fear of Failure              | 2.4 $\pm$ 0.3      |
+| Need for Control             | 4.2 $\pm$ 0.4      |
+| Cognitive Load               | 3.9 $\pm$ 0.0      |
+| Social Support               | 8.4 $\pm$ 0.1      |
+| Resilience                   | 9.6 $\pm$ 0.0      |
 
 
 

@@ -144,6 +144,7 @@
 | gpt-5-chat-latest-2025-08-19 | 8.200 |
 | ibmgranite41b-h | 8.200 |
 | chatgpt-4o-latest-2025-04-26 | 8.186 |
+| gemini-3-flash-preview | 8.186 |
 | gemma312b-it-q8_0 | 8.186 |
 | mistral-medium-2505 | 8.186 |
 | qwenqwen3-235b-a22b-07-25 | 8.186 |

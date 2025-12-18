@@ -196,6 +196,7 @@
 | gpt-4-0125-preview | 5.371 |
 | o3-pro-2025-06-10 | 5.357 |
 | phi4-reasoningplus | 5.343 |
+| gemini-3-flash-preview | 5.314 |
 | gemma312b-it-q8_0 | 5.314 |
 | gpt-5-nano-2025-08-07 | 5.314 |
 | Grok-4-fast | 5.314 |

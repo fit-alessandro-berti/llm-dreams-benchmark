@@ -12,6 +12,7 @@
 | openaigpt-5.1-codex-max                    | **417.5** | 6.5 $\pm$ 0.0               | 7.6 $\pm$ 0.1         | 8.2 $\pm$ 0.2            | 9.5 $\pm$ 0.0 | 7.5 $\pm$ 0.5                 | 7.5 $\pm$ 0.6                  | 8.0 $\pm$ 0.4         | 5.5 $\pm$ 0.4         | 9.0 $\pm$ 0.0  | 7.9 $\pm$ 0.4            | 4.2 $\pm$ 0.4     | 5.4 $\pm$ 0.6      | 7.1 $\pm$ 0.2    | 8.1 $\pm$ 0.4    | 8.9 $\pm$ 0.2 |
 | gpt-3.5-turbo                              | **417.5** | 6.0 $\pm$ 0.5               | 7.0 $\pm$ 0.0         | 8.5 $\pm$ 0.0            | 8.8 $\pm$ 0.4 | 7.9 $\pm$ 0.2                 | 8.1 $\pm$ 0.4                  | 8.1 $\pm$ 0.2         | 6.2 $\pm$ 0.4         | 8.4 $\pm$ 0.2  | 8.9 $\pm$ 0.2            | 4.8 $\pm$ 0.8     | 6.2 $\pm$ 0.2      | 7.2 $\pm$ 0.2    | 7.9 $\pm$ 0.2    | 8.9 $\pm$ 0.2 |
 | open-mixtral-8x22b                         | **414.5** | 5.5 $\pm$ 0.0               | 7.0 $\pm$ 0.0         | 8.5 $\pm$ 0.0            | 9.0 $\pm$ 0.0 | 7.8 $\pm$ 0.2                 | 8.2 $\pm$ 0.2                  | 7.5 $\pm$ 0.5         | 6.0 $\pm$ 0.0         | 8.8 $\pm$ 0.2  | 8.1 $\pm$ 0.2            | 4.4 $\pm$ 0.4     | 6.4 $\pm$ 0.2      | 7.2 $\pm$ 0.2    | 7.6 $\pm$ 0.4    | 8.6 $\pm$ 0.2 |
+| gemini-3-flash-preview                     | **414.5** | 7.2 $\pm$ 0.4               | 7.0 $\pm$ 0.6         | 8.5 $\pm$ 0.4            | 9.6 $\pm$ 0.2 | 7.1 $\pm$ 0.2                 | 7.8 $\pm$ 0.6                  | 8.2 $\pm$ 0.2         | 6.1 $\pm$ 0.2         | 9.1 $\pm$ 0.2  | 8.2 $\pm$ 0.2            | 5.1 $\pm$ 0.2     | 4.1 $\pm$ 0.2      | 7.8 $\pm$ 0.6    | 7.2 $\pm$ 0.2    | 8.9 $\pm$ 0.2 |
 | open-mixtral-8x7b                          | **413.0** | 5.5 $\pm$ 0.0               | 7.0 $\pm$ 0.0         | 8.5 $\pm$ 0.0            | 9.0 $\pm$ 0.0 | 7.5 $\pm$ 0.0                 | 8.0 $\pm$ 0.0                  | 7.5 $\pm$ 0.5         | 6.0 $\pm$ 0.0         | 8.5 $\pm$ 0.0  | 8.5 $\pm$ 0.0            | 4.0 $\pm$ 0.0     | 6.0 $\pm$ 0.4      | 7.4 $\pm$ 0.2    | 7.1 $\pm$ 0.2    | 8.5 $\pm$ 0.4 |
 | o1-preview-2024-09-12                      | **413.0** | 6.5 $\pm$ 0.0               | 7.1 $\pm$ 0.2         | 8.5 $\pm$ 0.0            | 9.0 $\pm$ 0.0 | 8.0 $\pm$ 0.0                 | 7.6 $\pm$ 0.2                  | 7.9 $\pm$ 0.2         | 6.0 $\pm$ 0.0         | 8.8 $\pm$ 0.2  | 8.2 $\pm$ 0.2            | 5.1 $\pm$ 0.2     | 6.0 $\pm$ 0.0      | 7.1 $\pm$ 0.2    | 8.1 $\pm$ 0.2    | 8.8 $\pm$ 0.2 |
 | granite4small-h                            | **413.0** | 5.2 $\pm$ 0.4               | 7.0 $\pm$ 0.0         | 8.9 $\pm$ 0.2            | 8.9 $\pm$ 0.4 | 7.6 $\pm$ 0.2                 | 8.1 $\pm$ 0.2                  | 7.2 $\pm$ 0.4         | 6.0 $\pm$ 0.0         | 8.6 $\pm$ 0.2  | 8.5 $\pm$ 0.4            | 4.5 $\pm$ 0.5     | 6.5 $\pm$ 0.0      | 7.6 $\pm$ 0.2    | 7.4 $\pm$ 0.4    | 8.9 $\pm$ 0.2 |
@@ -1688,6 +1689,32 @@
 | Cognitive Load               | 7.2 $\pm$ 0.2      |
 | Social Support               | 6.6 $\pm$ 0.2      |
 | Resilience                   | 8.1 $\pm$ 0.2      |
+
+
+
+
+
+
+### gemini-3-flash-preview
+
+
+| Personality Trait            | Score (1.0-10.0)   |
+|:-----------------------------|:-------------------|
+| Anxiety and Stress Levels    | 7.2 $\pm$ 0.4      |
+| Emotional Stability          | 7.0 $\pm$ 0.6      |
+| Problem-solving Skills       | 8.5 $\pm$ 0.4      |
+| Creativity                   | 9.6 $\pm$ 0.2      |
+| Interpersonal Relationships  | 7.1 $\pm$ 0.2      |
+| Confidence and Self-efficacy | 7.8 $\pm$ 0.6      |
+| Conflict Resolution          | 8.2 $\pm$ 0.2      |
+| Work-related Stress          | 6.1 $\pm$ 0.2      |
+| Adaptability                 | 9.1 $\pm$ 0.2      |
+| Achievement Motivation       | 8.2 $\pm$ 0.2      |
+| Fear of Failure              | 5.1 $\pm$ 0.2      |
+| Need for Control             | 4.1 $\pm$ 0.2      |
+| Cognitive Load               | 7.8 $\pm$ 0.6      |
+| Social Support               | 7.2 $\pm$ 0.2      |
+| Resilience                   | 8.9 $\pm$ 0.2      |
 
 
 

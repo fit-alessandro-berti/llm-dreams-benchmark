@@ -109,6 +109,7 @@
 | ai21jamba-large-1.7 | 5.957 |
 | chatgpt-4o-latest-2025-04-26 | 5.957 |
 | essentialairnj-1-instruct | 5.957 |
+| gemini-3-flash-preview | 5.943 |
 | phi4-mini-reasoning | 5.929 |
 | amazonnova-2-lite-v1 | 5.929 |
 | nousresearchhermes-4-405b | 5.929 |

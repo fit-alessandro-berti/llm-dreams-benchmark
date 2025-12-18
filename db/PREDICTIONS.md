@@ -73,6 +73,7 @@
 | qwen-plus-0428 | 187.109 B params | 271.000 B params | 31.177 B params | 37.000 B params |
 | o1-pro-2024-12-17 | 181.672 B params | 300.000 B params | 11.502 B params | n/a |
 | qwenqwen3-235b-a22b-thinking-2507 | 181.113 B params | 235.000 B params | 22.887 B params | 22.000 B params |
+| gemini-3-flash-preview | 179.670 B params | n/a | 18.926 B params | n/a |
 | o1-2024-12-05 | 177.205 B params | 300.000 B params | 17.609 B params | n/a |
 | nvidiallama-3.1-nemotron-ultra-253b-v1free | 176.347 B params | 253.000 B params | 17.968 B params | n/a |
 | ChatGPT-5.1-Instant-20251113 | 175.461 B params | 200.000 B params | 19.536 B params | 23.000 B params |

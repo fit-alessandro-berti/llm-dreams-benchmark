@@ -107,6 +107,7 @@
 | googlegemma-2-9b-it | 6.900 |
 | falcon33b-instruct-q8_0 | 6.871 |
 | minimaxminimax-m2free | 6.871 |
+| gemini-3-flash-preview | 6.857 |
 | openaigpt-5.1-codex-max | 6.857 |
 | claude-4-opus-20250514 | 6.843 |
 | phi4-mini-reasoning | 6.843 |

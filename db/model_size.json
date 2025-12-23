@@ -446,6 +446,10 @@
   "microsoftphi-4": [
     14
   ],
+  "minimaxminimax-m2.1": [
+    230,
+    10
+  ],
   "minimaxminimax-m2free": [
     230,
     10
@@ -718,5 +722,9 @@
   "z-aiglm-4.5-air": [
     106,
     12
+  ],
+  "z-aiglm-4.7": [
+    355,
+    32
   ]
 }

@@ -38,6 +38,7 @@
 | granite3.28b-instruct-q4_K_M | 8.271 |
 | codex-mini-latest | 8.271 |
 | gpt-4o-mini-2024-07-18 | 8.271 |
+| minimaxminimax-m2.1 | 8.271 |
 | qwenqwen3-max | 8.257 |
 | ChatGPT-5.1-Instant-20251113 | 8.243 |
 | granite4micro-h | 8.229 |
@@ -210,3 +211,4 @@
 | meta-llamaLlama-3.2-1B-Instruct | 5.086 |
 | ibmgranite4350m-h | 4.943 |
 | smollm2360m | 4.900 |
+| z-aiglm-4.7 | 4.329 |

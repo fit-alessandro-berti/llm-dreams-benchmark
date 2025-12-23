@@ -7,6 +7,7 @@
 | mistralaimistral-small-creative | 8.457 |
 | gemini-2.5-flash-preview-09-2025 | 8.443 |
 | gemini-2.0-flash-lite-preview-02-05 | 8.429 |
+| z-aiglm-4.7 | 8.371 |
 | QwenQwen3-235B-A22B | 8.343 |
 | mistral-large-2512 | 8.300 |
 | mistral-small-2506 | 8.243 |
@@ -128,6 +129,7 @@
 | o1-pro-2024-12-17 | 6.657 |
 | devstral-small-2505 | 6.643 |
 | allenaiolmo-3-7b-instruct | 6.643 |
+| minimaxminimax-m2.1 | 6.629 |
 | qwen34b | 6.614 |
 | gpt-3.5-turbo | 6.614 |
 | gpt-5-pro-2025-10-06 | 6.571 |

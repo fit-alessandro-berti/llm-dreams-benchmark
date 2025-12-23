@@ -121,6 +121,7 @@
 | grok-4-1-fast-reasoning | 7.257 |
 | allenaiolmo-3-7b-instruct | 7.229 |
 | claude-3-7-sonnet-20250219 | 7.229 |
+| minimaxminimax-m2.1 | 7.229 |
 | qwenqwen3-next-80b-a3b-thinking | 7.229 |
 | nvidianemotron-nano-9b-v2 | 7.214 |
 | claude-3-7-sonnet-20250219-thinking-high | 7.200 |
@@ -210,3 +211,4 @@
 | ibmgranite4350m-h | 5.714 |
 | moonshotaikimi-k2-thinking | 5.571 |
 | mistralaimistral-small-creative | 5.443 |
+| z-aiglm-4.7 | 5.371 |

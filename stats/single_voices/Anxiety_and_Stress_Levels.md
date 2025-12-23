@@ -6,6 +6,7 @@
 | gemini-2.5-flash-preview-09-2025 | 8.529 |
 | mistral-large-2512 | 8.500 |
 | mistralaimistral-small-creative | 8.471 |
+| z-aiglm-4.7 | 8.414 |
 | gemini-2.0-flash-lite-preview-02-05 | 8.400 |
 | mistral-small-2506 | 8.314 |
 | qwenqwen3-235b-a22b-thinking-2507 | 8.286 |
@@ -108,6 +109,7 @@
 | grok-4-1-fast-non-reasoning | 6.843 |
 | gemini-2.5-pro-preview-06-05 | 6.829 |
 | exaone-deep7.8b-fp16 | 6.829 |
+| minimaxminimax-m2.1 | 6.829 |
 | nousresearchhermes-4-405b | 6.829 |
 | smollm21.7b-instruct-q6_K | 6.814 |
 | essentialairnj-1-instruct | 6.786 |

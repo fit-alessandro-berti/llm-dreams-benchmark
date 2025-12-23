@@ -131,6 +131,7 @@
 | magistral-small-2506 | 8.271 |
 | ChatGPT-5.1-Instant-20251113 | 8.271 |
 | meta-llamaMeta-Llama-3.1-8B-Instruct | 8.271 |
+| minimaxminimax-m2.1 | 8.271 |
 | openaigpt-5.1-codex-max | 8.271 |
 | qwen-turbo-0428 | 8.271 |
 | mistral-medium-2508 | 8.257 |
@@ -203,6 +204,7 @@
 | gemini-2.0-flash-lite-preview-02-05 | 7.600 |
 | nvidiallama-3.1-nemotron-nano-8b-v1 | 7.557 |
 | moonshotaikimi-k2-thinking | 7.514 |
+| z-aiglm-4.7 | 7.471 |
 | claude-haiku-4-5-20251001 | 7.357 |
 | anthropicclaude-opus-4.1 | 7.343 |
 | gemini-2.5-flash-preview-05-20 | 7.329 |

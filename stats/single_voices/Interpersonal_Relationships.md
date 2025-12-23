@@ -100,6 +100,7 @@
 | baiduernie-4.5-21b-a3b | 7.457 |
 | chatgpt-4o-latest-2025-03-26 | 7.443 |
 | meta-llamaMeta-Llama-3.1-405B-Instruct | 7.443 |
+| minimaxminimax-m2.1 | 7.443 |
 | meta-llamaLlama-3.2-3B-Instruct | 7.371 |
 | meta-llamaLlama-3.3-70B-Instruct | 7.371 |
 | gpt-5.2-2025-12-11 | 7.357 |
@@ -210,3 +211,4 @@
 | ibmgranite4350m-h | 5.343 |
 | gemini-2.5-flash-preview-09-2025 | 5.329 |
 | phi4-mini-reasoning | 5.314 |
+| z-aiglm-4.7 | 5.271 |

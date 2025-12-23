@@ -7,6 +7,7 @@
 | phi4-mini-reasoning | 8.600 |
 | Qwen-QwQ-32B | 8.600 |
 | mistralaimistral-small-creative | 8.557 |
+| z-aiglm-4.7 | 8.543 |
 | gemini-2.5-pro-exp-03-25 | 8.471 |
 | mistral-large-2512 | 8.471 |
 | ministral-3b-2512 | 8.443 |
@@ -100,6 +101,7 @@
 | nvidiaLlama-3.1-Nemotron-70B-Instruct | 7.557 |
 | deepseekdeepseek-chat-v3.1 | 7.557 |
 | Gemini-1.5-Pro-Exp-0827 | 7.557 |
+| minimaxminimax-m2.1 | 7.514 |
 | nvidiallama-3.3-nemotron-super-49b-v1 | 7.514 |
 | smollm21.7b-instruct-q6_K | 7.514 |
 | baiduernie-4.5-21b-a3b | 7.514 |

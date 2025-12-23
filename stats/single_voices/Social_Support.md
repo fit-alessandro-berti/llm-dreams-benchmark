@@ -106,6 +106,7 @@
 | exaone-deep7.8b-fp16 | 7.314 |
 | grok-4-1-fast-reasoning | 7.314 |
 | qwenqwen3-max | 7.314 |
+| minimaxminimax-m2.1 | 7.300 |
 | meta-llamaLlama-3.3-70B-Instruct | 7.271 |
 | qwenqwen3-30b-a3b-instruct-2507 | 7.271 |
 | falcon33b-instruct-q8_0 | 7.257 |
@@ -201,6 +202,7 @@
 | mistral-small-2506 | 5.971 |
 | gpt-5-chat-latest-2025-08-07 | 5.943 |
 | essentialairnj-1-instruct | 5.929 |
+| z-aiglm-4.7 | 5.914 |
 | claude-3-5-haiku-20241022 | 5.886 |
 | mistral-large-2512 | 5.857 |
 | QwenQwen3-235B-A22B | 5.700 |

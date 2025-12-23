@@ -107,6 +107,7 @@
 | nvidiaLlama-3.1-Nemotron-70B-Instruct | 6.700 |
 | deepseekdeepseek-chat-v3.1 | 6.700 |
 | Grok-3-beta-thinking-20250303 | 6.700 |
+| minimaxminimax-m2.1 | 6.686 |
 | deepseek-aiDeepSeek-V3 | 6.686 |
 | gpt-4-1106-preview | 6.686 |
 | qwenqwen3-max | 6.657 |
@@ -210,3 +211,4 @@
 | moonshotaikimi-k2-thinking | 4.743 |
 | mistral-large-2512 | 4.743 |
 | mistralaimistral-small-creative | 4.614 |
+| z-aiglm-4.7 | 4.586 |

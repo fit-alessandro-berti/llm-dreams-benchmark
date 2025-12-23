@@ -5,6 +5,7 @@
 | mistralaimistral-small-creative | 8.200 |
 | mistral-large-2512 | 8.100 |
 | gemini-2.0-flash-lite-preview-02-05 | 8.057 |
+| z-aiglm-4.7 | 7.943 |
 | gemini-2.5-flash-preview-09-2025 | 7.929 |
 | arcee-aitrinity-mini | 7.900 |
 | qwenqwen3-235b-a22b-thinking-2507 | 7.871 |
@@ -112,6 +113,7 @@
 | gemini-3-flash-preview | 5.943 |
 | phi4-mini-reasoning | 5.929 |
 | amazonnova-2-lite-v1 | 5.929 |
+| minimaxminimax-m2.1 | 5.929 |
 | nousresearchhermes-4-405b | 5.929 |
 | qwen34b | 5.929 |
 | gpt-5-pro-2025-10-06 | 5.900 |

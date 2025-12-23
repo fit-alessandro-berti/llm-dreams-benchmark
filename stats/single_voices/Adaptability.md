@@ -61,6 +61,7 @@
 | Grok-3-20250426-formal | 8.857 |
 | grok-4-1-fast-non-reasoning | 8.857 |
 | qwenqwen3-coder | 8.857 |
+| minimaxminimax-m2.1 | 8.857 |
 | chatgpt-4o-latest-2025-04-26 | 8.843 |
 | liquidlfm-2.2-6b | 8.843 |
 | nvidianemotron-3-nano-30b-a3bfree | 8.843 |
@@ -205,6 +206,7 @@
 | moonshotaikimi-k2-thinking | 7.686 |
 | phi4-mini-reasoning | 7.671 |
 | mistral-small-2506 | 7.614 |
+| z-aiglm-4.7 | 7.600 |
 | gemini-2.0-flash-lite-preview-02-05 | 7.586 |
 | arcee-aitrinity-mini | 7.371 |
 | smollm2135m | 7.343 |

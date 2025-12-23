@@ -69,6 +69,7 @@
 | nvidianemotron-3-nano-30b-a3bfree | 8.757 |
 | o1-2024-12-05 | 8.743 |
 | qwenqwen3-next-80b-a3b-instruct | 8.743 |
+| minimaxminimax-m2.1 | 8.729 |
 | o1-pro-2024-12-17 | 8.729 |
 | ministral-8b-2410 | 8.714 |
 | gemini-2.5-pro-preview-06-05 | 8.686 |
@@ -202,6 +203,7 @@
 | meta-llamaLlama-3.2-1B-Instruct | 7.286 |
 | phi4-mini-reasoning | 7.271 |
 | anthropicclaude-sonnet-4.5 | 7.243 |
+| z-aiglm-4.7 | 7.200 |
 | claude-3-5-haiku-20241022 | 7.157 |
 | mistral-large-2512 | 7.143 |
 | nvidiallama-3.1-nemotron-nano-8b-v1 | 7.100 |

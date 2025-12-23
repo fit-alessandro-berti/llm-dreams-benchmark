@@ -111,6 +111,7 @@
 | chatgpt-4o-latest-2025-03-26 | 8.343 |
 | deepseek-aiDeepSeek-V3 | 8.329 |
 | grok-4-1-fast-reasoning | 8.329 |
+| minimaxminimax-m2.1 | 8.329 |
 | qwen-turbo-0428 | 8.329 |
 | qwenqwen3-coder | 8.329 |
 | allenaiolmo-3-7b-instruct | 8.314 |
@@ -209,4 +210,5 @@
 | moonshotaikimi-k2-thinking | 7.257 |
 | ibmgranite4350m-h | 7.229 |
 | anthropicclaude-sonnet-4.5 | 7.100 |
+| z-aiglm-4.7 | 6.971 |
 | smollm2135m | 6.671 |

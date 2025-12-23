@@ -1,4 +1,4 @@
-ANSWERING_MODEL_NAME = "xiaomi/mimo-v2-flash:free"
+ANSWERING_MODEL_NAME = "minimax/minimax-m2.1"
 EVALUATING_MODEL_NAME = "gpt-4.1"
 
 

@@ -24,6 +24,7 @@
 | grok-4-1-fast-reasoning | 9.643 |
 | o3-mini-20250131-HIGH | 9.643 |
 | qwenqwen3-30b-a3b-instruct-2507 | 9.643 |
+| z-aiglm-4.7 | 9.643 |
 | gemini-2.5-pro-preview-05-06 | 9.629 |
 | claude-3-5-sonnet-20241022 | 9.629 |
 | o4-mini-2025-04-16 | 9.629 |
@@ -103,6 +104,7 @@
 | gpt-4.1-mini-2025-04-14 | 9.429 |
 | granite3.28b-instruct-q4_K_M | 9.429 |
 | liquidlfm-2.2-6b | 9.429 |
+| minimaxminimax-m2.1 | 9.429 |
 | mistral-large-2411 | 9.429 |
 | x-aigrok-code-fast-1 | 9.429 |
 | z-aiglm-4.5-air | 9.429 |

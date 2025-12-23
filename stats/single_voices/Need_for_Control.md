@@ -106,6 +106,7 @@
 | QwenQwen3-30B-A3B | 6.229 |
 | gpt-4-0613 | 6.229 |
 | qwen2.5-omni-7b | 6.214 |
+| z-aiglm-4.7 | 6.200 |
 | moonshotaikimi-k2-thinking | 6.200 |
 | smollm2135m | 6.200 |
 | chatgpt-4o-latest-2025-01-29 | 6.200 |
@@ -181,6 +182,7 @@
 | qwenqwen3-max | 5.700 |
 | qwenqwen3-next-80b-a3b-thinking | 5.686 |
 | gpt-5-pro-2025-10-06 | 5.629 |
+| minimaxminimax-m2.1 | 5.629 |
 | openaigpt-5.1-codex-max | 5.614 |
 | openaigpt-oss-20b | 5.600 |
 | nvidianemotron-3-nano-30b-a3bfree | 5.571 |

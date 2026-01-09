@@ -126,6 +126,7 @@
 | phi4-mini-reasoning | 6.586 |
 | qwen2.5-7b-instruct-1m | 6.571 |
 | qwen34b | 6.571 |
+| allenaiolmo-3.1-32b-instruct | 6.543 |
 | openaigpt-5.1-codex-max | 6.543 |
 | qwenqwen3-next-80b-a3b-thinking | 6.543 |
 | qwen-max-2025-01-25 | 6.529 |

@@ -139,6 +139,7 @@
 | granite4micro | 6.500 |
 | nvidianemotron-nano-9b-v2 | 6.500 |
 | qwen2.5-7b-instruct | 6.471 |
+| allenaiolmo-3.1-32b-instruct | 6.457 |
 | o1-2024-12-05 | 6.457 |
 | gemini-2.5-flash-lite-preview-09-2025 | 6.457 |
 | gemini-2.0-flash-exp | 6.443 |

@@ -53,6 +53,7 @@
 | falcon310b-instruct-q8_0 | 7.714 |
 | qwenqwen3-coder | 7.700 |
 | qwen2.5-7b-instruct-1m | 7.700 |
+| allenaiolmo-3.1-32b-instruct | 7.686 |
 | falcon37b-instruct-q8_0 | 7.686 |
 | ai21jamba-mini-1.7 | 7.686 |
 | baiduernie-4.5-300b-a47b | 7.657 |

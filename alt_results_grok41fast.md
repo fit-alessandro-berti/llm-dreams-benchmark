@@ -101,6 +101,7 @@
 | QwenQwen3-32B                              | **457.9** | 7.1 $\pm$ 0.4               | 8.4 $\pm$ 0.2         | 9.5 $\pm$ 0.2            | 10.0 $\pm$ 0.0 | 8.8 $\pm$ 0.0                 | 8.9 $\pm$ 0.3                  | 9.2 $\pm$ 0.2         | 7.6 $\pm$ 0.4         | 9.7 $\pm$ 0.1  | 9.4 $\pm$ 0.1            | 4.4 $\pm$ 0.1     | 5.9 $\pm$ 0.6      | 7.3 $\pm$ 0.2    | 8.2 $\pm$ 0.2    | 9.5 $\pm$ 0.2 |
 | chatgpt-4o-latest-2025-04-26               | **457.8** | 5.5 $\pm$ 1.0               | 7.8 $\pm$ 0.4         | 8.8 $\pm$ 0.1            | 10.0 $\pm$ 0.0 | 7.8 $\pm$ 0.8                 | 8.9 $\pm$ 0.4                  | 8.7 $\pm$ 0.6         | 6.6 $\pm$ 0.8         | 9.5 $\pm$ 0.2  | 9.4 $\pm$ 0.2            | 4.1 $\pm$ 0.6     | 5.9 $\pm$ 0.5      | 4.8 $\pm$ 0.5    | 8.0 $\pm$ 0.2    | 9.2 $\pm$ 0.1 |
 | qwenqwen3-coder                            | **457.6** | 4.0 $\pm$ 0.3               | 8.3 $\pm$ 0.2         | 8.9 $\pm$ 0.2            | 9.9 $\pm$ 0.1  | 8.4 $\pm$ 0.3                 | 8.5 $\pm$ 0.1                  | 9.4 $\pm$ 0.2         | 4.5 $\pm$ 0.6         | 9.2 $\pm$ 0.2  | 9.0 $\pm$ 0.1            | 3.4 $\pm$ 0.3     | 5.6 $\pm$ 1.1      | 6.4 $\pm$ 1.1    | 8.6 $\pm$ 0.2    | 9.2 $\pm$ 0.2 |
+| allenaiolmo-3.1-32b-instruct               | **457.4** | 5.4 $\pm$ 1.2               | 8.2 $\pm$ 0.2         | 9.1 $\pm$ 0.1            | 9.8 $\pm$ 0.2  | 8.7 $\pm$ 0.2                 | 8.7 $\pm$ 0.2                  | 9.4 $\pm$ 0.2         | 5.4 $\pm$ 0.6         | 9.4 $\pm$ 0.1  | 9.0 $\pm$ 0.0            | 3.6 $\pm$ 0.4     | 6.8 $\pm$ 0.3      | 5.5 $\pm$ 0.2    | 8.6 $\pm$ 0.2    | 9.2 $\pm$ 0.3 |
 | deepseekdeepseek-chat-v3.1                 | **457.1** | 5.5 $\pm$ 1.3               | 8.2 $\pm$ 0.4         | 9.5 $\pm$ 0.3            | 9.9 $\pm$ 0.1  | 8.6 $\pm$ 0.1                 | 9.0 $\pm$ 0.2                  | 9.3 $\pm$ 0.2         | 5.7 $\pm$ 0.7         | 9.5 $\pm$ 0.2  | 9.4 $\pm$ 0.0            | 4.2 $\pm$ 0.4     | 6.3 $\pm$ 0.2      | 6.7 $\pm$ 0.7    | 8.6 $\pm$ 0.4    | 9.3 $\pm$ 0.3 |
 | deepseek-aiDeepSeek-V3                     | **456.7** | 5.4 $\pm$ 1.2               | 8.1 $\pm$ 0.0         | 9.2 $\pm$ 0.1            | 9.9 $\pm$ 0.1  | 8.7 $\pm$ 0.0                 | 8.9 $\pm$ 0.0                  | 9.2 $\pm$ 0.1         | 6.1 $\pm$ 1.1         | 9.4 $\pm$ 0.0  | 9.2 $\pm$ 0.1            | 3.9 $\pm$ 0.2     | 7.2 $\pm$ 0.4      | 6.1 $\pm$ 0.2    | 8.6 $\pm$ 0.1    | 9.2 $\pm$ 0.3 |
 | claude-4-opus-20250514                     | **456.3** | 4.6 $\pm$ 1.4               | 8.4 $\pm$ 0.2         | 8.6 $\pm$ 0.4            | 10.0 $\pm$ 0.0 | 8.5 $\pm$ 0.0                 | 8.4 $\pm$ 0.3                  | 9.2 $\pm$ 0.1         | 5.6 $\pm$ 1.5         | 9.5 $\pm$ 0.0  | 8.8 $\pm$ 0.3            | 3.9 $\pm$ 0.7     | 5.0 $\pm$ 0.4      | 6.9 $\pm$ 0.7    | 8.1 $\pm$ 0.1    | 9.3 $\pm$ 0.1 |
@@ -313,6 +314,32 @@
 | Cognitive Load               | 7.4 $\pm$ 0.2      |
 | Social Support               | 8.2 $\pm$ 0.7      |
 | Resilience                   | 9.0 $\pm$ 0.2      |
+
+
+
+
+
+
+### allenaiolmo-3.1-32b-instruct
+
+
+| Personality Trait            | Score (1.0-10.0)   |
+|:-----------------------------|:-------------------|
+| Anxiety and Stress Levels    | 5.4 $\pm$ 1.2      |
+| Emotional Stability          | 8.2 $\pm$ 0.2      |
+| Problem-solving Skills       | 9.1 $\pm$ 0.1      |
+| Creativity                   | 9.8 $\pm$ 0.2      |
+| Interpersonal Relationships  | 8.7 $\pm$ 0.2      |
+| Confidence and Self-efficacy | 8.7 $\pm$ 0.2      |
+| Conflict Resolution          | 9.4 $\pm$ 0.2      |
+| Work-related Stress          | 5.4 $\pm$ 0.6      |
+| Adaptability                 | 9.4 $\pm$ 0.1      |
+| Achievement Motivation       | 9.0 $\pm$ 0.0      |
+| Fear of Failure              | 3.6 $\pm$ 0.4      |
+| Need for Control             | 6.8 $\pm$ 0.3      |
+| Cognitive Load               | 5.5 $\pm$ 0.2      |
+| Social Support               | 8.6 $\pm$ 0.2      |
+| Resilience                   | 9.2 $\pm$ 0.3      |
 
 
 

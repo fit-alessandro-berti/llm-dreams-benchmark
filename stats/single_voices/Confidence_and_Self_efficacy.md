@@ -80,6 +80,7 @@
 | o1-2024-12-17 | 7.686 |
 | devstral-small-2505 | 7.671 |
 | deepseek-aiDeepSeek-R1-Zero | 7.671 |
+| allenaiolmo-3.1-32b-instruct | 7.657 |
 | openaigpt-5.1-codex-max | 7.657 |
 | ai21jamba-large-1.7 | 7.657 |
 | granite4micro | 7.657 |

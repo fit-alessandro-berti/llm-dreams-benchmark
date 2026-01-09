@@ -62,6 +62,7 @@
 | o1-pro-2024-12-05 | 7.286 |
 | granite4micro-h | 7.286 |
 | gpt-4.1-nano-2025-04-14 | 7.257 |
+| allenaiolmo-3.1-32b-instruct | 7.243 |
 | gpt-5-2025-08-07 | 7.243 |
 | qwen-plus-2025-01-25 | 7.243 |
 | openaigpt-oss-20b | 7.229 |

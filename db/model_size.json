@@ -74,6 +74,9 @@
   "allenaiolmo-3-7b-think": [
     7
   ],
+  "allenaiolmo-3.1-32b-instruct": [
+    32
+  ],
   "amazonnova-2-lite-v1": [],
   "anthropicclaude-opus-4.1": [
     2000,

@@ -139,6 +139,7 @@
 | falcon33b-instruct-q8_0 | 5.614 |
 | nvidiaLlama-3.1-Nemotron-70B-Instruct | 5.600 |
 | baiduernie-4.5-300b-a47b | 5.514 |
+| allenaiolmo-3.1-32b-instruct | 5.471 |
 | ChatGPT-5.1-Instant-20251113 | 5.471 |
 | o1-2024-12-05 | 5.457 |
 | o1-2024-12-17 | 5.457 |

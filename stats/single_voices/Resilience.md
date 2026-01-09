@@ -71,6 +71,7 @@
 | qwenqwen3-next-80b-a3b-instruct | 8.743 |
 | minimaxminimax-m2.1 | 8.729 |
 | o1-pro-2024-12-17 | 8.729 |
+| allenaiolmo-3.1-32b-instruct | 8.714 |
 | ministral-8b-2410 | 8.714 |
 | gemini-2.5-pro-preview-06-05 | 8.686 |
 | gemini-3-flash-preview | 8.686 |

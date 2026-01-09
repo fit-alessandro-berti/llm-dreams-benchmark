@@ -91,6 +91,7 @@
 | gemini-1.5-flash-8b | 8.471 |
 | gpt-4.5-preview | 8.471 |
 | QwenQwen3-32B | 8.471 |
+| allenaiolmo-3.1-32b-instruct | 8.457 |
 | deepseekdeepseek-r1 | 8.457 |
 | falcon33b-instruct-q8_0 | 8.457 |
 | nvidiallama-3.3-nemotron-super-49b-v1 | 8.457 |

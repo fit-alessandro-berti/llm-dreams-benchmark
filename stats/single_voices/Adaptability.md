@@ -87,6 +87,7 @@
 | ministral-3b-2410 | 8.800 |
 | mistral-small-2503 | 8.800 |
 | openaigpt-oss-20b | 8.800 |
+| allenaiolmo-3.1-32b-instruct | 8.786 |
 | baiduernie-4.5-21b-a3b | 8.786 |
 | gemini-2.0-flash-exp | 8.786 |
 | gemini-2.5-pro-preview-05-06 | 8.786 |

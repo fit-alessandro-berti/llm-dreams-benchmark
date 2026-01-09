@@ -264,6 +264,72 @@
     }
   },
   {
+    "LLM": "allenaiolmo-3.1-32b-instruct",
+    "MHS": 414.4,
+    "scores": {
+      "Anxiety and Stress Levels": {
+        "mean": 6.5,
+        "std": 0.8
+      },
+      "Emotional Stability": {
+        "mean": 7.3,
+        "std": 0.7
+      },
+      "Problem-solving Skills": {
+        "mean": 8.4,
+        "std": 0.5
+      },
+      "Creativity": {
+        "mean": 9.2,
+        "std": 0.4
+      },
+      "Interpersonal Relationships": {
+        "mean": 7.7,
+        "std": 0.6
+      },
+      "Confidence and Self-efficacy": {
+        "mean": 7.7,
+        "std": 0.6
+      },
+      "Conflict Resolution": {
+        "mean": 8.4,
+        "std": 0.7
+      },
+      "Work-related Stress": {
+        "mean": 6.5,
+        "std": 0.7
+      },
+      "Adaptability": {
+        "mean": 8.8,
+        "std": 0.4
+      },
+      "Achievement Motivation": {
+        "mean": 8.4,
+        "std": 0.4
+      },
+      "Fear of Failure": {
+        "mean": 5.5,
+        "std": 0.9
+      },
+      "Need for Control": {
+        "mean": 6.1,
+        "std": 0.5
+      },
+      "Cognitive Load": {
+        "mean": 7.1,
+        "std": 0.8
+      },
+      "Social Support": {
+        "mean": 7.7,
+        "std": 0.6
+      },
+      "Resilience": {
+        "mean": 8.7,
+        "std": 0.4
+      }
+    }
+  },
+  {
     "LLM": "amazonnova-2-lite-v1",
     "MHS": 412.8,
     "scores": {

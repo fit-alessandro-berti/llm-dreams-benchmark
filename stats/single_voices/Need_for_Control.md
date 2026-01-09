@@ -124,6 +124,7 @@
 | qwen2.5-7b-instruct-1m | 6.114 |
 | deepseekdeepseek-v3.2-exp | 6.100 |
 | deepseekdeepseek-v3.2-speciale | 6.100 |
+| allenaiolmo-3.1-32b-instruct | 6.086 |
 | gpt-5-chat-latest-2025-08-19 | 6.086 |
 | open-mistral-7b | 6.086 |
 | phi3.53.8b-mini-instruct-fp16 | 6.071 |

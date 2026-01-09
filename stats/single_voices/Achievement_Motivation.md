@@ -90,6 +90,7 @@
 | granite4micro-h | 8.457 |
 | o1-pro-2024-12-17 | 8.457 |
 | o3-mini-20250131-HIGH | 8.443 |
+| allenaiolmo-3.1-32b-instruct | 8.443 |
 | openaigpt-oss-20b | 8.443 |
 | deepseekdeepseek-r1 | 8.429 |
 | deepseekdeepseek-v3.2-speciale | 8.429 |

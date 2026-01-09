@@ -171,6 +171,7 @@
 | mistral-medium-2505 | 9.243 |
 | gpt-4-1106-preview | 9.229 |
 | gpt-4.1-nano-2025-04-14 | 9.229 |
+| allenaiolmo-3.1-32b-instruct | 9.229 |
 | codestral-2501 | 9.229 |
 | gpt-4o-mini-2024-11-05 | 9.214 |
 | Grok-3-20250426-formal | 9.214 |

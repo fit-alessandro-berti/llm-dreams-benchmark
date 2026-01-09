@@ -22,6 +22,7 @@
 | gpt-5-mini-2025-08-07 | 8.414 |
 | amazonnova-2-lite-v1 | 8.400 |
 | qwen2.5-14b-instruct | 8.400 |
+| allenaiolmo-3.1-32b-instruct | 8.400 |
 | gpt-3.5-turbo | 8.400 |
 | gpt-5-2025-08-07 | 8.371 |
 | mistral-large-2407 | 8.371 |

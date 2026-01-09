@@ -66,6 +66,7 @@
 | o1-2024-12-17 | 7.757 |
 | qwen-plus-2025-01-25 | 7.757 |
 | Grok-3-20250426-concise | 7.743 |
+| allenaiolmo-3.1-32b-instruct | 7.729 |
 | amazonnova-2-lite-v1 | 7.729 |
 | qwen2.5-7b-instruct-1m | 7.729 |
 | nvidiaLlama-3.1-Nemotron-70B-Instruct | 7.714 |

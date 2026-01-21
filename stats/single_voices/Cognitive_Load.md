@@ -151,6 +151,7 @@
 | ministral-8b-2410 | 7.186 |
 | openaigpt-5.1-codex-max | 7.186 |
 | deepseekdeepseek-v3.2-speciale | 7.157 |
+| openaigpt-5.2-codex | 7.143 |
 | granite4micro-h | 7.129 |
 | allenaiolmo-3.1-32b-instruct | 7.114 |
 | gemini-2.5-pro-preview-06-05 | 7.114 |

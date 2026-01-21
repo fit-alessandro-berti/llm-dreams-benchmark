@@ -89,6 +89,7 @@
 | Grok-3-20250426-concise | 8.643 |
 | nvidiallama-3.1-nemotron-ultra-253b-v1free | 8.643 |
 | nousresearchhermes-4-70b | 8.629 |
+| openaigpt-5.2-codex | 8.629 |
 | qwen2.5-7b-instruct-1m | 8.629 |
 | qwenqwen3-coder | 8.629 |
 | openaigpt-oss-20b | 8.629 |

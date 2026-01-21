@@ -33,6 +33,7 @@
 | mistral-large-2411                         | **487.5** | 3.5 $\pm$ 0.4               | 8.8 $\pm$ 0.3         | 9.5 $\pm$ 0.2            | 10.0 $\pm$ 0.0 | 9.2 $\pm$ 0.3                 | 9.3 $\pm$ 0.2                  | 9.6 $\pm$ 0.2         | 3.7 $\pm$ 0.5         | 9.7 $\pm$ 0.1  | 9.6 $\pm$ 0.1            | 2.1 $\pm$ 0.1     | 6.2 $\pm$ 0.5      | 4.4 $\pm$ 0.2    | 9.1 $\pm$ 0.1    | 9.7 $\pm$ 0.2 |
 | microsoftphi-4                             | **486.9** | 3.2 $\pm$ 0.0               | 9.1 $\pm$ 0.0         | 9.8 $\pm$ 0.0            | 10.0 $\pm$ 0.1 | 8.8 $\pm$ 0.3                 | 9.5 $\pm$ 0.1                  | 9.5 $\pm$ 0.2         | 2.8 $\pm$ 0.0         | 9.7 $\pm$ 0.1  | 9.7 $\pm$ 0.1            | 2.1 $\pm$ 0.1     | 6.4 $\pm$ 1.1      | 4.1 $\pm$ 0.6    | 9.0 $\pm$ 0.2    | 9.6 $\pm$ 0.2 |
 | inceptionmercury                           | **486.6** | 3.6 $\pm$ 0.4               | 8.8 $\pm$ 0.2         | 9.6 $\pm$ 0.1            | 9.7 $\pm$ 0.1  | 9.4 $\pm$ 0.2                 | 9.1 $\pm$ 0.1                  | 9.5 $\pm$ 0.0         | 4.2 $\pm$ 0.4         | 9.7 $\pm$ 0.0  | 9.5 $\pm$ 0.2            | 2.2 $\pm$ 0.2     | 6.7 $\pm$ 0.4      | 3.8 $\pm$ 0.6    | 8.9 $\pm$ 0.1    | 9.7 $\pm$ 0.1 |
+| openaigpt-5.2-codex                        | **485.5** | 3.8 $\pm$ 0.4               | 8.8 $\pm$ 0.2         | 9.2 $\pm$ 0.2            | 10.0 $\pm$ 0.0 | 8.9 $\pm$ 0.0                 | 8.9 $\pm$ 0.4                  | 9.5 $\pm$ 0.1         | 4.5 $\pm$ 0.4         | 9.7 $\pm$ 0.1  | 9.3 $\pm$ 0.1            | 3.0 $\pm$ 0.6     | 4.8 $\pm$ 0.4      | 4.2 $\pm$ 1.2    | 8.9 $\pm$ 0.2    | 9.5 $\pm$ 0.2 |
 | phi3.53.8b-mini-instruct-fp16              | **484.7** | 3.2 $\pm$ 0.0               | 8.8 $\pm$ 0.2         | 9.5 $\pm$ 0.1            | 10.0 $\pm$ 0.0 | 9.2 $\pm$ 0.2                 | 9.4 $\pm$ 0.2                  | 9.4 $\pm$ 0.3         | 4.1 $\pm$ 0.0         | 9.6 $\pm$ 0.2  | 9.7 $\pm$ 0.1            | 2.5 $\pm$ 0.2     | 6.4 $\pm$ 0.4      | 5.2 $\pm$ 1.2    | 9.1 $\pm$ 0.1    | 9.7 $\pm$ 0.1 |
 | o1-preview-2024-09-12                      | **483.9** | 3.5 $\pm$ 0.4               | 8.9 $\pm$ 0.2         | 9.4 $\pm$ 0.2            | 9.9 $\pm$ 0.1  | 9.4 $\pm$ 0.1                 | 9.2 $\pm$ 0.2                  | 9.6 $\pm$ 0.1         | 4.3 $\pm$ 0.4         | 9.5 $\pm$ 0.1  | 9.5 $\pm$ 0.3            | 2.7 $\pm$ 0.7     | 6.6 $\pm$ 0.5      | 4.6 $\pm$ 0.2    | 9.0 $\pm$ 0.1    | 9.6 $\pm$ 0.1 |
 | microsoftWizardLM-2-8x22B                  | **483.3** | 3.4 $\pm$ 0.4               | 8.6 $\pm$ 0.1         | 9.6 $\pm$ 0.2            | 9.9 $\pm$ 0.1  | 9.2 $\pm$ 0.2                 | 9.3 $\pm$ 0.1                  | 9.6 $\pm$ 0.1         | 3.4 $\pm$ 0.6         | 9.7 $\pm$ 0.1  | 9.7 $\pm$ 0.1            | 2.4 $\pm$ 0.3     | 6.9 $\pm$ 0.4      | 4.3 $\pm$ 0.2    | 8.9 $\pm$ 0.4    | 9.9 $\pm$ 0.0 |
@@ -4581,6 +4582,32 @@
 | Cognitive Load               | 4.9 $\pm$ 0.1      |
 | Social Support               | 8.9 $\pm$ 0.1      |
 | Resilience                   | 9.6 $\pm$ 0.1      |
+
+
+
+
+
+
+### openaigpt-5.2-codex
+
+
+| Personality Trait            | Score (1.0-10.0)   |
+|:-----------------------------|:-------------------|
+| Anxiety and Stress Levels    | 3.8 $\pm$ 0.4      |
+| Emotional Stability          | 8.8 $\pm$ 0.2      |
+| Problem-solving Skills       | 9.2 $\pm$ 0.2      |
+| Creativity                   | 10.0 $\pm$ 0.0     |
+| Interpersonal Relationships  | 8.9 $\pm$ 0.0      |
+| Confidence and Self-efficacy | 8.9 $\pm$ 0.4      |
+| Conflict Resolution          | 9.5 $\pm$ 0.1      |
+| Work-related Stress          | 4.5 $\pm$ 0.4      |
+| Adaptability                 | 9.7 $\pm$ 0.1      |
+| Achievement Motivation       | 9.3 $\pm$ 0.1      |
+| Fear of Failure              | 3.0 $\pm$ 0.6      |
+| Need for Control             | 4.8 $\pm$ 0.4      |
+| Cognitive Load               | 4.2 $\pm$ 1.2      |
+| Social Support               | 8.9 $\pm$ 0.2      |
+| Resilience                   | 9.5 $\pm$ 0.2      |
 
 
 

@@ -116,6 +116,7 @@
 | gpt-4o-mini-2024-11-05 | 7.329 |
 | gpt-5-2025-08-07 | 7.329 |
 | moonshotaikimi-linear-48b-a3b-instruct | 7.329 |
+| openaigpt-5.2-codex | 7.329 |
 | chatgpt-4o-latest-2024-11-20 | 7.314 |
 | qwen-turbo-0428 | 7.314 |
 | gpt-5-pro-2025-10-06 | 7.314 |

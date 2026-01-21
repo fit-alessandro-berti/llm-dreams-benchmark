@@ -140,6 +140,7 @@
 | gpt-4.1-nano-2025-04-14 | 6.500 |
 | granite4micro | 6.500 |
 | nvidianemotron-nano-9b-v2 | 6.500 |
+| openaigpt-5.2-codex | 6.500 |
 | qwen2.5-7b-instruct | 6.471 |
 | allenaiolmo-3.1-32b-instruct | 6.457 |
 | o1-2024-12-05 | 6.457 |

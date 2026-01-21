@@ -70,6 +70,7 @@
 | ministral-3b-2410 | 7.200 |
 | granite4micro | 7.171 |
 | o1-2024-12-05 | 7.157 |
+| openaigpt-5.2-codex | 7.114 |
 | ChatGPT-5.1-Instant-20251113 | 7.114 |
 | gemini-2.0-flash-exp | 7.100 |
 | qwen2.5-7b-instruct | 7.086 |

@@ -135,6 +135,7 @@
 | nvidiallama-3.1-nemotron-ultra-253b-v1free | 5.700 |
 | o1-pro-2024-12-17 | 5.671 |
 | gemini-1.5-flash-8b | 5.657 |
+| openaigpt-5.2-codex | 5.643 |
 | openaigpt-5.1-codex-max | 5.629 |
 | gpt-4.1-nano-2025-04-14 | 5.629 |
 | chatgpt-4o-latest-2025-03-26 | 5.614 |

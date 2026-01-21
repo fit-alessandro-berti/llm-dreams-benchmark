@@ -32,6 +32,7 @@
 | Grok-4.1-20251118 | 9.614 |
 | mistral-medium-2508 | 9.614 |
 | openaigpt-5.1-codex-max | 9.614 |
+| openaigpt-5.2-codex | 9.614 |
 | QwenQwen3-14B | 9.614 |
 | qwenqwen3-max | 9.614 |
 | qwen34b-instruct-2507-q8_0 | 9.600 |

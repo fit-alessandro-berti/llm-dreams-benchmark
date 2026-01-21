@@ -61,6 +61,7 @@
 | openaigpt-5.1-codex-max | 8.171 |
 | qwen-turbo-2024-11-01 | 8.171 |
 | open-mixtral-8x7b | 8.157 |
+| openaigpt-5.2-codex | 8.157 |
 | o1-pro-2024-12-05 | 8.143 |
 | o1-pro-2024-12-17 | 8.143 |
 | googlegemma-2-9b-it | 8.129 |

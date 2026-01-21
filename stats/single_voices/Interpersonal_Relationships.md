@@ -87,6 +87,7 @@
 | qwenqwen3-coder | 7.600 |
 | devstral-small-2505 | 7.586 |
 | deepseek-aiDeepSeek-V3 | 7.571 |
+| openaigpt-5.2-codex | 7.571 |
 | granite4tiny-h | 7.557 |
 | minimaxminimax-m2free | 7.543 |
 | ChatGPT-5.1-Instant-20251113 | 7.529 |

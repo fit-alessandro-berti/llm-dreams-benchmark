@@ -26,6 +26,7 @@
 | o3-mini-20250131-HIGH | 9.000 |
 | gpt-5-nano-2025-08-07 | 8.986 |
 | gpt-5-pro-2025-10-06 | 8.986 |
+| openaigpt-5.2-codex | 8.986 |
 | deepseekdeepseek-v3.2-exp | 8.971 |
 | gpt-4-0125-preview | 8.971 |
 | gpt-4.5-preview | 8.971 |

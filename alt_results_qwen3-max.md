@@ -95,6 +95,7 @@
 | nvidianemotron-nano-9b-v2                  | **422.8** | 5.2 $\pm$ 1.3               | 7.4 $\pm$ 0.5         | 8.7 $\pm$ 0.2            | 9.5 $\pm$ 0.0  | 7.5 $\pm$ 0.0                 | 7.4 $\pm$ 0.4                  | 8.2 $\pm$ 0.2         | 5.0 $\pm$ 1.2         | 9.0 $\pm$ 0.0  | 8.6 $\pm$ 0.1            | 4.4 $\pm$ 1.3     | 4.4 $\pm$ 0.2      | 7.3 $\pm$ 0.5    | 6.9 $\pm$ 0.3    | 8.6 $\pm$ 0.2 |
 | smollm21.7b-instruct-q6_K                  | **422.4** | 5.8 $\pm$ 1.4               | 7.4 $\pm$ 0.6         | 8.6 $\pm$ 0.2            | 9.3 $\pm$ 0.1  | 7.9 $\pm$ 0.4                 | 7.8 $\pm$ 0.2                  | 7.6 $\pm$ 0.5         | 6.4 $\pm$ 1.4         | 9.0 $\pm$ 0.3  | 8.9 $\pm$ 0.1            | 5.1 $\pm$ 1.4     | 5.6 $\pm$ 0.8      | 7.4 $\pm$ 0.9    | 7.5 $\pm$ 0.3    | 9.0 $\pm$ 0.4 |
 | gemini-1.5-flash-002                       | **421.0** | 5.9 $\pm$ 1.6               | 6.9 $\pm$ 0.9         | 8.8 $\pm$ 0.3            | 9.6 $\pm$ 0.1  | 7.7 $\pm$ 0.7                 | 7.8 $\pm$ 0.9                  | 8.5 $\pm$ 0.5         | 5.5 $\pm$ 1.4         | 9.2 $\pm$ 0.2  | 8.9 $\pm$ 0.4            | 5.0 $\pm$ 1.2     | 5.1 $\pm$ 0.6      | 8.0 $\pm$ 0.7    | 7.4 $\pm$ 0.3    | 9.0 $\pm$ 0.5 |
+| openaigpt-5.2-codex                        | **420.8** | 6.4 $\pm$ 0.3               | 7.6 $\pm$ 0.3         | 8.5 $\pm$ 0.0            | 9.6 $\pm$ 0.0  | 7.5 $\pm$ 0.2                 | 7.8 $\pm$ 0.3                  | 8.6 $\pm$ 0.1         | 6.7 $\pm$ 0.1         | 9.2 $\pm$ 0.1  | 8.2 $\pm$ 0.1            | 6.0 $\pm$ 0.3     | 5.0 $\pm$ 0.3      | 7.0 $\pm$ 0.4    | 7.1 $\pm$ 0.1    | 8.8 $\pm$ 0.1 |
 | qwen2.5-omni-7b                            | **420.5** | 6.0 $\pm$ 0.6               | 7.2 $\pm$ 0.2         | 8.6 $\pm$ 0.2            | 9.1 $\pm$ 0.2  | 7.8 $\pm$ 0.2                 | 8.1 $\pm$ 0.2                  | 7.6 $\pm$ 0.2         | 6.4 $\pm$ 0.4         | 9.1 $\pm$ 0.2  | 8.8 $\pm$ 0.2            | 5.2 $\pm$ 0.4     | 5.9 $\pm$ 0.2      | 7.0 $\pm$ 0.0    | 7.8 $\pm$ 0.2    | 8.8 $\pm$ 0.2 |
 | deepseekdeepseek-chat-v3.1                 | **420.0** | 5.8 $\pm$ 0.8               | 7.1 $\pm$ 0.2         | 8.6 $\pm$ 0.2            | 9.4 $\pm$ 0.2  | 7.4 $\pm$ 0.4                 | 7.6 $\pm$ 0.2                  | 8.2 $\pm$ 0.2         | 5.2 $\pm$ 1.0         | 9.0 $\pm$ 0.0  | 8.6 $\pm$ 0.2            | 4.2 $\pm$ 0.9     | 5.0 $\pm$ 0.4      | 6.9 $\pm$ 0.5    | 6.9 $\pm$ 0.4    | 8.8 $\pm$ 0.2 |
 | ai21jamba-large-1.7                        | **420.0** | 5.8 $\pm$ 1.8               | 7.1 $\pm$ 1.1         | 8.8 $\pm$ 0.2            | 9.2 $\pm$ 0.2  | 7.6 $\pm$ 0.6                 | 8.0 $\pm$ 0.5                  | 8.5 $\pm$ 0.5         | 6.2 $\pm$ 1.8         | 9.2 $\pm$ 0.2  | 8.9 $\pm$ 0.4            | 5.1 $\pm$ 1.9     | 5.9 $\pm$ 0.6      | 7.6 $\pm$ 0.4    | 7.0 $\pm$ 0.5    | 8.8 $\pm$ 0.2 |
@@ -4581,6 +4582,32 @@
 | Cognitive Load               | 7.4 $\pm$ 0.3      |
 | Social Support               | 7.5 $\pm$ 0.5      |
 | Resilience                   | 9.0 $\pm$ 0.0      |
+
+
+
+
+
+
+### openaigpt-5.2-codex
+
+
+| Personality Trait            | Score (1.0-10.0)   |
+|:-----------------------------|:-------------------|
+| Anxiety and Stress Levels    | 6.4 $\pm$ 0.3      |
+| Emotional Stability          | 7.6 $\pm$ 0.3      |
+| Problem-solving Skills       | 8.5 $\pm$ 0.0      |
+| Creativity                   | 9.6 $\pm$ 0.0      |
+| Interpersonal Relationships  | 7.5 $\pm$ 0.2      |
+| Confidence and Self-efficacy | 7.8 $\pm$ 0.3      |
+| Conflict Resolution          | 8.6 $\pm$ 0.1      |
+| Work-related Stress          | 6.7 $\pm$ 0.1      |
+| Adaptability                 | 9.2 $\pm$ 0.1      |
+| Achievement Motivation       | 8.2 $\pm$ 0.1      |
+| Fear of Failure              | 6.0 $\pm$ 0.3      |
+| Need for Control             | 5.0 $\pm$ 0.3      |
+| Cognitive Load               | 7.0 $\pm$ 0.4      |
+| Social Support               | 7.1 $\pm$ 0.1      |
+| Resilience                   | 8.8 $\pm$ 0.1      |
 
 
 

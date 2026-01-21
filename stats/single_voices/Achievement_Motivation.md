@@ -157,6 +157,7 @@
 | claude-3-7-sonnet-20250219 | 8.157 |
 | meta-llamallama-4-maverick | 8.143 |
 | qwenqwen3-coder | 8.143 |
+| openaigpt-5.2-codex | 8.129 |
 | Gemini-1.5-Pro-Exp-0801 | 8.129 |
 | grok-3-mini-beta | 8.129 |
 | moonshotaikimi-linear-48b-a3b-instruct | 8.129 |

@@ -101,6 +101,7 @@
 | gpt-4.1-2025-04-14 | 8.429 |
 | Grok-4-fast-20251111 | 8.429 |
 | nvidiallama-3.1-nemotron-ultra-253b-v1free | 8.414 |
+| openaigpt-5.2-codex | 8.414 |
 | gemini-2.0-flash-exp | 8.400 |
 | liquidlfm-2.5-1.2b-thinkingfree | 8.400 |
 | qwen38b | 8.400 |

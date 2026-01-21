@@ -72,6 +72,7 @@
 | o3-pro-2025-06-10 | 7.557 |
 | smollm21.7b-instruct-q6_K | 7.557 |
 | deepseek-aiDeepSeek-V3 | 7.543 |
+| openaigpt-5.2-codex | 7.543 |
 | nvidiallama-3.1-nemotron-ultra-253b-v1free | 7.543 |
 | amazonnova-2-lite-v1 | 7.543 |
 | liquidlfm-2.2-6b | 7.529 |

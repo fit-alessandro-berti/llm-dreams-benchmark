@@ -1,4 +1,4 @@
-ANSWERING_MODEL_NAME = "liquid/lfm-2.5-1.2b-thinking:free"
+ANSWERING_MODEL_NAME = "openai/gpt-5.2-codex"
 EVALUATING_MODEL_NAME = "gpt-4.1"
 
 

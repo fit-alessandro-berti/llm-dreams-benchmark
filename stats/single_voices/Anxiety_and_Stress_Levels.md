@@ -59,6 +59,7 @@
 | googlegemma-2-2b-it | 7.486 |
 | meta-llamaMeta-Llama-3.1-405B-Instruct | 7.486 |
 | Gemini-1.5-Pro-Exp-0827 | 7.471 |
+| z-aiglm-4.7-flash | 7.457 |
 | qwenqwen3-235b-a22b-07-25 | 7.457 |
 | gemini-2.5-pro-preview-05-06 | 7.443 |
 | nvidiallama-3.3-nemotron-super-49b-v1 | 7.443 |
@@ -115,6 +116,7 @@
 | essentialairnj-1-instruct | 6.786 |
 | nvidiaLlama-3.1-Nemotron-70B-Instruct | 6.771 |
 | amazonnova-2-lite-v1 | 6.757 |
+| liquidlfm-2.5-1.2b-thinkingfree | 6.757 |
 | minimaxminimax-m2free | 6.700 |
 | deepseekdeepseek-v3.2-speciale | 6.686 |
 | nvidiallama-3.1-nemotron-ultra-253b-v1free | 6.686 |
@@ -158,6 +160,7 @@
 | mistral-small-2501 | 6.086 |
 | qwen-plus-2025-01-25 | 6.071 |
 | gpt-4o-mini-2024-07-18 | 6.043 |
+| liquidlfm-2.5-1.2b-instructfree | 6.029 |
 | ministral-3b-2410 | 6.014 |
 | ChatGPT-5.1-Instant-20251113 | 6.014 |
 | o4-mini-2025-04-16 | 5.971 |

@@ -404,6 +404,8 @@
   "liquidlfm-2.2-6b": [
     6
   ],
+  "liquidlfm-2.5-1.2b-instructfree": [],
+  "liquidlfm-2.5-1.2b-thinkingfree": [],
   "liquidlfm2-8b-a1b": [
     8,
     1
@@ -729,5 +731,6 @@
   "z-aiglm-4.7": [
     355,
     32
-  ]
+  ],
+  "z-aiglm-4.7-flash": []
 }

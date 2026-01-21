@@ -102,6 +102,7 @@
 | chatgpt-4o-latest-2025-03-26 | 7.443 |
 | meta-llamaMeta-Llama-3.1-405B-Instruct | 7.443 |
 | minimaxminimax-m2.1 | 7.443 |
+| liquidlfm-2.5-1.2b-thinkingfree | 7.371 |
 | meta-llamaLlama-3.2-3B-Instruct | 7.371 |
 | meta-llamaLlama-3.3-70B-Instruct | 7.371 |
 | gpt-5.2-2025-12-11 | 7.357 |
@@ -131,6 +132,7 @@
 | Grok-4-fast-20251111 | 7.214 |
 | meta-llamallama-4-scout | 7.214 |
 | magistral-small-2506 | 7.200 |
+| liquidlfm-2.5-1.2b-instructfree | 7.200 |
 | deepseekdeepseek-chat-v3.1 | 7.186 |
 | gpt-5.2-pro-2025-12-11 | 7.186 |
 | claude-haiku-4-5-20251001 | 7.171 |
@@ -198,6 +200,7 @@
 | ministral-3b-2512 | 6.114 |
 | gemini-2.5-pro-exp-03-25 | 6.086 |
 | essentialairnj-1-instruct | 6.029 |
+| z-aiglm-4.7-flash | 6.029 |
 | mistral-large-2512 | 6.029 |
 | smollm2135m | 6.014 |
 | tngtechdeepseek-r1t-chimerafree | 6.014 |

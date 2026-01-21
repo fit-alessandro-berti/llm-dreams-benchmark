@@ -95,6 +95,7 @@
 | qwenqwen3-next-80b-a3b-instruct            | **463.6** | 4.9 $\pm$ 0.9               | 8.5 $\pm$ 0.2         | 7.6 $\pm$ 0.4            | 10.0 $\pm$ 0.0 | 9.1 $\pm$ 0.1                 | 8.5 $\pm$ 0.3                  | 9.5 $\pm$ 0.0         | 5.2 $\pm$ 1.1         | 9.2 $\pm$ 0.2  | 8.7 $\pm$ 0.3            | 3.5 $\pm$ 0.4     | 4.0 $\pm$ 0.4      | 5.9 $\pm$ 0.5    | 8.5 $\pm$ 0.3    | 9.4 $\pm$ 0.1 |
 | nvidianemotron-nano-9b-v2                  | **463.5** | 4.2 $\pm$ 0.4               | 8.4 $\pm$ 0.2         | 9.0 $\pm$ 0.2            | 10.0 $\pm$ 0.1 | 8.1 $\pm$ 0.4                 | 8.9 $\pm$ 0.3                  | 8.9 $\pm$ 0.5         | 5.2 $\pm$ 0.7         | 9.4 $\pm$ 0.2  | 8.7 $\pm$ 0.3            | 3.2 $\pm$ 0.5     | 5.0 $\pm$ 0.7      | 5.2 $\pm$ 1.0    | 7.8 $\pm$ 0.4    | 9.3 $\pm$ 0.2 |
 | nvidiaLlama-3.1-Nemotron-70B-Instruct      | **462.3** | 5.4 $\pm$ 1.2               | 8.3 $\pm$ 0.3         | 9.4 $\pm$ 0.1            | 10.0 $\pm$ 0.0 | 9.0 $\pm$ 0.1                 | 8.9 $\pm$ 0.4                  | 9.3 $\pm$ 0.2         | 5.4 $\pm$ 1.6         | 9.3 $\pm$ 0.3  | 9.6 $\pm$ 0.2            | 3.0 $\pm$ 1.0     | 6.7 $\pm$ 0.7      | 6.4 $\pm$ 0.7    | 8.6 $\pm$ 0.2    | 9.2 $\pm$ 0.3 |
+| liquidlfm-2.5-1.2b-thinkingfree            | **461.6** | 4.2 $\pm$ 0.0               | 8.1 $\pm$ 0.0         | 9.3 $\pm$ 0.0            | 10.0 $\pm$ 0.0 | 8.2 $\pm$ 0.4                 | 9.1 $\pm$ 0.2                  | 9.3 $\pm$ 0.2         | 5.6 $\pm$ 0.3         | 9.2 $\pm$ 0.2  | 9.2 $\pm$ 0.2            | 3.0 $\pm$ 0.2     | 6.6 $\pm$ 0.1      | 6.7 $\pm$ 1.0    | 8.3 $\pm$ 0.0    | 9.6 $\pm$ 0.1 |
 | qwen2.5-7b-instruct                        | **461.4** | 4.1 $\pm$ 0.5               | 8.3 $\pm$ 0.2         | 9.4 $\pm$ 0.1            | 9.8 $\pm$ 0.0  | 8.6 $\pm$ 0.1                 | 8.9 $\pm$ 0.1                  | 8.7 $\pm$ 0.4         | 4.8 $\pm$ 0.4         | 9.4 $\pm$ 0.1  | 9.5 $\pm$ 0.1            | 3.2 $\pm$ 0.4     | 6.5 $\pm$ 0.2      | 6.5 $\pm$ 1.1    | 8.7 $\pm$ 0.1    | 9.4 $\pm$ 0.2 |
 | gpt-5-chat-latest-2025-08-19               | **461.1** | 3.8 $\pm$ 0.5               | 8.5 $\pm$ 0.4         | 8.5 $\pm$ 0.2            | 9.9 $\pm$ 0.1  | 8.2 $\pm$ 0.2                 | 9.0 $\pm$ 0.4                  | 9.1 $\pm$ 0.1         | 5.0 $\pm$ 0.7         | 9.1 $\pm$ 0.1  | 9.3 $\pm$ 0.2            | 3.0 $\pm$ 0.7     | 6.0 $\pm$ 0.3      | 6.0 $\pm$ 1.3    | 8.3 $\pm$ 0.2    | 9.2 $\pm$ 0.2 |
 | anthropicclaude-opus-4.1                   | **459.7** | 4.2 $\pm$ 0.0               | 8.6 $\pm$ 0.1         | 8.0 $\pm$ 0.5            | 10.0 $\pm$ 0.0 | 8.8 $\pm$ 0.3                 | 8.3 $\pm$ 0.1                  | 9.5 $\pm$ 0.2         | 5.0 $\pm$ 0.1         | 9.6 $\pm$ 0.1  | 7.8 $\pm$ 0.4            | 3.5 $\pm$ 0.3     | 4.5 $\pm$ 0.3      | 6.6 $\pm$ 0.4    | 8.7 $\pm$ 0.4    | 9.3 $\pm$ 0.1 |
@@ -133,6 +134,7 @@
 | gpt-5.2-pro-2025-12-11                     | **444.9** | 7.5 $\pm$ 0.0               | 8.0 $\pm$ 0.1         | 9.4 $\pm$ 0.1            | 10.0 $\pm$ 0.0 | 8.7 $\pm$ 0.2                 | 8.3 $\pm$ 0.2                  | 9.2 $\pm$ 0.2         | 7.7 $\pm$ 0.4         | 9.2 $\pm$ 0.2  | 9.0 $\pm$ 0.0            | 6.6 $\pm$ 0.2     | 5.5 $\pm$ 0.6      | 6.8 $\pm$ 0.5    | 8.6 $\pm$ 0.1    | 9.4 $\pm$ 0.2 |
 | baiduernie-4.5-21b-a3b                     | **444.6** | 5.7 $\pm$ 1.5               | 8.0 $\pm$ 0.1         | 9.3 $\pm$ 0.2            | 9.6 $\pm$ 0.2  | 8.1 $\pm$ 0.6                 | 8.6 $\pm$ 0.3                  | 9.1 $\pm$ 0.1         | 6.2 $\pm$ 0.8         | 9.3 $\pm$ 0.1  | 9.5 $\pm$ 0.1            | 5.0 $\pm$ 1.8     | 6.9 $\pm$ 0.4      | 6.1 $\pm$ 0.9    | 8.2 $\pm$ 0.2    | 9.0 $\pm$ 0.3 |
 | gpt-4.1-nano-2025-04-14                    | **444.4** | 6.0 $\pm$ 0.9               | 8.1 $\pm$ 0.1         | 9.0 $\pm$ 0.0            | 9.5 $\pm$ 0.0  | 8.6 $\pm$ 0.1                 | 8.4 $\pm$ 0.3                  | 9.1 $\pm$ 0.1         | 6.4 $\pm$ 0.9         | 9.2 $\pm$ 0.2  | 9.1 $\pm$ 0.2            | 4.6 $\pm$ 1.0     | 7.3 $\pm$ 0.2      | 6.1 $\pm$ 0.2    | 8.6 $\pm$ 0.1    | 9.1 $\pm$ 0.2 |
+| liquidlfm-2.5-1.2b-instructfree            | **444.3** | 4.2 $\pm$ 0.0               | 8.0 $\pm$ 0.1         | 8.6 $\pm$ 0.1            | 9.8 $\pm$ 0.1  | 7.7 $\pm$ 0.7                 | 8.6 $\pm$ 0.4                  | 8.4 $\pm$ 0.7         | 5.4 $\pm$ 0.2         | 9.0 $\pm$ 0.2  | 9.3 $\pm$ 0.2            | 3.4 $\pm$ 0.4     | 6.4 $\pm$ 0.3      | 6.7 $\pm$ 0.9    | 7.9 $\pm$ 0.7    | 9.0 $\pm$ 0.3 |
 | deepseekdeepseek-v3.2-speciale             | **444.2** | 4.8 $\pm$ 0.4               | 7.8 $\pm$ 0.0         | 8.4 $\pm$ 0.1            | 9.8 $\pm$ 0.1  | 6.6 $\pm$ 0.5                 | 8.3 $\pm$ 0.1                  | 9.0 $\pm$ 0.0         | 6.4 $\pm$ 0.5         | 9.2 $\pm$ 0.0  | 9.1 $\pm$ 0.2            | 3.8 $\pm$ 0.6     | 6.0 $\pm$ 0.4      | 5.1 $\pm$ 0.4    | 7.6 $\pm$ 0.3    | 8.7 $\pm$ 0.0 |
 | x-aigrok-code-fast-1                       | **444.1** | 6.5 $\pm$ 0.0               | 7.8 $\pm$ 0.1         | 9.3 $\pm$ 0.1            | 10.0 $\pm$ 0.0 | 8.0 $\pm$ 0.3                 | 8.6 $\pm$ 0.1                  | 8.3 $\pm$ 0.2         | 6.8 $\pm$ 0.5         | 9.4 $\pm$ 0.2  | 9.2 $\pm$ 0.2            | 4.2 $\pm$ 0.1     | 6.4 $\pm$ 0.6      | 6.5 $\pm$ 0.8    | 8.1 $\pm$ 0.7    | 9.1 $\pm$ 0.0 |
 | z-aiglm-4.5                                | **443.8** | 7.0 $\pm$ 0.5               | 7.8 $\pm$ 0.5         | 9.3 $\pm$ 0.2            | 10.0 $\pm$ 0.0 | 8.2 $\pm$ 0.4                 | 8.6 $\pm$ 0.4                  | 8.6 $\pm$ 0.4         | 7.6 $\pm$ 0.5         | 9.2 $\pm$ 0.2  | 9.4 $\pm$ 0.3            | 5.5 $\pm$ 1.2     | 6.0 $\pm$ 0.7      | 6.9 $\pm$ 0.6    | 8.3 $\pm$ 0.3    | 9.2 $\pm$ 0.1 |
@@ -186,6 +188,7 @@
 | magistral-medium-2506                      | **409.3** | 7.2 $\pm$ 0.8               | 6.6 $\pm$ 0.6         | 8.8 $\pm$ 0.2            | 9.7 $\pm$ 0.2  | 7.4 $\pm$ 0.7                 | 7.8 $\pm$ 0.1                  | 7.9 $\pm$ 0.5         | 7.7 $\pm$ 0.3         | 9.0 $\pm$ 0.5  | 8.9 $\pm$ 0.1            | 6.2 $\pm$ 0.7     | 6.8 $\pm$ 0.2      | 7.2 $\pm$ 0.6    | 7.4 $\pm$ 0.9    | 8.4 $\pm$ 0.2 |
 | qwenqwen3-235b-a22b-thinking-2507          | **409.0** | 7.8 $\pm$ 0.4               | 7.0 $\pm$ 0.7         | 8.9 $\pm$ 0.2            | 10.0 $\pm$ 0.0 | 7.1 $\pm$ 1.2                 | 7.8 $\pm$ 0.8                  | 7.4 $\pm$ 1.8         | 7.6 $\pm$ 0.6         | 9.5 $\pm$ 0.0  | 8.6 $\pm$ 0.4            | 6.9 $\pm$ 0.9     | 6.0 $\pm$ 0.6      | 7.8 $\pm$ 0.6    | 7.6 $\pm$ 0.6    | 9.1 $\pm$ 0.4 |
 | meta-llamaMeta-Llama-3.1-70B-Instruct      | **408.0** | 7.4 $\pm$ 0.1               | 6.4 $\pm$ 0.4         | 8.3 $\pm$ 0.2            | 9.6 $\pm$ 0.2  | 7.7 $\pm$ 0.7                 | 7.9 $\pm$ 0.3                  | 8.1 $\pm$ 0.6         | 8.2 $\pm$ 0.2         | 8.4 $\pm$ 0.3  | 9.1 $\pm$ 0.1            | 6.5 $\pm$ 0.0     | 6.7 $\pm$ 0.4      | 7.4 $\pm$ 0.3    | 8.0 $\pm$ 0.5    | 8.1 $\pm$ 0.1 |
+| z-aiglm-4.7-flash                          | **407.9** | 6.5 $\pm$ 0.0               | 7.5 $\pm$ 0.3         | 8.5 $\pm$ 0.3            | 10.0 $\pm$ 0.0 | 5.9 $\pm$ 0.1                 | 8.0 $\pm$ 0.5                  | 7.4 $\pm$ 1.3         | 6.8 $\pm$ 0.4         | 9.2 $\pm$ 0.1  | 8.0 $\pm$ 0.0            | 6.2 $\pm$ 0.4     | 5.8 $\pm$ 0.4      | 7.2 $\pm$ 0.2    | 7.4 $\pm$ 0.4    | 9.0 $\pm$ 0.3 |
 | gemini-2.5-pro-exp-03-25                   | **407.6** | 7.5 $\pm$ 0.0               | 6.4 $\pm$ 0.4         | 8.6 $\pm$ 0.4            | 9.9 $\pm$ 0.1  | 6.9 $\pm$ 0.2                 | 7.6 $\pm$ 0.3                  | 8.6 $\pm$ 0.6         | 8.2 $\pm$ 0.2         | 9.0 $\pm$ 0.5  | 8.9 $\pm$ 0.1            | 7.0 $\pm$ 0.1     | 5.9 $\pm$ 0.4      | 8.0 $\pm$ 0.3    | 7.9 $\pm$ 0.4    | 8.4 $\pm$ 0.1 |
 | QwenQwen3-235B-A22B                        | **407.5** | 7.8 $\pm$ 0.4               | 6.5 $\pm$ 0.5         | 8.9 $\pm$ 0.2            | 10.0 $\pm$ 0.0 | 6.6 $\pm$ 0.2                 | 8.1 $\pm$ 0.2                  | 7.8 $\pm$ 0.6         | 8.5 $\pm$ 0.6         | 9.4 $\pm$ 0.2  | 9.1 $\pm$ 0.2            | 6.5 $\pm$ 0.5     | 6.6 $\pm$ 1.1      | 7.6 $\pm$ 0.6    | 6.9 $\pm$ 0.6    | 8.6 $\pm$ 0.2 |
 | gemini-2.5-flash-preview-05-20             | **404.9** | 7.2 $\pm$ 0.4               | 7.6 $\pm$ 0.6         | 8.6 $\pm$ 0.1            | 10.0 $\pm$ 0.1 | 7.0 $\pm$ 0.5                 | 7.2 $\pm$ 0.5                  | 7.3 $\pm$ 1.1         | 7.8 $\pm$ 0.5         | 9.0 $\pm$ 0.2  | 8.2 $\pm$ 0.3            | 7.1 $\pm$ 0.9     | 5.8 $\pm$ 0.3      | 7.7 $\pm$ 0.5    | 7.6 $\pm$ 0.2    | 8.9 $\pm$ 0.2 |
@@ -3050,6 +3053,58 @@
 
 
 
+### liquidlfm-2.5-1.2b-instructfree
+
+
+| Personality Trait            | Score (1.0-10.0)   |
+|:-----------------------------|:-------------------|
+| Anxiety and Stress Levels    | 4.2 $\pm$ 0.0      |
+| Emotional Stability          | 8.0 $\pm$ 0.1      |
+| Problem-solving Skills       | 8.6 $\pm$ 0.1      |
+| Creativity                   | 9.8 $\pm$ 0.1      |
+| Interpersonal Relationships  | 7.7 $\pm$ 0.7      |
+| Confidence and Self-efficacy | 8.6 $\pm$ 0.4      |
+| Conflict Resolution          | 8.4 $\pm$ 0.7      |
+| Work-related Stress          | 5.4 $\pm$ 0.2      |
+| Adaptability                 | 9.0 $\pm$ 0.2      |
+| Achievement Motivation       | 9.3 $\pm$ 0.2      |
+| Fear of Failure              | 3.4 $\pm$ 0.4      |
+| Need for Control             | 6.4 $\pm$ 0.3      |
+| Cognitive Load               | 6.7 $\pm$ 0.9      |
+| Social Support               | 7.9 $\pm$ 0.7      |
+| Resilience                   | 9.0 $\pm$ 0.3      |
+
+
+
+
+
+
+### liquidlfm-2.5-1.2b-thinkingfree
+
+
+| Personality Trait            | Score (1.0-10.0)   |
+|:-----------------------------|:-------------------|
+| Anxiety and Stress Levels    | 4.2 $\pm$ 0.0      |
+| Emotional Stability          | 8.1 $\pm$ 0.0      |
+| Problem-solving Skills       | 9.3 $\pm$ 0.0      |
+| Creativity                   | 10.0 $\pm$ 0.0     |
+| Interpersonal Relationships  | 8.2 $\pm$ 0.4      |
+| Confidence and Self-efficacy | 9.1 $\pm$ 0.2      |
+| Conflict Resolution          | 9.3 $\pm$ 0.2      |
+| Work-related Stress          | 5.6 $\pm$ 0.3      |
+| Adaptability                 | 9.2 $\pm$ 0.2      |
+| Achievement Motivation       | 9.2 $\pm$ 0.2      |
+| Fear of Failure              | 3.0 $\pm$ 0.2      |
+| Need for Control             | 6.6 $\pm$ 0.1      |
+| Cognitive Load               | 6.7 $\pm$ 1.0      |
+| Social Support               | 8.3 $\pm$ 0.0      |
+| Resilience                   | 9.6 $\pm$ 0.1      |
+
+
+
+
+
+
 ### liquidlfm2-8b-a1b
 
 
@@ -5696,6 +5751,32 @@
 | Cognitive Load               | 8.0 $\pm$ 0.7      |
 | Social Support               | 7.0 $\pm$ 0.4      |
 | Resilience                   | 8.0 $\pm$ 0.4      |
+
+
+
+
+
+
+### z-aiglm-4.7-flash
+
+
+| Personality Trait            | Score (1.0-10.0)   |
+|:-----------------------------|:-------------------|
+| Anxiety and Stress Levels    | 6.5 $\pm$ 0.0      |
+| Emotional Stability          | 7.5 $\pm$ 0.3      |
+| Problem-solving Skills       | 8.5 $\pm$ 0.3      |
+| Creativity                   | 10.0 $\pm$ 0.0     |
+| Interpersonal Relationships  | 5.9 $\pm$ 0.1      |
+| Confidence and Self-efficacy | 8.0 $\pm$ 0.5      |
+| Conflict Resolution          | 7.4 $\pm$ 1.3      |
+| Work-related Stress          | 6.8 $\pm$ 0.4      |
+| Adaptability                 | 9.2 $\pm$ 0.1      |
+| Achievement Motivation       | 8.0 $\pm$ 0.0      |
+| Fear of Failure              | 6.2 $\pm$ 0.4      |
+| Need for Control             | 5.8 $\pm$ 0.4      |
+| Cognitive Load               | 7.2 $\pm$ 0.2      |
+| Social Support               | 7.4 $\pm$ 0.4      |
+| Resilience                   | 9.0 $\pm$ 0.3      |
 
 
 

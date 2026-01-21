@@ -50,6 +50,7 @@
 | xiaomimimo-v2-flashfree | 6.957 |
 | ministral-14b-2512 | 6.943 |
 | meta-llamaMeta-Llama-3.1-70B-Instruct | 6.886 |
+| z-aiglm-4.7-flash | 6.871 |
 | mistral-medium-2508 | 6.843 |
 | deepseekdeepseek-r1 | 6.829 |
 | qwen-plus-0428 | 6.829 |
@@ -121,6 +122,7 @@
 | qwenqwen3-next-80b-a3b-instruct | 5.871 |
 | deepseekdeepseek-v3.2-speciale | 5.843 |
 | minimaxminimax-m2free | 5.843 |
+| liquidlfm-2.5-1.2b-thinkingfree | 5.829 |
 | qwenqwen3-next-80b-a3b-thinking | 5.829 |
 | gemini-1.5-flash-002 | 5.800 |
 | gemini-2.5-flash-lite-preview-09-2025 | 5.786 |
@@ -155,6 +157,7 @@
 | Grok-3-20250426-formal | 5.343 |
 | gpt-4o-mini-2024-07-18 | 5.329 |
 | qwen-max-2025-01-25 | 5.329 |
+| liquidlfm-2.5-1.2b-instructfree | 5.300 |
 | gpt-3.5-turbo | 5.271 |
 | qwen-plus-2025-01-25 | 5.229 |
 | granite4micro-h | 5.214 |

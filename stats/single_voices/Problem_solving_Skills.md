@@ -102,6 +102,7 @@
 | Grok-4-fast-20251111 | 8.429 |
 | nvidiallama-3.1-nemotron-ultra-253b-v1free | 8.414 |
 | gemini-2.0-flash-exp | 8.400 |
+| liquidlfm-2.5-1.2b-thinkingfree | 8.400 |
 | qwen38b | 8.400 |
 | gpt-5.2-2025-12-11 | 8.386 |
 | o3-mini-20250131-HIGH | 8.386 |
@@ -120,6 +121,7 @@
 | qwenqwen3-30b-a3b-instruct-2507 | 8.314 |
 | z-aiglm-4.5 | 8.314 |
 | ChatGPT-5.1-Instant-20251113 | 8.314 |
+| liquidlfm-2.5-1.2b-instructfree | 8.314 |
 | claude-3-7-sonnet-20250219-thinking-high | 8.300 |
 | gemma-3-27b-it | 8.300 |
 | magistral-small-2506 | 8.300 |
@@ -187,6 +189,7 @@
 | nvidiallama-3.1-nemotron-nano-8b-v1 | 7.886 |
 | tngtechdeepseek-r1t-chimerafree | 7.814 |
 | grok-3-mini-beta | 7.800 |
+| z-aiglm-4.7-flash | 7.800 |
 | anthropicclaude-opus-4.1 | 7.786 |
 | qwenqwen3-next-80b-a3b-instruct | 7.771 |
 | meta-llamaMeta-Llama-3.1-8B-Instruct | 7.771 |

@@ -100,6 +100,7 @@
 | x-aigrok-code-fast-1 | 8.757 |
 | googlegemma-2-9b-it | 8.743 |
 | grok-4-0709 | 8.743 |
+| liquidlfm-2.5-1.2b-instructfree | 8.743 |
 | claude-4-opus-20250514 | 8.743 |
 | gpt-4.1-nano-2025-04-14 | 8.743 |
 | granite4micro | 8.743 |
@@ -128,6 +129,7 @@
 | claude-3-7-sonnet-20250219 | 8.657 |
 | qwenqwen3-next-80b-a3b-instruct | 8.657 |
 | deepseekdeepseek-v3.2-speciale | 8.643 |
+| liquidlfm-2.5-1.2b-thinkingfree | 8.643 |
 | qwen38b | 8.643 |
 | chatgpt-4o-latest-2024-11-20 | 8.629 |
 | granite4tiny-h | 8.629 |
@@ -141,6 +143,7 @@
 | claude-4-sonnet-20250514 | 8.600 |
 | Grok-4.1-20251118 | 8.600 |
 | minimaxminimax-m2free | 8.600 |
+| z-aiglm-4.7-flash | 8.600 |
 | xiaomimimo-v2-flashfree | 8.600 |
 | claude-3-5-sonnet-20241022 | 8.586 |
 | deepseekdeepseek-r1 | 8.586 |

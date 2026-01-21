@@ -58,6 +58,7 @@
 | grok-4-1-fast-reasoning | 7.914 |
 | grok-3-mini-beta | 7.914 |
 | meta-llamallama-4-maverick | 7.900 |
+| z-aiglm-4.7-flash | 7.900 |
 | qwen31.7b | 7.900 |
 | z-aiglm-4.5 | 7.886 |
 | Gpt-5.1-Pro-20251120 | 7.871 |
@@ -77,6 +78,7 @@
 | meta-llamaLlama-3.2-3B-Instruct | 7.771 |
 | claude-3-7-sonnet-20250219-thinking-high | 7.757 |
 | DeepSeek-V3-0324 | 7.757 |
+| liquidlfm-2.5-1.2b-thinkingfree | 7.757 |
 | magistral-small-2506 | 7.757 |
 | qwenqwen3-30b-a3b-instruct-2507 | 7.757 |
 | x-aigrok-code-fast-1 | 7.743 |
@@ -121,6 +123,7 @@
 | qwen2.5-7b-instruct | 7.400 |
 | allenaiolmo-3-7b-instruct | 7.386 |
 | deepseek-aiDeepSeek-V3 | 7.371 |
+| liquidlfm-2.5-1.2b-instructfree | 7.371 |
 | granite3.28b-instruct-q4_K_M | 7.371 |
 | Grok-3-beta-thinking-20250303 | 7.371 |
 | deepseek-aiDeepSeek-R1-Zero | 7.357 |

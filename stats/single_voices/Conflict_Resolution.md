@@ -70,6 +70,7 @@
 | gemini-2.5-pro-preview-06-05 | 8.086 |
 | gpt-4.1-mini-2025-04-14 | 8.086 |
 | granite4tiny-h | 8.086 |
+| liquidlfm-2.5-1.2b-thinkingfree | 8.086 |
 | nvidianemotron-3-nano-30b-a3bfree | 8.086 |
 | ai21jamba-large-1.7 | 8.071 |
 | gemini-2.5-pro-preview-05-06 | 8.071 |
@@ -132,6 +133,7 @@
 | meta-llamaMeta-Llama-3.1-405B-Instruct | 7.571 |
 | gpt-5.2-pro-2025-12-11 | 7.557 |
 | grok-4-1-fast-non-reasoning | 7.543 |
+| liquidlfm-2.5-1.2b-instructfree | 7.543 |
 | meta-llamaLlama-3.2-3B-Instruct | 7.529 |
 | Gpt-5.1-Pro-20251120 | 7.529 |
 | chatgpt-4o-latest-2025-04-26 | 7.514 |
@@ -173,6 +175,7 @@
 | gpt-5-chat-latest-2025-08-07 | 6.871 |
 | smollm21.7b-instruct-q6_K | 6.843 |
 | qwen2.5-omni-7b | 6.814 |
+| z-aiglm-4.7-flash | 6.800 |
 | z-aiglm-4.5-air | 6.786 |
 | ibmgranite41b-h | 6.743 |
 | gemini-2.5-pro-exp-03-25 | 6.729 |

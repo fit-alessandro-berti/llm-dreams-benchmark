@@ -40,6 +40,7 @@
 | z-aiglm-4.5 | 6.529 |
 | deepseek-aiDeepSeek-R1-Zero | 6.529 |
 | ibmgranite4350m-h | 6.529 |
+| liquidlfm-2.5-1.2b-thinkingfree | 6.514 |
 | deepseek-aiDeepSeek-V3 | 6.514 |
 | x-aigrok-code-fast-1 | 6.514 |
 | meta-llamaMeta-Llama-3.1-405B-Instruct | 6.500 |
@@ -117,6 +118,7 @@
 | o1-mini | 6.157 |
 | codestral-2501 | 6.157 |
 | granite4micro | 6.157 |
+| liquidlfm-2.5-1.2b-instructfree | 6.129 |
 | gemini-2.0-pro-exp-02-05 | 6.114 |
 | QwenQwen3-32B | 6.114 |
 | Gemini-1.5-Pro-Exp-0827 | 6.114 |
@@ -184,6 +186,7 @@
 | qwenqwen3-next-80b-a3b-thinking | 5.686 |
 | gpt-5-pro-2025-10-06 | 5.629 |
 | minimaxminimax-m2.1 | 5.629 |
+| z-aiglm-4.7-flash | 5.629 |
 | openaigpt-5.1-codex-max | 5.614 |
 | openaigpt-oss-20b | 5.600 |
 | nvidianemotron-3-nano-30b-a3bfree | 5.571 |

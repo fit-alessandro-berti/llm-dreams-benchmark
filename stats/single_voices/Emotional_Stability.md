@@ -86,6 +86,7 @@
 | qwen2.5-omni-7b | 6.943 |
 | amazonnova-2-lite-v1 | 6.929 |
 | o1-pro-2024-12-17 | 6.929 |
+| liquidlfm-2.5-1.2b-instructfree | 6.900 |
 | devstral-small-2505 | 6.900 |
 | qwenqwen3-coder | 6.886 |
 | nousresearchhermes-4-405b | 6.886 |
@@ -104,6 +105,7 @@
 | gemini-1.5-flash-002 | 6.743 |
 | gemini-1.5-flash-8b | 6.743 |
 | deepseekdeepseek-v3.2-speciale | 6.714 |
+| liquidlfm-2.5-1.2b-thinkingfree | 6.714 |
 | smollm21.7b-instruct-q6_K | 6.714 |
 | nvidiaLlama-3.1-Nemotron-70B-Instruct | 6.700 |
 | deepseekdeepseek-chat-v3.1 | 6.700 |
@@ -167,6 +169,7 @@
 | qwen-plus-0428 | 6.071 |
 | Gemini-1.5-Pro-Exp-0827 | 6.057 |
 | ibmgranite41b-h | 6.043 |
+| z-aiglm-4.7-flash | 6.043 |
 | claude-3-opus-20240229 | 6.029 |
 | gemini-2.0-pro-exp-02-05 | 6.014 |
 | QwenQwen3-30B-A3B | 6.000 |

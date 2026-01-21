@@ -124,6 +124,7 @@
 | moonshotaikimi-k2 | 7.129 |
 | qwenqwen3-235b-a22b-07-25 | 7.129 |
 | gemini-2.0-flash-exp | 7.100 |
+| liquidlfm-2.5-1.2b-instructfree | 7.086 |
 | nvidiallama-3.3-nemotron-super-49b-v1 | 7.071 |
 | meta-llamallama-4-scout | 7.071 |
 | prime-intellectintellect-3 | 7.071 |
@@ -135,6 +136,7 @@
 | Grok-4-fast-20251111 | 7.029 |
 | qwen-turbo-0428 | 7.029 |
 | xiaomimimo-v2-flashfree | 7.000 |
+| liquidlfm-2.5-1.2b-thinkingfree | 6.986 |
 | gemini-3-flash-preview | 6.971 |
 | qwen30.6b | 6.957 |
 | qwen38b | 6.957 |
@@ -175,6 +177,7 @@
 | grok-3-mini-beta | 6.614 |
 | gemini-2.0-flash-lite-preview-02-05 | 6.586 |
 | meta-llamaMeta-Llama-3.1-8B-Instruct | 6.571 |
+| z-aiglm-4.7-flash | 6.514 |
 | ministral-14b-2512 | 6.486 |
 | qwen31.7b | 6.443 |
 | r1-1776 | 6.443 |

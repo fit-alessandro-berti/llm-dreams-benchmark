@@ -1,4 +1,4 @@
-ANSWERING_MODEL_NAME = "minimax/minimax-m2.1"
+ANSWERING_MODEL_NAME = "liquid/lfm-2.5-1.2b-thinking:free"
 EVALUATING_MODEL_NAME = "gpt-4.1"
 
 

@@ -73,6 +73,7 @@
 | granite4micro | 8.529 |
 | gpt-4.1-nano-2025-04-14 | 8.514 |
 | Grok-4-fast | 8.514 |
+| liquidlfm-2.5-1.2b-instructfree | 8.514 |
 | o1-pro-2024-12-05 | 8.514 |
 | openaigpt-oss-120b | 8.514 |
 | meta-llamaLlama-3.2-3B-Instruct | 8.500 |
@@ -125,6 +126,7 @@
 | prime-intellectintellect-3 | 8.314 |
 | chatgpt-4o-latest-20250215 | 8.300 |
 | gpt-4.1-2025-04-14 | 8.300 |
+| liquidlfm-2.5-1.2b-thinkingfree | 8.300 |
 | googlegemma-2-9b-it | 8.286 |
 | grok-4-1-fast-reasoning | 8.286 |
 | phi4-reasoningplus | 8.286 |
@@ -206,6 +208,7 @@
 | nvidiallama-3.1-nemotron-nano-8b-v1 | 7.557 |
 | moonshotaikimi-k2-thinking | 7.514 |
 | z-aiglm-4.7 | 7.471 |
+| z-aiglm-4.7-flash | 7.457 |
 | claude-haiku-4-5-20251001 | 7.357 |
 | anthropicclaude-opus-4.1 | 7.343 |
 | gemini-2.5-flash-preview-05-20 | 7.329 |

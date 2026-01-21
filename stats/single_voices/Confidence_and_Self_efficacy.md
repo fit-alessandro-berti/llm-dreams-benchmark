@@ -69,6 +69,7 @@
 | nvidianemotron-3-nano-30b-a3bfree | 7.843 |
 | baiduernie-4.5-21b-a3b | 7.829 |
 | deepseek-aiDeepSeek-V3 | 7.814 |
+| liquidlfm-2.5-1.2b-instructfree | 7.800 |
 | openaigpt-oss-20b | 7.786 |
 | o1-2024-12-05 | 7.771 |
 | gpt-4.1-nano-2025-04-14 | 7.757 |
@@ -97,6 +98,7 @@
 | qwenqwen3-coder | 7.543 |
 | ChatGPT-5.1-Instant-20251113 | 7.529 |
 | o1-pro-2024-12-17 | 7.514 |
+| liquidlfm-2.5-1.2b-thinkingfree | 7.514 |
 | nvidiallama-3.1-nemotron-ultra-253b-v1free | 7.514 |
 | gemini-1.5-flash-002 | 7.500 |
 | qwen2.5-7b-instruct-1m | 7.500 |
@@ -177,6 +179,7 @@
 | mistral-medium-2505 | 6.757 |
 | claude-4-opus-20250514 | 6.729 |
 | Gpt-5.1-Pro-20251120 | 6.729 |
+| z-aiglm-4.7-flash | 6.729 |
 | anthropicclaude-opus-4.1 | 6.700 |
 | ministral-8b-2512 | 6.700 |
 | meta-llamaLlama-3.3-70B-Instruct | 6.686 |

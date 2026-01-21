@@ -85,9 +85,11 @@
 | smollm2135m | 7.243 |
 | ministral-8b-2512 | 7.229 |
 | nvidiallama-3.1-nemotron-nano-8b-v1 | 7.200 |
+| z-aiglm-4.7-flash | 7.200 |
 | gemini-2.5-flash-lite-preview-06-17 | 7.186 |
 | moonshotaikimi-k2 | 7.186 |
 | deepseek-aiDeepSeek-R1-Zero | 7.171 |
+| liquidlfm-2.5-1.2b-thinkingfree | 7.171 |
 | gemma312b-it-q8_0 | 7.157 |
 | chatgpt-4o-latest-2024-11-20 | 7.143 |
 | Grok-3-beta-thinking-20250303 | 7.129 |
@@ -153,6 +155,7 @@
 | baiduernie-4.5-300b-a47b | 6.314 |
 | o1-2024-12-17 | 6.300 |
 | mistral-small-2501 | 6.200 |
+| liquidlfm-2.5-1.2b-instructfree | 6.171 |
 | ChatGPT-5.1-Instant-20251113 | 6.171 |
 | o1-pro-2024-12-05 | 6.157 |
 | open-mistral-nemo | 6.157 |

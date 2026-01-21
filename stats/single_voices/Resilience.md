@@ -70,6 +70,7 @@
 | o1-2024-12-05 | 8.743 |
 | qwenqwen3-next-80b-a3b-instruct | 8.743 |
 | minimaxminimax-m2.1 | 8.729 |
+| liquidlfm-2.5-1.2b-thinkingfree | 8.729 |
 | o1-pro-2024-12-17 | 8.729 |
 | allenaiolmo-3.1-32b-instruct | 8.714 |
 | ministral-8b-2410 | 8.714 |
@@ -79,6 +80,7 @@
 | o1-2024-12-17 | 8.686 |
 | qwenqwen3-30b-a3b-instruct-2507 | 8.686 |
 | googlegemma-2-9b-it | 8.671 |
+| liquidlfm-2.5-1.2b-instructfree | 8.671 |
 | qwen34b-instruct-2507-q8_0 | 8.657 |
 | exaone-deep7.8b-fp16 | 8.657 |
 | moonshotaikimi-linear-48b-a3b-instruct | 8.657 |
@@ -131,6 +133,7 @@
 | gpt-4-1106-preview | 8.386 |
 | gpt-5-chat-latest-2025-08-19 | 8.386 |
 | qwen-turbo-0428 | 8.386 |
+| z-aiglm-4.7-flash | 8.386 |
 | Gemini-1.5-Pro-Exp-0827 | 8.371 |
 | grok-4-1-fast-reasoning | 8.371 |
 | deepseekdeepseek-r1 | 8.371 |

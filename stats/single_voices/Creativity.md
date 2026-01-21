@@ -35,6 +35,7 @@
 | QwenQwen3-14B | 9.614 |
 | qwenqwen3-max | 9.614 |
 | qwen34b-instruct-2507-q8_0 | 9.600 |
+| z-aiglm-4.7-flash | 9.600 |
 | anthropicclaude-sonnet-4.5 | 9.600 |
 | QwenQwen3-30B-A3B | 9.600 |
 | xiaomimimo-v2-flashfree | 9.600 |
@@ -123,6 +124,7 @@
 | gpt-4o-2024-05-13 | 9.386 |
 | meta-llamaMeta-Llama-3.1-405B-Instruct | 9.386 |
 | o1-mini | 9.386 |
+| liquidlfm-2.5-1.2b-thinkingfree | 9.371 |
 | chatgpt-4o-latest-2025-01-29 | 9.371 |
 | falcon37b-instruct-q8_0 | 9.371 |
 | grok-3-mini-beta | 9.371 |
@@ -150,6 +152,7 @@
 | magistral-medium-2506 | 9.329 |
 | ministral-8b-2410 | 9.329 |
 | grok-2-1212 | 9.314 |
+| liquidlfm-2.5-1.2b-instructfree | 9.314 |
 | magistral-small-2506 | 9.314 |
 | o1-2024-12-05 | 9.314 |
 | nousresearchhermes-4-70b | 9.300 |

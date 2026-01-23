@@ -1,4 +1,4 @@
-ANSWERING_MODEL_NAME = "openai/gpt-5.2-codex"
+ANSWERING_MODEL_NAME = "writer/palmyra-x5"
 EVALUATING_MODEL_NAME = "gpt-4.1"
 
 

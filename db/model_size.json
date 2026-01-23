@@ -77,7 +77,9 @@
   "allenaiolmo-3.1-32b-instruct": [
     32
   ],
-  "amazonnova-2-lite-v1": [],
+  "amazonnova-2-lite-v1": [
+    30
+  ],
   "anthropicclaude-opus-4.1": [
     2000,
     250
@@ -257,7 +259,10 @@
     1500,
     40
   ],
-  "gemini-3-flash-preview": [],
+  "gemini-3-flash-preview": [
+    1200,
+    20
+  ],
   "gemini-3-pro-preview": [
     7500,
     40
@@ -354,8 +359,14 @@
     200,
     32
   ],
-  "gpt-5.2-2025-12-11": [],
-  "gpt-5.2-pro-2025-12-11": [],
+  "gpt-5.2-2025-12-11": [
+    560,
+    48
+  ],
+  "gpt-5.2-pro-2025-12-11": [
+    560,
+    48
+  ],
   "granite3.28b-instruct-q4_K_M": [
     8
   ],
@@ -404,8 +415,12 @@
   "liquidlfm-2.2-6b": [
     6
   ],
-  "liquidlfm-2.5-1.2b-instructfree": [],
-  "liquidlfm-2.5-1.2b-thinkingfree": [],
+  "liquidlfm-2.5-1.2b-instructfree": [
+    1.2
+  ],
+  "liquidlfm-2.5-1.2b-thinkingfree": [
+    1.2
+  ],
   "liquidlfm2-8b-a1b": [
     8,
     1
@@ -502,7 +517,9 @@
   "mistral-small-2506": [
     24
   ],
-  "mistralaimistral-small-creative": [],
+  "mistralaimistral-small-creative": [
+    24
+  ],
   "moonshotaikimi-k2": [
     1000,
     32
@@ -591,7 +608,10 @@
     200,
     23
   ],
-  "openaigpt-5.2-codex": [],
+  "openaigpt-5.2-codex": [
+    560,
+    48
+  ],
   "openaigpt-oss-120b": [
     117,
     5.1
@@ -713,7 +733,10 @@
     671,
     37
   ],
-  "writerpalmyra-x5": [],
+  "writerpalmyra-x5": [
+    120,
+    10
+  ],
   "x-aigrok-code-fast-1": [
     300,
     80
@@ -734,5 +757,8 @@
     355,
     32
   ],
-  "z-aiglm-4.7-flash": []
+  "z-aiglm-4.7-flash": [
+    31,
+    3.6
+  ]
 }

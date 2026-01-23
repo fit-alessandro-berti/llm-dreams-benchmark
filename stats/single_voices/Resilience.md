@@ -161,6 +161,7 @@
 | xiaomimimo-v2-flashfree | 8.171 |
 | meta-llamaMeta-Llama-3.1-405B-Instruct | 8.171 |
 | prime-intellectintellect-3 | 8.129 |
+| writerpalmyra-x5 | 8.129 |
 | z-aiglm-4.5-air | 8.114 |
 | claude-3-opus-20240229 | 8.100 |
 | meta-llamaLlama-3.2-3B-Instruct | 8.100 |

@@ -175,6 +175,7 @@
 | gemini-2.0-pro-exp-02-05 | 6.014 |
 | QwenQwen3-30B-A3B | 6.000 |
 | mistral-medium-2508 | 6.000 |
+| writerpalmyra-x5 | 5.986 |
 | meta-llamallama-4-scout | 5.986 |
 | meta-llamaMeta-Llama-3.1-70B-Instruct | 5.986 |
 | meta-llamaLlama-3.3-70B-Instruct | 5.971 |

@@ -143,6 +143,7 @@
 | qwen2.5-72b-instruct | 6.000 |
 | gemini-2.5-pro-exp-03-25 | 5.986 |
 | grok-4-1-fast-reasoning | 5.986 |
+| writerpalmyra-x5 | 5.986 |
 | inceptionmercury | 5.971 |
 | anthropicclaude-sonnet-4.5 | 5.957 |
 | codex-mini-latest | 5.957 |

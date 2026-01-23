@@ -19,6 +19,7 @@
 | QwenQwen3-30B-A3B | 8.371 |
 | gemma31b-it-q8_0 | 8.343 |
 | gemma34b-it-q8_0 | 8.314 |
+| writerpalmyra-x5 | 8.257 |
 | meta-llamaMeta-Llama-3.1-8B-Instruct | 8.186 |
 | gpt-5-chat-latest-2025-08-07 | 8.186 |
 | gemini-2.5-flash-preview-05-20 | 8.171 |

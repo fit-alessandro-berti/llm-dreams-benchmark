@@ -48,6 +48,7 @@
 | googlegemma-2-2b-it | 7.771 |
 | ibmgranite41b-h | 7.757 |
 | grok-3-mini-beta | 7.757 |
+| writerpalmyra-x5 | 7.757 |
 | smollm2360m | 7.743 |
 | ministral-14b-2512 | 7.743 |
 | gemini-2.0-pro-exp-02-05 | 7.729 |

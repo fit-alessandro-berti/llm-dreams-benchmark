@@ -162,6 +162,7 @@
 | grok-4-0709 | 6.986 |
 | Gemini-1.5-Pro-Exp-0827 | 6.957 |
 | allenaiolmo-3-7b-think | 6.957 |
+| writerpalmyra-x5 | 6.957 |
 | claude-3-5-sonnet-20241022 | 6.943 |
 | xiaomimimo-v2-flashfree | 6.943 |
 | z-aiglm-4.5 | 6.929 |

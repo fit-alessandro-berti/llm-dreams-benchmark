@@ -51,6 +51,7 @@
 | ministral-14b-2512 | 6.943 |
 | meta-llamaMeta-Llama-3.1-70B-Instruct | 6.886 |
 | z-aiglm-4.7-flash | 6.871 |
+| writerpalmyra-x5 | 6.857 |
 | mistral-medium-2508 | 6.843 |
 | deepseekdeepseek-r1 | 6.829 |
 | qwen-plus-0428 | 6.829 |

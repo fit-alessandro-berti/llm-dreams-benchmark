@@ -13794,6 +13794,72 @@
     }
   },
   {
+    "LLM": "writerpalmyra-x5",
+    "MHS": 380.6,
+    "scores": {
+      "Anxiety and Stress Levels": {
+        "mean": 7.5,
+        "std": 0.5
+      },
+      "Emotional Stability": {
+        "mean": 6.0,
+        "std": 0.9
+      },
+      "Problem-solving Skills": {
+        "mean": 7.9,
+        "std": 0.8
+      },
+      "Creativity": {
+        "mean": 9.6,
+        "std": 0.2
+      },
+      "Interpersonal Relationships": {
+        "mean": 7.0,
+        "std": 0.7
+      },
+      "Confidence and Self-efficacy": {
+        "mean": 6.5,
+        "std": 0.9
+      },
+      "Conflict Resolution": {
+        "mean": 7.5,
+        "std": 0.8
+      },
+      "Work-related Stress": {
+        "mean": 7.8,
+        "std": 0.7
+      },
+      "Adaptability": {
+        "mean": 8.5,
+        "std": 0.7
+      },
+      "Achievement Motivation": {
+        "mean": 7.9,
+        "std": 0.6
+      },
+      "Fear of Failure": {
+        "mean": 6.8,
+        "std": 0.9
+      },
+      "Need for Control": {
+        "mean": 6.0,
+        "std": 0.8
+      },
+      "Cognitive Load": {
+        "mean": 8.3,
+        "std": 0.5
+      },
+      "Social Support": {
+        "mean": 7.0,
+        "std": 0.7
+      },
+      "Resilience": {
+        "mean": 8.1,
+        "std": 0.6
+      }
+    }
+  },
+  {
     "LLM": "x-aigrok-code-fast-1",
     "MHS": 390.0,
     "scores": {

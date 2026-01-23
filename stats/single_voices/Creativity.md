@@ -36,6 +36,7 @@
 | QwenQwen3-14B | 9.614 |
 | qwenqwen3-max | 9.614 |
 | qwen34b-instruct-2507-q8_0 | 9.600 |
+| writerpalmyra-x5 | 9.600 |
 | z-aiglm-4.7-flash | 9.600 |
 | anthropicclaude-sonnet-4.5 | 9.600 |
 | QwenQwen3-30B-A3B | 9.600 |

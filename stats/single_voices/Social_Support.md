@@ -139,6 +139,7 @@
 | xiaomimimo-v2-flashfree | 7.000 |
 | liquidlfm-2.5-1.2b-thinkingfree | 6.986 |
 | gemini-3-flash-preview | 6.971 |
+| writerpalmyra-x5 | 6.971 |
 | qwen30.6b | 6.957 |
 | qwen38b | 6.957 |
 | claude-4-opus-20250514 | 6.957 |

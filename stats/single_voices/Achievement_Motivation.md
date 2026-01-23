@@ -185,6 +185,7 @@
 | qwenqwen3-next-80b-a3b-instruct | 7.943 |
 | Qwen-QwQ-32B | 7.929 |
 | claude-3-5-sonnet-20241022 | 7.886 |
+| writerpalmyra-x5 | 7.886 |
 | gemini-2.5-pro-preview-06-05 | 7.871 |
 | gpt-5.2-2025-12-11 | 7.857 |
 | phi4-mini-reasoning | 7.857 |

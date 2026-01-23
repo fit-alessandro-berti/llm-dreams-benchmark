@@ -157,6 +157,7 @@
 | magistral-small-2506 | 8.529 |
 | gpt-5.2-2025-12-11 | 8.514 |
 | r1-1776 | 8.514 |
+| writerpalmyra-x5 | 8.514 |
 | QwenQwen3-14B | 8.500 |
 | z-aiglm-4.5 | 8.500 |
 | chatgpt-4o-latest-2025-01-29 | 8.486 |

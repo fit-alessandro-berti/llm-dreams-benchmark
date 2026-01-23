@@ -183,6 +183,7 @@
 | qwen31.7b | 7.957 |
 | meta-llamaLlama-3.3-70B-Instruct | 7.957 |
 | meta-llamallama-4-scout | 7.943 |
+| writerpalmyra-x5 | 7.943 |
 | QwenQwen3-30B-A3B | 7.929 |
 | claude-4-sonnet-20250514 | 7.914 |
 | ministral-14b-2512 | 7.900 |

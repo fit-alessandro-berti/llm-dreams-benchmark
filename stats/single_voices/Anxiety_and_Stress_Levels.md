@@ -52,6 +52,7 @@
 | meta-llamaMeta-Llama-3.1-70B-Instruct | 7.571 |
 | gemma31b-it-q8_0 | 7.529 |
 | gpt-5.2-pro-2025-12-11 | 7.529 |
+| writerpalmyra-x5 | 7.529 |
 | QwenQwen3-32B | 7.529 |
 | ibmgranite4350m-h | 7.514 |
 | deepseek-aiDeepSeek-R1-0528 | 7.514 |

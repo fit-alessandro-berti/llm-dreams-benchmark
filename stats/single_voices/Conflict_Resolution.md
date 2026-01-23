@@ -142,6 +142,7 @@
 | qwen31.7b | 7.500 |
 | deepseek-aiDeepSeek-R1-Zero | 7.500 |
 | meta-llamaMeta-Llama-3.1-8B-Instruct | 7.486 |
+| writerpalmyra-x5 | 7.486 |
 | Grok-4.1-20251118 | 7.429 |
 | moonshotaikimi-k2-thinking | 7.429 |
 | nvidiallama-3.3-nemotron-super-49b-v1 | 7.400 |

@@ -190,6 +190,7 @@
 | Qwen-QwQ-32B | 6.586 |
 | phi4-mini-reasoning | 6.571 |
 | gpt-5.2-2025-12-11 | 6.557 |
+| writerpalmyra-x5 | 6.529 |
 | meta-llamaLlama-3.2-1B-Instruct | 6.514 |
 | meta-llamaMeta-Llama-3.1-8B-Instruct | 6.471 |
 | ministral-3b-2512 | 6.457 |

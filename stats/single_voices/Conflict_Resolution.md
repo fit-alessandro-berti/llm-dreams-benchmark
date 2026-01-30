@@ -62,6 +62,7 @@
 | qwen-turbo-2024-11-01 | 8.171 |
 | open-mixtral-8x7b | 8.157 |
 | openaigpt-5.2-codex | 8.157 |
+| arcee-aitrinity-large-previewfree | 8.143 |
 | o1-pro-2024-12-05 | 8.143 |
 | o1-pro-2024-12-17 | 8.143 |
 | googlegemma-2-9b-it | 8.129 |
@@ -100,6 +101,7 @@
 | baiduernie-4.5-300b-a47b | 7.886 |
 | gpt-5-chat-latest-2025-08-19 | 7.886 |
 | falcon310b-instruct-q8_0 | 7.871 |
+| moonshotaikimi-k2.5 | 7.857 |
 | claude-3-7-sonnet-20250219 | 7.843 |
 | meta-llamaLlama-3.3-70B-Instruct | 7.843 |
 | gpt-4-1106-preview | 7.829 |
@@ -169,6 +171,7 @@
 | prime-intellectintellect-3 | 7.114 |
 | gemma34b-it-q8_0 | 7.043 |
 | grok-3-mini-beta | 7.029 |
+| minimaxminimax-m2-her | 7.029 |
 | tngtechdeepseek-r1t-chimerafree | 6.986 |
 | falcon37b-instruct-q8_0 | 6.986 |
 | x-aigrok-code-fast-1 | 6.971 |

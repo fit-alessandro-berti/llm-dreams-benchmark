@@ -49,6 +49,7 @@
 | liquidlfm-2.2-6b | 8.043 |
 | qwen2.5-32b-instruct | 8.043 |
 | codex-mini-latest | 8.043 |
+| arcee-aitrinity-large-previewfree | 8.029 |
 | gpt-4.1-2025-04-14 | 8.029 |
 | ministral-8b-2410 | 8.029 |
 | mistral-small-2503 | 8.029 |
@@ -139,6 +140,7 @@
 | granite4tiny-h | 7.143 |
 | meta-llamaMeta-Llama-3.1-405B-Instruct | 7.114 |
 | qwen38b | 7.114 |
+| moonshotaikimi-k2.5 | 7.114 |
 | claude-3-5-sonnet-20241022 | 7.086 |
 | magistral-small-2506 | 7.086 |
 | moonshotaikimi-k2 | 7.086 |
@@ -182,6 +184,7 @@
 | Gpt-5.1-Pro-20251120 | 6.729 |
 | z-aiglm-4.7-flash | 6.729 |
 | anthropicclaude-opus-4.1 | 6.700 |
+| minimaxminimax-m2-her | 6.700 |
 | ministral-8b-2512 | 6.700 |
 | meta-llamaLlama-3.3-70B-Instruct | 6.686 |
 | QwenQwen3-235B-A22B | 6.686 |

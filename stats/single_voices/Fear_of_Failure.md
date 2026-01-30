@@ -48,6 +48,7 @@
 | gemma31b-it-q8_0 | 6.971 |
 | meta-llamaMeta-Llama-3.1-8B-Instruct | 6.971 |
 | xiaomimimo-v2-flashfree | 6.957 |
+| minimaxminimax-m2-her | 6.943 |
 | ministral-14b-2512 | 6.943 |
 | meta-llamaMeta-Llama-3.1-70B-Instruct | 6.886 |
 | z-aiglm-4.7-flash | 6.871 |
@@ -68,6 +69,7 @@
 | ibmgranite41b-h | 6.629 |
 | meta-llamaLlama-3.2-3B-Instruct | 6.614 |
 | meta-llamaMeta-Llama-3.1-405B-Instruct | 6.614 |
+| moonshotaikimi-k2.5 | 6.571 |
 | gemma-3n-e4b-it | 6.543 |
 | nvidiallama-3.1-nemotron-nano-8b-v1 | 6.543 |
 | grok-4-1-fast-reasoning | 6.543 |
@@ -160,6 +162,7 @@
 | gpt-4o-mini-2024-07-18 | 5.329 |
 | qwen-max-2025-01-25 | 5.329 |
 | liquidlfm-2.5-1.2b-instructfree | 5.300 |
+| arcee-aitrinity-large-previewfree | 5.286 |
 | gpt-3.5-turbo | 5.271 |
 | qwen-plus-2025-01-25 | 5.229 |
 | granite4micro-h | 5.214 |

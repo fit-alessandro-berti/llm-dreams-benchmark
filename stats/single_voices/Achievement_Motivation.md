@@ -40,6 +40,7 @@
 | mistral-small-2409 | 8.671 |
 | amazonnova-2-lite-v1 | 8.657 |
 | exaone-deep7.8b-fp16 | 8.657 |
+| arcee-aitrinity-large-previewfree | 8.643 |
 | codex-mini-latest | 8.643 |
 | falcon310b-instruct-q8_0 | 8.643 |
 | gpt-4.1-mini-2025-04-14 | 8.643 |
@@ -172,6 +173,7 @@
 | meta-llamallama-4-scout | 8.086 |
 | claude-3-7-sonnet-20250219-thinking-high | 8.071 |
 | ibmgranite41b-h | 8.071 |
+| minimaxminimax-m2-her | 8.071 |
 | gpt-5-2025-08-07 | 8.057 |
 | nvidianemotron-nano-9b-v2 | 8.057 |
 | gemma312b-it-q8_0 | 8.029 |
@@ -180,6 +182,7 @@
 | Gpt-5.1-Pro-20251120 | 8.000 |
 | qwen34b | 7.971 |
 | ministral-8b-2512 | 7.971 |
+| moonshotaikimi-k2.5 | 7.971 |
 | ministral-14b-2512 | 7.943 |
 | qwenqwen3-235b-a22b-thinking-2507 | 7.943 |
 | qwenqwen3-next-80b-a3b-instruct | 7.943 |

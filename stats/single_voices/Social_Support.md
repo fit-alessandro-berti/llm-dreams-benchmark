@@ -45,6 +45,7 @@
 | openaigpt-oss-120b | 7.786 |
 | gpt-5-pro-2025-10-06 | 7.786 |
 | o3-mini-20250131-HIGH | 7.757 |
+| arcee-aitrinity-large-previewfree | 7.757 |
 | qwen-max-2025-01-25 | 7.743 |
 | gpt-4.1-nano-2025-04-14 | 7.729 |
 | gpt-5-2025-08-07 | 7.729 |
@@ -135,6 +136,7 @@
 | grok-4-1-fast-non-reasoning | 7.043 |
 | moonshotaikimi-linear-48b-a3b-instruct | 7.029 |
 | Grok-4-fast-20251111 | 7.029 |
+| moonshotaikimi-k2.5 | 7.029 |
 | qwen-turbo-0428 | 7.029 |
 | xiaomimimo-v2-flashfree | 7.000 |
 | liquidlfm-2.5-1.2b-thinkingfree | 6.986 |
@@ -213,6 +215,7 @@
 | mistral-large-2512 | 5.857 |
 | QwenQwen3-235B-A22B | 5.700 |
 | smollm2360m | 5.657 |
+| minimaxminimax-m2-her | 5.657 |
 | mistralaimistral-small-creative | 5.371 |
 | gemma31b-it-q8_0 | 5.314 |
 | ibmgranite4350m-h | 5.229 |

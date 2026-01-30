@@ -61,6 +61,7 @@
 | codex-mini-latest | 7.300 |
 | o1-pro-2024-12-05 | 7.286 |
 | granite4micro-h | 7.286 |
+| arcee-aitrinity-large-previewfree | 7.271 |
 | gpt-4.1-nano-2025-04-14 | 7.257 |
 | allenaiolmo-3.1-32b-instruct | 7.243 |
 | gpt-5-2025-08-07 | 7.243 |
@@ -140,6 +141,7 @@
 | anthropicclaude-opus-4.1 | 6.386 |
 | claude-3-5-sonnet-20241022 | 6.371 |
 | gemma-3-27b-it | 6.371 |
+| moonshotaikimi-k2.5 | 6.371 |
 | qwen38b | 6.371 |
 | qwenqwen3-235b-a22b-07-25 | 6.329 |
 | Gpt-5.1-Pro-20251120 | 6.329 |
@@ -198,6 +200,7 @@
 | gpt-5-chat-latest-2025-08-07 | 5.471 |
 | nvidiallama-3.1-nemotron-nano-8b-v1 | 5.414 |
 | qwenqwen3-235b-a22b-thinking-2507 | 5.400 |
+| minimaxminimax-m2-her | 5.343 |
 | ministral-3b-2512 | 5.329 |
 | gemma31b-it-q8_0 | 5.314 |
 | gemini-2.5-flash-preview-09-2025 | 5.286 |

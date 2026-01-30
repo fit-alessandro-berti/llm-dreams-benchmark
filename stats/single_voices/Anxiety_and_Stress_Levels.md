@@ -34,6 +34,7 @@
 | gpt-5-chat-latest-2025-08-07 | 7.686 |
 | z-aiglm-4.5 | 7.686 |
 | grok-3-mini-beta | 7.686 |
+| minimaxminimax-m2-her | 7.686 |
 | Qwen-QwQ-32B | 7.671 |
 | meta-llamallama-4-scout | 7.671 |
 | ministral-14b-2512 | 7.643 |
@@ -65,6 +66,7 @@
 | gemini-2.5-pro-preview-05-06 | 7.443 |
 | nvidiallama-3.3-nemotron-super-49b-v1 | 7.443 |
 | nvidiallama-3.1-nemotron-nano-8b-v1 | 7.414 |
+| moonshotaikimi-k2.5 | 7.400 |
 | meta-llamaLlama-3.2-3B-Instruct | 7.386 |
 | x-aigrok-code-fast-1 | 7.386 |
 | chatgpt-4o-latest-2025-01-29 | 7.386 |
@@ -147,6 +149,7 @@
 | chatgpt-4o-latest-2025-03-26 | 6.357 |
 | qwen2.5-7b-instruct | 6.286 |
 | o1-pro-2024-12-05 | 6.229 |
+| arcee-aitrinity-large-previewfree | 6.214 |
 | o1-2024-12-17 | 6.214 |
 | openaigpt-5.2-codex | 6.200 |
 | gpt-5-2025-08-07 | 6.186 |

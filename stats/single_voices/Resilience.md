@@ -65,6 +65,7 @@
 | granite4micro | 8.771 |
 | phi4-reasoning | 8.771 |
 | qwen-plus-2025-01-25 | 8.757 |
+| arcee-aitrinity-large-previewfree | 8.757 |
 | Grok-4-fast | 8.757 |
 | nvidianemotron-3-nano-30b-a3bfree | 8.757 |
 | o1-2024-12-05 | 8.743 |
@@ -122,6 +123,7 @@
 | grok-4-1-fast-non-reasoning | 8.457 |
 | claude-3-7-sonnet-20250219 | 8.457 |
 | gemini-2.5-flash-lite-preview-06-17 | 8.457 |
+| moonshotaikimi-k2.5 | 8.457 |
 | Grok-3-beta-thinking-20250303 | 8.443 |
 | claude-3-7-sonnet-20250219-thinking-high | 8.429 |
 | deepseekdeepseek-chat-v3.1 | 8.429 |
@@ -203,6 +205,7 @@
 | ministral-3b-2512 | 7.457 |
 | meta-llamallama-4-maverick | 7.414 |
 | gemma34b-it-q8_0 | 7.386 |
+| minimaxminimax-m2-her | 7.386 |
 | gemma31b-it-q8_0 | 7.371 |
 | arcee-aitrinity-mini | 7.314 |
 | gemini-2.0-flash-lite-preview-02-05 | 7.314 |

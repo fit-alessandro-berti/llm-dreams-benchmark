@@ -4,6 +4,7 @@
 |:--|--:|
 | anthropicclaude-opus-4.1 | 9.771 |
 | gemini-3-pro-preview | 9.757 |
+| moonshotaikimi-k2.5 | 9.729 |
 | moonshotaikimi-k2 | 9.729 |
 | openaigpt-oss-120b | 9.729 |
 | claude-4-opus-20250514 | 9.714 |
@@ -142,6 +143,7 @@
 | microsoftWizardLM-2-8x22B | 9.357 |
 | phi3.53.8b-mini-instruct-fp16 | 9.357 |
 | qwen-turbo-0428 | 9.357 |
+| arcee-aitrinity-large-previewfree | 9.343 |
 | Gemini-1.5-Pro-Exp-0801 | 9.343 |
 | Grok-3-20250426-concise | 9.343 |
 | meta-llamaMeta-Llama-3.1-70B-Instruct | 9.343 |
@@ -214,6 +216,7 @@
 | meta-llamaLlama-3.2-1B-Instruct | 8.957 |
 | arcee-aitrinity-mini | 8.900 |
 | ibmgranite41b-h | 8.829 |
+| minimaxminimax-m2-her | 8.629 |
 | phi4-mini-reasoning | 8.586 |
 | deepseek-aiDeepSeek-R1-Zero | 8.543 |
 | essentialairnj-1-instruct | 8.257 |

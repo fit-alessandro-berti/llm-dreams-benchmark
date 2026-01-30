@@ -55,11 +55,13 @@
 | grok-4-1-fast-reasoning | 7.686 |
 | gpt-5.2-2025-12-11 | 7.686 |
 | mistral-medium-2508 | 7.671 |
+| minimaxminimax-m2-her | 7.657 |
 | gpt-5.2-pro-2025-12-11 | 7.643 |
 | meta-llamaLlama-3.2-3B-Instruct | 7.643 |
 | claude-3-5-haiku-20241022 | 7.600 |
 | deepseek-aiDeepSeek-R1-0528 | 7.586 |
 | DeepSeek-V3-0324 | 7.571 |
+| moonshotaikimi-k2.5 | 7.557 |
 | gemma-3n-e4b-it | 7.529 |
 | meta-llamaLlama-3.2-1B-Instruct | 7.514 |
 | chatgpt-4o-latest-20250215 | 7.514 |
@@ -135,6 +137,7 @@
 | minimaxminimax-m2.1 | 6.629 |
 | qwen34b | 6.614 |
 | gpt-3.5-turbo | 6.614 |
+| arcee-aitrinity-large-previewfree | 6.586 |
 | gpt-5-pro-2025-10-06 | 6.571 |
 | qwen-max-2025-01-25 | 6.514 |
 | qwenqwen3-next-80b-a3b-instruct | 6.514 |

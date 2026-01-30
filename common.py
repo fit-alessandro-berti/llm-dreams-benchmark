@@ -1,4 +1,4 @@
-ANSWERING_MODEL_NAME = "writer/palmyra-x5"
+ANSWERING_MODEL_NAME = "arcee-ai/trinity-large-preview:free"
 EVALUATING_MODEL_NAME = "gpt-4.1"
 
 

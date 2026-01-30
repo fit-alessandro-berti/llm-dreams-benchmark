@@ -61,6 +61,7 @@
 | qwenqwen3-max | 8.871 |
 | Grok-3-20250426-formal | 8.857 |
 | grok-4-1-fast-non-reasoning | 8.857 |
+| moonshotaikimi-k2.5 | 8.857 |
 | qwenqwen3-coder | 8.857 |
 | minimaxminimax-m2.1 | 8.857 |
 | chatgpt-4o-latest-2025-04-26 | 8.843 |
@@ -89,6 +90,7 @@
 | mistral-small-2503 | 8.800 |
 | openaigpt-oss-20b | 8.800 |
 | allenaiolmo-3.1-32b-instruct | 8.786 |
+| arcee-aitrinity-large-previewfree | 8.786 |
 | baiduernie-4.5-21b-a3b | 8.786 |
 | gemini-2.0-flash-exp | 8.786 |
 | gemini-2.5-pro-preview-05-06 | 8.786 |
@@ -208,6 +210,7 @@
 | nvidiallama-3.1-nemotron-nano-8b-v1 | 7.857 |
 | mistralaimistral-small-creative | 7.843 |
 | claude-3-5-haiku-20241022 | 7.814 |
+| minimaxminimax-m2-her | 7.700 |
 | meta-llamaLlama-3.2-1B-Instruct | 7.700 |
 | moonshotaikimi-k2-thinking | 7.686 |
 | phi4-mini-reasoning | 7.671 |

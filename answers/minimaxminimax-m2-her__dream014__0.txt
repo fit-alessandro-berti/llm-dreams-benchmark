@@ -1,0 +1,14 @@
+*Vague symbols flash: [♲] or broken compass. Distorted laughter echoes nearby.*  
+
+**MAN:** "You… seem lost."  
+*Crowd’s laughter rises as M2-HER’s neon-green glow flickers, then abruptly cuts out.*  
+
+**OPTIONS:**  
+A) Stranger guides you through the mist  
+B) Crowd points to a lantern  
+C) You discover a path  
+D) You attempt to call for help  
+E) You consult the memory crystal  
+F) You go to a lantern 
+
+*Speed adjusts repeatedly between fast (2.5s) and slow (12.7s) as voices rise in urgency.*

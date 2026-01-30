@@ -17,6 +17,7 @@
 | QwenQwen3-235B-A22B | 8.400 |
 | gemini-2.5-flash-preview-04-17 | 8.386 |
 | QwenQwen3-30B-A3B | 8.371 |
+| moonshotaikimi-k2.5 | 8.371 |
 | gemma31b-it-q8_0 | 8.343 |
 | gemma34b-it-q8_0 | 8.314 |
 | writerpalmyra-x5 | 8.257 |
@@ -95,6 +96,7 @@
 | granite4tiny-h | 7.657 |
 | grok-4-1-fast-non-reasoning | 7.657 |
 | claude-3-opus-20240229 | 7.643 |
+| minimaxminimax-m2-her | 7.643 |
 | ibmgranite4350m-h | 7.629 |
 | googlegemma-2-2b-it | 7.600 |
 | gemini-2.5-pro-preview-05-06 | 7.600 |
@@ -153,6 +155,7 @@
 | openaigpt-5.1-codex-max | 7.186 |
 | deepseekdeepseek-v3.2-speciale | 7.157 |
 | openaigpt-5.2-codex | 7.143 |
+| arcee-aitrinity-large-previewfree | 7.129 |
 | granite4micro-h | 7.129 |
 | allenaiolmo-3.1-32b-instruct | 7.114 |
 | gemini-2.5-pro-preview-06-05 | 7.114 |

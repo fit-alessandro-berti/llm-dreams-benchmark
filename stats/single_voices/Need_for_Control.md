@@ -3,6 +3,7 @@
 | Model | Average |
 |:--|--:|
 | phi4-mini-reasoning | 7.714 |
+| minimaxminimax-m2-her | 7.200 |
 | arcee-aitrinity-mini | 7.043 |
 | essentialairnj-1-instruct | 6.943 |
 | mistral-small-2506 | 6.929 |
@@ -111,6 +112,7 @@
 | moonshotaikimi-k2-thinking | 6.200 |
 | smollm2135m | 6.200 |
 | chatgpt-4o-latest-2025-01-29 | 6.200 |
+| arcee-aitrinity-large-previewfree | 6.186 |
 | granite4micro-h | 6.186 |
 | mistral-medium-2508 | 6.171 |
 | claude-3-5-sonnet-20241022 | 6.157 |
@@ -190,6 +192,7 @@
 | z-aiglm-4.7-flash | 5.629 |
 | openaigpt-5.1-codex-max | 5.614 |
 | openaigpt-oss-20b | 5.600 |
+| moonshotaikimi-k2.5 | 5.571 |
 | nvidianemotron-3-nano-30b-a3bfree | 5.571 |
 | chatgpt-4o-latest-2025-03-26 | 5.557 |
 | gemini-2.0-flash-exp | 5.543 |

@@ -53,6 +53,7 @@
 | ministral-3b-2410 | 7.900 |
 | qwen-max-2025-01-25 | 7.871 |
 | falcon37b-instruct-q8_0 | 7.871 |
+| arcee-aitrinity-large-previewfree | 7.857 |
 | qwen2.5-7b-instruct | 7.843 |
 | liquidlfm-2.2-6b | 7.829 |
 | o3-2025-04-16 | 7.829 |
@@ -129,6 +130,7 @@
 | qwenqwen3-235b-a22b-07-25 | 7.243 |
 | anthropicclaude-opus-4.1 | 7.229 |
 | gemini-1.5-flash-8b | 7.229 |
+| moonshotaikimi-k2.5 | 7.229 |
 | gemini-3-flash-preview | 7.214 |
 | Grok-4-fast-20251111 | 7.214 |
 | meta-llamallama-4-scout | 7.214 |
@@ -198,6 +200,7 @@
 | Qwen-QwQ-32B | 6.257 |
 | arcee-aitrinity-mini | 6.243 |
 | anthropicclaude-sonnet-4.5 | 6.129 |
+| minimaxminimax-m2-her | 6.114 |
 | gpt-5-chat-latest-2025-08-07 | 6.114 |
 | ministral-3b-2512 | 6.114 |
 | gemini-2.5-pro-exp-03-25 | 6.086 |

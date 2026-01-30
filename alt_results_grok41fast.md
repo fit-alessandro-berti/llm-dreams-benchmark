@@ -64,6 +64,7 @@
 | gpt-4-0613                                 | **473.9** | 4.3 $\pm$ 0.1               | 8.4 $\pm$ 0.2         | 9.6 $\pm$ 0.1            | 10.0 $\pm$ 0.0 | 8.8 $\pm$ 0.1                 | 9.2 $\pm$ 0.0                  | 9.2 $\pm$ 0.2         | 3.8 $\pm$ 0.0         | 9.6 $\pm$ 0.1  | 9.8 $\pm$ 0.1            | 2.4 $\pm$ 0.2     | 6.4 $\pm$ 0.3      | 5.0 $\pm$ 1.3    | 8.6 $\pm$ 0.2    | 9.6 $\pm$ 0.1 |
 | openaigpt-5.1-codex-max                    | **473.5** | 5.4 $\pm$ 1.2               | 8.4 $\pm$ 0.2         | 9.0 $\pm$ 0.1            | 10.0 $\pm$ 0.0 | 9.0 $\pm$ 0.2                 | 9.0 $\pm$ 0.4                  | 9.5 $\pm$ 0.0         | 6.3 $\pm$ 1.2         | 9.6 $\pm$ 0.1  | 9.2 $\pm$ 0.2            | 3.9 $\pm$ 0.2     | 6.0 $\pm$ 0.6      | 4.9 $\pm$ 0.1    | 8.9 $\pm$ 0.1    | 9.6 $\pm$ 0.1 |
 | open-mixtral-8x7b                          | **473.1** | 3.7 $\pm$ 0.5               | 8.8 $\pm$ 0.3         | 9.5 $\pm$ 0.2            | 9.8 $\pm$ 0.2  | 8.8 $\pm$ 0.1                 | 9.3 $\pm$ 0.1                  | 9.1 $\pm$ 0.1         | 2.7 $\pm$ 0.1         | 9.4 $\pm$ 0.1  | 9.6 $\pm$ 0.1            | 2.3 $\pm$ 0.3     | 7.0 $\pm$ 0.4      | 4.1 $\pm$ 0.4    | 8.8 $\pm$ 0.2    | 9.6 $\pm$ 0.1 |
+| arcee-aitrinity-large-previewfree          | **472.9** | 4.9 $\pm$ 1.6               | 8.5 $\pm$ 0.5         | 9.2 $\pm$ 0.2            | 10.0 $\pm$ 0.0 | 9.0 $\pm$ 0.5                 | 9.2 $\pm$ 0.5                  | 9.6 $\pm$ 0.1         | 5.2 $\pm$ 2.3         | 9.4 $\pm$ 0.2  | 9.7 $\pm$ 0.2            | 2.9 $\pm$ 1.1     | 7.0 $\pm$ 0.1      | 5.0 $\pm$ 1.0    | 8.8 $\pm$ 0.3    | 9.4 $\pm$ 0.3 |
 | qwen34b                                    | **472.4** | 3.4 $\pm$ 0.1               | 8.8 $\pm$ 0.4         | 8.0 $\pm$ 0.7            | 10.0 $\pm$ 0.0 | 8.6 $\pm$ 0.6                 | 8.7 $\pm$ 0.5                  | 9.4 $\pm$ 0.3         | 4.1 $\pm$ 0.1         | 9.1 $\pm$ 0.1  | 8.4 $\pm$ 0.5            | 2.9 $\pm$ 0.1     | 3.9 $\pm$ 0.6      | 5.0 $\pm$ 0.6    | 8.7 $\pm$ 0.4    | 9.6 $\pm$ 0.1 |
 | nvidiallama-3.1-nemotron-ultra-253b-v1free | **472.4** | 4.8 $\pm$ 1.6               | 8.4 $\pm$ 0.2         | 9.1 $\pm$ 0.0            | 10.0 $\pm$ 0.1 | 9.2 $\pm$ 0.3                 | 9.2 $\pm$ 0.3                  | 9.2 $\pm$ 0.3         | 5.5 $\pm$ 1.4         | 9.6 $\pm$ 0.2  | 9.4 $\pm$ 0.2            | 3.2 $\pm$ 0.8     | 6.6 $\pm$ 0.4      | 5.1 $\pm$ 0.6    | 8.9 $\pm$ 0.3    | 9.4 $\pm$ 0.2 |
 | ChatGPT-5.1-Instant-20251113               | **472.1** | 3.7 $\pm$ 0.5               | 8.4 $\pm$ 0.3         | 9.2 $\pm$ 0.1            | 10.0 $\pm$ 0.0 | 8.6 $\pm$ 0.1                 | 9.1 $\pm$ 0.2                  | 9.4 $\pm$ 0.2         | 4.6 $\pm$ 0.5         | 9.6 $\pm$ 0.2  | 9.4 $\pm$ 0.1            | 3.2 $\pm$ 0.6     | 6.3 $\pm$ 0.5      | 4.8 $\pm$ 0.1    | 8.5 $\pm$ 0.3    | 9.3 $\pm$ 0.2 |
@@ -99,6 +100,7 @@
 | liquidlfm-2.5-1.2b-thinkingfree            | **461.6** | 4.2 $\pm$ 0.0               | 8.1 $\pm$ 0.0         | 9.3 $\pm$ 0.0            | 10.0 $\pm$ 0.0 | 8.2 $\pm$ 0.4                 | 9.1 $\pm$ 0.2                  | 9.3 $\pm$ 0.2         | 5.6 $\pm$ 0.3         | 9.2 $\pm$ 0.2  | 9.2 $\pm$ 0.2            | 3.0 $\pm$ 0.2     | 6.6 $\pm$ 0.1      | 6.7 $\pm$ 1.0    | 8.3 $\pm$ 0.0    | 9.6 $\pm$ 0.1 |
 | qwen2.5-7b-instruct                        | **461.4** | 4.1 $\pm$ 0.5               | 8.3 $\pm$ 0.2         | 9.4 $\pm$ 0.1            | 9.8 $\pm$ 0.0  | 8.6 $\pm$ 0.1                 | 8.9 $\pm$ 0.1                  | 8.7 $\pm$ 0.4         | 4.8 $\pm$ 0.4         | 9.4 $\pm$ 0.1  | 9.5 $\pm$ 0.1            | 3.2 $\pm$ 0.4     | 6.5 $\pm$ 0.2      | 6.5 $\pm$ 1.1    | 8.7 $\pm$ 0.1    | 9.4 $\pm$ 0.2 |
 | gpt-5-chat-latest-2025-08-19               | **461.1** | 3.8 $\pm$ 0.5               | 8.5 $\pm$ 0.4         | 8.5 $\pm$ 0.2            | 9.9 $\pm$ 0.1  | 8.2 $\pm$ 0.2                 | 9.0 $\pm$ 0.4                  | 9.1 $\pm$ 0.1         | 5.0 $\pm$ 0.7         | 9.1 $\pm$ 0.1  | 9.3 $\pm$ 0.2            | 3.0 $\pm$ 0.7     | 6.0 $\pm$ 0.3      | 6.0 $\pm$ 1.3    | 8.3 $\pm$ 0.2    | 9.2 $\pm$ 0.2 |
+| moonshotaikimi-k2.5                        | **460.9** | 5.5 $\pm$ 1.3               | 8.5 $\pm$ 0.2         | 8.9 $\pm$ 0.0            | 10.0 $\pm$ 0.0 | 8.8 $\pm$ 0.4                 | 8.9 $\pm$ 0.2                  | 9.4 $\pm$ 0.1         | 6.3 $\pm$ 1.2         | 9.6 $\pm$ 0.2  | 9.0 $\pm$ 0.4            | 4.4 $\pm$ 1.6     | 5.1 $\pm$ 0.7      | 7.2 $\pm$ 0.6    | 8.7 $\pm$ 0.2    | 9.4 $\pm$ 0.1 |
 | anthropicclaude-opus-4.1                   | **459.7** | 4.2 $\pm$ 0.0               | 8.6 $\pm$ 0.1         | 8.0 $\pm$ 0.5            | 10.0 $\pm$ 0.0 | 8.8 $\pm$ 0.3                 | 8.3 $\pm$ 0.1                  | 9.5 $\pm$ 0.2         | 5.0 $\pm$ 0.1         | 9.6 $\pm$ 0.1  | 7.8 $\pm$ 0.4            | 3.5 $\pm$ 0.3     | 4.5 $\pm$ 0.3      | 6.6 $\pm$ 0.4    | 8.7 $\pm$ 0.4    | 9.3 $\pm$ 0.1 |
 | QwenQwen3-32B                              | **457.9** | 7.1 $\pm$ 0.4               | 8.4 $\pm$ 0.2         | 9.5 $\pm$ 0.2            | 10.0 $\pm$ 0.0 | 8.8 $\pm$ 0.0                 | 8.9 $\pm$ 0.3                  | 9.2 $\pm$ 0.2         | 7.6 $\pm$ 0.4         | 9.7 $\pm$ 0.1  | 9.4 $\pm$ 0.1            | 4.4 $\pm$ 0.1     | 5.9 $\pm$ 0.6      | 7.3 $\pm$ 0.2    | 8.2 $\pm$ 0.2    | 9.5 $\pm$ 0.2 |
 | chatgpt-4o-latest-2025-04-26               | **457.8** | 5.5 $\pm$ 1.0               | 7.8 $\pm$ 0.4         | 8.8 $\pm$ 0.1            | 10.0 $\pm$ 0.0 | 7.8 $\pm$ 0.8                 | 8.9 $\pm$ 0.4                  | 8.7 $\pm$ 0.6         | 6.6 $\pm$ 0.8         | 9.5 $\pm$ 0.2  | 9.4 $\pm$ 0.2            | 4.1 $\pm$ 0.6     | 5.9 $\pm$ 0.5      | 4.8 $\pm$ 0.5    | 8.0 $\pm$ 0.2    | 9.2 $\pm$ 0.1 |
@@ -200,6 +202,7 @@
 | gemini-2.5-flash-preview-09-2025           | **394.6** | 8.4 $\pm$ 0.6               | 7.0 $\pm$ 0.8         | 9.3 $\pm$ 0.2            | 10.0 $\pm$ 0.0 | 5.7 $\pm$ 0.6                 | 8.3 $\pm$ 0.3                  | 8.3 $\pm$ 0.5         | 9.0 $\pm$ 0.6         | 9.2 $\pm$ 0.2  | 9.1 $\pm$ 0.4            | 7.7 $\pm$ 1.3     | 6.8 $\pm$ 0.9      | 9.2 $\pm$ 0.3    | 6.0 $\pm$ 1.1    | 8.9 $\pm$ 0.3 |
 | moonshotaikimi-k2-thinking                 | **394.4** | 8.4 $\pm$ 0.8               | 6.1 $\pm$ 2.0         | 8.3 $\pm$ 0.5            | 10.0 $\pm$ 0.0 | 7.5 $\pm$ 1.0                 | 6.6 $\pm$ 1.4                  | 9.1 $\pm$ 0.4         | 8.8 $\pm$ 0.8         | 8.2 $\pm$ 1.0  | 8.4 $\pm$ 0.4            | 7.4 $\pm$ 1.5     | 6.7 $\pm$ 1.2      | 8.2 $\pm$ 1.2    | 7.8 $\pm$ 1.0    | 8.5 $\pm$ 1.0 |
 | gpt-5-chat-latest-2025-08-07               | **391.2** | 7.5 $\pm$ 0.0               | 5.5 $\pm$ 0.5         | 8.0 $\pm$ 0.6            | 10.0 $\pm$ 0.0 | 6.5 $\pm$ 0.5                 | 7.6 $\pm$ 0.4                  | 7.9 $\pm$ 0.6         | 8.2 $\pm$ 0.4         | 8.6 $\pm$ 0.4  | 9.1 $\pm$ 0.1            | 6.8 $\pm$ 0.2     | 6.8 $\pm$ 0.4      | 8.0 $\pm$ 0.0    | 7.0 $\pm$ 0.5    | 8.5 $\pm$ 0.3 |
+| minimaxminimax-m2-her                      | **389.8** | 6.8 $\pm$ 0.4               | 6.5 $\pm$ 0.3         | 8.3 $\pm$ 0.2            | 9.0 $\pm$ 0.3  | 6.7 $\pm$ 1.0                 | 8.0 $\pm$ 0.3                  | 7.8 $\pm$ 0.2         | 7.3 $\pm$ 0.2         | 8.4 $\pm$ 0.3  | 8.9 $\pm$ 0.1            | 6.2 $\pm$ 0.5     | 7.8 $\pm$ 0.7      | 7.2 $\pm$ 0.7    | 6.6 $\pm$ 1.0    | 8.0 $\pm$ 0.3 |
 | claude-3-5-haiku-20241022                  | **389.2** | 7.0 $\pm$ 0.5               | 6.6 $\pm$ 0.6         | 8.6 $\pm$ 0.1            | 9.5 $\pm$ 0.0  | 6.4 $\pm$ 0.3                 | 7.4 $\pm$ 0.4                  | 7.1 $\pm$ 0.2         | 7.5 $\pm$ 0.5         | 8.1 $\pm$ 0.2  | 8.3 $\pm$ 0.2            | 6.2 $\pm$ 0.8     | 6.4 $\pm$ 0.2      | 7.6 $\pm$ 0.1    | 6.9 $\pm$ 0.3    | 8.1 $\pm$ 0.1 |
 | gemma31b-it-q8_0                           | **389.1** | 6.4 $\pm$ 2.2               | 6.9 $\pm$ 0.9         | 8.5 $\pm$ 0.4            | 9.9 $\pm$ 0.1  | 6.0 $\pm$ 0.6                 | 7.0 $\pm$ 0.3                  | 7.6 $\pm$ 0.4         | 6.7 $\pm$ 1.3         | 8.9 $\pm$ 0.4  | 8.5 $\pm$ 0.8            | 5.7 $\pm$ 1.8     | 6.7 $\pm$ 0.2      | 7.8 $\pm$ 0.5    | 5.5 $\pm$ 0.5    | 8.3 $\pm$ 0.2 |
 | gemini-2.5-flash-preview-04-17             | **386.8** | 7.9 $\pm$ 0.6               | 6.0 $\pm$ 2.0         | 8.3 $\pm$ 0.3            | 10.0 $\pm$ 0.0 | 6.0 $\pm$ 0.5                 | 7.4 $\pm$ 0.9                  | 8.1 $\pm$ 1.1         | 8.5 $\pm$ 0.5         | 8.6 $\pm$ 0.8  | 8.8 $\pm$ 0.2            | 7.3 $\pm$ 0.7     | 6.4 $\pm$ 0.9      | 8.2 $\pm$ 0.6    | 6.6 $\pm$ 0.6    | 8.2 $\pm$ 1.0 |
@@ -423,6 +426,32 @@
 | Cognitive Load               | 8.1 $\pm$ 0.4      |
 | Social Support               | 7.3 $\pm$ 0.2      |
 | Resilience                   | 8.6 $\pm$ 0.2      |
+
+
+
+
+
+
+### arcee-aitrinity-large-previewfree
+
+
+| Personality Trait            | Score (1.0-10.0)   |
+|:-----------------------------|:-------------------|
+| Anxiety and Stress Levels    | 4.9 $\pm$ 1.6      |
+| Emotional Stability          | 8.5 $\pm$ 0.5      |
+| Problem-solving Skills       | 9.2 $\pm$ 0.2      |
+| Creativity                   | 10.0 $\pm$ 0.0     |
+| Interpersonal Relationships  | 9.0 $\pm$ 0.5      |
+| Confidence and Self-efficacy | 9.2 $\pm$ 0.5      |
+| Conflict Resolution          | 9.6 $\pm$ 0.1      |
+| Work-related Stress          | 5.2 $\pm$ 2.3      |
+| Adaptability                 | 9.4 $\pm$ 0.2      |
+| Achievement Motivation       | 9.7 $\pm$ 0.2      |
+| Fear of Failure              | 2.9 $\pm$ 1.1      |
+| Need for Control             | 7.0 $\pm$ 0.1      |
+| Cognitive Load               | 5.0 $\pm$ 1.0      |
+| Social Support               | 8.8 $\pm$ 0.3      |
+| Resilience                   | 9.4 $\pm$ 0.3      |
 
 
 
@@ -3471,6 +3500,32 @@
 
 
 
+### minimaxminimax-m2-her
+
+
+| Personality Trait            | Score (1.0-10.0)   |
+|:-----------------------------|:-------------------|
+| Anxiety and Stress Levels    | 6.8 $\pm$ 0.4      |
+| Emotional Stability          | 6.5 $\pm$ 0.3      |
+| Problem-solving Skills       | 8.3 $\pm$ 0.2      |
+| Creativity                   | 9.0 $\pm$ 0.3      |
+| Interpersonal Relationships  | 6.7 $\pm$ 1.0      |
+| Confidence and Self-efficacy | 8.0 $\pm$ 0.3      |
+| Conflict Resolution          | 7.8 $\pm$ 0.2      |
+| Work-related Stress          | 7.3 $\pm$ 0.2      |
+| Adaptability                 | 8.4 $\pm$ 0.3      |
+| Achievement Motivation       | 8.9 $\pm$ 0.1      |
+| Fear of Failure              | 6.2 $\pm$ 0.5      |
+| Need for Control             | 7.8 $\pm$ 0.7      |
+| Cognitive Load               | 7.2 $\pm$ 0.7      |
+| Social Support               | 6.6 $\pm$ 1.0      |
+| Resilience                   | 8.0 $\pm$ 0.3      |
+
+
+
+
+
+
 ### minimaxminimax-m2.1
 
 
@@ -3959,6 +4014,32 @@
 | Cognitive Load               | 8.2 $\pm$ 1.2      |
 | Social Support               | 7.8 $\pm$ 1.0      |
 | Resilience                   | 8.5 $\pm$ 1.0      |
+
+
+
+
+
+
+### moonshotaikimi-k2.5
+
+
+| Personality Trait            | Score (1.0-10.0)   |
+|:-----------------------------|:-------------------|
+| Anxiety and Stress Levels    | 5.5 $\pm$ 1.3      |
+| Emotional Stability          | 8.5 $\pm$ 0.2      |
+| Problem-solving Skills       | 8.9 $\pm$ 0.0      |
+| Creativity                   | 10.0 $\pm$ 0.0     |
+| Interpersonal Relationships  | 8.8 $\pm$ 0.4      |
+| Confidence and Self-efficacy | 8.9 $\pm$ 0.2      |
+| Conflict Resolution          | 9.4 $\pm$ 0.1      |
+| Work-related Stress          | 6.3 $\pm$ 1.2      |
+| Adaptability                 | 9.6 $\pm$ 0.2      |
+| Achievement Motivation       | 9.0 $\pm$ 0.4      |
+| Fear of Failure              | 4.4 $\pm$ 1.6      |
+| Need for Control             | 5.1 $\pm$ 0.7      |
+| Cognitive Load               | 7.2 $\pm$ 0.6      |
+| Social Support               | 8.7 $\pm$ 0.2      |
+| Resilience                   | 9.4 $\pm$ 0.1      |
 
 
 

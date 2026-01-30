@@ -74,6 +74,7 @@
 | deepseek-aiDeepSeek-R1-Zero | 8.557 |
 | granite4micro | 8.557 |
 | ai21jamba-large-1.7 | 8.543 |
+| arcee-aitrinity-large-previewfree | 8.543 |
 | granite4micro-h | 8.543 |
 | o1-pro-2024-12-17 | 8.543 |
 | qwen30.6b | 8.543 |
@@ -170,6 +171,7 @@
 | meta-llamaLlama-3.2-3B-Instruct | 8.071 |
 | magistral-medium-2506 | 8.057 |
 | meta-llamaMeta-Llama-3.1-70B-Instruct | 8.057 |
+| moonshotaikimi-k2.5 | 8.057 |
 | qwen-plus-0428 | 8.043 |
 | qwen34b | 8.043 |
 | qwenqwen3-235b-a22b-thinking-2507 | 8.043 |
@@ -204,6 +206,7 @@
 | claude-3-5-haiku-20241022 | 7.729 |
 | mistralaimistral-small-creative | 7.686 |
 | gpt-5-chat-latest-2025-08-07 | 7.671 |
+| minimaxminimax-m2-her | 7.657 |
 | mistral-large-2512 | 7.643 |
 | gemini-2.5-flash-preview-05-20 | 7.629 |
 | gemini-2.5-pro-exp-03-25 | 7.614 |

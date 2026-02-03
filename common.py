@@ -1,4 +1,4 @@
-ANSWERING_MODEL_NAME = "arcee-ai/trinity-large-preview:free"
+ANSWERING_MODEL_NAME = "stepfun/step-3.5-flash:free"
 EVALUATING_MODEL_NAME = "gpt-4.1"
 
 

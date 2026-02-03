@@ -122,6 +122,7 @@
 | qwen-turbo-0428 | 7.314 |
 | gpt-5-pro-2025-10-06 | 7.314 |
 | qwenqwen3-max | 7.300 |
+| stepfunstep-3.5-flashfree | 7.286 |
 | deepseekdeepseek-r1 | 7.286 |
 | grok-4-1-fast-reasoning | 7.257 |
 | allenaiolmo-3-7b-instruct | 7.229 |

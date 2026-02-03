@@ -97,6 +97,7 @@
 | chatgpt-4o-latest-2024-11-20 | 7.029 |
 | deepseekdeepseek-chat-v3.1 | 7.000 |
 | claude-3-5-sonnet-20241022 | 6.986 |
+| stepfunstep-3.5-flashfree | 6.986 |
 | Grok-3-beta-thinking-20250303 | 6.943 |
 | anthropicclaude-opus-4.1 | 6.929 |
 | claude-3-7-sonnet-20250219 | 6.929 |

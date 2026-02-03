@@ -62,6 +62,7 @@
 | gemma312b-it-q8_0 | 9.529 |
 | qwen2.5-14b-instruct | 9.529 |
 | qwenqwen3-coder | 9.529 |
+| stepfunstep-3.5-flashfree | 9.529 |
 | Gemini-1.5-Pro-Exp-0827 | 9.529 |
 | minimaxminimax-m2free | 9.529 |
 | allenaiolmo-3-7b-think | 9.514 |

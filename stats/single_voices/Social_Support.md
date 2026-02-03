@@ -158,6 +158,7 @@
 | claude-opus-4-5-20251101 | 6.843 |
 | allenaiolmo-3-7b-think | 6.843 |
 | grok-4-0709 | 6.829 |
+| stepfunstep-3.5-flashfree | 6.829 |
 | deepseek-aiDeepSeek-R1-0528 | 6.814 |
 | gemma312b-it-q8_0 | 6.800 |
 | claude-3-5-sonnet-20241022 | 6.800 |

@@ -130,6 +130,7 @@
 | Gemini-1.5-Pro-Exp-0801 | 8.429 |
 | gemini-2.5-pro-preview-05-06 | 8.429 |
 | qwen38b | 8.414 |
+| stepfunstep-3.5-flashfree | 8.414 |
 | qwen31.7b | 8.414 |
 | gemma-3-27b-it | 8.400 |
 | chatgpt-4o-latest-2024-11-20 | 8.386 |

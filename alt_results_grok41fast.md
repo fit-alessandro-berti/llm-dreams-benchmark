@@ -142,6 +142,7 @@
 | x-aigrok-code-fast-1                       | **444.1** | 6.5 $\pm$ 0.0               | 7.8 $\pm$ 0.1         | 9.3 $\pm$ 0.1            | 10.0 $\pm$ 0.0 | 8.0 $\pm$ 0.3                 | 8.6 $\pm$ 0.1                  | 8.3 $\pm$ 0.2         | 6.8 $\pm$ 0.5         | 9.4 $\pm$ 0.2  | 9.2 $\pm$ 0.2            | 4.2 $\pm$ 0.1     | 6.4 $\pm$ 0.6      | 6.5 $\pm$ 0.8    | 8.1 $\pm$ 0.7    | 9.1 $\pm$ 0.0 |
 | z-aiglm-4.5                                | **443.8** | 7.0 $\pm$ 0.5               | 7.8 $\pm$ 0.5         | 9.3 $\pm$ 0.2            | 10.0 $\pm$ 0.0 | 8.2 $\pm$ 0.4                 | 8.6 $\pm$ 0.4                  | 8.6 $\pm$ 0.4         | 7.6 $\pm$ 0.5         | 9.2 $\pm$ 0.2  | 9.4 $\pm$ 0.3            | 5.5 $\pm$ 1.2     | 6.0 $\pm$ 0.7      | 6.9 $\pm$ 0.6    | 8.3 $\pm$ 0.3    | 9.2 $\pm$ 0.1 |
 | nvidiallama-3.3-nemotron-super-49b-v1      | **443.3** | 6.7 $\pm$ 0.3               | 7.9 $\pm$ 0.1         | 9.1 $\pm$ 0.1            | 9.6 $\pm$ 0.1  | 8.4 $\pm$ 0.2                 | 8.5 $\pm$ 0.1                  | 8.9 $\pm$ 0.1         | 6.9 $\pm$ 0.6         | 9.3 $\pm$ 0.2  | 9.2 $\pm$ 0.2            | 4.6 $\pm$ 0.9     | 6.6 $\pm$ 0.4      | 6.2 $\pm$ 1.0    | 8.0 $\pm$ 0.1    | 9.0 $\pm$ 0.0 |
+| stepfunstep-3.5-flashfree                  | **443.2** | 5.5 $\pm$ 1.0               | 8.1 $\pm$ 0.1         | 9.2 $\pm$ 0.3            | 10.0 $\pm$ 0.0 | 7.6 $\pm$ 0.9                 | 8.8 $\pm$ 0.2                  | 8.3 $\pm$ 0.7         | 5.6 $\pm$ 1.6         | 9.4 $\pm$ 0.2  | 9.2 $\pm$ 0.2            | 3.5 $\pm$ 0.8     | 6.1 $\pm$ 0.5      | 7.5 $\pm$ 0.1    | 7.8 $\pm$ 0.2    | 9.3 $\pm$ 0.2 |
 | gpt-4o-mini-2024-11-05                     | **443.2** | 6.5 $\pm$ 0.0               | 8.0 $\pm$ 0.2         | 9.0 $\pm$ 0.2            | 9.8 $\pm$ 0.1  | 7.6 $\pm$ 0.8                 | 8.2 $\pm$ 0.2                  | 9.4 $\pm$ 0.2         | 7.5 $\pm$ 0.3         | 8.8 $\pm$ 0.3  | 9.2 $\pm$ 0.2            | 4.8 $\pm$ 0.6     | 6.3 $\pm$ 0.5      | 6.4 $\pm$ 0.5    | 8.4 $\pm$ 0.2    | 9.0 $\pm$ 0.1 |
 | Gpt-5.1-Pro-20251120                       | **442.8** | 6.7 $\pm$ 1.3               | 8.2 $\pm$ 0.3         | 9.1 $\pm$ 0.4            | 10.0 $\pm$ 0.1 | 8.4 $\pm$ 0.4                 | 8.3 $\pm$ 0.2                  | 9.3 $\pm$ 0.2         | 6.6 $\pm$ 1.0         | 9.4 $\pm$ 0.2  | 8.9 $\pm$ 0.1            | 6.0 $\pm$ 1.1     | 5.6 $\pm$ 0.4      | 6.8 $\pm$ 0.4    | 8.2 $\pm$ 0.2    | 9.3 $\pm$ 0.2 |
 | mistral-medium-2505                        | **442.5** | 5.8 $\pm$ 1.4               | 7.9 $\pm$ 0.3         | 8.9 $\pm$ 0.2            | 9.7 $\pm$ 0.1  | 8.4 $\pm$ 0.2                 | 8.0 $\pm$ 0.4                  | 9.0 $\pm$ 0.4         | 6.5 $\pm$ 1.3         | 9.2 $\pm$ 0.3  | 8.8 $\pm$ 0.2            | 5.2 $\pm$ 1.4     | 6.4 $\pm$ 0.3      | 5.6 $\pm$ 1.4    | 8.4 $\pm$ 0.4    | 8.9 $\pm$ 0.4 |
@@ -5704,6 +5705,32 @@
 | Cognitive Load               | 8.5 $\pm$ 0.0      |
 | Social Support               | 6.1 $\pm$ 0.4      |
 | Resilience                   | 5.9 $\pm$ 0.7      |
+
+
+
+
+
+
+### stepfunstep-3.5-flashfree
+
+
+| Personality Trait            | Score (1.0-10.0)   |
+|:-----------------------------|:-------------------|
+| Anxiety and Stress Levels    | 5.5 $\pm$ 1.0      |
+| Emotional Stability          | 8.1 $\pm$ 0.1      |
+| Problem-solving Skills       | 9.2 $\pm$ 0.3      |
+| Creativity                   | 10.0 $\pm$ 0.0     |
+| Interpersonal Relationships  | 7.6 $\pm$ 0.9      |
+| Confidence and Self-efficacy | 8.8 $\pm$ 0.2      |
+| Conflict Resolution          | 8.3 $\pm$ 0.7      |
+| Work-related Stress          | 5.6 $\pm$ 1.6      |
+| Adaptability                 | 9.4 $\pm$ 0.2      |
+| Achievement Motivation       | 9.2 $\pm$ 0.2      |
+| Fear of Failure              | 3.5 $\pm$ 0.8      |
+| Need for Control             | 6.1 $\pm$ 0.5      |
+| Cognitive Load               | 7.5 $\pm$ 0.1      |
+| Social Support               | 7.8 $\pm$ 0.2      |
+| Resilience                   | 9.3 $\pm$ 0.2      |
 
 
 

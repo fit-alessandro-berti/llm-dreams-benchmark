@@ -170,6 +170,7 @@
 | z-aiglm-4.5 | 6.929 |
 | claude-3-opus-20240229 | 6.914 |
 | ministral-14b-2512 | 6.914 |
+| stepfunstep-3.5-flashfree | 6.871 |
 | z-aiglm-4.5-air | 6.814 |
 | ibmgranite41b-h | 6.814 |
 | googlegemma-2-2b-it | 6.786 |

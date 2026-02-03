@@ -154,6 +154,7 @@
 | Grok-4.1-20251118 | 8.186 |
 | r1-1776 | 8.186 |
 | deepseek-aiDeepSeek-R1-0528 | 8.171 |
+| stepfunstep-3.5-flashfree | 8.171 |
 | allenaiolmo-3-7b-instruct | 8.157 |
 | claude-3-7-sonnet-20250219 | 8.157 |
 | meta-llamallama-4-maverick | 8.143 |

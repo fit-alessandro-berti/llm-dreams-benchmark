@@ -38,6 +38,7 @@
 | gemini-3-pro-preview | 8.071 |
 | ministral-14b-2512 | 8.071 |
 | prime-intellectintellect-3 | 8.071 |
+| stepfunstep-3.5-flashfree | 8.043 |
 | r1-1776 | 8.029 |
 | gemma-3n-e4b-it | 8.014 |
 | xiaomimimo-v2-flashfree | 8.014 |

@@ -105,6 +105,7 @@
 | claude-3-7-sonnet-20250219 | 7.029 |
 | ai21jamba-large-1.7 | 6.971 |
 | deepseek-aiDeepSeek-V3 | 6.971 |
+| stepfunstep-3.5-flashfree | 6.971 |
 | anthropicclaude-opus-4.1 | 6.957 |
 | amazonnova-2-lite-v1 | 6.943 |
 | nvidiallama-3.1-nemotron-ultra-253b-v1free | 6.943 |

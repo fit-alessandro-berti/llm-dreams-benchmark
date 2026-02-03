@@ -111,6 +111,7 @@
 | gpt-5.2-pro-2025-12-11 | 8.386 |
 | deepseek-aiDeepSeek-R1-0528 | 8.371 |
 | gemini-2.0-pro-exp-02-05 | 8.371 |
+| stepfunstep-3.5-flashfree | 8.371 |
 | Grok-3-beta-thinking-20250303 | 8.357 |
 | chatgpt-4o-latest-2025-03-26 | 8.343 |
 | deepseek-aiDeepSeek-V3 | 8.329 |

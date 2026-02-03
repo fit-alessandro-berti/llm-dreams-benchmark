@@ -157,6 +157,7 @@
 | qwen34b | 7.343 |
 | allenaiolmo-3-7b-instruct | 7.343 |
 | claude-haiku-4-5-20251001 | 7.329 |
+| stepfunstep-3.5-flashfree | 7.329 |
 | ministral-14b-2512 | 7.300 |
 | qwen2.5-7b-instruct-1m | 7.286 |
 | qwen30.6b | 7.229 |

@@ -116,6 +116,7 @@
 | moonshotaikimi-linear-48b-a3b-instruct | 8.714 |
 | qwen2.5-7b-instruct-1m | 8.714 |
 | qwen34b-instruct-2507-q8_0 | 8.714 |
+| stepfunstep-3.5-flashfree | 8.714 |
 | allenaiolmo-3-7b-instruct | 8.700 |
 | deepseek-aiDeepSeek-V3 | 8.700 |
 | ai21jamba-large-1.7 | 8.700 |

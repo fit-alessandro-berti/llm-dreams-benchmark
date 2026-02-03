@@ -171,6 +171,7 @@
 | deepseek-aiDeepSeek-R1-0528                | **387.4** | 6.7 $\pm$ 0.3               | 6.3 $\pm$ 0.8         | 8.6 $\pm$ 0.1            | 9.5 $\pm$ 0.0  | 7.0 $\pm$ 0.6                 | 7.0 $\pm$ 0.0                  | 7.0 $\pm$ 1.1         | 6.8 $\pm$ 0.8         | 8.7 $\pm$ 0.4  | 8.4 $\pm$ 0.1            | 6.5 $\pm$ 0.8     | 5.8 $\pm$ 0.6      | 8.0 $\pm$ 0.0    | 6.6 $\pm$ 0.6    | 8.0 $\pm$ 0.5 |
 | nvidiallama-3.3-nemotron-super-49b-v1      | **385.9** | 6.7 $\pm$ 0.3               | 5.7 $\pm$ 0.8         | 8.5 $\pm$ 0.0            | 9.1 $\pm$ 0.1  | 7.0 $\pm$ 0.3                 | 6.5 $\pm$ 0.5                  | 7.5 $\pm$ 0.3         | 7.0 $\pm$ 0.6         | 8.3 $\pm$ 0.3  | 8.4 $\pm$ 0.2            | 5.9 $\pm$ 0.4     | 5.5 $\pm$ 0.6      | 7.8 $\pm$ 0.3    | 6.6 $\pm$ 0.3    | 7.8 $\pm$ 0.4 |
 | mistral-medium-2505                        | **385.5** | 7.0 $\pm$ 0.3               | 6.0 $\pm$ 0.6         | 8.3 $\pm$ 0.2            | 9.2 $\pm$ 0.2  | 6.9 $\pm$ 0.1                 | 6.6 $\pm$ 0.4                  | 7.5 $\pm$ 0.1         | 7.4 $\pm$ 0.3         | 8.7 $\pm$ 0.1  | 8.2 $\pm$ 0.2            | 6.7 $\pm$ 0.2     | 5.5 $\pm$ 0.2      | 7.8 $\pm$ 0.2    | 6.5 $\pm$ 0.2    | 8.0 $\pm$ 0.3 |
+| stepfunstep-3.5-flashfree                  | **385.5** | 7.2 $\pm$ 0.7               | 6.2 $\pm$ 0.3         | 8.8 $\pm$ 0.2            | 9.6 $\pm$ 0.0  | 6.4 $\pm$ 0.5                 | 7.2 $\pm$ 0.2                  | 7.9 $\pm$ 0.8         | 7.2 $\pm$ 1.2         | 9.0 $\pm$ 0.1  | 8.4 $\pm$ 0.3            | 7.0 $\pm$ 0.4     | 6.3 $\pm$ 0.7      | 8.4 $\pm$ 0.1    | 6.1 $\pm$ 0.4    | 8.6 $\pm$ 0.3 |
 | writerpalmyra-x5                           | **385.2** | 7.8 $\pm$ 0.0               | 6.2 $\pm$ 0.0         | 8.5 $\pm$ 0.0            | 9.7 $\pm$ 0.0  | 6.9 $\pm$ 0.3                 | 6.8 $\pm$ 0.2                  | 7.9 $\pm$ 0.2         | 8.3 $\pm$ 0.1         | 8.9 $\pm$ 0.0  | 8.2 $\pm$ 0.2            | 7.5 $\pm$ 0.1     | 6.3 $\pm$ 0.4      | 8.7 $\pm$ 0.0    | 6.8 $\pm$ 0.3    | 8.5 $\pm$ 0.2 |
 | grok-3-mini-beta                           | **385.0** | 7.4 $\pm$ 0.1               | 6.0 $\pm$ 0.6         | 8.2 $\pm$ 0.2            | 9.5 $\pm$ 0.1  | 6.8 $\pm$ 0.4                 | 7.0 $\pm$ 0.6                  | 7.7 $\pm$ 0.4         | 7.8 $\pm$ 0.2         | 8.8 $\pm$ 0.2  | 8.6 $\pm$ 0.2            | 7.0 $\pm$ 0.3     | 5.8 $\pm$ 0.2      | 8.4 $\pm$ 0.2    | 6.3 $\pm$ 0.5    | 8.1 $\pm$ 0.4 |
 | meta-llamaMeta-Llama-3.1-8B-Instruct       | **384.6** | 7.3 $\pm$ 0.1               | 6.3 $\pm$ 0.4         | 7.9 $\pm$ 0.8            | 9.4 $\pm$ 0.1  | 6.9 $\pm$ 0.1                 | 6.8 $\pm$ 0.7                  | 8.0 $\pm$ 0.1         | 8.0 $\pm$ 0.1         | 8.4 $\pm$ 0.7  | 8.8 $\pm$ 0.3            | 7.0 $\pm$ 0.5     | 5.8 $\pm$ 0.2      | 8.5 $\pm$ 0.2    | 6.5 $\pm$ 0.6    | 7.9 $\pm$ 0.5 |
@@ -5704,6 +5705,32 @@
 | Cognitive Load               | 8.4 $\pm$ 0.1      |
 | Social Support               | 5.9 $\pm$ 0.0      |
 | Resilience                   | 6.9 $\pm$ 0.3      |
+
+
+
+
+
+
+### stepfunstep-3.5-flashfree
+
+
+| Personality Trait            | Score (1.0-10.0)   |
+|:-----------------------------|:-------------------|
+| Anxiety and Stress Levels    | 7.2 $\pm$ 0.7      |
+| Emotional Stability          | 6.2 $\pm$ 0.3      |
+| Problem-solving Skills       | 8.8 $\pm$ 0.2      |
+| Creativity                   | 9.6 $\pm$ 0.0      |
+| Interpersonal Relationships  | 6.4 $\pm$ 0.5      |
+| Confidence and Self-efficacy | 7.2 $\pm$ 0.2      |
+| Conflict Resolution          | 7.9 $\pm$ 0.8      |
+| Work-related Stress          | 7.2 $\pm$ 1.2      |
+| Adaptability                 | 9.0 $\pm$ 0.1      |
+| Achievement Motivation       | 8.4 $\pm$ 0.3      |
+| Fear of Failure              | 7.0 $\pm$ 0.4      |
+| Need for Control             | 6.3 $\pm$ 0.7      |
+| Cognitive Load               | 8.4 $\pm$ 0.1      |
+| Social Support               | 6.1 $\pm$ 0.4      |
+| Resilience                   | 8.6 $\pm$ 0.3      |
 
 
 

@@ -108,6 +108,7 @@
 | nousresearchhermes-4-70b | 6.029 |
 | qwen30.6b | 6.029 |
 | baiduernie-4.5-21b-a3b | 6.014 |
+| stepfunstep-3.5-flashfree | 6.014 |
 | deepseek-aiDeepSeek-V3 | 6.000 |
 | gemini-2.5-pro-preview-06-05 | 5.986 |
 | nvidianemotron-nano-9b-v2 | 5.971 |

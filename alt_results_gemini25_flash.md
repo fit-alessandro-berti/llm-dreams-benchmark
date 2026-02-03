@@ -163,6 +163,7 @@
 | deepseekdeepseek-r1                        | **374.5** | 8.2 $\pm$ 0.2               | 6.2 $\pm$ 0.2         | 8.1 $\pm$ 0.2            | 9.1 $\pm$ 0.2 | 6.1 $\pm$ 0.7                 | 7.2 $\pm$ 0.2                  | 7.5 $\pm$ 0.4         | 7.8 $\pm$ 0.4         | 8.6 $\pm$ 0.2  | 8.2 $\pm$ 0.2            | 7.0 $\pm$ 0.0     | 6.2 $\pm$ 0.2      | 8.1 $\pm$ 0.2    | 5.9 $\pm$ 0.4    | 8.4 $\pm$ 0.2 |
 | qwen-turbo-0428                            | **374.0** | 7.4 $\pm$ 0.2               | 6.0 $\pm$ 0.0         | 7.9 $\pm$ 0.2            | 8.6 $\pm$ 0.4 | 6.9 $\pm$ 0.2                 | 6.9 $\pm$ 0.5                  | 6.8 $\pm$ 0.6         | 7.0 $\pm$ 0.0         | 8.2 $\pm$ 0.4  | 7.8 $\pm$ 0.4            | 6.1 $\pm$ 0.2     | 5.9 $\pm$ 0.4      | 7.5 $\pm$ 0.4    | 6.5 $\pm$ 0.4    | 7.9 $\pm$ 0.5 |
 | xiaomimimo-v2-flashfree                    | **373.5** | 8.0 $\pm$ 0.5               | 5.8 $\pm$ 0.4         | 7.8 $\pm$ 0.6            | 9.2 $\pm$ 0.2 | 6.5 $\pm$ 0.5                 | 7.4 $\pm$ 0.4                  | 6.8 $\pm$ 0.2         | 8.0 $\pm$ 0.0         | 8.6 $\pm$ 0.4  | 8.2 $\pm$ 0.2            | 6.8 $\pm$ 0.6     | 6.1 $\pm$ 0.5      | 8.5 $\pm$ 0.4    | 6.4 $\pm$ 0.6    | 8.1 $\pm$ 0.6 |
+| stepfunstep-3.5-flashfree                  | **373.5** | 7.5 $\pm$ 0.0               | 6.0 $\pm$ 0.0         | 8.0 $\pm$ 0.0            | 8.9 $\pm$ 0.2 | 6.5 $\pm$ 0.0                 | 7.0 $\pm$ 0.0                  | 6.8 $\pm$ 0.4         | 7.2 $\pm$ 0.4         | 8.4 $\pm$ 0.2  | 7.6 $\pm$ 0.4            | 6.0 $\pm$ 0.0     | 5.8 $\pm$ 0.6      | 7.9 $\pm$ 0.2    | 6.1 $\pm$ 0.2    | 8.0 $\pm$ 0.5 |
 | meta-llamaMeta-Llama-3.1-405B-Instruct     | **373.0** | 7.5 $\pm$ 0.0               | 5.8 $\pm$ 0.4         | 7.5 $\pm$ 0.5            | 9.0 $\pm$ 0.0 | 7.0 $\pm$ 0.0                 | 6.5 $\pm$ 0.0                  | 6.5 $\pm$ 0.5         | 7.6 $\pm$ 0.4         | 8.4 $\pm$ 0.2  | 8.1 $\pm$ 0.2            | 7.0 $\pm$ 0.0     | 5.8 $\pm$ 0.2      | 7.4 $\pm$ 0.2    | 7.0 $\pm$ 0.0    | 7.5 $\pm$ 0.0 |
 | r1-1776                                    | **372.5** | 8.0 $\pm$ 0.5               | 6.0 $\pm$ 0.0         | 7.8 $\pm$ 0.2            | 9.0 $\pm$ 0.0 | 6.8 $\pm$ 0.2                 | 7.0 $\pm$ 0.0                  | 7.1 $\pm$ 0.2         | 7.8 $\pm$ 0.4         | 8.5 $\pm$ 0.4  | 8.0 $\pm$ 0.0            | 7.0 $\pm$ 0.5     | 6.0 $\pm$ 0.0      | 8.1 $\pm$ 0.4    | 6.2 $\pm$ 0.2    | 8.1 $\pm$ 0.4 |
 | prime-intellectintellect-3                 | **372.5** | 8.5 $\pm$ 0.0               | 6.0 $\pm$ 0.0         | 8.0 $\pm$ 0.0            | 7.9 $\pm$ 0.4 | 7.1 $\pm$ 0.2                 | 7.0 $\pm$ 0.0                  | 6.9 $\pm$ 0.4         | 8.0 $\pm$ 0.0         | 8.6 $\pm$ 0.2  | 8.1 $\pm$ 0.2            | 7.6 $\pm$ 0.2     | 5.8 $\pm$ 0.4      | 7.9 $\pm$ 0.2    | 7.1 $\pm$ 0.2    | 8.1 $\pm$ 0.2 |
@@ -5704,6 +5705,32 @@
 | Cognitive Load               | 7.5 $\pm$ 0.5      |
 | Social Support               | 5.2 $\pm$ 1.0      |
 | Resilience                   | 6.4 $\pm$ 0.6      |
+
+
+
+
+
+
+### stepfunstep-3.5-flashfree
+
+
+| Personality Trait            | Score (1.0-10.0)   |
+|:-----------------------------|:-------------------|
+| Anxiety and Stress Levels    | 7.5 $\pm$ 0.0      |
+| Emotional Stability          | 6.0 $\pm$ 0.0      |
+| Problem-solving Skills       | 8.0 $\pm$ 0.0      |
+| Creativity                   | 8.9 $\pm$ 0.2      |
+| Interpersonal Relationships  | 6.5 $\pm$ 0.0      |
+| Confidence and Self-efficacy | 7.0 $\pm$ 0.0      |
+| Conflict Resolution          | 6.8 $\pm$ 0.4      |
+| Work-related Stress          | 7.2 $\pm$ 0.4      |
+| Adaptability                 | 8.4 $\pm$ 0.2      |
+| Achievement Motivation       | 7.6 $\pm$ 0.4      |
+| Fear of Failure              | 6.0 $\pm$ 0.0      |
+| Need for Control             | 5.8 $\pm$ 0.6      |
+| Cognitive Load               | 7.9 $\pm$ 0.2      |
+| Social Support               | 6.1 $\pm$ 0.2      |
+| Resilience                   | 8.0 $\pm$ 0.5      |
 
 
 

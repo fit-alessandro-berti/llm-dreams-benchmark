@@ -83,6 +83,7 @@
 | open-mixtral-8x7b | 6.314 |
 | Grok-4.1-20251118 | 6.314 |
 | nvidiallama-3.1-nemotron-ultra-253b-v1free | 6.314 |
+| stepfunstep-3.5-flashfree | 6.314 |
 | ai21jamba-mini-1.7 | 6.300 |
 | Gemini-1.5-Pro-Exp-0801 | 6.300 |
 | gemini-2.5-flash-preview-04-17 | 6.300 |

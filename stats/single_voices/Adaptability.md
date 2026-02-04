@@ -23,6 +23,7 @@
 | liquidlfm2-8b-a1b | 9.014 |
 | o1-preview-2024-09-12 | 9.014 |
 | o4-mini-2025-04-16 | 9.014 |
+| qwenqwen3-coder-next | 9.014 |
 | o3-mini-20250131-HIGH | 9.000 |
 | gpt-5-nano-2025-08-07 | 8.986 |
 | gpt-5-pro-2025-10-06 | 8.986 |

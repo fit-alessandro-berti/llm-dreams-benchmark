@@ -173,6 +173,7 @@
 | qwen2.5-14b-instruct | 7.043 |
 | mistral-large-2411 | 7.043 |
 | ChatGPT-5.1-Instant-20251113 | 7.014 |
+| qwenqwen3-coder-next | 7.000 |
 | codex-mini-latest | 6.971 |
 | mistral-small-2409 | 6.971 |
 | Grok-3-20250426-concise | 6.971 |

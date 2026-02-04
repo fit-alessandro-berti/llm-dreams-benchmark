@@ -65,6 +65,7 @@
 | openaigpt-5.1-codex-max                    | **397.8** | 6.8 $\pm$ 0.1               | 6.8 $\pm$ 0.6         | 7.6 $\pm$ 0.1            | 9.6 $\pm$ 0.0 | 7.4 $\pm$ 0.5                 | 7.1 $\pm$ 0.1                  | 7.6 $\pm$ 0.5         | 7.8 $\pm$ 0.1         | 8.6 $\pm$ 0.0  | 7.9 $\pm$ 0.2            | 6.9 $\pm$ 0.0     | 5.4 $\pm$ 0.2      | 7.8 $\pm$ 0.1    | 7.0 $\pm$ 0.4    | 8.8 $\pm$ 0.0 |
 | qwen2.5-7b-instruct-1m                     | **397.5** | 6.8 $\pm$ 0.0               | 6.6 $\pm$ 0.2         | 8.3 $\pm$ 0.1            | 9.2 $\pm$ 0.0 | 7.6 $\pm$ 0.0                 | 7.3 $\pm$ 0.1                  | 7.4 $\pm$ 0.2         | 7.8 $\pm$ 0.0         | 8.6 $\pm$ 0.0  | 8.4 $\pm$ 0.0            | 6.8 $\pm$ 0.2     | 6.4 $\pm$ 0.3      | 7.8 $\pm$ 0.2    | 7.3 $\pm$ 0.2    | 8.8 $\pm$ 0.1 |
 | phi4-reasoningplus                         | **397.2** | 6.3 $\pm$ 0.5               | 6.8 $\pm$ 0.5         | 7.8 $\pm$ 0.2            | 9.4 $\pm$ 0.1 | 7.4 $\pm$ 0.1                 | 7.6 $\pm$ 0.2                  | 7.4 $\pm$ 0.8         | 6.7 $\pm$ 0.4         | 8.5 $\pm$ 0.2  | 7.6 $\pm$ 0.3            | 6.1 $\pm$ 0.2     | 5.4 $\pm$ 0.4      | 7.4 $\pm$ 0.2    | 7.0 $\pm$ 0.1    | 8.4 $\pm$ 0.3 |
+| qwenqwen3-coder-next                       | **396.1** | 6.7 $\pm$ 0.1               | 6.8 $\pm$ 0.3         | 7.4 $\pm$ 0.1            | 9.7 $\pm$ 0.1 | 7.3 $\pm$ 0.2                 | 6.7 $\pm$ 0.1                  | 8.0 $\pm$ 0.1         | 7.4 $\pm$ 0.1         | 8.7 $\pm$ 0.1  | 7.8 $\pm$ 0.0            | 6.7 $\pm$ 0.2     | 4.9 $\pm$ 0.3      | 7.8 $\pm$ 0.2    | 6.7 $\pm$ 0.3    | 8.6 $\pm$ 0.2 |
 | o1-pro-2024-12-05                          | **395.1** | 7.0 $\pm$ 0.3               | 7.0 $\pm$ 0.4         | 7.9 $\pm$ 0.2            | 9.4 $\pm$ 0.0 | 7.5 $\pm$ 0.2                 | 7.4 $\pm$ 0.3                  | 8.0 $\pm$ 0.2         | 7.4 $\pm$ 0.3         | 8.6 $\pm$ 0.2  | 8.1 $\pm$ 0.4            | 7.0 $\pm$ 0.1     | 6.3 $\pm$ 0.3      | 7.9 $\pm$ 0.1    | 6.9 $\pm$ 0.1    | 8.7 $\pm$ 0.1 |
 | ministral-3b-2410                          | **395.0** | 6.8 $\pm$ 0.0               | 6.6 $\pm$ 0.2         | 8.3 $\pm$ 0.1            | 9.2 $\pm$ 0.1 | 7.5 $\pm$ 0.1                 | 7.5 $\pm$ 0.2                  | 7.9 $\pm$ 0.2         | 7.3 $\pm$ 0.2         | 8.4 $\pm$ 0.1  | 8.2 $\pm$ 0.2            | 6.7 $\pm$ 0.2     | 6.6 $\pm$ 0.4      | 7.8 $\pm$ 0.1    | 7.2 $\pm$ 0.2    | 8.4 $\pm$ 0.1 |
 | granite4micro                              | **394.9** | 6.8 $\pm$ 1.0               | 6.8 $\pm$ 0.4         | 8.2 $\pm$ 0.2            | 9.2 $\pm$ 0.1 | 7.6 $\pm$ 0.5                 | 7.3 $\pm$ 0.3                  | 7.8 $\pm$ 0.3         | 7.6 $\pm$ 0.8         | 8.4 $\pm$ 0.3  | 8.4 $\pm$ 0.2            | 7.0 $\pm$ 0.9     | 6.7 $\pm$ 0.2      | 7.8 $\pm$ 0.6    | 7.2 $\pm$ 0.6    | 8.6 $\pm$ 0.1 |
@@ -5523,6 +5524,32 @@
 | Cognitive Load               | 8.0 $\pm$ 0.2      |
 | Social Support               | 7.2 $\pm$ 0.3      |
 | Resilience                   | 8.7 $\pm$ 0.1      |
+
+
+
+
+
+
+### qwenqwen3-coder-next
+
+
+| Personality Trait            | Score (1.0-10.0)   |
+|:-----------------------------|:-------------------|
+| Anxiety and Stress Levels    | 6.7 $\pm$ 0.1      |
+| Emotional Stability          | 6.8 $\pm$ 0.3      |
+| Problem-solving Skills       | 7.4 $\pm$ 0.1      |
+| Creativity                   | 9.7 $\pm$ 0.1      |
+| Interpersonal Relationships  | 7.3 $\pm$ 0.2      |
+| Confidence and Self-efficacy | 6.7 $\pm$ 0.1      |
+| Conflict Resolution          | 8.0 $\pm$ 0.1      |
+| Work-related Stress          | 7.4 $\pm$ 0.1      |
+| Adaptability                 | 8.7 $\pm$ 0.1      |
+| Achievement Motivation       | 7.8 $\pm$ 0.0      |
+| Fear of Failure              | 6.7 $\pm$ 0.2      |
+| Need for Control             | 4.9 $\pm$ 0.3      |
+| Cognitive Load               | 7.8 $\pm$ 0.2      |
+| Social Support               | 6.7 $\pm$ 0.3      |
+| Resilience                   | 8.6 $\pm$ 0.2      |
 
 
 

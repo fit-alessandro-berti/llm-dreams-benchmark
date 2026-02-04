@@ -108,6 +108,7 @@
 | qwen38b | 8.400 |
 | gpt-5.2-2025-12-11 | 8.386 |
 | o3-mini-20250131-HIGH | 8.386 |
+| qwenqwen3-coder-next | 8.386 |
 | gpt-5.2-pro-2025-12-11 | 8.386 |
 | deepseek-aiDeepSeek-R1-0528 | 8.371 |
 | gemini-2.0-pro-exp-02-05 | 8.371 |

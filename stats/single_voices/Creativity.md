@@ -13,6 +13,7 @@
 | gemini-3-flash-preview | 9.700 |
 | grok-4-0709 | 9.686 |
 | moonshotaikimi-k2-thinking | 9.686 |
+| qwenqwen3-coder-next | 9.686 |
 | claude-4-sonnet-20250514 | 9.671 |
 | Grok-4-fast-20251111 | 9.671 |
 | o3-2025-04-16 | 9.671 |

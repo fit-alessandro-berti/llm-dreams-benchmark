@@ -47,6 +47,7 @@
 | mistral-small-2409 | 7.471 |
 | gpt-4o-mini-2024-07-18 | 7.457 |
 | mistral-small-2503 | 7.443 |
+| qwenqwen3-coder-next | 7.443 |
 | mistral-small-2501 | 7.429 |
 | Grok-3-20250426-formal | 7.429 |
 | Grok-3-20250426-concise | 7.371 |

@@ -204,6 +204,7 @@
 | liquidlfm2-8b-a1b | 5.586 |
 | qwen2.5-32b-instruct | 5.586 |
 | gpt-4-0125-preview | 5.571 |
+| qwenqwen3-coder-next | 5.529 |
 | openaigpt-oss-120b | 5.529 |
 | deepseekdeepseek-v3.2 | 5.514 |
 | open-mixtral-8x22b | 5.486 |

@@ -101,6 +101,7 @@
 | o1-pro-2024-12-17 | 7.514 |
 | liquidlfm-2.5-1.2b-thinkingfree | 7.514 |
 | nvidiallama-3.1-nemotron-ultra-253b-v1free | 7.514 |
+| qwenqwen3-coder-next | 7.500 |
 | gemini-1.5-flash-002 | 7.500 |
 | qwen2.5-7b-instruct-1m | 7.500 |
 | gemini-3-flash-preview | 7.486 |

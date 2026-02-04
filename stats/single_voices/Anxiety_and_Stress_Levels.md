@@ -208,6 +208,7 @@
 | gpt-4o-2024-08-06 | 5.157 |
 | phi4-reasoningplus | 5.129 |
 | gpt-4o-2024-05-13 | 5.114 |
+| qwenqwen3-coder-next | 5.100 |
 | deepseekdeepseek-v3.2 | 5.100 |
 | ai21jamba-mini-1.7 | 5.071 |
 | openaigpt-oss-120b | 4.971 |

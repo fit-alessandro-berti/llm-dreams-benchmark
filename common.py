@@ -1,4 +1,4 @@
-ANSWERING_MODEL_NAME = "stepfun/step-3.5-flash:free"
+ANSWERING_MODEL_NAME = "qwen/qwen3-coder-next"
 EVALUATING_MODEL_NAME = "gpt-4.1"
 
 

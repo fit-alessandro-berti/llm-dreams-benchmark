@@ -3,6 +3,7 @@
 | Model | Average |
 |:--|--:|
 | microsoftPhi-3-medium-4k-instruct | 8.643 |
+| qwenqwen3-coder-next | 8.614 |
 | gpt-4.5-preview | 8.600 |
 | microsoftWizardLM-2-8x22B | 8.600 |
 | o1-preview-2024-09-12 | 8.571 |

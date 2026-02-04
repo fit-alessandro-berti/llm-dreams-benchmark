@@ -60,6 +60,7 @@
 | baiduernie-4.5-300b-a47b | 7.657 |
 | deepseekdeepseek-v3.2 | 7.643 |
 | devstral-small-2505 | 7.643 |
+| qwenqwen3-coder-next | 7.629 |
 | Grok-3-20250426-concise | 7.629 |
 | mistral-small-2503 | 7.629 |
 | Grok-3-20250426-formal | 7.614 |

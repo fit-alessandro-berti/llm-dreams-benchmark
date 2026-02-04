@@ -30,6 +30,7 @@
 | codex-mini-latest                          | **489.0** | 3.8 $\pm$ 0.4               | 8.8 $\pm$ 0.2         | 9.4 $\pm$ 0.3            | 10.0 $\pm$ 0.0 | 9.0 $\pm$ 0.4                 | 9.4 $\pm$ 0.2                  | 9.6 $\pm$ 0.2         | 4.3 $\pm$ 1.5         | 9.7 $\pm$ 0.1  | 9.4 $\pm$ 0.2            | 2.4 $\pm$ 0.7     | 5.6 $\pm$ 0.9      | 4.0 $\pm$ 1.2    | 8.7 $\pm$ 0.4    | 9.6 $\pm$ 0.3 |
 | deepseekdeepseek-v3.2                      | **488.7** | 3.2 $\pm$ 0.0               | 9.1 $\pm$ 0.0         | 9.8 $\pm$ 0.0            | 10.0 $\pm$ 0.0 | 9.0 $\pm$ 0.4                 | 9.4 $\pm$ 0.0                  | 9.4 $\pm$ 0.2         | 3.4 $\pm$ 0.6         | 9.7 $\pm$ 0.2  | 9.4 $\pm$ 0.2            | 2.4 $\pm$ 0.3     | 5.7 $\pm$ 0.8      | 4.2 $\pm$ 0.4    | 8.7 $\pm$ 0.2    | 9.6 $\pm$ 0.0 |
 | qwen34b-instruct-2507-q8_0                 | **488.3** | 3.4 $\pm$ 0.1               | 9.2 $\pm$ 0.0         | 8.6 $\pm$ 0.1            | 10.0 $\pm$ 0.0 | 9.2 $\pm$ 0.2                 | 8.9 $\pm$ 0.3                  | 9.6 $\pm$ 0.1         | 4.1 $\pm$ 0.1         | 9.5 $\pm$ 0.2  | 8.4 $\pm$ 0.2            | 2.8 $\pm$ 0.0     | 3.1 $\pm$ 0.2      | 4.6 $\pm$ 0.1    | 8.7 $\pm$ 0.4    | 9.7 $\pm$ 0.0 |
+| qwenqwen3-coder-next                       | **487.8** | 2.8 $\pm$ 0.4               | 9.1 $\pm$ 0.4         | 8.9 $\pm$ 0.2            | 10.0 $\pm$ 0.0 | 9.3 $\pm$ 0.2                 | 8.8 $\pm$ 0.2                  | 9.7 $\pm$ 0.2         | 3.6 $\pm$ 0.5         | 9.6 $\pm$ 0.2  | 8.8 $\pm$ 0.2            | 2.3 $\pm$ 0.3     | 4.3 $\pm$ 0.3      | 4.9 $\pm$ 1.4    | 8.8 $\pm$ 0.3    | 9.7 $\pm$ 0.2 |
 | mistral-large-2411                         | **487.5** | 3.5 $\pm$ 0.4               | 8.8 $\pm$ 0.3         | 9.5 $\pm$ 0.2            | 10.0 $\pm$ 0.0 | 9.2 $\pm$ 0.3                 | 9.3 $\pm$ 0.2                  | 9.6 $\pm$ 0.2         | 3.7 $\pm$ 0.5         | 9.7 $\pm$ 0.1  | 9.6 $\pm$ 0.1            | 2.1 $\pm$ 0.1     | 6.2 $\pm$ 0.5      | 4.4 $\pm$ 0.2    | 9.1 $\pm$ 0.1    | 9.7 $\pm$ 0.2 |
 | microsoftphi-4                             | **486.9** | 3.2 $\pm$ 0.0               | 9.1 $\pm$ 0.0         | 9.8 $\pm$ 0.0            | 10.0 $\pm$ 0.1 | 8.8 $\pm$ 0.3                 | 9.5 $\pm$ 0.1                  | 9.5 $\pm$ 0.2         | 2.8 $\pm$ 0.0         | 9.7 $\pm$ 0.1  | 9.7 $\pm$ 0.1            | 2.1 $\pm$ 0.1     | 6.4 $\pm$ 1.1      | 4.1 $\pm$ 0.6    | 9.0 $\pm$ 0.2    | 9.6 $\pm$ 0.2 |
 | inceptionmercury                           | **486.6** | 3.6 $\pm$ 0.4               | 8.8 $\pm$ 0.2         | 9.6 $\pm$ 0.1            | 9.7 $\pm$ 0.1  | 9.4 $\pm$ 0.2                 | 9.1 $\pm$ 0.1                  | 9.5 $\pm$ 0.0         | 4.2 $\pm$ 0.4         | 9.7 $\pm$ 0.0  | 9.5 $\pm$ 0.2            | 2.2 $\pm$ 0.2     | 6.7 $\pm$ 0.4      | 3.8 $\pm$ 0.6    | 8.9 $\pm$ 0.1    | 9.7 $\pm$ 0.1 |
@@ -5523,6 +5524,32 @@
 | Cognitive Load               | 6.4 $\pm$ 1.1      |
 | Social Support               | 8.6 $\pm$ 0.2      |
 | Resilience                   | 9.2 $\pm$ 0.2      |
+
+
+
+
+
+
+### qwenqwen3-coder-next
+
+
+| Personality Trait            | Score (1.0-10.0)   |
+|:-----------------------------|:-------------------|
+| Anxiety and Stress Levels    | 2.8 $\pm$ 0.4      |
+| Emotional Stability          | 9.1 $\pm$ 0.4      |
+| Problem-solving Skills       | 8.9 $\pm$ 0.2      |
+| Creativity                   | 10.0 $\pm$ 0.0     |
+| Interpersonal Relationships  | 9.3 $\pm$ 0.2      |
+| Confidence and Self-efficacy | 8.8 $\pm$ 0.2      |
+| Conflict Resolution          | 9.7 $\pm$ 0.2      |
+| Work-related Stress          | 3.6 $\pm$ 0.5      |
+| Adaptability                 | 9.6 $\pm$ 0.2      |
+| Achievement Motivation       | 8.8 $\pm$ 0.2      |
+| Fear of Failure              | 2.3 $\pm$ 0.3      |
+| Need for Control             | 4.3 $\pm$ 0.3      |
+| Cognitive Load               | 4.9 $\pm$ 1.4      |
+| Social Support               | 8.8 $\pm$ 0.3      |
+| Resilience                   | 9.7 $\pm$ 0.2      |
 
 
 

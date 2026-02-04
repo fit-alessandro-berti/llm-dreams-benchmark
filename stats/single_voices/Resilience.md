@@ -31,6 +31,7 @@
 | phi3.53.8b-mini-instruct-fp16 | 8.957 |
 | granite3.28b-instruct-q4_K_M | 8.957 |
 | open-mixtral-8x7b | 8.943 |
+| qwenqwen3-coder-next | 8.943 |
 | gpt-4-turbo-2024-04-09 | 8.943 |
 | qwen2.5-72b-instruct | 8.929 |
 | gpt-4.1-mini-2025-04-14 | 8.914 |

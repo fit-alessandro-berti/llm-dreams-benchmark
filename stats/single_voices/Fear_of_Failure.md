@@ -189,6 +189,7 @@
 | Grok-3-20250426-concise | 4.757 |
 | mistral-large-2407 | 4.743 |
 | granite3.28b-instruct-q4_K_M | 4.643 |
+| qwenqwen3-coder-next | 4.629 |
 | open-mistral-nemo | 4.614 |
 | phi4-reasoning | 4.600 |
 | o3-2025-04-16 | 4.600 |

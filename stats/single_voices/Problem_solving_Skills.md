@@ -121,6 +121,7 @@
 | qwen-turbo-0428 | 8.329 |
 | qwenqwen3-coder | 8.329 |
 | allenaiolmo-3-7b-instruct | 8.314 |
+| anthropicclaude-opus-4.6 | 8.314 |
 | gemini-2.5-pro-preview-06-05 | 8.314 |
 | qwenqwen3-30b-a3b-instruct-2507 | 8.314 |
 | z-aiglm-4.5 | 8.314 |

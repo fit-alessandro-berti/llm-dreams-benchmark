@@ -99,6 +99,7 @@
 | claude-3-opus-20240229 | 7.643 |
 | minimaxminimax-m2-her | 7.643 |
 | ibmgranite4350m-h | 7.629 |
+| anthropicclaude-opus-4.6 | 7.614 |
 | googlegemma-2-2b-it | 7.600 |
 | gemini-2.5-pro-preview-05-06 | 7.600 |
 | grok-4-0709 | 7.600 |

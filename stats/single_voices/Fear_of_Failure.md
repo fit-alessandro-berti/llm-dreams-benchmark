@@ -132,6 +132,7 @@
 | gemini-2.5-flash-lite-preview-09-2025 | 5.786 |
 | qwen2.5-7b-instruct-1m | 5.786 |
 | allenaiolmo-3-7b-instruct | 5.771 |
+| anthropicclaude-opus-4.6 | 5.757 |
 | devstral-small-2505 | 5.729 |
 | Grok-4-fast-20251111 | 5.714 |
 | exaone-deep7.8b-fp16 | 5.700 |

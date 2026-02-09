@@ -91,6 +91,7 @@
 | Grok-3-20250426-concise | 8.000 |
 | phi3.53.8b-mini-instruct-fp16 | 8.000 |
 | liquidlfm2-8b-a1b | 7.986 |
+| anthropicclaude-opus-4.6 | 7.971 |
 | gemini-2.0-flash-exp | 7.971 |
 | Grok-3-20250426-formal | 7.971 |
 | granite4micro | 7.943 |

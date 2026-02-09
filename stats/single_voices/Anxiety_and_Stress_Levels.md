@@ -161,6 +161,7 @@
 | gpt-4-0613 | 6.143 |
 | gpt-5-chat-latest-2025-08-19 | 6.143 |
 | granite4micro-h | 6.143 |
+| anthropicclaude-opus-4.6 | 6.129 |
 | qwen2.5-omni-7b | 6.129 |
 | Grok-4-fast | 6.100 |
 | mistral-small-2501 | 6.086 |

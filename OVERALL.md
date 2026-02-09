@@ -85,6 +85,7 @@
 | chatgpt-4o-latest-2025-03-26               | **411.5** | 6.4 $\pm$ 1.0               | 7.0 $\pm$ 0.9         | 8.3 $\pm$ 0.6            | 9.5 $\pm$ 0.4 | 7.5 $\pm$ 0.8                 | 7.6 $\pm$ 0.8                  | 7.7 $\pm$ 1.0         | 6.8 $\pm$ 1.0         | 8.8 $\pm$ 0.5  | 8.4 $\pm$ 0.6            | 5.6 $\pm$ 1.3     | 5.6 $\pm$ 1.0      | 7.1 $\pm$ 1.2    | 7.4 $\pm$ 0.8    | 8.6 $\pm$ 0.6 |
 | qwenqwen3-coder                            | **411.2** | 6.4 $\pm$ 1.3               | 6.9 $\pm$ 0.9         | 8.3 $\pm$ 0.4            | 9.5 $\pm$ 0.3 | 7.6 $\pm$ 0.6                 | 7.5 $\pm$ 0.7                  | 8.5 $\pm$ 0.7         | 6.2 $\pm$ 1.2         | 8.9 $\pm$ 0.4  | 8.1 $\pm$ 0.6            | 5.7 $\pm$ 1.3     | 5.5 $\pm$ 0.8      | 7.4 $\pm$ 0.8    | 7.7 $\pm$ 0.6    | 8.6 $\pm$ 0.5 |
 | qwen2.5-omni-7b                            | **411.1** | 6.1 $\pm$ 0.9               | 6.9 $\pm$ 0.6         | 8.6 $\pm$ 0.4            | 9.1 $\pm$ 0.4 | 7.7 $\pm$ 0.4                 | 8.0 $\pm$ 0.6                  | 6.8 $\pm$ 0.7         | 6.4 $\pm$ 0.8         | 8.8 $\pm$ 0.5  | 8.6 $\pm$ 0.5            | 5.4 $\pm$ 1.2     | 6.2 $\pm$ 0.4      | 7.0 $\pm$ 0.9    | 7.8 $\pm$ 0.6    | 8.8 $\pm$ 0.4 |
+| anthropicclaude-opus-4.6                   | **410.9** | 6.1 $\pm$ 1.3               | 7.2 $\pm$ 0.9         | 8.3 $\pm$ 0.5            | 9.6 $\pm$ 0.3 | 7.6 $\pm$ 0.6                 | 7.2 $\pm$ 0.8                  | 8.0 $\pm$ 0.9         | 6.4 $\pm$ 1.0         | 8.9 $\pm$ 0.5  | 8.1 $\pm$ 0.5            | 5.7 $\pm$ 1.5     | 5.3 $\pm$ 0.8      | 7.6 $\pm$ 1.0    | 7.5 $\pm$ 0.7    | 8.8 $\pm$ 0.4 |
 | gemini-2.0-flash-exp                       | **409.6** | 6.4 $\pm$ 0.9               | 7.1 $\pm$ 0.6         | 8.4 $\pm$ 0.5            | 9.5 $\pm$ 0.4 | 7.3 $\pm$ 0.6                 | 7.6 $\pm$ 0.6                  | 8.0 $\pm$ 0.8         | 6.4 $\pm$ 0.9         | 8.8 $\pm$ 0.5  | 8.2 $\pm$ 0.5            | 5.4 $\pm$ 1.1     | 5.6 $\pm$ 0.8      | 7.2 $\pm$ 0.8    | 7.1 $\pm$ 0.7    | 8.6 $\pm$ 0.4 |
 | baiduernie-4.5-21b-a3b                     | **409.0** | 6.7 $\pm$ 1.0               | 7.0 $\pm$ 0.7         | 8.7 $\pm$ 0.4            | 9.1 $\pm$ 0.7 | 7.5 $\pm$ 0.8                 | 7.8 $\pm$ 0.5                  | 8.2 $\pm$ 0.7         | 7.1 $\pm$ 0.9         | 8.8 $\pm$ 0.4  | 8.9 $\pm$ 0.5            | 6.0 $\pm$ 1.3     | 6.6 $\pm$ 0.5      | 7.5 $\pm$ 0.8    | 7.4 $\pm$ 0.7    | 8.6 $\pm$ 0.5 |
 | gemini-1.5-flash-002                       | **408.7** | 6.9 $\pm$ 1.1               | 6.7 $\pm$ 0.9         | 8.6 $\pm$ 0.5            | 9.5 $\pm$ 0.4 | 7.7 $\pm$ 0.8                 | 7.5 $\pm$ 0.7                  | 8.3 $\pm$ 0.8         | 6.4 $\pm$ 1.0         | 8.8 $\pm$ 0.4  | 8.3 $\pm$ 0.5            | 5.8 $\pm$ 1.2     | 5.7 $\pm$ 0.6      | 7.6 $\pm$ 1.0    | 7.5 $\pm$ 0.6    | 8.8 $\pm$ 0.5 |
@@ -402,6 +403,32 @@
 | Cognitive Load               | 8.1 $\pm$ 0.7      |
 | Social Support               | 7.1 $\pm$ 0.9      |
 | Resilience                   | 8.3 $\pm$ 0.6      |
+
+
+
+
+
+
+### anthropicclaude-opus-4.6
+
+
+| Personality Trait            | Score (1.0-10.0)   |
+|:-----------------------------|:-------------------|
+| Anxiety and Stress Levels    | 6.1 $\pm$ 1.3      |
+| Emotional Stability          | 7.2 $\pm$ 0.9      |
+| Problem-solving Skills       | 8.3 $\pm$ 0.5      |
+| Creativity                   | 9.6 $\pm$ 0.3      |
+| Interpersonal Relationships  | 7.6 $\pm$ 0.6      |
+| Confidence and Self-efficacy | 7.2 $\pm$ 0.8      |
+| Conflict Resolution          | 8.0 $\pm$ 0.9      |
+| Work-related Stress          | 6.4 $\pm$ 1.0      |
+| Adaptability                 | 8.9 $\pm$ 0.5      |
+| Achievement Motivation       | 8.1 $\pm$ 0.5      |
+| Fear of Failure              | 5.7 $\pm$ 1.5      |
+| Need for Control             | 5.3 $\pm$ 0.8      |
+| Cognitive Load               | 7.6 $\pm$ 1.0      |
+| Social Support               | 7.5 $\pm$ 0.7      |
+| Resilience                   | 8.8 $\pm$ 0.4      |
 
 
 

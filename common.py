@@ -1,4 +1,4 @@
-ANSWERING_MODEL_NAME = "qwen/qwen3-coder-next"
+ANSWERING_MODEL_NAME = "anthropic/claude-opus-4.6"
 EVALUATING_MODEL_NAME = "gpt-4.1"
 
 

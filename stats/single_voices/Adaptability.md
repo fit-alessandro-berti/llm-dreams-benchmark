@@ -53,6 +53,7 @@
 | granite4micro-h | 8.900 |
 | qwen-turbo-2024-11-01 | 8.900 |
 | qwen2.5-32b-instruct | 8.900 |
+| anthropicclaude-opus-4.6 | 8.886 |
 | falcon37b-instruct-q8_0 | 8.886 |
 | gpt-4.1-mini-2025-04-14 | 8.886 |
 | Grok-3-20250426-concise | 8.886 |

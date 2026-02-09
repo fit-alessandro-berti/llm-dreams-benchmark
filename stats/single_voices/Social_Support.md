@@ -84,6 +84,7 @@
 | qwen-plus-2025-01-25 | 7.514 |
 | o1-2024-12-17 | 7.500 |
 | phi4-reasoningplus | 7.500 |
+| anthropicclaude-opus-4.6 | 7.500 |
 | gemini-1.5-flash-002 | 7.457 |
 | Grok-3-beta-thinking-20250303 | 7.443 |
 | ChatGPT-5.1-Instant-20251113 | 7.429 |

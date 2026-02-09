@@ -212,6 +212,7 @@
 | gpt-5-nano-2025-08-07 | 5.314 |
 | Grok-4-fast | 5.314 |
 | gemini-2.5-pro-preview-06-05 | 5.286 |
+| anthropicclaude-opus-4.6 | 5.271 |
 | gemma-3-27b-it | 5.243 |
 | phi4-reasoning | 5.200 |
 | claude-4-opus-20250514 | 5.114 |

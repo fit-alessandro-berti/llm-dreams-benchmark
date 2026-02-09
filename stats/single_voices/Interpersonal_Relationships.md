@@ -88,6 +88,7 @@
 | smollm21.7b-instruct-q6_K | 7.614 |
 | qwenqwen3-coder | 7.600 |
 | devstral-small-2505 | 7.586 |
+| anthropicclaude-opus-4.6 | 7.571 |
 | deepseek-aiDeepSeek-V3 | 7.571 |
 | openaigpt-5.2-codex | 7.571 |
 | granite4tiny-h | 7.557 |

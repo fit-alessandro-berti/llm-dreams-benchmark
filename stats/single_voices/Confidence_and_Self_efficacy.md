@@ -137,6 +137,7 @@
 | qwen34b-instruct-2507-q8_0 | 7.186 |
 | gemini-2.5-pro-preview-06-05 | 7.186 |
 | gemma-3-27b-it | 7.186 |
+| anthropicclaude-opus-4.6 | 7.171 |
 | qwen-plus-0428 | 7.171 |
 | claude-haiku-4-5-20251001 | 7.157 |
 | granite4tiny-h | 7.143 |

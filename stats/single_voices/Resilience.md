@@ -59,6 +59,7 @@
 | codestral-2501 | 8.829 |
 | gemini-1.5-flash-002 | 8.814 |
 | nousresearchhermes-4-405b | 8.814 |
+| anthropicclaude-opus-4.6 | 8.800 |
 | amazonnova-2-lite-v1 | 8.786 |
 | gpt-4.1-2025-04-14 | 8.786 |
 | qwen2.5-omni-7b | 8.786 |

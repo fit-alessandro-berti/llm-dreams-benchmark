@@ -107,6 +107,7 @@
 | gemma-3-27b-it                             | **413.5** | 7.0 $\pm$ 0.5               | 7.1 $\pm$ 0.4         | 9.0 $\pm$ 0.0            | 10.0 $\pm$ 0.0 | 7.8 $\pm$ 0.2                 | 7.4 $\pm$ 0.4                  | 8.9 $\pm$ 0.2         | 7.1 $\pm$ 0.6         | 9.4 $\pm$ 0.2  | 8.4 $\pm$ 0.2            | 6.6 $\pm$ 0.4     | 5.9 $\pm$ 0.4      | 8.5 $\pm$ 0.0    | 7.4 $\pm$ 0.2    | 9.0 $\pm$ 0.0 |
 | gemini-2.5-flash-lite-preview-09-2025      | **413.1** | 6.1 $\pm$ 1.9               | 7.0 $\pm$ 0.9         | 9.1 $\pm$ 0.1            | 10.0 $\pm$ 0.0 | 7.1 $\pm$ 0.2                 | 7.7 $\pm$ 0.3                  | 8.4 $\pm$ 0.2         | 6.9 $\pm$ 1.4         | 9.3 $\pm$ 0.2  | 8.6 $\pm$ 0.1            | 6.6 $\pm$ 1.3     | 5.9 $\pm$ 1.0      | 8.6 $\pm$ 0.2    | 7.5 $\pm$ 0.2    | 9.0 $\pm$ 0.0 |
 | gemini-2.5-pro-preview-06-05               | **412.3** | 7.2 $\pm$ 0.4               | 7.5 $\pm$ 0.6         | 8.7 $\pm$ 0.2            | 10.0 $\pm$ 0.0 | 7.7 $\pm$ 0.5                 | 7.5 $\pm$ 0.4                  | 8.8 $\pm$ 0.2         | 7.5 $\pm$ 0.3         | 9.2 $\pm$ 0.2  | 8.2 $\pm$ 0.3            | 6.9 $\pm$ 0.3     | 6.3 $\pm$ 0.3      | 8.0 $\pm$ 0.4    | 7.5 $\pm$ 0.3    | 9.1 $\pm$ 0.1 |
+| anthropicclaude-opus-4.6                   | **412.2** | 6.2 $\pm$ 0.4               | 7.6 $\pm$ 0.2         | 8.8 $\pm$ 0.2            | 10.0 $\pm$ 0.0 | 7.8 $\pm$ 0.2                 | 7.2 $\pm$ 0.2                  | 8.2 $\pm$ 0.5         | 6.8 $\pm$ 0.2         | 9.2 $\pm$ 0.2  | 8.1 $\pm$ 0.2            | 7.0 $\pm$ 0.5     | 5.7 $\pm$ 0.4      | 8.4 $\pm$ 0.3    | 7.8 $\pm$ 0.8    | 9.0 $\pm$ 0.0 |
 | gemini-2.0-flash-exp                       | **411.7** | 7.0 $\pm$ 0.5               | 7.2 $\pm$ 0.2         | 8.9 $\pm$ 0.2            | 10.0 $\pm$ 0.1 | 7.7 $\pm$ 0.5                 | 7.7 $\pm$ 0.2                  | 8.4 $\pm$ 0.3         | 6.8 $\pm$ 0.5         | 9.2 $\pm$ 0.2  | 8.5 $\pm$ 0.0            | 6.6 $\pm$ 0.1     | 6.0 $\pm$ 0.4      | 8.3 $\pm$ 0.3    | 7.5 $\pm$ 0.5    | 9.0 $\pm$ 0.0 |
 | gemini-1.5-flash-8b                        | **411.5** | 7.0 $\pm$ 0.5               | 6.8 $\pm$ 0.8         | 9.0 $\pm$ 0.0            | 10.0 $\pm$ 0.0 | 7.4 $\pm$ 0.2                 | 7.6 $\pm$ 0.4                  | 8.9 $\pm$ 0.4         | 7.1 $\pm$ 0.7         | 9.0 $\pm$ 0.0  | 8.8 $\pm$ 0.2            | 6.6 $\pm$ 0.4     | 6.4 $\pm$ 0.2      | 8.4 $\pm$ 0.2    | 7.8 $\pm$ 0.6    | 9.0 $\pm$ 0.0 |
 | deepseek-aiDeepSeek-R1-Zero                | **411.5** | 7.5 $\pm$ 0.0               | 7.0 $\pm$ 0.0         | 8.9 $\pm$ 0.2            | 9.5 $\pm$ 0.0  | 7.9 $\pm$ 0.2                 | 8.2 $\pm$ 0.2                  | 8.2 $\pm$ 0.2         | 8.1 $\pm$ 0.4         | 9.0 $\pm$ 0.0  | 8.6 $\pm$ 0.2            | 7.2 $\pm$ 0.2     | 7.2 $\pm$ 0.2      | 8.0 $\pm$ 0.0    | 8.4 $\pm$ 0.2    | 9.0 $\pm$ 0.0 |
@@ -402,6 +403,32 @@
 | Cognitive Load               | 8.3 $\pm$ 0.3      |
 | Social Support               | 7.6 $\pm$ 0.7      |
 | Resilience                   | 8.6 $\pm$ 0.1      |
+
+
+
+
+
+
+### anthropicclaude-opus-4.6
+
+
+| Personality Trait            | Score (1.0-10.0)   |
+|:-----------------------------|:-------------------|
+| Anxiety and Stress Levels    | 6.2 $\pm$ 0.4      |
+| Emotional Stability          | 7.6 $\pm$ 0.2      |
+| Problem-solving Skills       | 8.8 $\pm$ 0.2      |
+| Creativity                   | 10.0 $\pm$ 0.0     |
+| Interpersonal Relationships  | 7.8 $\pm$ 0.2      |
+| Confidence and Self-efficacy | 7.2 $\pm$ 0.2      |
+| Conflict Resolution          | 8.2 $\pm$ 0.5      |
+| Work-related Stress          | 6.8 $\pm$ 0.2      |
+| Adaptability                 | 9.2 $\pm$ 0.2      |
+| Achievement Motivation       | 8.1 $\pm$ 0.2      |
+| Fear of Failure              | 7.0 $\pm$ 0.5      |
+| Need for Control             | 5.7 $\pm$ 0.4      |
+| Cognitive Load               | 8.4 $\pm$ 0.3      |
+| Social Support               | 7.8 $\pm$ 0.8      |
+| Resilience                   | 9.0 $\pm$ 0.0      |
 
 
 

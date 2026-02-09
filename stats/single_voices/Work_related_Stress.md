@@ -154,6 +154,7 @@
 | gpt-5-chat-latest-2025-08-19 | 6.443 |
 | gemini-1.5-flash-002 | 6.429 |
 | qwen2.5-omni-7b | 6.429 |
+| anthropicclaude-opus-4.6 | 6.414 |
 | qwenqwen3-next-80b-a3b-thinking | 6.400 |
 | gpt-4o-mini-2024-07-18 | 6.343 |
 | qwen-plus-2025-01-25 | 6.343 |

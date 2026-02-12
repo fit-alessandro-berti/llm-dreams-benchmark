@@ -209,6 +209,7 @@
 | grok-2-1212 | 4.400 |
 | inceptionmercury | 4.400 |
 | phi4-reasoningplus | 4.400 |
+| openrouteraurora-alpha | 4.371 |
 | openaigpt-oss-120b | 4.357 |
 | deepseekdeepseek-v3.2-exp | 4.343 |
 | falcon37b-instruct-q8_0 | 4.271 |

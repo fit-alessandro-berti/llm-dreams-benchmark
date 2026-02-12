@@ -212,6 +212,7 @@
 | qwenqwen3-coder-next | 5.100 |
 | deepseekdeepseek-v3.2 | 5.100 |
 | ai21jamba-mini-1.7 | 5.071 |
+| openrouteraurora-alpha | 4.986 |
 | openaigpt-oss-120b | 4.971 |
 | gpt-5-nano-2025-08-07 | 4.900 |
 | falcon37b-instruct-q8_0 | 4.871 |

@@ -1,4 +1,4 @@
-ANSWERING_MODEL_NAME = "anthropic/claude-opus-4.6"
+ANSWERING_MODEL_NAME = "openrouter/aurora-alpha"
 EVALUATING_MODEL_NAME = "gpt-4.1"
 
 

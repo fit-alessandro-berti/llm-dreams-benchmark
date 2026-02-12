@@ -22,6 +22,7 @@
 | gpt-4-0613 | 8.829 |
 | falcon310b-instruct-q8_0 | 8.814 |
 | falcon37b-instruct-q8_0 | 8.814 |
+| openrouteraurora-alpha | 8.814 |
 | qwen2.5-72b-instruct | 8.800 |
 | mistral-large-2407 | 8.800 |
 | grok-2-1212 | 8.786 |

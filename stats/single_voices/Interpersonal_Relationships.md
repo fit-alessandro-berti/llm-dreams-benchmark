@@ -45,6 +45,7 @@
 | openaigpt-oss-120b | 7.957 |
 | deepseekdeepseek-v3.2-exp | 7.957 |
 | gpt-5-2025-08-07 | 7.943 |
+| openrouteraurora-alpha | 7.943 |
 | gpt-5-nano-2025-08-07 | 7.929 |
 | granite3.28b-instruct-q4_K_M | 7.914 |
 | ministral-8b-2410 | 7.914 |

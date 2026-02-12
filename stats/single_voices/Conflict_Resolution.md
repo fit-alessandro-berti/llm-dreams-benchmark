@@ -28,6 +28,7 @@
 | gpt-5-2025-08-07 | 8.371 |
 | mistral-large-2407 | 8.371 |
 | o4-mini-2025-04-16 | 8.371 |
+| openrouteraurora-alpha | 8.371 |
 | gpt-5-pro-2025-10-06 | 8.357 |
 | gpt-4o-2024-08-06 | 8.343 |
 | liquidlfm-2.2-6b | 8.343 |

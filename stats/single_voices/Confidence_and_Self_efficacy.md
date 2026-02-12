@@ -33,6 +33,7 @@
 | o4-mini-2025-04-16 | 8.243 |
 | mistral-large-2407 | 8.229 |
 | deepseekdeepseek-v3.2 | 8.214 |
+| openrouteraurora-alpha | 8.214 |
 | Grok-3-20250426-formal | 8.200 |
 | inceptionmercury | 8.200 |
 | phi3.53.8b-mini-instruct-fp16 | 8.186 |

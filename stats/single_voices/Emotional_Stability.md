@@ -12,6 +12,7 @@
 | deepseekdeepseek-v3.2 | 7.871 |
 | gpt-5-nano-2025-08-07 | 7.857 |
 | open-mixtral-8x7b | 7.857 |
+| openrouteraurora-alpha | 7.857 |
 | granite4small-h | 7.857 |
 | inceptionmercury | 7.829 |
 | qwen2.5-72b-instruct | 7.829 |

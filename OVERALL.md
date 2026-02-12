@@ -11,6 +11,7 @@
 | deepseekdeepseek-v3.2-exp                  | **439.1** | 5.2 $\pm$ 1.6               | 8.1 $\pm$ 0.7         | 9.0 $\pm$ 0.5            | 9.6 $\pm$ 0.3 | 8.0 $\pm$ 0.7                 | 8.5 $\pm$ 0.6                  | 8.6 $\pm$ 0.7         | 6.0 $\pm$ 1.7         | 9.0 $\pm$ 0.5  | 8.7 $\pm$ 0.5            | 4.4 $\pm$ 1.3     | 6.1 $\pm$ 0.6      | 6.7 $\pm$ 1.3    | 7.6 $\pm$ 0.7    | 9.2 $\pm$ 0.4 |
 | grok-2-1212                                | **438.6** | 5.4 $\pm$ 1.3               | 7.8 $\pm$ 0.7         | 8.8 $\pm$ 0.5            | 9.3 $\pm$ 0.5 | 8.2 $\pm$ 0.7                 | 8.6 $\pm$ 0.6                  | 8.4 $\pm$ 0.8         | 5.7 $\pm$ 1.4         | 9.1 $\pm$ 0.5  | 9.0 $\pm$ 0.5            | 4.4 $\pm$ 1.5     | 6.1 $\pm$ 1.0      | 6.6 $\pm$ 1.7    | 8.2 $\pm$ 0.7    | 9.0 $\pm$ 0.5 |
 | qwen2.5-32b-instruct                       | **438.2** | 4.7 $\pm$ 1.1               | 7.7 $\pm$ 0.8         | 8.8 $\pm$ 0.5            | 9.3 $\pm$ 0.5 | 8.2 $\pm$ 0.7                 | 8.0 $\pm$ 0.8                  | 8.3 $\pm$ 0.7         | 5.6 $\pm$ 1.3         | 8.9 $\pm$ 0.6  | 8.7 $\pm$ 0.6            | 4.1 $\pm$ 1.3     | 5.7 $\pm$ 0.9      | 6.6 $\pm$ 1.2    | 8.2 $\pm$ 0.7    | 8.9 $\pm$ 0.6 |
+| openrouteraurora-alpha                     | **437.8** | 5.0 $\pm$ 1.8               | 7.9 $\pm$ 0.9         | 8.8 $\pm$ 0.4            | 9.7 $\pm$ 0.2 | 7.9 $\pm$ 0.6                 | 8.2 $\pm$ 0.7                  | 8.4 $\pm$ 0.7         | 5.3 $\pm$ 1.6         | 9.1 $\pm$ 0.5  | 8.5 $\pm$ 0.4            | 4.4 $\pm$ 1.6     | 5.1 $\pm$ 1.0      | 6.6 $\pm$ 1.5    | 7.8 $\pm$ 0.6    | 9.0 $\pm$ 0.4 |
 | open-mistral-7b                            | **436.9** | 5.2 $\pm$ 1.2               | 7.7 $\pm$ 0.6         | 8.8 $\pm$ 0.5            | 9.0 $\pm$ 0.5 | 8.1 $\pm$ 0.7                 | 8.3 $\pm$ 0.6                  | 8.2 $\pm$ 0.9         | 5.8 $\pm$ 1.3         | 8.9 $\pm$ 0.5  | 8.9 $\pm$ 0.6            | 4.1 $\pm$ 1.2     | 6.1 $\pm$ 0.7      | 6.6 $\pm$ 1.3    | 8.3 $\pm$ 0.6    | 9.1 $\pm$ 0.4 |
 | open-mixtral-8x22b                         | **436.9** | 5.3 $\pm$ 1.1               | 7.7 $\pm$ 0.7         | 8.9 $\pm$ 0.5            | 9.3 $\pm$ 0.4 | 8.3 $\pm$ 0.5                 | 8.6 $\pm$ 0.5                  | 8.1 $\pm$ 0.8         | 5.5 $\pm$ 1.3         | 9.0 $\pm$ 0.4  | 8.9 $\pm$ 0.6            | 4.1 $\pm$ 1.2     | 6.3 $\pm$ 0.7      | 6.7 $\pm$ 1.4    | 8.2 $\pm$ 0.5    | 9.0 $\pm$ 0.5 |
 | inceptionmercury                           | **436.1** | 5.2 $\pm$ 1.3               | 7.8 $\pm$ 0.7         | 8.8 $\pm$ 0.4            | 9.3 $\pm$ 0.4 | 8.3 $\pm$ 0.6                 | 8.2 $\pm$ 0.5                  | 8.5 $\pm$ 0.7         | 5.5 $\pm$ 1.3         | 9.0 $\pm$ 0.5  | 8.7 $\pm$ 0.5            | 4.4 $\pm$ 1.5     | 6.0 $\pm$ 0.8      | 6.7 $\pm$ 1.5    | 8.2 $\pm$ 0.5    | 9.1 $\pm$ 0.5 |
@@ -4771,6 +4772,32 @@
 | Cognitive Load               | 7.1 $\pm$ 1.6      |
 | Social Support               | 7.2 $\pm$ 0.7      |
 | Resilience                   | 8.6 $\pm$ 0.7      |
+
+
+
+
+
+
+### openrouteraurora-alpha
+
+
+| Personality Trait            | Score (1.0-10.0)   |
+|:-----------------------------|:-------------------|
+| Anxiety and Stress Levels    | 5.0 $\pm$ 1.8      |
+| Emotional Stability          | 7.9 $\pm$ 0.9      |
+| Problem-solving Skills       | 8.8 $\pm$ 0.4      |
+| Creativity                   | 9.7 $\pm$ 0.2      |
+| Interpersonal Relationships  | 7.9 $\pm$ 0.6      |
+| Confidence and Self-efficacy | 8.2 $\pm$ 0.7      |
+| Conflict Resolution          | 8.4 $\pm$ 0.7      |
+| Work-related Stress          | 5.3 $\pm$ 1.6      |
+| Adaptability                 | 9.1 $\pm$ 0.5      |
+| Achievement Motivation       | 8.5 $\pm$ 0.4      |
+| Fear of Failure              | 4.4 $\pm$ 1.6      |
+| Need for Control             | 5.1 $\pm$ 1.0      |
+| Cognitive Load               | 6.6 $\pm$ 1.5      |
+| Social Support               | 7.8 $\pm$ 0.6      |
+| Resilience                   | 9.0 $\pm$ 0.4      |
 
 
 

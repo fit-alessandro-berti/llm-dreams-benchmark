@@ -217,6 +217,7 @@
 | phi4-reasoning | 5.200 |
 | claude-4-opus-20250514 | 5.114 |
 | anthropicclaude-opus-4.1 | 5.114 |
+| openrouteraurora-alpha | 5.114 |
 | qwenqwen3-next-80b-a3b-instruct | 5.100 |
 | openaigpt-5.2-codex | 5.071 |
 | gpt-4.5-preview | 5.014 |

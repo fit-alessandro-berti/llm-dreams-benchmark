@@ -219,6 +219,7 @@
 | qwen34b-instruct-2507-q8_0 | 6.614 |
 | grok-2-1212 | 6.600 |
 | open-mistral-7b | 6.600 |
+| openrouteraurora-alpha | 6.571 |
 | gpt-5-nano-2025-08-07 | 6.543 |
 | microsoftPhi-3-medium-4k-instruct | 6.514 |
 | gpt-4-0125-preview | 6.486 |

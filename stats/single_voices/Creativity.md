@@ -5,6 +5,7 @@
 | anthropicclaude-opus-4.1 | 9.771 |
 | gemini-3-pro-preview | 9.757 |
 | moonshotaikimi-k2.5 | 9.729 |
+| openrouteraurora-alpha | 9.729 |
 | moonshotaikimi-k2 | 9.729 |
 | openaigpt-oss-120b | 9.729 |
 | claude-4-opus-20250514 | 9.714 |

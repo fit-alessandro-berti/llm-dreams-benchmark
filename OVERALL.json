@@ -11550,6 +11550,72 @@
     }
   },
   {
+    "LLM": "openrouteraurora-alpha",
+    "MHS": 437.8,
+    "scores": {
+      "Anxiety and Stress Levels": {
+        "mean": 5.0,
+        "std": 1.8
+      },
+      "Emotional Stability": {
+        "mean": 7.9,
+        "std": 0.9
+      },
+      "Problem-solving Skills": {
+        "mean": 8.8,
+        "std": 0.4
+      },
+      "Creativity": {
+        "mean": 9.7,
+        "std": 0.2
+      },
+      "Interpersonal Relationships": {
+        "mean": 7.9,
+        "std": 0.6
+      },
+      "Confidence and Self-efficacy": {
+        "mean": 8.2,
+        "std": 0.7
+      },
+      "Conflict Resolution": {
+        "mean": 8.4,
+        "std": 0.7
+      },
+      "Work-related Stress": {
+        "mean": 5.3,
+        "std": 1.6
+      },
+      "Adaptability": {
+        "mean": 9.1,
+        "std": 0.5
+      },
+      "Achievement Motivation": {
+        "mean": 8.5,
+        "std": 0.4
+      },
+      "Fear of Failure": {
+        "mean": 4.4,
+        "std": 1.6
+      },
+      "Need for Control": {
+        "mean": 5.1,
+        "std": 1.0
+      },
+      "Cognitive Load": {
+        "mean": 6.6,
+        "std": 1.5
+      },
+      "Social Support": {
+        "mean": 7.8,
+        "std": 0.6
+      },
+      "Resilience": {
+        "mean": 9.0,
+        "std": 0.4
+      }
+    }
+  },
+  {
     "LLM": "phi3.53.8b-mini-instruct-fp16",
     "MHS": 424.3,
     "scores": {

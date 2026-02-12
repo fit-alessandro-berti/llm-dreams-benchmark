@@ -28,6 +28,7 @@
 | deepseekdeepseek-v3.2 | 8.971 |
 | gpt-4-0613 | 8.957 |
 | gpt-5-mini-2025-08-07 | 8.957 |
+| openrouteraurora-alpha | 8.957 |
 | phi3.53.8b-mini-instruct-fp16 | 8.957 |
 | granite3.28b-instruct-q4_K_M | 8.957 |
 | open-mixtral-8x7b | 8.943 |

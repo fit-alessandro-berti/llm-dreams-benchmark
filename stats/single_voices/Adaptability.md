@@ -10,6 +10,7 @@
 | granite4small-h | 9.143 |
 | granite3.28b-instruct-q4_K_M | 9.100 |
 | open-mistral-nemo | 9.100 |
+| openrouteraurora-alpha | 9.100 |
 | inceptionmercury | 9.071 |
 | grok-2-1212 | 9.057 |
 | open-mixtral-8x22b | 9.057 |

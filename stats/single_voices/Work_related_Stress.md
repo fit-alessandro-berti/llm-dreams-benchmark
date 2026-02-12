@@ -217,6 +217,7 @@
 | gpt-4.1-2025-04-14 | 5.286 |
 | gpt-5-nano-2025-08-07 | 5.286 |
 | phi4-reasoningplus | 5.286 |
+| openrouteraurora-alpha | 5.271 |
 | phi4-reasoning | 5.243 |
 | falcon37b-instruct-q8_0 | 5.229 |
 | microsoftPhi-3-medium-4k-instruct | 5.171 |

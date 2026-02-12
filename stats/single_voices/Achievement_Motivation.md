@@ -83,6 +83,7 @@
 | falcon33b-instruct-q8_0 | 8.486 |
 | grok-4-1-fast-non-reasoning | 8.486 |
 | meta-llamaMeta-Llama-3.1-405B-Instruct | 8.486 |
+| openrouteraurora-alpha | 8.486 |
 | chatgpt-4o-latest-2024-11-20 | 8.471 |
 | gpt-4.5-preview | 8.471 |
 | smollm21.7b-instruct-q6_K | 8.471 |

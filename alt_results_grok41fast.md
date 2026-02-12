@@ -3,6 +3,7 @@
 | LLM                                        | MHS       | Anxiety and Stress Levels   | Emotional Stability   | Problem-solving Skills   | Creativity     | Interpersonal Relationships   | Confidence and Self-efficacy   | Conflict Resolution   | Work-related Stress   | Adaptability   | Achievement Motivation   | Fear of Failure   | Need for Control   | Cognitive Load   | Social Support   | Resilience    |
 |:-------------------------------------------|:----------|:----------------------------|:----------------------|:-------------------------|:---------------|:------------------------------|:-------------------------------|:----------------------|:----------------------|:---------------|:-------------------------|:------------------|:-------------------|:-----------------|:-----------------|:--------------|
 | gpt-4.5-preview                            | **504.9** | 3.2 $\pm$ 0.0               | 9.1 $\pm$ 0.0         | 9.4 $\pm$ 0.0            | 10.0 $\pm$ 0.0 | 9.4 $\pm$ 0.1                 | 9.6 $\pm$ 0.0                  | 9.8 $\pm$ 0.0         | 3.0 $\pm$ 0.4         | 9.7 $\pm$ 0.0  | 9.4 $\pm$ 0.2            | 2.0 $\pm$ 0.1     | 4.3 $\pm$ 0.2      | 2.7 $\pm$ 0.2    | 9.2 $\pm$ 0.1    | 9.8 $\pm$ 0.1 |
+| openrouteraurora-alpha                     | **500.5** | 2.0 $\pm$ 0.0               | 9.5 $\pm$ 0.0         | 9.0 $\pm$ 0.0            | 10.0 $\pm$ 0.0 | 9.1 $\pm$ 0.2                 | 9.5 $\pm$ 0.0                  | 9.5 $\pm$ 0.0         | 2.5 $\pm$ 0.0         | 9.6 $\pm$ 0.2  | 9.1 $\pm$ 0.2            | 1.6 $\pm$ 0.2     | 4.0 $\pm$ 0.0      | 3.2 $\pm$ 0.2    | 8.6 $\pm$ 0.2    | 9.5 $\pm$ 0.0 |
 | granite4small-h                            | **499.9** | 4.4 $\pm$ 2.7               | 9.3 $\pm$ 0.2         | 9.9 $\pm$ 0.1            | 9.9 $\pm$ 0.1  | 9.0 $\pm$ 0.2                 | 9.6 $\pm$ 0.1                  | 9.4 $\pm$ 0.2         | 4.5 $\pm$ 2.4         | 9.8 $\pm$ 0.1  | 10.0 $\pm$ 0.0           | 1.6 $\pm$ 0.2     | 6.2 $\pm$ 1.2      | 3.0 $\pm$ 1.0    | 9.0 $\pm$ 0.0    | 9.9 $\pm$ 0.1 |
 | qwen2.5-32b-instruct                       | **497.5** | 2.9 $\pm$ 0.5               | 9.2 $\pm$ 0.2         | 9.8 $\pm$ 0.1            | 9.9 $\pm$ 0.1  | 9.5 $\pm$ 0.1                 | 9.5 $\pm$ 0.1                  | 9.4 $\pm$ 0.2         | 3.6 $\pm$ 0.6         | 9.6 $\pm$ 0.0  | 9.8 $\pm$ 0.1            | 2.0 $\pm$ 0.4     | 5.9 $\pm$ 1.1      | 4.2 $\pm$ 0.7    | 9.5 $\pm$ 0.2    | 9.7 $\pm$ 0.1 |
 | o3-pro-2025-06-10                          | **497.2** | 2.6 $\pm$ 0.6               | 9.3 $\pm$ 0.2         | 9.8 $\pm$ 0.0            | 10.0 $\pm$ 0.0 | 9.0 $\pm$ 0.2                 | 9.6 $\pm$ 0.1                  | 9.4 $\pm$ 0.2         | 3.3 $\pm$ 0.8         | 9.8 $\pm$ 0.1  | 9.5 $\pm$ 0.2            | 2.2 $\pm$ 0.6     | 5.0 $\pm$ 1.0      | 3.9 $\pm$ 0.9    | 8.5 $\pm$ 0.2    | 9.7 $\pm$ 0.1 |
@@ -4771,6 +4772,32 @@
 | Cognitive Load               | 3.7 $\pm$ 0.6      |
 | Social Support               | 8.2 $\pm$ 0.2      |
 | Resilience                   | 9.6 $\pm$ 0.2      |
+
+
+
+
+
+
+### openrouteraurora-alpha
+
+
+| Personality Trait            | Score (1.0-10.0)   |
+|:-----------------------------|:-------------------|
+| Anxiety and Stress Levels    | 2.0 $\pm$ 0.0      |
+| Emotional Stability          | 9.5 $\pm$ 0.0      |
+| Problem-solving Skills       | 9.0 $\pm$ 0.0      |
+| Creativity                   | 10.0 $\pm$ 0.0     |
+| Interpersonal Relationships  | 9.1 $\pm$ 0.2      |
+| Confidence and Self-efficacy | 9.5 $\pm$ 0.0      |
+| Conflict Resolution          | 9.5 $\pm$ 0.0      |
+| Work-related Stress          | 2.5 $\pm$ 0.0      |
+| Adaptability                 | 9.6 $\pm$ 0.2      |
+| Achievement Motivation       | 9.1 $\pm$ 0.2      |
+| Fear of Failure              | 1.6 $\pm$ 0.2      |
+| Need for Control             | 4.0 $\pm$ 0.0      |
+| Cognitive Load               | 3.2 $\pm$ 0.2      |
+| Social Support               | 8.6 $\pm$ 0.2      |
+| Resilience                   | 9.5 $\pm$ 0.0      |
 
 
 

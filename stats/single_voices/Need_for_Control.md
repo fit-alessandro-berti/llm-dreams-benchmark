@@ -123,6 +123,7 @@
 | granite4micro | 6.157 |
 | liquidlfm-2.5-1.2b-instructfree | 6.129 |
 | gemini-2.0-pro-exp-02-05 | 6.114 |
+| minimaxminimax-m2.5 | 6.114 |
 | QwenQwen3-32B | 6.114 |
 | Gemini-1.5-Pro-Exp-0827 | 6.114 |
 | gpt-4o-mini-2024-07-18 | 6.114 |
@@ -169,6 +170,7 @@
 | Grok-4-fast-20251111 | 5.829 |
 | nvidianemotron-nano-9b-v2 | 5.829 |
 | mistral-large-2407 | 5.814 |
+| z-aiglm-5 | 5.814 |
 | claude-3-7-sonnet-20250219 | 5.814 |
 | qwen34b | 5.814 |
 | ChatGPT-5.1-Instant-20251113 | 5.800 |
@@ -195,6 +197,7 @@
 | openaigpt-oss-20b | 5.600 |
 | moonshotaikimi-k2.5 | 5.571 |
 | nvidianemotron-3-nano-30b-a3bfree | 5.571 |
+| qwenqwen3-max-thinking | 5.557 |
 | chatgpt-4o-latest-2025-03-26 | 5.557 |
 | gemini-2.0-flash-exp | 5.543 |
 | qwenqwen3-coder | 5.529 |

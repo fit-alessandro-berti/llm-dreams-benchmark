@@ -86,6 +86,7 @@
 | o1-2024-12-17 | 7.500 |
 | phi4-reasoningplus | 7.500 |
 | anthropicclaude-opus-4.6 | 7.500 |
+| minimaxminimax-m2.5 | 7.471 |
 | gemini-1.5-flash-002 | 7.457 |
 | Grok-3-beta-thinking-20250303 | 7.443 |
 | ChatGPT-5.1-Instant-20251113 | 7.429 |
@@ -108,6 +109,7 @@
 | Grok-4-fast | 7.329 |
 | o1-2024-12-05 | 7.329 |
 | qwen34b-instruct-2507-q8_0 | 7.329 |
+| qwenqwen3-max-thinking | 7.329 |
 | ai21jamba-large-1.7 | 7.314 |
 | exaone-deep7.8b-fp16 | 7.314 |
 | grok-4-1-fast-reasoning | 7.314 |
@@ -184,6 +186,7 @@
 | qwen34b | 6.643 |
 | grok-3-mini-beta | 6.614 |
 | gemini-2.0-flash-lite-preview-02-05 | 6.586 |
+| z-aiglm-5 | 6.586 |
 | meta-llamaMeta-Llama-3.1-8B-Instruct | 6.571 |
 | z-aiglm-4.7-flash | 6.514 |
 | ministral-14b-2512 | 6.486 |

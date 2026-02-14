@@ -63,6 +63,7 @@
 | ministral-3b-2410 | 7.929 |
 | mistral-large-2411 | 7.929 |
 | qwen2.5-omni-7b | 7.929 |
+| minimaxminimax-m2.5 | 7.914 |
 | gpt-5-nano-2025-08-07 | 7.914 |
 | falcon33b-instruct-q8_0 | 7.857 |
 | gpt-5-mini-2025-08-07 | 7.857 |
@@ -115,6 +116,7 @@
 | googlegemma-2-9b-it | 7.386 |
 | gpt-4-1106-preview | 7.371 |
 | deepseekdeepseek-chat-v3.1 | 7.357 |
+| qwenqwen3-max-thinking | 7.357 |
 | allenaiolmo-3-7b-think | 7.343 |
 | gpt-4o-mini-2024-11-05 | 7.329 |
 | gpt-5-2025-08-07 | 7.329 |
@@ -148,6 +150,7 @@
 | claude-3-5-sonnet-20241022 | 7.086 |
 | magistral-small-2506 | 7.086 |
 | moonshotaikimi-k2 | 7.086 |
+| z-aiglm-5 | 7.086 |
 | googlegemma-2-2b-it | 7.071 |
 | nvidiallama-3.3-nemotron-super-49b-v1 | 7.071 |
 | meta-llamaLlama-3.2-3B-Instruct | 7.057 |

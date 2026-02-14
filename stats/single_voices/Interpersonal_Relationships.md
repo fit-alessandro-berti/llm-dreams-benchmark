@@ -72,6 +72,7 @@
 | allenaiolmo-3.1-32b-instruct | 7.729 |
 | amazonnova-2-lite-v1 | 7.729 |
 | qwen2.5-7b-instruct-1m | 7.729 |
+| minimaxminimax-m2.5 | 7.729 |
 | nvidiaLlama-3.1-Nemotron-70B-Instruct | 7.714 |
 | qwen2.5-omni-7b | 7.714 |
 | nvidianemotron-3-nano-30b-a3bfree | 7.686 |
@@ -100,6 +101,7 @@
 | qwenqwen3-max | 7.529 |
 | googlegemma-2-9b-it | 7.514 |
 | ai21jamba-large-1.7 | 7.500 |
+| qwenqwen3-max-thinking | 7.500 |
 | qwen34b-instruct-2507-q8_0 | 7.500 |
 | gpt-4-1106-preview | 7.486 |
 | allenaiolmo-3-7b-instruct | 7.471 |
@@ -183,6 +185,7 @@
 | gpt-4o-mini-2024-11-05 | 6.729 |
 | DeepSeek-V3-0324 | 6.714 |
 | r1-1776 | 6.700 |
+| z-aiglm-5 | 6.671 |
 | meta-llamaMeta-Llama-3.1-8B-Instruct | 6.657 |
 | magistral-medium-2506 | 6.657 |
 | claude-4-sonnet-20250514 | 6.614 |

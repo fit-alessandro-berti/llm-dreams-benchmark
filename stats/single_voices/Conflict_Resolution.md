@@ -32,6 +32,7 @@
 | gpt-5-pro-2025-10-06 | 8.357 |
 | gpt-4o-2024-08-06 | 8.343 |
 | liquidlfm-2.2-6b | 8.343 |
+| minimaxminimax-m2.5 | 8.343 |
 | ai21jamba-mini-1.7 | 8.343 |
 | qwen2.5-32b-instruct | 8.329 |
 | gemini-1.5-flash-002 | 8.314 |
@@ -43,6 +44,7 @@
 | gpt-4o-mini-2024-07-18 | 8.271 |
 | minimaxminimax-m2.1 | 8.271 |
 | qwenqwen3-max | 8.257 |
+| qwenqwen3-max-thinking | 8.257 |
 | ChatGPT-5.1-Instant-20251113 | 8.243 |
 | granite4micro-h | 8.229 |
 | mistral-large-2411 | 8.229 |
@@ -171,6 +173,7 @@
 | DeepSeek-V3-0324 | 7.171 |
 | gemma-3n-e4b-it | 7.171 |
 | QwenQwen3-30B-A3B | 7.171 |
+| z-aiglm-5 | 7.143 |
 | magistral-small-2506 | 7.114 |
 | prime-intellectintellect-3 | 7.114 |
 | gemma34b-it-q8_0 | 7.043 |

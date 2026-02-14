@@ -40,8 +40,10 @@
 | qwenqwen3-max | 9.614 |
 | anthropicclaude-opus-4.6 | 9.600 |
 | qwen34b-instruct-2507-q8_0 | 9.600 |
+| qwenqwen3-max-thinking | 9.600 |
 | writerpalmyra-x5 | 9.600 |
 | z-aiglm-4.7-flash | 9.600 |
+| z-aiglm-5 | 9.600 |
 | anthropicclaude-sonnet-4.5 | 9.600 |
 | QwenQwen3-30B-A3B | 9.600 |
 | xiaomimimo-v2-flashfree | 9.600 |
@@ -86,6 +88,7 @@
 | gemini-2.0-pro-exp-02-05 | 9.486 |
 | gemini-1.5-flash-002 | 9.486 |
 | gpt-4.1-2025-04-14 | 9.486 |
+| minimaxminimax-m2.5 | 9.486 |
 | gpt-5-chat-latest-2025-08-07 | 9.471 |
 | liquidlfm2-8b-a1b | 9.471 |
 | microsoftphi-4 | 9.471 |

@@ -60,6 +60,7 @@
 | codestral-2501 | 8.829 |
 | gemini-1.5-flash-002 | 8.814 |
 | nousresearchhermes-4-405b | 8.814 |
+| qwenqwen3-max-thinking | 8.814 |
 | anthropicclaude-opus-4.6 | 8.800 |
 | amazonnova-2-lite-v1 | 8.786 |
 | gpt-4.1-2025-04-14 | 8.786 |
@@ -77,6 +78,7 @@
 | liquidlfm-2.5-1.2b-thinkingfree | 8.729 |
 | o1-pro-2024-12-17 | 8.729 |
 | allenaiolmo-3.1-32b-instruct | 8.714 |
+| minimaxminimax-m2.5 | 8.714 |
 | ministral-8b-2410 | 8.714 |
 | gemini-2.5-pro-preview-06-05 | 8.686 |
 | gemini-3-flash-preview | 8.686 |
@@ -111,6 +113,7 @@
 | Grok-4-fast-20251111 | 8.586 |
 | ministral-3b-2410 | 8.571 |
 | QwenQwen3-32B | 8.557 |
+| z-aiglm-5 | 8.557 |
 | chatgpt-4o-latest-2025-03-26 | 8.557 |
 | gemini-1.5-flash-8b | 8.543 |
 | gemma-3n-e4b-it | 8.529 |

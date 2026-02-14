@@ -51,6 +51,7 @@
 | claude-3-opus-20240229 | 7.571 |
 | gpt-5.2-2025-12-11 | 7.571 |
 | meta-llamaMeta-Llama-3.1-70B-Instruct | 7.571 |
+| z-aiglm-5 | 7.557 |
 | gemma31b-it-q8_0 | 7.529 |
 | gpt-5.2-pro-2025-12-11 | 7.529 |
 | writerpalmyra-x5 | 7.529 |
@@ -98,6 +99,7 @@
 | deepseekdeepseek-chat-v3.1 | 7.000 |
 | claude-3-5-sonnet-20241022 | 6.986 |
 | stepfunstep-3.5-flashfree | 6.986 |
+| qwenqwen3-max-thinking | 6.957 |
 | Grok-3-beta-thinking-20250303 | 6.943 |
 | anthropicclaude-opus-4.1 | 6.929 |
 | claude-3-7-sonnet-20250219 | 6.929 |
@@ -173,6 +175,7 @@
 | o4-mini-2025-04-16 | 5.971 |
 | mistral-large-2411 | 5.943 |
 | qwen34b-instruct-2507-q8_0 | 5.886 |
+| minimaxminimax-m2.5 | 5.871 |
 | granite4micro | 5.857 |
 | mistral-small-2503 | 5.857 |
 | liquidlfm-2.2-6b | 5.829 |

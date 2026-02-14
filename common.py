@@ -1,4 +1,4 @@
-ANSWERING_MODEL_NAME = "openrouter/aurora-alpha"
+ANSWERING_MODEL_NAME = "qwen/qwen3-max-thinking"
 EVALUATING_MODEL_NAME = "gpt-4.1"
 
 

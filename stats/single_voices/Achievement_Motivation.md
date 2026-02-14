@@ -75,6 +75,7 @@
 | gpt-4.1-nano-2025-04-14 | 8.514 |
 | Grok-4-fast | 8.514 |
 | liquidlfm-2.5-1.2b-instructfree | 8.514 |
+| minimaxminimax-m2.5 | 8.514 |
 | o1-pro-2024-12-05 | 8.514 |
 | openaigpt-oss-120b | 8.514 |
 | meta-llamaLlama-3.2-3B-Instruct | 8.500 |
@@ -120,6 +121,7 @@
 | gemini-1.5-flash-002 | 8.343 |
 | qwen-plus-0428 | 8.343 |
 | meta-llamaLlama-3.3-70B-Instruct | 8.343 |
+| qwenqwen3-max-thinking | 8.343 |
 | gemini-2.5-flash-lite-preview-06-17 | 8.329 |
 | gpt-5-chat-latest-2025-08-19 | 8.329 |
 | qwenqwen3-30b-a3b-instruct-2507 | 8.329 |
@@ -146,6 +148,7 @@
 | xiaomimimo-v2-flashfree | 8.243 |
 | gemini-2.0-flash-exp | 8.229 |
 | gpt-4-1106-preview | 8.229 |
+| z-aiglm-5 | 8.229 |
 | arcee-aitrinity-mini | 8.214 |
 | grok-4-0709 | 8.214 |
 | gpt-5-pro-2025-10-06 | 8.200 |

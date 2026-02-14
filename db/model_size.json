@@ -473,6 +473,7 @@
     230,
     10
   ],
+  "minimaxminimax-m2.5": [],
   "minimaxminimax-m2free": [
     230,
     10
@@ -714,6 +715,7 @@
     1175,
     110
   ],
+  "qwenqwen3-max-thinking": [],
   "qwenqwen3-next-80b-a3b-instruct": [
     80,
     3
@@ -767,5 +769,6 @@
   "z-aiglm-4.7-flash": [
     31,
     3.6
-  ]
+  ],
+  "z-aiglm-5": []
 }

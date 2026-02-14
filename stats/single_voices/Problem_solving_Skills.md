@@ -35,6 +35,7 @@
 | ai21jamba-mini-1.7 | 8.729 |
 | gpt-3.5-turbo | 8.729 |
 | baiduernie-4.5-21b-a3b | 8.714 |
+| minimaxminimax-m2.5 | 8.714 |
 | exaone-deep7.8b-fp16 | 8.700 |
 | qwen-max-2025-01-25 | 8.700 |
 | gpt-5-pro-2025-10-06 | 8.686 |
@@ -87,6 +88,7 @@
 | o1-2024-12-17 | 8.500 |
 | phi4-reasoning | 8.500 |
 | qwen-plus-2025-01-25 | 8.500 |
+| qwenqwen3-max-thinking | 8.500 |
 | x-aigrok-code-fast-1 | 8.500 |
 | openaigpt-oss-20b | 8.486 |
 | phi4-reasoningplus | 8.486 |
@@ -169,6 +171,7 @@
 | meta-llamaMeta-Llama-3.1-405B-Instruct | 8.114 |
 | ministral-8b-2512 | 8.114 |
 | qwen34b-instruct-2507-q8_0 | 8.100 |
+| z-aiglm-5 | 8.100 |
 | claude-3-opus-20240229 | 8.086 |
 | gpt-4o-mini-2024-11-05 | 8.086 |
 | googlegemma-2-9b-it | 8.071 |

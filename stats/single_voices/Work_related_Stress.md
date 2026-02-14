@@ -43,6 +43,7 @@
 | meta-llamaMeta-Llama-3.1-8B-Instruct | 7.800 |
 | prime-intellectintellect-3 | 7.800 |
 | gpt-5-chat-latest-2025-08-07 | 7.786 |
+| z-aiglm-5 | 7.786 |
 | claude-3-opus-20240229 | 7.786 |
 | qwen-plus-0428 | 7.771 |
 | googlegemma-2-2b-it | 7.771 |
@@ -109,6 +110,7 @@
 | anthropicclaude-opus-4.1 | 6.957 |
 | amazonnova-2-lite-v1 | 6.943 |
 | nvidiallama-3.1-nemotron-ultra-253b-v1free | 6.943 |
+| qwenqwen3-max-thinking | 6.929 |
 | essentialairnj-1-instruct | 6.914 |
 | grok-4-0709 | 6.914 |
 | googlegemma-2-9b-it | 6.900 |
@@ -164,6 +166,7 @@
 | mistral-small-2501 | 6.200 |
 | liquidlfm-2.5-1.2b-instructfree | 6.171 |
 | ChatGPT-5.1-Instant-20251113 | 6.171 |
+| minimaxminimax-m2.5 | 6.157 |
 | o1-pro-2024-12-05 | 6.157 |
 | open-mistral-nemo | 6.157 |
 | qwenqwen3-coder | 6.157 |

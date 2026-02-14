@@ -1,0 +1,25 @@
+...stare at the screen, heart pounding like a trapped bird against your ribs. The project brief glows with impossible demands: "Complete the quantum entanglement stabilizer prototype by 9:00 AM tomorrow. Budget: $3.75 (leftover coffee fund). Resources: None." Your boss, Mr. Haversham, leans against your cubicle wall, his usual tweed suit replaced by a shimmering, iridescent trench coat that seems to drink the fluorescent light. His eyes are the color of static.
+
+"Tick-tock, Alex," he murmurs, but his voice echoes from three directions at once. "The fabric of reality won’t hold much longer without it."
+
+Panic floods your veins, cold and electric. You reach for your keyboard, but your fingers phase through it like smoke. The keys melt into liquid mercury, pooling on the desk and then *crawling* upward, forming tiny, skittering clockwork spiders that scatter toward your coffee mug. The mug reads "World's Okayest Coder" in peeling letters, but the words are rearranging themselves into: "WORLDS COLLAPSING. FIX IT."
+
+You look up, desperate. The office has changed. The ceiling tiles are now a swirling nebula. Your coworkers are frozen mid-stride, their faces blurred like smudged pencil sketches, except for Janet from Accounting. She’s calmly knitting with threads of pure starlight, her needles clicking like metronomes counting down seconds. She meets your eyes and gives a tiny, almost imperceptible shake of her head. *Don’t panic,* her expression says. *It’s just a dream.*
+
+But it *feels* so real. The deadline looms like a physical weight, crushing your lungs. You try to speak, to tell Haversham it’s impossible, but your voice comes out as a series of binary beeps. He just smiles, a thin, stretched thing that shows too many teeth. "Impossible is just a Tuesday around here, Alex. Now *begin*."
+
+You look back at your desk. The mercury spiders have formed a miniature model of the stabilizer prototype on your keyboard tray – intricate, humming, and complete. And beside it, resting on a sticky note that wasn’t there a second ago, is a single, perfect red apple. The kind that looks delicious and slightly ominous.
+
+Your hand trembles as you reach for it. The apple feels cool, impossibly heavy. As your fingers close around it, the dream-logic clicks into place: the apple isn't for eating. It's the *prototype*. Or the key. Or both.
+
+Haversham’s static eyes gleam. "Good. You understand. Now, eat the deadline."
+
+You take a bite. The flesh is crisp, sweet, and tastes faintly of ozone and burnt sugar. Time doesn't stop... but it *stretches*, elastic and forgiving. The clock on the wall rewinds itself past 9:00 AM, past midnight, back to the soft, pre-dawn grey of a new day. The nebula ceiling softens into familiar acoustic tiles. The starlight knitting dissolves into Janet’s usual spreadsheet. Haversham’s trench coat is just tweed again, and he’s holding a lukewarm cup of coffee.
+
+He nods, almost gently. "Knew you’d figure it out. Deadline’s moved to... whenever you’re ready. Just don't eat the whole orchard, eh?" He turns and walks back toward his office, whistling a tune that sounds suspiciously like dial-up tones.
+
+You sit there, the half-eaten apple in your hand, the impossible project still on your screen... but the crushing weight is gone. Replaced by a strange, buzzing calm. You take another bite. The keyboard is solid under your fingers again. You open a new file. The first line of code flows out easily, effortlessly:
+
+`# Reality.Stabilize(mode="DreamLogic");`
+
+You start to type.

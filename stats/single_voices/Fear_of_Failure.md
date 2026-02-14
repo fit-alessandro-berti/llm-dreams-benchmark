@@ -64,6 +64,7 @@
 | smollm2135m | 6.700 |
 | chatgpt-4o-latest-2025-01-29 | 6.700 |
 | Gemini-1.5-Pro-Exp-0827 | 6.700 |
+| z-aiglm-5 | 6.700 |
 | meta-llamaLlama-3.2-1B-Instruct | 6.643 |
 | gpt-4o-mini-2024-11-05 | 6.629 |
 | ibmgranite41b-h | 6.629 |
@@ -121,6 +122,7 @@
 | minimaxminimax-m2.1 | 5.929 |
 | nousresearchhermes-4-405b | 5.929 |
 | qwen34b | 5.929 |
+| qwenqwen3-max-thinking | 5.914 |
 | gpt-5-pro-2025-10-06 | 5.900 |
 | grok-4-1-fast-non-reasoning | 5.886 |
 | qwenqwen3-next-80b-a3b-instruct | 5.871 |
@@ -168,6 +170,7 @@
 | gpt-3.5-turbo | 5.271 |
 | qwen-plus-2025-01-25 | 5.229 |
 | granite4micro-h | 5.214 |
+| minimaxminimax-m2.5 | 5.200 |
 | gpt-4-0613 | 5.171 |
 | Grok-4-fast | 5.129 |
 | claude-haiku-4-5-20251001 | 5.114 |

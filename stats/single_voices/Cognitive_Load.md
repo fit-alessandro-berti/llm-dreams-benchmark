@@ -60,6 +60,7 @@
 | qwen30.6b | 7.929 |
 | grok-4-1-fast-reasoning | 7.914 |
 | grok-3-mini-beta | 7.914 |
+| z-aiglm-5 | 7.914 |
 | meta-llamallama-4-maverick | 7.900 |
 | z-aiglm-4.7-flash | 7.900 |
 | qwen31.7b | 7.900 |
@@ -116,7 +117,9 @@
 | gemini-2.5-flash-lite-preview-09-2025 | 7.486 |
 | meta-llamaLlama-3.2-1B-Instruct | 7.486 |
 | baiduernie-4.5-300b-a47b | 7.471 |
+| minimaxminimax-m2.5 | 7.471 |
 | mistral-medium-2505 | 7.471 |
+| qwenqwen3-max-thinking | 7.457 |
 | amazonnova-2-lite-v1 | 7.443 |
 | chatgpt-4o-latest-2024-11-20 | 7.443 |
 | googlegemma-2-9b-it | 7.443 |

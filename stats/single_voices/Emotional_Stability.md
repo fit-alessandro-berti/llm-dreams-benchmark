@@ -77,6 +77,7 @@
 | openaigpt-5.2-codex | 7.114 |
 | ChatGPT-5.1-Instant-20251113 | 7.114 |
 | gemini-2.0-flash-exp | 7.100 |
+| minimaxminimax-m2.5 | 7.100 |
 | qwen2.5-7b-instruct | 7.086 |
 | qwen34b-instruct-2507-q8_0 | 7.086 |
 | claude-haiku-4-5-20251001 | 7.057 |
@@ -95,6 +96,7 @@
 | devstral-small-2505 | 6.900 |
 | qwenqwen3-coder | 6.886 |
 | nousresearchhermes-4-405b | 6.886 |
+| qwenqwen3-max-thinking | 6.886 |
 | gemini-2.5-flash-lite-preview-09-2025 | 6.886 |
 | allenaiolmo-3-7b-instruct | 6.857 |
 | qwenqwen3-next-80b-a3b-thinking | 6.857 |
@@ -167,6 +169,7 @@
 | gpt-5.2-pro-2025-12-11 | 6.186 |
 | Grok-4.1-20251118 | 6.157 |
 | prime-intellectintellect-3 | 6.157 |
+| z-aiglm-5 | 6.143 |
 | z-aiglm-4.5 | 6.129 |
 | claude-4-sonnet-20250514 | 6.129 |
 | googlegemma-2-2b-it | 6.129 |

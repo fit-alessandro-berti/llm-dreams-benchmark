@@ -26,6 +26,7 @@
 | o4-mini-2025-04-16 | 9.014 |
 | qwenqwen3-coder-next | 9.014 |
 | o3-mini-20250131-HIGH | 9.000 |
+| qwenqwen3-max-thinking | 9.000 |
 | gpt-5-nano-2025-08-07 | 8.986 |
 | gpt-5-pro-2025-10-06 | 8.986 |
 | openaigpt-5.2-codex | 8.986 |
@@ -47,6 +48,7 @@
 | codex-mini-latest | 8.914 |
 | gemini-2.5-pro-preview-06-05 | 8.914 |
 | gpt-4-0613 | 8.914 |
+| minimaxminimax-m2.5 | 8.914 |
 | mistral-large-2407 | 8.914 |
 | qwen-plus-2025-01-25 | 8.914 |
 | deepseekdeepseek-v3.2 | 8.914 |
@@ -98,6 +100,7 @@
 | gemini-2.0-flash-exp | 8.786 |
 | gemini-2.5-pro-preview-05-06 | 8.786 |
 | gemma-3-27b-it | 8.786 |
+| z-aiglm-5 | 8.786 |
 | qwenqwen3-30b-a3b-instruct-2507 | 8.786 |
 | qwen-max-2025-01-25 | 8.771 |
 | o1-2024-12-17 | 8.771 |

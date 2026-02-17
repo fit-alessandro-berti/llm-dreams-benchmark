@@ -51,6 +51,7 @@
 | mistral-small-2501 | 8.229 |
 | o3-2025-04-16 | 8.229 |
 | open-mistral-7b | 8.214 |
+| qwenqwen3.5-plus-02-15 | 8.214 |
 | nousresearchhermes-4-405b | 8.200 |
 | baiduernie-4.5-21b-a3b | 8.200 |
 | o1-mini | 8.200 |
@@ -177,6 +178,7 @@
 | magistral-small-2506 | 7.114 |
 | prime-intellectintellect-3 | 7.114 |
 | gemma34b-it-q8_0 | 7.043 |
+| qwenqwen3.5-397b-a17b | 7.043 |
 | grok-3-mini-beta | 7.029 |
 | minimaxminimax-m2-her | 7.029 |
 | tngtechdeepseek-r1t-chimerafree | 6.986 |

@@ -60,6 +60,7 @@
 | codestral-2501 | 8.829 |
 | gemini-1.5-flash-002 | 8.814 |
 | nousresearchhermes-4-405b | 8.814 |
+| qwenqwen3.5-plus-02-15 | 8.814 |
 | qwenqwen3-max-thinking | 8.814 |
 | anthropicclaude-opus-4.6 | 8.800 |
 | amazonnova-2-lite-v1 | 8.786 |
@@ -123,6 +124,7 @@
 | qwenqwen3-next-80b-a3b-thinking | 8.514 |
 | minimaxminimax-m2free | 8.500 |
 | qwen30.6b | 8.500 |
+| qwenqwen3.5-397b-a17b | 8.500 |
 | gemini-2.0-pro-exp-02-05 | 8.486 |
 | moonshotaikimi-k2 | 8.486 |
 | ai21jamba-large-1.7 | 8.486 |

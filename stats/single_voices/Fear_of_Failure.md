@@ -158,10 +158,12 @@
 | gemini-2.0-flash-exp | 5.400 |
 | gpt-5-chat-latest-2025-08-19 | 5.400 |
 | qwen2.5-omni-7b | 5.400 |
+| qwenqwen3.5-plus-02-15 | 5.400 |
 | mistral-small-2501 | 5.357 |
 | o1-pro-2024-12-05 | 5.357 |
 | qwen2.5-7b-instruct | 5.343 |
 | qwen34b-instruct-2507-q8_0 | 5.343 |
+| qwenqwen3.5-397b-a17b | 5.343 |
 | Grok-3-20250426-formal | 5.343 |
 | gpt-4o-mini-2024-07-18 | 5.329 |
 | qwen-max-2025-01-25 | 5.329 |

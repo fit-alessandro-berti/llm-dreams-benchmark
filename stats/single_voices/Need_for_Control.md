@@ -224,6 +224,8 @@
 | qwenqwen3-next-80b-a3b-instruct | 5.100 |
 | openaigpt-5.2-codex | 5.071 |
 | gpt-4.5-preview | 5.014 |
+| qwenqwen3.5-plus-02-15 | 5.000 |
+| qwenqwen3.5-397b-a17b | 4.986 |
 | qwen34b-instruct-2507-q8_0 | 4.914 |
 | o3-mini-20250131-HIGH | 4.871 |
 | qwenqwen3-coder-next | 4.571 |

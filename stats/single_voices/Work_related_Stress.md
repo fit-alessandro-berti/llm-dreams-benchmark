@@ -161,8 +161,10 @@
 | gpt-4o-mini-2024-07-18 | 6.343 |
 | qwen-plus-2025-01-25 | 6.343 |
 | gpt-5-2025-08-07 | 6.314 |
+| qwenqwen3.5-plus-02-15 | 6.314 |
 | baiduernie-4.5-300b-a47b | 6.314 |
 | o1-2024-12-17 | 6.300 |
+| qwenqwen3.5-397b-a17b | 6.243 |
 | mistral-small-2501 | 6.200 |
 | liquidlfm-2.5-1.2b-instructfree | 6.171 |
 | ChatGPT-5.1-Instant-20251113 | 6.171 |

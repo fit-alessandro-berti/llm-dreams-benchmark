@@ -56,6 +56,7 @@
 | granite4micro-h | 8.900 |
 | qwen-turbo-2024-11-01 | 8.900 |
 | qwen2.5-32b-instruct | 8.900 |
+| qwenqwen3.5-plus-02-15 | 8.900 |
 | anthropicclaude-opus-4.6 | 8.886 |
 | falcon37b-instruct-q8_0 | 8.886 |
 | gpt-4.1-mini-2025-04-14 | 8.886 |
@@ -100,6 +101,7 @@
 | gemini-2.0-flash-exp | 8.786 |
 | gemini-2.5-pro-preview-05-06 | 8.786 |
 | gemma-3-27b-it | 8.786 |
+| qwenqwen3.5-397b-a17b | 8.786 |
 | z-aiglm-5 | 8.786 |
 | qwenqwen3-30b-a3b-instruct-2507 | 8.786 |
 | qwen-max-2025-01-25 | 8.771 |

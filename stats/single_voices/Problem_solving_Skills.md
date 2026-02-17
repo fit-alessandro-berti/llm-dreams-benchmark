@@ -162,6 +162,7 @@
 | qwenqwen3-235b-a22b-07-25 | 8.186 |
 | openaigpt-5.1-codex-max | 8.171 |
 | claude-opus-4-5-20251101 | 8.157 |
+| qwenqwen3.5-plus-02-15 | 8.157 |
 | xiaomimimo-v2-flashfree | 8.157 |
 | grok-4-0709 | 8.143 |
 | r1-1776 | 8.143 |
@@ -212,6 +213,7 @@
 | gemma31b-it-q8_0 | 7.743 |
 | claude-3-5-haiku-20241022 | 7.729 |
 | mistralaimistral-small-creative | 7.686 |
+| qwenqwen3.5-397b-a17b | 7.686 |
 | gpt-5-chat-latest-2025-08-07 | 7.671 |
 | minimaxminimax-m2-her | 7.657 |
 | mistral-large-2512 | 7.643 |

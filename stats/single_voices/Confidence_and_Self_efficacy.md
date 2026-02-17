@@ -78,6 +78,7 @@
 | gpt-4.1-nano-2025-04-14 | 7.757 |
 | baiduernie-4.5-300b-a47b | 7.757 |
 | exaone-deep7.8b-fp16 | 7.729 |
+| qwenqwen3.5-plus-02-15 | 7.700 |
 | grok-4-1-fast-non-reasoning | 7.700 |
 | qwen2.5-7b-instruct | 7.700 |
 | qwen30.6b | 7.686 |
@@ -110,6 +111,7 @@
 | minimaxminimax-m2free | 7.486 |
 | x-aigrok-code-fast-1 | 7.486 |
 | nvidiaLlama-3.1-Nemotron-70B-Instruct | 7.471 |
+| qwenqwen3.5-397b-a17b | 7.457 |
 | gemini-2.5-flash-lite-preview-06-17 | 7.429 |
 | smollm21.7b-instruct-q6_K | 7.414 |
 | qwenqwen3-30b-a3b-instruct-2507 | 7.400 |

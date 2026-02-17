@@ -151,6 +151,7 @@
 | baiduernie-4.5-300b-a47b | 6.357 |
 | chatgpt-4o-latest-2025-03-26 | 6.357 |
 | qwen2.5-7b-instruct | 6.286 |
+| qwenqwen3.5-plus-02-15 | 6.257 |
 | o1-pro-2024-12-05 | 6.229 |
 | arcee-aitrinity-large-previewfree | 6.214 |
 | o1-2024-12-17 | 6.214 |
@@ -172,6 +173,7 @@
 | liquidlfm-2.5-1.2b-instructfree | 6.029 |
 | ministral-3b-2410 | 6.014 |
 | ChatGPT-5.1-Instant-20251113 | 6.014 |
+| qwenqwen3.5-397b-a17b | 6.014 |
 | o4-mini-2025-04-16 | 5.971 |
 | mistral-large-2411 | 5.943 |
 | qwen34b-instruct-2507-q8_0 | 5.886 |

@@ -97,6 +97,7 @@
 | o1-pro-2024-12-17 | 7.414 |
 | nousresearchhermes-4-70b | 7.400 |
 | phi4-reasoning | 7.400 |
+| qwenqwen3.5-plus-02-15 | 7.400 |
 | baiduernie-4.5-21b-a3b | 7.371 |
 | chatgpt-4o-latest-2025-03-26 | 7.371 |
 | minimaxminimax-m2free | 7.371 |
@@ -182,6 +183,7 @@
 | chatgpt-4o-latest-2024-11-20 | 6.671 |
 | meta-llamaLlama-3.2-1B-Instruct | 6.671 |
 | gemini-2.5-flash-lite-preview-09-2025 | 6.657 |
+| qwenqwen3.5-397b-a17b | 6.657 |
 | DeepSeek-V3-0324 | 6.643 |
 | qwen34b | 6.643 |
 | grok-3-mini-beta | 6.614 |

@@ -89,6 +89,7 @@
 | Grok-3-beta-thinking-20250303 | 7.614 |
 | smollm21.7b-instruct-q6_K | 7.614 |
 | qwenqwen3-coder | 7.600 |
+| qwenqwen3.5-plus-02-15 | 7.600 |
 | devstral-small-2505 | 7.586 |
 | anthropicclaude-opus-4.6 | 7.571 |
 | deepseek-aiDeepSeek-V3 | 7.571 |
@@ -188,6 +189,7 @@
 | z-aiglm-5 | 6.671 |
 | meta-llamaMeta-Llama-3.1-8B-Instruct | 6.657 |
 | magistral-medium-2506 | 6.657 |
+| qwenqwen3.5-397b-a17b | 6.643 |
 | claude-4-sonnet-20250514 | 6.614 |
 | deepseekdeepseek-v3.2-speciale | 6.614 |
 | ministral-8b-2512 | 6.557 |

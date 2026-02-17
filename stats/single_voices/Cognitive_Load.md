@@ -190,6 +190,8 @@
 | ministral-3b-2410 | 6.929 |
 | nvidianemotron-3-nano-30b-a3bfree | 6.914 |
 | codestral-2501 | 6.914 |
+| qwenqwen3.5-397b-a17b | 6.914 |
+| qwenqwen3.5-plus-02-15 | 6.914 |
 | ai21jamba-mini-1.7 | 6.900 |
 | o1-2024-12-17 | 6.886 |
 | gpt-4o-2024-05-13 | 6.871 |

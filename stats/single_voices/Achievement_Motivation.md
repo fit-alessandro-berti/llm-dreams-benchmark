@@ -142,6 +142,7 @@
 | openaigpt-5.1-codex-max | 8.271 |
 | qwen-turbo-0428 | 8.271 |
 | mistral-medium-2508 | 8.257 |
+| qwenqwen3.5-plus-02-15 | 8.257 |
 | chatgpt-4o-latest-2025-01-29 | 8.243 |
 | gemini-2.5-pro-preview-05-06 | 8.243 |
 | QwenQwen3-14B | 8.243 |
@@ -214,6 +215,7 @@
 | gemma31b-it-q8_0 | 7.657 |
 | claude-4-opus-20250514 | 7.643 |
 | gemma34b-it-q8_0 | 7.643 |
+| qwenqwen3.5-397b-a17b | 7.643 |
 | gemini-3-pro-preview | 7.629 |
 | mistralaimistral-small-creative | 7.614 |
 | gemini-2.0-flash-lite-preview-02-05 | 7.600 |

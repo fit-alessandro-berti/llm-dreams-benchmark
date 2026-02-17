@@ -38,6 +38,7 @@
 | openaigpt-5.2-codex | 9.614 |
 | QwenQwen3-14B | 9.614 |
 | qwenqwen3-max | 9.614 |
+| qwenqwen3.5-397b-a17b | 9.614 |
 | anthropicclaude-opus-4.6 | 9.600 |
 | qwen34b-instruct-2507-q8_0 | 9.600 |
 | qwenqwen3-max-thinking | 9.600 |
@@ -50,6 +51,7 @@
 | gemini-2.5-flash-preview-09-2025 | 9.586 |
 | grok-4-1-fast-non-reasoning | 9.586 |
 | qwenqwen3-235b-a22b-07-25 | 9.586 |
+| qwenqwen3.5-plus-02-15 | 9.586 |
 | gemma-3n-e4b-it | 9.571 |
 | nvidianemotron-3-nano-30b-a3bfree | 9.571 |
 | openaigpt-oss-20b | 9.571 |

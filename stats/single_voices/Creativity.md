@@ -52,6 +52,7 @@
 | grok-4-1-fast-non-reasoning | 9.586 |
 | qwenqwen3-235b-a22b-07-25 | 9.586 |
 | qwenqwen3.5-plus-02-15 | 9.586 |
+| anthropicclaude-sonnet-4.6 | 9.571 |
 | gemma-3n-e4b-it | 9.571 |
 | nvidianemotron-3-nano-30b-a3bfree | 9.571 |
 | openaigpt-oss-20b | 9.571 |

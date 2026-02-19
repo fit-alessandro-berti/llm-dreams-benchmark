@@ -187,6 +187,7 @@
 | gemma312b-it-q8_0 | 8.029 |
 | moonshotaikimi-k2 | 8.029 |
 | meta-llamaLlama-3.2-1B-Instruct | 8.014 |
+| anthropicclaude-sonnet-4.6 | 8.000 |
 | Gpt-5.1-Pro-20251120 | 8.000 |
 | qwen34b | 7.971 |
 | ministral-8b-2512 | 7.971 |

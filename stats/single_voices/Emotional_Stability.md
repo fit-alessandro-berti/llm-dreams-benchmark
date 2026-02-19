@@ -53,6 +53,7 @@
 | Grok-3-20250426-formal | 7.429 |
 | Grok-3-20250426-concise | 7.371 |
 | mistral-large-2411 | 7.371 |
+| anthropicclaude-sonnet-4.6 | 7.371 |
 | phi4-reasoning | 7.357 |
 | gpt-4-0613 | 7.343 |
 | phi3.53.8b-mini-instruct-fp16 | 7.343 |

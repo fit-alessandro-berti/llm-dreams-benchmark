@@ -228,5 +228,6 @@
 | qwenqwen3.5-397b-a17b | 4.986 |
 | qwen34b-instruct-2507-q8_0 | 4.914 |
 | o3-mini-20250131-HIGH | 4.871 |
+| anthropicclaude-sonnet-4.6 | 4.757 |
 | qwenqwen3-coder-next | 4.571 |
 | claude-haiku-4-5-20251001 | 4.529 |

@@ -188,6 +188,7 @@
 | qwen-turbo-2024-11-01 | 5.700 |
 | ministral-8b-2410 | 5.671 |
 | mistral-small-2409 | 5.629 |
+| anthropicclaude-sonnet-4.6 | 5.557 |
 | granite3.28b-instruct-q4_K_M | 5.514 |
 | Grok-3-20250426-concise | 5.514 |
 | microsoftWizardLM-2-8x22B | 5.514 |

@@ -44,6 +44,7 @@
 | openaigpt-5.1-codex-max | 7.800 |
 | openaigpt-oss-120b | 7.786 |
 | openrouteraurora-alpha | 7.786 |
+| anthropicclaude-sonnet-4.6 | 7.786 |
 | gpt-5-pro-2025-10-06 | 7.786 |
 | o3-mini-20250131-HIGH | 7.757 |
 | arcee-aitrinity-large-previewfree | 7.757 |

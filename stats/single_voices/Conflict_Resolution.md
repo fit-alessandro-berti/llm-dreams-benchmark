@@ -40,6 +40,7 @@
 | gpt-4-0125-preview | 8.271 |
 | gpt-4o-2024-05-13 | 8.271 |
 | granite3.28b-instruct-q4_K_M | 8.271 |
+| anthropicclaude-sonnet-4.6 | 8.271 |
 | codex-mini-latest | 8.271 |
 | gpt-4o-mini-2024-07-18 | 8.271 |
 | minimaxminimax-m2.1 | 8.271 |

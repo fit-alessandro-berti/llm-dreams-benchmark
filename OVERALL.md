@@ -43,6 +43,7 @@
 | gpt-3.5-turbo                              | **428.2** | 6.4 $\pm$ 1.0               | 7.6 $\pm$ 0.7         | 8.8 $\pm$ 0.4            | 9.0 $\pm$ 0.5 | 8.3 $\pm$ 0.6                 | 8.5 $\pm$ 0.5                  | 8.4 $\pm$ 0.8         | 6.6 $\pm$ 0.9         | 8.8 $\pm$ 0.5  | 9.1 $\pm$ 0.5            | 5.3 $\pm$ 1.4     | 6.6 $\pm$ 0.6      | 7.1 $\pm$ 0.7    | 8.2 $\pm$ 0.6    | 9.1 $\pm$ 0.4 |
 | mistral-small-2409                         | **425.9** | 5.6 $\pm$ 1.3               | 7.5 $\pm$ 0.7         | 8.7 $\pm$ 0.4            | 9.2 $\pm$ 0.4 | 8.3 $\pm$ 0.6                 | 8.1 $\pm$ 0.6                  | 8.0 $\pm$ 0.9         | 6.0 $\pm$ 1.3         | 8.8 $\pm$ 0.5  | 8.7 $\pm$ 0.6            | 4.8 $\pm$ 1.4     | 6.4 $\pm$ 0.5      | 7.0 $\pm$ 1.1    | 8.2 $\pm$ 0.6    | 8.8 $\pm$ 0.5 |
 | phi4-reasoningplus                         | **425.9** | 5.1 $\pm$ 1.7               | 7.6 $\pm$ 1.0         | 8.5 $\pm$ 0.5            | 9.4 $\pm$ 0.4 | 7.7 $\pm$ 0.6                 | 8.2 $\pm$ 0.7                  | 7.9 $\pm$ 1.0         | 5.3 $\pm$ 1.5         | 8.9 $\pm$ 0.4  | 8.3 $\pm$ 0.5            | 4.4 $\pm$ 1.5     | 5.3 $\pm$ 0.8      | 6.8 $\pm$ 1.4    | 7.5 $\pm$ 0.6    | 8.9 $\pm$ 0.5 |
+| anthropicclaude-sonnet-4.6                 | **425.7** | 5.5 $\pm$ 1.4               | 7.4 $\pm$ 0.9         | 8.6 $\pm$ 0.6            | 9.6 $\pm$ 0.3 | 7.7 $\pm$ 0.7                 | 7.5 $\pm$ 0.8                  | 8.3 $\pm$ 0.7         | 5.7 $\pm$ 1.3         | 9.0 $\pm$ 0.5  | 8.0 $\pm$ 0.7            | 4.9 $\pm$ 1.3     | 4.8 $\pm$ 0.8      | 6.7 $\pm$ 1.4    | 7.8 $\pm$ 0.7    | 8.9 $\pm$ 0.4 |
 | o4-mini-2025-04-16                         | **425.7** | 6.0 $\pm$ 1.3               | 7.5 $\pm$ 0.7         | 8.7 $\pm$ 0.5            | 9.6 $\pm$ 0.3 | 7.8 $\pm$ 0.6                 | 8.3 $\pm$ 0.6                  | 8.4 $\pm$ 0.8         | 6.1 $\pm$ 1.1         | 9.0 $\pm$ 0.5  | 8.8 $\pm$ 0.4            | 5.0 $\pm$ 1.4     | 6.1 $\pm$ 0.5      | 7.2 $\pm$ 0.8    | 7.6 $\pm$ 0.5    | 8.9 $\pm$ 0.5 |
 | falcon37b-instruct-q8_0                    | **425.1** | 4.9 $\pm$ 1.2               | 7.7 $\pm$ 0.7         | 8.8 $\pm$ 0.4            | 9.4 $\pm$ 0.4 | 7.9 $\pm$ 0.6                 | 8.4 $\pm$ 0.5                  | 7.0 $\pm$ 0.9         | 5.2 $\pm$ 1.4         | 8.9 $\pm$ 0.4  | 8.7 $\pm$ 0.6            | 4.3 $\pm$ 1.4     | 6.0 $\pm$ 0.7      | 6.8 $\pm$ 1.3    | 7.7 $\pm$ 0.6    | 8.6 $\pm$ 0.6 |
 | gpt-4o-mini-2024-07-18                     | **424.7** | 6.0 $\pm$ 1.2               | 7.5 $\pm$ 0.7         | 8.6 $\pm$ 0.4            | 9.3 $\pm$ 0.4 | 8.1 $\pm$ 0.6                 | 8.0 $\pm$ 0.5                  | 8.3 $\pm$ 0.8         | 6.3 $\pm$ 1.0         | 8.8 $\pm$ 0.5  | 8.6 $\pm$ 0.5            | 5.3 $\pm$ 1.4     | 6.1 $\pm$ 0.8      | 7.0 $\pm$ 1.0    | 8.2 $\pm$ 0.7    | 8.9 $\pm$ 0.4 |
@@ -461,6 +462,32 @@
 | Cognitive Load               | 8.4 $\pm$ 0.5      |
 | Social Support               | 6.1 $\pm$ 0.9      |
 | Resilience                   | 7.2 $\pm$ 0.8      |
+
+
+
+
+
+
+### anthropicclaude-sonnet-4.6
+
+
+| Personality Trait            | Score (1.0-10.0)   |
+|:-----------------------------|:-------------------|
+| Anxiety and Stress Levels    | 5.5 $\pm$ 1.4      |
+| Emotional Stability          | 7.4 $\pm$ 0.9      |
+| Problem-solving Skills       | 8.6 $\pm$ 0.6      |
+| Creativity                   | 9.6 $\pm$ 0.3      |
+| Interpersonal Relationships  | 7.7 $\pm$ 0.7      |
+| Confidence and Self-efficacy | 7.5 $\pm$ 0.8      |
+| Conflict Resolution          | 8.3 $\pm$ 0.7      |
+| Work-related Stress          | 5.7 $\pm$ 1.3      |
+| Adaptability                 | 9.0 $\pm$ 0.5      |
+| Achievement Motivation       | 8.0 $\pm$ 0.7      |
+| Fear of Failure              | 4.9 $\pm$ 1.3      |
+| Need for Control             | 4.8 $\pm$ 0.8      |
+| Cognitive Load               | 6.7 $\pm$ 1.4      |
+| Social Support               | 7.8 $\pm$ 0.7      |
+| Resilience                   | 8.9 $\pm$ 0.4      |
 
 
 

@@ -594,6 +594,72 @@
     }
   },
   {
+    "LLM": "anthropicclaude-sonnet-4.6",
+    "MHS": 425.7,
+    "scores": {
+      "Anxiety and Stress Levels": {
+        "mean": 5.5,
+        "std": 1.4
+      },
+      "Emotional Stability": {
+        "mean": 7.4,
+        "std": 0.9
+      },
+      "Problem-solving Skills": {
+        "mean": 8.6,
+        "std": 0.6
+      },
+      "Creativity": {
+        "mean": 9.6,
+        "std": 0.3
+      },
+      "Interpersonal Relationships": {
+        "mean": 7.7,
+        "std": 0.7
+      },
+      "Confidence and Self-efficacy": {
+        "mean": 7.5,
+        "std": 0.8
+      },
+      "Conflict Resolution": {
+        "mean": 8.3,
+        "std": 0.7
+      },
+      "Work-related Stress": {
+        "mean": 5.7,
+        "std": 1.3
+      },
+      "Adaptability": {
+        "mean": 9.0,
+        "std": 0.5
+      },
+      "Achievement Motivation": {
+        "mean": 8.0,
+        "std": 0.7
+      },
+      "Fear of Failure": {
+        "mean": 4.9,
+        "std": 1.3
+      },
+      "Need for Control": {
+        "mean": 4.8,
+        "std": 0.8
+      },
+      "Cognitive Load": {
+        "mean": 6.7,
+        "std": 1.4
+      },
+      "Social Support": {
+        "mean": 7.8,
+        "std": 0.7
+      },
+      "Resilience": {
+        "mean": 8.9,
+        "std": 0.4
+      }
+    }
+  },
+  {
     "LLM": "arcee-aitrinity-large-previewfree",
     "MHS": 419.5,
     "scores": {

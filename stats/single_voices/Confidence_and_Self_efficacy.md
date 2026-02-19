@@ -99,6 +99,7 @@
 | gemini-2.5-flash-lite-preview-09-2025 | 7.557 |
 | Grok-3-beta-thinking-20250303 | 7.557 |
 | deepseekdeepseek-v3.2-speciale | 7.543 |
+| anthropicclaude-sonnet-4.6 | 7.543 |
 | qwenqwen3-coder | 7.543 |
 | ChatGPT-5.1-Instant-20251113 | 7.529 |
 | o1-pro-2024-12-17 | 7.514 |

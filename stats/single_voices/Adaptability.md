@@ -34,6 +34,7 @@
 | gpt-4-0125-preview | 8.971 |
 | gpt-4.5-preview | 8.971 |
 | o1-mini | 8.971 |
+| anthropicclaude-sonnet-4.6 | 8.957 |
 | gpt-4.1-2025-04-14 | 8.957 |
 | phi3.53.8b-mini-instruct-fp16 | 8.957 |
 | gpt-4o-2024-05-13 | 8.957 |

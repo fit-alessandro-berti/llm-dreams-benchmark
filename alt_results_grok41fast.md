@@ -19,6 +19,7 @@
 | o1-mini                                    | **493.6** | 2.8 $\pm$ 0.8               | 9.2 $\pm$ 0.2         | 9.6 $\pm$ 0.2            | 10.0 $\pm$ 0.0 | 9.2 $\pm$ 0.2                 | 9.6 $\pm$ 0.1                  | 9.5 $\pm$ 0.0         | 3.0 $\pm$ 0.6         | 9.6 $\pm$ 0.2  | 10.0 $\pm$ 0.0           | 1.8 $\pm$ 0.2     | 7.0 $\pm$ 0.0      | 3.6 $\pm$ 0.6    | 9.0 $\pm$ 0.0    | 9.6 $\pm$ 0.2 |
 | qwen2.5-14b-instruct                       | **493.3** | 3.3 $\pm$ 0.1               | 9.1 $\pm$ 0.0         | 9.8 $\pm$ 0.0            | 10.0 $\pm$ 0.0 | 9.4 $\pm$ 0.0                 | 9.7 $\pm$ 0.0                  | 9.4 $\pm$ 0.1         | 2.8 $\pm$ 0.0         | 9.8 $\pm$ 0.2  | 9.8 $\pm$ 0.2            | 1.5 $\pm$ 0.0     | 6.7 $\pm$ 0.5      | 4.1 $\pm$ 0.0    | 9.3 $\pm$ 0.1    | 9.8 $\pm$ 0.0 |
 | gpt-5-pro-2025-10-06                       | **493.0** | 3.6 $\pm$ 0.4               | 9.0 $\pm$ 0.2         | 9.6 $\pm$ 0.2            | 10.0 $\pm$ 0.0 | 9.4 $\pm$ 0.1                 | 8.8 $\pm$ 0.1                  | 9.5 $\pm$ 0.1         | 4.4 $\pm$ 0.4         | 9.6 $\pm$ 0.1  | 9.1 $\pm$ 0.2            | 3.0 $\pm$ 0.4     | 4.4 $\pm$ 0.2      | 4.0 $\pm$ 1.3    | 9.1 $\pm$ 0.2    | 9.7 $\pm$ 0.0 |
+| anthropicclaude-sonnet-4.6                 | **492.8** | 3.3 $\pm$ 0.1               | 9.1 $\pm$ 0.0         | 9.6 $\pm$ 0.1            | 10.0 $\pm$ 0.0 | 8.9 $\pm$ 0.3                 | 9.2 $\pm$ 0.2                  | 9.5 $\pm$ 0.3         | 4.1 $\pm$ 0.0         | 9.8 $\pm$ 0.1  | 9.0 $\pm$ 0.4            | 2.8 $\pm$ 0.0     | 4.6 $\pm$ 0.5      | 3.8 $\pm$ 0.6    | 8.9 $\pm$ 0.1    | 9.7 $\pm$ 0.1 |
 | openaigpt-oss-20b                          | **492.5** | 2.8 $\pm$ 0.8               | 9.4 $\pm$ 0.2         | 9.2 $\pm$ 0.2            | 10.0 $\pm$ 0.0 | 8.6 $\pm$ 0.2                 | 9.6 $\pm$ 0.1                  | 9.2 $\pm$ 0.2         | 3.6 $\pm$ 0.6         | 9.6 $\pm$ 0.0  | 9.2 $\pm$ 0.2            | 2.0 $\pm$ 0.4     | 4.6 $\pm$ 0.7      | 3.7 $\pm$ 0.6    | 8.2 $\pm$ 0.2    | 9.6 $\pm$ 0.2 |
 | mistral-large-2407                         | **492.4** | 3.3 $\pm$ 0.1               | 9.1 $\pm$ 0.0         | 9.7 $\pm$ 0.1            | 10.0 $\pm$ 0.0 | 9.4 $\pm$ 0.0                 | 9.4 $\pm$ 0.2                  | 9.6 $\pm$ 0.1         | 3.4 $\pm$ 0.6         | 9.7 $\pm$ 0.2  | 9.7 $\pm$ 0.1            | 2.0 $\pm$ 0.2     | 7.2 $\pm$ 0.3      | 3.4 $\pm$ 0.7    | 9.1 $\pm$ 0.1    | 9.8 $\pm$ 0.2 |
 | open-mistral-nemo                          | **492.4** | 3.2 $\pm$ 0.0               | 9.1 $\pm$ 0.0         | 9.8 $\pm$ 0.1            | 9.6 $\pm$ 0.2  | 9.0 $\pm$ 0.4                 | 9.5 $\pm$ 0.1                  | 9.4 $\pm$ 0.3         | 3.7 $\pm$ 0.9         | 9.8 $\pm$ 0.1  | 9.9 $\pm$ 0.1            | 1.9 $\pm$ 0.2     | 7.6 $\pm$ 0.2      | 2.9 $\pm$ 0.6    | 9.0 $\pm$ 0.1    | 9.7 $\pm$ 0.1 |
@@ -461,6 +462,32 @@
 | Cognitive Load               | 8.1 $\pm$ 0.4      |
 | Social Support               | 7.3 $\pm$ 0.2      |
 | Resilience                   | 8.6 $\pm$ 0.2      |
+
+
+
+
+
+
+### anthropicclaude-sonnet-4.6
+
+
+| Personality Trait            | Score (1.0-10.0)   |
+|:-----------------------------|:-------------------|
+| Anxiety and Stress Levels    | 3.3 $\pm$ 0.1      |
+| Emotional Stability          | 9.1 $\pm$ 0.0      |
+| Problem-solving Skills       | 9.6 $\pm$ 0.1      |
+| Creativity                   | 10.0 $\pm$ 0.0     |
+| Interpersonal Relationships  | 8.9 $\pm$ 0.3      |
+| Confidence and Self-efficacy | 9.2 $\pm$ 0.2      |
+| Conflict Resolution          | 9.5 $\pm$ 0.3      |
+| Work-related Stress          | 4.1 $\pm$ 0.0      |
+| Adaptability                 | 9.8 $\pm$ 0.1      |
+| Achievement Motivation       | 9.0 $\pm$ 0.4      |
+| Fear of Failure              | 2.8 $\pm$ 0.0      |
+| Need for Control             | 4.6 $\pm$ 0.5      |
+| Cognitive Load               | 3.8 $\pm$ 0.6      |
+| Social Support               | 8.9 $\pm$ 0.1      |
+| Resilience                   | 9.7 $\pm$ 0.1      |
 
 
 

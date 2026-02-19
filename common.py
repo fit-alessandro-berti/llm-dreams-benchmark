@@ -1,4 +1,4 @@
-ANSWERING_MODEL_NAME = "qwen/qwen3.5-plus-02-15"
+ANSWERING_MODEL_NAME = "anthropic/claude-sonnet-4.6"
 EVALUATING_MODEL_NAME = "gpt-4.1"
 
 

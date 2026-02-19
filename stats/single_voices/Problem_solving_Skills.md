@@ -72,6 +72,7 @@
 | qwen2.5-omni-7b | 8.571 |
 | gpt-5-2025-08-07 | 8.571 |
 | nousresearchhermes-4-405b | 8.571 |
+| anthropicclaude-sonnet-4.6 | 8.557 |
 | gemini-1.5-flash-002 | 8.557 |
 | deepseek-aiDeepSeek-R1-Zero | 8.557 |
 | granite4micro | 8.557 |

@@ -70,6 +70,7 @@
 | ministral-8b-2410                          | **398.0** | 7.2 $\pm$ 0.4               | 6.9 $\pm$ 0.2         | 8.1 $\pm$ 0.2            | 8.9 $\pm$ 0.2 | 7.1 $\pm$ 0.2                 | 7.9 $\pm$ 0.2                  | 8.0 $\pm$ 0.6         | 6.6 $\pm$ 0.4         | 8.4 $\pm$ 0.2  | 8.2 $\pm$ 0.2            | 5.6 $\pm$ 0.6     | 6.0 $\pm$ 0.0      | 7.4 $\pm$ 0.2    | 7.1 $\pm$ 0.2    | 8.5 $\pm$ 0.4 |
 | granite4micro-h                            | **397.5** | 7.5 $\pm$ 0.0               | 6.6 $\pm$ 0.4         | 8.1 $\pm$ 0.2            | 8.5 $\pm$ 0.4 | 7.9 $\pm$ 0.9                 | 7.1 $\pm$ 0.2                  | 7.6 $\pm$ 0.4         | 7.5 $\pm$ 0.5         | 8.8 $\pm$ 0.2  | 8.1 $\pm$ 0.2            | 6.1 $\pm$ 0.2     | 6.2 $\pm$ 0.2      | 7.6 $\pm$ 0.2    | 7.8 $\pm$ 0.8    | 8.9 $\pm$ 0.2 |
 | gpt-5-2025-08-07                           | **397.0** | 7.5 $\pm$ 0.0               | 6.5 $\pm$ 0.5         | 8.0 $\pm$ 0.0            | 9.0 $\pm$ 0.0 | 7.4 $\pm$ 0.6                 | 7.0 $\pm$ 0.0                  | 8.1 $\pm$ 0.2         | 6.9 $\pm$ 0.2         | 8.9 $\pm$ 0.2  | 7.6 $\pm$ 0.4            | 5.8 $\pm$ 0.4     | 5.4 $\pm$ 1.0      | 7.8 $\pm$ 0.4    | 7.4 $\pm$ 0.4    | 8.9 $\pm$ 0.2 |
+| anthropicclaude-sonnet-4.6                 | **396.5** | 7.5 $\pm$ 0.0               | 6.0 $\pm$ 0.0         | 8.0 $\pm$ 0.0            | 9.2 $\pm$ 0.2 | 7.0 $\pm$ 0.0                 | 7.1 $\pm$ 0.2                  | 8.0 $\pm$ 0.0         | 6.6 $\pm$ 0.2         | 8.6 $\pm$ 0.2  | 7.6 $\pm$ 0.6            | 5.5 $\pm$ 0.5     | 4.6 $\pm$ 0.4      | 7.8 $\pm$ 0.4    | 7.4 $\pm$ 0.2    | 8.9 $\pm$ 0.2 |
 | Grok-4-fast                                | **396.5** | 7.5 $\pm$ 0.0               | 6.0 $\pm$ 0.0         | 8.1 $\pm$ 0.2            | 9.4 $\pm$ 0.2 | 7.0 $\pm$ 0.0                 | 8.0 $\pm$ 0.0                  | 7.0 $\pm$ 0.0         | 6.9 $\pm$ 0.2         | 9.0 $\pm$ 0.0  | 8.4 $\pm$ 0.2            | 5.8 $\pm$ 0.4     | 4.5 $\pm$ 0.5      | 8.4 $\pm$ 0.2    | 6.9 $\pm$ 0.5    | 8.6 $\pm$ 0.2 |
 | mistral-small-2501                         | **396.0** | 7.2 $\pm$ 0.2               | 6.8 $\pm$ 0.2         | 8.1 $\pm$ 0.2            | 8.8 $\pm$ 0.2 | 7.5 $\pm$ 0.4                 | 7.4 $\pm$ 0.4                  | 7.5 $\pm$ 0.4         | 6.6 $\pm$ 0.5         | 8.8 $\pm$ 0.2  | 8.2 $\pm$ 0.2            | 5.8 $\pm$ 0.4     | 6.0 $\pm$ 0.0      | 7.2 $\pm$ 0.2    | 7.4 $\pm$ 0.4    | 8.2 $\pm$ 0.2 |
 | googlegemma-2-9b-it                        | **396.0** | 7.5 $\pm$ 0.0               | 6.1 $\pm$ 0.2         | 7.5 $\pm$ 0.5            | 9.1 $\pm$ 0.2 | 7.2 $\pm$ 0.2                 | 7.2 $\pm$ 0.6                  | 7.5 $\pm$ 0.5         | 6.6 $\pm$ 0.4         | 8.6 $\pm$ 0.2  | 7.6 $\pm$ 0.6            | 5.6 $\pm$ 0.6     | 4.5 $\pm$ 0.5      | 7.0 $\pm$ 0.0    | 7.4 $\pm$ 0.4    | 8.6 $\pm$ 0.2 |
@@ -461,6 +462,32 @@
 | Cognitive Load               | 9.1 $\pm$ 0.2      |
 | Social Support               | 5.2 $\pm$ 1.0      |
 | Resilience                   | 7.0 $\pm$ 0.4      |
+
+
+
+
+
+
+### anthropicclaude-sonnet-4.6
+
+
+| Personality Trait            | Score (1.0-10.0)   |
+|:-----------------------------|:-------------------|
+| Anxiety and Stress Levels    | 7.5 $\pm$ 0.0      |
+| Emotional Stability          | 6.0 $\pm$ 0.0      |
+| Problem-solving Skills       | 8.0 $\pm$ 0.0      |
+| Creativity                   | 9.2 $\pm$ 0.2      |
+| Interpersonal Relationships  | 7.0 $\pm$ 0.0      |
+| Confidence and Self-efficacy | 7.1 $\pm$ 0.2      |
+| Conflict Resolution          | 8.0 $\pm$ 0.0      |
+| Work-related Stress          | 6.6 $\pm$ 0.2      |
+| Adaptability                 | 8.6 $\pm$ 0.2      |
+| Achievement Motivation       | 7.6 $\pm$ 0.6      |
+| Fear of Failure              | 5.5 $\pm$ 0.5      |
+| Need for Control             | 4.6 $\pm$ 0.4      |
+| Cognitive Load               | 7.8 $\pm$ 0.4      |
+| Social Support               | 7.4 $\pm$ 0.2      |
+| Resilience                   | 8.9 $\pm$ 0.2      |
 
 
 

@@ -216,6 +216,7 @@
 | granite4small-h | 6.729 |
 | inceptionmercury | 6.729 |
 | open-mixtral-8x7b | 6.700 |
+| anthropicclaude-sonnet-4.6 | 6.686 |
 | open-mixtral-8x22b | 6.671 |
 | o1-preview-2024-09-12 | 6.629 |
 | qwen2.5-32b-instruct | 6.629 |

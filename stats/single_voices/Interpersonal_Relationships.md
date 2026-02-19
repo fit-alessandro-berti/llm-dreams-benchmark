@@ -75,6 +75,7 @@
 | minimaxminimax-m2.5 | 7.729 |
 | nvidiaLlama-3.1-Nemotron-70B-Instruct | 7.714 |
 | qwen2.5-omni-7b | 7.714 |
+| anthropicclaude-sonnet-4.6 | 7.700 |
 | nvidianemotron-3-nano-30b-a3bfree | 7.686 |
 | phi4-reasoning | 7.686 |
 | mistral-small-2503 | 7.686 |

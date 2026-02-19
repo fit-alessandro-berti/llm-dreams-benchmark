@@ -35,6 +35,7 @@
 | qwenqwen3-coder-next | 8.943 |
 | gpt-4-turbo-2024-04-09 | 8.943 |
 | qwen2.5-72b-instruct | 8.929 |
+| anthropicclaude-sonnet-4.6 | 8.914 |
 | gpt-4.1-mini-2025-04-14 | 8.914 |
 | gpt-4o-mini-2024-07-18 | 8.914 |
 | gpt-5-nano-2025-08-07 | 8.914 |

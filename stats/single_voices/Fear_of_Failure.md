@@ -184,6 +184,7 @@
 | o4-mini-2025-04-16 | 4.971 |
 | mistral-large-2411 | 4.957 |
 | phi3.53.8b-mini-instruct-fp16 | 4.943 |
+| anthropicclaude-sonnet-4.6 | 4.929 |
 | ministral-8b-2410 | 4.886 |
 | falcon310b-instruct-q8_0 | 4.857 |
 | o1-preview-2024-09-12 | 4.857 |

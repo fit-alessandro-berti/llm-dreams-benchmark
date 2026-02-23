@@ -142,6 +142,7 @@
 | gemma312b-it-q8_0 | 6.486 |
 | qwen34b | 6.486 |
 | gemini-2.5-pro-preview-05-06 | 6.471 |
+| googlegemini-3.1-pro-preview | 6.443 |
 | claude-opus-4-5-20251101 | 6.429 |
 | qwen-turbo-0428 | 6.429 |
 | magistral-small-2506 | 6.414 |

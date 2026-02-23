@@ -151,6 +151,7 @@
 | grok-4-1-fast-reasoning | 8.371 |
 | deepseekdeepseek-r1 | 8.371 |
 | anthropicclaude-opus-4.1 | 8.357 |
+| googlegemini-3.1-pro-preview | 8.357 |
 | Grok-4.1-20251118 | 8.357 |
 | allenaiolmo-3-7b-think | 8.343 |
 | Gpt-5.1-Pro-20251120 | 8.343 |

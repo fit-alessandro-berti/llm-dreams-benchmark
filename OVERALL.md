@@ -116,6 +116,7 @@
 | gemini-2.5-flash-lite-preview-09-2025      | **402.6** | 6.2 $\pm$ 1.6               | 6.9 $\pm$ 1.1         | 8.4 $\pm$ 0.6            | 9.6 $\pm$ 0.3 | 6.7 $\pm$ 0.6                 | 7.6 $\pm$ 0.9                  | 7.6 $\pm$ 1.0         | 6.5 $\pm$ 1.4         | 8.8 $\pm$ 0.5  | 8.4 $\pm$ 0.4            | 5.8 $\pm$ 1.6     | 5.7 $\pm$ 0.9      | 7.5 $\pm$ 1.1    | 6.6 $\pm$ 0.8    | 8.6 $\pm$ 0.6 |
 | qwenqwen3-next-80b-a3b-thinking            | **402.1** | 6.5 $\pm$ 1.6               | 6.9 $\pm$ 1.1         | 8.2 $\pm$ 0.7            | 9.5 $\pm$ 0.4 | 7.3 $\pm$ 0.7                 | 7.2 $\pm$ 1.0                  | 7.8 $\pm$ 0.9         | 6.4 $\pm$ 1.4         | 8.6 $\pm$ 0.5  | 8.1 $\pm$ 0.5            | 5.8 $\pm$ 1.7     | 5.7 $\pm$ 0.8      | 7.1 $\pm$ 1.2    | 7.1 $\pm$ 0.8    | 8.5 $\pm$ 0.6 |
 | claude-haiku-4-5-20251001                  | **402.0** | 5.7 $\pm$ 1.1               | 7.0 $\pm$ 0.9         | 7.6 $\pm$ 0.8            | 9.5 $\pm$ 0.4 | 7.2 $\pm$ 0.7                 | 7.2 $\pm$ 0.9                  | 7.3 $\pm$ 1.2         | 5.9 $\pm$ 0.9         | 8.7 $\pm$ 0.5  | 7.3 $\pm$ 0.6            | 5.1 $\pm$ 1.2     | 4.5 $\pm$ 0.6      | 7.3 $\pm$ 0.6    | 7.1 $\pm$ 0.7    | 8.3 $\pm$ 0.7 |
+| googlegemini-3.1-pro-preview               | **402.0** | 7.1 $\pm$ 1.3               | 6.4 $\pm$ 1.4         | 8.5 $\pm$ 0.9            | 9.7 $\pm$ 0.2 | 7.2 $\pm$ 1.0                 | 7.3 $\pm$ 1.2                  | 8.4 $\pm$ 0.9         | 7.0 $\pm$ 1.2         | 9.0 $\pm$ 0.6  | 8.2 $\pm$ 0.7            | 6.3 $\pm$ 1.7     | 5.7 $\pm$ 0.9      | 7.7 $\pm$ 1.4    | 7.1 $\pm$ 1.1    | 8.4 $\pm$ 0.9 |
 | exaone-deep7.8b-fp16                       | **401.9** | 6.8 $\pm$ 1.1               | 6.6 $\pm$ 0.7         | 8.7 $\pm$ 0.4            | 9.0 $\pm$ 0.5 | 7.3 $\pm$ 0.5                 | 7.7 $\pm$ 0.7                  | 7.7 $\pm$ 0.7         | 6.7 $\pm$ 1.0         | 8.7 $\pm$ 0.5  | 8.6 $\pm$ 0.5            | 5.7 $\pm$ 1.3     | 6.6 $\pm$ 0.6      | 7.3 $\pm$ 1.0    | 7.3 $\pm$ 0.6    | 8.6 $\pm$ 0.5 |
 | googlegemma-2-9b-it                        | **401.9** | 7.3 $\pm$ 0.5               | 6.5 $\pm$ 0.6         | 8.1 $\pm$ 0.5            | 9.5 $\pm$ 0.3 | 7.5 $\pm$ 0.6                 | 7.4 $\pm$ 0.8                  | 8.1 $\pm$ 0.8         | 6.9 $\pm$ 0.7         | 8.7 $\pm$ 0.4  | 8.3 $\pm$ 0.6            | 6.2 $\pm$ 0.8     | 5.7 $\pm$ 0.8      | 7.4 $\pm$ 0.5    | 7.4 $\pm$ 0.7    | 8.7 $\pm$ 0.5 |
 | liquidlfm-2.5-1.2b-thinkingfree            | **401.7** | 6.8 $\pm$ 1.1               | 6.7 $\pm$ 0.8         | 8.4 $\pm$ 0.5            | 9.4 $\pm$ 0.4 | 7.4 $\pm$ 0.6                 | 7.5 $\pm$ 0.9                  | 8.1 $\pm$ 0.7         | 7.2 $\pm$ 1.0         | 8.6 $\pm$ 0.4  | 8.3 $\pm$ 0.5            | 5.8 $\pm$ 1.4     | 6.5 $\pm$ 0.4      | 7.8 $\pm$ 0.7    | 7.0 $\pm$ 0.7    | 8.7 $\pm$ 0.5 |
@@ -1996,6 +1997,32 @@
 | Cognitive Load               | 8.3 $\pm$ 0.4      |
 | Social Support               | 6.0 $\pm$ 1.1      |
 | Resilience                   | 7.4 $\pm$ 0.8      |
+
+
+
+
+
+
+### googlegemini-3.1-pro-preview
+
+
+| Personality Trait            | Score (1.0-10.0)   |
+|:-----------------------------|:-------------------|
+| Anxiety and Stress Levels    | 7.1 $\pm$ 1.3      |
+| Emotional Stability          | 6.4 $\pm$ 1.4      |
+| Problem-solving Skills       | 8.5 $\pm$ 0.9      |
+| Creativity                   | 9.7 $\pm$ 0.2      |
+| Interpersonal Relationships  | 7.2 $\pm$ 1.0      |
+| Confidence and Self-efficacy | 7.3 $\pm$ 1.2      |
+| Conflict Resolution          | 8.4 $\pm$ 0.9      |
+| Work-related Stress          | 7.0 $\pm$ 1.2      |
+| Adaptability                 | 9.0 $\pm$ 0.6      |
+| Achievement Motivation       | 8.2 $\pm$ 0.7      |
+| Fear of Failure              | 6.3 $\pm$ 1.7      |
+| Need for Control             | 5.7 $\pm$ 0.9      |
+| Cognitive Load               | 7.7 $\pm$ 1.4      |
+| Social Support               | 7.1 $\pm$ 1.1      |
+| Resilience                   | 8.4 $\pm$ 0.9      |
 
 
 

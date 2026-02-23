@@ -26,6 +26,7 @@
 | o4-mini-2025-04-16 | 9.014 |
 | qwenqwen3-coder-next | 9.014 |
 | o3-mini-20250131-HIGH | 9.000 |
+| googlegemini-3.1-pro-preview | 9.000 |
 | qwenqwen3-max-thinking | 9.000 |
 | gpt-5-nano-2025-08-07 | 8.986 |
 | gpt-5-pro-2025-10-06 | 8.986 |

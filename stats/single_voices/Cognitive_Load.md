@@ -87,6 +87,7 @@
 | qwenqwen3-30b-a3b-instruct-2507 | 7.757 |
 | x-aigrok-code-fast-1 | 7.743 |
 | gemini-2.0-pro-exp-02-05 | 7.714 |
+| googlegemini-3.1-pro-preview | 7.714 |
 | meta-llamallama-4-scout | 7.700 |
 | Grok-4-fast | 7.686 |
 | Grok-4-fast-20251111 | 7.686 |

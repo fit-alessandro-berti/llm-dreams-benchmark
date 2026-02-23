@@ -5,51 +5,51 @@ Variability Analysis Results (considering the AVG in each AVG ± STDEV tabular v
 1. Basic Statistics:
 
 Mean:
-  Anxiety and Stress Levels: 7.197
-  Emotional Stability: 6.165
+  Anxiety and Stress Levels: 7.198
+  Emotional Stability: 6.164
   Problem-solving Skills: 7.678
-  Creativity: 9.387
-  Interpersonal Relationships: 6.864
-  Confidence and Self-efficacy: 6.792
-  Conflict Resolution: 7.118
-  Work-related Stress: 7.754
-  Adaptability: 8.211
-  Achievement Motivation: 7.967
-  Fear of Failure: 7.176
+  Creativity: 9.389
+  Interpersonal Relationships: 6.863
+  Confidence and Self-efficacy: 6.790
+  Conflict Resolution: 7.122
+  Work-related Stress: 7.755
+  Adaptability: 8.213
+  Achievement Motivation: 7.966
+  Fear of Failure: 7.177
   Need for Control: 6.553
-  Cognitive Load: 7.968
-  Social Support: 6.595
-  Resilience: 8.213
+  Cognitive Load: 7.970
+  Social Support: 6.593
+  Resilience: 8.212
 
 Std:
-  Anxiety and Stress Levels: 0.727
-  Emotional Stability: 0.861
-  Problem-solving Skills: 0.588
+  Anxiety and Stress Levels: 0.725
+  Emotional Stability: 0.859
+  Problem-solving Skills: 0.587
   Creativity: 0.252
-  Interpersonal Relationships: 0.779
-  Confidence and Self-efficacy: 0.847
+  Interpersonal Relationships: 0.778
+  Confidence and Self-efficacy: 0.845
   Conflict Resolution: 1.047
-  Work-related Stress: 0.615
+  Work-related Stress: 0.614
   Adaptability: 0.506
-  Achievement Motivation: 0.474
-  Fear of Failure: 0.787
-  Need for Control: 0.522
+  Achievement Motivation: 0.473
+  Fear of Failure: 0.786
+  Need for Control: 0.521
   Cognitive Load: 0.379
-  Social Support: 0.726
-  Resilience: 0.609
+  Social Support: 0.725
+  Resilience: 0.608
 
 Coeff_variation:
   Anxiety and Stress Levels: 0.101
-  Emotional Stability: 0.140
-  Problem-solving Skills: 0.077
+  Emotional Stability: 0.139
+  Problem-solving Skills: 0.076
   Creativity: 0.027
-  Interpersonal Relationships: 0.114
-  Confidence and Self-efficacy: 0.125
+  Interpersonal Relationships: 0.113
+  Confidence and Self-efficacy: 0.124
   Conflict Resolution: 0.147
   Work-related Stress: 0.079
   Adaptability: 0.062
   Achievement Motivation: 0.059
-  Fear of Failure: 0.110
+  Fear of Failure: 0.109
   Need for Control: 0.080
   Cognitive Load: 0.048
   Social Support: 0.110
@@ -73,28 +73,28 @@ Range:
   Resilience: 2.600
 
 2. UMAP Analysis:
-  Variance UMAP1: 3.938
-  Variance UMAP2: 7.373
-  Total variance: 11.310
-  Range UMAP1: 6.751
-  Range UMAP2: 9.086
+  Variance UMAP1: 6.048
+  Variance UMAP2: 6.746
+  Total variance: 12.795
+  Range UMAP1: 8.470
+  Range UMAP2: 8.547
   Sample embeddings (first 3 LLMs):
-    qwen2.5-14b-instruct: UMAP1=9.833, UMAP2=-3.789
-    microsoftPhi-3-medium-4k-instruct: UMAP1=9.875, UMAP2=-3.681
-    microsoftphi-4: UMAP1=10.114, UMAP2=-3.848
+    qwen2.5-14b-instruct: UMAP1=8.563, UMAP2=15.170
+    microsoftPhi-3-medium-4k-instruct: UMAP1=8.559, UMAP2=15.276
+    microsoftphi-4: UMAP1=8.566, UMAP2=15.556
 
 3. Correlation Analysis:
   Mean absolute correlation: 0.653
-  Maximum correlation: 0.955
+  Maximum correlation: 0.954
   Highly correlated pairs (|r| > 0.7):
-    Anxiety and Stress Levels - Emotional Stability: -0.898
+    Anxiety and Stress Levels - Emotional Stability: -0.897
     Anxiety and Stress Levels - Problem-solving Skills: -0.715
     Anxiety and Stress Levels - Interpersonal Relationships: -0.814
     Anxiety and Stress Levels - Confidence and Self-efficacy: -0.852
-    Anxiety and Stress Levels - Conflict Resolution: -0.710
+    Anxiety and Stress Levels - Conflict Resolution: -0.709
     Anxiety and Stress Levels - Work-related Stress: 0.939
-    Anxiety and Stress Levels - Fear of Failure: 0.955
-    Anxiety and Stress Levels - Cognitive Load: 0.795
+    Anxiety and Stress Levels - Fear of Failure: 0.954
+    Anxiety and Stress Levels - Cognitive Load: 0.794
     Anxiety and Stress Levels - Social Support: -0.788
     Anxiety and Stress Levels - Resilience: -0.747
     Emotional Stability - Problem-solving Skills: 0.795
@@ -112,35 +112,35 @@ Range:
     Confidence and Self-efficacy - Emotional Stability: 0.931
     Confidence and Self-efficacy - Problem-solving Skills: 0.877
     Confidence and Self-efficacy - Interpersonal Relationships: 0.901
-    Confidence and Self-efficacy - Conflict Resolution: 0.794
+    Confidence and Self-efficacy - Conflict Resolution: 0.791
     Confidence and Self-efficacy - Work-related Stress: -0.797
     Confidence and Self-efficacy - Fear of Failure: -0.867
     Confidence and Self-efficacy - Social Support: 0.888
     Confidence and Self-efficacy - Resilience: 0.859
-    Conflict Resolution - Emotional Stability: 0.855
-    Conflict Resolution - Interpersonal Relationships: 0.888
-    Conflict Resolution - Social Support: 0.810
-    Conflict Resolution - Resilience: 0.842
-    Adaptability - Anxiety and Stress Levels: -0.781
-    Adaptability - Emotional Stability: 0.883
-    Adaptability - Problem-solving Skills: 0.750
-    Adaptability - Interpersonal Relationships: 0.855
-    Adaptability - Confidence and Self-efficacy: 0.864
+    Conflict Resolution - Emotional Stability: 0.853
+    Conflict Resolution - Interpersonal Relationships: 0.886
+    Conflict Resolution - Social Support: 0.806
+    Conflict Resolution - Resilience: 0.839
+    Adaptability - Anxiety and Stress Levels: -0.779
+    Adaptability - Emotional Stability: 0.880
+    Adaptability - Problem-solving Skills: 0.748
+    Adaptability - Interpersonal Relationships: 0.852
+    Adaptability - Confidence and Self-efficacy: 0.860
     Adaptability - Conflict Resolution: 0.795
-    Adaptability - Work-related Stress: -0.733
-    Adaptability - Fear of Failure: -0.776
-    Adaptability - Social Support: 0.804
-    Adaptability - Resilience: 0.925
-    Achievement Motivation - Problem-solving Skills: 0.842
+    Adaptability - Work-related Stress: -0.730
+    Adaptability - Fear of Failure: -0.772
+    Adaptability - Social Support: 0.799
+    Adaptability - Resilience: 0.922
+    Achievement Motivation - Problem-solving Skills: 0.841
     Achievement Motivation - Confidence and Self-efficacy: 0.784
     Achievement Motivation - Social Support: 0.716
     Fear of Failure - Problem-solving Skills: -0.738
-    Fear of Failure - Interpersonal Relationships: -0.810
+    Fear of Failure - Interpersonal Relationships: -0.809
     Fear of Failure - Work-related Stress: 0.938
     Fear of Failure - Social Support: -0.794
     Fear of Failure - Resilience: -0.742
-    Cognitive Load - Emotional Stability: -0.757
-    Cognitive Load - Interpersonal Relationships: -0.735
+    Cognitive Load - Emotional Stability: -0.756
+    Cognitive Load - Interpersonal Relationships: -0.734
     Cognitive Load - Confidence and Self-efficacy: -0.720
     Cognitive Load - Work-related Stress: 0.791
     Cognitive Load - Fear of Failure: 0.769
@@ -154,7 +154,7 @@ Range:
   Min variance LLM: arcee-aitrinity-large-previewfree
 
 5. Hierarchical Clustering (textual tree):
-  Method: ward, Metric: euclidean, Max depth (levels): 13
+  Method: ward, Metric: euclidean, Max depth (levels): 14
 
 ###### gpt-5-pro-2025-10-06
 ####### qwenqwen3-coder
@@ -293,14 +293,15 @@ Range:
 ######### grok-4-1-fast-non-reasoning
 ########## x-aigrok-code-fast-1
 ########## deepseekdeepseek-r1
-########### grok-4-1-fast-reasoning
-############ qwenqwen3-max
-############ gemini-2.5-pro-preview-05-06
-############ anthropicclaude-opus-4.6
-############ qwenqwen3-30b-a3b-instruct-2507
-############ qwenqwen3-max-thinking
-############# googlegemma-2-9b-it
-############# minimaxminimax-m2.1
+########## googlegemini-3.1-pro-preview
+############ grok-4-1-fast-reasoning
+############# qwenqwen3-max
+############# gemini-2.5-pro-preview-05-06
+############# anthropicclaude-opus-4.6
+############# qwenqwen3-30b-a3b-instruct-2507
+############# qwenqwen3-max-thinking
+############## googlegemma-2-9b-it
+############## minimaxminimax-m2.1
 ############ qwenqwen3-235b-a22b-07-25
 ############ openaigpt-oss-20b
 ############ minimaxminimax-m2free

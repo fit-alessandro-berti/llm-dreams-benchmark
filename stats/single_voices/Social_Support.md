@@ -132,6 +132,7 @@
 | gemma-3n-e4b-it | 7.129 |
 | moonshotaikimi-k2 | 7.129 |
 | qwenqwen3-235b-a22b-07-25 | 7.129 |
+| googlegemini-3.1-pro-preview | 7.114 |
 | gemini-2.0-flash-exp | 7.100 |
 | liquidlfm-2.5-1.2b-instructfree | 7.086 |
 | nvidiallama-3.3-nemotron-super-49b-v1 | 7.071 |

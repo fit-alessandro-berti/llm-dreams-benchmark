@@ -186,6 +186,7 @@
 | googlegemma-2-9b-it | 5.743 |
 | qwen2.5-32b-instruct | 5.729 |
 | gemini-2.5-flash-lite-preview-09-2025 | 5.714 |
+| googlegemini-3.1-pro-preview | 5.714 |
 | qwen-plus-2025-01-25 | 5.714 |
 | gpt-4-turbo-2024-04-09 | 5.700 |
 | qwenqwen3-max | 5.700 |

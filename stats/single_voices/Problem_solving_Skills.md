@@ -94,6 +94,7 @@
 | openaigpt-oss-20b | 8.486 |
 | phi4-reasoningplus | 8.486 |
 | gemini-1.5-flash-8b | 8.471 |
+| googlegemini-3.1-pro-preview | 8.471 |
 | gpt-4.5-preview | 8.471 |
 | QwenQwen3-32B | 8.471 |
 | allenaiolmo-3.1-32b-instruct | 8.457 |

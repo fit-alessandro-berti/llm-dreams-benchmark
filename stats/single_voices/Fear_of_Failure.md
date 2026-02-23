@@ -93,6 +93,7 @@
 | grok-4-0709 | 6.300 |
 | deepseekdeepseek-chat-v3.1 | 6.286 |
 | smollm21.7b-instruct-q6_K | 6.286 |
+| googlegemini-3.1-pro-preview | 6.271 |
 | nvidiallama-3.3-nemotron-super-49b-v1 | 6.271 |
 | anthropicclaude-opus-4.1 | 6.243 |
 | googlegemma-2-9b-it | 6.243 |

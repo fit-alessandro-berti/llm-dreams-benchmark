@@ -89,6 +89,7 @@
 | mistral-medium-2505 | 7.229 |
 | moonshotaikimi-linear-48b-a3b-instruct | 7.200 |
 | gemma-3-27b-it | 7.186 |
+| googlegemini-3.1-pro-preview | 7.129 |
 | qwen30.6b | 7.114 |
 | claude-4-sonnet-20250514 | 7.100 |
 | allenaiolmo-3-7b-think | 7.057 |

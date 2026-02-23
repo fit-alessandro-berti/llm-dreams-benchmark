@@ -142,6 +142,7 @@
 | Grok-4-fast-20251111 | 7.214 |
 | meta-llamallama-4-scout | 7.214 |
 | magistral-small-2506 | 7.200 |
+| googlegemini-3.1-pro-preview | 7.200 |
 | liquidlfm-2.5-1.2b-instructfree | 7.200 |
 | deepseekdeepseek-chat-v3.1 | 7.186 |
 | gpt-5.2-pro-2025-12-11 | 7.186 |

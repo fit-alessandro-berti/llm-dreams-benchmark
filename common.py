@@ -1,4 +1,4 @@
-ANSWERING_MODEL_NAME = "anthropic/claude-sonnet-4.6"
+ANSWERING_MODEL_NAME = "google/gemini-3.1-pro-preview"
 EVALUATING_MODEL_NAME = "gpt-4.1"
 
 

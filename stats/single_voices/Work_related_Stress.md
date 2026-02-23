@@ -104,6 +104,7 @@
 | baiduernie-4.5-21b-a3b | 7.086 |
 | deepseekdeepseek-v3.2-speciale | 7.071 |
 | claude-3-7-sonnet-20250219 | 7.029 |
+| googlegemini-3.1-pro-preview | 7.029 |
 | ai21jamba-large-1.7 | 6.971 |
 | deepseek-aiDeepSeek-V3 | 6.971 |
 | stepfunstep-3.5-flashfree | 6.971 |

@@ -4,6 +4,7 @@
 |:--|--:|
 | anthropicclaude-opus-4.1 | 9.771 |
 | gemini-3-pro-preview | 9.757 |
+| googlegemini-3.1-pro-preview | 9.743 |
 | moonshotaikimi-k2.5 | 9.729 |
 | openrouteraurora-alpha | 9.729 |
 | moonshotaikimi-k2 | 9.729 |

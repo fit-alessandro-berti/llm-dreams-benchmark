@@ -121,6 +121,7 @@
 | deepseekdeepseek-chat-v3.1 | 7.357 |
 | qwenqwen3-max-thinking | 7.357 |
 | allenaiolmo-3-7b-think | 7.343 |
+| googlegemini-3.1-pro-preview | 7.329 |
 | gpt-4o-mini-2024-11-05 | 7.329 |
 | gpt-5-2025-08-07 | 7.329 |
 | moonshotaikimi-linear-48b-a3b-instruct | 7.329 |

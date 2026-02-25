@@ -1,14 +1,8 @@
-ANSWERING_MODEL_NAME = "google/gemini-3.1-pro-preview"
+ANSWERING_MODEL_NAME = "openai/gpt-5.3-codex"
 EVALUATING_MODEL_NAME = "gpt-4.1"
 
 
 ALL_JUDGES = {
-    "mistral-small-2503": {
-        "evaluation_folder": "evaluations-mistral-small",
-        "git_table_result": "alt_results_mistral-small-2503.md",
-        "evaluation_api_url": "https://api.mistral.ai/v1/",
-        "api_key": open("../api_mistral.txt", "r").read().strip(),
-    },
     "grok-3": {
         "evaluation_folder": "evaluations-grok3",
         "git_table_result": "alt_results_grok3.md",

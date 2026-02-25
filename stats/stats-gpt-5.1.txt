@@ -5,38 +5,38 @@ Variability Analysis Results (considering the AVG in each AVG ± STDEV tabular v
 1. Basic Statistics:
 
 Mean:
-  Anxiety and Stress Levels: 6.895
-  Emotional Stability: 6.940
+  Anxiety and Stress Levels: 6.894
+  Emotional Stability: 6.942
   Problem-solving Skills: 8.692
   Creativity: 9.823
-  Interpersonal Relationships: 7.680
+  Interpersonal Relationships: 7.681
   Confidence and Self-efficacy: 7.633
-  Conflict Resolution: 8.224
+  Conflict Resolution: 8.226
   Work-related Stress: 7.392
-  Adaptability: 8.933
+  Adaptability: 8.934
   Achievement Motivation: 8.559
   Fear of Failure: 6.773
   Need for Control: 6.488
   Cognitive Load: 8.179
-  Social Support: 7.784
-  Resilience: 8.861
+  Social Support: 7.785
+  Resilience: 8.863
 
 Std:
-  Anxiety and Stress Levels: 1.189
-  Emotional Stability: 1.048
-  Problem-solving Skills: 0.439
+  Anxiety and Stress Levels: 1.186
+  Emotional Stability: 1.047
+  Problem-solving Skills: 0.438
   Creativity: 0.191
-  Interpersonal Relationships: 0.797
-  Confidence and Self-efficacy: 0.794
-  Conflict Resolution: 0.912
-  Work-related Stress: 0.960
-  Adaptability: 0.429
-  Achievement Motivation: 0.464
-  Fear of Failure: 0.969
-  Need for Control: 0.569
+  Interpersonal Relationships: 0.796
+  Confidence and Self-efficacy: 0.792
+  Conflict Resolution: 0.910
+  Work-related Stress: 0.958
+  Adaptability: 0.428
+  Achievement Motivation: 0.463
+  Fear of Failure: 0.967
+  Need for Control: 0.568
   Cognitive Load: 0.330
-  Social Support: 0.655
-  Resilience: 0.480
+  Social Support: 0.654
+  Resilience: 0.479
 
 Coeff_variation:
   Anxiety and Stress Levels: 0.172
@@ -73,31 +73,31 @@ Range:
   Resilience: 2.400
 
 2. UMAP Analysis:
-  Variance UMAP1: 6.880
-  Variance UMAP2: 5.139
-  Total variance: 12.020
-  Range UMAP1: 8.701
-  Range UMAP2: 8.352
+  Variance UMAP1: 9.429
+  Variance UMAP2: 2.022
+  Total variance: 11.451
+  Range UMAP1: 10.912
+  Range UMAP2: 4.897
   Sample embeddings (first 3 LLMs):
-    qwen2.5-32b-instruct: UMAP1=11.422, UMAP2=7.657
-    microsoftPhi-3-medium-4k-instruct: UMAP1=11.542, UMAP2=7.412
-    qwen2.5-72b-instruct: UMAP1=11.749, UMAP2=7.573
+    qwen2.5-32b-instruct: UMAP1=-2.658, UMAP2=9.751
+    microsoftPhi-3-medium-4k-instruct: UMAP1=-2.307, UMAP2=9.875
+    qwen2.5-72b-instruct: UMAP1=-2.510, UMAP2=10.077
 
 3. Correlation Analysis:
   Mean absolute correlation: 0.575
   Maximum correlation: 0.967
   Highly correlated pairs (|r| > 0.7):
-    Anxiety and Stress Levels - Emotional Stability: -0.812
+    Anxiety and Stress Levels - Emotional Stability: -0.811
     Anxiety and Stress Levels - Confidence and Self-efficacy: -0.741
     Anxiety and Stress Levels - Work-related Stress: 0.880
     Anxiety and Stress Levels - Fear of Failure: 0.967
-    Emotional Stability - Problem-solving Skills: 0.807
+    Emotional Stability - Problem-solving Skills: 0.806
     Emotional Stability - Interpersonal Relationships: 0.915
     Emotional Stability - Work-related Stress: -0.714
-    Emotional Stability - Fear of Failure: -0.791
+    Emotional Stability - Fear of Failure: -0.790
     Emotional Stability - Social Support: 0.851
     Emotional Stability - Resilience: 0.885
-    Problem-solving Skills - Social Support: 0.718
+    Problem-solving Skills - Social Support: 0.719
     Problem-solving Skills - Resilience: 0.852
     Interpersonal Relationships - Problem-solving Skills: 0.792
     Interpersonal Relationships - Social Support: 0.930
@@ -108,7 +108,7 @@ Range:
     Confidence and Self-efficacy - Conflict Resolution: 0.759
     Confidence and Self-efficacy - Fear of Failure: -0.742
     Confidence and Self-efficacy - Social Support: 0.836
-    Confidence and Self-efficacy - Resilience: 0.874
+    Confidence and Self-efficacy - Resilience: 0.873
     Conflict Resolution - Emotional Stability: 0.838
     Conflict Resolution - Problem-solving Skills: 0.758
     Conflict Resolution - Interpersonal Relationships: 0.843
@@ -118,7 +118,7 @@ Range:
     Adaptability - Problem-solving Skills: 0.858
     Adaptability - Interpersonal Relationships: 0.813
     Adaptability - Confidence and Self-efficacy: 0.810
-    Adaptability - Conflict Resolution: 0.811
+    Adaptability - Conflict Resolution: 0.812
     Adaptability - Social Support: 0.749
     Adaptability - Resilience: 0.914
     Achievement Motivation - Problem-solving Skills: 0.787
@@ -131,7 +131,7 @@ Range:
     Resilience - Social Support: 0.832
 
 4. LLM Variability:
-  Mean variance across LLMs: 1.397
+  Mean variance across LLMs: 1.395
   Max variance LLM: microsoftPhi-3-medium-4k-instruct
   Min variance LLM: smollm21.7b-instruct-q6_K
 
@@ -336,24 +336,6 @@ Range:
 ########## ministral-8b-2410
 ########### qwen2.5-7b-instruct
 ########### devstral-small-2505
-########### googlegemma-2-9b-it
-############ nvidiallama-3.1-nemotron-ultra-253b-v1free
-############ claude-3-7-sonnet-20250219
-########### gemini-1.5-flash-002
-########### claude-3-7-sonnet-20250219-thinking-high
-########## gpt-4o-mini-2024-07-18
-########### o1-pro-2024-12-05
-############ qwen-plus-2025-01-25
-############ o1-2024-12-17
-########## deepseekdeepseek-chat-v3.1
-########### o1-pro-2024-12-17
-############ qwenqwen3-max
-############# amazonnova-2-lite-v1
-############# qwenqwen3-max-thinking
-########### qwen-max-2025-01-25
-########### o1-2024-12-05
-########### nvidiaLlama-3.1-Nemotron-70B-Instruct
-########### phi3.53.8b-mini-instruct-fp16
 ########## meta-llamaMeta-Llama-3.1-405B-Instruct
 ########### deepseek-aiDeepSeek-V3
 ########### meta-llamaLlama-3.2-3B-Instruct
@@ -368,3 +350,22 @@ Range:
 ########### gemma-3n-e4b-it
 ############ minimaxminimax-m2free
 ############ gemini-2.5-pro-preview-05-06
+########## deepseekdeepseek-chat-v3.1
+########### qwenqwen3-max
+############ amazonnova-2-lite-v1
+############ qwenqwen3-max-thinking
+########### gemini-1.5-flash-002
+############ claude-3-7-sonnet-20250219
+############ openaigpt-5.3-codex
+########### claude-3-7-sonnet-20250219-thinking-high
+############ o1-pro-2024-12-17
+############ googlegemma-2-9b-it
+########## gpt-4o-mini-2024-07-18
+############ qwen-plus-2025-01-25
+############ o1-2024-12-17
+############ o1-pro-2024-12-05
+############ nvidiallama-3.1-nemotron-ultra-253b-v1free
+########### qwen-max-2025-01-25
+########### o1-2024-12-05
+########### nvidiaLlama-3.1-Nemotron-70B-Instruct
+########### phi3.53.8b-mini-instruct-fp16

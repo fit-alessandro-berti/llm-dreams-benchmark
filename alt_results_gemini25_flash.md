@@ -148,6 +148,7 @@
 | grok-4-1-fast-reasoning                    | **379.0** | 8.0 $\pm$ 0.5               | 6.0 $\pm$ 0.0         | 7.8 $\pm$ 0.2            | 9.2 $\pm$ 0.2 | 7.0 $\pm$ 0.0                 | 6.9 $\pm$ 0.4                  | 7.2 $\pm$ 0.8         | 7.5 $\pm$ 0.5         | 8.6 $\pm$ 0.2  | 7.9 $\pm$ 0.5            | 6.8 $\pm$ 0.6     | 5.4 $\pm$ 0.4      | 8.2 $\pm$ 0.2    | 6.9 $\pm$ 0.2    | 8.1 $\pm$ 0.6 |
 | anthropicclaude-opus-4.1                   | **379.0** | 7.9 $\pm$ 0.2               | 6.0 $\pm$ 0.0         | 7.0 $\pm$ 0.0            | 9.8 $\pm$ 0.2 | 6.9 $\pm$ 0.2                 | 6.6 $\pm$ 0.4                  | 7.6 $\pm$ 0.4         | 7.1 $\pm$ 0.2         | 9.0 $\pm$ 0.0  | 7.0 $\pm$ 0.0            | 6.6 $\pm$ 0.6     | 4.0 $\pm$ 0.0      | 8.6 $\pm$ 0.4    | 6.5 $\pm$ 0.5    | 8.4 $\pm$ 0.4 |
 | Gemini-1.5-Pro-Exp-0827                    | **379.0** | 7.9 $\pm$ 0.6               | 6.1 $\pm$ 0.2         | 8.0 $\pm$ 0.0            | 9.4 $\pm$ 0.2 | 6.9 $\pm$ 0.2                 | 7.2 $\pm$ 0.2                  | 6.2 $\pm$ 1.0         | 7.2 $\pm$ 0.2         | 8.6 $\pm$ 0.2  | 8.1 $\pm$ 0.2            | 6.5 $\pm$ 0.5     | 5.9 $\pm$ 0.4      | 7.5 $\pm$ 0.4    | 6.5 $\pm$ 0.5    | 8.1 $\pm$ 0.4 |
+| openaigpt-5.3-codex                        | **378.5** | 7.6 $\pm$ 0.2               | 6.0 $\pm$ 0.0         | 7.2 $\pm$ 0.4            | 8.9 $\pm$ 0.2 | 6.9 $\pm$ 0.2                 | 6.6 $\pm$ 0.2                  | 6.9 $\pm$ 0.5         | 7.9 $\pm$ 0.5         | 8.5 $\pm$ 0.0  | 7.9 $\pm$ 0.2            | 6.6 $\pm$ 0.4     | 5.5 $\pm$ 0.4      | 7.9 $\pm$ 0.5    | 7.1 $\pm$ 0.2    | 8.4 $\pm$ 0.2 |
 | grok-4-0709                                | **378.5** | 7.9 $\pm$ 0.4               | 6.1 $\pm$ 0.2         | 7.8 $\pm$ 0.4            | 9.5 $\pm$ 0.0 | 7.0 $\pm$ 0.0                 | 6.9 $\pm$ 0.5                  | 7.4 $\pm$ 0.2         | 7.4 $\pm$ 0.4         | 8.6 $\pm$ 0.2  | 8.1 $\pm$ 0.2            | 6.9 $\pm$ 0.4     | 6.0 $\pm$ 0.0      | 8.1 $\pm$ 0.2    | 6.8 $\pm$ 0.2    | 8.0 $\pm$ 0.4 |
 | qwenqwen3-30b-a3b-instruct-2507            | **378.0** | 7.8 $\pm$ 0.2               | 6.2 $\pm$ 0.2         | 7.9 $\pm$ 0.2            | 9.1 $\pm$ 0.2 | 7.0 $\pm$ 0.0                 | 7.1 $\pm$ 0.7                  | 7.5 $\pm$ 0.4         | 7.8 $\pm$ 0.8         | 8.6 $\pm$ 0.4  | 7.9 $\pm$ 0.5            | 7.5 $\pm$ 1.0     | 5.8 $\pm$ 0.4      | 8.5 $\pm$ 0.4    | 6.6 $\pm$ 0.4    | 8.2 $\pm$ 0.4 |
 | gemini-3-flash-preview                     | **378.0** | 8.2 $\pm$ 0.2               | 6.2 $\pm$ 0.2         | 7.2 $\pm$ 0.2            | 9.2 $\pm$ 0.2 | 6.6 $\pm$ 0.4                 | 7.5 $\pm$ 0.6                  | 7.4 $\pm$ 0.4         | 7.6 $\pm$ 0.4         | 8.8 $\pm$ 0.2  | 7.5 $\pm$ 0.5            | 6.9 $\pm$ 0.5     | 5.2 $\pm$ 0.8      | 8.0 $\pm$ 0.0    | 6.5 $\pm$ 0.4    | 8.2 $\pm$ 0.6 |
@@ -4804,6 +4805,32 @@
 | Need for Control             | 5.0 $\pm$ 0.4      |
 | Cognitive Load               | 7.9 $\pm$ 0.5      |
 | Social Support               | 7.2 $\pm$ 0.4      |
+| Resilience                   | 8.4 $\pm$ 0.2      |
+
+
+
+
+
+
+### openaigpt-5.3-codex
+
+
+| Personality Trait            | Score (1.0-10.0)   |
+|:-----------------------------|:-------------------|
+| Anxiety and Stress Levels    | 7.6 $\pm$ 0.2      |
+| Emotional Stability          | 6.0 $\pm$ 0.0      |
+| Problem-solving Skills       | 7.2 $\pm$ 0.4      |
+| Creativity                   | 8.9 $\pm$ 0.2      |
+| Interpersonal Relationships  | 6.9 $\pm$ 0.2      |
+| Confidence and Self-efficacy | 6.6 $\pm$ 0.2      |
+| Conflict Resolution          | 6.9 $\pm$ 0.5      |
+| Work-related Stress          | 7.9 $\pm$ 0.5      |
+| Adaptability                 | 8.5 $\pm$ 0.0      |
+| Achievement Motivation       | 7.9 $\pm$ 0.2      |
+| Fear of Failure              | 6.6 $\pm$ 0.4      |
+| Need for Control             | 5.5 $\pm$ 0.4      |
+| Cognitive Load               | 7.9 $\pm$ 0.5      |
+| Social Support               | 7.1 $\pm$ 0.2      |
 | Resilience                   | 8.4 $\pm$ 0.2      |
 
 

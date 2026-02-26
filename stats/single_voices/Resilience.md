@@ -81,6 +81,7 @@
 | qwenqwen3-30b-a3b-instruct-2507 | 8.783 |
 | qwen34b-instruct-2507-q8_0 | 8.767 |
 | qwen2.5-omni-7b | 8.767 |
+| qwenqwen3.5-122b-a10b | 8.767 |
 | arcee-aitrinity-large-previewfree | 8.750 |
 | googlegemma-2-9b-it | 8.750 |
 | minimaxminimax-m2.5 | 8.750 |
@@ -122,8 +123,10 @@
 | Grok-4-fast-20251111 | 8.617 |
 | deepseek-aiDeepSeek-R1-Zero | 8.600 |
 | Gemini-1.5-Pro-Exp-0801 | 8.583 |
+| liquidlfm-2-24b-a2b | 8.583 |
 | qwen30.6b | 8.583 |
 | qwenqwen3-next-80b-a3b-thinking | 8.583 |
+| qwenqwen3.5-27b | 8.583 |
 | z-aiglm-5 | 8.583 |
 | minimaxminimax-m2free | 8.567 |
 | moonshotaikimi-k2 | 8.567 |
@@ -142,6 +145,7 @@
 | claude-3-7-sonnet-20250219-thinking-high | 8.483 |
 | qwen-turbo-0428 | 8.483 |
 | qwen38b | 8.483 |
+| qwenqwen3.5-35b-a3b | 8.483 |
 | gpt-5-chat-latest-2025-08-19 | 8.467 |
 | chatgpt-4o-latest-2024-11-20 | 8.450 |
 | deepseekdeepseek-r1 | 8.450 |

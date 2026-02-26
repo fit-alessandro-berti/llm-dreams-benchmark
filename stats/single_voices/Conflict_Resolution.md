@@ -117,6 +117,7 @@
 | gpt-4-1106-preview | 7.950 |
 | nvidiallama-3.1-nemotron-ultra-253b-v1free | 7.950 |
 | qwen34b-instruct-2507-q8_0 | 7.950 |
+| qwenqwen3.5-122b-a10b | 7.950 |
 | Grok-4-fast | 7.933 |
 | qwenqwen3-235b-a22b-07-25 | 7.933 |
 | codestral-2501 | 7.917 |
@@ -129,6 +130,7 @@
 | qwen2.5-7b-instruct | 7.867 |
 | deepseekdeepseek-r1 | 7.850 |
 | deepseekdeepseek-v3.2-speciale | 7.850 |
+| qwenqwen3.5-27b | 7.850 |
 | Gemini-1.5-Pro-Exp-0801 | 7.833 |
 | nvidianemotron-nano-9b-v2 | 7.817 |
 | falcon33b-instruct-q8_0 | 7.817 |
@@ -137,6 +139,7 @@
 | qwen38b | 7.800 |
 | Gpt-5.1-Pro-20251120 | 7.767 |
 | QwenQwen3-32B | 7.767 |
+| qwenqwen3.5-35b-a3b | 7.767 |
 | qwenqwen3-next-80b-a3b-thinking | 7.767 |
 | r1-1776 | 7.750 |
 | Grok-4-fast-20251111 | 7.733 |
@@ -225,6 +228,7 @@
 | mistral-large-2512 | 5.800 |
 | smollm2135m | 5.800 |
 | essentialairnj-1-instruct | 5.750 |
+| liquidlfm-2-24b-a2b | 5.717 |
 | phi4-mini-reasoning | 5.400 |
 | meta-llamallama-4-maverick | 5.333 |
 | mistral-small-2506 | 5.300 |

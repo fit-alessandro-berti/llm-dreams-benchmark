@@ -78,6 +78,7 @@
 | googlegemini-3.1-pro-preview | 6.617 |
 | gemma-3n-e4b-it | 6.550 |
 | magistral-small-2506 | 6.550 |
+| qwenqwen3.5-35b-a3b | 6.550 |
 | QwenQwen3-32B | 6.533 |
 | claude-4-sonnet-20250514 | 6.517 |
 | claude-3-7-sonnet-20250219-thinking-high | 6.500 |
@@ -141,6 +142,7 @@
 | openaigpt-5.2-codex | 5.783 |
 | qwen34b | 5.783 |
 | qwenqwen3-coder | 5.783 |
+| qwenqwen3.5-27b | 5.767 |
 | devstral-small-2505 | 5.750 |
 | Grok-4-fast-20251111 | 5.750 |
 | o1-pro-2024-12-17 | 5.683 |
@@ -150,6 +152,7 @@
 | falcon33b-instruct-q8_0 | 5.633 |
 | gemini-1.5-flash-8b | 5.633 |
 | qwenqwen3.5-plus-02-15 | 5.633 |
+| liquidlfm-2-24b-a2b | 5.567 |
 | nvidiaLlama-3.1-Nemotron-70B-Instruct | 5.567 |
 | allenaiolmo-3.1-32b-instruct | 5.550 |
 | ChatGPT-5.1-Instant-20251113 | 5.533 |
@@ -190,6 +193,7 @@
 | qwenqwen3-coder-next | 4.900 |
 | ministral-8b-2410 | 4.850 |
 | phi3.53.8b-mini-instruct-fp16 | 4.850 |
+| qwenqwen3.5-122b-a10b | 4.850 |
 | falcon310b-instruct-q8_0 | 4.850 |
 | o1-preview-2024-09-12 | 4.817 |
 | qwen-turbo-2024-11-01 | 4.783 |

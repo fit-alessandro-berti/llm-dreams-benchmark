@@ -16,6 +16,7 @@
 | moonshotaikimi-k2-thinking | 9.717 |
 | o3-mini-20250131-HIGH | 9.717 |
 | openrouteraurora-alpha | 9.717 |
+| qwenqwen3.5-122b-a10b | 9.717 |
 | claude-4-sonnet-20250514 | 9.700 |
 | Grok-4-fast-20251111 | 9.700 |
 | o3-2025-04-16 | 9.700 |
@@ -34,6 +35,7 @@
 | gemini-2.5-pro-preview-05-06 | 9.650 |
 | openaigpt-oss-20b | 9.650 |
 | qwenqwen3-max | 9.650 |
+| qwenqwen3.5-27b | 9.650 |
 | o4-mini-2025-04-16 | 9.650 |
 | anthropicclaude-sonnet-4.5 | 9.633 |
 | gemma-3-27b-it | 9.633 |
@@ -52,6 +54,7 @@
 | grok-4-1-fast-non-reasoning | 9.617 |
 | qwen2.5-14b-instruct | 9.617 |
 | qwenqwen3-max-thinking | 9.617 |
+| qwenqwen3.5-35b-a3b | 9.617 |
 | writerpalmyra-x5 | 9.617 |
 | xiaomimimo-v2-flashfree | 9.617 |
 | z-aiglm-4.7-flash | 9.617 |
@@ -127,6 +130,7 @@
 | deepseek-aiDeepSeek-R1-0528 | 9.450 |
 | gpt-4.5-preview | 9.450 |
 | gpt-5.2-pro-2025-12-11 | 9.450 |
+| liquidlfm-2-24b-a2b | 9.450 |
 | mistralaimistral-small-creative | 9.450 |
 | nvidiallama-3.1-nemotron-ultra-253b-v1free | 9.450 |
 | nvidianemotron-nano-9b-v2 | 9.450 |

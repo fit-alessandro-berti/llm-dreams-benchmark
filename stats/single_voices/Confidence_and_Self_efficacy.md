@@ -61,6 +61,7 @@
 | gpt-4.1-2025-04-14 | 8.033 |
 | gpt-4o-mini-2024-07-18 | 8.017 |
 | ministral-3b-2410 | 8.000 |
+| liquidlfm-2-24b-a2b | 8.000 |
 | nousresearchhermes-4-70b | 7.983 |
 | qwen-plus-2025-01-25 | 7.983 |
 | minimaxminimax-m2.5 | 7.967 |
@@ -75,6 +76,7 @@
 | deepseek-aiDeepSeek-V3 | 7.867 |
 | falcon33b-instruct-q8_0 | 7.867 |
 | baiduernie-4.5-300b-a47b | 7.850 |
+| qwenqwen3.5-122b-a10b | 7.833 |
 | gpt-4.1-nano-2025-04-14 | 7.817 |
 | devstral-small-2505 | 7.783 |
 | liquidlfm-2.5-1.2b-instructfree | 7.783 |
@@ -97,6 +99,7 @@
 | chatgpt-4o-latest-2025-03-26 | 7.633 |
 | gemini-2.5-flash-lite-preview-09-2025 | 7.617 |
 | nvidiallama-3.1-nemotron-ultra-253b-v1free | 7.617 |
+| qwenqwen3.5-27b | 7.600 |
 | chatgpt-4o-latest-2025-04-26 | 7.583 |
 | gemini-1.5-flash-8b | 7.583 |
 | nvidiaLlama-3.1-Nemotron-70B-Instruct | 7.583 |
@@ -149,6 +152,7 @@
 | minimaxminimax-m2.1 | 7.200 |
 | stepfunstep-3.5-flashfree | 7.200 |
 | granite4tiny-h | 7.183 |
+| qwenqwen3.5-35b-a3b | 7.167 |
 | meta-llamaMeta-Llama-3.1-405B-Instruct | 7.150 |
 | qwen38b | 7.133 |
 | gemini-2.5-pro-preview-05-06 | 7.117 |

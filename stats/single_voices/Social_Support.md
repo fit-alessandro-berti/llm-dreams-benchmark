@@ -133,6 +133,7 @@
 | magistral-small-2506 | 7.200 |
 | qwen-plus-0428 | 7.200 |
 | anthropicclaude-opus-4.1 | 7.183 |
+| liquidlfm-2-24b-a2b | 7.167 |
 | liquidlfm-2.5-1.2b-instructfree | 7.167 |
 | meta-llamallama-4-scout | 7.150 |
 | nvidiallama-3.3-nemotron-super-49b-v1 | 7.150 |
@@ -149,6 +150,7 @@
 | qwen30.6b | 7.050 |
 | gpt-5-chat-latest-2025-08-19 | 7.033 |
 | moonshotaikimi-linear-48b-a3b-instruct | 7.033 |
+| qwenqwen3.5-27b | 7.033 |
 | x-aigrok-code-fast-1 | 7.033 |
 | claude-4-opus-20250514 | 7.017 |
 | gemini-2.5-pro-preview-06-05 | 7.000 |
@@ -173,6 +175,7 @@
 | claude-3-opus-20240229 | 6.900 |
 | z-aiglm-4.5 | 6.883 |
 | z-aiglm-4.5-air | 6.883 |
+| qwenqwen3.5-35b-a3b | 6.867 |
 | deepseekdeepseek-v3.2-speciale | 6.850 |
 | gemma312b-it-q8_0 | 6.850 |
 | gpt-5.2-pro-2025-12-11 | 6.850 |
@@ -185,6 +188,7 @@
 | gemini-2.5-flash-lite-preview-09-2025 | 6.783 |
 | Grok-4.1-20251118 | 6.783 |
 | chatgpt-4o-latest-2024-11-20 | 6.767 |
+| qwenqwen3.5-122b-a10b | 6.750 |
 | qwen34b | 6.733 |
 | stepfunstep-3.5-flashfree | 6.733 |
 | grok-3-mini-beta | 6.733 |

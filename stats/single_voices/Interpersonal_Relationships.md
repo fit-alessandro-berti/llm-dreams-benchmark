@@ -126,6 +126,7 @@
 | moonshotaikimi-k2 | 7.350 |
 | exaone-deep7.8b-fp16 | 7.350 |
 | gemini-2.5-pro-preview-05-06 | 7.350 |
+| liquidlfm-2-24b-a2b | 7.350 |
 | liquidlfm-2.5-1.2b-thinkingfree | 7.350 |
 | nvidiallama-3.3-nemotron-super-49b-v1 | 7.350 |
 | qwen-plus-0428 | 7.350 |
@@ -160,6 +161,7 @@
 | meta-llamaMeta-Llama-3.1-70B-Instruct | 7.150 |
 | prime-intellectintellect-3 | 7.133 |
 | gpt-5.2-pro-2025-12-11 | 7.133 |
+| qwenqwen3.5-27b | 7.133 |
 | qwen30.6b | 7.117 |
 | mistral-medium-2505 | 7.100 |
 | mistral-medium-2508 | 7.067 |
@@ -172,6 +174,7 @@
 | gemini-2.5-flash-lite-preview-06-17 | 7.017 |
 | Gemini-1.5-Pro-Exp-0827 | 6.983 |
 | grok-4-0709 | 6.983 |
+| qwenqwen3.5-35b-a3b | 6.983 |
 | claude-3-5-sonnet-20241022 | 6.967 |
 | allenaiolmo-3-7b-think | 6.967 |
 | writerpalmyra-x5 | 6.950 |
@@ -180,6 +183,7 @@
 | xiaomimimo-v2-flashfree | 6.900 |
 | ministral-14b-2512 | 6.883 |
 | gpt-4o-mini-2024-11-05 | 6.833 |
+| qwenqwen3.5-122b-a10b | 6.833 |
 | z-aiglm-4.5-air | 6.800 |
 | chatgpt-4o-latest-2025-01-29 | 6.783 |
 | gemini-2.5-flash-lite-preview-09-2025 | 6.783 |

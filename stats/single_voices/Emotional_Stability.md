@@ -72,6 +72,7 @@
 | allenaiolmo-3.1-32b-instruct | 7.250 |
 | arcee-aitrinity-large-previewfree | 7.250 |
 | ministral-3b-2410 | 7.233 |
+| qwenqwen3.5-122b-a10b | 7.233 |
 | anthropicclaude-opus-4.6 | 7.200 |
 | granite4micro | 7.200 |
 | o1-2024-12-05 | 7.183 |
@@ -88,6 +89,7 @@
 | minimaxminimax-m2.5 | 7.083 |
 | gpt-5-chat-latest-2025-08-19 | 7.067 |
 | qwenqwen3.5-397b-a17b | 7.067 |
+| qwenqwen3.5-27b | 7.050 |
 | qwen2.5-7b-instruct-1m | 7.033 |
 | baiduernie-4.5-300b-a47b | 7.017 |
 | qwenqwen3-coder | 7.000 |
@@ -108,6 +110,7 @@
 | qwenqwen3-next-80b-a3b-instruct | 6.867 |
 | allenaiolmo-3-7b-instruct | 6.833 |
 | gemini-1.5-flash-002 | 6.833 |
+| liquidlfm-2-24b-a2b | 6.817 |
 | nvidianemotron-nano-9b-v2 | 6.817 |
 | ai21jamba-large-1.7 | 6.800 |
 | deepseekdeepseek-chat-v3.1 | 6.800 |
@@ -143,6 +146,7 @@
 | gemma312b-it-q8_0 | 6.500 |
 | qwen-turbo-0428 | 6.500 |
 | stepfunstep-3.5-flashfree | 6.500 |
+| qwenqwen3.5-35b-a3b | 6.483 |
 | chatgpt-4o-latest-2025-04-26 | 6.483 |
 | magistral-small-2506 | 6.483 |
 | gemini-2.5-flash-lite-preview-06-17 | 6.467 |

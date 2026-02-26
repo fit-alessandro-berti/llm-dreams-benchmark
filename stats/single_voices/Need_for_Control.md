@@ -76,6 +76,7 @@
 | open-mixtral-8x7b | 6.367 |
 | qwen-turbo-0428 | 6.367 |
 | nvidiaLlama-3.1-Nemotron-70B-Instruct | 6.367 |
+| liquidlfm-2-24b-a2b | 6.350 |
 | stepfunstep-3.5-flashfree | 6.350 |
 | Gemini-1.5-Pro-Exp-0801 | 6.333 |
 | gpt-5-chat-latest-2025-08-07 | 6.333 |
@@ -196,6 +197,7 @@
 | qwenqwen3-max-thinking | 5.650 |
 | gemini-2.5-flash-lite-preview-06-17 | 5.633 |
 | gemma-3n-e4b-it | 5.633 |
+| qwenqwen3.5-35b-a3b | 5.617 |
 | gpt-5-pro-2025-10-06 | 5.583 |
 | qwen34b | 5.583 |
 | qwenqwen3-coder | 5.583 |
@@ -230,6 +232,8 @@
 | qwen34b-instruct-2507-q8_0 | 4.967 |
 | gpt-4.5-preview | 4.917 |
 | anthropicclaude-sonnet-4.6 | 4.850 |
+| qwenqwen3.5-27b | 4.800 |
 | o3-mini-20250131-HIGH | 4.767 |
 | qwenqwen3-coder-next | 4.567 |
 | claude-haiku-4-5-20251001 | 4.533 |
+| qwenqwen3.5-122b-a10b | 4.267 |

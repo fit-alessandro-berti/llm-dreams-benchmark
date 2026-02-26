@@ -62,6 +62,7 @@
 | meta-llamaLlama-3.2-3B-Instruct | 7.717 |
 | minimaxminimax-m2-her | 7.700 |
 | ibmgranite4350m-h | 7.633 |
+| qwenqwen3.5-35b-a3b | 7.633 |
 | chatgpt-4o-latest-20250215 | 7.600 |
 | deepseek-aiDeepSeek-R1-0528 | 7.600 |
 | DeepSeek-V3-0324 | 7.583 |
@@ -132,6 +133,7 @@
 | deepseekdeepseek-chat-v3.1 | 6.817 |
 | minimaxminimax-m2.1 | 6.800 |
 | exaone-deep7.8b-fp16 | 6.783 |
+| qwenqwen3.5-27b | 6.783 |
 | gemini-2.5-pro-preview-06-05 | 6.767 |
 | o1-pro-2024-12-17 | 6.750 |
 | allenaiolmo-3-7b-instruct | 6.733 |
@@ -141,6 +143,7 @@
 | gpt-4-1106-preview | 6.717 |
 | nvidiaLlama-3.1-Nemotron-70B-Instruct | 6.717 |
 | gpt-3.5-turbo | 6.683 |
+| liquidlfm-2-24b-a2b | 6.683 |
 | arcee-aitrinity-large-previewfree | 6.650 |
 | gpt-5-pro-2025-10-06 | 6.650 |
 | openaigpt-5.2-codex | 6.617 |
@@ -220,6 +223,7 @@
 | open-mixtral-8x22b | 5.400 |
 | inceptionmercury | 5.383 |
 | qwen2.5-14b-instruct | 5.350 |
+| qwenqwen3.5-122b-a10b | 5.333 |
 | openrouteraurora-alpha | 5.317 |
 | Grok-3-20250426-concise | 5.300 |
 | o3-mini-20250131-HIGH | 5.283 |

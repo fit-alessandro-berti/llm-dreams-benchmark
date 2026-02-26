@@ -76,6 +76,7 @@
 | claude-3-5-sonnet-20241022 | 7.800 |
 | liquidlfm-2.5-1.2b-thinkingfree | 7.800 |
 | meta-llamaMeta-Llama-3.1-70B-Instruct | 7.800 |
+| qwenqwen3.5-35b-a3b | 7.800 |
 | meta-llamaLlama-3.3-70B-Instruct | 7.783 |
 | qwen-turbo-0428 | 7.783 |
 | DeepSeek-V3-0324 | 7.750 |
@@ -122,6 +123,7 @@
 | googlegemma-2-9b-it | 7.450 |
 | gpt-4o-mini-2024-11-05 | 7.450 |
 | minimaxminimax-m2.5 | 7.417 |
+| liquidlfm-2-24b-a2b | 7.400 |
 | mistral-medium-2505 | 7.400 |
 | nvidianemotron-nano-9b-v2 | 7.400 |
 | qwen2.5-7b-instruct | 7.400 |
@@ -154,6 +156,7 @@
 | gemini-2.0-flash-exp | 7.200 |
 | mistral-small-2501 | 7.200 |
 | qwen34b | 7.200 |
+| qwenqwen3.5-27b | 7.200 |
 | gpt-5-chat-latest-2025-08-19 | 7.167 |
 | nvidiallama-3.1-nemotron-ultra-253b-v1free | 7.167 |
 | chatgpt-4o-latest-2025-04-26 | 7.150 |
@@ -221,6 +224,7 @@
 | granite4small-h | 6.583 |
 | open-mixtral-8x22b | 6.583 |
 | open-mixtral-8x7b | 6.583 |
+| qwenqwen3.5-122b-a10b | 6.550 |
 | o1-preview-2024-09-12 | 6.550 |
 | open-mistral-7b | 6.500 |
 | openrouteraurora-alpha | 6.500 |

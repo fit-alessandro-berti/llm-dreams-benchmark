@@ -1,4 +1,4 @@
-ANSWERING_MODEL_NAME = "openai/gpt-5.3-codex"
+ANSWERING_MODEL_NAME = "qwen/qwen3.5-122b-a10b"
 EVALUATING_MODEL_NAME = "gpt-4.1"
 
 

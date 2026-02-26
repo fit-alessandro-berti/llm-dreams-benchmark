@@ -55,6 +55,7 @@
 | grok-4-1-fast-non-reasoning | 8.967 |
 | o1-2024-12-05 | 8.967 |
 | o1-pro-2024-12-05 | 8.967 |
+| qwenqwen3.5-122b-a10b | 8.967 |
 | anthropicclaude-sonnet-4.6 | 8.950 |
 | falcon37b-instruct-q8_0 | 8.950 |
 | gpt-4.1-mini-2025-04-14 | 8.950 |
@@ -81,6 +82,7 @@
 | liquidlfm-2.2-6b | 8.900 |
 | minimaxminimax-m2.5 | 8.900 |
 | mistral-small-2409 | 8.900 |
+| qwenqwen3.5-27b | 8.900 |
 | deepseekdeepseek-v3.2 | 8.883 |
 | QwenQwen3-32B | 8.883 |
 | x-aigrok-code-fast-1 | 8.883 |
@@ -142,9 +144,11 @@
 | chatgpt-4o-latest-2024-11-20 | 8.733 |
 | liquidlfm-2.5-1.2b-instructfree | 8.733 |
 | moonshotaikimi-k2 | 8.733 |
+| qwenqwen3.5-35b-a3b | 8.733 |
 | exaone-deep7.8b-fp16 | 8.717 |
 | granite4tiny-h | 8.717 |
 | nvidianemotron-nano-9b-v2 | 8.717 |
+| liquidlfm-2-24b-a2b | 8.700 |
 | qwenqwen3-next-80b-a3b-instruct | 8.700 |
 | qwenqwen3-next-80b-a3b-thinking | 8.700 |
 | gpt-5-chat-latest-2025-08-19 | 8.683 |

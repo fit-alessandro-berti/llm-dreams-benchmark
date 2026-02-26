@@ -65,6 +65,7 @@
 | meta-llamaMeta-Llama-3.1-405B-Instruct | 7.483 |
 | Gemini-1.5-Pro-Exp-0827 | 7.467 |
 | moonshotaikimi-k2.5 | 7.467 |
+| qwenqwen3.5-35b-a3b | 7.467 |
 | chatgpt-4o-latest-20250215 | 7.450 |
 | gemini-2.5-pro-preview-05-06 | 7.433 |
 | ministral-8b-2512 | 7.433 |
@@ -151,6 +152,7 @@
 | gemini-2.0-flash-exp | 6.383 |
 | qwenqwen3-coder | 6.383 |
 | chatgpt-4o-latest-2025-03-26 | 6.333 |
+| qwenqwen3.5-27b | 6.317 |
 | qwenqwen3.5-plus-02-15 | 6.300 |
 | baiduernie-4.5-300b-a47b | 6.250 |
 | anthropicclaude-opus-4.6 | 6.233 |
@@ -164,6 +166,7 @@
 | o1-2024-12-05 | 6.117 |
 | o1-2024-12-17 | 6.117 |
 | qwen2.5-omni-7b | 6.117 |
+| liquidlfm-2-24b-a2b | 6.117 |
 | qwenqwen3.5-397b-a17b | 6.100 |
 | gpt-4-0613 | 6.083 |
 | granite4micro-h | 6.083 |
@@ -191,6 +194,7 @@
 | ministral-8b-2410 | 5.617 |
 | nvidianemotron-3-nano-30b-a3bfree | 5.600 |
 | qwen-turbo-2024-11-01 | 5.567 |
+| qwenqwen3.5-122b-a10b | 5.500 |
 | mistral-small-2409 | 5.483 |
 | Grok-3-20250426-concise | 5.467 |
 | granite3.28b-instruct-q4_K_M | 5.433 |

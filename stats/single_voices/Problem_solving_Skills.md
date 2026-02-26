@@ -103,6 +103,7 @@
 | falcon33b-instruct-q8_0 | 8.450 |
 | nousresearchhermes-4-70b | 8.433 |
 | gemini-2.5-flash-lite-preview-09-2025 | 8.433 |
+| liquidlfm-2-24b-a2b | 8.433 |
 | gpt-4.1-2025-04-14 | 8.417 |
 | Grok-4-fast-20251111 | 8.417 |
 | o3-mini-20250131-HIGH | 8.417 |
@@ -178,6 +179,7 @@
 | claude-3-opus-20240229 | 8.067 |
 | Gemini-1.5-Pro-Exp-0801 | 8.067 |
 | meta-llamaLlama-3.2-3B-Instruct | 8.067 |
+| qwenqwen3.5-122b-a10b | 8.067 |
 | claude-3-5-sonnet-20241022 | 8.050 |
 | qwen-plus-0428 | 8.050 |
 | googlegemma-2-9b-it | 8.050 |
@@ -197,12 +199,14 @@
 | meta-llamallama-4-scout | 7.917 |
 | QwenQwen3-30B-A3B | 7.883 |
 | nvidiallama-3.1-nemotron-nano-8b-v1 | 7.867 |
+| qwenqwen3.5-35b-a3b | 7.867 |
 | claude-4-sonnet-20250514 | 7.867 |
 | writerpalmyra-x5 | 7.850 |
 | claude-3-5-haiku-20241022 | 7.817 |
 | gemini-2.5-flash-preview-09-2025 | 7.817 |
 | googlegemma-2-2b-it | 7.800 |
 | ministral-14b-2512 | 7.800 |
+| qwenqwen3.5-27b | 7.783 |
 | gemini-3-pro-preview | 7.750 |
 | grok-3-mini-beta | 7.750 |
 | tngtechdeepseek-r1t-chimerafree | 7.750 |

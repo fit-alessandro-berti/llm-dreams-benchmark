@@ -70,6 +70,7 @@
 | qwen31.7b | 7.883 |
 | gemma-3-27b-it | 7.883 |
 | grok-4-1-fast-reasoning | 7.883 |
+| openaigpt-5.3-chat | 7.883 |
 | z-aiglm-4.5 | 7.883 |
 | z-aiglm-4.7-flash | 7.883 |
 | z-aiglm-5 | 7.867 |
@@ -141,6 +142,7 @@
 | minimaxminimax-m2free | 7.367 |
 | allenaiolmo-3-7b-instruct | 7.350 |
 | deepseek-aiDeepSeek-V3 | 7.350 |
+| googlegemini-3.1-flash-lite-preview | 7.350 |
 | liquidlfm-2.5-1.2b-instructfree | 7.350 |
 | deepseek-aiDeepSeek-R1-Zero | 7.333 |
 | Grok-3-beta-thinking-20250303 | 7.333 |

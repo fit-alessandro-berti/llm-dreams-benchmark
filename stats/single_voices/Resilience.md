@@ -124,6 +124,7 @@
 | Grok-4-fast-20251111 | 8.617 |
 | deepseek-aiDeepSeek-R1-Zero | 8.600 |
 | Gemini-1.5-Pro-Exp-0801 | 8.583 |
+| googlegemini-3.1-flash-lite-preview | 8.583 |
 | liquidlfm-2-24b-a2b | 8.583 |
 | qwen30.6b | 8.583 |
 | qwenqwen3-next-80b-a3b-thinking | 8.583 |
@@ -174,6 +175,7 @@
 | mistral-medium-2508 | 8.267 |
 | claude-opus-4-5-20251101 | 8.233 |
 | meta-llamaMeta-Llama-3.1-405B-Instruct | 8.233 |
+| openaigpt-5.3-chat | 8.233 |
 | z-aiglm-4.5 | 8.217 |
 | z-aiglm-4.5-air | 8.217 |
 | allenaiolmo-3-7b-instruct | 8.217 |

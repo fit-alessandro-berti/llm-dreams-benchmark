@@ -286,6 +286,7 @@
   "gemma34b-it-q8_0": [
     4
   ],
+  "googlegemini-3.1-flash-lite-preview": [],
   "googlegemini-3.1-pro-preview": [],
   "googlegemma-2-2b-it": [
     2
@@ -621,6 +622,7 @@
     560,
     48
   ],
+  "openaigpt-5.3-chat": [],
   "openaigpt-5.3-codex": [],
   "openaigpt-oss-120b": [
     117,

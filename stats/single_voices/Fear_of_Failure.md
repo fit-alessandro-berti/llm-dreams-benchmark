@@ -56,6 +56,7 @@
 | z-aiglm-4.7-flash | 7.033 |
 | z-aiglm-4.5 | 7.017 |
 | meta-llamaMeta-Llama-3.1-70B-Instruct | 6.967 |
+| openaigpt-5.3-chat | 6.917 |
 | smollm2135m | 6.900 |
 | mistral-medium-2508 | 6.900 |
 | chatgpt-4o-latest-20250215 | 6.883 |
@@ -149,6 +150,7 @@
 | qwenqwen3.5-27b | 5.767 |
 | devstral-small-2505 | 5.750 |
 | Grok-4-fast-20251111 | 5.750 |
+| googlegemini-3.1-flash-lite-preview | 5.683 |
 | o1-pro-2024-12-17 | 5.683 |
 | gpt-4.1-nano-2025-04-14 | 5.667 |
 | chatgpt-4o-latest-2025-03-26 | 5.650 |

@@ -124,6 +124,7 @@
 | stepfunstep-3.5-flashfree | 8.333 |
 | chatgpt-4o-latest-2025-03-26 | 8.317 |
 | deepseek-aiDeepSeek-V3 | 8.317 |
+| googlegemini-3.1-flash-lite-preview | 8.317 |
 | z-aiglm-4.5-air | 8.317 |
 | nvidianemotron-nano-9b-v2 | 8.317 |
 | grok-4-1-fast-reasoning | 8.300 |
@@ -175,6 +176,7 @@
 | qwenqwen3.5-plus-02-15 | 8.100 |
 | xiaomimimo-v2-flashfree | 8.100 |
 | grok-4-0709 | 8.083 |
+| openaigpt-5.3-chat | 8.083 |
 | r1-1776 | 8.083 |
 | z-aiglm-5 | 8.083 |
 | claude-3-opus-20240229 | 8.067 |

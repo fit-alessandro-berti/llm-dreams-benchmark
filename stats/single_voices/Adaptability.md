@@ -67,6 +67,7 @@
 | Grok-3-20250426-formal | 8.933 |
 | o1-pro-2024-12-17 | 8.933 |
 | anthropicclaude-opus-4.1 | 8.933 |
+| googlegemini-3.1-flash-lite-preview | 8.933 |
 | googlegemini-3.1-pro-preview | 8.933 |
 | openaigpt-oss-20b | 8.933 |
 | phi4-reasoningplus | 8.933 |
@@ -172,6 +173,7 @@
 | claude-4-sonnet-20250514 | 8.600 |
 | mistral-medium-2508 | 8.600 |
 | Gpt-5.1-Pro-20251120 | 8.583 |
+| openaigpt-5.3-chat | 8.583 |
 | chatgpt-4o-latest-2025-01-29 | 8.567 |
 | z-aiglm-4.7-flash | 8.567 |
 | QwenQwen3-14B | 8.567 |

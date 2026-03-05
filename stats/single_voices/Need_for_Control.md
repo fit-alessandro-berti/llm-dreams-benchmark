@@ -129,6 +129,7 @@
 | gpt-4-1106-preview | 6.117 |
 | gpt-4o-mini-2024-07-18 | 6.117 |
 | liquidlfm-2.5-1.2b-instructfree | 6.117 |
+| openaigpt-5.3-chat | 6.117 |
 | openaigpt-5.3-codex | 6.117 |
 | allenaiolmo-3.1-32b-instruct | 6.100 |
 | QwenQwen3-32B | 6.100 |
@@ -205,6 +206,7 @@
 | qwen3.52b | 5.583 |
 | qwen34b | 5.583 |
 | qwenqwen3-coder | 5.583 |
+| googlegemini-3.1-flash-lite-preview | 5.550 |
 | openaigpt-oss-20b | 5.533 |
 | gemini-3-flash-preview | 5.517 |
 | nvidianemotron-3-nano-30b-a3bfree | 5.517 |

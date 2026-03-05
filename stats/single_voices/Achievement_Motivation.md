@@ -168,6 +168,7 @@
 | googlegemini-3.1-pro-preview | 8.167 |
 | anthropicclaude-opus-4.6 | 8.167 |
 | Gemini-1.5-Pro-Exp-0801 | 8.167 |
+| googlegemini-3.1-flash-lite-preview | 8.167 |
 | grok-3-mini-beta | 8.167 |
 | magistral-medium-2506 | 8.167 |
 | moonshotaikimi-linear-48b-a3b-instruct | 8.150 |
@@ -202,6 +203,7 @@
 | qwenqwen3-next-80b-a3b-instruct | 7.933 |
 | gemini-2.5-pro-preview-06-05 | 7.917 |
 | qwenqwen3.5-35b-a3b | 7.917 |
+| openaigpt-5.3-chat | 7.900 |
 | phi4-mini-reasoning | 7.900 |
 | qwen34b-instruct-2507-q8_0 | 7.883 |
 | claude-3-5-sonnet-20241022 | 7.867 |

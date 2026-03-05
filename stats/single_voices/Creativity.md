@@ -18,6 +18,7 @@
 | openrouteraurora-alpha | 9.717 |
 | qwenqwen3.5-122b-a10b | 9.717 |
 | claude-4-sonnet-20250514 | 9.700 |
+| googlegemini-3.1-flash-lite-preview | 9.700 |
 | Grok-4-fast-20251111 | 9.700 |
 | o3-2025-04-16 | 9.700 |
 | o3-pro-2025-06-10 | 9.700 |
@@ -106,6 +107,7 @@
 | gpt-5-pro-2025-10-06 | 9.517 |
 | ministral-3b-2512 | 9.517 |
 | ministral-8b-2512 | 9.517 |
+| openaigpt-5.3-chat | 9.517 |
 | qwenqwen3-next-80b-a3b-thinking | 9.517 |
 | aion-labsaion-2.0 | 9.517 |
 | chatgpt-4o-latest-2025-03-26 | 9.517 |

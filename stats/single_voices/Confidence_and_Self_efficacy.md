@@ -103,6 +103,7 @@
 | qwenqwen3.5-27b | 7.600 |
 | chatgpt-4o-latest-2025-04-26 | 7.583 |
 | gemini-1.5-flash-8b | 7.583 |
+| googlegemini-3.1-flash-lite-preview | 7.583 |
 | nvidiaLlama-3.1-Nemotron-70B-Instruct | 7.583 |
 | o1-pro-2024-12-17 | 7.583 |
 | qwen2.5-7b-instruct-1m | 7.583 |
@@ -194,6 +195,7 @@
 | tngtechdeepseek-r1t-chimerafree | 6.817 |
 | claude-3-opus-20240229 | 6.783 |
 | claude-4-opus-20250514 | 6.783 |
+| openaigpt-5.3-chat | 6.767 |
 | Gpt-5.1-Pro-20251120 | 6.750 |
 | grok-3-mini-beta | 6.750 |
 | QwenQwen3-30B-A3B | 6.733 |

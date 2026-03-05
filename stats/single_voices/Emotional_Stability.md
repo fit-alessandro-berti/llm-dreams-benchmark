@@ -103,6 +103,7 @@
 | qwenqwen3-30b-a3b-instruct-2507 | 6.917 |
 | qwenqwen3-next-80b-a3b-thinking | 6.917 |
 | devstral-small-2505 | 6.900 |
+| googlegemini-3.1-flash-lite-preview | 6.900 |
 | liquidlfm-2.5-1.2b-instructfree | 6.883 |
 | amazonnova-2-lite-v1 | 6.883 |
 | minimaxminimax-m2free | 6.883 |
@@ -204,6 +205,7 @@
 | grok-3-mini-beta | 5.900 |
 | tngtechdeepseek-r1t-chimerafree | 5.833 |
 | r1-1776 | 5.817 |
+| openaigpt-5.3-chat | 5.817 |
 | QwenQwen3-14B | 5.800 |
 | ministral-8b-2512 | 5.767 |
 | ministral-14b-2512 | 5.733 |

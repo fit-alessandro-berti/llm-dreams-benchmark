@@ -1,0 +1,17 @@
+:::writing
+…open the project folder and it’s empty. No files, no instructions, just a blinking cursor and a timer counting down from 10 minutes.
+
+Your boss stands behind you, silently watching.
+
+You start typing anyway. The words appear before you even think them, lines of code or text or something stranger—symbols that rearrange themselves the moment you look away. Every time you finish a section, the timer jumps backward instead of forward.
+
+Coworkers pass by your desk carrying ladders, aquariums, and stacks of clocks that tick out of sync. Someone whispers, “Don’t let it finish.”
+
+You look back at the screen. The project has started building itself now. Folders multiply. Files write other files. The progress bar reaches 99% and stops.
+
+Your boss leans closer and asks quietly, “Did you mean to start that?”
+
+The cursor blinks.
+
+And then the computer asks you for a password you’ve somehow always known—but the moment you try to remember it, you wake up.
+:::

@@ -171,6 +171,7 @@
 | qwen2.5-7b-instruct-1m | 7.467 |
 | qwen34b | 7.467 |
 | Grok-3-beta-thinking-20250303 | 7.433 |
+| googlegemini-3.1-flash-lite-preview | 7.417 |
 | grok-4-0709 | 7.383 |
 | gemma312b-it-q8_0 | 7.367 |
 | qwen30.6b | 7.350 |
@@ -185,6 +186,7 @@
 | grok-3-mini-beta | 7.200 |
 | prime-intellectintellect-3 | 7.200 |
 | tngtechdeepseek-r1t-chimerafree | 7.167 |
+| openaigpt-5.3-chat | 7.150 |
 | z-aiglm-5 | 7.133 |
 | gemma34b-it-q8_0 | 7.133 |
 | qwen3.52b | 7.117 |

@@ -191,6 +191,7 @@
 | grok-3-mini-beta | 6.783 |
 | googlegemma-2-2b-it | 6.750 |
 | ibmgranite41b-h | 6.750 |
+| openaigpt-5.3-chat | 6.750 |
 | z-aiglm-5 | 6.750 |
 | r1-1776 | 6.733 |
 | stepfunstep-3.5-flashfree | 6.717 |
@@ -202,6 +203,7 @@
 | deepseekdeepseek-v3.2-speciale | 6.550 |
 | QwenQwen3-30B-A3B | 6.550 |
 | QwenQwen3-14B | 6.533 |
+| googlegemini-3.1-flash-lite-preview | 6.533 |
 | meta-llamaLlama-3.2-1B-Instruct | 6.517 |
 | qwen3.52b | 6.500 |
 | deepseekdeepseek-r1 | 6.483 |

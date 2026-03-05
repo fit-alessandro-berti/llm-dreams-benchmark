@@ -63,6 +63,7 @@
 | QwenQwen3-32B | 7.533 |
 | writerpalmyra-x5 | 7.533 |
 | deepseek-aiDeepSeek-R1-0528 | 7.517 |
+| openaigpt-5.3-chat | 7.500 |
 | qwenqwen3-max | 7.500 |
 | googlegemma-2-2b-it | 7.483 |
 | meta-llamaMeta-Llama-3.1-405B-Instruct | 7.483 |
@@ -156,6 +157,7 @@
 | gemini-2.0-flash-exp | 6.383 |
 | qwenqwen3-coder | 6.383 |
 | chatgpt-4o-latest-2025-03-26 | 6.333 |
+| googlegemini-3.1-flash-lite-preview | 6.317 |
 | qwenqwen3.5-27b | 6.317 |
 | qwenqwen3.5-plus-02-15 | 6.300 |
 | baiduernie-4.5-300b-a47b | 6.250 |

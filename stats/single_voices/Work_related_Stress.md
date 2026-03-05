@@ -61,6 +61,7 @@
 | claude-3-opus-20240229 | 7.750 |
 | smollm2360m | 7.733 |
 | grok-4-1-fast-reasoning | 7.733 |
+| openaigpt-5.3-chat | 7.717 |
 | gemini-2.0-pro-exp-02-05 | 7.717 |
 | meta-llamaLlama-3.2-3B-Instruct | 7.717 |
 | minimaxminimax-m2-her | 7.700 |
@@ -162,6 +163,7 @@
 | o1-2024-12-05 | 6.533 |
 | gemini-2.5-flash-lite-preview-09-2025 | 6.533 |
 | granite4micro | 6.500 |
+| googlegemini-3.1-flash-lite-preview | 6.483 |
 | qwen2.5-7b-instruct | 6.483 |
 | qwen34b | 6.467 |
 | qwenqwen3.5-plus-02-15 | 6.467 |

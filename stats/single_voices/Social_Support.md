@@ -193,6 +193,7 @@
 | qwen34b | 6.733 |
 | stepfunstep-3.5-flashfree | 6.733 |
 | grok-3-mini-beta | 6.733 |
+| openaigpt-5.3-chat | 6.700 |
 | z-aiglm-5 | 6.700 |
 | meta-llamaMeta-Llama-3.1-8B-Instruct | 6.667 |
 | qwenqwen3.5-397b-a17b | 6.667 |
@@ -216,6 +217,7 @@
 | nvidiallama-3.1-nemotron-nano-8b-v1 | 6.317 |
 | arcee-aitrinity-mini | 6.300 |
 | deepseekdeepseek-r1 | 6.300 |
+| googlegemini-3.1-flash-lite-preview | 6.300 |
 | gemini-2.5-pro-exp-03-25 | 6.267 |
 | ministral-3b-2512 | 6.267 |
 | Qwen-QwQ-32B | 6.217 |

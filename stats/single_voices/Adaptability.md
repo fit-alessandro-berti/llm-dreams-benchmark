@@ -39,6 +39,7 @@
 | open-mistral-7b | 9.000 |
 | open-mixtral-8x7b | 9.000 |
 | openaigpt-oss-120b | 9.000 |
+| qwen3.59b | 9.000 |
 | deepseekdeepseek-v3.2-exp | 8.983 |
 | gpt-4-0613 | 8.983 |
 | gpt-4.1-2025-04-14 | 8.983 |
@@ -206,6 +207,7 @@
 | gpt-5.2-pro-2025-12-11 | 8.300 |
 | qwenqwen3-235b-a22b-thinking-2507 | 8.300 |
 | gemini-2.5-flash-preview-04-17 | 8.283 |
+| aion-labsaion-2.0 | 8.267 |
 | gemini-2.5-pro-exp-03-25 | 8.267 |
 | magistral-medium-2506 | 8.250 |
 | tngtechdeepseek-r1t-chimerafree | 8.183 |
@@ -216,10 +218,12 @@
 | gemini-2.5-flash-preview-05-20 | 8.117 |
 | gpt-5-chat-latest-2025-08-07 | 8.100 |
 | anthropicclaude-sonnet-4.5 | 8.050 |
+| qwen3.52b | 8.050 |
 | gemma31b-it-q8_0 | 8.033 |
 | meta-llamallama-4-maverick | 8.033 |
 | ibmgranite41b-h | 7.983 |
 | gemma34b-it-q8_0 | 7.950 |
+| qwen3.54b | 7.933 |
 | mistral-large-2512 | 7.917 |
 | meta-llamaMeta-Llama-3.1-8B-Instruct | 7.883 |
 | essentialairnj-1-instruct | 7.850 |
@@ -236,4 +240,5 @@
 | arcee-aitrinity-mini | 7.300 |
 | smollm2135m | 7.217 |
 | ibmgranite4350m-h | 7.067 |
+| qwen3.50.8b | 7.050 |
 | smollm2360m | 7.050 |

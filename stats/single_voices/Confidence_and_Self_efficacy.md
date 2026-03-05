@@ -94,6 +94,7 @@
 | anthropicclaude-sonnet-4.6 | 7.667 |
 | allenaiolmo-3.1-32b-instruct | 7.667 |
 | gemini-2.0-flash-exp | 7.667 |
+| qwen3.59b | 7.667 |
 | qwenqwen3.5-plus-02-15 | 7.650 |
 | gpt-5-chat-latest-2025-08-19 | 7.650 |
 | chatgpt-4o-latest-2025-03-26 | 7.633 |
@@ -209,11 +210,13 @@
 | Qwen-QwQ-32B | 6.583 |
 | ministral-14b-2512 | 6.567 |
 | writerpalmyra-x5 | 6.533 |
+| aion-labsaion-2.0 | 6.517 |
 | phi4-mini-reasoning | 6.500 |
 | gpt-5.2-2025-12-11 | 6.500 |
 | meta-llamaMeta-Llama-3.1-8B-Instruct | 6.467 |
 | ministral-3b-2512 | 6.433 |
 | gemini-2.5-flash-preview-09-2025 | 6.317 |
+| qwen3.52b | 6.317 |
 | gpt-5.2-pro-2025-12-11 | 6.300 |
 | gemini-3-pro-preview | 6.267 |
 | meta-llamallama-4-maverick | 6.267 |
@@ -224,6 +227,7 @@
 | qwenqwen3-235b-a22b-thinking-2507 | 6.217 |
 | claude-3-5-haiku-20241022 | 6.183 |
 | smollm2135m | 6.167 |
+| qwen3.54b | 6.117 |
 | gemma34b-it-q8_0 | 6.083 |
 | mistral-small-2506 | 6.033 |
 | nvidiallama-3.1-nemotron-nano-8b-v1 | 6.017 |
@@ -237,3 +241,4 @@
 | moonshotaikimi-k2-thinking | 5.433 |
 | mistralaimistral-small-creative | 5.267 |
 | z-aiglm-4.7 | 5.233 |
+| qwen3.50.8b | 5.150 |

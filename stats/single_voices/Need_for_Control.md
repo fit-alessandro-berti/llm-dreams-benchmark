@@ -8,6 +8,7 @@
 | essentialairnj-1-instruct | 7.033 |
 | mistral-small-2506 | 6.983 |
 | ibmgranite41b-h | 6.867 |
+| qwen3.50.8b | 6.850 |
 | mistralaimistral-small-creative | 6.833 |
 | QwenQwen3-235B-A22B | 6.817 |
 | mistral-large-2512 | 6.767 |
@@ -137,6 +138,7 @@
 | open-mistral-7b | 6.083 |
 | grok-4-1-fast-reasoning | 6.050 |
 | phi3.53.8b-mini-instruct-fp16 | 6.050 |
+| aion-labsaion-2.0 | 6.050 |
 | ministral-3b-2410 | 6.050 |
 | moonshotaikimi-linear-48b-a3b-instruct | 6.033 |
 | gemini-3-pro-preview | 6.017 |
@@ -179,6 +181,7 @@
 | allenaiolmo-3-7b-instruct | 5.800 |
 | microsoftphi-4 | 5.800 |
 | gemini-1.5-flash-002 | 5.767 |
+| qwen3.54b | 5.767 |
 | qwenqwen3-235b-a22b-07-25 | 5.750 |
 | ChatGPT-5.1-Instant-20251113 | 5.750 |
 | minimaxminimax-m2.1 | 5.750 |
@@ -199,6 +202,7 @@
 | gemma-3n-e4b-it | 5.633 |
 | qwenqwen3.5-35b-a3b | 5.617 |
 | gpt-5-pro-2025-10-06 | 5.583 |
+| qwen3.52b | 5.583 |
 | qwen34b | 5.583 |
 | qwenqwen3-coder | 5.583 |
 | openaigpt-oss-20b | 5.533 |
@@ -236,4 +240,5 @@
 | o3-mini-20250131-HIGH | 4.767 |
 | qwenqwen3-coder-next | 4.567 |
 | claude-haiku-4-5-20251001 | 4.533 |
+| qwen3.59b | 4.483 |
 | qwenqwen3.5-122b-a10b | 4.267 |

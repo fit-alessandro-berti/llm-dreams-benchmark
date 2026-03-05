@@ -63,6 +63,7 @@
 | granite4micro | 8.867 |
 | o1-2024-12-05 | 8.867 |
 | phi4-reasoning | 8.867 |
+| qwen3.59b | 8.867 |
 | qwenqwen3-max | 8.867 |
 | anthropicclaude-opus-4.6 | 8.850 |
 | gpt-4.1-2025-04-14 | 8.850 |
@@ -200,6 +201,7 @@
 | grok-3-mini-beta | 7.967 |
 | deepseek-aiDeepSeek-R1-0528 | 7.950 |
 | chatgpt-4o-latest-20250215 | 7.933 |
+| qwen3.52b | 7.917 |
 | claude-3-5-sonnet-20241022 | 7.900 |
 | gemini-2.5-flash-preview-05-20 | 7.900 |
 | gemini-3-pro-preview | 7.900 |
@@ -212,6 +214,7 @@
 | magistral-medium-2506 | 7.700 |
 | gemini-2.5-flash-preview-04-17 | 7.700 |
 | QwenQwen3-235B-A22B | 7.683 |
+| aion-labsaion-2.0 | 7.633 |
 | gemini-2.5-pro-exp-03-25 | 7.617 |
 | gemini-2.5-flash-preview-09-2025 | 7.583 |
 | Qwen-QwQ-32B | 7.567 |
@@ -226,6 +229,7 @@
 | meta-llamaLlama-3.2-1B-Instruct | 7.350 |
 | anthropicclaude-sonnet-4.5 | 7.317 |
 | phi4-mini-reasoning | 7.317 |
+| qwen3.54b | 7.317 |
 | arcee-aitrinity-mini | 7.283 |
 | minimaxminimax-m2-her | 7.283 |
 | claude-3-5-haiku-20241022 | 7.250 |
@@ -235,5 +239,6 @@
 | ibmgranite4350m-h | 6.883 |
 | mistralaimistral-small-creative | 6.850 |
 | mistral-small-2506 | 6.817 |
+| qwen3.50.8b | 6.567 |
 | smollm2135m | 6.533 |
 | smollm2360m | 6.533 |

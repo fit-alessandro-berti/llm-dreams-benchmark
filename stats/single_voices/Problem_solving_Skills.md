@@ -150,6 +150,7 @@
 | minimaxminimax-m2free | 8.233 |
 | z-aiglm-4.5 | 8.233 |
 | gemma-3n-e4b-it | 8.217 |
+| qwen3.59b | 8.217 |
 | qwenqwen3-next-80b-a3b-thinking | 8.200 |
 | qwenqwen3-max | 8.200 |
 | DeepSeek-V3-0324 | 8.183 |
@@ -204,6 +205,7 @@
 | writerpalmyra-x5 | 7.850 |
 | claude-3-5-haiku-20241022 | 7.817 |
 | gemini-2.5-flash-preview-09-2025 | 7.817 |
+| aion-labsaion-2.0 | 7.800 |
 | googlegemma-2-2b-it | 7.800 |
 | ministral-14b-2512 | 7.800 |
 | qwenqwen3.5-27b | 7.783 |
@@ -230,10 +232,13 @@
 | mistral-large-2512 | 7.517 |
 | gemma34b-it-q8_0 | 7.400 |
 | mistral-small-2506 | 7.400 |
+| qwen3.52b | 7.333 |
+| qwen3.54b | 7.333 |
 | ibmgranite4350m-h | 7.283 |
 | gemini-2.0-flash-lite-preview-02-05 | 7.283 |
 | moonshotaikimi-k2-thinking | 7.267 |
 | smollm2360m | 7.250 |
 | anthropicclaude-sonnet-4.5 | 7.117 |
+| qwen3.50.8b | 7.083 |
 | z-aiglm-4.7 | 6.800 |
 | smollm2135m | 6.550 |

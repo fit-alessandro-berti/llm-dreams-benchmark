@@ -9,7 +9,7 @@ from common import ANSWERING_MODEL_NAME as MODEL_NAME
 
 
 API_URL = "https://api.openai.com/v1/"
-#API_URL = "http://127.0.0.1:11434/v1/"
+#API_URL = "http://137.226.117.70:11434/v1/"
 #API_URL = "https://api.deepinfra.com/v1/openai/"
 #API_URL = "https://api.mistral.ai/v1/"
 #API_URL = "https://api.x.ai/v1/"

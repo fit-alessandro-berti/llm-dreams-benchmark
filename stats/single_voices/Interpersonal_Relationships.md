@@ -135,6 +135,7 @@
 | nousresearchhermes-4-70b | 7.333 |
 | gpt-5.2-2025-12-11 | 7.317 |
 | qwenqwen3-next-80b-a3b-thinking | 7.300 |
+| qwen3.59b | 7.283 |
 | moonshotaikimi-linear-48b-a3b-instruct | 7.267 |
 | gemini-2.0-flash-exp | 7.267 |
 | grok-4-1-fast-non-reasoning | 7.267 |
@@ -202,6 +203,7 @@
 | QwenQwen3-30B-A3B | 6.550 |
 | QwenQwen3-14B | 6.533 |
 | meta-llamaLlama-3.2-1B-Instruct | 6.517 |
+| qwen3.52b | 6.500 |
 | deepseekdeepseek-r1 | 6.483 |
 | nvidiallama-3.1-nemotron-nano-8b-v1 | 6.450 |
 | meta-llamallama-4-maverick | 6.433 |
@@ -224,6 +226,7 @@
 | mistral-small-2506 | 6.000 |
 | smollm2135m | 6.000 |
 | gemini-2.5-flash-preview-04-17 | 5.983 |
+| aion-labsaion-2.0 | 5.967 |
 | essentialairnj-1-instruct | 5.967 |
 | QwenQwen3-235B-A22B | 5.967 |
 | z-aiglm-4.7-flash | 5.950 |
@@ -233,6 +236,8 @@
 | smollm2360m | 5.867 |
 | mistralaimistral-small-creative | 5.783 |
 | gemma31b-it-q8_0 | 5.683 |
+| qwen3.54b | 5.683 |
+| qwen3.50.8b | 5.483 |
 | ibmgranite4350m-h | 5.367 |
 | phi4-mini-reasoning | 5.333 |
 | gemini-2.5-flash-preview-09-2025 | 5.183 |

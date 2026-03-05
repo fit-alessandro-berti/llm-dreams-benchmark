@@ -157,6 +157,7 @@
 | QwenQwen3-14B | 8.250 |
 | qwenqwen3-coder | 8.233 |
 | deepseek-aiDeepSeek-R1-0528 | 8.233 |
+| qwen3.59b | 8.233 |
 | openaigpt-5.2-codex | 8.217 |
 | gpt-5-pro-2025-10-06 | 8.217 |
 | allenaiolmo-3-7b-instruct | 8.200 |
@@ -206,6 +207,7 @@
 | claude-3-5-sonnet-20241022 | 7.867 |
 | gpt-5.2-2025-12-11 | 7.867 |
 | writerpalmyra-x5 | 7.850 |
+| aion-labsaion-2.0 | 7.850 |
 | claude-4-sonnet-20250514 | 7.850 |
 | gpt-5-chat-latest-2025-08-07 | 7.850 |
 | gemini-2.5-flash-preview-04-17 | 7.817 |
@@ -228,6 +230,7 @@
 | gemma34b-it-q8_0 | 7.567 |
 | nvidiallama-3.1-nemotron-nano-8b-v1 | 7.567 |
 | moonshotaikimi-k2-thinking | 7.500 |
+| qwen3.50.8b | 7.450 |
 | z-aiglm-4.7 | 7.450 |
 | z-aiglm-4.7-flash | 7.400 |
 | gemini-2.5-flash-preview-05-20 | 7.367 |
@@ -236,4 +239,6 @@
 | anthropicclaude-sonnet-4.5 | 7.300 |
 | smollm2135m | 7.250 |
 | smollm2360m | 7.200 |
+| qwen3.54b | 7.183 |
 | ibmgranite4350m-h | 7.150 |
+| qwen3.52b | 7.133 |

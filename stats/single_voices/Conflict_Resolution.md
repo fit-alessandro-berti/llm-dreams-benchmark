@@ -92,6 +92,7 @@
 | ai21jamba-large-1.7 | 8.150 |
 | qwenqwen3-next-80b-a3b-instruct | 8.133 |
 | Grok-3-20250426-formal | 8.133 |
+| qwen3.59b | 8.133 |
 | anthropicclaude-opus-4.1 | 8.100 |
 | gpt-4-0613 | 8.100 |
 | gpt-4o-mini-2024-11-05 | 8.100 |
@@ -186,6 +187,7 @@
 | tngtechdeepseek-r1t-chimerafree | 7.167 |
 | z-aiglm-5 | 7.133 |
 | gemma34b-it-q8_0 | 7.133 |
+| qwen3.52b | 7.117 |
 | falcon37b-instruct-q8_0 | 7.117 |
 | x-aigrok-code-fast-1 | 7.100 |
 | gemini-2.5-pro-exp-03-25 | 7.083 |
@@ -223,8 +225,11 @@
 | gemini-2.5-flash-lite-preview-06-17 | 6.267 |
 | gemini-2.0-pro-exp-02-05 | 6.233 |
 | gemini-2.5-flash-preview-05-20 | 6.200 |
+| aion-labsaion-2.0 | 6.083 |
 | claude-3-5-haiku-20241022 | 6.000 |
 | mistralaimistral-small-creative | 5.950 |
+| qwen3.54b | 5.833 |
+| qwen3.50.8b | 5.817 |
 | mistral-large-2512 | 5.800 |
 | smollm2135m | 5.800 |
 | essentialairnj-1-instruct | 5.750 |

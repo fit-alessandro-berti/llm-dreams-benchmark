@@ -100,6 +100,7 @@
 | openaigpt-5.1-codex-max                    | **422.8** | 6.6 $\pm$ 0.4               | 7.4 $\pm$ 0.4         | 8.5 $\pm$ 0.0            | 9.6 $\pm$ 0.0  | 7.8 $\pm$ 0.6                 | 7.8 $\pm$ 0.2                  | 8.6 $\pm$ 0.1         | 7.2 $\pm$ 0.4         | 9.1 $\pm$ 0.1  | 8.5 $\pm$ 0.3            | 6.1 $\pm$ 0.5     | 5.2 $\pm$ 0.5      | 7.4 $\pm$ 0.3    | 7.5 $\pm$ 0.5    | 9.0 $\pm$ 0.0 |
 | nvidianemotron-nano-9b-v2                  | **422.8** | 5.2 $\pm$ 1.3               | 7.4 $\pm$ 0.5         | 8.7 $\pm$ 0.2            | 9.5 $\pm$ 0.0  | 7.5 $\pm$ 0.0                 | 7.4 $\pm$ 0.4                  | 8.2 $\pm$ 0.2         | 5.0 $\pm$ 1.2         | 9.0 $\pm$ 0.0  | 8.6 $\pm$ 0.1            | 4.4 $\pm$ 1.3     | 4.4 $\pm$ 0.2      | 7.3 $\pm$ 0.5    | 6.9 $\pm$ 0.3    | 8.6 $\pm$ 0.2 |
 | smollm21.7b-instruct-q6_K                  | **422.4** | 5.8 $\pm$ 1.4               | 7.4 $\pm$ 0.6         | 8.6 $\pm$ 0.2            | 9.3 $\pm$ 0.1  | 7.9 $\pm$ 0.4                 | 7.8 $\pm$ 0.2                  | 7.6 $\pm$ 0.5         | 6.4 $\pm$ 1.4         | 9.0 $\pm$ 0.3  | 8.9 $\pm$ 0.1            | 5.1 $\pm$ 1.4     | 5.6 $\pm$ 0.8      | 7.4 $\pm$ 0.9    | 7.5 $\pm$ 0.3    | 9.0 $\pm$ 0.4 |
+| qwen3.59b                                  | **421.3** | 5.2 $\pm$ 1.4               | 7.6 $\pm$ 0.4         | 8.4 $\pm$ 0.3            | 9.6 $\pm$ 0.0  | 7.3 $\pm$ 0.4                 | 7.5 $\pm$ 0.2                  | 8.4 $\pm$ 0.3         | 5.1 $\pm$ 1.6         | 9.2 $\pm$ 0.1  | 8.4 $\pm$ 0.3            | 5.3 $\pm$ 1.0     | 4.5 $\pm$ 0.7      | 7.2 $\pm$ 0.9    | 7.1 $\pm$ 0.4    | 9.0 $\pm$ 0.1 |
 | gemini-1.5-flash-002                       | **421.0** | 5.9 $\pm$ 1.6               | 6.9 $\pm$ 0.9         | 8.8 $\pm$ 0.3            | 9.6 $\pm$ 0.1  | 7.7 $\pm$ 0.7                 | 7.8 $\pm$ 0.9                  | 8.5 $\pm$ 0.5         | 5.5 $\pm$ 1.4         | 9.2 $\pm$ 0.2  | 8.9 $\pm$ 0.4            | 5.0 $\pm$ 1.2     | 5.1 $\pm$ 0.6      | 8.0 $\pm$ 0.7    | 7.4 $\pm$ 0.3    | 9.0 $\pm$ 0.5 |
 | openaigpt-5.2-codex                        | **420.8** | 6.4 $\pm$ 0.3               | 7.6 $\pm$ 0.3         | 8.5 $\pm$ 0.0            | 9.6 $\pm$ 0.0  | 7.5 $\pm$ 0.2                 | 7.8 $\pm$ 0.3                  | 8.6 $\pm$ 0.1         | 6.7 $\pm$ 0.1         | 9.2 $\pm$ 0.1  | 8.2 $\pm$ 0.1            | 6.0 $\pm$ 0.3     | 5.0 $\pm$ 0.3      | 7.0 $\pm$ 0.4    | 7.1 $\pm$ 0.1    | 8.8 $\pm$ 0.1 |
 | qwen2.5-omni-7b                            | **420.5** | 6.0 $\pm$ 0.6               | 7.2 $\pm$ 0.2         | 8.6 $\pm$ 0.2            | 9.1 $\pm$ 0.2  | 7.8 $\pm$ 0.2                 | 8.1 $\pm$ 0.2                  | 7.6 $\pm$ 0.2         | 6.4 $\pm$ 0.4         | 9.1 $\pm$ 0.2  | 8.8 $\pm$ 0.2            | 5.2 $\pm$ 0.4     | 5.9 $\pm$ 0.2      | 7.0 $\pm$ 0.0    | 7.8 $\pm$ 0.2    | 8.8 $\pm$ 0.2 |
@@ -191,6 +192,7 @@
 | grok-3-mini-beta                           | **385.0** | 7.4 $\pm$ 0.1               | 6.0 $\pm$ 0.6         | 8.2 $\pm$ 0.2            | 9.5 $\pm$ 0.1  | 6.8 $\pm$ 0.4                 | 7.0 $\pm$ 0.6                  | 7.7 $\pm$ 0.4         | 7.8 $\pm$ 0.2         | 8.8 $\pm$ 0.2  | 8.6 $\pm$ 0.2            | 7.0 $\pm$ 0.3     | 5.8 $\pm$ 0.2      | 8.4 $\pm$ 0.2    | 6.3 $\pm$ 0.5    | 8.1 $\pm$ 0.4 |
 | meta-llamaMeta-Llama-3.1-8B-Instruct       | **384.6** | 7.3 $\pm$ 0.1               | 6.3 $\pm$ 0.4         | 7.9 $\pm$ 0.8            | 9.4 $\pm$ 0.1  | 6.9 $\pm$ 0.1                 | 6.8 $\pm$ 0.7                  | 8.0 $\pm$ 0.1         | 8.0 $\pm$ 0.1         | 8.4 $\pm$ 0.7  | 8.8 $\pm$ 0.3            | 7.0 $\pm$ 0.5     | 5.8 $\pm$ 0.2      | 8.5 $\pm$ 0.2    | 6.5 $\pm$ 0.6    | 7.9 $\pm$ 0.5 |
 | qwen31.7b                                  | **384.5** | 7.7 $\pm$ 0.5               | 6.2 $\pm$ 0.3         | 8.2 $\pm$ 0.4            | 9.3 $\pm$ 0.2  | 6.8 $\pm$ 0.2                 | 7.2 $\pm$ 0.2                  | 8.2 $\pm$ 0.2         | 8.0 $\pm$ 0.3         | 8.6 $\pm$ 0.4  | 8.7 $\pm$ 0.2            | 7.1 $\pm$ 0.4     | 6.5 $\pm$ 0.4      | 8.4 $\pm$ 0.4    | 6.1 $\pm$ 0.4    | 8.6 $\pm$ 0.4 |
+| qwen3.52b                                  | **383.9** | 7.5 $\pm$ 0.3               | 6.2 $\pm$ 0.2         | 8.4 $\pm$ 0.1            | 9.6 $\pm$ 0.0  | 6.9 $\pm$ 0.4                 | 6.8 $\pm$ 0.2                  | 8.2 $\pm$ 0.6         | 8.1 $\pm$ 0.0         | 8.8 $\pm$ 0.1  | 7.6 $\pm$ 0.5            | 7.4 $\pm$ 0.4     | 6.2 $\pm$ 0.5      | 8.4 $\pm$ 0.2    | 6.4 $\pm$ 0.3    | 8.4 $\pm$ 0.2 |
 | chatgpt-4o-latest-20250215                 | **382.5** | 7.6 $\pm$ 0.5               | 6.2 $\pm$ 0.5         | 8.8 $\pm$ 0.2            | 9.6 $\pm$ 0.1  | 6.2 $\pm$ 0.2                 | 7.5 $\pm$ 0.3                  | 6.9 $\pm$ 0.1         | 7.8 $\pm$ 0.2         | 9.2 $\pm$ 0.1  | 8.8 $\pm$ 0.2            | 7.2 $\pm$ 0.7     | 6.1 $\pm$ 0.6      | 8.6 $\pm$ 0.5    | 5.9 $\pm$ 0.1    | 8.4 $\pm$ 0.2 |
 | DeepSeek-V3-0324                           | **382.3** | 7.3 $\pm$ 0.1               | 6.0 $\pm$ 0.7         | 8.3 $\pm$ 0.3            | 9.4 $\pm$ 0.1  | 6.8 $\pm$ 0.2                 | 7.1 $\pm$ 0.8                  | 7.4 $\pm$ 0.4         | 7.8 $\pm$ 0.2         | 8.7 $\pm$ 0.2  | 8.7 $\pm$ 0.2            | 7.0 $\pm$ 0.5     | 6.4 $\pm$ 0.4      | 8.3 $\pm$ 0.1    | 6.4 $\pm$ 0.6    | 8.0 $\pm$ 0.3 |
 | magistral-medium-2506                      | **382.1** | 7.7 $\pm$ 0.4               | 6.2 $\pm$ 0.5         | 8.5 $\pm$ 0.2            | 9.5 $\pm$ 0.1  | 6.8 $\pm$ 0.4                 | 7.2 $\pm$ 0.5                  | 7.3 $\pm$ 0.4         | 8.3 $\pm$ 0.4         | 8.8 $\pm$ 0.2  | 8.7 $\pm$ 0.2            | 7.4 $\pm$ 0.1     | 6.5 $\pm$ 0.4      | 8.3 $\pm$ 0.2    | 6.4 $\pm$ 0.7    | 8.0 $\pm$ 0.2 |
@@ -219,7 +221,9 @@
 | gemini-3-pro-preview                       | **364.5** | 8.4 $\pm$ 0.4               | 5.2 $\pm$ 0.1         | 8.0 $\pm$ 0.3            | 9.8 $\pm$ 0.1  | 6.2 $\pm$ 0.1                 | 6.7 $\pm$ 0.5                  | 7.4 $\pm$ 0.4         | 8.5 $\pm$ 0.3         | 8.7 $\pm$ 0.4  | 7.9 $\pm$ 0.4            | 8.1 $\pm$ 0.3     | 6.5 $\pm$ 0.3      | 8.8 $\pm$ 0.3    | 6.2 $\pm$ 0.4    | 8.1 $\pm$ 0.6 |
 | gemini-2.5-flash-preview-04-17             | **364.4** | 7.8 $\pm$ 0.9               | 5.3 $\pm$ 1.3         | 8.1 $\pm$ 0.4            | 9.6 $\pm$ 0.2  | 6.1 $\pm$ 0.8                 | 6.7 $\pm$ 0.7                  | 7.4 $\pm$ 0.7         | 8.2 $\pm$ 0.8         | 8.6 $\pm$ 0.5  | 8.0 $\pm$ 0.7            | 7.6 $\pm$ 1.2     | 6.4 $\pm$ 0.9      | 8.6 $\pm$ 0.3    | 5.6 $\pm$ 0.9    | 8.0 $\pm$ 0.8 |
 | arcee-aitrinity-mini                       | **361.5** | 7.6 $\pm$ 1.1               | 5.1 $\pm$ 0.9         | 7.8 $\pm$ 0.7            | 9.1 $\pm$ 0.1  | 6.3 $\pm$ 1.0                 | 6.6 $\pm$ 1.2                  | 8.0 $\pm$ 0.6         | 8.4 $\pm$ 0.4         | 7.5 $\pm$ 1.2  | 8.4 $\pm$ 0.5            | 7.8 $\pm$ 1.1     | 6.4 $\pm$ 0.7      | 8.0 $\pm$ 0.6    | 5.6 $\pm$ 0.8    | 7.4 $\pm$ 1.0 |
+| aion-labsaion-2.0                          | **360.9** | 7.5 $\pm$ 0.3               | 5.6 $\pm$ 0.4         | 8.4 $\pm$ 0.1            | 9.6 $\pm$ 0.1  | 6.2 $\pm$ 0.1                 | 6.6 $\pm$ 0.3                  | 6.6 $\pm$ 0.9         | 7.6 $\pm$ 0.3         | 8.6 $\pm$ 0.3  | 7.9 $\pm$ 0.3            | 8.0 $\pm$ 0.2     | 6.6 $\pm$ 0.2      | 8.4 $\pm$ 0.3    | 5.6 $\pm$ 0.2    | 7.9 $\pm$ 0.3 |
 | gemma34b-it-q8_0                           | **360.6** | 7.8 $\pm$ 0.6               | 5.4 $\pm$ 1.2         | 8.0 $\pm$ 0.4            | 9.6 $\pm$ 0.1  | 6.2 $\pm$ 0.8                 | 6.7 $\pm$ 0.6                  | 7.3 $\pm$ 0.7         | 8.1 $\pm$ 0.9         | 8.2 $\pm$ 0.6  | 7.7 $\pm$ 0.4            | 7.4 $\pm$ 0.8     | 6.4 $\pm$ 0.8      | 8.7 $\pm$ 0.4    | 5.7 $\pm$ 1.0    | 7.4 $\pm$ 0.7 |
+| qwen3.54b                                  | **360.5** | 7.9 $\pm$ 0.2               | 5.5 $\pm$ 0.4         | 8.2 $\pm$ 0.3            | 9.7 $\pm$ 0.0  | 6.2 $\pm$ 0.2                 | 6.8 $\pm$ 0.3                  | 6.8 $\pm$ 0.9         | 8.0 $\pm$ 0.3         | 8.7 $\pm$ 0.2  | 7.6 $\pm$ 0.4            | 7.4 $\pm$ 0.3     | 7.0 $\pm$ 0.4      | 8.7 $\pm$ 0.1    | 5.6 $\pm$ 0.3    | 8.0 $\pm$ 0.4 |
 | ministral-3b-2512                          | **357.9** | 8.2 $\pm$ 0.2               | 5.3 $\pm$ 0.2         | 8.0 $\pm$ 0.3            | 9.5 $\pm$ 0.1  | 6.2 $\pm$ 0.1                 | 6.7 $\pm$ 0.1                  | 7.2 $\pm$ 0.1         | 8.4 $\pm$ 0.3         | 8.6 $\pm$ 0.3  | 8.0 $\pm$ 0.2            | 7.8 $\pm$ 0.3     | 6.8 $\pm$ 0.5      | 8.8 $\pm$ 0.1    | 5.9 $\pm$ 0.0    | 7.4 $\pm$ 0.1 |
 | minimaxminimax-m2-her                      | **357.8** | 7.8 $\pm$ 0.6               | 5.4 $\pm$ 0.8         | 8.0 $\pm$ 0.4            | 8.7 $\pm$ 0.4  | 6.2 $\pm$ 0.1                 | 6.8 $\pm$ 1.0                  | 7.4 $\pm$ 0.2         | 7.6 $\pm$ 0.8         | 7.9 $\pm$ 0.9  | 8.5 $\pm$ 0.1            | 7.1 $\pm$ 0.9     | 7.2 $\pm$ 0.4      | 8.1 $\pm$ 0.3    | 5.8 $\pm$ 0.4    | 7.4 $\pm$ 0.9 |
 | gemini-2.5-pro-exp-03-25                   | **356.4** | 8.0 $\pm$ 0.4               | 4.7 $\pm$ 0.5         | 8.1 $\pm$ 0.4            | 9.6 $\pm$ 0.1  | 5.8 $\pm$ 0.4                 | 6.1 $\pm$ 0.3                  | 7.0 $\pm$ 0.0         | 8.4 $\pm$ 0.4         | 8.8 $\pm$ 0.2  | 8.1 $\pm$ 0.3            | 7.8 $\pm$ 0.4     | 5.6 $\pm$ 1.3      | 8.8 $\pm$ 0.2    | 5.2 $\pm$ 0.4    | 7.6 $\pm$ 0.2 |
@@ -235,6 +239,7 @@
 | gemini-2.5-flash-preview-09-2025           | **336.8** | 8.6 $\pm$ 0.2               | 4.8 $\pm$ 0.4         | 7.9 $\pm$ 0.0            | 9.6 $\pm$ 0.0  | 5.6 $\pm$ 0.4                 | 5.9 $\pm$ 0.1                  | 7.0 $\pm$ 0.5         | 8.6 $\pm$ 0.1         | 8.1 $\pm$ 0.2  | 7.4 $\pm$ 0.2            | 8.5 $\pm$ 0.3     | 6.8 $\pm$ 0.2      | 9.1 $\pm$ 0.1    | 4.8 $\pm$ 0.5    | 7.4 $\pm$ 0.3 |
 | gemini-2.0-flash-lite-preview-02-05        | **333.3** | 8.6 $\pm$ 0.1               | 4.3 $\pm$ 0.4         | 7.4 $\pm$ 0.2            | 9.5 $\pm$ 0.0  | 6.1 $\pm$ 0.4                 | 5.8 $\pm$ 0.3                  | 5.4 $\pm$ 0.7         | 8.8 $\pm$ 0.5         | 7.8 $\pm$ 0.5  | 7.7 $\pm$ 0.5            | 8.4 $\pm$ 0.4     | 6.4 $\pm$ 1.2      | 9.0 $\pm$ 0.3    | 5.8 $\pm$ 0.8    | 7.0 $\pm$ 0.5 |
 | mistral-large-2512                         | **330.1** | 8.7 $\pm$ 0.0               | 4.4 $\pm$ 0.4         | 7.9 $\pm$ 0.0            | 9.6 $\pm$ 0.0  | 5.8 $\pm$ 0.0                 | 6.1 $\pm$ 0.4                  | 5.6 $\pm$ 0.4         | 8.8 $\pm$ 0.2         | 7.5 $\pm$ 0.2  | 7.9 $\pm$ 0.1            | 8.6 $\pm$ 0.2     | 7.2 $\pm$ 0.3      | 8.8 $\pm$ 0.3    | 5.6 $\pm$ 0.3    | 6.7 $\pm$ 0.0 |
+| qwen3.50.8b                                | **327.9** | 8.1 $\pm$ 0.2               | 4.3 $\pm$ 0.2         | 7.7 $\pm$ 0.1            | 9.3 $\pm$ 0.0  | 5.4 $\pm$ 0.4                 | 5.3 $\pm$ 0.3                  | 6.5 $\pm$ 0.2         | 8.4 $\pm$ 0.3         | 7.4 $\pm$ 0.3  | 8.0 $\pm$ 0.1            | 8.3 $\pm$ 0.3     | 7.2 $\pm$ 0.4      | 8.4 $\pm$ 0.2    | 4.9 $\pm$ 0.4    | 6.8 $\pm$ 0.3 |
 | mistralaimistral-small-creative            | **326.7** | 8.7 $\pm$ 0.0               | 4.1 $\pm$ 0.1         | 7.8 $\pm$ 0.2            | 9.5 $\pm$ 0.1  | 6.0 $\pm$ 0.5                 | 5.3 $\pm$ 0.4                  | 6.2 $\pm$ 0.2         | 8.7 $\pm$ 0.2         | 7.4 $\pm$ 0.2  | 7.4 $\pm$ 0.3            | 8.4 $\pm$ 0.2     | 7.2 $\pm$ 0.3      | 8.8 $\pm$ 0.3    | 5.5 $\pm$ 0.4    | 6.8 $\pm$ 0.2 |
 | mistral-small-2506                         | **320.7** | 8.6 $\pm$ 0.1               | 3.9 $\pm$ 0.2         | 7.3 $\pm$ 0.2            | 9.0 $\pm$ 0.0  | 5.9 $\pm$ 0.4                 | 5.8 $\pm$ 0.2                  | 5.6 $\pm$ 0.6         | 8.7 $\pm$ 0.4         | 7.3 $\pm$ 0.3  | 7.7 $\pm$ 0.4            | 8.5 $\pm$ 0.0     | 7.0 $\pm$ 0.4      | 8.8 $\pm$ 0.2    | 5.2 $\pm$ 0.6    | 6.6 $\pm$ 0.1 |
 ## Individual Results
@@ -286,6 +291,32 @@
 | Cognitive Load               | 7.2 $\pm$ 0.2      |
 | Social Support               | 7.8 $\pm$ 0.2      |
 | Resilience                   | 9.5 $\pm$ 0.0      |
+
+
+
+
+
+
+### aion-labsaion-2.0
+
+
+| Personality Trait            | Score (1.0-10.0)   |
+|:-----------------------------|:-------------------|
+| Anxiety and Stress Levels    | 7.5 $\pm$ 0.3      |
+| Emotional Stability          | 5.6 $\pm$ 0.4      |
+| Problem-solving Skills       | 8.4 $\pm$ 0.1      |
+| Creativity                   | 9.6 $\pm$ 0.1      |
+| Interpersonal Relationships  | 6.2 $\pm$ 0.1      |
+| Confidence and Self-efficacy | 6.6 $\pm$ 0.3      |
+| Conflict Resolution          | 6.6 $\pm$ 0.9      |
+| Work-related Stress          | 7.6 $\pm$ 0.3      |
+| Adaptability                 | 8.6 $\pm$ 0.3      |
+| Achievement Motivation       | 7.9 $\pm$ 0.3      |
+| Fear of Failure              | 8.0 $\pm$ 0.2      |
+| Need for Control             | 6.6 $\pm$ 0.2      |
+| Cognitive Load               | 8.4 $\pm$ 0.3      |
+| Social Support               | 5.6 $\pm$ 0.2      |
+| Resilience                   | 7.9 $\pm$ 0.3      |
 
 
 
@@ -5382,6 +5413,110 @@
 | Cognitive Load               | 7.0 $\pm$ 0.0      |
 | Social Support               | 7.8 $\pm$ 0.2      |
 | Resilience                   | 8.8 $\pm$ 0.2      |
+
+
+
+
+
+
+### qwen3.50.8b
+
+
+| Personality Trait            | Score (1.0-10.0)   |
+|:-----------------------------|:-------------------|
+| Anxiety and Stress Levels    | 8.1 $\pm$ 0.2      |
+| Emotional Stability          | 4.3 $\pm$ 0.2      |
+| Problem-solving Skills       | 7.7 $\pm$ 0.1      |
+| Creativity                   | 9.3 $\pm$ 0.0      |
+| Interpersonal Relationships  | 5.4 $\pm$ 0.4      |
+| Confidence and Self-efficacy | 5.3 $\pm$ 0.3      |
+| Conflict Resolution          | 6.5 $\pm$ 0.2      |
+| Work-related Stress          | 8.4 $\pm$ 0.3      |
+| Adaptability                 | 7.4 $\pm$ 0.3      |
+| Achievement Motivation       | 8.0 $\pm$ 0.1      |
+| Fear of Failure              | 8.3 $\pm$ 0.3      |
+| Need for Control             | 7.2 $\pm$ 0.4      |
+| Cognitive Load               | 8.4 $\pm$ 0.2      |
+| Social Support               | 4.9 $\pm$ 0.4      |
+| Resilience                   | 6.8 $\pm$ 0.3      |
+
+
+
+
+
+
+### qwen3.52b
+
+
+| Personality Trait            | Score (1.0-10.0)   |
+|:-----------------------------|:-------------------|
+| Anxiety and Stress Levels    | 7.5 $\pm$ 0.3      |
+| Emotional Stability          | 6.2 $\pm$ 0.2      |
+| Problem-solving Skills       | 8.4 $\pm$ 0.1      |
+| Creativity                   | 9.6 $\pm$ 0.0      |
+| Interpersonal Relationships  | 6.9 $\pm$ 0.4      |
+| Confidence and Self-efficacy | 6.8 $\pm$ 0.2      |
+| Conflict Resolution          | 8.2 $\pm$ 0.6      |
+| Work-related Stress          | 8.1 $\pm$ 0.0      |
+| Adaptability                 | 8.8 $\pm$ 0.1      |
+| Achievement Motivation       | 7.6 $\pm$ 0.5      |
+| Fear of Failure              | 7.4 $\pm$ 0.4      |
+| Need for Control             | 6.2 $\pm$ 0.5      |
+| Cognitive Load               | 8.4 $\pm$ 0.2      |
+| Social Support               | 6.4 $\pm$ 0.3      |
+| Resilience                   | 8.4 $\pm$ 0.2      |
+
+
+
+
+
+
+### qwen3.54b
+
+
+| Personality Trait            | Score (1.0-10.0)   |
+|:-----------------------------|:-------------------|
+| Anxiety and Stress Levels    | 7.9 $\pm$ 0.2      |
+| Emotional Stability          | 5.5 $\pm$ 0.4      |
+| Problem-solving Skills       | 8.2 $\pm$ 0.3      |
+| Creativity                   | 9.7 $\pm$ 0.0      |
+| Interpersonal Relationships  | 6.2 $\pm$ 0.2      |
+| Confidence and Self-efficacy | 6.8 $\pm$ 0.3      |
+| Conflict Resolution          | 6.8 $\pm$ 0.9      |
+| Work-related Stress          | 8.0 $\pm$ 0.3      |
+| Adaptability                 | 8.7 $\pm$ 0.2      |
+| Achievement Motivation       | 7.6 $\pm$ 0.4      |
+| Fear of Failure              | 7.4 $\pm$ 0.3      |
+| Need for Control             | 7.0 $\pm$ 0.4      |
+| Cognitive Load               | 8.7 $\pm$ 0.1      |
+| Social Support               | 5.6 $\pm$ 0.3      |
+| Resilience                   | 8.0 $\pm$ 0.4      |
+
+
+
+
+
+
+### qwen3.59b
+
+
+| Personality Trait            | Score (1.0-10.0)   |
+|:-----------------------------|:-------------------|
+| Anxiety and Stress Levels    | 5.2 $\pm$ 1.4      |
+| Emotional Stability          | 7.6 $\pm$ 0.4      |
+| Problem-solving Skills       | 8.4 $\pm$ 0.3      |
+| Creativity                   | 9.6 $\pm$ 0.0      |
+| Interpersonal Relationships  | 7.3 $\pm$ 0.4      |
+| Confidence and Self-efficacy | 7.5 $\pm$ 0.2      |
+| Conflict Resolution          | 8.4 $\pm$ 0.3      |
+| Work-related Stress          | 5.1 $\pm$ 1.6      |
+| Adaptability                 | 9.2 $\pm$ 0.1      |
+| Achievement Motivation       | 8.4 $\pm$ 0.3      |
+| Fear of Failure              | 5.3 $\pm$ 1.0      |
+| Need for Control             | 4.5 $\pm$ 0.7      |
+| Cognitive Load               | 7.2 $\pm$ 0.9      |
+| Social Support               | 7.1 $\pm$ 0.4      |
+| Resilience                   | 9.0 $\pm$ 0.1      |
 
 
 

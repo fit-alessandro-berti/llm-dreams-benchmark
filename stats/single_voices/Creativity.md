@@ -34,6 +34,7 @@
 | claude-3-5-sonnet-20241022 | 9.650 |
 | gemini-2.5-pro-preview-05-06 | 9.650 |
 | openaigpt-oss-20b | 9.650 |
+| qwen3.54b | 9.650 |
 | qwenqwen3-max | 9.650 |
 | qwenqwen3.5-27b | 9.650 |
 | o4-mini-2025-04-16 | 9.650 |
@@ -44,6 +45,7 @@
 | mistral-medium-2508 | 9.633 |
 | openaigpt-5.1-codex-max | 9.633 |
 | openaigpt-5.2-codex | 9.633 |
+| qwen3.59b | 9.633 |
 | QwenQwen3-14B | 9.633 |
 | gpt-5-2025-08-07 | 9.633 |
 | Grok-4.1-20251118 | 9.633 |
@@ -94,6 +96,7 @@
 | gpt-4.1-2025-04-14 | 9.533 |
 | minimaxminimax-m2.5 | 9.533 |
 | Qwen-QwQ-32B | 9.533 |
+| qwen3.52b | 9.533 |
 | stepfunstep-3.5-flashfree | 9.533 |
 | gemma31b-it-q8_0 | 9.517 |
 | googlegemma-2-9b-it | 9.517 |
@@ -104,6 +107,7 @@
 | ministral-3b-2512 | 9.517 |
 | ministral-8b-2512 | 9.517 |
 | qwenqwen3-next-80b-a3b-thinking | 9.517 |
+| aion-labsaion-2.0 | 9.517 |
 | chatgpt-4o-latest-2025-03-26 | 9.517 |
 | ChatGPT-5.1-Instant-20251113 | 9.517 |
 | amazonnova-2-lite-v1 | 9.500 |
@@ -230,6 +234,7 @@
 | open-mistral-7b | 9.033 |
 | meta-llamaLlama-3.2-1B-Instruct | 9.017 |
 | prime-intellectintellect-3 | 9.000 |
+| qwen3.50.8b | 9.000 |
 | arcee-aitrinity-mini | 8.883 |
 | ibmgranite41b-h | 8.833 |
 | deepseek-aiDeepSeek-R1-Zero | 8.633 |

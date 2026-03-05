@@ -12,6 +12,7 @@
 | QwenQwen3-235B-A22B | 8.400 |
 | mistral-large-2512 | 8.350 |
 | gemini-3-pro-preview | 8.333 |
+| qwen3.52b | 8.333 |
 | anthropicclaude-sonnet-4.5 | 8.283 |
 | gemini-2.5-pro-exp-03-25 | 8.267 |
 | qwenqwen3-235b-a22b-thinking-2507 | 8.250 |
@@ -38,6 +39,7 @@
 | Gpt-5.1-Pro-20251120 | 7.917 |
 | meta-llamallama-4-scout | 7.917 |
 | meta-llamaMeta-Llama-3.1-8B-Instruct | 7.917 |
+| qwen3.50.8b | 7.917 |
 | z-aiglm-4.5 | 7.900 |
 | Qwen-QwQ-32B | 7.900 |
 | deepseekdeepseek-r1 | 7.867 |
@@ -47,6 +49,7 @@
 | writerpalmyra-x5 | 7.850 |
 | z-aiglm-5 | 7.850 |
 | Gemini-1.5-Pro-Exp-0801 | 7.817 |
+| aion-labsaion-2.0 | 7.817 |
 | gpt-4o-mini-2024-11-05 | 7.800 |
 | prime-intellectintellect-3 | 7.800 |
 | claude-3-5-haiku-20241022 | 7.783 |
@@ -97,6 +100,7 @@
 | googlegemini-3.1-pro-preview | 7.267 |
 | chatgpt-4o-latest-2025-04-26 | 7.267 |
 | Grok-3-beta-thinking-20250303 | 7.250 |
+| qwen3.54b | 7.250 |
 | deepseekdeepseek-v3.2-speciale | 7.233 |
 | moonshotaikimi-k2 | 7.233 |
 | deepseek-aiDeepSeek-R1-Zero | 7.200 |
@@ -183,6 +187,7 @@
 | qwenqwen3-coder | 6.150 |
 | phi3.53.8b-mini-instruct-fp16 | 6.133 |
 | gpt-4-0613 | 6.083 |
+| qwen3.59b | 6.050 |
 | qwen-turbo-2024-11-01 | 6.050 |
 | codex-mini-latest | 6.033 |
 | deepseekdeepseek-v3.2-exp | 6.017 |

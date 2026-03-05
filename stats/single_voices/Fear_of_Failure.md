@@ -14,9 +14,11 @@
 | gemini-2.5-pro-exp-03-25 | 7.733 |
 | anthropicclaude-sonnet-4.5 | 7.717 |
 | QwenQwen3-235B-A22B | 7.700 |
+| qwen3.50.8b | 7.700 |
 | gemini-3-pro-preview | 7.700 |
 | gemini-2.5-flash-preview-04-17 | 7.600 |
 | gemini-2.5-flash-preview-05-20 | 7.600 |
+| aion-labsaion-2.0 | 7.583 |
 | gemma34b-it-q8_0 | 7.567 |
 | gpt-5.2-pro-2025-12-11 | 7.550 |
 | Gemini-1.5-Pro-Exp-0801 | 7.517 |
@@ -37,6 +39,7 @@
 | claude-3-5-haiku-20241022 | 7.233 |
 | gpt-5-chat-latest-2025-08-07 | 7.200 |
 | grok-3-mini-beta | 7.200 |
+| qwen3.52b | 7.183 |
 | r1-1776 | 7.167 |
 | smollm2360m | 7.150 |
 | Qwen-QwQ-32B | 7.133 |
@@ -59,6 +62,7 @@
 | deepseekdeepseek-r1 | 6.883 |
 | googlegemma-2-2b-it | 6.883 |
 | qwen-plus-0428 | 6.833 |
+| qwen3.54b | 6.833 |
 | z-aiglm-5 | 6.833 |
 | ministral-8b-2512 | 6.800 |
 | moonshotaikimi-k2.5 | 6.800 |
@@ -180,6 +184,7 @@
 | qwen-plus-2025-01-25 | 5.183 |
 | claude-haiku-4-5-20251001 | 5.167 |
 | gpt-4-0613 | 5.167 |
+| qwen3.59b | 5.150 |
 | anthropicclaude-sonnet-4.6 | 5.117 |
 | Grok-4-fast | 5.117 |
 | liquidlfm-2.2-6b | 5.083 |

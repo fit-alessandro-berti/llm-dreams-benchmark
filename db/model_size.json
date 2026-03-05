@@ -68,6 +68,7 @@
     52,
     12
   ],
+  "aion-labsaion-2.0": [],
   "allenaiolmo-3-7b-instruct": [
     7
   ],
@@ -683,6 +684,10 @@
   "qwen2.5-omni-7b": [
     7
   ],
+  "qwen3.50.8b": [],
+  "qwen3.52b": [],
+  "qwen3.54b": [],
+  "qwen3.59b": [],
   "qwen30.6b": [
     0.6
   ],

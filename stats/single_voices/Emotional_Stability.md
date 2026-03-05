@@ -63,6 +63,7 @@
 | o1-2024-12-17 | 7.383 |
 | liquidlfm-2.2-6b | 7.350 |
 | granite4micro-h | 7.333 |
+| qwen3.59b | 7.333 |
 | gpt-5-pro-2025-10-06 | 7.300 |
 | openaigpt-oss-20b | 7.300 |
 | gpt-4.1-nano-2025-04-14 | 7.300 |
@@ -211,6 +212,7 @@
 | meta-llamaMeta-Llama-3.1-8B-Instruct | 5.633 |
 | essentialairnj-1-instruct | 5.600 |
 | meta-llamaLlama-3.2-1B-Instruct | 5.567 |
+| qwen3.52b | 5.483 |
 | phi4-mini-reasoning | 5.467 |
 | claude-3-5-haiku-20241022 | 5.467 |
 | gpt-5-chat-latest-2025-08-07 | 5.417 |
@@ -219,9 +221,11 @@
 | gemma31b-it-q8_0 | 5.217 |
 | ministral-3b-2512 | 5.217 |
 | minimaxminimax-m2-her | 5.217 |
+| aion-labsaion-2.0 | 5.183 |
 | gemini-2.5-flash-preview-09-2025 | 5.167 |
 | gemini-2.5-flash-preview-04-17 | 5.150 |
 | QwenQwen3-235B-A22B | 5.150 |
+| qwen3.54b | 5.117 |
 | anthropicclaude-sonnet-4.5 | 5.083 |
 | arcee-aitrinity-mini | 5.083 |
 | gemini-3-pro-preview | 5.017 |
@@ -231,6 +235,7 @@
 | meta-llamallama-4-maverick | 4.883 |
 | gemini-2.0-flash-lite-preview-02-05 | 4.783 |
 | smollm2135m | 4.717 |
+| qwen3.50.8b | 4.650 |
 | smollm2360m | 4.650 |
 | mistral-small-2506 | 4.617 |
 | moonshotaikimi-k2-thinking | 4.617 |

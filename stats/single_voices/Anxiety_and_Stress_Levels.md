@@ -19,6 +19,8 @@
 | gemini-2.5-pro-exp-03-25 | 8.100 |
 | ministral-3b-2512 | 8.050 |
 | meta-llamallama-4-maverick | 8.033 |
+| qwen3.50.8b | 8.033 |
+| aion-labsaion-2.0 | 7.883 |
 | Grok-4.1-20251118 | 7.850 |
 | prime-intellectintellect-3 | 7.850 |
 | tngtechdeepseek-r1t-chimerafree | 7.850 |
@@ -34,6 +36,7 @@
 | ministral-14b-2512 | 7.717 |
 | grok-3-mini-beta | 7.717 |
 | minimaxminimax-m2-her | 7.717 |
+| qwen3.52b | 7.717 |
 | smollm2360m | 7.717 |
 | gpt-5.2-pro-2025-12-11 | 7.700 |
 | Qwen-QwQ-32B | 7.700 |
@@ -75,6 +78,7 @@
 | x-aigrok-code-fast-1 | 7.367 |
 | chatgpt-4o-latest-2025-01-29 | 7.367 |
 | grok-4-1-fast-reasoning | 7.350 |
+| qwen3.54b | 7.350 |
 | ibmgranite41b-h | 7.350 |
 | meta-llamaLlama-3.2-1B-Instruct | 7.333 |
 | qwen38b | 7.317 |
@@ -180,6 +184,7 @@
 | qwen-plus-2025-01-25 | 6.000 |
 | gpt-4o-mini-2024-07-18 | 5.967 |
 | ministral-3b-2410 | 5.933 |
+| qwen3.59b | 5.933 |
 | minimaxminimax-m2.5 | 5.883 |
 | o4-mini-2025-04-16 | 5.883 |
 | mistral-large-2411 | 5.850 |

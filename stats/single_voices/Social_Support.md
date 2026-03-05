@@ -122,6 +122,7 @@
 | meta-llamaLlama-3.3-70B-Instruct | 7.317 |
 | openaigpt-5.3-codex | 7.317 |
 | exaone-deep7.8b-fp16 | 7.300 |
+| qwen3.59b | 7.300 |
 | falcon33b-instruct-q8_0 | 7.300 |
 | gemini-1.5-flash-8b | 7.267 |
 | minimaxminimax-m2.1 | 7.267 |
@@ -208,6 +209,7 @@
 | QwenQwen3-14B | 6.433 |
 | QwenQwen3-30B-A3B | 6.417 |
 | chatgpt-4o-latest-20250215 | 6.417 |
+| qwen3.52b | 6.400 |
 | gemini-2.5-flash-preview-05-20 | 6.350 |
 | tngtechdeepseek-r1t-chimerafree | 6.350 |
 | ministral-8b-2512 | 6.333 |
@@ -223,6 +225,7 @@
 | anthropicclaude-sonnet-4.5 | 6.133 |
 | gemma34b-it-q8_0 | 6.100 |
 | gpt-5-chat-latest-2025-08-07 | 6.100 |
+| aion-labsaion-2.0 | 6.050 |
 | mistral-small-2506 | 6.050 |
 | moonshotaikimi-k2-thinking | 6.050 |
 | claude-3-5-haiku-20241022 | 6.033 |
@@ -232,7 +235,9 @@
 | QwenQwen3-235B-A22B | 5.800 |
 | smollm2360m | 5.750 |
 | minimaxminimax-m2-her | 5.733 |
+| qwen3.54b | 5.483 |
 | mistralaimistral-small-creative | 5.467 |
+| qwen3.50.8b | 5.433 |
 | gemma31b-it-q8_0 | 5.383 |
 | ibmgranite4350m-h | 5.283 |
 | phi4-mini-reasoning | 5.167 |

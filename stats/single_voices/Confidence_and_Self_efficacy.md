@@ -194,6 +194,7 @@
 | openaigpt-5.4 | 6.900 |
 | claude-opus-4-5-20251101 | 6.883 |
 | QwenQwen3-14B | 6.867 |
+| grok-4.20-multi-agent-experimental-beta-0304 | 6.850 |
 | deepseek-aiDeepSeek-R1-0528 | 6.833 |
 | chatgpt-4o-latest-2025-01-29 | 6.817 |
 | tngtechdeepseek-r1t-chimerafree | 6.817 |

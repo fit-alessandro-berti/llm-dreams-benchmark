@@ -167,6 +167,7 @@
 | qwenqwen3-next-80b-a3b-thinking                | **377.0** | 7.9 $\pm$ 0.4               | 6.1 $\pm$ 0.2         | 7.5 $\pm$ 0.4            | 9.0 $\pm$ 0.0 | 7.0 $\pm$ 0.0                 | 7.0 $\pm$ 0.4                  | 7.1 $\pm$ 0.2         | 7.5 $\pm$ 0.8         | 8.2 $\pm$ 0.2  | 7.8 $\pm$ 0.4            | 6.9 $\pm$ 0.6     | 5.8 $\pm$ 0.4      | 7.8 $\pm$ 0.4    | 6.9 $\pm$ 0.2    | 8.4 $\pm$ 0.2 |
 | magistral-small-2506                           | **377.0** | 7.9 $\pm$ 0.4               | 6.1 $\pm$ 0.2         | 7.9 $\pm$ 0.2            | 9.0 $\pm$ 0.0 | 7.1 $\pm$ 0.2                 | 6.9 $\pm$ 0.5                  | 6.9 $\pm$ 0.7         | 7.6 $\pm$ 0.6         | 8.5 $\pm$ 0.4  | 7.9 $\pm$ 0.5            | 6.6 $\pm$ 0.6     | 6.2 $\pm$ 0.2      | 8.1 $\pm$ 0.2    | 7.2 $\pm$ 0.2    | 8.0 $\pm$ 0.6 |
 | ibmgranite41b-h                                | **377.0** | 7.5 $\pm$ 0.0               | 6.0 $\pm$ 0.0         | 8.2 $\pm$ 0.2            | 8.2 $\pm$ 0.2 | 7.0 $\pm$ 0.0                 | 7.1 $\pm$ 0.2                  | 6.6 $\pm$ 0.2         | 7.5 $\pm$ 0.5         | 8.1 $\pm$ 0.2  | 8.1 $\pm$ 0.6            | 6.2 $\pm$ 0.4     | 6.8 $\pm$ 0.2      | 7.8 $\pm$ 0.2    | 7.0 $\pm$ 0.6    | 8.5 $\pm$ 0.4 |
+| grok-4.20-multi-agent-experimental-beta-0304   | **377.0** | 7.9 $\pm$ 0.4               | 6.0 $\pm$ 0.0         | 7.0 $\pm$ 0.0            | 9.5 $\pm$ 0.0 | 6.8 $\pm$ 0.2                 | 6.8 $\pm$ 0.2                  | 7.5 $\pm$ 0.5         | 7.5 $\pm$ 0.5         | 8.8 $\pm$ 0.2  | 7.5 $\pm$ 0.4            | 7.1 $\pm$ 0.6     | 5.1 $\pm$ 0.5      | 8.5 $\pm$ 0.4    | 7.2 $\pm$ 0.2    | 8.4 $\pm$ 0.2 |
 | gemini-2.0-pro-exp-02-05                       | **377.0** | 7.8 $\pm$ 0.4               | 6.0 $\pm$ 0.0         | 8.2 $\pm$ 0.2            | 9.0 $\pm$ 0.0 | 7.1 $\pm$ 0.2                 | 7.0 $\pm$ 0.0                  | 6.5 $\pm$ 0.0         | 7.0 $\pm$ 0.0         | 8.6 $\pm$ 0.2  | 8.0 $\pm$ 0.0            | 7.2 $\pm$ 0.2     | 6.0 $\pm$ 0.0      | 7.9 $\pm$ 0.2    | 7.2 $\pm$ 0.2    | 8.4 $\pm$ 0.2 |
 | claude-3-7-sonnet-20250219-thinking-high       | **376.5** | 7.5 $\pm$ 0.0               | 6.0 $\pm$ 0.0         | 7.5 $\pm$ 0.5            | 9.0 $\pm$ 0.0 | 6.9 $\pm$ 0.2                 | 6.8 $\pm$ 0.2                  | 7.2 $\pm$ 0.2         | 7.0 $\pm$ 0.0         | 8.5 $\pm$ 0.0  | 7.6 $\pm$ 0.4            | 6.6 $\pm$ 0.2     | 5.1 $\pm$ 0.7      | 8.0 $\pm$ 0.0    | 6.8 $\pm$ 0.4    | 8.1 $\pm$ 0.2 |
 | meta-llamaLlama-3.2-3B-Instruct                | **376.0** | 7.5 $\pm$ 0.0               | 6.0 $\pm$ 0.0         | 7.5 $\pm$ 0.5            | 8.8 $\pm$ 0.2 | 7.0 $\pm$ 0.0                 | 6.8 $\pm$ 0.2                  | 6.8 $\pm$ 0.8         | 7.2 $\pm$ 0.4         | 8.1 $\pm$ 0.2  | 8.0 $\pm$ 0.0            | 6.4 $\pm$ 0.2     | 5.5 $\pm$ 0.5      | 7.8 $\pm$ 0.6    | 7.2 $\pm$ 0.2    | 7.8 $\pm$ 0.6 |
@@ -3183,6 +3184,32 @@
 | Cognitive Load               | 8.4 $\pm$ 0.4      |
 | Social Support               | 6.9 $\pm$ 0.5      |
 | Resilience                   | 8.8 $\pm$ 0.2      |
+
+
+
+
+
+
+### grok-4.20-multi-agent-experimental-beta-0304
+
+
+| Personality Trait            | Score (1.0-10.0)   |
+|:-----------------------------|:-------------------|
+| Anxiety and Stress Levels    | 7.9 $\pm$ 0.4      |
+| Emotional Stability          | 6.0 $\pm$ 0.0      |
+| Problem-solving Skills       | 7.0 $\pm$ 0.0      |
+| Creativity                   | 9.5 $\pm$ 0.0      |
+| Interpersonal Relationships  | 6.8 $\pm$ 0.2      |
+| Confidence and Self-efficacy | 6.8 $\pm$ 0.2      |
+| Conflict Resolution          | 7.5 $\pm$ 0.5      |
+| Work-related Stress          | 7.5 $\pm$ 0.5      |
+| Adaptability                 | 8.8 $\pm$ 0.2      |
+| Achievement Motivation       | 7.5 $\pm$ 0.4      |
+| Fear of Failure              | 7.1 $\pm$ 0.6      |
+| Need for Control             | 5.1 $\pm$ 0.5      |
+| Cognitive Load               | 8.5 $\pm$ 0.4      |
+| Social Support               | 7.2 $\pm$ 0.2      |
+| Resilience                   | 8.4 $\pm$ 0.2      |
 
 
 

@@ -206,6 +206,7 @@
 | moonshotaikimi-k2.5 | 7.933 |
 | qwenqwen3-next-80b-a3b-instruct | 7.933 |
 | gemini-2.5-pro-preview-06-05 | 7.917 |
+| grok-4.20-multi-agent-experimental-beta-0304 | 7.917 |
 | qwenqwen3.5-35b-a3b | 7.917 |
 | openaigpt-5.3-chat | 7.900 |
 | phi4-mini-reasoning | 7.900 |

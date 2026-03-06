@@ -12,7 +12,7 @@ API_URL = "https://api.openai.com/v1/"
 #API_URL = "http://137.226.117.70:11434/v1/"
 #API_URL = "https://api.deepinfra.com/v1/openai/"
 #API_URL = "https://api.mistral.ai/v1/"
-API_URL = "https://api.x.ai/v1/"
+#API_URL = "https://api.x.ai/v1/"
 #API_URL = "https://generativelanguage.googleapis.com/v1beta/"
 #API_URL = "https://api.groq.com/openai/v1/"
 #API_URL = "https://api.deepseek.com/"
@@ -20,10 +20,10 @@ API_URL = "https://api.x.ai/v1/"
 #API_URL = "https://dashscope-intl.aliyuncs.com/compatible-mode/v1/"
 #API_URL = "https://api.anthropic.com/v1/"
 #API_URL = "https://integrate.api.nvidia.com/v1/"
-#API_URL = "https://openrouter.ai/api/v1/"
+API_URL = "https://openrouter.ai/api/v1/"
 #API_URL = "https://api.perplexity.ai/"
 
-API_KEY = open("../api_grok.txt", "r").read()
+API_KEY = open("../api_openrouter.txt", "r").read()
 
 NUMBER_EXECUTIONS = 2
 MAX_WORKERS = 50
@@ -250,7 +250,7 @@ def perform_query_anthropic_api(question):
 
 
 def perform_query(text):
-    if "api.openai" in API_URL:
+    if "api.openai" in API_URL or ("api.x" in API_URL and "multi-agent" in MODEL_NAME):
         return perform_query_new_openai_api(text)
     elif "googleapis" in API_URL:
         return perform_query_google_api(text)

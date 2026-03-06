@@ -166,6 +166,7 @@
 | stepfunstep-3.5-flashfree | 8.667 |
 | gemma-3n-e4b-it | 8.650 |
 | gpt-4-1106-preview | 8.650 |
+| grok-4.20-multi-agent-experimental-beta-0304 | 8.633 |
 | deepseek-aiDeepSeek-R1-Zero | 8.633 |
 | Grok-4.1-20251118 | 8.633 |
 | deepseekdeepseek-v3.2-speciale | 8.617 |

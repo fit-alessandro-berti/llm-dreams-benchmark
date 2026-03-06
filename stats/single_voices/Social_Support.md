@@ -193,6 +193,7 @@
 | gemini-2.5-flash-lite-preview-09-2025 | 6.783 |
 | Grok-4.1-20251118 | 6.783 |
 | chatgpt-4o-latest-2024-11-20 | 6.767 |
+| grok-4.20-multi-agent-experimental-beta-0304 | 6.767 |
 | qwenqwen3.5-122b-a10b | 6.750 |
 | qwen34b | 6.733 |
 | stepfunstep-3.5-flashfree | 6.733 |

@@ -185,6 +185,7 @@
 | allenaiolmo-3-7b-instruct | 8.217 |
 | r1-1776 | 8.200 |
 | gpt-5.2-2025-12-11 | 8.200 |
+| grok-4.20-multi-agent-experimental-beta-0304 | 8.183 |
 | qwen34b | 8.183 |
 | grok-4-0709 | 8.167 |
 | xiaomimimo-v2-flashfree | 8.167 |

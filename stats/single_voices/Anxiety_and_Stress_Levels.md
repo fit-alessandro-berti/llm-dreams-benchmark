@@ -28,6 +28,7 @@
 | mistral-medium-2508 | 7.817 |
 | r1-1776 | 7.817 |
 | gemini-2.5-flash-preview-05-20 | 7.783 |
+| grok-4.20-multi-agent-experimental-beta-0304 | 7.767 |
 | qwen31.7b | 7.767 |
 | gpt-5.2-2025-12-11 | 7.750 |
 | xiaomimimo-v2-flashfree | 7.750 |

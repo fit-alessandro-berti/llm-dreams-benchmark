@@ -190,6 +190,7 @@
 | gpt-4o-mini-2024-11-05 | 6.833 |
 | qwenqwen3.5-122b-a10b | 6.833 |
 | z-aiglm-4.5-air | 6.800 |
+| grok-4.20-multi-agent-experimental-beta-0304 | 6.783 |
 | chatgpt-4o-latest-2025-01-29 | 6.783 |
 | gemini-2.5-flash-lite-preview-09-2025 | 6.783 |
 | grok-3-mini-beta | 6.783 |

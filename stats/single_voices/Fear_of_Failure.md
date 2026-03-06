@@ -30,6 +30,7 @@
 | Gpt-5.1-Pro-20251120 | 7.367 |
 | gpt-5.2-2025-12-11 | 7.367 |
 | z-aiglm-4.5-air | 7.350 |
+| grok-4.20-multi-agent-experimental-beta-0304 | 7.317 |
 | gemini-2.0-pro-exp-02-05 | 7.300 |
 | ibmgranite4350m-h | 7.300 |
 | qwen31.7b | 7.283 |

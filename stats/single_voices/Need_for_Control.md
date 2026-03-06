@@ -129,6 +129,7 @@
 | gemini-2.0-pro-exp-02-05 | 6.117 |
 | gpt-4-1106-preview | 6.117 |
 | gpt-4o-mini-2024-07-18 | 6.117 |
+| grok-4.20-multi-agent-experimental-beta-0304 | 6.117 |
 | liquidlfm-2.5-1.2b-instructfree | 6.117 |
 | openaigpt-5.3-chat | 6.117 |
 | openaigpt-5.3-codex | 6.117 |

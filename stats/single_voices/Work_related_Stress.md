@@ -34,6 +34,7 @@
 | QwenQwen3-14B | 8.000 |
 | gpt-5.2-2025-12-11 | 7.983 |
 | magistral-medium-2506 | 7.983 |
+| grok-4.20-multi-agent-experimental-beta-0304 | 7.950 |
 | QwenQwen3-30B-A3B | 7.933 |
 | gpt-5-chat-latest-2025-08-07 | 7.917 |
 | Gpt-5.1-Pro-20251120 | 7.917 |

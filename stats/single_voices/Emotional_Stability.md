@@ -207,6 +207,7 @@
 | chatgpt-4o-latest-20250215 | 5.950 |
 | gemini-2.5-flash-preview-05-20 | 5.950 |
 | grok-3-mini-beta | 5.900 |
+| grok-4.20-multi-agent-experimental-beta-0304 | 5.850 |
 | tngtechdeepseek-r1t-chimerafree | 5.833 |
 | r1-1776 | 5.817 |
 | openaigpt-5.3-chat | 5.817 |

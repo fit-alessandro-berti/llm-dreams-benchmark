@@ -7458,6 +7458,72 @@
     }
   },
   {
+    "LLM": "grok-4.20-multi-agent-experimental-beta-0304",
+    "MHS": 378.0,
+    "scores": {
+      "Anxiety and Stress Levels": {
+        "mean": 7.8,
+        "std": 0.6
+      },
+      "Emotional Stability": {
+        "mean": 5.9,
+        "std": 1.0
+      },
+      "Problem-solving Skills": {
+        "mean": 7.7,
+        "std": 0.8
+      },
+      "Creativity": {
+        "mean": 9.7,
+        "std": 0.2
+      },
+      "Interpersonal Relationships": {
+        "mean": 6.8,
+        "std": 0.7
+      },
+      "Confidence and Self-efficacy": {
+        "mean": 6.8,
+        "std": 0.9
+      },
+      "Conflict Resolution": {
+        "mean": 7.6,
+        "std": 0.9
+      },
+      "Work-related Stress": {
+        "mean": 7.9,
+        "std": 0.4
+      },
+      "Adaptability": {
+        "mean": 8.6,
+        "std": 0.7
+      },
+      "Achievement Motivation": {
+        "mean": 7.9,
+        "std": 0.7
+      },
+      "Fear of Failure": {
+        "mean": 7.3,
+        "std": 1.0
+      },
+      "Need for Control": {
+        "mean": 6.1,
+        "std": 0.7
+      },
+      "Cognitive Load": {
+        "mean": 8.2,
+        "std": 0.4
+      },
+      "Social Support": {
+        "mean": 6.8,
+        "std": 0.9
+      },
+      "Resilience": {
+        "mean": 8.2,
+        "std": 0.7
+      }
+    }
+  },
+  {
     "LLM": "ibmgranite41b-h",
     "MHS": 374.3,
     "scores": {

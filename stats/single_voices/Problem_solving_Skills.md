@@ -223,6 +223,7 @@
 | meta-llamallama-4-maverick | 7.717 |
 | gemini-2.5-flash-preview-04-17 | 7.700 |
 | anthropicclaude-opus-4.1 | 7.683 |
+| grok-4.20-multi-agent-experimental-beta-0304 | 7.683 |
 | gemma31b-it-q8_0 | 7.667 |
 | meta-llamaMeta-Llama-3.1-8B-Instruct | 7.667 |
 | qwenqwen3-next-80b-a3b-instruct | 7.667 |

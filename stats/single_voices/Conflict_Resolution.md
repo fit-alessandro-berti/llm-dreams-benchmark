@@ -157,6 +157,7 @@
 | meta-llamaMeta-Llama-3.1-405B-Instruct | 7.683 |
 | deepseek-aiDeepSeek-R1-Zero | 7.650 |
 | gpt-5.2-pro-2025-12-11 | 7.617 |
+| grok-4.20-multi-agent-experimental-beta-0304 | 7.583 |
 | meta-llamaLlama-3.2-3B-Instruct | 7.583 |
 | meta-llamaMeta-Llama-3.1-8B-Instruct | 7.567 |
 | nvidiallama-3.3-nemotron-super-49b-v1 | 7.567 |

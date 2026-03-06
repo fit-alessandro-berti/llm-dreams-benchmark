@@ -14,6 +14,7 @@
 | gemini-3-flash-preview | 9.717 |
 | grok-4-0709 | 9.717 |
 | grok-4.20-experimental-beta-0304-reasoning | 9.717 |
+| grok-4.20-multi-agent-experimental-beta-0304 | 9.717 |
 | moonshotaikimi-k2-thinking | 9.717 |
 | o3-mini-20250131-HIGH | 9.717 |
 | openrouteraurora-alpha | 9.717 |

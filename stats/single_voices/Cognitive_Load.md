@@ -25,6 +25,7 @@
 | nvidiallama-3.1-nemotron-nano-8b-v1 | 8.250 |
 | gpt-5-chat-latest-2025-08-07 | 8.200 |
 | meta-llamaMeta-Llama-3.1-8B-Instruct | 8.200 |
+| grok-4.20-multi-agent-experimental-beta-0304 | 8.183 |
 | ministral-8b-2512 | 8.183 |
 | mistral-small-2506 | 8.183 |
 | qwen3.54b | 8.183 |

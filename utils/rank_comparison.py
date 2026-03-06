@@ -26,7 +26,8 @@ JUDGES = {
     "grok-4-1-fast-non-reasoning": interpret(open(os.path.join("..", "alt_results_grok41fast.md"), "r").read()),
     "gemini-2.5-flash": interpret(open(os.path.join("..", "alt_results_gemini25_flash.md"), "r").read()),
     "gpt-5.1": interpret(open(os.path.join("..", "alt_results_gpt51.md"), "r").read()),
-    "gpt-5.2": interpret(open(os.path.join("..", "results_gpt52.md"), "r").read()),
+    "gpt-5.2": interpret(open(os.path.join("..", "alt_results_gpt52.md"), "r").read()),
+    "gpt-5.4": interpret(open(os.path.join("..", "results_gpt54.md"), "r").read()),
     "qwen3-max": interpret(open(os.path.join("..", "alt_results_qwen3-max.md"), "r").read()),
 }
 

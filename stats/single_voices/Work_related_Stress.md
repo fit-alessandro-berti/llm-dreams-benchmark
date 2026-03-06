@@ -45,6 +45,7 @@
 | deepseekdeepseek-r1 | 7.867 |
 | ministral-14b-2512 | 7.867 |
 | QwenQwen3-32B | 7.867 |
+| grok-4.20-experimental-beta-0304-non-reasoning | 7.850 |
 | grok-3-mini-beta | 7.850 |
 | writerpalmyra-x5 | 7.850 |
 | z-aiglm-5 | 7.850 |
@@ -204,6 +205,7 @@
 | o1-preview-2024-09-12 | 5.967 |
 | ministral-3b-2410 | 5.900 |
 | claude-haiku-4-5-20251001 | 5.867 |
+| grok-4.20-experimental-beta-0304-reasoning | 5.850 |
 | nvidianemotron-3-nano-30b-a3bfree | 5.850 |
 | granite3.28b-instruct-q4_K_M | 5.833 |
 | anthropicclaude-sonnet-4.6 | 5.817 |

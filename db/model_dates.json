@@ -115,6 +115,8 @@
   "grok-4-0709": "2025-07-09",
   "grok-4-1-fast-non-reasoning": "2025-11-19",
   "grok-4-1-fast-reasoning": "2025-11-19",
+  "grok-4.20-experimental-beta-0304-non-reasoning": "",
+  "grok-4.20-experimental-beta-0304-reasoning": "",
   "ibmgranite41b-h": "2025-10-02",
   "ibmgranite4350m-h": "2025-10-02",
   "inceptionmercury": "2025-02-01",

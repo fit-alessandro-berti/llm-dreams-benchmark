@@ -49,6 +49,7 @@
 | meta-llamaMeta-Llama-3.1-8B-Instruct | 7.667 |
 | deepseekdeepseek-r1 | 7.650 |
 | meta-llamaLlama-3.3-70B-Instruct | 7.650 |
+| grok-4.20-experimental-beta-0304-non-reasoning | 7.633 |
 | z-aiglm-4.5 | 7.633 |
 | QwenQwen3-14B | 7.617 |
 | ibmgranite4350m-h | 7.600 |
@@ -168,6 +169,7 @@
 | liquidlfm-2.5-1.2b-instructfree | 6.200 |
 | gemini-2.5-flash-lite-preview-09-2025 | 6.183 |
 | arcee-aitrinity-large-previewfree | 6.167 |
+| grok-4.20-experimental-beta-0304-reasoning | 6.167 |
 | qwen2.5-7b-instruct | 6.167 |
 | Grok-3-20250426-formal | 6.133 |
 | gpt-5-2025-08-07 | 6.133 |

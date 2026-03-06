@@ -92,6 +92,7 @@
 | Grok-3-beta-thinking-20250303 | 7.533 |
 | googlegemma-2-9b-it | 7.517 |
 | deepseek-aiDeepSeek-R1-Zero | 7.500 |
+| grok-4.20-experimental-beta-0304-reasoning | 7.500 |
 | o1-pro-2024-12-05 | 7.500 |
 | liquidlfm2-8b-a1b | 7.500 |
 | o1-pro-2024-12-17 | 7.483 |
@@ -135,6 +136,7 @@
 | magistral-small-2506 | 7.200 |
 | qwen-plus-0428 | 7.200 |
 | anthropicclaude-opus-4.1 | 7.183 |
+| grok-4.20-experimental-beta-0304-non-reasoning | 7.183 |
 | liquidlfm-2-24b-a2b | 7.167 |
 | liquidlfm-2.5-1.2b-instructfree | 7.167 |
 | meta-llamallama-4-scout | 7.150 |

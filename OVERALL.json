@@ -7326,6 +7326,138 @@
     }
   },
   {
+    "LLM": "grok-4.20-experimental-beta-0304-non-reasoning",
+    "MHS": 390.2,
+    "scores": {
+      "Anxiety and Stress Levels": {
+        "mean": 7.6,
+        "std": 0.6
+      },
+      "Emotional Stability": {
+        "mean": 6.2,
+        "std": 0.9
+      },
+      "Problem-solving Skills": {
+        "mean": 7.8,
+        "std": 0.6
+      },
+      "Creativity": {
+        "mean": 9.6,
+        "std": 0.3
+      },
+      "Interpersonal Relationships": {
+        "mean": 7.1,
+        "std": 0.9
+      },
+      "Confidence and Self-efficacy": {
+        "mean": 7.1,
+        "std": 0.9
+      },
+      "Conflict Resolution": {
+        "mean": 7.8,
+        "std": 1.0
+      },
+      "Work-related Stress": {
+        "mean": 7.8,
+        "std": 0.6
+      },
+      "Adaptability": {
+        "mean": 8.6,
+        "std": 0.6
+      },
+      "Achievement Motivation": {
+        "mean": 8.3,
+        "std": 0.6
+      },
+      "Fear of Failure": {
+        "mean": 7.0,
+        "std": 1.0
+      },
+      "Need for Control": {
+        "mean": 6.2,
+        "std": 0.5
+      },
+      "Cognitive Load": {
+        "mean": 7.9,
+        "std": 0.5
+      },
+      "Social Support": {
+        "mean": 7.2,
+        "std": 0.9
+      },
+      "Resilience": {
+        "mean": 8.7,
+        "std": 0.5
+      }
+    }
+  },
+  {
+    "LLM": "grok-4.20-experimental-beta-0304-reasoning",
+    "MHS": 418.2,
+    "scores": {
+      "Anxiety and Stress Levels": {
+        "mean": 6.2,
+        "std": 1.5
+      },
+      "Emotional Stability": {
+        "mean": 7.2,
+        "std": 1.2
+      },
+      "Problem-solving Skills": {
+        "mean": 8.5,
+        "std": 0.6
+      },
+      "Creativity": {
+        "mean": 9.7,
+        "std": 0.2
+      },
+      "Interpersonal Relationships": {
+        "mean": 7.3,
+        "std": 0.9
+      },
+      "Confidence and Self-efficacy": {
+        "mean": 8.1,
+        "std": 0.8
+      },
+      "Conflict Resolution": {
+        "mean": 7.9,
+        "std": 1.0
+      },
+      "Work-related Stress": {
+        "mean": 5.9,
+        "std": 1.6
+      },
+      "Adaptability": {
+        "mean": 9.2,
+        "std": 0.4
+      },
+      "Achievement Motivation": {
+        "mean": 8.3,
+        "std": 0.6
+      },
+      "Fear of Failure": {
+        "mean": 5.2,
+        "std": 1.6
+      },
+      "Need for Control": {
+        "mean": 5.2,
+        "std": 0.8
+      },
+      "Cognitive Load": {
+        "mean": 7.3,
+        "std": 1.7
+      },
+      "Social Support": {
+        "mean": 7.5,
+        "std": 0.9
+      },
+      "Resilience": {
+        "mean": 8.9,
+        "std": 0.5
+      }
+    }
+  },
+  {
     "LLM": "ibmgranite41b-h",
     "MHS": 374.3,
     "scores": {

@@ -114,6 +114,7 @@
 | meta-llamallama-4-maverick | 6.200 |
 | arcee-aitrinity-large-previewfree | 6.183 |
 | granite4small-h | 6.183 |
+| grok-4.20-experimental-beta-0304-non-reasoning | 6.183 |
 | QwenQwen3-30B-A3B | 6.183 |
 | chatgpt-4o-latest-2025-01-29 | 6.167 |
 | minimaxminimax-m2.5 | 6.167 |
@@ -226,6 +227,7 @@
 | gpt-4.1-2025-04-14 | 5.267 |
 | openaigpt-5.2-codex | 5.267 |
 | gemini-2.5-pro-preview-06-05 | 5.250 |
+| grok-4.20-experimental-beta-0304-reasoning | 5.217 |
 | Grok-4-fast | 5.200 |
 | phi4-reasoningplus | 5.200 |
 | gpt-5-nano-2025-08-07 | 5.183 |

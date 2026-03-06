@@ -127,6 +127,7 @@
 | grok-4-1-fast-reasoning | 7.883 |
 | chatgpt-4o-latest-2025-03-26 | 7.867 |
 | deepseekdeepseek-chat-v3.1 | 7.867 |
+| grok-4.20-experimental-beta-0304-reasoning | 7.867 |
 | moonshotaikimi-k2.5 | 7.867 |
 | qwen2.5-7b-instruct | 7.867 |
 | deepseekdeepseek-r1 | 7.850 |
@@ -138,6 +139,7 @@
 | gemini-2.5-flash-lite-preview-09-2025 | 7.800 |
 | mistral-medium-2508 | 7.800 |
 | qwen38b | 7.800 |
+| grok-4.20-experimental-beta-0304-non-reasoning | 7.800 |
 | Gpt-5.1-Pro-20251120 | 7.767 |
 | openaigpt-5.4 | 7.767 |
 | QwenQwen3-32B | 7.767 |

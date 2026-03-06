@@ -134,6 +134,7 @@
 | qwen-plus-0428 | 7.350 |
 | claude-haiku-4-5-20251001 | 7.333 |
 | deepseek-aiDeepSeek-R1-Zero | 7.333 |
+| grok-4.20-experimental-beta-0304-reasoning | 7.333 |
 | nousresearchhermes-4-70b | 7.333 |
 | gpt-5.2-2025-12-11 | 7.317 |
 | qwenqwen3-next-80b-a3b-thinking | 7.300 |
@@ -165,6 +166,7 @@
 | prime-intellectintellect-3 | 7.133 |
 | gpt-5.2-pro-2025-12-11 | 7.133 |
 | qwenqwen3.5-27b | 7.133 |
+| grok-4.20-experimental-beta-0304-non-reasoning | 7.117 |
 | qwen30.6b | 7.117 |
 | mistral-medium-2505 | 7.100 |
 | mistral-medium-2508 | 7.067 |

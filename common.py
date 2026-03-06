@@ -1,4 +1,4 @@
-ANSWERING_MODEL_NAME = "openai/gpt-5.4-pro"
+ANSWERING_MODEL_NAME = "grok-4.20-experimental-beta-0304-non-reasoning"
 EVALUATING_MODEL_NAME = "gpt-4.1"
 
 

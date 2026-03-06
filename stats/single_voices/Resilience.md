@@ -58,6 +58,7 @@
 | openaigpt-5.1-codex-max | 8.917 |
 | openaigpt-oss-120b | 8.917 |
 | qwen-max-2025-01-25 | 8.917 |
+| grok-4.20-experimental-beta-0304-reasoning | 8.900 |
 | liquidlfm-2.2-6b | 8.900 |
 | gemini-1.5-flash-002 | 8.883 |
 | granite4micro | 8.867 |
@@ -104,6 +105,7 @@
 | gemini-2.5-flash-lite-preview-09-2025 | 8.700 |
 | qwen2.5-7b-instruct | 8.700 |
 | deepseek-aiDeepSeek-V3 | 8.683 |
+| grok-4.20-experimental-beta-0304-non-reasoning | 8.683 |
 | liquidlfm-2.5-1.2b-instructfree | 8.683 |
 | devstral-small-2505 | 8.683 |
 | moonshotaikimi-linear-48b-a3b-instruct | 8.683 |

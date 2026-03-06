@@ -73,6 +73,7 @@
 | openaigpt-5.3-chat | 7.883 |
 | z-aiglm-4.5 | 7.883 |
 | z-aiglm-4.7-flash | 7.883 |
+| grok-4.20-experimental-beta-0304-non-reasoning | 7.867 |
 | z-aiglm-5 | 7.867 |
 | gemma312b-it-q8_0 | 7.850 |
 | essentialairnj-1-instruct | 7.833 |
@@ -157,6 +158,7 @@
 | qwenqwen3-next-80b-a3b-instruct | 7.300 |
 | phi3.53.8b-mini-instruct-fp16 | 7.267 |
 | gemini-3-flash-preview | 7.267 |
+| grok-4.20-experimental-beta-0304-reasoning | 7.250 |
 | ai21jamba-large-1.7 | 7.233 |
 | gpt-4.1-nano-2025-04-14 | 7.217 |
 | gpt-4-0613 | 7.200 |

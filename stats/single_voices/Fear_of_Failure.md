@@ -55,6 +55,7 @@
 | deepseek-aiDeepSeek-R1-0528 | 7.033 |
 | z-aiglm-4.7-flash | 7.033 |
 | z-aiglm-4.5 | 7.017 |
+| grok-4.20-experimental-beta-0304-non-reasoning | 7.017 |
 | meta-llamaMeta-Llama-3.1-70B-Instruct | 6.967 |
 | openaigpt-5.3-chat | 6.917 |
 | smollm2135m | 6.900 |
@@ -185,6 +186,7 @@
 | gpt-4o-mini-2024-07-18 | 5.317 |
 | qwen-max-2025-01-25 | 5.317 |
 | granite4micro-h | 5.217 |
+| grok-4.20-experimental-beta-0304-reasoning | 5.200 |
 | qwen-plus-2025-01-25 | 5.183 |
 | claude-haiku-4-5-20251001 | 5.167 |
 | gpt-4-0613 | 5.167 |

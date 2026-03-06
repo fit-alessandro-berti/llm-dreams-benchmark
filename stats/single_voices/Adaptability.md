@@ -8,6 +8,7 @@
 | gpt-4-turbo-2024-04-09 | 9.283 |
 | microsoftWizardLM-2-8x22B | 9.250 |
 | granite4small-h | 9.233 |
+| grok-4.20-experimental-beta-0304-reasoning | 9.150 |
 | open-mistral-nemo | 9.150 |
 | gpt-5-mini-2025-08-07 | 9.133 |
 | granite3.28b-instruct-q4_K_M | 9.133 |
@@ -168,6 +169,7 @@
 | deepseek-aiDeepSeek-R1-Zero | 8.633 |
 | Grok-4.1-20251118 | 8.633 |
 | deepseekdeepseek-v3.2-speciale | 8.617 |
+| grok-4.20-experimental-beta-0304-non-reasoning | 8.617 |
 | liquidlfm-2.5-1.2b-thinkingfree | 8.617 |
 | magistral-small-2506 | 8.617 |
 | claude-3-5-sonnet-20241022 | 8.617 |

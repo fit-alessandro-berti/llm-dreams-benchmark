@@ -83,6 +83,7 @@
 | ChatGPT-5.1-Instant-20251113 | 7.133 |
 | qwen2.5-7b-instruct | 7.133 |
 | qwenqwen3.5-plus-02-15 | 7.133 |
+| grok-4.20-experimental-beta-0304-reasoning | 7.133 |
 | qwen-max-2025-01-25 | 7.133 |
 | gemini-2.0-flash-exp | 7.117 |
 | openaigpt-5.2-codex | 7.100 |
@@ -175,6 +176,7 @@
 | meta-llamaMeta-Llama-3.1-405B-Instruct | 6.283 |
 | meta-llamaLlama-3.2-3B-Instruct | 6.267 |
 | mistral-medium-2505 | 6.267 |
+| grok-4.20-experimental-beta-0304-non-reasoning | 6.217 |
 | z-aiglm-4.5-air | 6.217 |
 | chatgpt-4o-latest-2025-01-29 | 6.217 |
 | Grok-4.1-20251118 | 6.183 |

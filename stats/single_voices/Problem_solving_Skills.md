@@ -95,6 +95,7 @@
 | phi4-reasoningplus | 8.483 |
 | gemini-1.5-flash-8b | 8.467 |
 | gpt-4.5-preview | 8.467 |
+| grok-4.20-experimental-beta-0304-reasoning | 8.467 |
 | QwenQwen3-32B | 8.467 |
 | allenaiolmo-3.1-32b-instruct | 8.450 |
 | deepseekdeepseek-r1 | 8.450 |
@@ -207,6 +208,7 @@
 | qwenqwen3.5-35b-a3b | 7.867 |
 | claude-4-sonnet-20250514 | 7.867 |
 | writerpalmyra-x5 | 7.850 |
+| grok-4.20-experimental-beta-0304-non-reasoning | 7.833 |
 | claude-3-5-haiku-20241022 | 7.817 |
 | gemini-2.5-flash-preview-09-2025 | 7.817 |
 | aion-labsaion-2.0 | 7.800 |

@@ -13,6 +13,7 @@
 | googlegemini-3.1-pro-preview | 9.733 |
 | gemini-3-flash-preview | 9.717 |
 | grok-4-0709 | 9.717 |
+| grok-4.20-experimental-beta-0304-reasoning | 9.717 |
 | moonshotaikimi-k2-thinking | 9.717 |
 | o3-mini-20250131-HIGH | 9.717 |
 | openrouteraurora-alpha | 9.717 |
@@ -57,6 +58,7 @@
 | gemini-2.5-flash-lite-preview-06-17 | 9.617 |
 | gpt-5-mini-2025-08-07 | 9.617 |
 | grok-4-1-fast-non-reasoning | 9.617 |
+| grok-4.20-experimental-beta-0304-non-reasoning | 9.617 |
 | qwen2.5-14b-instruct | 9.617 |
 | qwenqwen3-max-thinking | 9.617 |
 | qwenqwen3.5-35b-a3b | 9.617 |

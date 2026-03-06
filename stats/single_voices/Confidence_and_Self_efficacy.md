@@ -47,6 +47,7 @@
 | gpt-4o-2024-08-06 | 8.167 |
 | mistral-small-2409 | 8.167 |
 | o1-preview-2024-09-12 | 8.167 |
+| grok-4.20-experimental-beta-0304-reasoning | 8.150 |
 | openaigpt-oss-120b | 8.133 |
 | phi4-reasoning | 8.133 |
 | mistral-small-2503 | 8.117 |
@@ -156,6 +157,7 @@
 | granite4tiny-h | 7.183 |
 | qwenqwen3.5-35b-a3b | 7.167 |
 | meta-llamaMeta-Llama-3.1-405B-Instruct | 7.150 |
+| grok-4.20-experimental-beta-0304-non-reasoning | 7.133 |
 | qwen38b | 7.133 |
 | gemini-2.5-pro-preview-05-06 | 7.117 |
 | gemma-3n-e4b-it | 7.117 |

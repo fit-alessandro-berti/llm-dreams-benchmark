@@ -139,6 +139,7 @@
 | prime-intellectintellect-3 | 8.333 |
 | grok-4-1-fast-reasoning | 8.317 |
 | magistral-small-2506 | 8.317 |
+| grok-4.20-experimental-beta-0304-reasoning | 8.317 |
 | liquidlfm-2.5-1.2b-thinkingfree | 8.317 |
 | gemini-2.5-pro-preview-05-06 | 8.300 |
 | googlegemma-2-9b-it | 8.300 |
@@ -157,6 +158,7 @@
 | essentialairnj-1-instruct | 8.250 |
 | grok-4-0709 | 8.250 |
 | QwenQwen3-14B | 8.250 |
+| grok-4.20-experimental-beta-0304-non-reasoning | 8.250 |
 | qwenqwen3-coder | 8.233 |
 | deepseek-aiDeepSeek-R1-0528 | 8.233 |
 | qwen3.59b | 8.233 |

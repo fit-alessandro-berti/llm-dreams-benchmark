@@ -125,6 +125,7 @@
 | smollm21.7b-instruct-q6_K | 6.750 |
 | Grok-3-beta-thinking-20250303 | 6.733 |
 | openaigpt-5.3-codex | 6.733 |
+| openaigpt-5.4-pro | 6.733 |
 | gpt-4-1106-preview | 6.717 |
 | claude-3-7-sonnet-20250219 | 6.700 |
 | claude-3-7-sonnet-20250219-thinking-high | 6.700 |
@@ -134,6 +135,7 @@
 | liquidlfm-2.5-1.2b-thinkingfree | 6.667 |
 | minimaxminimax-m2.1 | 6.633 |
 | qwen30.6b | 6.617 |
+| openaigpt-5.4 | 6.600 |
 | googlegemma-2-9b-it | 6.583 |
 | qwenqwen3-max | 6.583 |
 | chatgpt-4o-latest-2024-11-20 | 6.567 |

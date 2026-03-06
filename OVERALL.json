@@ -11946,6 +11946,138 @@
     }
   },
   {
+    "LLM": "openaigpt-5.4",
+    "MHS": 396.8,
+    "scores": {
+      "Anxiety and Stress Levels": {
+        "mean": 7.1,
+        "std": 1.5
+      },
+      "Emotional Stability": {
+        "mean": 6.6,
+        "std": 1.1
+      },
+      "Problem-solving Skills": {
+        "mean": 8.1,
+        "std": 0.7
+      },
+      "Creativity": {
+        "mean": 9.6,
+        "std": 0.3
+      },
+      "Interpersonal Relationships": {
+        "mean": 7.4,
+        "std": 0.9
+      },
+      "Confidence and Self-efficacy": {
+        "mean": 6.9,
+        "std": 1.0
+      },
+      "Conflict Resolution": {
+        "mean": 7.8,
+        "std": 1.0
+      },
+      "Work-related Stress": {
+        "mean": 7.6,
+        "std": 1.2
+      },
+      "Adaptability": {
+        "mean": 8.7,
+        "std": 0.6
+      },
+      "Achievement Motivation": {
+        "mean": 8.4,
+        "std": 0.5
+      },
+      "Fear of Failure": {
+        "mean": 6.9,
+        "std": 1.6
+      },
+      "Need for Control": {
+        "mean": 6.0,
+        "std": 1.1
+      },
+      "Cognitive Load": {
+        "mean": 7.8,
+        "std": 1.1
+      },
+      "Social Support": {
+        "mean": 7.1,
+        "std": 0.9
+      },
+      "Resilience": {
+        "mean": 8.7,
+        "std": 0.6
+      }
+    }
+  },
+  {
+    "LLM": "openaigpt-5.4-pro",
+    "MHS": 400.7,
+    "scores": {
+      "Anxiety and Stress Levels": {
+        "mean": 7.1,
+        "std": 1.4
+      },
+      "Emotional Stability": {
+        "mean": 6.7,
+        "std": 1.1
+      },
+      "Problem-solving Skills": {
+        "mean": 8.2,
+        "std": 0.7
+      },
+      "Creativity": {
+        "mean": 9.6,
+        "std": 0.3
+      },
+      "Interpersonal Relationships": {
+        "mean": 7.4,
+        "std": 0.8
+      },
+      "Confidence and Self-efficacy": {
+        "mean": 7.0,
+        "std": 0.9
+      },
+      "Conflict Resolution": {
+        "mean": 7.7,
+        "std": 1.0
+      },
+      "Work-related Stress": {
+        "mean": 7.8,
+        "std": 1.1
+      },
+      "Adaptability": {
+        "mean": 8.8,
+        "std": 0.6
+      },
+      "Achievement Motivation": {
+        "mean": 8.4,
+        "std": 0.6
+      },
+      "Fear of Failure": {
+        "mean": 6.8,
+        "std": 1.7
+      },
+      "Need for Control": {
+        "mean": 5.9,
+        "std": 1.1
+      },
+      "Cognitive Load": {
+        "mean": 7.7,
+        "std": 1.1
+      },
+      "Social Support": {
+        "mean": 7.2,
+        "std": 0.8
+      },
+      "Resilience": {
+        "mean": 8.8,
+        "std": 0.5
+      }
+    }
+  },
+  {
     "LLM": "openaigpt-oss-120b",
     "MHS": 437.2,
     "scores": {

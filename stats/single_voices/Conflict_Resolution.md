@@ -139,10 +139,12 @@
 | mistral-medium-2508 | 7.800 |
 | qwen38b | 7.800 |
 | Gpt-5.1-Pro-20251120 | 7.767 |
+| openaigpt-5.4 | 7.767 |
 | QwenQwen3-32B | 7.767 |
 | qwenqwen3.5-35b-a3b | 7.767 |
 | qwenqwen3-next-80b-a3b-thinking | 7.767 |
 | r1-1776 | 7.750 |
+| openaigpt-5.4-pro | 7.733 |
 | Grok-4-fast-20251111 | 7.733 |
 | qwen-plus-0428 | 7.733 |
 | exaone-deep7.8b-fp16 | 7.717 |

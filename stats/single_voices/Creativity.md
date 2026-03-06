@@ -46,10 +46,12 @@
 | mistral-medium-2508 | 9.633 |
 | openaigpt-5.1-codex-max | 9.633 |
 | openaigpt-5.2-codex | 9.633 |
+| openaigpt-5.4 | 9.633 |
 | qwen3.59b | 9.633 |
 | QwenQwen3-14B | 9.633 |
 | gpt-5-2025-08-07 | 9.633 |
 | Grok-4.1-20251118 | 9.633 |
+| openaigpt-5.4-pro | 9.633 |
 | qwenqwen3.5-397b-a17b | 9.633 |
 | anthropicclaude-opus-4.6 | 9.617 |
 | gemini-2.5-flash-lite-preview-06-17 | 9.617 |

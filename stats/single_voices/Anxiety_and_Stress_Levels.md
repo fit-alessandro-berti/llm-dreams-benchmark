@@ -97,6 +97,8 @@
 | googlegemini-3.1-pro-preview | 7.150 |
 | gemma-3-27b-it | 7.133 |
 | claude-4-sonnet-20250514 | 7.117 |
+| openaigpt-5.4 | 7.100 |
+| openaigpt-5.4-pro | 7.083 |
 | nousresearchhermes-4-70b | 7.067 |
 | qwen30.6b | 7.050 |
 | openaigpt-5.3-codex | 7.017 |

@@ -71,6 +71,7 @@
 | qwenqwen3-max-thinking | 8.850 |
 | amazonnova-2-lite-v1 | 8.833 |
 | baiduernie-4.5-300b-a47b | 8.833 |
+| openaigpt-5.4-pro | 8.833 |
 | ministral-8b-2410 | 8.817 |
 | qwen-plus-2025-01-25 | 8.817 |
 | openaigpt-5.3-codex | 8.817 |
@@ -107,6 +108,7 @@
 | devstral-small-2505 | 8.683 |
 | moonshotaikimi-linear-48b-a3b-instruct | 8.683 |
 | smollm21.7b-instruct-q6_K | 8.683 |
+| openaigpt-5.4 | 8.683 |
 | exaone-deep7.8b-fp16 | 8.667 |
 | baiduernie-4.5-21b-a3b | 8.667 |
 | falcon33b-instruct-q8_0 | 8.667 |

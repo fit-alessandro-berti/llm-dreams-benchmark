@@ -1,4 +1,4 @@
-ANSWERING_MODEL_NAME = "openai/gpt-5.3-chat"
+ANSWERING_MODEL_NAME = "openai/gpt-5.4-pro"
 EVALUATING_MODEL_NAME = "gpt-4.1"
 
 

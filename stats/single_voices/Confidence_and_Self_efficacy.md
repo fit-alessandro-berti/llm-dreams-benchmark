@@ -172,6 +172,7 @@
 | moonshotaikimi-k2.5 | 7.017 |
 | googlegemma-2-2b-it | 7.017 |
 | qwen34b | 7.017 |
+| openaigpt-5.4-pro | 7.000 |
 | DeepSeek-V3-0324 | 6.983 |
 | xiaomimimo-v2-flashfree | 6.983 |
 | mistral-medium-2508 | 6.967 |
@@ -188,6 +189,7 @@
 | gemma312b-it-q8_0 | 6.917 |
 | essentialairnj-1-instruct | 6.900 |
 | meta-llamaMeta-Llama-3.1-70B-Instruct | 6.900 |
+| openaigpt-5.4 | 6.900 |
 | claude-opus-4-5-20251101 | 6.883 |
 | QwenQwen3-14B | 6.867 |
 | deepseek-aiDeepSeek-R1-0528 | 6.833 |

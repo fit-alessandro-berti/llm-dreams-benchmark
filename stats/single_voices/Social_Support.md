@@ -128,6 +128,7 @@
 | minimaxminimax-m2.1 | 7.267 |
 | gemini-2.0-pro-exp-02-05 | 7.250 |
 | moonshotaikimi-k2 | 7.233 |
+| openaigpt-5.4-pro | 7.233 |
 | qwenqwen3-max | 7.217 |
 | gemma-3-27b-it | 7.217 |
 | openaigpt-oss-20b | 7.217 |
@@ -141,6 +142,7 @@
 | gemini-2.0-flash-exp | 7.133 |
 | qwenqwen3-next-80b-a3b-thinking | 7.133 |
 | googlegemma-2-2b-it | 7.117 |
+| openaigpt-5.4 | 7.117 |
 | Gemini-1.5-Pro-Exp-0827 | 7.100 |
 | qwen38b | 7.100 |
 | qwen-turbo-0428 | 7.100 |

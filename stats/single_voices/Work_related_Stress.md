@@ -57,6 +57,7 @@
 | ibmgranite41b-h | 7.783 |
 | googlegemma-2-2b-it | 7.767 |
 | moonshotaikimi-k2.5 | 7.767 |
+| openaigpt-5.4-pro | 7.767 |
 | qwen-plus-0428 | 7.750 |
 | claude-3-opus-20240229 | 7.750 |
 | smollm2360m | 7.733 |
@@ -70,6 +71,7 @@
 | chatgpt-4o-latest-20250215 | 7.600 |
 | deepseek-aiDeepSeek-R1-0528 | 7.600 |
 | DeepSeek-V3-0324 | 7.583 |
+| openaigpt-5.4 | 7.583 |
 | gemini-2.5-pro-preview-05-06 | 7.533 |
 | meta-llamaLlama-3.2-1B-Instruct | 7.533 |
 | grok-4-1-fast-non-reasoning | 7.533 |

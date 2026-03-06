@@ -119,9 +119,11 @@
 | qwen-plus-0428 | 8.417 |
 | z-aiglm-4.5-air | 8.417 |
 | gemini-1.5-flash-002 | 8.400 |
+| openaigpt-5.4-pro | 8.400 |
 | qwen31.7b | 8.400 |
 | QwenQwen3-32B | 8.400 |
 | o1-2024-12-17 | 8.400 |
+| openaigpt-5.4 | 8.400 |
 | qwenqwen3-30b-a3b-instruct-2507 | 8.383 |
 | meta-llamaLlama-3.3-70B-Instruct | 8.383 |
 | gemini-2.0-pro-exp-02-05 | 8.367 |

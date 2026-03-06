@@ -83,6 +83,7 @@
 | meta-llamaMeta-Llama-3.1-70B-Instruct | 7.800 |
 | qwenqwen3.5-35b-a3b | 7.800 |
 | meta-llamaLlama-3.3-70B-Instruct | 7.783 |
+| openaigpt-5.4 | 7.783 |
 | qwen-turbo-0428 | 7.783 |
 | DeepSeek-V3-0324 | 7.750 |
 | gemini-2.5-flash-lite-preview-06-17 | 7.750 |
@@ -94,6 +95,7 @@
 | claude-3-7-sonnet-20250219-thinking-high | 7.717 |
 | magistral-small-2506 | 7.717 |
 | meta-llamallama-4-scout | 7.717 |
+| openaigpt-5.4-pro | 7.717 |
 | qwenqwen3-30b-a3b-instruct-2507 | 7.717 |
 | falcon33b-instruct-q8_0 | 7.700 |
 | meta-llamaMeta-Llama-3.1-405B-Instruct | 7.700 |

@@ -62,6 +62,7 @@
 | chatgpt-4o-latest-20250215 | 6.883 |
 | deepseekdeepseek-r1 | 6.883 |
 | googlegemma-2-2b-it | 6.883 |
+| openaigpt-5.4 | 6.867 |
 | qwen-plus-0428 | 6.833 |
 | qwen3.54b | 6.833 |
 | z-aiglm-5 | 6.833 |
@@ -70,6 +71,7 @@
 | nvidiallama-3.1-nemotron-nano-8b-v1 | 6.800 |
 | chatgpt-4o-latest-2025-01-29 | 6.783 |
 | mistral-medium-2505 | 6.783 |
+| openaigpt-5.4-pro | 6.783 |
 | ibmgranite41b-h | 6.767 |
 | qwenqwen3-235b-a22b-07-25 | 6.767 |
 | Gemini-1.5-Pro-Exp-0827 | 6.733 |

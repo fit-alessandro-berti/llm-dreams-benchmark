@@ -135,6 +135,7 @@
 | devstral-small-2505 | 8.767 |
 | moonshotaikimi-linear-48b-a3b-instruct | 8.767 |
 | falcon33b-instruct-q8_0 | 8.750 |
+| openaigpt-5.4-pro | 8.750 |
 | ai21jamba-large-1.7 | 8.750 |
 | allenaiolmo-3-7b-think | 8.750 |
 | allenaiolmo-3.1-32b-instruct | 8.750 |
@@ -150,6 +151,7 @@
 | exaone-deep7.8b-fp16 | 8.717 |
 | granite4tiny-h | 8.717 |
 | nvidianemotron-nano-9b-v2 | 8.717 |
+| openaigpt-5.4 | 8.717 |
 | liquidlfm-2-24b-a2b | 8.700 |
 | qwenqwen3-next-80b-a3b-instruct | 8.700 |
 | qwenqwen3-next-80b-a3b-thinking | 8.700 |

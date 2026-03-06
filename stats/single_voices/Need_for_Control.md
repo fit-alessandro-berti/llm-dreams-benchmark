@@ -147,6 +147,7 @@
 | grok-2-1212 | 6.017 |
 | mistral-large-2411 | 6.017 |
 | o4-mini-2025-04-16 | 6.017 |
+| openaigpt-5.4 | 6.017 |
 | liquidlfm2-8b-a1b | 6.000 |
 | o1-2024-12-05 | 6.000 |
 | o1-pro-2024-12-05 | 6.000 |
@@ -164,6 +165,7 @@
 | gpt-4o-2024-08-06 | 5.933 |
 | o1-preview-2024-09-12 | 5.933 |
 | o1-pro-2024-12-17 | 5.933 |
+| openaigpt-5.4-pro | 5.917 |
 | liquidlfm-2.2-6b | 5.883 |
 | minimaxminimax-m2free | 5.883 |
 | chatgpt-4o-latest-2025-04-26 | 5.883 |

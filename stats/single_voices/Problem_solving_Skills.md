@@ -157,6 +157,7 @@
 | DeepSeek-V3-0324 | 8.183 |
 | chatgpt-4o-latest-2024-11-20 | 8.183 |
 | gemini-2.5-flash-lite-preview-06-17 | 8.183 |
+| openaigpt-5.4-pro | 8.183 |
 | qwenqwen3-235b-a22b-07-25 | 8.183 |
 | chatgpt-4o-latest-2025-01-29 | 8.167 |
 | ibmgranite41b-h | 8.167 |
@@ -168,6 +169,7 @@
 | chatgpt-4o-latest-2025-04-26 | 8.133 |
 | gemini-3-flash-preview | 8.133 |
 | gemma312b-it-q8_0 | 8.133 |
+| openaigpt-5.4 | 8.133 |
 | qwen34b-instruct-2507-q8_0 | 8.117 |
 | claude-opus-4-5-20251101 | 8.100 |
 | gpt-4-1106-preview | 8.100 |

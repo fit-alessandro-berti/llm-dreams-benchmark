@@ -115,10 +115,12 @@
 | chatgpt-4o-latest-2025-03-26 | 7.433 |
 | grok-4-1-fast-reasoning | 7.417 |
 | minimaxminimax-m2.1 | 7.417 |
+| openaigpt-5.4-pro | 7.417 |
 | claude-3-7-sonnet-20250219 | 7.400 |
 | gemma-3-27b-it | 7.400 |
 | claude-3-7-sonnet-20250219-thinking-high | 7.383 |
 | gemini-2.5-pro-preview-06-05 | 7.383 |
+| openaigpt-5.4 | 7.383 |
 | openaigpt-oss-20b | 7.383 |
 | qwen38b | 7.383 |
 | qwenqwen3-235b-a22b-07-25 | 7.367 |

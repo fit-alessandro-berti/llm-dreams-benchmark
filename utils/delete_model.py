@@ -14,7 +14,7 @@ def do_deletion(base_path, original_name):
 
 
 if __name__ == "__main__":
-    original_name = "openrouterbert-nebulon-alpha_"
+    original_name = "phi4-mini-reasoning_"
 
     if not original_name.endswith("_"):
         raise Exception("error")

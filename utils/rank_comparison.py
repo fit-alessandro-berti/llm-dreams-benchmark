@@ -24,6 +24,7 @@ def interpret(content):
 JUDGES = {
     "grok-3": interpret(open(os.path.join("..", "alt_results_grok3.md"), "r").read()),
     "grok-4-1-fast-non-reasoning": interpret(open(os.path.join("..", "alt_results_grok41fast.md"), "r").read()),
+    "grok-4.2": interpret(open(os.path.join("..", "alt_results_grok42.md"), "r").read()),
     "gemini-2.5-flash": interpret(open(os.path.join("..", "alt_results_gemini25_flash.md"), "r").read()),
     "gpt-5.1": interpret(open(os.path.join("..", "alt_results_gpt51.md"), "r").read()),
     "gpt-5.2": interpret(open(os.path.join("..", "alt_results_gpt52.md"), "r").read()),

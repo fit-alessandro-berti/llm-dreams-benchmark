@@ -441,9 +441,6 @@
   "magistral-small-2506": [
     24
   ],
-  "meta-llamaLlama-3.2-1B-Instruct": [
-    1
-  ],
   "meta-llamaLlama-3.2-3B-Instruct": [
     3
   ],
@@ -639,9 +636,6 @@
   ],
   "openrouteraurora-alpha": [],
   "phi3.53.8b-mini-instruct-fp16": [
-    3.8
-  ],
-  "phi4-mini-reasoning": [
     3.8
   ],
   "phi4-reasoning": [

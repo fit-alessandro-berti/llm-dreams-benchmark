@@ -1,6 +1,4 @@
 # llm-dreams-benchmark
-> **Archived:** This benchmark is archived in favor of a new one: [d-bench](https://github.com/fit-alessandro-berti/d-bench).
-
 Personality traits benchmark for LLMs based on 'dreams' interpretation
 
 Read the official [**pre-print**](https://www.alessandroberti.it/new_papers/pre_print_llmdreamsbenchmark.pdf).

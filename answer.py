@@ -117,7 +117,48 @@ def perform_query_new_openai_api(text):
     return response["output"][-1]["content"][0]["text"]
 
 
-def perform_query_openai_api(text):
+def strip_thinking_tags(response_message):
+    return response_message.split("</think>")[-1].split("</thought>")[-1]
+
+
+def _perform_streaming_chat_completion(complete_url, headers, payload):
+    response_message = ""
+    chunk_count = 0
+
+    with requests.post(complete_url, headers=headers, json=payload, timeout=60*60, stream=True) as resp:
+        for line in resp.iter_lines():
+            if not line:
+                continue
+            decoded_line = line.decode("utf-8")
+
+            if decoded_line.startswith("data: "):
+                data_str = decoded_line[len("data: "):].strip()
+                if data_str == "[DONE]":
+                    break
+                data_json = json.loads(data_str)
+                if "choices" in data_json:
+                    chunk_content = data_json["choices"][0]["delta"].get("content", "")
+                    if chunk_content:
+                        response_message += chunk_content
+                        chunk_count += 1
+                        if chunk_count % 10 == 0:
+                            pass
+
+    return response_message
+
+
+def _perform_non_streaming_chat_completion(complete_url, headers, payload):
+    response = requests.post(complete_url, headers=headers, json=payload, timeout=60*60)
+    if response.status_code != 200:
+        print(response)
+        print(response.status_code)
+        print(response.text)
+
+    response = response.json()
+    return response["choices"][0]["message"]["content"]
+
+
+def perform_query_openai_api(text, streaming_enabled=None):
     messages = [{"role": "user",
                  "content": text}]
 
@@ -138,42 +179,15 @@ def perform_query_openai_api(text):
 
     while not response_message:
         try:
-            streaming_enabled = True  # Example usage
+            if streaming_enabled is None:
+                streaming_enabled = "alpha" not in MODEL_NAME and "seed" not in MODEL_NAME
 
             if streaming_enabled:
                 payload["stream"] = True
-                response_message = None
-                response_message = ""
-                chunk_count = 0
-
-                # We add stream=True to requests so we can iterate over chunks
-                with requests.post(complete_url, headers=headers, json=payload, timeout=60*60, stream=True) as resp:
-                    #print(resp)
-                    #print(resp.status_code)
-                    #print(resp.text)
-                    for line in resp.iter_lines():
-                        if not line:
-                            continue
-                        decoded_line = line.decode("utf-8")
-
-                        # OpenAI-style streaming lines begin with "data: "
-                        if decoded_line.startswith("data: "):
-                            data_str = decoded_line[len("data: "):].strip()
-                            if data_str == "[DONE]":
-                                # End of stream
-                                break
-                            data_json = json.loads(data_str)
-                            if "choices" in data_json:
-                                # Each chunk has a delta with partial content
-                                chunk_content = data_json["choices"][0]["delta"].get("content", "")
-                                if chunk_content:
-                                    response_message += chunk_content
-                                    chunk_count += 1
-                                    #print(chunk_count)
-                                    if chunk_count % 10 == 0:
-                                        #print(chunk_count, len(response_message), response_message.replace("\n", " ").replace("\r", "").strip())
-                                        #print(chunk_count, len(response_message))
-                                        pass
+                response_message = _perform_streaming_chat_completion(complete_url, headers, payload)
+            else:
+                payload.pop("stream", None)
+                response_message = _perform_non_streaming_chat_completion(complete_url, headers, payload)
         except:
             traceback.print_exc()
 
@@ -181,7 +195,7 @@ def perform_query_openai_api(text):
 
             time.sleep(WAITING_TIME_RETRY)
 
-        return response_message.split("</think>")[-1].split("</thought>")[-1]
+    return strip_thinking_tags(response_message)
 
 def perform_query_anthropic_api(question):
     ANTHROPIC_THINKING_TOKENS = None

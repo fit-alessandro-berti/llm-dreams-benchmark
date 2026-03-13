@@ -1,4 +1,4 @@
-ANSWERING_MODEL_NAME = "grok-4.20-multi-agent-experimental-beta-0304"
+ANSWERING_MODEL_NAME = "bytedance-seed/seed-2.0-mini"
 EVALUATING_MODEL_NAME = "gpt-5.2"
 
 

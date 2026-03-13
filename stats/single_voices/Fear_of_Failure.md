@@ -118,10 +118,12 @@
 | gemini-2.5-flash-lite-preview-06-17 | 6.150 |
 | qwen30.6b | 6.125 |
 | gpt-4-1106-preview | 6.112 |
+| openrouterhunter-alpha | 6.100 |
 | chatgpt-4o-latest-2025-04-26 | 6.100 |
 | claude-3-7-sonnet-20250219 | 6.088 |
 | minimaxminimax-m2.1 | 6.088 |
 | nousresearchhermes-4-70b | 6.088 |
+| bytedance-seedseed-2.0-lite | 6.062 |
 | gemma-3-27b-it | 6.037 |
 | ai21jamba-large-1.7 | 6.025 |
 | amazonnova-2-lite-v1 | 6.013 |
@@ -140,6 +142,7 @@
 | minimaxminimax-m2free | 5.862 |
 | gpt-5-pro-2025-10-06 | 5.812 |
 | qwenqwen3-next-80b-a3b-instruct | 5.812 |
+| bytedance-seedseed-2.0-mini | 5.800 |
 | nvidiallama-3.1-nemotron-ultra-253b-v1free | 5.800 |
 | gemini-2.5-flash-lite-preview-09-2025 | 5.775 |
 | falcon33b-instruct-q8_0 | 5.763 |
@@ -161,6 +164,7 @@
 | googlegemini-3.1-flash-lite-preview | 5.513 |
 | qwenqwen3.5-27b | 5.513 |
 | allenaiolmo-3.1-32b-instruct | 5.512 |
+| openrouterhealer-alpha | 5.512 |
 | gpt-5-2025-08-07 | 5.488 |
 | gpt-5-chat-latest-2025-08-19 | 5.438 |
 | liquidlfm-2.5-1.2b-instructfree | 5.438 |

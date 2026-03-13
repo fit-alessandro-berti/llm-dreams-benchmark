@@ -88,6 +88,7 @@
 | x-aigrok-code-fast-1 | 8.900 |
 | mistral-small-2501 | 8.900 |
 | gemini-2.0-flash-exp | 8.888 |
+| bytedance-seedseed-2.0-mini | 8.887 |
 | gemma-3-27b-it | 8.887 |
 | gpt-3.5-turbo | 8.887 |
 | claude-haiku-4-5-20251001 | 8.875 |
@@ -102,6 +103,7 @@
 | o1-2024-12-17 | 8.862 |
 | phi4-reasoning | 8.862 |
 | chatgpt-4o-latest-2025-03-26 | 8.850 |
+| openrouterhunter-alpha | 8.850 |
 | ministral-3b-2410 | 8.850 |
 | nvidiaLlama-3.1-Nemotron-70B-Instruct | 8.850 |
 | nvidianemotron-3-nano-30b-a3bfree | 8.850 |
@@ -111,6 +113,7 @@
 | grok-4-0709 | 8.838 |
 | nousresearchhermes-4-405b | 8.838 |
 | chatgpt-4o-latest-2025-04-26 | 8.825 |
+| openrouterhealer-alpha | 8.825 |
 | qwen-max-2025-01-25 | 8.825 |
 | qwenqwen3-max | 8.825 |
 | allenaiolmo-3-7b-instruct | 8.812 |
@@ -190,6 +193,7 @@
 | qwen34b | 8.500 |
 | QwenQwen3-14B | 8.500 |
 | QwenQwen3-30B-A3B | 8.488 |
+| bytedance-seedseed-2.0-lite | 8.487 |
 | r1-1776 | 8.463 |
 | smollm21.7b-instruct-q6_K | 8.463 |
 | gpt-4o-mini-2024-11-05 | 8.450 |

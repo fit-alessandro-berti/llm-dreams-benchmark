@@ -104,6 +104,8 @@
     300,
     47
   ],
+  "bytedance-seedseed-2.0-lite": [],
+  "bytedance-seedseed-2.0-mini": [],
   "chatgpt-4o-latest-2024-11-20": [
     400
   ],
@@ -635,6 +637,8 @@
     3.6
   ],
   "openrouteraurora-alpha": [],
+  "openrouterhealer-alpha": [],
+  "openrouterhunter-alpha": [],
   "phi3.53.8b-mini-instruct-fp16": [
     3.8
   ],

@@ -71,6 +71,7 @@
 | arcee-aitrinity-large-previewfree | 7.350 |
 | gpt-5-2025-08-07 | 7.350 |
 | qwen-plus-2025-01-25 | 7.350 |
+| bytedance-seedseed-2.0-mini | 7.338 |
 | qwenqwen3.5-122b-a10b | 7.312 |
 | qwenqwen3-coder | 7.300 |
 | gpt-4.1-nano-2025-04-14 | 7.300 |
@@ -87,6 +88,7 @@
 | gemini-2.0-flash-exp | 7.225 |
 | openaigpt-5.2-codex | 7.225 |
 | qwen2.5-7b-instruct | 7.225 |
+| openrouterhealer-alpha | 7.225 |
 | grok-4.20-experimental-beta-0304-reasoning | 7.200 |
 | qwen-max-2025-01-25 | 7.175 |
 | qwenqwen3.5-27b | 7.175 |
@@ -95,11 +97,13 @@
 | qwenqwen3.5-397b-a17b | 7.125 |
 | o1-pro-2024-12-17 | 7.100 |
 | qwenqwen3-next-80b-a3b-thinking | 7.088 |
+| bytedance-seedseed-2.0-lite | 7.087 |
 | gpt-5-chat-latest-2025-08-19 | 7.087 |
 | gemini-2.5-flash-lite-preview-09-2025 | 7.075 |
 | qwen2.5-omni-7b | 7.063 |
 | nousresearchhermes-4-405b | 7.050 |
 | baiduernie-4.5-21b-a3b | 7.050 |
+| openrouterhunter-alpha | 7.050 |
 | amazonnova-2-lite-v1 | 7.037 |
 | devstral-small-2505 | 7.025 |
 | Grok-4-fast | 7.025 |

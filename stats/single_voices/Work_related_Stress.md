@@ -139,11 +139,13 @@
 | minimaxminimax-m2.1 | 6.825 |
 | qwen2.5-7b-instruct-1m | 6.800 |
 | liquidlfm-2-24b-a2b | 6.763 |
+| bytedance-seedseed-2.0-lite | 6.750 |
 | granite4micro-h | 6.750 |
 | Grok-4-fast-20251111 | 6.725 |
 | devstral-small-2505 | 6.713 |
 | gemma-3-27b-it | 6.713 |
 | nvidiaLlama-3.1-Nemotron-70B-Instruct | 6.712 |
+| openrouterhunter-alpha | 6.700 |
 | gpt-4-1106-preview | 6.638 |
 | gpt-4.1-nano-2025-04-14 | 6.625 |
 | arcee-aitrinity-large-previewfree | 6.612 |
@@ -157,9 +159,11 @@
 | gemini-1.5-flash-002 | 6.537 |
 | gemini-2.5-pro-preview-06-05 | 6.525 |
 | gpt-3.5-turbo | 6.513 |
+| openrouterhealer-alpha | 6.500 |
 | qwen2.5-omni-7b | 6.500 |
 | granite4micro | 6.488 |
 | gpt-5-pro-2025-10-06 | 6.487 |
+| bytedance-seedseed-2.0-mini | 6.463 |
 | qwen2.5-7b-instruct | 6.450 |
 | gpt-5-chat-latest-2025-08-19 | 6.438 |
 | qwenqwen3-next-80b-a3b-instruct | 6.437 |

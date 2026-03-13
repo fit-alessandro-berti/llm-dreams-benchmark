@@ -5,6 +5,7 @@
 | open-mistral-7b | 8.425 |
 | gpt-4.5-preview | 8.363 |
 | qwen2.5-32b-instruct | 8.362 |
+| bytedance-seedseed-2.0-mini | 8.350 |
 | grok-2-1212 | 8.350 |
 | mistral-small-2409 | 8.337 |
 | open-mixtral-8x22b | 8.312 |
@@ -16,6 +17,7 @@
 | gpt-3.5-turbo | 8.213 |
 | codestral-2501 | 8.200 |
 | qwen2.5-72b-instruct | 8.188 |
+| bytedance-seedseed-2.0-lite | 8.137 |
 | o1-mini | 8.137 |
 | o1-preview-2024-09-12 | 8.125 |
 | gpt-4o-2024-08-06 | 8.113 |
@@ -99,8 +101,10 @@
 | o1-pro-2024-12-05 | 7.450 |
 | claude-3-7-sonnet-20250219 | 7.438 |
 | gemini-2.5-pro-preview-05-06 | 7.438 |
+| openrouterhunter-alpha | 7.425 |
 | nvidianemotron-3-nano-30b-a3bfree | 7.400 |
 | deepseek-aiDeepSeek-R1-Zero | 7.400 |
+| openrouterhealer-alpha | 7.388 |
 | qwenqwen3-next-80b-a3b-instruct | 7.388 |
 | chatgpt-4o-latest-2025-03-26 | 7.388 |
 | claude-3-7-sonnet-20250219-thinking-high | 7.388 |

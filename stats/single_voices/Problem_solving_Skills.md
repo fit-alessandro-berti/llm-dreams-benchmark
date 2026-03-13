@@ -137,6 +137,7 @@
 | gemma-3-27b-it | 8.312 |
 | Gpt-5.1-Pro-20251120 | 8.312 |
 | minimaxminimax-m2free | 8.312 |
+| bytedance-seedseed-2.0-mini | 8.300 |
 | claude-3-7-sonnet-20250219-thinking-high | 8.300 |
 | gemini-2.5-pro-preview-05-06 | 8.300 |
 | grok-4-1-fast-reasoning | 8.300 |
@@ -144,6 +145,7 @@
 | openaigpt-5.1-codex-max | 8.300 |
 | prime-intellectintellect-3 | 8.300 |
 | qwen-turbo-0428 | 8.300 |
+| openrouterhealer-alpha | 8.300 |
 | qwenqwen3-max | 8.300 |
 | qwen3.59b | 8.288 |
 | QwenQwen3-14B | 8.287 |
@@ -187,6 +189,7 @@
 | grok-4-0709 | 8.062 |
 | Grok-4.1-20251118 | 8.062 |
 | qwenqwen3-235b-a22b-thinking-2507 | 8.062 |
+| openrouterhunter-alpha | 8.050 |
 | claude-3-5-sonnet-20241022 | 8.038 |
 | meta-llamaMeta-Llama-3.1-70B-Instruct | 8.025 |
 | ministral-8b-2512 | 8.025 |
@@ -230,6 +233,7 @@
 | claude-haiku-4-5-20251001 | 7.662 |
 | meta-llamallama-4-maverick | 7.662 |
 | gpt-5-chat-latest-2025-08-07 | 7.625 |
+| bytedance-seedseed-2.0-lite | 7.600 |
 | minimaxminimax-m2-her | 7.587 |
 | qwenqwen3.5-397b-a17b | 7.575 |
 | qwenqwen3-next-80b-a3b-instruct | 7.562 |

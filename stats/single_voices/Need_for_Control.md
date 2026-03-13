@@ -200,6 +200,7 @@
 | openaigpt-5.1-codex-max | 5.550 |
 | gemma-3n-e4b-it | 5.537 |
 | qwen2.5-32b-instruct | 5.537 |
+| bytedance-seedseed-2.0-mini | 5.513 |
 | googlegemini-3.1-flash-lite-preview | 5.513 |
 | moonshotaikimi-k2.5 | 5.513 |
 | gpt-5-2025-08-07 | 5.500 |
@@ -209,16 +210,19 @@
 | openaigpt-oss-20b | 5.475 |
 | qwenqwen3.5-35b-a3b | 5.462 |
 | chatgpt-4o-latest-2025-03-26 | 5.450 |
+| openrouterhunter-alpha | 5.425 |
 | qwenqwen3-max-thinking | 5.425 |
 | gpt-4-turbo-2024-04-09 | 5.413 |
 | gemini-3-flash-preview | 5.388 |
 | gemini-2.0-flash-exp | 5.387 |
 | nvidianemotron-3-nano-30b-a3bfree | 5.375 |
+| openrouterhealer-alpha | 5.362 |
 | gpt-5-mini-2025-08-07 | 5.350 |
 | qwen34b | 5.288 |
 | claude-opus-4-5-20251101 | 5.237 |
 | qwenqwen3-coder | 5.225 |
 | gemma312b-it-q8_0 | 5.213 |
+| bytedance-seedseed-2.0-lite | 5.212 |
 | Grok-4-fast | 5.200 |
 | anthropicclaude-opus-4.6 | 5.175 |
 | phi4-reasoningplus | 5.175 |

@@ -25,6 +25,7 @@
 | qwen2.5-72b-instruct | 8.525 |
 | gpt-4o-2024-08-06 | 8.513 |
 | liquidlfm-2.2-6b | 8.513 |
+| bytedance-seedseed-2.0-mini | 8.512 |
 | mistral-large-2407 | 8.512 |
 | o4-mini-2025-04-16 | 8.512 |
 | open-mistral-nemo | 8.512 |
@@ -86,6 +87,7 @@
 | openaigpt-5.1-codex-max | 8.200 |
 | qwen-plus-2025-01-25 | 8.200 |
 | qwenqwen3-next-80b-a3b-instruct | 8.188 |
+| bytedance-seedseed-2.0-lite | 8.175 |
 | o1-2024-12-05 | 8.175 |
 | mistral-small-2409 | 8.175 |
 | phi3.53.8b-mini-instruct-fp16 | 8.175 |
@@ -100,6 +102,7 @@
 | liquidlfm-2.5-1.2b-thinkingfree | 8.125 |
 | baiduernie-4.5-300b-a47b | 8.113 |
 | nvidianemotron-3-nano-30b-a3bfree | 8.113 |
+| openrouterhealer-alpha | 8.113 |
 | granite4micro | 8.112 |
 | phi4-reasoning | 8.100 |
 | Grok-3-20250426-concise | 8.100 |
@@ -109,6 +112,7 @@
 | deepseek-aiDeepSeek-V3 | 8.050 |
 | openaigpt-oss-20b | 8.037 |
 | falcon310b-instruct-q8_0 | 8.025 |
+| openrouterhunter-alpha | 8.013 |
 | claude-3-7-sonnet-20250219 | 8.012 |
 | qwenqwen3-235b-a22b-07-25 | 8.012 |
 | claude-3-7-sonnet-20250219-thinking-high | 8.000 |

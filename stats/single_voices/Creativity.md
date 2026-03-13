@@ -71,15 +71,18 @@
 | z-aiglm-5 | 9.625 |
 | QwenQwen3-30B-A3B | 9.625 |
 | nvidianemotron-3-nano-30b-a3bfree | 9.613 |
+| openrouterhealer-alpha | 9.613 |
 | gemma312b-it-q8_0 | 9.612 |
 | openaigpt-5.3-codex | 9.612 |
 | qwenqwen3-235b-a22b-07-25 | 9.612 |
 | QwenQwen3-32B | 9.612 |
 | qwenqwen3.5-plus-02-15 | 9.612 |
 | allenaiolmo-3-7b-think | 9.600 |
+| bytedance-seedseed-2.0-lite | 9.600 |
 | claude-haiku-4-5-20251001 | 9.600 |
 | Gemini-1.5-Pro-Exp-0827 | 9.600 |
 | gemini-2.5-flash-preview-04-17 | 9.600 |
+| openrouterhunter-alpha | 9.600 |
 | qwenqwen3-235b-a22b-thinking-2507 | 9.600 |
 | r1-1776 | 9.600 |
 | chatgpt-4o-latest-2025-04-26 | 9.588 |
@@ -88,6 +91,7 @@
 | minimaxminimax-m2free | 9.588 |
 | gemini-2.5-flash-preview-05-20 | 9.575 |
 | qwen34b | 9.575 |
+| bytedance-seedseed-2.0-mini | 9.575 |
 | claude-3-7-sonnet-20250219-thinking-high | 9.575 |
 | codex-mini-latest | 9.575 |
 | deepseekdeepseek-v3.2 | 9.575 |

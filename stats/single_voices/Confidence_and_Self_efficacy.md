@@ -123,12 +123,14 @@
 | liquidlfm-2.5-1.2b-thinkingfree | 7.375 |
 | openaigpt-5.2-codex | 7.375 |
 | smollm21.7b-instruct-q6_K | 7.375 |
+| openrouterhealer-alpha | 7.350 |
 | gpt-4-1106-preview | 7.350 |
 | googlegemini-3.1-pro-preview | 7.350 |
 | gpt-4o-mini-2024-11-05 | 7.350 |
 | qwenqwen3-30b-a3b-instruct-2507 | 7.350 |
 | qwenqwen3-max-thinking | 7.350 |
 | qwenqwen3.5-397b-a17b | 7.350 |
+| bytedance-seedseed-2.0-mini | 7.337 |
 | deepseekdeepseek-r1 | 7.337 |
 | gpt-5-2025-08-07 | 7.325 |
 | gpt-5-pro-2025-10-06 | 7.325 |
@@ -178,7 +180,9 @@
 | meta-llamaLlama-3.2-3B-Instruct | 6.912 |
 | openaigpt-5.4 | 6.912 |
 | qwen34b | 6.912 |
+| bytedance-seedseed-2.0-lite | 6.900 |
 | z-aiglm-4.5-air | 6.900 |
+| openrouterhunter-alpha | 6.900 |
 | DeepSeek-V3-0324 | 6.875 |
 | chatgpt-4o-latest-20250215 | 6.875 |
 | gemma312b-it-q8_0 | 6.862 |

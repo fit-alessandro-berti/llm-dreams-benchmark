@@ -197,11 +197,13 @@
 | ministral-8b-2512 | 8.012 |
 | QwenQwen3-235B-A22B | 8.012 |
 | qwenqwen3-coder-next | 7.987 |
+| bytedance-seedseed-2.0-mini | 7.975 |
 | ministral-14b-2512 | 7.975 |
 | qwenqwen3-235b-a22b-thinking-2507 | 7.963 |
 | openaigpt-5.3-chat | 7.938 |
 | Qwen-QwQ-32B | 7.938 |
 | grok-4.20-multi-agent-experimental-beta-0304 | 7.938 |
+| openrouterhealer-alpha | 7.900 |
 | moonshotaikimi-k2.5 | 7.900 |
 | qwenqwen3.5-35b-a3b | 7.900 |
 | aion-labsaion-2.0 | 7.875 |
@@ -223,6 +225,7 @@
 | qwen34b | 7.737 |
 | mistral-large-2512 | 7.725 |
 | gemini-2.5-flash-preview-09-2025 | 7.688 |
+| openrouterhunter-alpha | 7.688 |
 | qwen34b-instruct-2507-q8_0 | 7.675 |
 | qwenqwen3.5-122b-a10b | 7.675 |
 | gemini-2.0-flash-lite-preview-02-05 | 7.625 |
@@ -240,6 +243,7 @@
 | nvidiallama-3.1-nemotron-nano-8b-v1 | 7.425 |
 | qwen3.50.8b | 7.413 |
 | anthropicclaude-sonnet-4.5 | 7.350 |
+| bytedance-seedseed-2.0-lite | 7.350 |
 | anthropicclaude-opus-4.1 | 7.312 |
 | claude-haiku-4-5-20251001 | 7.275 |
 | smollm2135m | 7.213 |

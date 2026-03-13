@@ -122,6 +122,7 @@
 | nvidiaLlama-3.1-Nemotron-70B-Instruct | 7.538 |
 | minimaxminimax-m2.1 | 7.537 |
 | openaigpt-5.4-pro | 7.525 |
+| openrouterhunter-alpha | 7.525 |
 | googlegemma-2-9b-it | 7.513 |
 | mistral-medium-2505 | 7.500 |
 | chatgpt-4o-latest-2024-11-20 | 7.488 |
@@ -185,6 +186,7 @@
 | o4-mini-2025-04-16 | 7.037 |
 | qwenqwen3.5-27b | 7.025 |
 | falcon310b-instruct-q8_0 | 7.013 |
+| openrouterhealer-alpha | 6.988 |
 | ministral-8b-2410 | 6.975 |
 | mistral-large-2411 | 6.963 |
 | gpt-3.5-turbo | 6.950 |
@@ -196,11 +198,13 @@
 | qwen2.5-omni-7b | 6.913 |
 | Grok-3-20250426-concise | 6.912 |
 | ChatGPT-5.1-Instant-20251113 | 6.912 |
+| bytedance-seedseed-2.0-mini | 6.863 |
 | o1-2024-12-17 | 6.862 |
 | qwenqwen3-next-80b-a3b-thinking | 6.862 |
 | qwenqwen3.5-397b-a17b | 6.862 |
 | o1-pro-2024-12-05 | 6.850 |
 | qwenqwen3.5-plus-02-15 | 6.850 |
+| bytedance-seedseed-2.0-lite | 6.850 |
 | liquidlfm2-8b-a1b | 6.838 |
 | nvidianemotron-3-nano-30b-a3bfree | 6.838 |
 | codex-mini-latest | 6.825 |

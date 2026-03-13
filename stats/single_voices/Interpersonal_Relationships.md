@@ -8,7 +8,9 @@
 | open-mixtral-8x22b | 8.425 |
 | o1-preview-2024-09-12 | 8.425 |
 | codestral-2501 | 8.412 |
+| bytedance-seedseed-2.0-lite | 8.387 |
 | qwen2.5-32b-instruct | 8.363 |
+| bytedance-seedseed-2.0-mini | 8.350 |
 | microsoftWizardLM-2-8x22B | 8.338 |
 | gpt-3.5-turbo | 8.325 |
 | gpt-4-turbo-2024-04-09 | 8.312 |
@@ -83,6 +85,7 @@
 | anthropicclaude-sonnet-4.6 | 7.737 |
 | qwen2.5-7b-instruct-1m | 7.737 |
 | phi4-reasoningplus | 7.737 |
+| openrouterhunter-alpha | 7.725 |
 | smollm21.7b-instruct-q6_K | 7.700 |
 | mistral-small-2503 | 7.700 |
 | anthropicclaude-opus-4.6 | 7.688 |
@@ -97,6 +100,7 @@
 | ChatGPT-5.1-Instant-20251113 | 7.625 |
 | openaigpt-5.2-codex | 7.625 |
 | qwenqwen3.5-plus-02-15 | 7.613 |
+| openrouterhealer-alpha | 7.612 |
 | ai21jamba-large-1.7 | 7.563 |
 | googlegemma-2-9b-it | 7.562 |
 | gpt-4-1106-preview | 7.550 |

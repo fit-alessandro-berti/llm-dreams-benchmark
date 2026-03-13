@@ -69,6 +69,7 @@
 | openaigpt-5.4-pro | 8.863 |
 | qwen-max-2025-01-25 | 8.863 |
 | gpt-4.1-2025-04-14 | 8.862 |
+| bytedance-seedseed-2.0-mini | 8.850 |
 | phi4-reasoning | 8.850 |
 | qwenqwen3-max-thinking | 8.850 |
 | ministral-8b-2410 | 8.838 |
@@ -119,6 +120,7 @@
 | exaone-deep7.8b-fp16 | 8.638 |
 | gemini-2.0-flash-exp | 8.638 |
 | ChatGPT-5.1-Instant-20251113 | 8.637 |
+| openrouterhealer-alpha | 8.637 |
 | chatgpt-4o-latest-2025-03-26 | 8.625 |
 | Grok-4-fast-20251111 | 8.625 |
 | ministral-3b-2410 | 8.625 |
@@ -141,6 +143,7 @@
 | Gemini-1.5-Pro-Exp-0801 | 8.525 |
 | gemini-2.5-pro-preview-05-06 | 8.525 |
 | ai21jamba-large-1.7 | 8.512 |
+| bytedance-seedseed-2.0-lite | 8.512 |
 | claude-haiku-4-5-20251001 | 8.512 |
 | claude-3-7-sonnet-20250219-thinking-high | 8.500 |
 | gemma-3-27b-it | 8.500 |
@@ -150,6 +153,7 @@
 | qwenqwen3.5-397b-a17b | 8.488 |
 | chatgpt-4o-latest-2025-04-26 | 8.487 |
 | gpt-4-1106-preview | 8.475 |
+| openrouterhunter-alpha | 8.475 |
 | chatgpt-4o-latest-2024-11-20 | 8.463 |
 | deepseekdeepseek-r1 | 8.463 |
 | Gpt-5.1-Pro-20251120 | 8.463 |

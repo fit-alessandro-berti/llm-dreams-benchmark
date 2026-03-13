@@ -1,27 +1,35 @@
 from typing import Dict, List, Optional, Tuple
 import numpy as np
-import pandas as pd
 import sys
 import os
 
-ALL_STDS = []
+PERSONALITY_HEADERS = [
+    "Anxiety and Stress Levels",
+    "Emotional Stability",
+    "Problem-solving Skills",
+    "Creativity",
+    "Interpersonal Relationships",
+    "Confidence and Self-efficacy",
+    "Conflict Resolution",
+    "Work-related Stress",
+    "Adaptability",
+    "Achievement Motivation",
+    "Fear of Failure",
+    "Need for Control",
+    "Cognitive Load",
+    "Social Support",
+    "Resilience",
+]
+DEFAULT_EMBEDDING_METHOD = os.environ.get("PARSE_COMPUTE_METRICS_EMBEDDING", "pca").strip().lower()
 
 
-def parse_markdown_table(file_path: str) -> Dict[str, Dict[str, float]]:
-    """[Previous parsing function remains the same]"""
+def parse_markdown_table(file_path: str) -> Tuple[Dict[str, Dict[str, float]], List[float]]:
     result = {}
-    headers = [
-        "Anxiety and Stress Levels", "Emotional Stability", "Problem-solving Skills",
-        "Creativity", "Interpersonal Relationships", "Confidence and Self-efficacy",
-        "Conflict Resolution", "Work-related Stress", "Adaptability",
-        "Achievement Motivation", "Fear of Failure", "Need for Control",
-        "Cognitive Load", "Social Support", "Resilience"
-    ]
+    std_values = []
 
     try:
         with open(file_path, 'r', encoding='utf-8') as file:
-            content = file.read()
-        lines = content.split('\n')
+            lines = file.read().split('\n')
         in_table = False
         header_found = False
 
@@ -30,27 +38,98 @@ def parse_markdown_table(file_path: str) -> Dict[str, Dict[str, float]]:
                 in_table = True
                 header_found = True
                 continue
-            if in_table and line.strip().startswith('|:--'):
+            if in_table and is_markdown_separator_row(line):
                 continue
             if in_table and line.strip().startswith('|'):
                 columns = [col.strip() for col in line.split('|')[1:-1]]
                 llm_name = columns[0].strip()
                 metrics = {}
-                for header, value in zip(headers, columns[2:]):
+                for header, value in zip(PERSONALITY_HEADERS, columns[2:]):
                     this_mean = float(value.split("$")[0])
                     this_std = float(value.split("$")[2])
-                    ALL_STDS.append(this_std)
+                    std_values.append(this_std)
                     metrics[header] = this_mean
                 result[llm_name] = metrics
             if in_table and not line.strip().startswith('|') and header_found:
                 break
-        ALL_STDS.sort()
-        return result
+        return result, std_values
 
     except FileNotFoundError:
         raise FileNotFoundError(f"Error: File '{file_path}' not found")
     except Exception as e:
         raise Exception(f"Error processing file: {str(e)}")
+
+
+def is_markdown_separator_row(line: str) -> bool:
+    stripped = line.strip()
+    if not (stripped.startswith("|") and stripped.endswith("|")):
+        return False
+
+    columns = [col.strip() for col in stripped.split("|")[1:-1]]
+    if not columns:
+        return False
+
+    for column in columns:
+        if not column:
+            return False
+        if any(char not in "-:" for char in column):
+            return False
+
+    return True
+
+
+def build_metric_matrix(data: Dict[str, Dict[str, float]]) -> Tuple[List[str], np.ndarray]:
+    labels = list(data.keys())
+    matrix = np.asarray(
+        [[data[label][header] for header in PERSONALITY_HEADERS] for label in labels],
+        dtype=float,
+    )
+    return labels, matrix
+
+
+def standardize_columns(matrix: np.ndarray) -> np.ndarray:
+    means = matrix.mean(axis=0)
+    stds = matrix.std(axis=0)
+    safe_stds = np.where(stds == 0.0, 1.0, stds)
+    return (matrix - means) / safe_stds
+
+
+def compute_axis_std(matrix: np.ndarray, axis: int) -> np.ndarray:
+    axis_length = matrix.shape[axis]
+    if axis_length <= 1:
+        output_size = matrix.shape[1 - axis]
+        return np.zeros(output_size, dtype=float)
+    return matrix.std(axis=axis, ddof=1)
+
+
+def compute_pca_embedding(standardized_data: np.ndarray) -> np.ndarray:
+    if len(standardized_data) == 0:
+        return np.empty((0, 2), dtype=float)
+    if len(standardized_data) == 1:
+        return np.zeros((1, 2), dtype=float)
+
+    _, _, vt = np.linalg.svd(standardized_data, full_matrices=False)
+    components = vt[:2].T
+    embedding = standardized_data @ components
+
+    if embedding.shape[1] == 1:
+        padding = np.zeros((embedding.shape[0], 1), dtype=float)
+        embedding = np.hstack([embedding, padding])
+
+    return embedding[:, :2]
+
+
+def compute_embedding(standardized_data: np.ndarray) -> Tuple[str, np.ndarray]:
+    if DEFAULT_EMBEDDING_METHOD == "umap":
+        try:
+            import umap
+
+            reducer = umap.UMAP(n_components=2, random_state=42, metric='euclidean')
+            return "umap", reducer.fit_transform(standardized_data)
+        except Exception:
+            pass
+
+    return "pca", compute_pca_embedding(standardized_data)
 
 
 def _format_tree_from_scipy(Z: np.ndarray, labels: List[str]) -> Tuple[str, int]:
@@ -167,75 +246,89 @@ def _build_hierarchical_text(
 
 def analyze_variability(data: Dict[str, Dict[str, float]]) -> Dict:
     """
-    Compute various variability metrics for the parsed data using UMAP instead of PCA,
-    and append a textual representation of hierarchical clustering between models.
+    Compute various variability metrics and append a textual representation
+    of hierarchical clustering between models.
     """
-    import umap
-    from sklearn.preprocessing import StandardScaler
-
-    # Convert to DataFrame for easier analysis
-    df = pd.DataFrame(data).T
+    labels, matrix = build_metric_matrix(data)
+    standardized_data = standardize_columns(matrix)
+    column_std = compute_axis_std(matrix, axis=0)
 
     # Initialize results dictionary
     results = {}
 
     # 1. Basic statistics per metric
     results['basic_stats'] = {
-        'mean': df.mean().to_dict(),
-        'std': df.std().to_dict(),
-        'coeff_variation': (df.std() / df.mean()).to_dict(),
-        'range': (df.max() - df.min()).to_dict()
+        'mean': dict(zip(PERSONALITY_HEADERS, matrix.mean(axis=0).tolist())),
+        'std': dict(zip(PERSONALITY_HEADERS, column_std.tolist())),
+        'coeff_variation': dict(
+            zip(
+                PERSONALITY_HEADERS,
+                np.divide(
+                    column_std,
+                    matrix.mean(axis=0),
+                    out=np.zeros(matrix.shape[1], dtype=float),
+                    where=matrix.mean(axis=0) != 0,
+                ).tolist(),
+            )
+        ),
+        'range': dict(zip(PERSONALITY_HEADERS, (matrix.max(axis=0) - matrix.min(axis=0)).tolist()))
     }
 
-    # 2. UMAP Analysis
-    # Standardize the data
-    scaler = StandardScaler()
-    standardized_data = scaler.fit_transform(df)
-
-    # Apply UMAP
-    reducer = umap.UMAP(n_components=2, random_state=42, metric='euclidean')
-    embedding = reducer.fit_transform(standardized_data)
-
-    # Compute variability metrics from UMAP embedding
-    embedding_df = pd.DataFrame(embedding, index=df.index, columns=['UMAP1', 'UMAP2'])
-    results['umap'] = {
-        'embedding': embedding_df.to_dict(orient='index'),  # 2D coordinates for each LLM
-        'variance_umap1': np.var(embedding[:, 0]),
-        'variance_umap2': np.var(embedding[:, 1]),
-        'total_variance': np.var(embedding[:, 0]) + np.var(embedding[:, 1]),
-        'range_umap1': float(embedding[:, 0].max() - embedding[:, 0].min()),
-        'range_umap2': float(embedding[:, 1].max() - embedding[:, 1].min())
+    # 2. Embedding analysis
+    embedding_method, embedding = compute_embedding(standardized_data)
+    embedding_dict = {
+        label: {"X1": float(coords[0]), "X2": float(coords[1])}
+        for label, coords in zip(labels, embedding)
+    }
+    results['embedding'] = {
+        'method': embedding_method,
+        'embedding': embedding_dict,
+        'variance_x1': float(np.var(embedding[:, 0])) if len(embedding) else 0.0,
+        'variance_x2': float(np.var(embedding[:, 1])) if len(embedding) else 0.0,
+        'total_variance': float(np.var(embedding[:, 0]) + np.var(embedding[:, 1])) if len(embedding) else 0.0,
+        'range_x1': float(embedding[:, 0].max() - embedding[:, 0].min()) if len(embedding) else 0.0,
+        'range_x2': float(embedding[:, 1].max() - embedding[:, 1].min()) if len(embedding) else 0.0,
     }
 
     # 3. Correlation analysis
-    correlation_matrix = df.corr()
-    # Exclude diagonal when taking max correlation
-    mask = ~np.eye(len(correlation_matrix), dtype=bool)
+    correlation_matrix = np.corrcoef(matrix, rowvar=False)
+    if correlation_matrix.ndim == 0:
+        correlation_matrix = np.asarray([[1.0]])
+    abs_correlation = np.abs(correlation_matrix)
+    mask = ~np.eye(abs_correlation.shape[0], dtype=bool)
+    upper_i, upper_j = np.triu_indices_from(correlation_matrix, k=1)
+    high_corr_mask = np.abs(correlation_matrix[upper_i, upper_j]) > 0.7
     results['correlation'] = {
-        'mean_abs_correlation': float(correlation_matrix.abs().values[mask].mean()),
-        'max_correlation': float(correlation_matrix.abs().values[mask].max()),
+        'mean_abs_correlation': float(abs_correlation[mask].mean()) if mask.any() else 0.0,
+        'max_correlation': float(abs_correlation[mask].max()) if mask.any() else 0.0,
         'highly_correlated_pairs': [
-            (col1, col2, float(correlation_matrix.loc[col1, col2]))
-            for col1 in correlation_matrix.columns
-            for col2 in correlation_matrix.columns
-            if col1 < col2 and abs(correlation_matrix.loc[col1, col2]) > 0.7
+            (
+                PERSONALITY_HEADERS[i],
+                PERSONALITY_HEADERS[j],
+                float(correlation_matrix[i, j]),
+            )
+            for i, j in zip(upper_i[high_corr_mask], upper_j[high_corr_mask])
         ]
     }
 
     # 4. Variability across LLMs
-    per_llm_var = df.var(axis=1)
+    per_llm_var = matrix.var(axis=1, ddof=1) if matrix.shape[1] > 1 else np.zeros(len(labels), dtype=float)
+    max_var_idx = int(np.argmax(per_llm_var)) if len(per_llm_var) else 0
+    min_var_idx = int(np.argmin(per_llm_var)) if len(per_llm_var) else 0
     results['llm_variability'] = {
-        'total_variance_per_llm': per_llm_var.to_dict(),
-        'mean_variance': float(per_llm_var.mean()),
-        'max_variance_llm': str(per_llm_var.idxmax()),
-        'min_variance_llm': str(per_llm_var.idxmin())
+        'total_variance_per_llm': {
+            label: float(value) for label, value in zip(labels, per_llm_var)
+        },
+        'mean_variance': float(per_llm_var.mean()) if len(per_llm_var) else 0.0,
+        'max_variance_llm': str(labels[max_var_idx]) if labels else "",
+        'min_variance_llm': str(labels[min_var_idx]) if labels else ""
     }
 
     # 5. Hierarchical clustering (textual tree appended in the output file)
     # Use the same standardized data to ensure scale-invariant clustering.
     hierarchical = _build_hierarchical_text(
         standardized_data=standardized_data,
-        labels=df.index.tolist(),
+        labels=labels,
         method="ward",
         metric="euclidean"
     )
@@ -265,15 +358,16 @@ def write_results(output_path: str, variability_metrics: Dict, std_stats: tuple)
             for metric, value in values.items():
                 f.write(f"  {metric}: {value:.3f}\n")
 
-        f.write("\n2. UMAP Analysis:\n")
-        f.write(f"  Variance UMAP1: {variability_metrics['umap']['variance_umap1']:.3f}\n")
-        f.write(f"  Variance UMAP2: {variability_metrics['umap']['variance_umap2']:.3f}\n")
-        f.write(f"  Total variance: {variability_metrics['umap']['total_variance']:.3f}\n")
-        f.write(f"  Range UMAP1: {variability_metrics['umap']['range_umap1']:.3f}\n")
-        f.write(f"  Range UMAP2: {variability_metrics['umap']['range_umap2']:.3f}\n")
+        embedding_name = variability_metrics['embedding']['method'].upper()
+        f.write(f"\n2. {embedding_name} Analysis:\n")
+        f.write(f"  Variance X1: {variability_metrics['embedding']['variance_x1']:.3f}\n")
+        f.write(f"  Variance X2: {variability_metrics['embedding']['variance_x2']:.3f}\n")
+        f.write(f"  Total variance: {variability_metrics['embedding']['total_variance']:.3f}\n")
+        f.write(f"  Range X1: {variability_metrics['embedding']['range_x1']:.3f}\n")
+        f.write(f"  Range X2: {variability_metrics['embedding']['range_x2']:.3f}\n")
         f.write("  Sample embeddings (first 3 LLMs):\n")
-        for llm, coords in list(variability_metrics['umap']['embedding'].items())[:3]:
-            f.write(f"    {llm}: UMAP1={coords['UMAP1']:.3f}, UMAP2={coords['UMAP2']:.3f}\n")
+        for llm, coords in list(variability_metrics['embedding']['embedding'].items())[:3]:
+            f.write(f"    {llm}: X1={coords['X1']:.3f}, X2={coords['X2']:.3f}\n")
 
         f.write("\n3. Correlation Analysis:\n")
         f.write(f"  Mean absolute correlation: {variability_metrics['correlation']['mean_abs_correlation']:.3f}\n")
@@ -308,14 +402,15 @@ def main(input_path: str, output_path: str):
     """
     try:
         # Parse the table
-        parsed_data = parse_markdown_table(input_path)
+        parsed_data, std_values = parse_markdown_table(input_path)
+        std_values.sort()
 
         # Calculate standard deviation statistics
-        std_min = ALL_STDS[0]
-        std_max = ALL_STDS[-1]
-        std_median = ALL_STDS[int((len(ALL_STDS) - 1) * 0.5)]
-        std_first = ALL_STDS[int((len(ALL_STDS) - 1) * 0.25)]
-        std_third = ALL_STDS[int((len(ALL_STDS) - 1) * 0.75)]
+        std_min = std_values[0]
+        std_max = std_values[-1]
+        std_median = std_values[int((len(std_values) - 1) * 0.5)]
+        std_first = std_values[int((len(std_values) - 1) * 0.25)]
+        std_third = std_values[int((len(std_values) - 1) * 0.75)]
         std_stats = (std_min, std_first, std_median, std_third, std_max)
 
         # Analyze variability (includes hierarchical clustering text)

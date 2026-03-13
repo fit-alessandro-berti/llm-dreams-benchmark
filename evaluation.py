@@ -11,9 +11,12 @@ import common
 from tempfile import NamedTemporaryFile
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from dataclasses import dataclass
+from threading import local
 
 NUMBER_EXECUTIONS = 2
-MAX_WORKERS = 50
+DEFAULT_MAX_WORKERS = 50
+MAX_WORKERS = int(os.environ.get("EVALUATION_MAX_WORKERS", str(DEFAULT_MAX_WORKERS)))
+REQUEST_TIMEOUT_SECONDS = int(os.environ.get("EVALUATION_REQUEST_TIMEOUT_SECONDS", "180"))
 
 WAITING_TIME_RETRY = 17
 EX_INDEXES = ["0.txt", "1.txt"]
@@ -25,6 +28,10 @@ EVALUATION_INSTRUCTIONS = ("A person did the following dreams. I ask you to esti
                            "'Need for Control', 'Cognitive Load', 'Social Support', 'Resilience'. Each key should be "
                            "associated to a number from 1.0 (minimum score) to 10.0 (maximum score). Please follow "
                            "strictly the provided JSON schema in the evaluation!")
+
+THREAD_LOCAL = local()
+PROMPT_CACHE = {}
+INCIPIT_CACHE = {}
 
 
 class Shared:
@@ -81,6 +88,42 @@ def strip_non_unicode_characters(text):
     cleaned_text = cleaned_text.encode('cp1252', errors='ignore').decode('cp1252')
 
     return cleaned_text
+
+
+def sanitize_model_name(model_name):
+    return model_name.replace("/", "").replace(":", "")
+
+
+def get_http_session():
+    session = getattr(THREAD_LOCAL, "session", None)
+    if session is None:
+        session = requests.Session()
+        adapter = requests.adapters.HTTPAdapter(
+            pool_connections=MAX_WORKERS,
+            pool_maxsize=MAX_WORKERS,
+        )
+        session.mount("http://", adapter)
+        session.mount("https://", adapter)
+        THREAD_LOCAL.session = session
+    return session
+
+
+def post_json(complete_url, headers, payload):
+    response = get_http_session().post(
+        complete_url,
+        headers=headers,
+        json=payload,
+        timeout=REQUEST_TIMEOUT_SECONDS,
+    )
+    if response.status_code != 200:
+        raise RuntimeError(f"HTTP {response.status_code}: {response.text}")
+    return response.json()
+
+
+def read_incipit_cached(incipit_path):
+    if incipit_path not in INCIPIT_CACHE:
+        INCIPIT_CACHE[incipit_path] = read_file_with_fallback(incipit_path)
+    return INCIPIT_CACHE[incipit_path]
 
 
 def __validate(xx):
@@ -202,23 +245,10 @@ def get_evaluation_google(text, context=None):
             }
         }
 
-    response_message = ""
-    response = None
-
-    while not response_message:
-        try:
-            response = requests.post(complete_url, headers=headers, json=payload)
-            #print(response)
-            #print(response.status_code)
-            #print(response.text)
-            response = response.json()
-            response_message = response["candidates"][0]["content"]["parts"][0]["text"]
-            response_message_json = interpret_response(response_message)
-            return response_message_json
-        except:
-            traceback.print_exc()
-            print("sleeping %d seconds ..." % (WAITING_TIME_RETRY))
-            time.sleep(WAITING_TIME_RETRY)
+    response = post_json(complete_url, headers, payload)
+    response_message = response["candidates"][0]["content"]["parts"][0]["text"]
+    response_message_json = interpret_response(response_message)
+    return response_message_json
 
 
 def get_evaluation_openai(text, context=None):
@@ -237,23 +267,10 @@ def get_evaluation_openai(text, context=None):
 
     complete_url = ctx.api_url + "chat/completions"
 
-    response_message = ""
-    response = None
-
-    while not response_message:
-        try:
-            response = requests.post(complete_url, headers=headers, json=payload)
-            #print(response)
-            #print(response.status_code)
-            #print(response.text)
-            response = response.json()
-            response_message = response["choices"][0]["message"]["content"]
-            response_message_json = interpret_response(response_message)
-            return response_message_json
-        except:
-            traceback.print_exc()
-            print("sleeping %d seconds ..." % (WAITING_TIME_RETRY))
-            time.sleep(WAITING_TIME_RETRY)
+    response = post_json(complete_url, headers, payload)
+    response_message = response["choices"][0]["message"]["content"]
+    response_message_json = interpret_response(response_message)
+    return response_message_json
 
 
 def get_evaluation_openai_new(text, context=None):
@@ -279,13 +296,7 @@ def get_evaluation_openai_new(text, context=None):
 
     complete_url = ctx.api_url + "responses"
 
-    response = requests.post(complete_url, headers=headers, json=payload)
-    if response.status_code != 200:
-        print(response)
-        print(response.status_code)
-        print(response.text)
-
-    response = response.json()
+    response = post_json(complete_url, headers, payload)
     response_message = response["output"][-1]["content"][0]["text"]
     response_message_json = interpret_response(response_message)
 
@@ -311,8 +322,7 @@ def get_evaluation_anthropic(text, context=None):
         "messages": messages
     }
 
-    resp = requests.post(complete_url, headers=headers, json=payload)
-    resp = resp.json()
+    resp = post_json(complete_url, headers, payload)
     response_message = resp["content"][-1]["text"]
 
     return interpret_response(response_message)
@@ -336,7 +346,7 @@ def build_all_contents_for_index(answers, index):
 
     for answ in this_answers:
         incipit_path = os.path.join("incipits", answ.split("__")[1] + ".txt")
-        incipit = read_file_with_fallback(incipit_path)
+        incipit = read_incipit_cached(incipit_path)
 
         answer_text = read_file_with_fallback(os.path.join("answers", answ))
         answer_text = answer_text.replace("\n", " ").replace("\r", " ")
@@ -346,10 +356,15 @@ def build_all_contents_for_index(answers, index):
     return "\n\n".join(all_contents)
 
 
-def evaluate_single_path(context, answering_model_name, answers, idxnum, index, iteration_index,
-                         ex_index_count, evaluation_path):
-    prompt = build_all_contents_for_index(answers, index)
+def build_prompt_for_model(answering_model_key, answers_by_model, index):
+    cache_key = (answering_model_key, index)
+    if cache_key not in PROMPT_CACHE:
+        PROMPT_CACHE[cache_key] = build_all_contents_for_index(answers_by_model[answering_model_key], index)
+    return PROMPT_CACHE[cache_key]
 
+
+def evaluate_single_path(context, answering_model_name, prompt, idxnum, index, iteration_index,
+                         ex_index_count, evaluation_path):
     while True:
         try:
             print("(evaluation %d of %d) (answers %d of %d)" % (
@@ -387,13 +402,15 @@ def evaluate_single_path(context, answering_model_name, answers, idxnum, index, 
         time.sleep(WAITING_TIME_RETRY)
 
 
-def collect_tasks_for_context(context, massive, ex_indexes, available_models=None):
+def collect_tasks_for_context(context, massive, ex_indexes, answers_by_model, available_models=None):
     tasks = []
     answering_models = available_models if massive else [context.answering_model_name]
 
     for answering_model_name in answering_models:
-        m_name = answering_model_name.replace("/", "").replace(":", "")
-        answers = [x for x in os.listdir("answers") if x.startswith(m_name)]
+        m_name = sanitize_model_name(answering_model_name)
+        answers = answers_by_model.get(m_name)
+        if not answers:
+            continue
         base_evaluation_path = os.path.join(context.evaluation_folder, m_name + "__")
 
         for iteration_index in range(NUMBER_EXECUTIONS):
@@ -407,20 +424,36 @@ def collect_tasks_for_context(context, massive, ex_indexes, available_models=Non
                               context.evaluating_model_name)
                     continue
 
-                tasks.append((context, answering_model_name, answers, idxnum, index, iteration_index,
+                prompt = build_prompt_for_model(m_name, answers_by_model, index)
+                tasks.append((context, answering_model_name, prompt, idxnum, index, iteration_index,
                               len(ex_indexes), evaluation_path))
     return tasks
 
 
+def collect_answers_by_model():
+    answers_by_model = {}
+    for answer_name in os.listdir("answers"):
+        if "_init_" in answer_name:
+            continue
+        model_name = answer_name.split("__")[0]
+        answers_by_model.setdefault(model_name, []).append(answer_name)
+
+    for answers in answers_by_model.values():
+        answers.sort()
+
+    return answers_by_model
+
+
 def dispatch_all_evaluations(model_list, massive):
+    answers_by_model = collect_answers_by_model()
     available_models = None
     if massive:
-        available_models = sorted({x.split("__")[0] for x in os.listdir("answers") if "_init_" not in x})
+        available_models = sorted(answers_by_model)
 
     tasks = []
     for evaluating_model_name in model_list:
         context = build_context(evaluating_model_name)
-        tasks.extend(collect_tasks_for_context(context, massive, EX_INDEXES, available_models))
+        tasks.extend(collect_tasks_for_context(context, massive, EX_INDEXES, answers_by_model, available_models))
 
     if not tasks:
         return
@@ -429,10 +462,10 @@ def dispatch_all_evaluations(model_list, massive):
     with ThreadPoolExecutor(max_workers=max_workers) as executor:
         futures = [
             executor.submit(
-                evaluate_single_path, context, answering_model_name, answers, idxnum, index, iteration_index,
+                evaluate_single_path, context, answering_model_name, prompt, idxnum, index, iteration_index,
                 ex_index_count, evaluation_path
             )
-            for context, answering_model_name, answers, idxnum, index, iteration_index, ex_index_count, evaluation_path
+            for context, answering_model_name, prompt, idxnum, index, iteration_index, ex_index_count, evaluation_path
             in tasks
         ]
 
@@ -440,16 +473,29 @@ def dispatch_all_evaluations(model_list, massive):
             future.result()
 
 
+def parse_massive_flag(argv):
+    default_massive = 1
+    if len(argv) <= 1:
+        return default_massive
+
+    flag = argv[1].strip().lower()
+    if flag in {"1", "all", "massive"}:
+        return True
+    if flag in {"0", "single"}:
+        return False
+    return default_massive
+
+
 if __name__ == "__main__":
     aa = time.time_ns()
 
-    massive = False if len(sys.argv) > 1 and sys.argv[1] == "0" else True
+    massive = parse_massive_flag(sys.argv)
 
     if massive:
         model_list = list(common.ALL_JUDGES)
         model_list.sort(key=lambda x: (-1 if "gpt-4.5" in x else 0 if "mistral" not in x else 1, x))
     else:
-        model_list = ["gpt-4.1"]
+        model_list = [common.EVALUATING_MODEL_NAME]
 
     dispatch_all_evaluations(model_list, massive)
 

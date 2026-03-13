@@ -1,5 +1,5 @@
 ANSWERING_MODEL_NAME = "grok-4.20-multi-agent-experimental-beta-0304"
-EVALUATING_MODEL_NAME = "gpt-4.1"
+EVALUATING_MODEL_NAME = "gpt-5.2"
 
 
 ALL_JUDGES = {

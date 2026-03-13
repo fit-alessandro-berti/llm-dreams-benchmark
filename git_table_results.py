@@ -1,7 +1,6 @@
 import json
 import os
 import numpy as np
-import pandas as pd
 import common
 
 PERSONALITY_KEYS = [
@@ -29,9 +28,37 @@ NEGATED_KEYS = {
     "Cognitive Load",
 }
 
+SCORE_CACHE = {}
+GROUPED_FILES_CACHE = {}
+
 
 def format_mean_std(mean, std):
     return f"{mean} $\\pm$ {std}"
+
+
+def escape_markdown_cell(value):
+    return str(value).replace("|", "\\|")
+
+
+def render_markdown_table(headers, rows):
+    escaped_headers = [escape_markdown_cell(header) for header in headers]
+    lines = [
+        "| " + " | ".join(escaped_headers) + " |",
+        "| " + " | ".join(["---"] * len(headers)) + " |",
+    ]
+
+    for row in rows:
+        escaped_row = [escape_markdown_cell(value) for value in row]
+        lines.append("| " + " | ".join(escaped_row) + " |")
+
+    return "\n".join(lines)
+
+
+def load_score_file(full_path):
+    if full_path not in SCORE_CACHE:
+        with open(full_path, "r") as file_handler:
+            SCORE_CACHE[full_path] = json.load(file_handler)
+    return SCORE_CACHE[full_path]
 
 
 def aggregate_llm_scores(file_paths, normalization_divisor=1):
@@ -40,7 +67,7 @@ def aggregate_llm_scores(file_paths, normalization_divisor=1):
     divisor = normalization_divisor if normalization_divisor else 1
 
     for full_path in file_paths:
-        dictio = json.load(open(full_path, "r"))
+        dictio = load_score_file(full_path)
 
         for key in PERSONALITY_KEYS:
             value = dictio[key]
@@ -55,55 +82,65 @@ def aggregate_llm_scores(file_paths, normalization_divisor=1):
         score_stats[key] = {"mean": mean, "std": std}
         formatted_scores[key] = format_mean_std(mean, std)
 
-    return total_score / divisor, formatted_scores, score_stats
+    return round(total_score / divisor, 1), formatted_scores, score_stats
 
 
-def build_overall_dataframe(llms, mhs, all_llms_scores):
-    overall_columns = {"LLM": llms, "MHS": [mhs[llm] for llm in llms]}
+def build_sorted_llms(llms, mhs):
+    return sorted(llms, key=lambda llm: (mhs[llm], llm.lower()), reverse=True)
 
-    for k in PERSONALITY_KEYS:
-        overall_columns[k] = [all_llms_scores[llm][k] for llm in llms]
 
-    dataframe = pd.DataFrame(overall_columns)
-    dataframe.sort_values(["MHS", "LLM"], ascending=False, inplace=True)
-    dataframe["MHS"] = dataframe["MHS"].apply(lambda x: "**%.1f**" % x)
+def render_overall_results_table(llms, mhs, all_llms_scores):
+    sorted_llms = build_sorted_llms(llms, mhs)
+    headers = ["LLM", "MHS"] + PERSONALITY_KEYS
+    rows = []
 
-    return dataframe
+    for llm in sorted_llms:
+        rows.append(
+            [llm, "**%.1f**" % mhs[llm]]
+            + [all_llms_scores[llm][key] for key in PERSONALITY_KEYS]
+        )
+
+    return render_markdown_table(headers, rows), sorted_llms
 
 
 def render_individual_results(llms, all_llms_scores):
     individual_results = ["## Individual Results"]
 
     for llm in llms:
-        values = [all_llms_scores[llm][k] for k in PERSONALITY_KEYS]
-
-        dataframe = pd.DataFrame(
-            {"Personality Trait": PERSONALITY_KEYS, "Score (1.0-10.0)": values}
-        )
+        rows = [
+            [trait, all_llms_scores[llm][trait]]
+            for trait in PERSONALITY_KEYS
+        ]
         individual_results.append("\n")
         individual_results.append("### " + llm)
         individual_results.append("\n")
-        individual_results.append(dataframe.to_markdown(index=False))
+        individual_results.append(
+            render_markdown_table(
+                ["Personality Trait", "Score (1.0-10.0)"],
+                rows,
+            )
+        )
         individual_results.append("\n\n\n")
 
     return "\n".join(individual_results)
 
 
 def group_files_by_llm(evaluation_folder):
-    evaluations = [x for x in os.listdir(evaluation_folder) if x.endswith(".txt")]
-    evaluations = sorted(
-        evaluations,
-        key=lambda x: (
-            x.split("__")[0].lower(),
-            os.path.getctime(os.path.join(evaluation_folder, x)),
-        ),
-    )
+    if evaluation_folder in GROUPED_FILES_CACHE:
+        return GROUPED_FILES_CACHE[evaluation_folder]
+
+    evaluations = []
+    for entry in os.scandir(evaluation_folder):
+        if entry.is_file() and entry.name.endswith(".txt"):
+            evaluations.append(entry.name)
+    evaluations.sort()
 
     llm_files = {}
     for ev in evaluations:
         llm = ev.split("__")[0]
         llm_files.setdefault(llm, []).append(os.path.join(evaluation_folder, ev))
 
+    GROUPED_FILES_CACHE[evaluation_folder] = llm_files
     return llm_files
 
 
@@ -144,10 +181,9 @@ def write_table(evaluation_folder, target_git_table_result):
         mhs[llm] = total_s
         all_llms_scores[llm] = scores
 
-    dataframe = build_overall_dataframe(llms, mhs, all_llms_scores)
-
-    overall_results = ["## Overall Results\n", dataframe.to_markdown(index=False)]
-    individual_results = render_individual_results(llms, all_llms_scores)
+    overall_table, sorted_llms = render_overall_results_table(llms, mhs, all_llms_scores)
+    overall_results = ["## Overall Results\n", overall_table]
+    individual_results = render_individual_results(sorted_llms, all_llms_scores)
 
     combined_stru = "\n".join(overall_results) + "\n" + individual_results
 
@@ -200,9 +236,9 @@ def write_overall_results(
         all_llms_scores[llm] = scores
         all_llms_score_stats[llm] = score_stats
 
-    dataframe = build_overall_dataframe(llms, mhs, all_llms_scores)
-    overall_results = ["## Overall Results\n", dataframe.to_markdown(index=False)]
-    individual_results = render_individual_results(llms, all_llms_scores)
+    overall_table, sorted_llms = render_overall_results_table(llms, mhs, all_llms_scores)
+    overall_results = ["## Overall Results\n", overall_table]
+    individual_results = render_individual_results(sorted_llms, all_llms_scores)
 
     combined_stru = "\n".join(overall_results) + "\n" + individual_results
 
@@ -210,7 +246,7 @@ def write_overall_results(
         F.write(combined_stru)
 
     overall_json = []
-    for llm in llms:
+    for llm in sorted_llms:
         overall_json.append(
             {
                 "LLM": llm,

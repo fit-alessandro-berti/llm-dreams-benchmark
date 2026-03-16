@@ -240,6 +240,7 @@
 | claude-3-5-haiku-20241022 | 5.800 |
 | liquidlfm-2-24b-a2b | 5.775 |
 | qwen3.54b | 5.725 |
+| z-aiglm-5-turbo | 5.700 |
 | smollm2135m | 5.650 |
 | essentialairnj-1-instruct | 5.638 |
 | mistralaimistral-small-creative | 5.625 |

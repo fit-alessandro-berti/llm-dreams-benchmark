@@ -1,4 +1,4 @@
-ANSWERING_MODEL_NAME = "bytedance-seed/seed-2.0-mini"
+ANSWERING_MODEL_NAME = "z-ai/glm-5-turbo"
 EVALUATING_MODEL_NAME = "gpt-5.2"
 
 

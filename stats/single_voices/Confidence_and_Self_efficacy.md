@@ -241,6 +241,7 @@
 | mistral-small-2506 | 5.888 |
 | smollm2135m | 5.850 |
 | gemma31b-it-q8_0 | 5.825 |
+| z-aiglm-5-turbo | 5.737 |
 | nvidiallama-3.1-nemotron-nano-8b-v1 | 5.725 |
 | anthropicclaude-sonnet-4.5 | 5.638 |
 | mistral-large-2512 | 5.638 |

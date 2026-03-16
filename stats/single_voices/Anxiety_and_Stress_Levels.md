@@ -48,6 +48,7 @@
 | grok-3-mini-beta | 7.750 |
 | nvidiallama-3.1-nemotron-nano-8b-v1 | 7.737 |
 | QwenQwen3-14B | 7.737 |
+| z-aiglm-5-turbo | 7.713 |
 | Grok-4.1-20251118 | 7.700 |
 | deepseekdeepseek-r1 | 7.700 |
 | meta-llamaMeta-Llama-3.1-70B-Instruct | 7.700 |

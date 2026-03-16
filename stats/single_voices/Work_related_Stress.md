@@ -39,6 +39,7 @@
 | grok-4.20-multi-agent-experimental-beta-0304 | 8.013 |
 | ministral-14b-2512 | 8.000 |
 | Grok-4.1-20251118 | 7.988 |
+| z-aiglm-5-turbo | 7.988 |
 | googlegemma-2-2b-it | 7.987 |
 | aion-labsaion-2.0 | 7.975 |
 | Qwen-QwQ-32B | 7.975 |

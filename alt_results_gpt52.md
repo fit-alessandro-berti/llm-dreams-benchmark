@@ -222,6 +222,7 @@
 | gemini-2.5-flash-preview-05-20 | **339.1** | 7.8 $\pm$ 0.0 | 5.7 $\pm$ 0.3 | 6.7 $\pm$ 0.1 | 9.5 $\pm$ 0.1 | 5.9 $\pm$ 0.2 | 5.8 $\pm$ 0.4 | 5.5 $\pm$ 1.2 | 8.6 $\pm$ 0.0 | 7.4 $\pm$ 0.1 | 7.0 $\pm$ 0.2 | 8.1 $\pm$ 0.1 | 6.4 $\pm$ 0.3 | 8.2 $\pm$ 0.1 | 5.5 $\pm$ 0.3 | 7.6 $\pm$ 0.3 |
 | aion-labsaion-2.0 | **337.5** | 7.8 $\pm$ 0.0 | 5.0 $\pm$ 0.4 | 7.1 $\pm$ 0.1 | 9.5 $\pm$ 0.1 | 5.8 $\pm$ 0.3 | 6.0 $\pm$ 0.3 | 5.2 $\pm$ 0.6 | 8.0 $\pm$ 0.3 | 7.6 $\pm$ 0.1 | 7.6 $\pm$ 0.5 | 7.8 $\pm$ 0.2 | 6.8 $\pm$ 0.0 | 8.3 $\pm$ 0.2 | 5.9 $\pm$ 0.1 | 7.4 $\pm$ 0.1 |
 | magistral-medium-2506 | **335.0** | 7.9 $\pm$ 0.2 | 4.8 $\pm$ 0.4 | 7.2 $\pm$ 0.3 | 9.3 $\pm$ 0.1 | 5.9 $\pm$ 0.2 | 5.6 $\pm$ 0.4 | 5.3 $\pm$ 0.3 | 8.4 $\pm$ 0.1 | 7.4 $\pm$ 0.1 | 7.8 $\pm$ 0.1 | 7.8 $\pm$ 0.2 | 6.8 $\pm$ 0.0 | 8.3 $\pm$ 0.1 | 5.5 $\pm$ 0.3 | 7.2 $\pm$ 0.2 |
+| z-aiglm-5-turbo | **334.5** | 7.9 $\pm$ 0.3 | 5.2 $\pm$ 0.6 | 6.8 $\pm$ 0.3 | 9.7 $\pm$ 0.1 | 5.6 $\pm$ 0.3 | 5.6 $\pm$ 0.7 | 4.7 $\pm$ 0.4 | 8.6 $\pm$ 0.2 | 8.0 $\pm$ 0.4 | 7.1 $\pm$ 0.2 | 8.0 $\pm$ 0.3 | 6.8 $\pm$ 0.1 | 8.3 $\pm$ 0.2 | 5.8 $\pm$ 0.4 | 7.7 $\pm$ 0.7 |
 | qwen3.52b | **334.5** | 7.8 $\pm$ 0.1 | 5.1 $\pm$ 0.3 | 6.4 $\pm$ 0.3 | 9.6 $\pm$ 0.0 | 5.7 $\pm$ 0.4 | 5.4 $\pm$ 0.2 | 5.9 $\pm$ 1.4 | 8.6 $\pm$ 0.2 | 7.5 $\pm$ 0.2 | 6.8 $\pm$ 0.4 | 7.9 $\pm$ 0.2 | 6.8 $\pm$ 0.1 | 8.2 $\pm$ 0.1 | 5.6 $\pm$ 0.4 | 7.8 $\pm$ 0.1 |
 | chatgpt-4o-latest-20250215 | **334.5** | 7.8 $\pm$ 0.0 | 5.2 $\pm$ 0.2 | 7.1 $\pm$ 0.3 | 9.4 $\pm$ 0.0 | 5.6 $\pm$ 0.0 | 6.0 $\pm$ 0.1 | 5.0 $\pm$ 0.2 | 8.3 $\pm$ 0.2 | 7.6 $\pm$ 0.2 | 7.6 $\pm$ 0.5 | 7.8 $\pm$ 0.4 | 6.7 $\pm$ 0.1 | 8.4 $\pm$ 0.2 | 5.5 $\pm$ 0.4 | 7.1 $\pm$ 0.3 |
 | moonshotaikimi-k2 | **334.3** | 8.1 $\pm$ 0.3 | 4.6 $\pm$ 0.0 | 6.5 $\pm$ 0.3 | 9.8 $\pm$ 0.1 | 6.0 $\pm$ 0.2 | 5.2 $\pm$ 0.1 | 6.9 $\pm$ 0.4 | 8.6 $\pm$ 0.2 | 7.4 $\pm$ 0.2 | 6.9 $\pm$ 0.4 | 8.0 $\pm$ 0.2 | 6.9 $\pm$ 0.1 | 8.7 $\pm$ 0.1 | 5.6 $\pm$ 0.1 | 7.8 $\pm$ 0.1 |
@@ -5968,6 +5969,32 @@
 | Cognitive Load | 8.3 $\pm$ 0.1 |
 | Social Support | 5.5 $\pm$ 0.3 |
 | Resilience | 7.2 $\pm$ 0.2 |
+
+
+
+
+
+
+### z-aiglm-5-turbo
+
+
+| Personality Trait | Score (1.0-10.0) |
+| --- | --- |
+| Anxiety and Stress Levels | 7.9 $\pm$ 0.3 |
+| Emotional Stability | 5.2 $\pm$ 0.6 |
+| Problem-solving Skills | 6.8 $\pm$ 0.3 |
+| Creativity | 9.7 $\pm$ 0.1 |
+| Interpersonal Relationships | 5.6 $\pm$ 0.3 |
+| Confidence and Self-efficacy | 5.6 $\pm$ 0.7 |
+| Conflict Resolution | 4.7 $\pm$ 0.4 |
+| Work-related Stress | 8.6 $\pm$ 0.2 |
+| Adaptability | 8.0 $\pm$ 0.4 |
+| Achievement Motivation | 7.1 $\pm$ 0.2 |
+| Fear of Failure | 8.0 $\pm$ 0.3 |
+| Need for Control | 6.8 $\pm$ 0.1 |
+| Cognitive Load | 8.3 $\pm$ 0.2 |
+| Social Support | 5.8 $\pm$ 0.4 |
+| Resilience | 7.7 $\pm$ 0.7 |
 
 
 

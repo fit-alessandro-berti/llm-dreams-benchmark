@@ -24,6 +24,7 @@
 | gemini-2.5-flash-preview-05-20 | 7.575 |
 | ministral-3b-2512 | 7.562 |
 | tngtechdeepseek-r1t-chimerafree | 7.562 |
+| z-aiglm-5-turbo | 7.475 |
 | prime-intellectintellect-3 | 7.463 |
 | ibmgranite4350m-h | 7.462 |
 | QwenQwen3-30B-A3B | 7.462 |

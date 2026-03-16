@@ -153,6 +153,7 @@
 | o1-2024-12-05 | 5.925 |
 | minimaxminimax-m2free | 5.913 |
 | qwen2.5-72b-instruct | 5.900 |
+| z-aiglm-5-turbo | 5.900 |
 | baiduernie-4.5-300b-a47b | 5.900 |
 | falcon37b-instruct-q8_0 | 5.888 |
 | grok-4-0709 | 5.888 |

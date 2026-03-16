@@ -43,6 +43,7 @@
 | allenaiolmo-3-7b-think | 8.112 |
 | arcee-aitrinity-mini | 8.112 |
 | deepseekdeepseek-r1 | 8.112 |
+| z-aiglm-5-turbo | 8.112 |
 | qwen3.54b | 8.100 |
 | r1-1776 | 8.088 |
 | smollm2360m | 8.088 |

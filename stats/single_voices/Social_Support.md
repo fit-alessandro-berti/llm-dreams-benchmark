@@ -217,6 +217,7 @@
 | qwen3.52b | 6.350 |
 | qwenqwen3-235b-a22b-thinking-2507 | 6.338 |
 | QwenQwen3-30B-A3B | 6.338 |
+| z-aiglm-5-turbo | 6.325 |
 | deepseekdeepseek-r1 | 6.312 |
 | QwenQwen3-14B | 6.312 |
 | tngtechdeepseek-r1t-chimerafree | 6.262 |

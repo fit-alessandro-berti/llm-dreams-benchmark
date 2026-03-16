@@ -19,6 +19,7 @@
 | gemini-3-flash-preview | 9.713 |
 | grok-4.20-multi-agent-experimental-beta-0304 | 9.713 |
 | qwenqwen3.5-122b-a10b | 9.713 |
+| z-aiglm-5-turbo | 9.712 |
 | googlegemini-3.1-flash-lite-preview | 9.700 |
 | grok-4-0709 | 9.700 |
 | qwenqwen3-next-80b-a3b-instruct | 9.700 |

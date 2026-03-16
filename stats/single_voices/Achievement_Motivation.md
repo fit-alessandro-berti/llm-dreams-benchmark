@@ -242,6 +242,7 @@
 | z-aiglm-4.7 | 7.438 |
 | nvidiallama-3.1-nemotron-nano-8b-v1 | 7.425 |
 | qwen3.50.8b | 7.413 |
+| z-aiglm-5-turbo | 7.387 |
 | anthropicclaude-sonnet-4.5 | 7.350 |
 | bytedance-seedseed-2.0-lite | 7.350 |
 | anthropicclaude-opus-4.1 | 7.312 |

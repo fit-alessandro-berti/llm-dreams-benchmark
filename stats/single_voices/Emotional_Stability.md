@@ -219,6 +219,7 @@
 | ministral-14b-2512 | 5.613 |
 | QwenQwen3-14B | 5.600 |
 | magistral-medium-2506 | 5.600 |
+| z-aiglm-5-turbo | 5.538 |
 | Qwen-QwQ-32B | 5.512 |
 | meta-llamaMeta-Llama-3.1-8B-Instruct | 5.412 |
 | essentialairnj-1-instruct | 5.400 |

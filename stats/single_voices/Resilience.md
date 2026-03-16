@@ -221,6 +221,7 @@
 | moonshotaikimi-k2-thinking | 7.762 |
 | tngtechdeepseek-r1t-chimerafree | 7.737 |
 | meta-llamallama-4-scout | 7.725 |
+| z-aiglm-5-turbo | 7.725 |
 | gemini-2.5-flash-preview-04-17 | 7.700 |
 | gemini-2.5-flash-preview-09-2025 | 7.650 |
 | magistral-medium-2506 | 7.650 |

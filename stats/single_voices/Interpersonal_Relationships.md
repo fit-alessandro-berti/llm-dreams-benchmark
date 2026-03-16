@@ -227,6 +227,7 @@
 | nvidiallama-3.1-nemotron-nano-8b-v1 | 6.263 |
 | Qwen-QwQ-32B | 6.250 |
 | gemma34b-it-q8_0 | 6.213 |
+| z-aiglm-5-turbo | 6.125 |
 | minimaxminimax-m2-her | 6.100 |
 | anthropicclaude-sonnet-4.5 | 6.088 |
 | gpt-5-chat-latest-2025-08-07 | 6.062 |

@@ -228,6 +228,7 @@
 | tngtechdeepseek-r1t-chimerafree | 8.150 |
 | ministral-3b-2512 | 8.125 |
 | anthropicclaude-sonnet-4.5 | 8.088 |
+| z-aiglm-5-turbo | 8.088 |
 | gemma31b-it-q8_0 | 7.987 |
 | qwen3.52b | 7.987 |
 | gpt-5-chat-latest-2025-08-07 | 7.975 |

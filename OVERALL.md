@@ -225,6 +225,7 @@
 | gemini-3-pro-preview | **356.8** | 8.1 $\pm$ 0.5 | 4.9 $\pm$ 1.2 | 7.7 $\pm$ 0.8 | 9.8 $\pm$ 0.2 | 5.9 $\pm$ 0.7 | 6.1 $\pm$ 1.1 | 6.7 $\pm$ 1.0 | 8.4 $\pm$ 0.4 | 8.4 $\pm$ 0.7 | 7.6 $\pm$ 0.7 | 7.7 $\pm$ 0.6 | 6.1 $\pm$ 1.0 | 8.2 $\pm$ 1.2 | 6.0 $\pm$ 1.0 | 7.9 $\pm$ 0.8 |
 | qwenqwen3-235b-a22b-thinking-2507 | **355.8** | 8.3 $\pm$ 0.6 | 5.3 $\pm$ 1.0 | 8.1 $\pm$ 0.6 | 9.6 $\pm$ 0.3 | 6.4 $\pm$ 0.7 | 6.1 $\pm$ 1.1 | 6.3 $\pm$ 1.2 | 8.3 $\pm$ 0.5 | 8.3 $\pm$ 0.7 | 8.0 $\pm$ 0.7 | 8.0 $\pm$ 0.7 | 6.8 $\pm$ 0.8 | 8.5 $\pm$ 0.5 | 6.4 $\pm$ 0.8 | 8.0 $\pm$ 0.8 |
 | gpt-5-chat-latest-2025-08-07 | **355.8** | 7.8 $\pm$ 0.5 | 5.3 $\pm$ 0.8 | 7.6 $\pm$ 0.6 | 9.5 $\pm$ 0.3 | 6.1 $\pm$ 0.6 | 6.1 $\pm$ 0.9 | 6.9 $\pm$ 0.7 | 8.0 $\pm$ 0.5 | 8.0 $\pm$ 0.7 | 7.9 $\pm$ 0.7 | 7.3 $\pm$ 0.7 | 6.4 $\pm$ 0.9 | 8.2 $\pm$ 0.4 | 5.8 $\pm$ 1.0 | 7.4 $\pm$ 0.7 |
+| z-aiglm-5-turbo | **353.6** | 7.7 $\pm$ 1.1 | 5.5 $\pm$ 1.2 | 7.3 $\pm$ 0.9 | 9.7 $\pm$ 0.2 | 6.1 $\pm$ 0.6 | 5.7 $\pm$ 1.1 | 5.7 $\pm$ 1.3 | 8.0 $\pm$ 0.8 | 8.1 $\pm$ 0.9 | 7.4 $\pm$ 0.6 | 7.5 $\pm$ 1.4 | 5.9 $\pm$ 1.2 | 8.1 $\pm$ 0.8 | 6.3 $\pm$ 0.8 | 7.7 $\pm$ 0.8 |
 | gemini-2.5-pro-exp-03-25 | **353.1** | 8.1 $\pm$ 0.5 | 4.8 $\pm$ 0.8 | 7.7 $\pm$ 0.7 | 9.6 $\pm$ 0.3 | 6.0 $\pm$ 0.6 | 5.6 $\pm$ 1.1 | 7.0 $\pm$ 0.8 | 8.3 $\pm$ 0.3 | 8.3 $\pm$ 0.6 | 7.8 $\pm$ 0.7 | 7.8 $\pm$ 0.6 | 6.2 $\pm$ 1.1 | 8.5 $\pm$ 0.4 | 6.2 $\pm$ 0.9 | 7.6 $\pm$ 0.7 |
 | gemini-2.5-flash-preview-04-17 | **353.1** | 8.1 $\pm$ 0.6 | 5.1 $\pm$ 1.1 | 7.7 $\pm$ 0.7 | 9.6 $\pm$ 0.4 | 5.9 $\pm$ 0.5 | 6.1 $\pm$ 1.0 | 6.5 $\pm$ 1.2 | 8.2 $\pm$ 0.6 | 8.3 $\pm$ 0.7 | 7.8 $\pm$ 0.6 | 7.8 $\pm$ 0.7 | 6.3 $\pm$ 1.0 | 8.5 $\pm$ 0.5 | 6.0 $\pm$ 0.6 | 7.7 $\pm$ 0.8 |
 | essentialairnj-1-instruct | **353.0** | 7.0 $\pm$ 1.5 | 5.4 $\pm$ 1.1 | 8.7 $\pm$ 0.6 | 8.3 $\pm$ 0.9 | 5.8 $\pm$ 0.7 | 6.7 $\pm$ 0.9 | 5.6 $\pm$ 1.1 | 7.1 $\pm$ 1.4 | 7.7 $\pm$ 0.7 | 8.2 $\pm$ 0.6 | 6.3 $\pm$ 1.5 | 7.0 $\pm$ 0.6 | 8.0 $\pm$ 0.8 | 5.7 $\pm$ 0.8 | 7.3 $\pm$ 0.7 |
@@ -6046,6 +6047,32 @@
 | Cognitive Load | 8.2 $\pm$ 0.4 |
 | Social Support | 5.8 $\pm$ 1.0 |
 | Resilience | 7.4 $\pm$ 0.7 |
+
+
+
+
+
+
+### z-aiglm-5-turbo
+
+
+| Personality Trait | Score (1.0-10.0) |
+| --- | --- |
+| Anxiety and Stress Levels | 7.7 $\pm$ 1.1 |
+| Emotional Stability | 5.5 $\pm$ 1.2 |
+| Problem-solving Skills | 7.3 $\pm$ 0.9 |
+| Creativity | 9.7 $\pm$ 0.2 |
+| Interpersonal Relationships | 6.1 $\pm$ 0.6 |
+| Confidence and Self-efficacy | 5.7 $\pm$ 1.1 |
+| Conflict Resolution | 5.7 $\pm$ 1.3 |
+| Work-related Stress | 8.0 $\pm$ 0.8 |
+| Adaptability | 8.1 $\pm$ 0.9 |
+| Achievement Motivation | 7.4 $\pm$ 0.6 |
+| Fear of Failure | 7.5 $\pm$ 1.4 |
+| Need for Control | 5.9 $\pm$ 1.2 |
+| Cognitive Load | 8.1 $\pm$ 0.8 |
+| Social Support | 6.3 $\pm$ 0.8 |
+| Resilience | 7.7 $\pm$ 0.8 |
 
 
 

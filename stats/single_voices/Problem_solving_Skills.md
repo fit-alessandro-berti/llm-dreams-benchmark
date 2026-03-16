@@ -244,6 +244,7 @@
 | mistral-small-2506 | 7.388 |
 | qwen3.54b | 7.363 |
 | moonshotaikimi-k2-thinking | 7.325 |
+| z-aiglm-5-turbo | 7.325 |
 | gemini-2.0-flash-lite-preview-02-05 | 7.262 |
 | ibmgranite4350m-h | 7.238 |
 | anthropicclaude-sonnet-4.5 | 7.175 |

@@ -14,6 +14,7 @@
 | qwenqwen3-235b-a22b-thinking-2507 | 7.933 |
 | QwenQwen3-235B-A22B | 7.867 |
 | gemini-2.5-flash-preview-04-17 | 7.833 |
+| mistral-small-2603 | 7.833 |
 | qwen3.50.8b | 7.833 |
 | gemini-3-pro-preview | 7.800 |
 | anthropicclaude-sonnet-4.5 | 7.756 |

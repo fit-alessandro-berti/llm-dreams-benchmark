@@ -220,6 +220,7 @@
 | gemma31b-it-q8_0 | 7.856 |
 | z-aiglm-4.7-flash | 7.844 |
 | grok-3-mini-beta | 7.833 |
+| mistral-small-2603 | 7.833 |
 | nvidiallama-3.1-nemotron-nano-8b-v1 | 7.833 |
 | gemini-3-pro-preview | 7.822 |
 | ministral-3b-2512 | 7.822 |

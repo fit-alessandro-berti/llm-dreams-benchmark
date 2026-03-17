@@ -153,6 +153,7 @@
 | o1-2024-12-17 | 9.478 |
 | o1-preview-2024-09-12 | 9.478 |
 | o1-pro-2024-12-17 | 9.478 |
+| mistral-small-2603 | 9.478 |
 | microsoftPhi-3-medium-4k-instruct | 9.467 |
 | mistralaimistral-small-creative | 9.467 |
 | nvidiallama-3.1-nemotron-ultra-253b-v1free | 9.467 |

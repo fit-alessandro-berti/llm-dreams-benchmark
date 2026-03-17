@@ -18,6 +18,7 @@
 | gemma34b-it-q8_0 | 8.500 |
 | QwenQwen3-30B-A3B | 8.478 |
 | gemma31b-it-q8_0 | 8.456 |
+| mistral-small-2603 | 8.456 |
 | moonshotaikimi-k2 | 8.422 |
 | aion-labsaion-2.0 | 8.389 |
 | writerpalmyra-x5 | 8.389 |

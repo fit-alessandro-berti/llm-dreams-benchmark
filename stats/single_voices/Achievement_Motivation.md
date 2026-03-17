@@ -218,6 +218,7 @@
 | claude-3-5-sonnet-20241022 | 7.878 |
 | gpt-5-chat-latest-2025-08-07 | 7.867 |
 | gemini-2.5-pro-preview-06-05 | 7.867 |
+| mistral-small-2603 | 7.867 |
 | ministral-3b-2512 | 7.856 |
 | claude-3-5-haiku-20241022 | 7.833 |
 | claude-opus-4-5-20251101 | 7.833 |

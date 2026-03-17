@@ -224,6 +224,7 @@
 | z-aiglm-5-turbo | 7.711 |
 | gemini-2.5-flash-preview-09-2025 | 7.700 |
 | magistral-medium-2506 | 7.678 |
+| mistral-small-2603 | 7.656 |
 | aion-labsaion-2.0 | 7.644 |
 | moonshotaikimi-k2-thinking | 7.633 |
 | gemini-2.5-flash-preview-04-17 | 7.622 |

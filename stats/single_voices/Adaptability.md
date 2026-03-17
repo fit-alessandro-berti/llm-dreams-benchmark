@@ -236,6 +236,7 @@
 | gpt-5-chat-latest-2025-08-07 | 8.000 |
 | ibmgranite41b-h | 7.989 |
 | meta-llamallama-4-maverick | 7.967 |
+| mistral-small-2603 | 7.956 |
 | mistral-large-2512 | 7.911 |
 | meta-llamaMeta-Llama-3.1-8B-Instruct | 7.889 |
 | moonshotaikimi-k2-thinking | 7.889 |

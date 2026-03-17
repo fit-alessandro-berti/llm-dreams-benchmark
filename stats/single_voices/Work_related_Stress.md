@@ -14,6 +14,7 @@
 | mistral-large-2512 | 8.411 |
 | gemini-3-pro-preview | 8.411 |
 | gemini-2.5-pro-exp-03-25 | 8.389 |
+| mistral-small-2603 | 8.389 |
 | anthropicclaude-sonnet-4.5 | 8.356 |
 | qwenqwen3-235b-a22b-thinking-2507 | 8.300 |
 | xiaomimimo-v2-flashfree | 8.278 |

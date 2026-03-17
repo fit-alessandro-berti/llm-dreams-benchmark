@@ -9,6 +9,7 @@
 | mistralaimistral-small-creative | 7.044 |
 | nvidiallama-3.1-nemotron-nano-8b-v1 | 7.000 |
 | qwen3.50.8b | 6.989 |
+| mistral-small-2603 | 6.978 |
 | mistral-large-2512 | 6.967 |
 | qwenqwen3-235b-a22b-thinking-2507 | 6.967 |
 | QwenQwen3-235B-A22B | 6.933 |

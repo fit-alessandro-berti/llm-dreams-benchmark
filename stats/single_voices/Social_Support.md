@@ -238,6 +238,7 @@
 | z-aiglm-4.7 | 5.922 |
 | aion-labsaion-2.0 | 5.900 |
 | ministral-3b-2512 | 5.900 |
+| mistral-small-2603 | 5.856 |
 | mistral-small-2506 | 5.833 |
 | minimaxminimax-m2-her | 5.789 |
 | smollm2360m | 5.744 |

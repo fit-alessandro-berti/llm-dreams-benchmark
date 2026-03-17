@@ -236,6 +236,7 @@
 | ministral-3b-2512 | 5.044 |
 | gemini-2.5-flash-preview-09-2025 | 5.022 |
 | anthropicclaude-sonnet-4.5 | 4.978 |
+| mistral-small-2603 | 4.978 |
 | gemini-2.5-flash-preview-04-17 | 4.956 |
 | ibmgranite4350m-h | 4.956 |
 | gemma34b-it-q8_0 | 4.944 |

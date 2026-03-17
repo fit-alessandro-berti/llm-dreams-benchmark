@@ -224,6 +224,7 @@
 | gpt-5.2-2025-12-11 | 6.422 |
 | gpt-5.2-pro-2025-12-11 | 6.378 |
 | meta-llamaMeta-Llama-3.1-8B-Instruct | 6.300 |
+| mistral-small-2603 | 6.267 |
 | ministral-3b-2512 | 6.256 |
 | gemini-2.5-flash-preview-09-2025 | 6.244 |
 | qwen3.52b | 6.200 |

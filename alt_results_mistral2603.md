@@ -217,6 +217,7 @@
 | writerpalmyra-x5 | **373.5** | 8.5 $\pm$ 0.0 | 5.1 $\pm$ 0.5 | 9.0 $\pm$ 0.0 | 9.5 $\pm$ 0.0 | 7.2 $\pm$ 0.2 | 6.4 $\pm$ 0.4 | 7.9 $\pm$ 0.2 | 8.6 $\pm$ 0.4 | 9.2 $\pm$ 0.2 | 8.8 $\pm$ 0.2 | 7.5 $\pm$ 0.6 | 7.9 $\pm$ 0.2 | 9.4 $\pm$ 0.2 | 6.5 $\pm$ 0.4 | 8.4 $\pm$ 0.2 |
 | meta-llamallama-4-maverick | **373.5** | 8.2 $\pm$ 0.4 | 6.0 $\pm$ 0.0 | 8.2 $\pm$ 0.2 | 9.0 $\pm$ 0.0 | 7.2 $\pm$ 0.2 | 7.0 $\pm$ 0.4 | 6.4 $\pm$ 0.5 | 8.2 $\pm$ 0.2 | 9.0 $\pm$ 0.0 | 9.1 $\pm$ 0.4 | 7.8 $\pm$ 0.2 | 7.1 $\pm$ 0.2 | 8.4 $\pm$ 0.2 | 6.4 $\pm$ 0.4 | 8.2 $\pm$ 0.2 |
 | ministral-8b-2512 | **372.5** | 8.2 $\pm$ 0.4 | 5.8 $\pm$ 0.4 | 9.0 $\pm$ 0.0 | 9.2 $\pm$ 0.4 | 7.5 $\pm$ 0.4 | 6.9 $\pm$ 0.2 | 6.4 $\pm$ 0.2 | 8.2 $\pm$ 0.4 | 9.0 $\pm$ 0.4 | 8.6 $\pm$ 0.2 | 7.5 $\pm$ 0.4 | 7.4 $\pm$ 0.8 | 9.1 $\pm$ 0.2 | 6.5 $\pm$ 1.2 | 8.2 $\pm$ 0.8 |
+| mistral-small-2603 | **372.0** | 8.5 $\pm$ 0.0 | 5.5 $\pm$ 0.5 | 9.0 $\pm$ 0.0 | 9.5 $\pm$ 0.0 | 7.1 $\pm$ 0.4 | 6.9 $\pm$ 0.2 | 7.0 $\pm$ 1.0 | 8.8 $\pm$ 0.4 | 9.0 $\pm$ 0.6 | 8.6 $\pm$ 0.2 | 8.0 $\pm$ 0.4 | 7.8 $\pm$ 0.2 | 9.1 $\pm$ 0.2 | 6.4 $\pm$ 0.4 | 8.6 $\pm$ 0.2 |
 | grok-4.20-multi-agent-experimental-beta-0304 | **370.9** | 8.8 $\pm$ 0.4 | 5.1 $\pm$ 1.1 | 8.5 $\pm$ 0.6 | 9.7 $\pm$ 0.2 | 7.2 $\pm$ 0.8 | 6.1 $\pm$ 0.9 | 7.8 $\pm$ 0.8 | 8.9 $\pm$ 0.2 | 8.6 $\pm$ 0.6 | 8.6 $\pm$ 0.1 | 7.8 $\pm$ 0.9 | 7.0 $\pm$ 0.5 | 9.1 $\pm$ 0.2 | 6.6 $\pm$ 0.7 | 8.2 $\pm$ 0.8 |
 | magistral-medium-2506 | **370.0** | 8.5 $\pm$ 0.0 | 5.5 $\pm$ 0.5 | 8.4 $\pm$ 0.6 | 9.2 $\pm$ 0.2 | 6.8 $\pm$ 0.4 | 6.6 $\pm$ 0.9 | 7.5 $\pm$ 0.6 | 8.9 $\pm$ 0.2 | 8.9 $\pm$ 0.5 | 8.5 $\pm$ 0.9 | 7.6 $\pm$ 0.6 | 7.4 $\pm$ 0.7 | 8.4 $\pm$ 0.4 | 6.2 $\pm$ 0.2 | 7.9 $\pm$ 0.6 |
 | QwenQwen3-14B | **368.5** | 8.5 $\pm$ 0.0 | 5.2 $\pm$ 0.4 | 9.0 $\pm$ 0.0 | 9.5 $\pm$ 0.0 | 7.0 $\pm$ 0.4 | 6.8 $\pm$ 0.2 | 7.2 $\pm$ 0.8 | 8.4 $\pm$ 0.4 | 9.0 $\pm$ 0.0 | 8.5 $\pm$ 0.0 | 7.5 $\pm$ 0.4 | 7.6 $\pm$ 0.4 | 9.2 $\pm$ 0.2 | 6.0 $\pm$ 0.4 | 8.4 $\pm$ 0.2 |
@@ -5839,6 +5840,32 @@
 | Cognitive Load | 9.1 $\pm$ 0.2 |
 | Social Support | 6.5 $\pm$ 1.2 |
 | Resilience | 8.2 $\pm$ 0.8 |
+
+
+
+
+
+
+### mistral-small-2603
+
+
+| Personality Trait | Score (1.0-10.0) |
+| --- | --- |
+| Anxiety and Stress Levels | 8.5 $\pm$ 0.0 |
+| Emotional Stability | 5.5 $\pm$ 0.5 |
+| Problem-solving Skills | 9.0 $\pm$ 0.0 |
+| Creativity | 9.5 $\pm$ 0.0 |
+| Interpersonal Relationships | 7.1 $\pm$ 0.4 |
+| Confidence and Self-efficacy | 6.9 $\pm$ 0.2 |
+| Conflict Resolution | 7.0 $\pm$ 1.0 |
+| Work-related Stress | 8.8 $\pm$ 0.4 |
+| Adaptability | 9.0 $\pm$ 0.6 |
+| Achievement Motivation | 8.6 $\pm$ 0.2 |
+| Fear of Failure | 8.0 $\pm$ 0.4 |
+| Need for Control | 7.8 $\pm$ 0.2 |
+| Cognitive Load | 9.1 $\pm$ 0.2 |
+| Social Support | 6.4 $\pm$ 0.4 |
+| Resilience | 8.6 $\pm$ 0.2 |
 
 
 

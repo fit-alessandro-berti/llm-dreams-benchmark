@@ -1,4 +1,4 @@
-ANSWERING_MODEL_NAME = "z-ai/glm-5-turbo"
+ANSWERING_MODEL_NAME = "mistral-small-2603"
 EVALUATING_MODEL_NAME = "gpt-5.2"
 
 

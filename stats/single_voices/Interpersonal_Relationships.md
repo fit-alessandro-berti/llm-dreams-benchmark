@@ -228,6 +228,7 @@
 | gemma34b-it-q8_0 | 6.311 |
 | gemini-2.0-flash-lite-preview-02-05 | 6.300 |
 | minimaxminimax-m2-her | 6.200 |
+| mistral-small-2603 | 6.200 |
 | z-aiglm-5-turbo | 6.200 |
 | anthropicclaude-sonnet-4.5 | 6.189 |
 | ministral-3b-2512 | 6.122 |

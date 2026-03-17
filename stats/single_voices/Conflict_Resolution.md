@@ -246,6 +246,7 @@
 | qwen3.50.8b | 5.667 |
 | mistralaimistral-small-creative | 5.644 |
 | mistral-large-2512 | 5.567 |
+| mistral-small-2603 | 5.511 |
 | meta-llamallama-4-maverick | 5.278 |
 | mistral-small-2506 | 5.200 |
 | gemini-2.0-flash-lite-preview-02-05 | 5.200 |

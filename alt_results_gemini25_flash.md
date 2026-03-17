@@ -242,6 +242,7 @@
 | z-aiglm-5-turbo | **330.5** | 8.5 $\pm$ 0.4 | 5.1 $\pm$ 1.1 | 5.5 $\pm$ 0.9 | 9.4 $\pm$ 0.2 | 6.0 $\pm$ 0.4 | 5.1 $\pm$ 0.6 | 5.1 $\pm$ 0.7 | 7.8 $\pm$ 0.2 | 7.2 $\pm$ 0.4 | 7.1 $\pm$ 0.2 | 7.9 $\pm$ 0.5 | 4.2 $\pm$ 1.1 | 8.6 $\pm$ 0.4 | 6.1 $\pm$ 0.6 | 7.4 $\pm$ 0.2 |
 | smollm2135m | **330.0** | 7.5 $\pm$ 0.0 | 4.0 $\pm$ 0.0 | 6.8 $\pm$ 0.8 | 8.2 $\pm$ 0.4 | 5.1 $\pm$ 0.2 | 6.1 $\pm$ 0.5 | 5.1 $\pm$ 1.0 | 6.8 $\pm$ 0.4 | 7.4 $\pm$ 0.6 | 7.0 $\pm$ 0.0 | 6.1 $\pm$ 0.2 | 4.9 $\pm$ 0.4 | 7.4 $\pm$ 0.6 | 5.2 $\pm$ 0.8 | 6.6 $\pm$ 0.2 |
 | qwen3.50.8b | **328.0** | 8.0 $\pm$ 0.5 | 4.8 $\pm$ 0.8 | 7.2 $\pm$ 0.4 | 8.8 $\pm$ 0.4 | 5.1 $\pm$ 0.4 | 4.9 $\pm$ 1.0 | 6.2 $\pm$ 0.4 | 7.5 $\pm$ 0.5 | 7.5 $\pm$ 0.7 | 7.5 $\pm$ 0.5 | 7.0 $\pm$ 0.8 | 6.2 $\pm$ 0.4 | 7.8 $\pm$ 0.6 | 4.9 $\pm$ 0.5 | 6.6 $\pm$ 0.4 |
+| mistral-small-2603 | **327.5** | 8.8 $\pm$ 0.4 | 4.5 $\pm$ 0.5 | 7.1 $\pm$ 0.2 | 9.0 $\pm$ 0.0 | 5.8 $\pm$ 0.6 | 6.1 $\pm$ 0.2 | 5.1 $\pm$ 0.6 | 8.1 $\pm$ 0.2 | 7.8 $\pm$ 0.2 | 7.1 $\pm$ 0.2 | 7.9 $\pm$ 0.2 | 6.1 $\pm$ 0.2 | 8.4 $\pm$ 0.5 | 5.2 $\pm$ 0.8 | 7.1 $\pm$ 0.2 |
 | mistral-large-2512 | **326.5** | 8.9 $\pm$ 0.4 | 4.2 $\pm$ 1.3 | 7.1 $\pm$ 0.2 | 9.1 $\pm$ 0.2 | 5.2 $\pm$ 1.2 | 5.5 $\pm$ 1.1 | 5.5 $\pm$ 0.5 | 8.4 $\pm$ 0.4 | 7.9 $\pm$ 0.4 | 7.5 $\pm$ 0.5 | 8.2 $\pm$ 0.6 | 4.5 $\pm$ 0.8 | 9.0 $\pm$ 0.0 | 4.9 $\pm$ 0.9 | 6.9 $\pm$ 0.4 |
 | gemini-2.5-flash-preview-09-2025 | **326.0** | 8.9 $\pm$ 0.4 | 5.5 $\pm$ 0.9 | 7.1 $\pm$ 0.2 | 9.1 $\pm$ 0.2 | 4.5 $\pm$ 0.4 | 6.2 $\pm$ 0.4 | 5.5 $\pm$ 1.1 | 8.1 $\pm$ 0.2 | 8.1 $\pm$ 0.2 | 7.4 $\pm$ 0.2 | 8.1 $\pm$ 0.2 | 5.2 $\pm$ 0.9 | 8.8 $\pm$ 0.4 | 3.9 $\pm$ 1.0 | 7.0 $\pm$ 0.0 |
 | anthropicclaude-sonnet-4.5 | **326.0** | 8.8 $\pm$ 0.2 | 4.0 $\pm$ 0.0 | 6.1 $\pm$ 0.2 | 9.5 $\pm$ 0.0 | 5.2 $\pm$ 0.2 | 4.5 $\pm$ 0.5 | 5.5 $\pm$ 0.5 | 8.2 $\pm$ 0.6 | 8.1 $\pm$ 0.5 | 6.6 $\pm$ 0.4 | 7.8 $\pm$ 0.6 | 3.0 $\pm$ 0.0 | 9.1 $\pm$ 0.2 | 5.2 $\pm$ 1.0 | 7.0 $\pm$ 0.4 |
@@ -6489,6 +6490,32 @@
 | Cognitive Load | 7.8 $\pm$ 0.6 |
 | Social Support | 4.9 $\pm$ 0.5 |
 | Resilience | 6.6 $\pm$ 0.4 |
+
+
+
+
+
+
+### mistral-small-2603
+
+
+| Personality Trait | Score (1.0-10.0) |
+| --- | --- |
+| Anxiety and Stress Levels | 8.8 $\pm$ 0.4 |
+| Emotional Stability | 4.5 $\pm$ 0.5 |
+| Problem-solving Skills | 7.1 $\pm$ 0.2 |
+| Creativity | 9.0 $\pm$ 0.0 |
+| Interpersonal Relationships | 5.8 $\pm$ 0.6 |
+| Confidence and Self-efficacy | 6.1 $\pm$ 0.2 |
+| Conflict Resolution | 5.1 $\pm$ 0.6 |
+| Work-related Stress | 8.1 $\pm$ 0.2 |
+| Adaptability | 7.8 $\pm$ 0.2 |
+| Achievement Motivation | 7.1 $\pm$ 0.2 |
+| Fear of Failure | 7.9 $\pm$ 0.2 |
+| Need for Control | 6.1 $\pm$ 0.2 |
+| Cognitive Load | 8.4 $\pm$ 0.5 |
+| Social Support | 5.2 $\pm$ 0.8 |
+| Resilience | 7.1 $\pm$ 0.2 |
 
 
 

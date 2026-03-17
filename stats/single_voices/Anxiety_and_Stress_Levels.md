@@ -14,6 +14,7 @@
 | gemini-2.5-pro-exp-03-25 | 8.300 |
 | gemma34b-it-q8_0 | 8.300 |
 | arcee-aitrinity-mini | 8.278 |
+| mistral-small-2603 | 8.278 |
 | anthropicclaude-sonnet-4.5 | 8.244 |
 | gemini-3-pro-preview | 8.244 |
 | gemini-2.5-flash-preview-04-17 | 8.222 |

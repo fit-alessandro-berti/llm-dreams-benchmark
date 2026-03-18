@@ -80,6 +80,7 @@
 | meta-llamaMeta-Llama-3.1-405B-Instruct | 6.800 |
 | QwenQwen3-32B | 6.756 |
 | openaigpt-5.4 | 6.744 |
+| openaigpt-5.4-nano | 6.689 |
 | moonshotaikimi-k2 | 6.689 |
 | qwenqwen3-235b-a22b-07-25 | 6.678 |
 | openaigpt-5.4-pro | 6.633 |
@@ -205,6 +206,7 @@
 | mistral-small-2503 | 4.956 |
 | qwen3.59b | 4.956 |
 | nvidianemotron-3-nano-30b-a3bfree | 4.944 |
+| openaigpt-5.4-mini | 4.856 |
 | o4-mini-2025-04-16 | 4.822 |
 | ministral-8b-2410 | 4.789 |
 | anthropicclaude-sonnet-4.6 | 4.744 |

@@ -98,6 +98,7 @@
 | qwen2.5-omni-7b | 7.711 |
 | o1-2024-12-05 | 7.700 |
 | ChatGPT-5.1-Instant-20251113 | 7.689 |
+| openaigpt-5.4-mini | 7.689 |
 | openaigpt-5.2-codex | 7.667 |
 | qwenqwen3.5-plus-02-15 | 7.656 |
 | openrouterhealer-alpha | 7.644 |
@@ -141,6 +142,7 @@
 | claude-3-7-sonnet-20250219-thinking-high | 7.367 |
 | exaone-deep7.8b-fp16 | 7.367 |
 | Gemini-1.5-Pro-Exp-0801 | 7.367 |
+| openaigpt-5.4-nano | 7.367 |
 | nvidiallama-3.3-nemotron-super-49b-v1 | 7.356 |
 | moonshotaikimi-linear-48b-a3b-instruct | 7.344 |
 | deepseekdeepseek-chat-v3.1 | 7.333 |

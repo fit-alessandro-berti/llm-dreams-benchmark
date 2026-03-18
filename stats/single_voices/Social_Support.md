@@ -80,6 +80,7 @@
 | granite4tiny-h | 7.656 |
 | qwenqwen3-coder-next | 7.633 |
 | Grok-3-beta-thinking-20250303 | 7.611 |
+| openaigpt-5.4-mini | 7.611 |
 | qwen-plus-2025-01-25 | 7.611 |
 | liquidlfm2-8b-a1b | 7.611 |
 | deepseekdeepseek-v3.2 | 7.600 |
@@ -145,6 +146,7 @@
 | anthropicclaude-opus-4.1 | 7.167 |
 | gemini-2.0-pro-exp-02-05 | 7.167 |
 | qwenqwen3.5-27b | 7.167 |
+| openaigpt-5.4-nano | 7.144 |
 | openaigpt-5.4-pro | 7.144 |
 | qwen38b | 7.144 |
 | Grok-4-fast-20251111 | 7.133 |

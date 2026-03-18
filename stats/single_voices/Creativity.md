@@ -54,6 +54,7 @@
 | mistral-medium-2508 | 9.622 |
 | openaigpt-5.2-codex | 9.622 |
 | openaigpt-5.4 | 9.622 |
+| openaigpt-5.4-mini | 9.622 |
 | QwenQwen3-14B | 9.622 |
 | qwenqwen3.5-35b-a3b | 9.622 |
 | xiaomimimo-v2-flashfree | 9.622 |
@@ -210,6 +211,7 @@
 | falcon33b-instruct-q8_0 | 9.311 |
 | mistral-small-2503 | 9.311 |
 | codestral-2501 | 9.300 |
+| openaigpt-5.4-nano | 9.300 |
 | qwen30.6b | 9.300 |
 | granite4tiny-h | 9.300 |
 | gpt-4-1106-preview | 9.289 |

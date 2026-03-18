@@ -52,6 +52,7 @@
 | Grok-3-20250426-formal | 7.611 |
 | mistral-small-2409 | 7.611 |
 | mistral-small-2503 | 7.611 |
+| openaigpt-5.4-mini | 7.589 |
 | gpt-4-0613 | 7.567 |
 | liquidlfm-2.2-6b | 7.567 |
 | codex-mini-latest | 7.544 |
@@ -139,6 +140,7 @@
 | openaigpt-5.3-codex | 6.722 |
 | gpt-4o-mini-2024-11-05 | 6.700 |
 | openaigpt-5.4 | 6.700 |
+| openaigpt-5.4-nano | 6.689 |
 | deepseekdeepseek-v3.2-speciale | 6.678 |
 | granite4tiny-h | 6.678 |
 | minimaxminimax-m2.1 | 6.667 |

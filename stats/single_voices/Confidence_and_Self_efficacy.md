@@ -48,6 +48,7 @@
 | o1-preview-2024-09-12 | 8.178 |
 | ministral-8b-2410 | 8.167 |
 | mistral-small-2503 | 8.167 |
+| openaigpt-5.4-mini | 8.133 |
 | codex-mini-latest | 8.089 |
 | gpt-4.1-2025-04-14 | 8.078 |
 | gpt-5-mini-2025-08-07 | 8.056 |
@@ -159,6 +160,7 @@
 | grok-4-0709 | 7.144 |
 | grok-4.20-experimental-beta-0304-non-reasoning | 7.144 |
 | Grok-4.1-20251118 | 7.133 |
+| openaigpt-5.4-nano | 7.133 |
 | qwen-plus-0428 | 7.133 |
 | z-aiglm-5 | 7.122 |
 | granite4tiny-h | 7.111 |

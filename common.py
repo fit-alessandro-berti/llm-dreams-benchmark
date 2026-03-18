@@ -1,4 +1,4 @@
-ANSWERING_MODEL_NAME = "openai/gpt-5.4-mini"
+ANSWERING_MODEL_NAME = "openai/gpt-5.4-nano"
 EVALUATING_MODEL_NAME = "gpt-5.2"
 
 

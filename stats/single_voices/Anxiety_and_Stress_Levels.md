@@ -90,6 +90,7 @@
 | mistral-medium-2505 | 7.311 |
 | allenaiolmo-3-7b-think | 7.256 |
 | moonshotaikimi-k2.5 | 7.256 |
+| openaigpt-5.4-nano | 7.256 |
 | gpt-4o-mini-2024-11-05 | 7.244 |
 | qwenqwen3-max | 7.244 |
 | claude-3-7-sonnet-20250219-thinking-high | 7.211 |
@@ -207,6 +208,7 @@
 | Grok-3-20250426-concise | 5.556 |
 | mistral-small-2503 | 5.556 |
 | openaigpt-oss-20b | 5.556 |
+| openaigpt-5.4-mini | 5.533 |
 | falcon310b-instruct-q8_0 | 5.467 |
 | ministral-8b-2410 | 5.444 |
 | phi4-reasoning | 5.422 |

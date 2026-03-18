@@ -44,6 +44,7 @@
 | falcon37b-instruct-q8_0 | **431.8** | 4.5 $\pm$ 1.3 | 7.9 $\pm$ 0.6 | 8.9 $\pm$ 0.4 | 9.5 $\pm$ 0.3 | 7.9 $\pm$ 0.5 | 8.5 $\pm$ 0.5 | 7.1 $\pm$ 0.9 | 5.0 $\pm$ 1.3 | 9.0 $\pm$ 0.4 | 8.8 $\pm$ 0.6 | 4.0 $\pm$ 1.3 | 5.9 $\pm$ 0.6 | 6.8 $\pm$ 1.2 | 7.9 $\pm$ 0.6 | 8.7 $\pm$ 0.5 |
 | falcon310b-instruct-q8_0 | **431.2** | 5.5 $\pm$ 1.3 | 7.8 $\pm$ 0.6 | 8.9 $\pm$ 0.4 | 9.5 $\pm$ 0.4 | 8.1 $\pm$ 0.5 | 8.5 $\pm$ 0.4 | 8.1 $\pm$ 0.8 | 5.8 $\pm$ 1.3 | 9.1 $\pm$ 0.4 | 8.8 $\pm$ 0.5 | 4.6 $\pm$ 1.5 | 6.4 $\pm$ 0.5 | 7.1 $\pm$ 1.0 | 7.9 $\pm$ 0.5 | 9.0 $\pm$ 0.5 |
 | anthropicclaude-sonnet-4.6 | **431.2** | 5.3 $\pm$ 1.5 | 7.6 $\pm$ 0.9 | 8.7 $\pm$ 0.6 | 9.6 $\pm$ 0.3 | 7.8 $\pm$ 0.6 | 7.8 $\pm$ 0.7 | 8.4 $\pm$ 0.6 | 5.6 $\pm$ 1.3 | 9.0 $\pm$ 0.5 | 8.1 $\pm$ 0.7 | 4.8 $\pm$ 1.3 | 4.8 $\pm$ 0.7 | 6.7 $\pm$ 1.3 | 7.7 $\pm$ 0.7 | 9.0 $\pm$ 0.4 |
+| openaigpt-5.4-mini | **431.0** | 5.5 $\pm$ 1.5 | 7.6 $\pm$ 0.8 | 8.5 $\pm$ 0.6 | 9.6 $\pm$ 0.3 | 7.7 $\pm$ 0.5 | 8.1 $\pm$ 0.6 | 8.4 $\pm$ 0.6 | 6.0 $\pm$ 1.2 | 9.0 $\pm$ 0.4 | 8.5 $\pm$ 0.4 | 4.8 $\pm$ 1.4 | 5.2 $\pm$ 0.8 | 6.7 $\pm$ 1.0 | 7.6 $\pm$ 0.6 | 9.0 $\pm$ 0.4 |
 | o4-mini-2025-04-16 | **431.0** | 5.7 $\pm$ 1.4 | 7.8 $\pm$ 0.7 | 8.7 $\pm$ 0.5 | 9.6 $\pm$ 0.3 | 7.9 $\pm$ 0.5 | 8.3 $\pm$ 0.5 | 8.5 $\pm$ 0.7 | 6.0 $\pm$ 1.2 | 9.0 $\pm$ 0.5 | 8.8 $\pm$ 0.4 | 4.8 $\pm$ 1.4 | 6.0 $\pm$ 0.7 | 7.2 $\pm$ 0.9 | 7.7 $\pm$ 0.5 | 9.0 $\pm$ 0.4 |
 | mistral-small-2409 | **430.5** | 5.4 $\pm$ 1.3 | 7.6 $\pm$ 0.6 | 8.7 $\pm$ 0.4 | 9.3 $\pm$ 0.4 | 8.3 $\pm$ 0.5 | 8.0 $\pm$ 0.6 | 8.2 $\pm$ 0.7 | 6.1 $\pm$ 1.3 | 8.9 $\pm$ 0.4 | 8.8 $\pm$ 0.5 | 4.8 $\pm$ 1.4 | 6.4 $\pm$ 0.7 | 7.0 $\pm$ 1.0 | 8.4 $\pm$ 0.5 | 8.9 $\pm$ 0.4 |
 | phi4-reasoningplus | **429.9** | 5.0 $\pm$ 1.8 | 7.7 $\pm$ 1.0 | 8.6 $\pm$ 0.5 | 9.5 $\pm$ 0.3 | 7.8 $\pm$ 0.6 | 8.2 $\pm$ 0.6 | 8.0 $\pm$ 0.9 | 5.3 $\pm$ 1.6 | 8.9 $\pm$ 0.3 | 8.4 $\pm$ 0.6 | 4.3 $\pm$ 1.5 | 5.4 $\pm$ 0.9 | 6.9 $\pm$ 1.3 | 7.6 $\pm$ 0.6 | 9.0 $\pm$ 0.4 |
@@ -151,6 +152,7 @@
 | deepseek-aiDeepSeek-R1-Zero | **400.0** | 6.9 $\pm$ 1.1 | 6.8 $\pm$ 0.7 | 8.6 $\pm$ 0.4 | 8.6 $\pm$ 0.7 | 7.4 $\pm$ 0.6 | 7.7 $\pm$ 0.7 | 7.7 $\pm$ 0.7 | 7.3 $\pm$ 0.9 | 8.7 $\pm$ 0.4 | 8.5 $\pm$ 0.6 | 6.2 $\pm$ 1.4 | 6.8 $\pm$ 0.7 | 7.5 $\pm$ 0.7 | 7.5 $\pm$ 0.7 | 8.6 $\pm$ 0.5 |
 | chatgpt-4o-latest-2025-04-26 | **400.0** | 7.0 $\pm$ 0.9 | 6.5 $\pm$ 0.7 | 8.2 $\pm$ 0.5 | 9.6 $\pm$ 0.2 | 7.1 $\pm$ 0.7 | 7.4 $\pm$ 0.9 | 7.6 $\pm$ 0.8 | 7.5 $\pm$ 0.8 | 8.9 $\pm$ 0.4 | 8.5 $\pm$ 0.6 | 6.1 $\pm$ 1.1 | 6.0 $\pm$ 0.9 | 7.3 $\pm$ 1.1 | 6.9 $\pm$ 0.7 | 8.5 $\pm$ 0.5 |
 | claude-3-7-sonnet-20250219-thinking-high | **399.4** | 7.2 $\pm$ 0.9 | 6.6 $\pm$ 0.8 | 8.4 $\pm$ 0.6 | 9.5 $\pm$ 0.3 | 7.4 $\pm$ 0.6 | 7.2 $\pm$ 0.7 | 8.0 $\pm$ 0.7 | 7.6 $\pm$ 0.9 | 8.8 $\pm$ 0.4 | 8.1 $\pm$ 0.5 | 6.5 $\pm$ 1.1 | 6.1 $\pm$ 0.9 | 7.8 $\pm$ 0.8 | 7.3 $\pm$ 0.8 | 8.5 $\pm$ 0.5 |
+| openaigpt-5.4-nano | **398.5** | 7.3 $\pm$ 1.4 | 6.7 $\pm$ 0.9 | 8.6 $\pm$ 0.5 | 9.3 $\pm$ 0.7 | 7.4 $\pm$ 0.7 | 7.1 $\pm$ 0.8 | 8.2 $\pm$ 0.6 | 7.5 $\pm$ 1.3 | 8.9 $\pm$ 0.4 | 8.4 $\pm$ 0.5 | 6.7 $\pm$ 1.5 | 6.6 $\pm$ 1.0 | 7.9 $\pm$ 1.1 | 7.1 $\pm$ 0.8 | 8.8 $\pm$ 0.5 |
 | qwenqwen3.5-35b-a3b | **397.8** | 7.1 $\pm$ 1.4 | 6.6 $\pm$ 1.0 | 8.0 $\pm$ 0.7 | 9.6 $\pm$ 0.3 | 7.1 $\pm$ 0.7 | 7.2 $\pm$ 0.9 | 7.9 $\pm$ 0.9 | 7.3 $\pm$ 1.3 | 8.8 $\pm$ 0.5 | 8.0 $\pm$ 0.6 | 6.2 $\pm$ 1.4 | 5.6 $\pm$ 1.0 | 7.7 $\pm$ 0.9 | 6.9 $\pm$ 0.7 | 8.6 $\pm$ 0.6 |
 | qwenqwen3-235b-a22b-07-25 | **397.5** | 7.3 $\pm$ 1.3 | 6.4 $\pm$ 0.9 | 8.3 $\pm$ 0.6 | 9.6 $\pm$ 0.3 | 7.4 $\pm$ 0.7 | 7.0 $\pm$ 0.8 | 8.1 $\pm$ 0.8 | 7.4 $\pm$ 1.1 | 8.8 $\pm$ 0.5 | 8.3 $\pm$ 0.6 | 6.7 $\pm$ 1.3 | 5.8 $\pm$ 1.0 | 8.0 $\pm$ 0.8 | 7.3 $\pm$ 0.8 | 8.7 $\pm$ 0.6 |
 | qwen30.6b | **397.5** | 7.2 $\pm$ 0.5 | 6.6 $\pm$ 0.6 | 8.6 $\pm$ 0.4 | 9.3 $\pm$ 0.4 | 7.2 $\pm$ 0.4 | 7.7 $\pm$ 0.6 | 7.4 $\pm$ 0.6 | 7.6 $\pm$ 0.7 | 8.6 $\pm$ 0.3 | 8.6 $\pm$ 0.5 | 6.2 $\pm$ 1.0 | 6.7 $\pm$ 0.5 | 8.0 $\pm$ 0.5 | 7.1 $\pm$ 0.5 | 8.6 $\pm$ 0.4 |
@@ -1341,6 +1343,32 @@
 | Need for Control | 4.8 $\pm$ 0.7 |
 | Cognitive Load | 6.7 $\pm$ 1.3 |
 | Social Support | 7.7 $\pm$ 0.7 |
+| Resilience | 9.0 $\pm$ 0.4 |
+
+
+
+
+
+
+### openaigpt-5.4-mini
+
+
+| Personality Trait | Score (1.0-10.0) |
+| --- | --- |
+| Anxiety and Stress Levels | 5.5 $\pm$ 1.5 |
+| Emotional Stability | 7.6 $\pm$ 0.8 |
+| Problem-solving Skills | 8.5 $\pm$ 0.6 |
+| Creativity | 9.6 $\pm$ 0.3 |
+| Interpersonal Relationships | 7.7 $\pm$ 0.5 |
+| Confidence and Self-efficacy | 8.1 $\pm$ 0.6 |
+| Conflict Resolution | 8.4 $\pm$ 0.6 |
+| Work-related Stress | 6.0 $\pm$ 1.2 |
+| Adaptability | 9.0 $\pm$ 0.4 |
+| Achievement Motivation | 8.5 $\pm$ 0.4 |
+| Fear of Failure | 4.8 $\pm$ 1.4 |
+| Need for Control | 5.2 $\pm$ 0.8 |
+| Cognitive Load | 6.7 $\pm$ 1.0 |
+| Social Support | 7.6 $\pm$ 0.6 |
 | Resilience | 9.0 $\pm$ 0.4 |
 
 
@@ -4124,6 +4152,32 @@
 | Cognitive Load | 7.8 $\pm$ 0.8 |
 | Social Support | 7.3 $\pm$ 0.8 |
 | Resilience | 8.5 $\pm$ 0.5 |
+
+
+
+
+
+
+### openaigpt-5.4-nano
+
+
+| Personality Trait | Score (1.0-10.0) |
+| --- | --- |
+| Anxiety and Stress Levels | 7.3 $\pm$ 1.4 |
+| Emotional Stability | 6.7 $\pm$ 0.9 |
+| Problem-solving Skills | 8.6 $\pm$ 0.5 |
+| Creativity | 9.3 $\pm$ 0.7 |
+| Interpersonal Relationships | 7.4 $\pm$ 0.7 |
+| Confidence and Self-efficacy | 7.1 $\pm$ 0.8 |
+| Conflict Resolution | 8.2 $\pm$ 0.6 |
+| Work-related Stress | 7.5 $\pm$ 1.3 |
+| Adaptability | 8.9 $\pm$ 0.4 |
+| Achievement Motivation | 8.4 $\pm$ 0.5 |
+| Fear of Failure | 6.7 $\pm$ 1.5 |
+| Need for Control | 6.6 $\pm$ 1.0 |
+| Cognitive Load | 7.9 $\pm$ 1.1 |
+| Social Support | 7.1 $\pm$ 0.8 |
+| Resilience | 8.8 $\pm$ 0.5 |
 
 
 

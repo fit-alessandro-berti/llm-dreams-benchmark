@@ -114,6 +114,7 @@
 | gemini-2.0-pro-exp-02-05 | 8.467 |
 | gpt-5-nano-2025-08-07 | 8.467 |
 | openaigpt-5.4 | 8.467 |
+| openaigpt-5.4-mini | 8.467 |
 | chatgpt-4o-latest-2025-04-26 | 8.456 |
 | gemini-2.5-flash-lite-preview-09-2025 | 8.456 |
 | gemma-3n-e4b-it | 8.456 |
@@ -131,6 +132,7 @@
 | qwenqwen3-max-thinking | 8.411 |
 | DeepSeek-V3-0324 | 8.400 |
 | gemini-2.5-pro-preview-05-06 | 8.400 |
+| openaigpt-5.4-nano | 8.400 |
 | gemini-1.5-flash-002 | 8.389 |
 | phi4-reasoningplus | 8.389 |
 | meta-llamaMeta-Llama-3.1-8B-Instruct | 8.378 |

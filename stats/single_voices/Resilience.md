@@ -46,6 +46,7 @@
 | falcon310b-instruct-q8_0 | 9.000 |
 | gpt-4o-mini-2024-07-18 | 9.000 |
 | o4-mini-2025-04-16 | 9.000 |
+| openaigpt-5.4-mini | 9.000 |
 | o1-pro-2024-12-05 | 8.978 |
 | phi4-reasoningplus | 8.978 |
 | codestral-2501 | 8.967 |
@@ -104,6 +105,7 @@
 | liquidlfm-2.5-1.2b-thinkingfree | 8.756 |
 | falcon37b-instruct-q8_0 | 8.744 |
 | gemini-2.5-flash-lite-preview-09-2025 | 8.744 |
+| openaigpt-5.4-nano | 8.744 |
 | allenaiolmo-3.1-32b-instruct | 8.733 |
 | devstral-small-2505 | 8.733 |
 | deepseek-aiDeepSeek-V3 | 8.722 |

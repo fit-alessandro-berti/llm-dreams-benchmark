@@ -40,6 +40,7 @@
 | anthropicclaude-sonnet-4.6 | 9.022 |
 | open-mistral-7b | 9.022 |
 | open-mixtral-8x7b | 9.022 |
+| openaigpt-5.4-mini | 9.022 |
 | qwenqwen3-max-thinking | 9.022 |
 | gpt-4o-2024-08-06 | 9.022 |
 | Grok-4-fast-20251111 | 9.011 |
@@ -108,6 +109,7 @@
 | nvidiaLlama-3.1-Nemotron-70B-Instruct | 8.867 |
 | nvidianemotron-3-nano-30b-a3bfree | 8.867 |
 | openaigpt-5.3-codex | 8.867 |
+| openaigpt-5.4-nano | 8.867 |
 | qwen2.5-7b-instruct | 8.867 |
 | ChatGPT-5.1-Instant-20251113 | 8.856 |
 | claude-4-opus-20250514 | 8.856 |

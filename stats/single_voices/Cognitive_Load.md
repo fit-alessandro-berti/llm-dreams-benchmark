@@ -90,6 +90,7 @@
 | claude-3-5-sonnet-20241022 | 7.900 |
 | qwenqwen3-30b-a3b-instruct-2507 | 7.889 |
 | minimaxminimax-m2-her | 7.878 |
+| openaigpt-5.4-nano | 7.878 |
 | grok-4-1-fast-reasoning | 7.878 |
 | x-aigrok-code-fast-1 | 7.878 |
 | gemini-2.0-pro-exp-02-05 | 7.844 |
@@ -233,6 +234,7 @@
 | mistral-large-2407 | 6.711 |
 | inceptionmercury | 6.689 |
 | gpt-5-mini-2025-08-07 | 6.667 |
+| openaigpt-5.4-mini | 6.656 |
 | deepseekdeepseek-v3.2-exp | 6.644 |
 | gpt-4o-2024-08-06 | 6.611 |
 | qwen34b-instruct-2507-q8_0 | 6.611 |

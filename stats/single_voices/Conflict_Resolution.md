@@ -53,6 +53,7 @@
 | gpt-4-0125-preview | 8.356 |
 | mistral-large-2411 | 8.356 |
 | nvidiaLlama-3.1-Nemotron-70B-Instruct | 8.356 |
+| openaigpt-5.4-mini | 8.356 |
 | gpt-4-turbo-2024-04-09 | 8.344 |
 | open-mixtral-8x7b | 8.344 |
 | gemini-2.5-pro-preview-06-05 | 8.344 |
@@ -97,6 +98,7 @@
 | mistral-small-2409 | 8.167 |
 | anthropicclaude-opus-4.1 | 8.156 |
 | gpt-4o-mini-2024-11-05 | 8.156 |
+| openaigpt-5.4-nano | 8.156 |
 | gpt-4-0613 | 8.156 |
 | liquidlfm2-8b-a1b | 8.156 |
 | baiduernie-4.5-300b-a47b | 8.144 |

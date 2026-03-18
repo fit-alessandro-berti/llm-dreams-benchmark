@@ -93,6 +93,7 @@
 | gemini-2.5-pro-preview-05-06 | 7.544 |
 | moonshotaikimi-linear-48b-a3b-instruct | 7.544 |
 | magistral-small-2506 | 7.533 |
+| openaigpt-5.4-nano | 7.522 |
 | x-aigrok-code-fast-1 | 7.522 |
 | gemma-3n-e4b-it | 7.511 |
 | grok-4-1-fast-non-reasoning | 7.500 |
@@ -196,6 +197,7 @@
 | mistral-small-2409 | 6.078 |
 | Grok-3-20250426-formal | 6.067 |
 | o4-mini-2025-04-16 | 6.044 |
+| openaigpt-5.4-mini | 6.022 |
 | qwenqwen3-coder | 6.022 |
 | gpt-4-0613 | 6.011 |
 | codex-mini-latest | 5.956 |

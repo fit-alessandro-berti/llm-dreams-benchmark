@@ -53,6 +53,7 @@
 | Grok-3-20250426-formal | 6.567 |
 | xiaomimimo-v2-flashfree | 6.556 |
 | meta-llamaLlama-3.3-70B-Instruct | 6.556 |
+| openaigpt-5.4-nano | 6.556 |
 | x-aigrok-code-fast-1 | 6.556 |
 | meta-llamallama-4-scout | 6.556 |
 | gpt-5.2-pro-2025-12-11 | 6.544 |
@@ -235,6 +236,7 @@
 | qwenqwen3.5-plus-02-15 | 5.267 |
 | openaigpt-oss-120b | 5.267 |
 | qwenqwen3.5-397b-a17b | 5.267 |
+| openaigpt-5.4-mini | 5.233 |
 | openrouteraurora-alpha | 5.233 |
 | gpt-4-0125-preview | 5.222 |
 | gpt-4.1-2025-04-14 | 5.222 |

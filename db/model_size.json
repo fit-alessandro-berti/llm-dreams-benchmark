@@ -564,7 +564,10 @@
   "mistral-small-2506": [
     24
   ],
-  "mistral-small-2603": [],
+  "mistral-small-2603": [
+    119,
+    6.5
+  ],
   "mistralaimistral-small-creative": [
     24
   ],
@@ -675,6 +678,14 @@
   "openaigpt-5.4": [
     800,
     50
+  ],
+  "openaigpt-5.4-mini": [
+    240,
+    15
+  ],
+  "openaigpt-5.4-nano": [
+    64,
+    4.2
   ],
   "openaigpt-5.4-pro": [
     800,
@@ -873,8 +884,8 @@
     3.6
   ],
   "z-aiglm-5": [
-    355,
-    32
+    745,
+    40
   ],
   "z-aiglm-5-turbo": []
 }

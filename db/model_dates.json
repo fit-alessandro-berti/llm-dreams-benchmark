@@ -158,7 +158,7 @@
   "mistral-small-2501": "2025-01-30",
   "mistral-small-2503": "2025-03-17",
   "mistral-small-2506": "2025-06-25",
-  "mistral-small-2603": "",
+  "mistral-small-2603": "2026-03-15",
   "mistralaimistral-small-creative": "2025-12-16",
   "moonshotaikimi-k2": "2025-07-11",
   "moonshotaikimi-k2-thinking": "2025-11-06",
@@ -191,6 +191,8 @@
   "openaigpt-5.3-chat": "2026-03-03",
   "openaigpt-5.3-codex": "2026-02-24",
   "openaigpt-5.4": "2026-03-05",
+  "openaigpt-5.4-mini": "2026-03-17",
+  "openaigpt-5.4-nano": "2026-03-17",
   "openaigpt-5.4-pro": "2026-03-05",
   "openaigpt-oss-120b": "2025-08-05",
   "openaigpt-oss-20b": "2025-08-05",
@@ -249,5 +251,5 @@
   "z-aiglm-4.7": "2025-12-22",
   "z-aiglm-4.7-flash": "2026-01-19",
   "z-aiglm-5": "2026-02-11",
-  "z-aiglm-5-turbo": ""
+  "z-aiglm-5-turbo": "2026-03-15"
 }

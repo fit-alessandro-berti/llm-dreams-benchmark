@@ -75,6 +75,7 @@
 | allenaiolmo-3-7b-think | 8.622 |
 | granite4micro | 8.622 |
 | liquidlfm-2.2-6b | 8.622 |
+| openaigpt-5.4-nano | 8.622 |
 | ai21jamba-large-1.7 | 8.611 |
 | gemini-1.5-flash-002 | 8.611 |
 | deepseek-aiDeepSeek-R1-Zero | 8.611 |
@@ -104,6 +105,7 @@
 | gpt-4.1-nano-2025-04-14 | 8.511 |
 | o3-mini-20250131-HIGH | 8.511 |
 | openaigpt-5.2-codex | 8.511 |
+| openaigpt-5.4-mini | 8.511 |
 | allenaiolmo-3.1-32b-instruct | 8.500 |
 | nvidiallama-3.1-nemotron-ultra-253b-v1free | 8.489 |
 | nvidiallama-3.3-nemotron-super-49b-v1 | 8.489 |

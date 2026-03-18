@@ -14,7 +14,7 @@ from dataclasses import dataclass
 from threading import local
 
 NUMBER_EXECUTIONS = 2
-DEFAULT_MAX_WORKERS = 75
+DEFAULT_MAX_WORKERS = 30
 MAX_WORKERS = int(os.environ.get("EVALUATION_MAX_WORKERS", str(DEFAULT_MAX_WORKERS)))
 REQUEST_TIMEOUT_SECONDS = int(os.environ.get("EVALUATION_REQUEST_TIMEOUT_SECONDS", "180"))
 
@@ -238,7 +238,7 @@ def get_evaluation_google(text, context=None):
         ]
     }
 
-    if "gemini-2.5" in ctx.evaluating_model_name:
+    if "gemini-2.5" in ctx.evaluating_model_name or "gemini-3" in ctx.evaluating_model_name:
         payload["generationConfig"] = {
             "thinkingConfig": {
                 "thinkingBudget": 0

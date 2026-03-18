@@ -27,6 +27,12 @@ ALL_JUDGES = {
         "evaluation_api_url": "https://generativelanguage.googleapis.com/v1beta/",
         "api_key": open("../api_google.txt", "r").read().strip(),
     },
+    "gemini-3-flash-preview": {
+        "evaluation_folder": "evaluations-gemini3-flash",
+        "git_table_result": "alt_results_gemini3_flash.md",
+        "evaluation_api_url": "https://generativelanguage.googleapis.com/v1beta/",
+        "api_key": open("../api_google.txt", "r").read().strip(),
+    },
     "gpt-5.1": {
         "evaluation_folder": "evaluations-gpt51",
         "git_table_result": "alt_results_gpt51.md",
@@ -73,6 +79,8 @@ def get_evaluation_folder(evaluating_model_name=None):
         return ALL_JUDGES["grok-4.20-beta-0309-non-reasoning"]["evaluation_folder"]
     elif "gemini-2.5-flash" in evaluating_model_name:
         return ALL_JUDGES["gemini-2.5-flash"]["evaluation_folder"]
+    elif "gemini-3-flash" in evaluating_model_name:
+        return ALL_JUDGES["gemini-3-flash-preview"]["evaluation_folder"]
     elif "gpt-5.1" in evaluating_model_name:
         return ALL_JUDGES["gpt-5.1"]["evaluation_folder"]
     elif "gpt-5.2" in evaluating_model_name:
@@ -96,6 +104,8 @@ def get_git_table_result(evaluating_model_name=None):
         return ALL_JUDGES["grok-4.20-beta-0309-non-reasoning"]["git_table_result"]
     elif "gemini-2.5-flash" in evaluating_model_name:
         return ALL_JUDGES["gemini-2.5-flash"]["git_table_result"]
+    elif "gemini-3-flash" in evaluating_model_name:
+        return ALL_JUDGES["gemini-3-flash-preview"]["git_table_result"]
     elif "gpt-5.1" in evaluating_model_name:
         return ALL_JUDGES["gpt-5.1"]["git_table_result"]
     elif "gpt-5.2" in evaluating_model_name:
@@ -119,6 +129,8 @@ def get_evaluation_api_url(evaluating_model_name=None):
         return ALL_JUDGES["grok-4.20-beta-0309-non-reasoning"]["evaluation_api_url"]
     elif "gemini-2.5-flash" in evaluating_model_name:
         return ALL_JUDGES["gemini-2.5-flash"]["evaluation_api_url"]
+    elif "gemini-3-flash" in evaluating_model_name:
+        return ALL_JUDGES["gemini-3-flash-preview"]["evaluation_api_url"]
     elif "gpt-5.1" in evaluating_model_name:
         return ALL_JUDGES["gpt-5.1"]["evaluation_api_url"]
     elif "gpt-5.2" in evaluating_model_name:
@@ -149,6 +161,8 @@ def get_api_key(evaluating_model_name=None):
         return ALL_JUDGES["grok-4.20-beta-0309-non-reasoning"]["api_key"]
     elif "gemini-2.5-flash" in evaluating_model_name:
         return ALL_JUDGES["gemini-2.5-flash"]["api_key"]
+    elif "gemini-3-flash" in evaluating_model_name:
+        return ALL_JUDGES["gemini-3-flash-preview"]["api_key"]
     elif "gpt-5.1" in evaluating_model_name:
         return ALL_JUDGES["gpt-5.1"]["api_key"]
     elif "gpt-5.2" in evaluating_model_name:

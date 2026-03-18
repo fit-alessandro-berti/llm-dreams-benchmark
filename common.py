@@ -1,4 +1,4 @@
-ANSWERING_MODEL_NAME = "mistral-small-2603"
+ANSWERING_MODEL_NAME = "openai/gpt-5.4-mini"
 EVALUATING_MODEL_NAME = "gpt-5.2"
 
 

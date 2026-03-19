@@ -36,12 +36,12 @@
 | qwenqwen3-coder-next | 9.050 |
 | gpt-4o-2024-08-06 | 9.037 |
 | mistral-large-2407 | 9.037 |
+| xiaomimimo-v2-pro | 9.025 |
 | o1-mini | 9.012 |
 | anthropicclaude-sonnet-4.6 | 9.000 |
 | codestral-2501 | 9.000 |
 | falcon37b-instruct-q8_0 | 9.000 |
 | openaigpt-oss-120b | 9.000 |
-| openrouteraurora-alpha | 9.000 |
 | qwen-turbo-2024-11-01 | 9.000 |
 | gemini-2.5-pro-preview-06-05 | 8.988 |
 | Grok-4-fast | 8.988 |
@@ -57,6 +57,7 @@
 | gpt-4.5-preview | 8.963 |
 | Grok-4-fast-20251111 | 8.963 |
 | openaigpt-5.4-mini | 8.963 |
+| xiaomimimo-v2-omni | 8.963 |
 | phi3.53.8b-mini-instruct-fp16 | 8.962 |
 | granite4micro-h | 8.950 |
 | liquidlfm-2.2-6b | 8.950 |
@@ -82,6 +83,7 @@
 | deepseekdeepseek-v3.2 | 8.900 |
 | googlegemini-3.1-flash-lite-preview | 8.900 |
 | gpt-4o-mini-2024-07-18 | 8.900 |
+| minimaxminimax-m2.7 | 8.900 |
 | mistral-large-2411 | 8.900 |
 | mistral-small-2503 | 8.900 |
 | nousresearchhermes-4-405b | 8.900 |
@@ -111,7 +113,6 @@
 | ministral-3b-2410 | 8.838 |
 | qwen-max-2025-01-25 | 8.838 |
 | qwen2.5-omni-7b | 8.838 |
-| openrouterhunter-alpha | 8.825 |
 | QwenQwen3-32B | 8.825 |
 | gemini-2.5-pro-preview-05-06 | 8.825 |
 | openaigpt-5.3-codex | 8.825 |
@@ -123,7 +124,6 @@
 | claude-opus-4-5-20251101 | 8.812 |
 | grok-4-0709 | 8.812 |
 | qwenqwen3-max | 8.812 |
-| openrouterhealer-alpha | 8.800 |
 | qwen2.5-7b-instruct-1m | 8.800 |
 | allenaiolmo-3.1-32b-instruct | 8.800 |
 | chatgpt-4o-latest-2025-04-26 | 8.800 |

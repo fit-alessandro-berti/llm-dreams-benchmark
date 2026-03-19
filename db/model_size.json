@@ -517,6 +517,7 @@
     230,
     10
   ],
+  "minimaxminimax-m2.7": [],
   "minimaxminimax-m2free": [
     230,
     10
@@ -699,9 +700,6 @@
     21,
     3.6
   ],
-  "openrouteraurora-alpha": [],
-  "openrouterhealer-alpha": [],
-  "openrouterhunter-alpha": [],
   "phi3.53.8b-mini-instruct-fp16": [
     3.8
   ],
@@ -867,6 +865,8 @@
     309,
     15
   ],
+  "xiaomimimo-v2-omni": [],
+  "xiaomimimo-v2-pro": [],
   "z-aiglm-4.5": [
     355,
     32

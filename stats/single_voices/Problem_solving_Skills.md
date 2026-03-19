@@ -32,6 +32,7 @@
 | ai21jamba-mini-1.7 | 8.837 |
 | grok-2-1212 | 8.825 |
 | liquidlfm2-8b-a1b | 8.825 |
+| minimaxminimax-m2.7 | 8.825 |
 | o1-preview-2024-09-12 | 8.812 |
 | gpt-3.5-turbo | 8.788 |
 | gpt-4-0125-preview | 8.787 |
@@ -50,9 +51,9 @@
 | Grok-3-20250426-concise | 8.725 |
 | mistral-small-2409 | 8.725 |
 | openaigpt-oss-120b | 8.725 |
-| openrouteraurora-alpha | 8.713 |
 | gpt-4.1-mini-2025-04-14 | 8.712 |
 | minimaxminimax-m2.5 | 8.712 |
+| xiaomimimo-v2-pro | 8.712 |
 | devstral-small-2505 | 8.700 |
 | essentialairnj-1-instruct | 8.700 |
 | exaone-deep7.8b-fp16 | 8.700 |
@@ -107,6 +108,7 @@
 | openaigpt-5.2-codex | 8.488 |
 | falcon33b-instruct-q8_0 | 8.475 |
 | nvidiallama-3.1-nemotron-ultra-253b-v1free | 8.475 |
+| xiaomimimo-v2-omni | 8.475 |
 | googlegemini-3.1-flash-lite-preview | 8.475 |
 | nvidiallama-3.3-nemotron-super-49b-v1 | 8.475 |
 | QwenQwen3-32B | 8.475 |
@@ -133,7 +135,6 @@
 | gemma-3-27b-it | 8.375 |
 | gpt-5.2-2025-12-11 | 8.375 |
 | nvidianemotron-nano-9b-v2 | 8.375 |
-| openrouterhealer-alpha | 8.375 |
 | gemini-3-flash-preview | 8.362 |
 | claude-3-7-sonnet-20250219-thinking-high | 8.350 |
 | openaigpt-5.4 | 8.350 |
@@ -186,7 +187,6 @@
 | z-aiglm-5 | 8.162 |
 | grok-4.20-experimental-beta-0304-non-reasoning | 8.150 |
 | meta-llamaLlama-3.2-3B-Instruct | 8.150 |
-| openrouterhunter-alpha | 8.125 |
 | grok-4-0709 | 8.113 |
 | ministral-8b-2512 | 8.100 |
 | mistral-medium-2505 | 8.100 |

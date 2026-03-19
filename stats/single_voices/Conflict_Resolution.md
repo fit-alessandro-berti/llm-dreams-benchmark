@@ -21,6 +21,7 @@
 | gpt-4.5-preview | 8.588 |
 | qwen2.5-14b-instruct | 8.587 |
 | liquidlfm-2.2-6b | 8.575 |
+| xiaomimimo-v2-pro | 8.575 |
 | gpt-5-nano-2025-08-07 | 8.562 |
 | grok-2-1212 | 8.562 |
 | mistral-large-2407 | 8.562 |
@@ -54,7 +55,6 @@
 | ChatGPT-5.1-Instant-20251113 | 8.363 |
 | mistral-large-2411 | 8.362 |
 | nousresearchhermes-4-405b | 8.350 |
-| openrouteraurora-alpha | 8.350 |
 | qwen-turbo-2024-11-01 | 8.350 |
 | qwenqwen3.5-plus-02-15 | 8.350 |
 | ministral-3b-2410 | 8.338 |
@@ -83,6 +83,7 @@
 | gemma-3-27b-it | 8.213 |
 | gpt-5-2025-08-07 | 8.213 |
 | openaigpt-5.2-codex | 8.213 |
+| minimaxminimax-m2.7 | 8.212 |
 | granite4tiny-h | 8.200 |
 | bytedance-seedseed-2.0-lite | 8.200 |
 | googlegemma-2-9b-it | 8.200 |
@@ -93,6 +94,7 @@
 | mistral-small-2409 | 8.162 |
 | openaigpt-5.1-codex-max | 8.162 |
 | gpt-4o-mini-2024-11-05 | 8.150 |
+| xiaomimimo-v2-omni | 8.150 |
 | o1-2024-12-05 | 8.138 |
 | gpt-4-1106-preview | 8.125 |
 | Grok-3-20250426-concise | 8.125 |
@@ -100,7 +102,6 @@
 | phi3.53.8b-mini-instruct-fp16 | 8.112 |
 | gemini-2.0-flash-exp | 8.100 |
 | liquidlfm2-8b-a1b | 8.100 |
-| openrouterhealer-alpha | 8.100 |
 | phi4-reasoning | 8.100 |
 | qwen3.59b | 8.100 |
 | gemini-2.5-pro-preview-05-06 | 8.087 |
@@ -121,7 +122,6 @@
 | gemini-3-flash-preview | 8.000 |
 | anthropicclaude-opus-4.1 | 7.987 |
 | phi4-reasoningplus | 7.987 |
-| openrouterhunter-alpha | 7.963 |
 | openaigpt-oss-20b | 7.962 |
 | qwenqwen3.5-27b | 7.962 |
 | chatgpt-4o-latest-2025-03-26 | 7.950 |

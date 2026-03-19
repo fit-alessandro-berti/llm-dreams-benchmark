@@ -135,7 +135,6 @@
 | nousresearchhermes-4-405b | 6.125 |
 | deepseek-aiDeepSeek-V3 | 6.125 |
 | gemini-1.5-flash-002 | 6.112 |
-| openrouterhunter-alpha | 6.112 |
 | qwenqwen3-max-thinking | 6.075 |
 | bytedance-seedseed-2.0-lite | 6.075 |
 | amazonnova-2-lite-v1 | 6.063 |
@@ -163,7 +162,6 @@
 | qwenqwen3.5-plus-02-15 | 5.725 |
 | devstral-small-2505 | 5.712 |
 | openaigpt-5.2-codex | 5.712 |
-| openrouterhealer-alpha | 5.712 |
 | gpt-5-2025-08-07 | 5.663 |
 | qwenqwen3-next-80b-a3b-thinking | 5.650 |
 | o1-2024-12-05 | 5.625 |
@@ -193,6 +191,7 @@
 | codex-mini-latest | 5.225 |
 | granite4micro-h | 5.225 |
 | qwen3.59b | 5.225 |
+| minimaxminimax-m2.7 | 5.213 |
 | qwen34b-instruct-2507-q8_0 | 5.163 |
 | gpt-4-0613 | 5.162 |
 | Grok-4-fast | 5.150 |
@@ -222,6 +221,7 @@
 | qwenqwen3-coder-next | 4.513 |
 | qwen-turbo-2024-11-01 | 4.512 |
 | gpt-5-mini-2025-08-07 | 4.500 |
+| xiaomimimo-v2-omni | 4.500 |
 | o1-mini | 4.487 |
 | gpt-4o-2024-05-13 | 4.450 |
 | gpt-4.1-2025-04-14 | 4.438 |
@@ -235,9 +235,9 @@
 | gpt-4o-2024-08-06 | 4.300 |
 | gpt-4-0125-preview | 4.250 |
 | grok-2-1212 | 4.237 |
+| xiaomimimo-v2-pro | 4.225 |
 | codestral-2501 | 4.225 |
 | o3-2025-04-16 | 4.225 |
-| openrouteraurora-alpha | 4.200 |
 | qwen2.5-72b-instruct | 4.163 |
 | openaigpt-oss-120b | 4.138 |
 | qwen2.5-32b-instruct | 4.088 |

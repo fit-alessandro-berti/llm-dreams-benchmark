@@ -68,6 +68,7 @@
 | qwen-max-2025-01-25 | 8.600 |
 | exaone-deep7.8b-fp16 | 8.600 |
 | gpt-4o-2024-05-13 | 8.588 |
+| minimaxminimax-m2.7 | 8.575 |
 | qwen31.7b | 8.575 |
 | gpt-4o-mini-2024-11-05 | 8.575 |
 | liquidlfm-2-24b-a2b | 8.575 |
@@ -148,7 +149,6 @@
 | minimaxminimax-m2.1 | 8.263 |
 | googlegemma-2-9b-it | 8.262 |
 | gpt-4.1-2025-04-14 | 8.262 |
-| openrouteraurora-alpha | 8.262 |
 | qwenqwen3.5-plus-02-15 | 8.250 |
 | Grok-4-fast | 8.250 |
 | liquidlfm-2.5-1.2b-thinkingfree | 8.250 |
@@ -201,6 +201,7 @@
 | gpt-5-pro-2025-10-06 | 8.000 |
 | openaigpt-5.2-codex | 8.000 |
 | moonshotaikimi-linear-48b-a3b-instruct | 7.988 |
+| xiaomimimo-v2-omni | 7.963 |
 | qwen3.59b | 7.950 |
 | gemini-2.5-flash-preview-04-17 | 7.938 |
 | anthropicclaude-sonnet-4.6 | 7.938 |
@@ -216,6 +217,7 @@
 | ministral-3b-2512 | 7.888 |
 | qwenqwen3-next-80b-a3b-instruct | 7.875 |
 | gpt-5-chat-latest-2025-08-07 | 7.850 |
+| xiaomimimo-v2-pro | 7.838 |
 | claude-3-5-sonnet-20241022 | 7.812 |
 | mistral-small-2506 | 7.800 |
 | mistral-large-2512 | 7.800 |
@@ -227,7 +229,6 @@
 | gpt-5.2-pro-2025-12-11 | 7.750 |
 | gemini-2.5-pro-preview-06-05 | 7.737 |
 | claude-opus-4-5-20251101 | 7.725 |
-| openrouterhealer-alpha | 7.725 |
 | gemini-2.5-flash-preview-09-2025 | 7.713 |
 | qwenqwen3.5-27b | 7.713 |
 | gemini-3-pro-preview | 7.675 |
@@ -236,7 +237,6 @@
 | qwen34b-instruct-2507-q8_0 | 7.638 |
 | mistralaimistral-small-creative | 7.637 |
 | qwenqwen3.5-122b-a10b | 7.613 |
-| openrouterhunter-alpha | 7.600 |
 | claude-4-opus-20250514 | 7.575 |
 | gemini-2.5-flash-preview-05-20 | 7.562 |
 | gemma31b-it-q8_0 | 7.562 |

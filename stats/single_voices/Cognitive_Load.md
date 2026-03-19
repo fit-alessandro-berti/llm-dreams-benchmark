@@ -158,7 +158,6 @@
 | arcee-aitrinity-large-previewfree | 7.475 |
 | chatgpt-4o-latest-2025-04-26 | 7.475 |
 | granite4micro | 7.475 |
-| openrouterhunter-alpha | 7.475 |
 | nousresearchhermes-4-405b | 7.463 |
 | allenaiolmo-3-7b-instruct | 7.450 |
 | gpt-4.1-nano-2025-04-14 | 7.450 |
@@ -174,6 +173,7 @@
 | o1-pro-2024-12-17 | 7.388 |
 | mistral-large-2411 | 7.375 |
 | gpt-5-pro-2025-10-06 | 7.362 |
+| minimaxminimax-m2.7 | 7.350 |
 | granite4micro-h | 7.338 |
 | Grok-3-20250426-formal | 7.338 |
 | gemini-2.5-pro-preview-06-05 | 7.325 |
@@ -188,7 +188,6 @@
 | codex-mini-latest | 7.250 |
 | o1-2024-12-17 | 7.237 |
 | qwenqwen3.5-plus-02-15 | 7.225 |
-| openrouterhealer-alpha | 7.213 |
 | qwen2.5-omni-7b | 7.212 |
 | claude-haiku-4-5-20251001 | 7.200 |
 | ministral-8b-2410 | 7.200 |
@@ -217,6 +216,7 @@
 | qwenqwen3-next-80b-a3b-thinking | 7.037 |
 | gpt-4o-2024-05-13 | 7.025 |
 | granite4small-h | 7.025 |
+| xiaomimimo-v2-omni | 7.013 |
 | ChatGPT-5.1-Instant-20251113 | 7.000 |
 | phi4-reasoning | 6.988 |
 | liquidlfm2-8b-a1b | 6.987 |
@@ -248,10 +248,10 @@
 | o1-preview-2024-09-12 | 6.662 |
 | gpt-4-0125-preview | 6.650 |
 | gpt-5-nano-2025-08-07 | 6.650 |
+| xiaomimimo-v2-pro | 6.650 |
 | open-mixtral-8x7b | 6.638 |
 | qwenqwen3.5-122b-a10b | 6.638 |
 | o3-mini-20250131-HIGH | 6.625 |
 | microsoftPhi-3-medium-4k-instruct | 6.575 |
-| openrouteraurora-alpha | 6.550 |
 | qwen34b-instruct-2507-q8_0 | 6.525 |
 | gpt-4.5-preview | 6.112 |

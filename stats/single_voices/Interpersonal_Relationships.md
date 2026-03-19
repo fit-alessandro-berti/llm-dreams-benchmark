@@ -24,6 +24,7 @@
 | gpt-5-mini-2025-08-07 | 8.162 |
 | qwen-turbo-2024-11-01 | 8.150 |
 | gpt-4-0125-preview | 8.125 |
+| xiaomimimo-v2-pro | 8.125 |
 | phi3.53.8b-mini-instruct-fp16 | 8.112 |
 | qwen2.5-7b-instruct | 8.100 |
 | ai21jamba-mini-1.7 | 8.100 |
@@ -48,7 +49,6 @@
 | baiduernie-4.5-300b-a47b | 7.975 |
 | gpt-4.1-mini-2025-04-14 | 7.975 |
 | ministral-3b-2410 | 7.963 |
-| openrouteraurora-alpha | 7.963 |
 | ministral-8b-2410 | 7.950 |
 | mistral-small-2501 | 7.950 |
 | openaigpt-oss-120b | 7.950 |
@@ -70,6 +70,7 @@
 | o4-mini-2025-04-16 | 7.838 |
 | qwenqwen3-coder | 7.825 |
 | minimaxminimax-m2.5 | 7.825 |
+| minimaxminimax-m2.7 | 7.812 |
 | o3-2025-04-16 | 7.812 |
 | gpt-5-2025-08-07 | 7.788 |
 | falcon37b-instruct-q8_0 | 7.787 |
@@ -93,7 +94,6 @@
 | smollm21.7b-instruct-q6_K | 7.688 |
 | granite4tiny-h | 7.662 |
 | openaigpt-5.4-mini | 7.650 |
-| openrouterhunter-alpha | 7.637 |
 | ChatGPT-5.1-Instant-20251113 | 7.613 |
 | deepseek-aiDeepSeek-V3 | 7.612 |
 | o1-2024-12-05 | 7.600 |
@@ -108,8 +108,8 @@
 | qwenqwen3.5-plus-02-15 | 7.525 |
 | googlegemma-2-9b-it | 7.500 |
 | qwen34b-instruct-2507-q8_0 | 7.500 |
+| xiaomimimo-v2-omni | 7.500 |
 | allenaiolmo-3-7b-instruct | 7.475 |
-| openrouterhealer-alpha | 7.463 |
 | qwenqwen3-max | 7.462 |
 | liquidlfm-2.5-1.2b-thinkingfree | 7.413 |
 | nousresearchhermes-4-70b | 7.412 |

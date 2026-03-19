@@ -143,7 +143,6 @@
 | nousresearchhermes-4-70b | 6.900 |
 | qwenqwen3.5-27b | 6.887 |
 | qwen2.5-7b-instruct-1m | 6.875 |
-| openrouterhealer-alpha | 6.850 |
 | arcee-aitrinity-large-previewfree | 6.850 |
 | nvidiaLlama-3.1-Nemotron-70B-Instruct | 6.825 |
 | gemma-3-27b-it | 6.812 |
@@ -157,7 +156,6 @@
 | liquidlfm-2-24b-a2b | 6.712 |
 | gpt-5-chat-latest-2025-08-19 | 6.700 |
 | granite4micro-h | 6.700 |
-| openrouterhunter-alpha | 6.700 |
 | openaigpt-5.1-codex-max | 6.688 |
 | qwen-max-2025-01-25 | 6.688 |
 | qwen2.5-omni-7b | 6.675 |
@@ -202,6 +200,7 @@
 | openaigpt-5.4-mini | 6.088 |
 | Grok-3-20250426-formal | 6.075 |
 | mistral-small-2503 | 6.075 |
+| minimaxminimax-m2.7 | 6.075 |
 | o4-mini-2025-04-16 | 6.038 |
 | ministral-3b-2410 | 6.025 |
 | codex-mini-latest | 6.000 |
@@ -209,6 +208,7 @@
 | openaigpt-oss-20b | 5.963 |
 | ministral-8b-2410 | 5.900 |
 | qwen-turbo-2024-11-01 | 5.875 |
+| xiaomimimo-v2-omni | 5.863 |
 | qwen34b-instruct-2507-q8_0 | 5.862 |
 | o1-preview-2024-09-12 | 5.800 |
 | claude-haiku-4-5-20251001 | 5.737 |
@@ -248,7 +248,7 @@
 | open-mixtral-8x22b | 5.050 |
 | ai21jamba-mini-1.7 | 5.037 |
 | deepseekdeepseek-v3.2-exp | 5.037 |
-| openrouteraurora-alpha | 4.925 |
+| xiaomimimo-v2-pro | 4.987 |
 | falcon37b-instruct-q8_0 | 4.875 |
 | o3-pro-2025-06-10 | 4.738 |
 | open-mixtral-8x7b | 4.713 |

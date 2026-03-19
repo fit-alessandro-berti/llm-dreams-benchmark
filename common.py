@@ -1,4 +1,4 @@
-ANSWERING_MODEL_NAME = "openai/gpt-5.4-nano"
+ANSWERING_MODEL_NAME = "xiaomi/mimo-v2-omni"
 EVALUATING_MODEL_NAME = "gpt-5.2"
 
 

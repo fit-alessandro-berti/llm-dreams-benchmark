@@ -166,6 +166,7 @@
 | qwenqwen3-235b-a22b-07-25 | 5.863 |
 | allenaiolmo-3-7b-instruct | 5.838 |
 | minimaxminimax-m2.1 | 5.837 |
+| minimaxminimax-m2.7 | 5.825 |
 | baiduernie-4.5-300b-a47b | 5.812 |
 | o1-mini | 5.812 |
 | qwen34b | 5.812 |
@@ -215,8 +216,6 @@
 | inceptionmercury | 5.450 |
 | gpt-4.1-mini-2025-04-14 | 5.413 |
 | o3-2025-04-16 | 5.400 |
-| openrouterhealer-alpha | 5.387 |
-| openrouterhunter-alpha | 5.387 |
 | gemma312b-it-q8_0 | 5.375 |
 | gpt-4o-2024-08-06 | 5.363 |
 | Grok-4-fast | 5.350 |
@@ -231,7 +230,6 @@
 | qwenqwen3-coder | 5.263 |
 | o3-pro-2025-06-10 | 5.250 |
 | openaigpt-5.2-codex | 5.237 |
-| openrouteraurora-alpha | 5.237 |
 | claude-opus-4-5-20251101 | 5.212 |
 | anthropicclaude-opus-4.6 | 5.200 |
 | gpt-5-mini-2025-08-07 | 5.200 |
@@ -241,6 +239,7 @@
 | claude-4-opus-20250514 | 5.125 |
 | gemma-3-27b-it | 5.112 |
 | openaigpt-5.4-mini | 5.112 |
+| xiaomimimo-v2-omni | 5.100 |
 | gpt-4-0125-preview | 5.037 |
 | anthropicclaude-opus-4.1 | 5.025 |
 | gemini-2.5-pro-preview-06-05 | 5.025 |
@@ -249,6 +248,7 @@
 | gpt-4.5-preview | 4.963 |
 | qwenqwen3-next-80b-a3b-instruct | 4.912 |
 | o3-mini-20250131-HIGH | 4.888 |
+| xiaomimimo-v2-pro | 4.888 |
 | qwen34b-instruct-2507-q8_0 | 4.713 |
 | qwen3.59b | 4.663 |
 | claude-haiku-4-5-20251001 | 4.638 |

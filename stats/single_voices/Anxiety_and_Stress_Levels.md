@@ -150,14 +150,12 @@
 | qwenqwen3.5-plus-02-15 | 6.550 |
 | gpt-4.1-nano-2025-04-14 | 6.538 |
 | nvidianemotron-nano-9b-v2 | 6.525 |
-| openrouterhunter-alpha | 6.525 |
 | allenaiolmo-3-7b-instruct | 6.513 |
 | devstral-small-2505 | 6.513 |
 | o1-pro-2024-12-17 | 6.500 |
 | gpt-5-chat-latest-2025-08-19 | 6.500 |
 | allenaiolmo-3.1-32b-instruct | 6.488 |
 | qwenqwen3.5-27b | 6.463 |
-| openrouterhealer-alpha | 6.450 |
 | qwen-max-2025-01-25 | 6.450 |
 | qwenqwen3-coder | 6.400 |
 | bytedance-seedseed-2.0-mini | 6.388 |
@@ -202,6 +200,7 @@
 | o4-mini-2025-04-16 | 5.787 |
 | liquidlfm-2.2-6b | 5.725 |
 | openaigpt-oss-20b | 5.700 |
+| minimaxminimax-m2.7 | 5.688 |
 | Grok-3-20250426-concise | 5.662 |
 | phi4-reasoning | 5.650 |
 | openaigpt-5.4-mini | 5.638 |
@@ -224,12 +223,14 @@
 | granite3.28b-instruct-q4_K_M | 5.075 |
 | mistral-large-2407 | 5.075 |
 | open-mistral-nemo | 5.075 |
+| xiaomimimo-v2-omni | 5.062 |
 | o3-mini-20250131-HIGH | 5.012 |
 | phi4-reasoningplus | 5.000 |
 | grok-2-1212 | 5.000 |
 | qwenqwen3-coder-next | 5.000 |
 | gpt-4-turbo-2024-04-09 | 4.950 |
 | gpt-5-mini-2025-08-07 | 4.938 |
+| xiaomimimo-v2-pro | 4.900 |
 | gpt-4-0125-preview | 4.862 |
 | gpt-4o-2024-08-06 | 4.850 |
 | gpt-4o-2024-05-13 | 4.800 |
@@ -247,7 +248,6 @@
 | inceptionmercury | 4.538 |
 | qwen2.5-14b-instruct | 4.525 |
 | falcon37b-instruct-q8_0 | 4.500 |
-| openrouteraurora-alpha | 4.487 |
 | gpt-4.5-preview | 4.388 |
 | open-mixtral-8x7b | 4.362 |
 | deepseekdeepseek-v3.2-exp | 4.312 |

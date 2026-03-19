@@ -77,7 +77,6 @@
 | gemini-1.5-flash-8b | 9.588 |
 | mistral-medium-2508 | 9.588 |
 | anthropicclaude-sonnet-4.5 | 9.587 |
-| openrouterhunter-alpha | 9.575 |
 | qwen34b | 9.575 |
 | allenaiolmo-3-7b-think | 9.575 |
 | chatgpt-4o-latest-2025-04-26 | 9.575 |
@@ -92,13 +91,14 @@
 | gpt-4-turbo-2024-04-09 | 9.562 |
 | gpt-5-pro-2025-10-06 | 9.562 |
 | liquidlfm2-8b-a1b | 9.562 |
+| minimaxminimax-m2.7 | 9.562 |
 | openaigpt-5.3-chat | 9.562 |
-| openrouterhealer-alpha | 9.562 |
 | Qwen-QwQ-32B | 9.562 |
 | QwenQwen3-235B-A22B | 9.562 |
 | qwenqwen3-235b-a22b-thinking-2507 | 9.562 |
 | QwenQwen3-30B-A3B | 9.562 |
 | qwenqwen3-next-80b-a3b-thinking | 9.562 |
+| xiaomimimo-v2-pro | 9.562 |
 | deepseekdeepseek-v3.2 | 9.562 |
 | Gemini-1.5-Pro-Exp-0827 | 9.550 |
 | gemma-3-27b-it | 9.550 |
@@ -135,7 +135,6 @@
 | o1-mini | 9.500 |
 | o1-preview-2024-09-12 | 9.500 |
 | o1-pro-2024-12-05 | 9.500 |
-| openrouteraurora-alpha | 9.500 |
 | qwen38b | 9.500 |
 | z-aiglm-4.5 | 9.500 |
 | googlegemma-2-9b-it | 9.488 |
@@ -154,6 +153,7 @@
 | gpt-4.5-preview | 9.475 |
 | o1-2024-12-17 | 9.475 |
 | phi3.53.8b-mini-instruct-fp16 | 9.475 |
+| xiaomimimo-v2-omni | 9.475 |
 | liquidlfm-2-24b-a2b | 9.475 |
 | gpt-4o-mini-2024-07-18 | 9.463 |
 | meta-llamaMeta-Llama-3.1-405B-Instruct | 9.463 |

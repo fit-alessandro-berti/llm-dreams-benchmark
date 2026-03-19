@@ -32,7 +32,6 @@
 | deepseekdeepseek-v3.2 | 9.050 |
 | gpt-4o-2024-05-13 | 9.050 |
 | o3-mini-20250131-HIGH | 9.050 |
-| openrouteraurora-alpha | 9.050 |
 | anthropicclaude-sonnet-4.6 | 9.038 |
 | granite3.28b-instruct-q4_K_M | 9.037 |
 | falcon310b-instruct-q8_0 | 9.025 |
@@ -46,6 +45,7 @@
 | mistral-large-2407 | 8.988 |
 | qwenqwen3-coder-next | 8.988 |
 | gpt-4o-mini-2024-07-18 | 8.987 |
+| xiaomimimo-v2-pro | 8.975 |
 | codestral-2501 | 8.975 |
 | liquidlfm-2.2-6b | 8.975 |
 | nousresearchhermes-4-405b | 8.975 |
@@ -55,6 +55,7 @@
 | gpt-4.1-mini-2025-04-14 | 8.962 |
 | gpt-5-2025-08-07 | 8.950 |
 | gpt-5-pro-2025-10-06 | 8.950 |
+| minimaxminimax-m2.7 | 8.938 |
 | bytedance-seedseed-2.0-mini | 8.925 |
 | Grok-3-20250426-formal | 8.925 |
 | o1-pro-2024-12-05 | 8.925 |
@@ -104,6 +105,7 @@
 | smollm21.7b-instruct-q6_K | 8.750 |
 | grok-4.20-experimental-beta-0304-reasoning | 8.750 |
 | minimaxminimax-m2.5 | 8.738 |
+| xiaomimimo-v2-omni | 8.738 |
 | deepseek-aiDeepSeek-V3 | 8.737 |
 | deepseekdeepseek-chat-v3.1 | 8.737 |
 | gemini-2.5-pro-preview-06-05 | 8.737 |
@@ -135,7 +137,6 @@
 | gemini-1.5-flash-8b | 8.600 |
 | ai21jamba-large-1.7 | 8.600 |
 | baiduernie-4.5-21b-a3b | 8.600 |
-| openrouterhealer-alpha | 8.600 |
 | QwenQwen3-32B | 8.600 |
 | bytedance-seedseed-2.0-lite | 8.600 |
 | falcon33b-instruct-q8_0 | 8.588 |
@@ -154,7 +155,6 @@
 | gemma312b-it-q8_0 | 8.500 |
 | nvidiaLlama-3.1-Nemotron-70B-Instruct | 8.500 |
 | claude-haiku-4-5-20251001 | 8.488 |
-| openrouterhunter-alpha | 8.488 |
 | qwen38b | 8.488 |
 | Gemini-1.5-Pro-Exp-0827 | 8.487 |
 | chatgpt-4o-latest-2025-04-26 | 8.475 |

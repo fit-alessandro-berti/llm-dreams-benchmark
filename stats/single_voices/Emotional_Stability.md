@@ -12,7 +12,6 @@
 | microsoftphi-4 | 8.162 |
 | ai21jamba-mini-1.7 | 8.150 |
 | o3-2025-04-16 | 8.150 |
-| openrouteraurora-alpha | 8.125 |
 | qwen2.5-72b-instruct | 8.125 |
 | open-mistral-7b | 8.113 |
 | gpt-4o-2024-08-06 | 8.087 |
@@ -33,6 +32,7 @@
 | falcon37b-instruct-q8_0 | 7.950 |
 | mistral-large-2407 | 7.950 |
 | gpt-4o-2024-05-13 | 7.938 |
+| xiaomimimo-v2-pro | 7.938 |
 | gpt-5-mini-2025-08-07 | 7.925 |
 | microsoftWizardLM-2-8x22B | 7.925 |
 | openaigpt-oss-120b | 7.900 |
@@ -41,11 +41,13 @@
 | gpt-4.1-mini-2025-04-14 | 7.862 |
 | gpt-4.1-2025-04-14 | 7.838 |
 | qwenqwen3-coder-next | 7.837 |
+| xiaomimimo-v2-omni | 7.825 |
 | o4-mini-2025-04-16 | 7.800 |
 | ministral-8b-2410 | 7.800 |
 | falcon310b-instruct-q8_0 | 7.800 |
 | anthropicclaude-sonnet-4.6 | 7.788 |
 | gpt-3.5-turbo | 7.787 |
+| minimaxminimax-m2.7 | 7.763 |
 | phi4-reasoningplus | 7.737 |
 | liquidlfm-2.2-6b | 7.725 |
 | mistral-small-2501 | 7.725 |
@@ -100,13 +102,11 @@
 | gemini-2.5-pro-preview-06-05 | 7.113 |
 | qwen2.5-7b-instruct-1m | 7.112 |
 | devstral-small-2505 | 7.100 |
-| openrouterhealer-alpha | 7.100 |
 | qwenqwen3.5-397b-a17b | 7.087 |
 | qwenqwen3-next-80b-a3b-instruct | 7.063 |
 | liquidlfm-2-24b-a2b | 7.050 |
 | o1-2024-12-05 | 7.050 |
 | minimaxminimax-m2free | 7.038 |
-| openrouterhunter-alpha | 7.038 |
 | Grok-4-fast | 7.012 |
 | deepseekdeepseek-chat-v3.1 | 7.000 |
 | gemini-2.5-flash-lite-preview-09-2025 | 6.975 |

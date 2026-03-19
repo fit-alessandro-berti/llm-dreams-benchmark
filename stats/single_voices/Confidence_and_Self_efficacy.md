@@ -38,7 +38,6 @@
 | Grok-3-20250426-formal | 8.200 |
 | o1-preview-2024-09-12 | 8.200 |
 | mistral-large-2407 | 8.188 |
-| openrouteraurora-alpha | 8.175 |
 | gpt-4o-2024-05-13 | 8.137 |
 | deepseekdeepseek-v3.2 | 8.125 |
 | mistral-small-2503 | 8.125 |
@@ -46,7 +45,9 @@
 | openaigpt-oss-120b | 8.088 |
 | phi4-reasoningplus | 8.088 |
 | o3-mini-20250131-HIGH | 8.075 |
+| minimaxminimax-m2.7 | 8.075 |
 | gpt-4o-2024-08-06 | 8.062 |
+| xiaomimimo-v2-pro | 8.062 |
 | liquidlfm-2.2-6b | 8.050 |
 | qwen2.5-omni-7b | 8.037 |
 | grok-4.20-experimental-beta-0304-reasoning | 8.025 |
@@ -74,6 +75,7 @@
 | minimaxminimax-m2.5 | 7.838 |
 | nvidianemotron-3-nano-30b-a3bfree | 7.825 |
 | deepseek-aiDeepSeek-V3 | 7.788 |
+| xiaomimimo-v2-omni | 7.775 |
 | anthropicclaude-sonnet-4.6 | 7.763 |
 | devstral-small-2505 | 7.763 |
 | granite4micro | 7.762 |
@@ -140,7 +142,6 @@
 | qwenqwen3-30b-a3b-instruct-2507 | 7.225 |
 | qwenqwen3.5-397b-a17b | 7.225 |
 | qwenqwen3-max | 7.200 |
-| openrouterhealer-alpha | 7.188 |
 | gemini-2.5-pro-preview-06-05 | 7.188 |
 | allenaiolmo-3-7b-instruct | 7.175 |
 | deepseekdeepseek-r1 | 7.163 |
@@ -172,7 +173,6 @@
 | openaigpt-5.4-pro | 6.925 |
 | gemma-3n-e4b-it | 6.913 |
 | magistral-small-2506 | 6.913 |
-| openrouterhunter-alpha | 6.913 |
 | gemini-2.0-pro-exp-02-05 | 6.912 |
 | nvidiallama-3.3-nemotron-super-49b-v1 | 6.900 |
 | moonshotaikimi-k2.5 | 6.888 |

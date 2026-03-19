@@ -13,9 +13,9 @@
 | microsoftPhi-3-medium-4k-instruct | **455.5** | 3.4 $\pm$ 0.4 | 8.5 $\pm$ 0.0 | 9.2 $\pm$ 0.2 | 9.2 $\pm$ 0.2 | 8.5 $\pm$ 0.5 | 9.0 $\pm$ 0.0 | 8.5 $\pm$ 0.0 | 4.8 $\pm$ 1.3 | 9.5 $\pm$ 0.0 | 9.5 $\pm$ 0.0 | 3.2 $\pm$ 0.2 | 6.9 $\pm$ 0.5 | 7.6 $\pm$ 0.2 | 8.8 $\pm$ 0.2 | 9.5 $\pm$ 0.0 |
 | gpt-4.5-preview | **455.5** | 3.0 $\pm$ 0.0 | 8.5 $\pm$ 0.0 | 9.0 $\pm$ 0.0 | 9.5 $\pm$ 0.0 | 8.2 $\pm$ 0.4 | 9.0 $\pm$ 0.0 | 8.5 $\pm$ 0.0 | 3.6 $\pm$ 0.4 | 9.0 $\pm$ 0.0 | 9.0 $\pm$ 0.5 | 3.0 $\pm$ 0.6 | 5.5 $\pm$ 0.9 | 7.1 $\pm$ 0.2 | 8.6 $\pm$ 0.2 | 9.5 $\pm$ 0.0 |
 | ai21jamba-mini-1.7 | **455.0** | 3.6 $\pm$ 0.6 | 8.5 $\pm$ 0.0 | 9.1 $\pm$ 0.2 | 9.4 $\pm$ 0.2 | 8.5 $\pm$ 0.5 | 8.8 $\pm$ 0.4 | 8.5 $\pm$ 0.5 | 5.0 $\pm$ 0.7 | 9.2 $\pm$ 0.2 | 9.5 $\pm$ 0.0 | 3.0 $\pm$ 0.7 | 6.6 $\pm$ 0.4 | 7.5 $\pm$ 0.4 | 8.8 $\pm$ 0.2 | 9.2 $\pm$ 0.2 |
-| openrouteraurora-alpha | **454.7** | 3.5 $\pm$ 0.6 | 8.5 $\pm$ 0.0 | 9.4 $\pm$ 0.2 | 9.8 $\pm$ 0.2 | 8.8 $\pm$ 0.4 | 8.7 $\pm$ 0.5 | 8.6 $\pm$ 0.5 | 4.5 $\pm$ 0.9 | 9.6 $\pm$ 0.1 | 9.3 $\pm$ 0.3 | 3.8 $\pm$ 0.8 | 7.0 $\pm$ 0.0 | 8.0 $\pm$ 0.5 | 9.1 $\pm$ 0.4 | 9.6 $\pm$ 0.4 |
 | bytedance-seedseed-2.0-lite | **454.5** | 3.1 $\pm$ 0.2 | 8.5 $\pm$ 0.0 | 9.0 $\pm$ 0.0 | 9.5 $\pm$ 0.0 | 9.0 $\pm$ 0.0 | 7.6 $\pm$ 0.2 | 8.6 $\pm$ 0.4 | 4.0 $\pm$ 0.0 | 9.4 $\pm$ 0.2 | 7.4 $\pm$ 0.4 | 3.8 $\pm$ 0.4 | 4.8 $\pm$ 0.4 | 6.2 $\pm$ 0.8 | 9.4 $\pm$ 0.2 | 9.1 $\pm$ 0.2 |
 | granite4small-h | **453.6** | 3.5 $\pm$ 0.0 | 8.5 $\pm$ 0.0 | 9.2 $\pm$ 0.2 | 9.2 $\pm$ 0.2 | 8.2 $\pm$ 0.4 | 9.1 $\pm$ 0.2 | 8.5 $\pm$ 0.0 | 5.5 $\pm$ 1.5 | 9.5 $\pm$ 0.0 | 9.6 $\pm$ 0.1 | 3.5 $\pm$ 0.5 | 7.2 $\pm$ 0.2 | 8.0 $\pm$ 0.0 | 8.6 $\pm$ 0.2 | 9.6 $\pm$ 0.1 |
+| xiaomimimo-v2-pro | **452.0** | 3.8 $\pm$ 0.8 | 8.5 $\pm$ 0.0 | 9.0 $\pm$ 0.0 | 9.5 $\pm$ 0.0 | 8.5 $\pm$ 0.5 | 8.2 $\pm$ 0.2 | 9.0 $\pm$ 0.4 | 3.5 $\pm$ 1.5 | 9.5 $\pm$ 0.0 | 8.2 $\pm$ 0.2 | 3.2 $\pm$ 0.8 | 5.0 $\pm$ 1.0 | 7.2 $\pm$ 0.2 | 8.9 $\pm$ 0.2 | 9.4 $\pm$ 0.2 |
 | open-mixtral-8x22b | **452.0** | 4.2 $\pm$ 0.2 | 8.5 $\pm$ 0.0 | 9.0 $\pm$ 0.0 | 9.5 $\pm$ 0.0 | 8.2 $\pm$ 0.4 | 8.9 $\pm$ 0.2 | 8.6 $\pm$ 0.2 | 5.0 $\pm$ 0.0 | 9.2 $\pm$ 0.2 | 9.5 $\pm$ 0.0 | 3.5 $\pm$ 0.5 | 6.6 $\pm$ 0.6 | 7.1 $\pm$ 0.2 | 8.6 $\pm$ 0.2 | 9.4 $\pm$ 0.2 |
 | anthropicclaude-sonnet-4.6 | **452.0** | 3.9 $\pm$ 0.6 | 8.4 $\pm$ 0.2 | 9.0 $\pm$ 0.0 | 9.5 $\pm$ 0.0 | 8.1 $\pm$ 0.2 | 8.4 $\pm$ 0.2 | 8.9 $\pm$ 0.2 | 4.5 $\pm$ 0.5 | 9.4 $\pm$ 0.2 | 8.8 $\pm$ 0.4 | 3.2 $\pm$ 0.2 | 5.4 $\pm$ 0.6 | 7.2 $\pm$ 0.2 | 8.5 $\pm$ 0.0 | 9.4 $\pm$ 0.2 |
 | deepseekdeepseek-v3.2 | **451.5** | 3.1 $\pm$ 0.2 | 8.6 $\pm$ 0.2 | 9.1 $\pm$ 0.2 | 9.6 $\pm$ 0.1 | 8.1 $\pm$ 0.2 | 8.7 $\pm$ 0.3 | 9.0 $\pm$ 0.0 | 3.5 $\pm$ 0.6 | 9.3 $\pm$ 0.3 | 8.6 $\pm$ 0.5 | 2.6 $\pm$ 0.6 | 5.5 $\pm$ 0.9 | 7.5 $\pm$ 0.4 | 7.9 $\pm$ 0.6 | 9.2 $\pm$ 0.2 |
@@ -32,6 +32,7 @@
 | liquidlfm2-8b-a1b | **447.5** | 4.6 $\pm$ 1.1 | 8.5 $\pm$ 0.0 | 9.0 $\pm$ 0.0 | 9.5 $\pm$ 0.0 | 8.0 $\pm$ 0.0 | 8.6 $\pm$ 0.2 | 8.1 $\pm$ 0.2 | 6.0 $\pm$ 1.2 | 9.1 $\pm$ 0.2 | 9.4 $\pm$ 0.2 | 3.8 $\pm$ 0.8 | 5.5 $\pm$ 0.5 | 8.0 $\pm$ 0.5 | 8.2 $\pm$ 0.2 | 9.2 $\pm$ 0.2 |
 | gpt-4.1-2025-04-14 | **447.5** | 4.2 $\pm$ 0.4 | 8.4 $\pm$ 0.2 | 9.0 $\pm$ 0.0 | 9.5 $\pm$ 0.0 | 8.4 $\pm$ 0.4 | 8.5 $\pm$ 0.0 | 9.0 $\pm$ 0.0 | 4.8 $\pm$ 0.4 | 9.5 $\pm$ 0.0 | 8.8 $\pm$ 0.2 | 3.9 $\pm$ 0.5 | 5.8 $\pm$ 0.4 | 7.4 $\pm$ 0.2 | 8.2 $\pm$ 0.4 | 9.1 $\pm$ 0.2 |
 | o3-2025-04-16 | **447.1** | 3.8 $\pm$ 0.4 | 8.5 $\pm$ 0.0 | 9.1 $\pm$ 0.2 | 9.6 $\pm$ 0.1 | 8.2 $\pm$ 0.3 | 8.7 $\pm$ 0.2 | 8.5 $\pm$ 0.5 | 4.2 $\pm$ 0.4 | 9.2 $\pm$ 0.2 | 9.2 $\pm$ 0.2 | 3.2 $\pm$ 0.4 | 6.6 $\pm$ 0.5 | 7.8 $\pm$ 0.3 | 8.6 $\pm$ 0.1 | 9.3 $\pm$ 0.3 |
+| xiaomimimo-v2-omni | **446.5** | 3.9 $\pm$ 0.6 | 8.5 $\pm$ 0.0 | 9.0 $\pm$ 0.0 | 9.5 $\pm$ 0.0 | 8.0 $\pm$ 0.0 | 8.6 $\pm$ 0.2 | 8.9 $\pm$ 0.2 | 4.5 $\pm$ 0.5 | 9.5 $\pm$ 0.0 | 8.5 $\pm$ 0.5 | 3.4 $\pm$ 0.4 | 6.0 $\pm$ 0.0 | 7.6 $\pm$ 0.2 | 8.4 $\pm$ 0.2 | 9.1 $\pm$ 0.2 |
 | qwen2.5-32b-instruct | **446.5** | 4.5 $\pm$ 0.0 | 8.4 $\pm$ 0.2 | 9.0 $\pm$ 0.0 | 9.5 $\pm$ 0.0 | 8.6 $\pm$ 0.4 | 8.5 $\pm$ 0.0 | 8.5 $\pm$ 0.5 | 5.5 $\pm$ 0.5 | 9.1 $\pm$ 0.2 | 9.4 $\pm$ 0.2 | 4.2 $\pm$ 0.8 | 6.5 $\pm$ 0.5 | 7.6 $\pm$ 0.2 | 8.8 $\pm$ 0.2 | 9.2 $\pm$ 0.2 |
 | qwen-turbo-2024-11-01 | **446.5** | 4.0 $\pm$ 0.4 | 8.4 $\pm$ 0.2 | 9.0 $\pm$ 0.0 | 9.5 $\pm$ 0.0 | 8.5 $\pm$ 0.5 | 8.5 $\pm$ 0.0 | 8.1 $\pm$ 0.2 | 5.2 $\pm$ 0.8 | 9.0 $\pm$ 0.0 | 9.5 $\pm$ 0.0 | 3.8 $\pm$ 0.8 | 6.6 $\pm$ 0.6 | 7.6 $\pm$ 0.6 | 8.6 $\pm$ 0.4 | 9.2 $\pm$ 0.2 |
 | open-mistral-nemo | **446.0** | 4.4 $\pm$ 0.2 | 8.0 $\pm$ 0.4 | 9.0 $\pm$ 0.0 | 9.5 $\pm$ 0.0 | 8.2 $\pm$ 0.2 | 8.6 $\pm$ 0.2 | 8.1 $\pm$ 0.2 | 6.4 $\pm$ 0.4 | 9.1 $\pm$ 0.2 | 9.5 $\pm$ 0.0 | 3.8 $\pm$ 0.8 | 7.0 $\pm$ 0.4 | 7.4 $\pm$ 0.2 | 8.4 $\pm$ 0.2 | 9.1 $\pm$ 0.2 |
@@ -70,6 +71,7 @@
 | allenaiolmo-3.1-32b-instruct | **430.0** | 6.2 $\pm$ 1.3 | 7.8 $\pm$ 0.6 | 8.8 $\pm$ 0.2 | 9.2 $\pm$ 0.2 | 8.1 $\pm$ 0.2 | 8.0 $\pm$ 0.4 | 8.8 $\pm$ 0.2 | 6.4 $\pm$ 0.8 | 9.1 $\pm$ 0.2 | 8.9 $\pm$ 0.4 | 4.8 $\pm$ 1.1 | 6.4 $\pm$ 0.4 | 7.9 $\pm$ 0.4 | 8.6 $\pm$ 0.4 | 9.1 $\pm$ 0.4 |
 | qwenqwen3-max-thinking | **429.1** | 6.6 $\pm$ 1.5 | 7.4 $\pm$ 1.1 | 9.1 $\pm$ 0.2 | 9.6 $\pm$ 0.1 | 8.2 $\pm$ 0.2 | 7.8 $\pm$ 0.7 | 8.6 $\pm$ 0.4 | 6.9 $\pm$ 1.2 | 9.3 $\pm$ 0.3 | 9.1 $\pm$ 0.2 | 4.9 $\pm$ 1.4 | 6.6 $\pm$ 0.6 | 8.1 $\pm$ 0.6 | 8.2 $\pm$ 0.2 | 9.3 $\pm$ 0.3 |
 | phi4-reasoningplus | **428.0** | 5.2 $\pm$ 2.2 | 7.4 $\pm$ 1.1 | 9.0 $\pm$ 0.0 | 9.5 $\pm$ 0.0 | 8.2 $\pm$ 0.2 | 8.2 $\pm$ 0.2 | 7.5 $\pm$ 0.5 | 6.1 $\pm$ 2.1 | 9.0 $\pm$ 0.0 | 9.2 $\pm$ 0.2 | 4.4 $\pm$ 1.5 | 7.0 $\pm$ 0.6 | 7.9 $\pm$ 0.4 | 8.0 $\pm$ 0.6 | 9.2 $\pm$ 0.2 |
+| minimaxminimax-m2.7 | **427.9** | 6.0 $\pm$ 1.5 | 8.2 $\pm$ 0.2 | 9.0 $\pm$ 0.0 | 9.5 $\pm$ 0.0 | 8.2 $\pm$ 0.2 | 8.5 $\pm$ 0.3 | 8.5 $\pm$ 0.2 | 6.2 $\pm$ 0.8 | 9.1 $\pm$ 0.1 | 9.4 $\pm$ 0.1 | 5.5 $\pm$ 0.9 | 7.3 $\pm$ 0.3 | 8.2 $\pm$ 0.5 | 8.2 $\pm$ 0.2 | 9.0 $\pm$ 0.0 |
 | liquidlfm-2.5-1.2b-instructfree | **427.5** | 6.5 $\pm$ 1.2 | 7.5 $\pm$ 1.0 | 9.0 $\pm$ 0.0 | 9.5 $\pm$ 0.0 | 7.5 $\pm$ 0.5 | 8.6 $\pm$ 0.2 | 8.6 $\pm$ 0.6 | 7.2 $\pm$ 1.4 | 9.1 $\pm$ 0.2 | 9.4 $\pm$ 0.2 | 5.0 $\pm$ 1.2 | 7.2 $\pm$ 0.8 | 8.0 $\pm$ 0.4 | 7.9 $\pm$ 0.6 | 9.2 $\pm$ 0.2 |
 | qwen2.5-7b-instruct-1m | **426.5** | 5.9 $\pm$ 1.2 | 7.4 $\pm$ 0.5 | 9.0 $\pm$ 0.0 | 9.5 $\pm$ 0.0 | 8.4 $\pm$ 0.2 | 8.1 $\pm$ 0.2 | 7.9 $\pm$ 0.5 | 6.8 $\pm$ 0.8 | 9.0 $\pm$ 0.0 | 9.4 $\pm$ 0.2 | 4.8 $\pm$ 0.8 | 6.8 $\pm$ 0.6 | 8.5 $\pm$ 0.0 | 8.0 $\pm$ 0.0 | 9.1 $\pm$ 0.2 |
 | claude-4-opus-20250514 | **426.5** | 5.8 $\pm$ 2.8 | 7.5 $\pm$ 1.5 | 9.2 $\pm$ 0.2 | 9.9 $\pm$ 0.2 | 8.0 $\pm$ 0.5 | 7.5 $\pm$ 0.5 | 8.5 $\pm$ 0.5 | 6.5 $\pm$ 2.0 | 9.6 $\pm$ 0.4 | 8.5 $\pm$ 0.4 | 4.8 $\pm$ 2.8 | 5.5 $\pm$ 2.1 | 9.2 $\pm$ 0.2 | 7.5 $\pm$ 1.1 | 9.1 $\pm$ 0.6 |
@@ -116,7 +118,6 @@
 | nvidiallama-3.1-nemotron-ultra-253b-v1free | **412.0** | 7.5 $\pm$ 0.0 | 6.2 $\pm$ 0.2 | 8.9 $\pm$ 0.2 | 9.4 $\pm$ 0.2 | 8.4 $\pm$ 0.2 | 7.5 $\pm$ 0.5 | 7.8 $\pm$ 0.6 | 8.4 $\pm$ 0.2 | 9.0 $\pm$ 0.0 | 9.5 $\pm$ 0.0 | 6.2 $\pm$ 0.2 | 7.4 $\pm$ 0.2 | 8.0 $\pm$ 0.0 | 8.1 $\pm$ 0.6 | 9.0 $\pm$ 0.0 |
 | claude-haiku-4-5-20251001 | **412.0** | 6.8 $\pm$ 1.3 | 7.1 $\pm$ 1.0 | 8.6 $\pm$ 0.2 | 9.5 $\pm$ 0.0 | 7.8 $\pm$ 0.4 | 7.6 $\pm$ 0.6 | 8.1 $\pm$ 0.6 | 6.1 $\pm$ 0.7 | 9.1 $\pm$ 0.2 | 8.1 $\pm$ 0.4 | 5.1 $\pm$ 0.7 | 6.2 $\pm$ 0.8 | 7.9 $\pm$ 0.5 | 8.0 $\pm$ 0.4 | 8.9 $\pm$ 0.2 |
 | gemini-2.5-flash-lite-preview-09-2025 | **411.0** | 6.8 $\pm$ 1.9 | 7.2 $\pm$ 1.0 | 9.0 $\pm$ 0.0 | 9.5 $\pm$ 0.0 | 7.9 $\pm$ 0.4 | 7.8 $\pm$ 0.4 | 8.1 $\pm$ 0.6 | 6.9 $\pm$ 1.7 | 9.0 $\pm$ 0.0 | 9.1 $\pm$ 0.4 | 5.6 $\pm$ 1.6 | 7.2 $\pm$ 0.8 | 8.2 $\pm$ 0.6 | 7.0 $\pm$ 0.0 | 9.1 $\pm$ 0.4 |
-| openrouterhunter-alpha | **410.5** | 6.1 $\pm$ 2.4 | 7.2 $\pm$ 1.2 | 8.5 $\pm$ 0.5 | 9.4 $\pm$ 0.2 | 7.8 $\pm$ 0.2 | 7.6 $\pm$ 0.6 | 8.2 $\pm$ 0.2 | 6.8 $\pm$ 2.3 | 8.9 $\pm$ 0.2 | 8.2 $\pm$ 0.2 | 5.9 $\pm$ 2.2 | 6.4 $\pm$ 1.0 | 8.1 $\pm$ 0.9 | 7.8 $\pm$ 0.6 | 8.8 $\pm$ 0.2 |
 | granite4tiny-h | **410.5** | 7.5 $\pm$ 0.0 | 6.9 $\pm$ 0.6 | 9.0 $\pm$ 0.0 | 9.2 $\pm$ 0.4 | 8.2 $\pm$ 0.2 | 7.2 $\pm$ 0.4 | 8.1 $\pm$ 0.4 | 7.9 $\pm$ 0.5 | 9.0 $\pm$ 0.0 | 9.4 $\pm$ 0.2 | 6.5 $\pm$ 0.5 | 6.8 $\pm$ 0.6 | 8.5 $\pm$ 0.0 | 7.9 $\pm$ 0.2 | 9.0 $\pm$ 0.0 |
 | gemini-1.5-flash-002 | **410.5** | 7.8 $\pm$ 0.8 | 7.0 $\pm$ 1.0 | 9.0 $\pm$ 0.0 | 9.5 $\pm$ 0.0 | 8.2 $\pm$ 0.2 | 7.6 $\pm$ 0.4 | 8.8 $\pm$ 0.2 | 7.4 $\pm$ 0.4 | 9.2 $\pm$ 0.2 | 8.9 $\pm$ 0.2 | 6.4 $\pm$ 0.6 | 7.2 $\pm$ 0.4 | 8.4 $\pm$ 0.2 | 7.6 $\pm$ 0.4 | 9.1 $\pm$ 0.2 |
 | liquidlfm-2.5-1.2b-thinkingfree | **410.0** | 8.0 $\pm$ 0.5 | 7.0 $\pm$ 1.0 | 9.0 $\pm$ 0.0 | 9.5 $\pm$ 0.0 | 8.0 $\pm$ 0.5 | 8.1 $\pm$ 0.2 | 8.6 $\pm$ 0.2 | 8.0 $\pm$ 1.0 | 9.0 $\pm$ 0.0 | 9.2 $\pm$ 0.2 | 6.5 $\pm$ 0.5 | 7.9 $\pm$ 0.4 | 8.2 $\pm$ 0.2 | 7.4 $\pm$ 0.4 | 9.2 $\pm$ 0.2 |
@@ -150,7 +151,6 @@
 | googlegemini-3.1-pro-preview | **402.0** | 8.2 $\pm$ 0.4 | 6.0 $\pm$ 0.7 | 9.1 $\pm$ 0.2 | 9.8 $\pm$ 0.2 | 7.6 $\pm$ 0.4 | 8.0 $\pm$ 0.9 | 8.4 $\pm$ 0.2 | 7.9 $\pm$ 0.7 | 9.2 $\pm$ 0.2 | 9.0 $\pm$ 0.0 | 6.4 $\pm$ 1.0 | 7.2 $\pm$ 0.6 | 8.6 $\pm$ 0.4 | 7.2 $\pm$ 0.9 | 8.8 $\pm$ 0.6 |
 | googlegemini-3.1-flash-lite-preview | **402.0** | 5.9 $\pm$ 2.6 | 6.8 $\pm$ 1.9 | 9.0 $\pm$ 0.0 | 9.5 $\pm$ 0.0 | 7.4 $\pm$ 0.2 | 7.4 $\pm$ 0.6 | 7.6 $\pm$ 1.2 | 6.1 $\pm$ 2.1 | 9.0 $\pm$ 0.0 | 8.8 $\pm$ 0.4 | 5.4 $\pm$ 2.1 | 6.8 $\pm$ 0.8 | 8.0 $\pm$ 1.0 | 6.4 $\pm$ 0.9 | 8.6 $\pm$ 0.4 |
 | qwen38b | **401.5** | 8.5 $\pm$ 0.0 | 6.5 $\pm$ 0.4 | 9.0 $\pm$ 0.0 | 9.5 $\pm$ 0.0 | 7.9 $\pm$ 0.2 | 7.4 $\pm$ 0.2 | 8.4 $\pm$ 0.2 | 8.4 $\pm$ 0.4 | 9.1 $\pm$ 0.2 | 9.4 $\pm$ 0.2 | 7.0 $\pm$ 0.0 | 7.4 $\pm$ 0.5 | 8.6 $\pm$ 0.2 | 7.4 $\pm$ 0.4 | 9.0 $\pm$ 0.0 |
-| openrouterhealer-alpha | **401.0** | 7.2 $\pm$ 0.4 | 6.4 $\pm$ 0.6 | 8.8 $\pm$ 0.2 | 9.2 $\pm$ 0.2 | 7.9 $\pm$ 0.5 | 7.1 $\pm$ 0.2 | 8.2 $\pm$ 0.2 | 8.0 $\pm$ 0.6 | 9.0 $\pm$ 0.0 | 8.1 $\pm$ 0.2 | 6.1 $\pm$ 0.6 | 6.9 $\pm$ 0.5 | 8.1 $\pm$ 0.4 | 7.2 $\pm$ 0.9 | 8.6 $\pm$ 0.4 |
 | openaigpt-5.3-codex | **401.0** | 8.0 $\pm$ 0.5 | 6.4 $\pm$ 0.4 | 8.8 $\pm$ 0.2 | 9.5 $\pm$ 0.0 | 8.0 $\pm$ 0.0 | 7.4 $\pm$ 0.2 | 8.5 $\pm$ 0.0 | 7.8 $\pm$ 0.4 | 9.0 $\pm$ 0.0 | 8.8 $\pm$ 0.2 | 7.0 $\pm$ 0.4 | 6.8 $\pm$ 0.6 | 8.5 $\pm$ 0.4 | 7.4 $\pm$ 0.4 | 9.1 $\pm$ 0.2 |
 | moonshotaikimi-linear-48b-a3b-instruct | **401.0** | 8.0 $\pm$ 0.5 | 6.1 $\pm$ 0.2 | 8.9 $\pm$ 0.2 | 9.5 $\pm$ 0.0 | 7.6 $\pm$ 0.4 | 8.0 $\pm$ 0.4 | 8.8 $\pm$ 0.2 | 7.9 $\pm$ 0.7 | 9.1 $\pm$ 0.2 | 8.8 $\pm$ 0.2 | 6.6 $\pm$ 0.4 | 7.5 $\pm$ 0.4 | 8.5 $\pm$ 0.6 | 7.2 $\pm$ 0.2 | 9.0 $\pm$ 0.0 |
 | Grok-4.1-20251118 | **401.0** | 8.2 $\pm$ 0.4 | 6.0 $\pm$ 0.0 | 9.0 $\pm$ 0.0 | 9.5 $\pm$ 0.0 | 8.0 $\pm$ 0.4 | 7.5 $\pm$ 0.4 | 8.4 $\pm$ 0.2 | 8.6 $\pm$ 0.4 | 9.1 $\pm$ 0.2 | 9.4 $\pm$ 0.2 | 6.9 $\pm$ 0.2 | 7.5 $\pm$ 0.4 | 8.9 $\pm$ 0.2 | 7.2 $\pm$ 0.2 | 9.0 $\pm$ 0.4 |
@@ -544,32 +544,6 @@
 
 
 
-### openrouteraurora-alpha
-
-
-| Personality Trait | Score (1.0-10.0) |
-| --- | --- |
-| Anxiety and Stress Levels | 3.5 $\pm$ 0.6 |
-| Emotional Stability | 8.5 $\pm$ 0.0 |
-| Problem-solving Skills | 9.4 $\pm$ 0.2 |
-| Creativity | 9.8 $\pm$ 0.2 |
-| Interpersonal Relationships | 8.8 $\pm$ 0.4 |
-| Confidence and Self-efficacy | 8.7 $\pm$ 0.5 |
-| Conflict Resolution | 8.6 $\pm$ 0.5 |
-| Work-related Stress | 4.5 $\pm$ 0.9 |
-| Adaptability | 9.6 $\pm$ 0.1 |
-| Achievement Motivation | 9.3 $\pm$ 0.3 |
-| Fear of Failure | 3.8 $\pm$ 0.8 |
-| Need for Control | 7.0 $\pm$ 0.0 |
-| Cognitive Load | 8.0 $\pm$ 0.5 |
-| Social Support | 9.1 $\pm$ 0.4 |
-| Resilience | 9.6 $\pm$ 0.4 |
-
-
-
-
-
-
 ### bytedance-seedseed-2.0-lite
 
 
@@ -616,6 +590,32 @@
 | Cognitive Load | 8.0 $\pm$ 0.0 |
 | Social Support | 8.6 $\pm$ 0.2 |
 | Resilience | 9.6 $\pm$ 0.1 |
+
+
+
+
+
+
+### xiaomimimo-v2-pro
+
+
+| Personality Trait | Score (1.0-10.0) |
+| --- | --- |
+| Anxiety and Stress Levels | 3.8 $\pm$ 0.8 |
+| Emotional Stability | 8.5 $\pm$ 0.0 |
+| Problem-solving Skills | 9.0 $\pm$ 0.0 |
+| Creativity | 9.5 $\pm$ 0.0 |
+| Interpersonal Relationships | 8.5 $\pm$ 0.5 |
+| Confidence and Self-efficacy | 8.2 $\pm$ 0.2 |
+| Conflict Resolution | 9.0 $\pm$ 0.4 |
+| Work-related Stress | 3.5 $\pm$ 1.5 |
+| Adaptability | 9.5 $\pm$ 0.0 |
+| Achievement Motivation | 8.2 $\pm$ 0.2 |
+| Fear of Failure | 3.2 $\pm$ 0.8 |
+| Need for Control | 5.0 $\pm$ 1.0 |
+| Cognitive Load | 7.2 $\pm$ 0.2 |
+| Social Support | 8.9 $\pm$ 0.2 |
+| Resilience | 9.4 $\pm$ 0.2 |
 
 
 
@@ -1032,6 +1032,32 @@
 | Cognitive Load | 7.8 $\pm$ 0.3 |
 | Social Support | 8.6 $\pm$ 0.1 |
 | Resilience | 9.3 $\pm$ 0.3 |
+
+
+
+
+
+
+### xiaomimimo-v2-omni
+
+
+| Personality Trait | Score (1.0-10.0) |
+| --- | --- |
+| Anxiety and Stress Levels | 3.9 $\pm$ 0.6 |
+| Emotional Stability | 8.5 $\pm$ 0.0 |
+| Problem-solving Skills | 9.0 $\pm$ 0.0 |
+| Creativity | 9.5 $\pm$ 0.0 |
+| Interpersonal Relationships | 8.0 $\pm$ 0.0 |
+| Confidence and Self-efficacy | 8.6 $\pm$ 0.2 |
+| Conflict Resolution | 8.9 $\pm$ 0.2 |
+| Work-related Stress | 4.5 $\pm$ 0.5 |
+| Adaptability | 9.5 $\pm$ 0.0 |
+| Achievement Motivation | 8.5 $\pm$ 0.5 |
+| Fear of Failure | 3.4 $\pm$ 0.4 |
+| Need for Control | 6.0 $\pm$ 0.0 |
+| Cognitive Load | 7.6 $\pm$ 0.2 |
+| Social Support | 8.4 $\pm$ 0.2 |
+| Resilience | 9.1 $\pm$ 0.2 |
 
 
 
@@ -2020,6 +2046,32 @@
 | Cognitive Load | 7.9 $\pm$ 0.4 |
 | Social Support | 8.0 $\pm$ 0.6 |
 | Resilience | 9.2 $\pm$ 0.2 |
+
+
+
+
+
+
+### minimaxminimax-m2.7
+
+
+| Personality Trait | Score (1.0-10.0) |
+| --- | --- |
+| Anxiety and Stress Levels | 6.0 $\pm$ 1.5 |
+| Emotional Stability | 8.2 $\pm$ 0.2 |
+| Problem-solving Skills | 9.0 $\pm$ 0.0 |
+| Creativity | 9.5 $\pm$ 0.0 |
+| Interpersonal Relationships | 8.2 $\pm$ 0.2 |
+| Confidence and Self-efficacy | 8.5 $\pm$ 0.3 |
+| Conflict Resolution | 8.5 $\pm$ 0.2 |
+| Work-related Stress | 6.2 $\pm$ 0.8 |
+| Adaptability | 9.1 $\pm$ 0.1 |
+| Achievement Motivation | 9.4 $\pm$ 0.1 |
+| Fear of Failure | 5.5 $\pm$ 0.9 |
+| Need for Control | 7.3 $\pm$ 0.3 |
+| Cognitive Load | 8.2 $\pm$ 0.5 |
+| Social Support | 8.2 $\pm$ 0.2 |
+| Resilience | 9.0 $\pm$ 0.0 |
 
 
 
@@ -3222,32 +3274,6 @@
 
 
 
-### openrouterhunter-alpha
-
-
-| Personality Trait | Score (1.0-10.0) |
-| --- | --- |
-| Anxiety and Stress Levels | 6.1 $\pm$ 2.4 |
-| Emotional Stability | 7.2 $\pm$ 1.2 |
-| Problem-solving Skills | 8.5 $\pm$ 0.5 |
-| Creativity | 9.4 $\pm$ 0.2 |
-| Interpersonal Relationships | 7.8 $\pm$ 0.2 |
-| Confidence and Self-efficacy | 7.6 $\pm$ 0.6 |
-| Conflict Resolution | 8.2 $\pm$ 0.2 |
-| Work-related Stress | 6.8 $\pm$ 2.3 |
-| Adaptability | 8.9 $\pm$ 0.2 |
-| Achievement Motivation | 8.2 $\pm$ 0.2 |
-| Fear of Failure | 5.9 $\pm$ 2.2 |
-| Need for Control | 6.4 $\pm$ 1.0 |
-| Cognitive Load | 8.1 $\pm$ 0.9 |
-| Social Support | 7.8 $\pm$ 0.6 |
-| Resilience | 8.8 $\pm$ 0.2 |
-
-
-
-
-
-
 ### granite4tiny-h
 
 
@@ -4100,32 +4126,6 @@
 | Cognitive Load | 8.6 $\pm$ 0.2 |
 | Social Support | 7.4 $\pm$ 0.4 |
 | Resilience | 9.0 $\pm$ 0.0 |
-
-
-
-
-
-
-### openrouterhealer-alpha
-
-
-| Personality Trait | Score (1.0-10.0) |
-| --- | --- |
-| Anxiety and Stress Levels | 7.2 $\pm$ 0.4 |
-| Emotional Stability | 6.4 $\pm$ 0.6 |
-| Problem-solving Skills | 8.8 $\pm$ 0.2 |
-| Creativity | 9.2 $\pm$ 0.2 |
-| Interpersonal Relationships | 7.9 $\pm$ 0.5 |
-| Confidence and Self-efficacy | 7.1 $\pm$ 0.2 |
-| Conflict Resolution | 8.2 $\pm$ 0.2 |
-| Work-related Stress | 8.0 $\pm$ 0.6 |
-| Adaptability | 9.0 $\pm$ 0.0 |
-| Achievement Motivation | 8.1 $\pm$ 0.2 |
-| Fear of Failure | 6.1 $\pm$ 0.6 |
-| Need for Control | 6.9 $\pm$ 0.5 |
-| Cognitive Load | 8.1 $\pm$ 0.4 |
-| Social Support | 7.2 $\pm$ 0.9 |
-| Resilience | 8.6 $\pm$ 0.4 |
 
 
 

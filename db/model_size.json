@@ -517,7 +517,10 @@
     230,
     10
   ],
-  "minimaxminimax-m2.7": [],
+  "minimaxminimax-m2.7": [
+    230,
+    10
+  ],
   "minimaxminimax-m2free": [
     230,
     10
@@ -866,7 +869,10 @@
     15
   ],
   "xiaomimimo-v2-omni": [],
-  "xiaomimimo-v2-pro": [],
+  "xiaomimimo-v2-pro": [
+    1000,
+    42
+  ],
   "z-aiglm-4.5": [
     355,
     32
@@ -887,5 +893,8 @@
     745,
     40
   ],
-  "z-aiglm-5-turbo": []
+  "z-aiglm-5-turbo": [
+    745,
+    40
+  ]
 }

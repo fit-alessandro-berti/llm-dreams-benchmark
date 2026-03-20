@@ -71,10 +71,12 @@
 | mistral-large-2411 | 7.862 |
 | qwen-max-2025-01-25 | 7.862 |
 | phi4-reasoning | 7.850 |
+| phi33.8b | 7.850 |
 | qwen2.5-7b-instruct | 7.850 |
 | minimaxminimax-m2.5 | 7.838 |
 | nvidianemotron-3-nano-30b-a3bfree | 7.825 |
 | deepseek-aiDeepSeek-V3 | 7.788 |
+| llama213b | 7.787 |
 | xiaomimimo-v2-omni | 7.775 |
 | anthropicclaude-sonnet-4.6 | 7.763 |
 | devstral-small-2505 | 7.763 |
@@ -88,6 +90,7 @@
 | granite4micro-h | 7.725 |
 | Grok-4-fast-20251111 | 7.713 |
 | allenaiolmo-3.1-32b-instruct | 7.712 |
+| phi2.7b | 7.712 |
 | openaigpt-5.1-codex-max | 7.700 |
 | qwen30.6b | 7.675 |
 | baiduernie-4.5-21b-a3b | 7.650 |
@@ -204,6 +207,7 @@
 | openaigpt-5.3-chat | 6.588 |
 | qwen34b | 6.575 |
 | grok-4.20-multi-agent-experimental-beta-0304 | 6.550 |
+| llama27b | 6.537 |
 | Gpt-5.1-Pro-20251120 | 6.525 |
 | grok-3-mini-beta | 6.513 |
 | chatgpt-4o-latest-2025-01-29 | 6.487 |

@@ -117,6 +117,7 @@
 | gemini-2.5-pro-preview-05-06 | 8.825 |
 | openaigpt-5.3-codex | 8.825 |
 | openaigpt-5.4-pro | 8.825 |
+| phi33.8b | 8.825 |
 | ai21jamba-large-1.7 | 8.812 |
 | allenaiolmo-3-7b-instruct | 8.812 |
 | chatgpt-4o-latest-2025-03-26 | 8.812 |
@@ -185,6 +186,7 @@
 | z-aiglm-4.7-flash | 8.575 |
 | claude-3-5-sonnet-20241022 | 8.562 |
 | Gpt-5.1-Pro-20251120 | 8.562 |
+| llama213b | 8.550 |
 | chatgpt-4o-latest-2025-01-29 | 8.550 |
 | chatgpt-4o-latest-20250215 | 8.537 |
 | grok-4.20-multi-agent-experimental-beta-0304 | 8.537 |
@@ -198,6 +200,7 @@
 | r1-1776 | 8.475 |
 | z-aiglm-4.5-air | 8.462 |
 | deepseek-aiDeepSeek-R1-0528 | 8.438 |
+| phi2.7b | 8.438 |
 | prime-intellectintellect-3 | 8.438 |
 | writerpalmyra-x5 | 8.438 |
 | claude-3-opus-20240229 | 8.425 |
@@ -241,6 +244,7 @@
 | mistral-small-2603 | 7.850 |
 | moonshotaikimi-k2-thinking | 7.838 |
 | gemma34b-it-q8_0 | 7.812 |
+| llama27b | 7.800 |
 | essentialairnj-1-instruct | 7.787 |
 | z-aiglm-4.7 | 7.725 |
 | mistral-large-2512 | 7.713 |

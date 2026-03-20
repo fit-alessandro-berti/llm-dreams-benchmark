@@ -47,6 +47,7 @@
 | o1-2024-12-05 | 8.675 |
 | granite4micro | 8.663 |
 | liquidlfm-2.2-6b | 8.662 |
+| llama213b | 8.662 |
 | mistral-small-2503 | 8.662 |
 | qwen2.5-7b-instruct | 8.662 |
 | arcee-aitrinity-large-previewfree | 8.650 |
@@ -130,6 +131,7 @@
 | qwenqwen3-30b-a3b-instruct-2507 | 8.350 |
 | essentialairnj-1-instruct | 8.325 |
 | gemini-2.5-pro-preview-05-06 | 8.325 |
+| phi2.7b | 8.325 |
 | arcee-aitrinity-mini | 8.325 |
 | chatgpt-4o-latest-20250215 | 8.325 |
 | openaigpt-5.4-nano | 8.325 |
@@ -143,6 +145,7 @@
 | gemini-1.5-flash-002 | 8.287 |
 | Grok-4.1-20251118 | 8.287 |
 | gpt-4-1106-preview | 8.275 |
+| phi33.8b | 8.275 |
 | magistral-small-2506 | 8.275 |
 | qwenqwen3-max | 8.275 |
 | deepseekdeepseek-v3.2 | 8.263 |
@@ -152,6 +155,7 @@
 | qwenqwen3.5-plus-02-15 | 8.250 |
 | Grok-4-fast | 8.250 |
 | liquidlfm-2.5-1.2b-thinkingfree | 8.250 |
+| llama27b | 8.250 |
 | claude-3-opus-20240229 | 8.238 |
 | Gemini-1.5-Pro-Exp-0801 | 8.238 |
 | qwen-turbo-0428 | 8.238 |

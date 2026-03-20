@@ -32,6 +32,7 @@
 | ibmgranite41b-h | 6.800 |
 | qwen-plus-0428 | 6.800 |
 | z-aiglm-4.7 | 6.788 |
+| llama27b | 6.787 |
 | smollm2360m | 6.787 |
 | gemma31b-it-q8_0 | 6.763 |
 | aion-labsaion-2.0 | 6.762 |
@@ -44,6 +45,7 @@
 | gemini-3-pro-preview | 6.725 |
 | ministral-14b-2512 | 6.725 |
 | gpt-5.2-pro-2025-12-11 | 6.713 |
+| llama213b | 6.712 |
 | baiduernie-4.5-21b-a3b | 6.700 |
 | grok-3-mini-beta | 6.700 |
 | deepseek-aiDeepSeek-R1-0528 | 6.700 |
@@ -144,6 +146,7 @@
 | moonshotaikimi-linear-48b-a3b-instruct | 5.988 |
 | gemini-2.0-pro-exp-02-05 | 5.987 |
 | moonshotaikimi-k2 | 5.975 |
+| phi2.7b | 5.975 |
 | o1-pro-2024-12-17 | 5.975 |
 | qwen2.5-7b-instruct-1m | 5.975 |
 | mistral-large-2411 | 5.963 |
@@ -176,6 +179,7 @@
 | gpt-4o-mini-2024-07-18 | 5.775 |
 | o4-mini-2025-04-16 | 5.775 |
 | open-mistral-7b | 5.775 |
+| phi33.8b | 5.775 |
 | qwen2.5-72b-instruct | 5.775 |
 | qwenqwen3.5-35b-a3b | 5.775 |
 | liquidlfm-2.2-6b | 5.737 |

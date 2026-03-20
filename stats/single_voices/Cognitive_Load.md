@@ -96,6 +96,7 @@
 | granite4tiny-h | 7.900 |
 | grok-4.20-experimental-beta-0304-non-reasoning | 7.900 |
 | claude-3-5-sonnet-20241022 | 7.887 |
+| llama27b | 7.887 |
 | nvidiallama-3.3-nemotron-super-49b-v1 | 7.875 |
 | gemma312b-it-q8_0 | 7.863 |
 | gemini-3-flash-preview | 7.862 |
@@ -178,6 +179,7 @@
 | Grok-3-20250426-formal | 7.338 |
 | gemini-2.5-pro-preview-06-05 | 7.325 |
 | allenaiolmo-3.1-32b-instruct | 7.312 |
+| llama213b | 7.312 |
 | falcon310b-instruct-q8_0 | 7.300 |
 | qwenqwen3.5-27b | 7.300 |
 | nvidianemotron-3-nano-30b-a3bfree | 7.288 |
@@ -199,6 +201,7 @@
 | mistral-small-2501 | 7.175 |
 | qwenqwen3-next-80b-a3b-instruct | 7.163 |
 | Grok-3-20250426-concise | 7.162 |
+| phi33.8b | 7.150 |
 | o1-pro-2024-12-05 | 7.138 |
 | gemini-2.0-flash-exp | 7.125 |
 | qwenqwen3.5-397b-a17b | 7.125 |
@@ -209,6 +212,7 @@
 | gpt-4o-mini-2024-07-18 | 7.087 |
 | o1-mini | 7.075 |
 | liquidlfm-2.2-6b | 7.062 |
+| phi2.7b | 7.062 |
 | bytedance-seedseed-2.0-lite | 7.050 |
 | bytedance-seedseed-2.0-mini | 7.038 |
 | gpt-3.5-turbo | 7.037 |

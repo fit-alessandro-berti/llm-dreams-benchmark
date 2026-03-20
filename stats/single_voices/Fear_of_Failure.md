@@ -55,6 +55,7 @@
 | qwen3.52b | 7.412 |
 | xiaomimimo-v2-flashfree | 7.400 |
 | Gpt-5.1-Pro-20251120 | 7.375 |
+| llama27b | 7.375 |
 | meta-llamaMeta-Llama-3.1-8B-Instruct | 7.375 |
 | writerpalmyra-x5 | 7.375 |
 | qwen3.54b | 7.375 |
@@ -146,6 +147,7 @@
 | gemini-2.5-flash-lite-preview-09-2025 | 5.975 |
 | nvidiallama-3.1-nemotron-ultra-253b-v1free | 5.963 |
 | gemini-1.5-flash-8b | 5.962 |
+| llama213b | 5.925 |
 | o1-pro-2024-12-17 | 5.900 |
 | qwenqwen3-next-80b-a3b-instruct | 5.900 |
 | Grok-4-fast-20251111 | 5.900 |
@@ -155,6 +157,7 @@
 | gpt-5-chat-latest-2025-08-19 | 5.850 |
 | falcon33b-instruct-q8_0 | 5.838 |
 | qwenqwen3.5-27b | 5.825 |
+| phi2.7b | 5.812 |
 | gpt-5-pro-2025-10-06 | 5.800 |
 | anthropicclaude-opus-4.6 | 5.763 |
 | nvidiaLlama-3.1-Nemotron-70B-Instruct | 5.737 |
@@ -212,6 +215,7 @@
 | Grok-3-20250426-concise | 4.838 |
 | mistral-small-2409 | 4.838 |
 | falcon310b-instruct-q8_0 | 4.813 |
+| phi33.8b | 4.675 |
 | o1-preview-2024-09-12 | 4.663 |
 | qwenqwen3.5-122b-a10b | 4.638 |
 | anthropicclaude-sonnet-4.6 | 4.612 |

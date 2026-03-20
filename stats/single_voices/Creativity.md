@@ -186,6 +186,7 @@
 | chatgpt-4o-latest-2025-01-29 | 9.425 |
 | falcon310b-instruct-q8_0 | 9.425 |
 | liquidlfm-2.5-1.2b-instructfree | 9.412 |
+| phi33.8b | 9.412 |
 | deepseekdeepseek-v3.2-speciale | 9.400 |
 | Grok-3-20250426-concise | 9.400 |
 | meta-llamaMeta-Llama-3.1-8B-Instruct | 9.400 |
@@ -231,6 +232,7 @@
 | googlegemma-2-2b-it | 9.237 |
 | gpt-4.1-nano-2025-04-14 | 9.225 |
 | mistral-small-2506 | 9.225 |
+| llama213b | 9.225 |
 | baiduernie-4.5-21b-a3b | 9.213 |
 | claude-3-opus-20240229 | 9.213 |
 | qwen-plus-0428 | 9.213 |
@@ -250,8 +252,10 @@
 | exaone-deep7.8b-fp16 | 8.975 |
 | qwen3.50.8b | 8.975 |
 | arcee-aitrinity-mini | 8.900 |
+| llama27b | 8.875 |
 | ibmgranite41b-h | 8.863 |
 | deepseek-aiDeepSeek-R1-Zero | 8.750 |
+| phi2.7b | 8.713 |
 | minimaxminimax-m2-her | 8.663 |
 | essentialairnj-1-instruct | 8.450 |
 | ibmgranite4350m-h | 8.250 |

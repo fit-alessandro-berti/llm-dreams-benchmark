@@ -42,6 +42,7 @@
 | openaigpt-5.4-mini | 9.013 |
 | o4-mini-2025-04-16 | 9.012 |
 | phi3.53.8b-mini-instruct-fp16 | 9.012 |
+| phi33.8b | 9.000 |
 | mistral-large-2407 | 8.988 |
 | qwenqwen3-coder-next | 8.988 |
 | gpt-4o-mini-2024-07-18 | 8.987 |
@@ -121,6 +122,7 @@
 | gemini-2.5-flash-lite-preview-09-2025 | 8.662 |
 | ministral-3b-2410 | 8.662 |
 | deepseek-aiDeepSeek-R1-Zero | 8.650 |
+| phi2.7b | 8.650 |
 | chatgpt-4o-latest-2025-03-26 | 8.638 |
 | liquidlfm-2-24b-a2b | 8.638 |
 | qwen34b-instruct-2507-q8_0 | 8.638 |
@@ -179,6 +181,7 @@
 | Gpt-5.1-Pro-20251120 | 8.363 |
 | x-aigrok-code-fast-1 | 8.363 |
 | qwen-plus-0428 | 8.338 |
+| llama213b | 8.325 |
 | z-aiglm-4.7-flash | 8.325 |
 | claude-opus-4-5-20251101 | 8.300 |
 | allenaiolmo-3-7b-instruct | 8.300 |
@@ -233,6 +236,7 @@
 | gemini-2.5-flash-preview-09-2025 | 7.500 |
 | Qwen-QwQ-32B | 7.487 |
 | gemini-2.5-pro-exp-03-25 | 7.463 |
+| llama27b | 7.438 |
 | meta-llamallama-4-maverick | 7.400 |
 | essentialairnj-1-instruct | 7.388 |
 | QwenQwen3-235B-A22B | 7.337 |

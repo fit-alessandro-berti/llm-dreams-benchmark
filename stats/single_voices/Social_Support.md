@@ -34,6 +34,7 @@
 | gpt-4.1-2025-04-14 | 8.012 |
 | ministral-3b-2410 | 7.988 |
 | gpt-5-nano-2025-08-07 | 7.987 |
+| phi33.8b | 7.975 |
 | gpt-5-mini-2025-08-07 | 7.975 |
 | gpt-4.1-mini-2025-04-14 | 7.950 |
 | granite4micro-h | 7.937 |
@@ -48,6 +49,7 @@
 | falcon310b-instruct-q8_0 | 7.887 |
 | gpt-4-turbo-2024-04-09 | 7.862 |
 | open-mistral-nemo | 7.862 |
+| phi2.7b | 7.862 |
 | qwen2.5-omni-7b | 7.862 |
 | falcon37b-instruct-q8_0 | 7.850 |
 | qwen-max-2025-01-25 | 7.838 |
@@ -143,6 +145,7 @@
 | liquidlfm-2.5-1.2b-thinkingfree | 7.062 |
 | grok-4.20-experimental-beta-0304-non-reasoning | 7.050 |
 | qwen38b | 7.050 |
+| llama213b | 7.038 |
 | nvidiallama-3.3-nemotron-super-49b-v1 | 7.038 |
 | qwen30.6b | 7.037 |
 | Grok-4-fast-20251111 | 7.012 |
@@ -223,6 +226,7 @@
 | deepseekdeepseek-r1 | 6.075 |
 | arcee-aitrinity-mini | 6.062 |
 | qwenqwen3-235b-a22b-thinking-2507 | 6.037 |
+| llama27b | 6.025 |
 | tngtechdeepseek-r1t-chimerafree | 6.025 |
 | QwenQwen3-30B-A3B | 5.975 |
 | anthropicclaude-sonnet-4.5 | 5.938 |

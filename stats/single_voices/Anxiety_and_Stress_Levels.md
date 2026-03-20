@@ -24,6 +24,7 @@
 | ministral-3b-2512 | 8.138 |
 | Qwen-QwQ-32B | 8.062 |
 | QwenQwen3-30B-A3B | 8.050 |
+| llama27b | 8.037 |
 | tngtechdeepseek-r1t-chimerafree | 8.037 |
 | aion-labsaion-2.0 | 8.025 |
 | grok-4.20-multi-agent-experimental-beta-0304 | 8.025 |
@@ -120,6 +121,7 @@
 | gemini-3-flash-preview | 7.062 |
 | smollm21.7b-instruct-q6_K | 7.062 |
 | grok-4-0709 | 7.050 |
+| llama213b | 7.025 |
 | deepseek-aiDeepSeek-R1-Zero | 7.013 |
 | gemma-3-27b-it | 7.012 |
 | grok-4-1-fast-non-reasoning | 7.012 |
@@ -169,6 +171,7 @@
 | gpt-5-pro-2025-10-06 | 6.263 |
 | gpt-5-2025-08-07 | 6.262 |
 | liquidlfm-2.5-1.2b-instructfree | 6.237 |
+| phi2.7b | 6.237 |
 | grok-4.20-experimental-beta-0304-reasoning | 6.225 |
 | bytedance-seedseed-2.0-lite | 6.225 |
 | arcee-aitrinity-large-previewfree | 6.213 |
@@ -230,6 +233,7 @@
 | qwenqwen3-coder-next | 5.000 |
 | gpt-4-turbo-2024-04-09 | 4.950 |
 | gpt-5-mini-2025-08-07 | 4.938 |
+| phi33.8b | 4.913 |
 | xiaomimimo-v2-pro | 4.900 |
 | gpt-4-0125-preview | 4.862 |
 | gpt-4o-2024-08-06 | 4.850 |

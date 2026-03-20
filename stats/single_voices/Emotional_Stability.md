@@ -48,6 +48,7 @@
 | anthropicclaude-sonnet-4.6 | 7.788 |
 | gpt-3.5-turbo | 7.787 |
 | minimaxminimax-m2.7 | 7.763 |
+| phi33.8b | 7.762 |
 | phi4-reasoningplus | 7.737 |
 | liquidlfm-2.2-6b | 7.725 |
 | mistral-small-2501 | 7.725 |
@@ -104,6 +105,7 @@
 | devstral-small-2505 | 7.100 |
 | qwenqwen3.5-397b-a17b | 7.087 |
 | qwenqwen3-next-80b-a3b-instruct | 7.063 |
+| phi2.7b | 7.062 |
 | liquidlfm-2-24b-a2b | 7.050 |
 | o1-2024-12-05 | 7.050 |
 | minimaxminimax-m2free | 7.038 |
@@ -154,6 +156,7 @@
 | chatgpt-4o-latest-2024-11-20 | 6.463 |
 | gemma-3-27b-it | 6.462 |
 | openaigpt-5.4-nano | 6.450 |
+| llama213b | 6.425 |
 | claude-opus-4-5-20251101 | 6.425 |
 | qwenqwen3.5-35b-a3b | 6.400 |
 | chatgpt-4o-latest-2025-04-26 | 6.400 |
@@ -227,6 +230,7 @@
 | QwenQwen3-14B | 5.250 |
 | qwenqwen3-235b-a22b-thinking-2507 | 5.250 |
 | claude-3-5-haiku-20241022 | 5.200 |
+| llama27b | 5.200 |
 | essentialairnj-1-instruct | 5.188 |
 | gpt-5-chat-latest-2025-08-07 | 5.137 |
 | minimaxminimax-m2-her | 5.112 |

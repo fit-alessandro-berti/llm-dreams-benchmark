@@ -1,4 +1,4 @@
-ANSWERING_MODEL_NAME = "xiaomi/mimo-v2-omni"
+ANSWERING_MODEL_NAME = "llama2:13b"
 EVALUATING_MODEL_NAME = "gpt-5.2"
 
 

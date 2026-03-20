@@ -72,6 +72,7 @@
 | gpt-4o-mini-2024-11-05 | 7.950 |
 | Gpt-5.1-Pro-20251120 | 7.925 |
 | chatgpt-4o-latest-2025-01-29 | 7.913 |
+| llama27b | 7.837 |
 | z-aiglm-4.7-flash | 7.825 |
 | ministral-8b-2512 | 7.800 |
 | openaigpt-5.4-pro | 7.800 |
@@ -138,6 +139,7 @@
 | qwen34b | 6.950 |
 | amazonnova-2-lite-v1 | 6.950 |
 | deepseekdeepseek-chat-v3.1 | 6.950 |
+| llama213b | 6.938 |
 | gemini-1.5-flash-8b | 6.938 |
 | Grok-4-fast-20251111 | 6.938 |
 | nousresearchhermes-4-70b | 6.900 |
@@ -166,6 +168,7 @@
 | gpt-4.1-nano-2025-04-14 | 6.612 |
 | allenaiolmo-3.1-32b-instruct | 6.600 |
 | qwenqwen3.5-plus-02-15 | 6.588 |
+| phi2.7b | 6.588 |
 | anthropicclaude-opus-4.6 | 6.575 |
 | nvidianemotron-nano-9b-v2 | 6.575 |
 | bytedance-seedseed-2.0-lite | 6.562 |
@@ -236,6 +239,7 @@
 | gpt-4-0125-preview | 5.387 |
 | liquidlfm2-8b-a1b | 5.375 |
 | o3-mini-20250131-HIGH | 5.363 |
+| phi33.8b | 5.362 |
 | gpt-5-mini-2025-08-07 | 5.337 |
 | openaigpt-oss-120b | 5.325 |
 | phi4-reasoningplus | 5.312 |

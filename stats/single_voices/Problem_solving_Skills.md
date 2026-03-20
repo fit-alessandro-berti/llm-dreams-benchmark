@@ -38,6 +38,7 @@
 | gpt-4-0125-preview | 8.787 |
 | gpt-5-mini-2025-08-07 | 8.787 |
 | gpt-5-pro-2025-10-06 | 8.787 |
+| phi33.8b | 8.787 |
 | o4-mini-2025-04-16 | 8.762 |
 | qwen2.5-7b-instruct | 8.762 |
 | codex-mini-latest | 8.750 |
@@ -107,7 +108,9 @@
 | liquidlfm-2-24b-a2b | 8.500 |
 | openaigpt-5.2-codex | 8.488 |
 | falcon33b-instruct-q8_0 | 8.475 |
+| llama213b | 8.475 |
 | nvidiallama-3.1-nemotron-ultra-253b-v1free | 8.475 |
+| phi2.7b | 8.475 |
 | xiaomimimo-v2-omni | 8.475 |
 | googlegemini-3.1-flash-lite-preview | 8.475 |
 | nvidiallama-3.3-nemotron-super-49b-v1 | 8.475 |
@@ -243,6 +246,7 @@
 | gemini-2.5-flash-preview-05-20 | 7.575 |
 | qwen3.52b | 7.575 |
 | gpt-5-chat-latest-2025-08-07 | 7.562 |
+| llama27b | 7.538 |
 | mistralaimistral-small-creative | 7.475 |
 | qwen3.54b | 7.450 |
 | gemma34b-it-q8_0 | 7.412 |

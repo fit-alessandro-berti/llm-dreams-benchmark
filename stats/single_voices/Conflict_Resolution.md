@@ -83,6 +83,7 @@
 | gemma-3-27b-it | 8.213 |
 | gpt-5-2025-08-07 | 8.213 |
 | openaigpt-5.2-codex | 8.213 |
+| phi33.8b | 8.213 |
 | minimaxminimax-m2.7 | 8.212 |
 | granite4tiny-h | 8.200 |
 | bytedance-seedseed-2.0-lite | 8.200 |
@@ -102,6 +103,7 @@
 | phi3.53.8b-mini-instruct-fp16 | 8.112 |
 | gemini-2.0-flash-exp | 8.100 |
 | liquidlfm2-8b-a1b | 8.100 |
+| phi2.7b | 8.100 |
 | phi4-reasoning | 8.100 |
 | qwen3.59b | 8.100 |
 | gemini-2.5-pro-preview-05-06 | 8.087 |
@@ -205,6 +207,7 @@
 | tngtechdeepseek-r1t-chimerafree | 7.025 |
 | gemma34b-it-q8_0 | 7.025 |
 | qwenqwen3.5-397b-a17b | 7.000 |
+| llama213b | 6.987 |
 | xiaomimimo-v2-flashfree | 6.987 |
 | chatgpt-4o-latest-2025-01-29 | 6.950 |
 | deepseek-aiDeepSeek-R1-0528 | 6.862 |
@@ -241,6 +244,7 @@
 | ministral-8b-2512 | 5.900 |
 | smollm2135m | 5.812 |
 | QwenQwen3-235B-A22B | 5.800 |
+| llama27b | 5.638 |
 | essentialairnj-1-instruct | 5.575 |
 | qwen3.50.8b | 5.525 |
 | qwen3.54b | 5.487 |

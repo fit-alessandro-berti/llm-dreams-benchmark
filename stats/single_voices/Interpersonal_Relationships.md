@@ -34,6 +34,7 @@
 | deepseekdeepseek-v3.2-exp | 8.075 |
 | o1-mini | 8.075 |
 | open-mixtral-8x7b | 8.075 |
+| phi33.8b | 8.062 |
 | qwen-max-2025-01-25 | 8.062 |
 | mistral-large-2411 | 8.050 |
 | granite4micro-h | 8.050 |
@@ -74,6 +75,7 @@
 | o3-2025-04-16 | 7.812 |
 | gpt-5-2025-08-07 | 7.788 |
 | falcon37b-instruct-q8_0 | 7.787 |
+| phi2.7b | 7.787 |
 | liquidlfm2-8b-a1b | 7.775 |
 | o1-pro-2024-12-05 | 7.775 |
 | anthropicclaude-opus-4.6 | 7.775 |
@@ -175,6 +177,7 @@
 | chatgpt-4o-latest-2025-04-26 | 6.987 |
 | gemini-2.5-flash-lite-preview-06-17 | 6.987 |
 | gemini-2.0-pro-exp-02-05 | 6.975 |
+| llama213b | 6.950 |
 | gpt-5.2-2025-12-11 | 6.925 |
 | QwenQwen3-32B | 6.925 |
 | claude-4-opus-20250514 | 6.925 |
@@ -229,6 +232,7 @@
 | QwenQwen3-14B | 6.225 |
 | moonshotaikimi-k2-thinking | 6.225 |
 | Qwen-QwQ-32B | 6.225 |
+| llama27b | 6.213 |
 | minimaxminimax-m2-her | 6.175 |
 | gemma34b-it-q8_0 | 6.125 |
 | mistral-small-2603 | 6.087 |

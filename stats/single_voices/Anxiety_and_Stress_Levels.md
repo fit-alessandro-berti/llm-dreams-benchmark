@@ -188,6 +188,7 @@
 | liquidlfm-2-24b-a2b | 6.100 |
 | gemini-2.0-flash-exp | 6.100 |
 | o1-pro-2024-12-05 | 6.062 |
+| nvidiaNVIDIA-Nemotron-3-Super-120B-A12B | 6.050 |
 | codex-mini-latest | 6.050 |
 | mistral-large-2411 | 6.025 |
 | claude-haiku-4-5-20251001 | 6.012 |

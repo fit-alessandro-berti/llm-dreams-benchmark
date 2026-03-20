@@ -606,6 +606,10 @@
   "nvidiaLlama-3.1-Nemotron-70B-Instruct": [
     70
   ],
+  "nvidiaNVIDIA-Nemotron-3-Super-120B-A12B": [
+    120,
+    12
+  ],
   "nvidiallama-3.1-nemotron-nano-8b-v1": [
     8
   ],

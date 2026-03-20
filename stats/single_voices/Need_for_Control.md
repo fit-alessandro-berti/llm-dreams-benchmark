@@ -219,6 +219,7 @@
 | qwen2.5-32b-instruct | 5.487 |
 | inceptionmercury | 5.450 |
 | gpt-4.1-mini-2025-04-14 | 5.413 |
+| nvidiaNVIDIA-Nemotron-3-Super-120B-A12B | 5.400 |
 | o3-2025-04-16 | 5.400 |
 | gemma312b-it-q8_0 | 5.375 |
 | gpt-4o-2024-08-06 | 5.363 |

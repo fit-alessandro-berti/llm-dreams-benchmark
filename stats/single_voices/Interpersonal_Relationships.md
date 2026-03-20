@@ -102,6 +102,7 @@
 | qwen2.5-omni-7b | 7.600 |
 | devstral-small-2505 | 7.588 |
 | qwenqwen3-30b-a3b-instruct-2507 | 7.575 |
+| nvidiaNVIDIA-Nemotron-3-Super-120B-A12B | 7.562 |
 | ai21jamba-large-1.7 | 7.550 |
 | openaigpt-5.2-codex | 7.538 |
 | gpt-4-1106-preview | 7.537 |

@@ -91,6 +91,7 @@
 | Grok-4-fast-20251111 | 7.713 |
 | allenaiolmo-3.1-32b-instruct | 7.712 |
 | phi2.7b | 7.712 |
+| nvidiaNVIDIA-Nemotron-3-Super-120B-A12B | 7.700 |
 | openaigpt-5.1-codex-max | 7.700 |
 | qwen30.6b | 7.675 |
 | baiduernie-4.5-21b-a3b | 7.650 |

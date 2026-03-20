@@ -208,6 +208,7 @@
 | ministral-3b-2410 | 7.125 |
 | open-mistral-nemo | 7.112 |
 | qwen-turbo-2024-11-01 | 7.112 |
+| nvidiaNVIDIA-Nemotron-3-Super-120B-A12B | 7.112 |
 | qwen2.5-72b-instruct | 7.088 |
 | gpt-4o-mini-2024-07-18 | 7.087 |
 | o1-mini | 7.075 |

@@ -66,6 +66,7 @@
 | nvidianemotron-3-nano-30b-a3bfree | 7.487 |
 | bytedance-seedseed-2.0-mini | 7.475 |
 | gpt-4-0613 | 7.463 |
+| nvidiaNVIDIA-Nemotron-3-Super-120B-A12B | 7.462 |
 | phi3.53.8b-mini-instruct-fp16 | 7.462 |
 | mistral-large-2411 | 7.437 |
 | anthropicclaude-opus-4.6 | 7.412 |

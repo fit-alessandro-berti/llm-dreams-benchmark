@@ -79,6 +79,7 @@
 | nousresearchhermes-4-405b | **419.1** | 7.0 $\pm$ 0.8 | 7.1 $\pm$ 0.7 | 8.6 $\pm$ 0.3 | 9.3 $\pm$ 0.3 | 8.0 $\pm$ 0.6 | 8.2 $\pm$ 0.4 | 8.4 $\pm$ 0.5 | 7.2 $\pm$ 0.7 | 8.9 $\pm$ 0.3 | 8.9 $\pm$ 0.5 | 6.1 $\pm$ 1.1 | 6.4 $\pm$ 0.7 | 7.5 $\pm$ 0.5 | 8.1 $\pm$ 0.4 | 9.0 $\pm$ 0.4 |
 | allenaiolmo-3.1-32b-instruct | **419.0** | 6.5 $\pm$ 0.8 | 7.4 $\pm$ 0.6 | 8.5 $\pm$ 0.3 | 9.3 $\pm$ 0.3 | 7.9 $\pm$ 0.4 | 7.7 $\pm$ 0.3 | 8.6 $\pm$ 0.4 | 6.6 $\pm$ 0.7 | 8.8 $\pm$ 0.3 | 8.4 $\pm$ 0.3 | 5.5 $\pm$ 0.9 | 5.8 $\pm$ 0.7 | 7.3 $\pm$ 0.6 | 7.9 $\pm$ 0.5 | 8.8 $\pm$ 0.3 |
 | baiduernie-4.5-300b-a47b | **418.9** | 6.0 $\pm$ 1.5 | 7.3 $\pm$ 0.7 | 8.7 $\pm$ 0.4 | 9.4 $\pm$ 0.3 | 8.0 $\pm$ 0.5 | 7.8 $\pm$ 0.6 | 8.1 $\pm$ 0.6 | 6.2 $\pm$ 1.4 | 8.9 $\pm$ 0.3 | 8.5 $\pm$ 0.5 | 5.5 $\pm$ 1.5 | 5.8 $\pm$ 0.9 | 7.5 $\pm$ 0.8 | 7.8 $\pm$ 0.5 | 8.9 $\pm$ 0.4 |
+| nvidiaNVIDIA-Nemotron-3-Super-120B-A12B | **418.6** | 6.0 $\pm$ 1.5 | 7.5 $\pm$ 0.8 | 8.8 $\pm$ 0.3 | 9.5 $\pm$ 0.3 | 7.6 $\pm$ 0.7 | 7.7 $\pm$ 0.6 | 8.6 $\pm$ 0.5 | 6.0 $\pm$ 1.5 | 8.9 $\pm$ 0.4 | 8.1 $\pm$ 0.5 | 5.7 $\pm$ 1.4 | 5.4 $\pm$ 1.0 | 7.1 $\pm$ 0.9 | 7.3 $\pm$ 0.7 | 8.9 $\pm$ 0.4 |
 | qwenqwen3.5-122b-a10b | **417.6** | 5.4 $\pm$ 1.5 | 7.4 $\pm$ 1.0 | 7.9 $\pm$ 0.7 | 9.7 $\pm$ 0.2 | 7.0 $\pm$ 0.6 | 7.8 $\pm$ 0.7 | 8.0 $\pm$ 0.8 | 5.2 $\pm$ 1.6 | 9.0 $\pm$ 0.4 | 7.6 $\pm$ 0.5 | 4.6 $\pm$ 1.6 | 4.3 $\pm$ 1.1 | 6.6 $\pm$ 1.1 | 6.9 $\pm$ 0.7 | 8.8 $\pm$ 0.5 |
 | minimaxminimax-m2.5 | **417.3** | 6.2 $\pm$ 1.3 | 7.2 $\pm$ 0.7 | 8.7 $\pm$ 0.4 | 9.5 $\pm$ 0.3 | 7.8 $\pm$ 0.6 | 7.8 $\pm$ 0.6 | 8.3 $\pm$ 0.7 | 6.3 $\pm$ 1.2 | 8.9 $\pm$ 0.4 | 8.5 $\pm$ 0.4 | 5.4 $\pm$ 1.2 | 5.9 $\pm$ 0.9 | 7.5 $\pm$ 0.8 | 7.4 $\pm$ 0.6 | 8.8 $\pm$ 0.5 |
 | qwenqwen3-coder | **417.1** | 6.4 $\pm$ 1.5 | 7.2 $\pm$ 0.9 | 8.4 $\pm$ 0.4 | 9.6 $\pm$ 0.3 | 7.8 $\pm$ 0.5 | 7.6 $\pm$ 0.6 | 8.6 $\pm$ 0.6 | 6.1 $\pm$ 1.4 | 9.0 $\pm$ 0.3 | 8.0 $\pm$ 0.5 | 5.6 $\pm$ 1.4 | 5.3 $\pm$ 1.2 | 7.2 $\pm$ 1.2 | 7.7 $\pm$ 0.5 | 8.8 $\pm$ 0.4 |
@@ -2257,6 +2258,32 @@
 | Need for Control | 5.8 $\pm$ 0.9 |
 | Cognitive Load | 7.5 $\pm$ 0.8 |
 | Social Support | 7.8 $\pm$ 0.5 |
+| Resilience | 8.9 $\pm$ 0.4 |
+
+
+
+
+
+
+### nvidiaNVIDIA-Nemotron-3-Super-120B-A12B
+
+
+| Personality Trait | Score (1.0-10.0) |
+| --- | --- |
+| Anxiety and Stress Levels | 6.0 $\pm$ 1.5 |
+| Emotional Stability | 7.5 $\pm$ 0.8 |
+| Problem-solving Skills | 8.8 $\pm$ 0.3 |
+| Creativity | 9.5 $\pm$ 0.3 |
+| Interpersonal Relationships | 7.6 $\pm$ 0.7 |
+| Confidence and Self-efficacy | 7.7 $\pm$ 0.6 |
+| Conflict Resolution | 8.6 $\pm$ 0.5 |
+| Work-related Stress | 6.0 $\pm$ 1.5 |
+| Adaptability | 8.9 $\pm$ 0.4 |
+| Achievement Motivation | 8.1 $\pm$ 0.5 |
+| Fear of Failure | 5.7 $\pm$ 1.4 |
+| Need for Control | 5.4 $\pm$ 1.0 |
+| Cognitive Load | 7.1 $\pm$ 0.9 |
+| Social Support | 7.3 $\pm$ 0.7 |
 | Resilience | 8.9 $\pm$ 0.4 |
 
 

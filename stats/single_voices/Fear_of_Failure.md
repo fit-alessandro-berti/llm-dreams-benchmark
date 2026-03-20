@@ -165,6 +165,7 @@
 | qwenqwen3.5-plus-02-15 | 5.725 |
 | devstral-small-2505 | 5.712 |
 | openaigpt-5.2-codex | 5.712 |
+| nvidiaNVIDIA-Nemotron-3-Super-120B-A12B | 5.700 |
 | gpt-5-2025-08-07 | 5.663 |
 | qwenqwen3-next-80b-a3b-thinking | 5.650 |
 | o1-2024-12-05 | 5.625 |

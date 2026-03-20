@@ -204,6 +204,7 @@
 | Grok-3-20250426-formal | 6.075 |
 | mistral-small-2503 | 6.075 |
 | minimaxminimax-m2.7 | 6.075 |
+| nvidiaNVIDIA-Nemotron-3-Super-120B-A12B | 6.038 |
 | o4-mini-2025-04-16 | 6.038 |
 | ministral-3b-2410 | 6.025 |
 | codex-mini-latest | 6.000 |

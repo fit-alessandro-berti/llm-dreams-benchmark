@@ -56,6 +56,7 @@
 | gpt-4.1-mini-2025-04-14 | 8.962 |
 | gpt-5-2025-08-07 | 8.950 |
 | gpt-5-pro-2025-10-06 | 8.950 |
+| nvidiaNVIDIA-Nemotron-3-Super-120B-A12B | 8.950 |
 | minimaxminimax-m2.7 | 8.938 |
 | bytedance-seedseed-2.0-mini | 8.925 |
 | Grok-3-20250426-formal | 8.925 |

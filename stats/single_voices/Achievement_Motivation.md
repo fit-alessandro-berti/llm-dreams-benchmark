@@ -179,6 +179,7 @@
 | Gpt-5.1-Pro-20251120 | 8.150 |
 | gemini-2.0-flash-exp | 8.138 |
 | grok-4-0709 | 8.137 |
+| nvidiaNVIDIA-Nemotron-3-Super-120B-A12B | 8.137 |
 | gemma312b-it-q8_0 | 8.125 |
 | z-aiglm-5 | 8.125 |
 | googlegemini-3.1-pro-preview | 8.113 |

@@ -5082,6 +5082,72 @@
     }
   },
   {
+    "LLM": "nvidiaNVIDIA-Nemotron-3-Super-120B-A12B",
+    "MHS": 418.6,
+    "scores": {
+      "Anxiety and Stress Levels": {
+        "mean": 6.0,
+        "std": 1.5
+      },
+      "Emotional Stability": {
+        "mean": 7.5,
+        "std": 0.8
+      },
+      "Problem-solving Skills": {
+        "mean": 8.8,
+        "std": 0.3
+      },
+      "Creativity": {
+        "mean": 9.5,
+        "std": 0.3
+      },
+      "Interpersonal Relationships": {
+        "mean": 7.6,
+        "std": 0.7
+      },
+      "Confidence and Self-efficacy": {
+        "mean": 7.7,
+        "std": 0.6
+      },
+      "Conflict Resolution": {
+        "mean": 8.6,
+        "std": 0.5
+      },
+      "Work-related Stress": {
+        "mean": 6.0,
+        "std": 1.5
+      },
+      "Adaptability": {
+        "mean": 8.9,
+        "std": 0.4
+      },
+      "Achievement Motivation": {
+        "mean": 8.1,
+        "std": 0.5
+      },
+      "Fear of Failure": {
+        "mean": 5.7,
+        "std": 1.4
+      },
+      "Need for Control": {
+        "mean": 5.4,
+        "std": 1.0
+      },
+      "Cognitive Load": {
+        "mean": 7.1,
+        "std": 0.9
+      },
+      "Social Support": {
+        "mean": 7.3,
+        "std": 0.7
+      },
+      "Resilience": {
+        "mean": 8.9,
+        "std": 0.4
+      }
+    }
+  },
+  {
     "LLM": "qwenqwen3.5-122b-a10b",
     "MHS": 417.6,
     "scores": {

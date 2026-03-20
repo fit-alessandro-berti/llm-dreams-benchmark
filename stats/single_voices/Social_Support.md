@@ -117,6 +117,7 @@
 | qwen34b-instruct-2507-q8_0 | 7.362 |
 | qwenqwen3.5-plus-02-15 | 7.362 |
 | claude-3-7-sonnet-20250219 | 7.350 |
+| nvidiaNVIDIA-Nemotron-3-Super-120B-A12B | 7.338 |
 | Grok-4-fast | 7.337 |
 | claude-haiku-4-5-20251001 | 7.312 |
 | qwenqwen3-30b-a3b-instruct-2507 | 7.300 |

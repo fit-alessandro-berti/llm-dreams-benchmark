@@ -39,6 +39,7 @@
 | gpt-5-mini-2025-08-07 | 8.787 |
 | gpt-5-pro-2025-10-06 | 8.787 |
 | phi33.8b | 8.787 |
+| nvidiaNVIDIA-Nemotron-3-Super-120B-A12B | 8.775 |
 | o4-mini-2025-04-16 | 8.762 |
 | qwen2.5-7b-instruct | 8.762 |
 | codex-mini-latest | 8.750 |

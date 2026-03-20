@@ -103,6 +103,7 @@
 | amazonnova-2-lite-v1 | 8.863 |
 | grok-4-1-fast-reasoning | 8.863 |
 | nvidiaLlama-3.1-Nemotron-70B-Instruct | 8.863 |
+| nvidiaNVIDIA-Nemotron-3-Super-120B-A12B | 8.863 |
 | qwenqwen3-30b-a3b-instruct-2507 | 8.863 |
 | claude-haiku-4-5-20251001 | 8.850 |
 | gemini-2.0-flash-exp | 8.850 |

@@ -15,6 +15,7 @@
 | qwenqwen3-coder | 8.625 |
 | o3-pro-2025-06-10 | 8.613 |
 | qwenqwen3-coder-next | 8.613 |
+| nvidiaNVIDIA-Nemotron-3-Super-120B-A12B | 8.612 |
 | gpt-4o-2024-05-13 | 8.600 |
 | qwen2.5-72b-instruct | 8.600 |
 | allenaiolmo-3.1-32b-instruct | 8.588 |

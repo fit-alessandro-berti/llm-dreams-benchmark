@@ -104,6 +104,7 @@
 | gemma-3-27b-it | 9.550 |
 | liquidlfm-2.2-6b | 9.550 |
 | ministral-3b-2512 | 9.550 |
+| nvidiaNVIDIA-Nemotron-3-Super-120B-A12B | 9.550 |
 | claude-haiku-4-5-20251001 | 9.550 |
 | gpt-4-0125-preview | 9.550 |
 | gpt-4.1-2025-04-14 | 9.550 |

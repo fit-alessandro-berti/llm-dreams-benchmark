@@ -172,6 +172,7 @@
 | qwen2.5-7b-instruct-1m | 7.550 |
 | grok-4-1-fast-non-reasoning | 7.550 |
 | chatgpt-4o-latest-2025-04-26 | 7.537 |
+| gemma-4-31b-it | 7.537 |
 | meta-llamaMeta-Llama-3.1-405B-Instruct | 7.537 |
 | arcee-aitrinity-mini | 7.525 |
 | chatgpt-4o-latest-2024-11-20 | 7.525 |
@@ -238,6 +239,7 @@
 | gemini-2.5-flash-preview-04-17 | 6.137 |
 | claude-4-sonnet-20250514 | 6.100 |
 | Qwen-QwQ-32B | 6.100 |
+| gemma-4-26b-a4b-it | 6.075 |
 | gemma31b-it-q8_0 | 6.038 |
 | liquidlfm-2-24b-a2b | 6.037 |
 | gemini-2.0-pro-exp-02-05 | 6.013 |

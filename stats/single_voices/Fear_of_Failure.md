@@ -107,6 +107,7 @@
 | claude-4-opus-20250514 | 6.612 |
 | gemini-2.5-pro-preview-05-06 | 6.612 |
 | googlegemini-3.1-pro-preview | 6.612 |
+| gemma-4-26b-a4b-it | 6.588 |
 | moonshotaikimi-linear-48b-a3b-instruct | 6.587 |
 | smollm21.7b-instruct-q6_K | 6.575 |
 | grok-4-1-fast-reasoning | 6.550 |
@@ -122,6 +123,7 @@
 | grok-4-0709 | 6.425 |
 | chatgpt-4o-latest-2025-04-26 | 6.412 |
 | gemini-3-flash-preview | 6.400 |
+| gemma-4-31b-it | 6.375 |
 | gemma312b-it-q8_0 | 6.325 |
 | Grok-3-beta-thinking-20250303 | 6.300 |
 | baiduernie-4.5-21b-a3b | 6.300 |

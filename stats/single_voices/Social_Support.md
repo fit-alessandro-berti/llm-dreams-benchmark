@@ -181,6 +181,7 @@
 | moonshotaikimi-k2 | 6.762 |
 | grok-4-0709 | 6.750 |
 | claude-opus-4-5-20251101 | 6.737 |
+| gemma-4-31b-it | 6.712 |
 | gemini-2.5-flash-lite-preview-06-17 | 6.688 |
 | allenaiolmo-3-7b-think | 6.675 |
 | chatgpt-4o-latest-2024-11-20 | 6.675 |
@@ -219,6 +220,7 @@
 | gpt-5.2-pro-2025-12-11 | 6.275 |
 | gemini-2.0-flash-lite-preview-02-05 | 6.262 |
 | DeepSeek-V3-0324 | 6.188 |
+| gemma-4-26b-a4b-it | 6.175 |
 | gemini-2.5-flash-preview-05-20 | 6.163 |
 | nvidiallama-3.1-nemotron-nano-8b-v1 | 6.162 |
 | googlegemini-3.1-flash-lite-preview | 6.150 |

@@ -122,12 +122,14 @@
 | exaone-deep7.8b-fp16 | 7.062 |
 | gemini-3-flash-preview | 7.062 |
 | smollm21.7b-instruct-q6_K | 7.062 |
+| gemma-4-26b-a4b-it | 7.050 |
 | grok-4-0709 | 7.050 |
 | llama213b | 7.025 |
 | deepseek-aiDeepSeek-R1-Zero | 7.013 |
 | gemma-3-27b-it | 7.012 |
 | grok-4-1-fast-non-reasoning | 7.012 |
 | openaigpt-5.4-pro | 7.012 |
+| gemma-4-31b-it | 7.000 |
 | nousresearchhermes-4-405b | 6.975 |
 | Grok-3-beta-thinking-20250303 | 6.963 |
 | deepseek-aiDeepSeek-V3 | 6.962 |

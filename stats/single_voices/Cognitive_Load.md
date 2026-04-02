@@ -63,6 +63,7 @@
 | qwen38b | 8.150 |
 | z-aiglm-4.5-air | 8.150 |
 | qwen31.7b | 8.138 |
+| gemma-4-26b-a4b-it | 8.137 |
 | allenaiolmo-3-7b-think | 8.125 |
 | tngtechdeepseek-r1t-chimerafree | 8.125 |
 | meta-llamallama-4-maverick | 8.113 |
@@ -76,6 +77,7 @@
 | deepseek-aiDeepSeek-R1-0528 | 8.050 |
 | z-aiglm-5 | 8.050 |
 | chatgpt-4o-latest-2025-01-29 | 8.037 |
+| gemma-4-31b-it | 8.025 |
 | qwen-turbo-0428 | 8.025 |
 | arcee-aitrinity-large-thinking | 8.025 |
 | claude-4-sonnet-20250514 | 8.012 |

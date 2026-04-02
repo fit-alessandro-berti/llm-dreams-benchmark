@@ -38,6 +38,7 @@
 | gpt-4o-2024-08-06 | 9.037 |
 | mistral-large-2407 | 9.037 |
 | xiaomimimo-v2-pro | 9.025 |
+| gemma-4-31b-it | 9.012 |
 | o1-mini | 9.012 |
 | anthropicclaude-sonnet-4.6 | 9.000 |
 | codestral-2501 | 9.000 |
@@ -117,6 +118,7 @@
 | qwen2.5-omni-7b | 8.838 |
 | QwenQwen3-32B | 8.825 |
 | gemini-2.5-pro-preview-05-06 | 8.825 |
+| gemma-4-26b-a4b-it | 8.825 |
 | openaigpt-5.3-codex | 8.825 |
 | openaigpt-5.4-pro | 8.825 |
 | phi33.8b | 8.825 |

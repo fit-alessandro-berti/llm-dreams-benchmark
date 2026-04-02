@@ -223,6 +223,8 @@
 | gpt-4.1-mini-2025-04-14 | 5.413 |
 | nvidiaNVIDIA-Nemotron-3-Super-120B-A12B | 5.400 |
 | o3-2025-04-16 | 5.400 |
+| gemma-4-26b-a4b-it | 5.388 |
+| gemma-4-31b-it | 5.388 |
 | gemma312b-it-q8_0 | 5.375 |
 | gpt-4o-2024-08-06 | 5.363 |
 | Grok-4-fast | 5.350 |

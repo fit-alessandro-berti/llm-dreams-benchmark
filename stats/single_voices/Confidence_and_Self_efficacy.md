@@ -149,6 +149,7 @@
 | qwenqwen3-max | 7.200 |
 | gemini-2.5-pro-preview-06-05 | 7.188 |
 | allenaiolmo-3-7b-instruct | 7.175 |
+| gemma-4-31b-it | 7.175 |
 | deepseekdeepseek-r1 | 7.163 |
 | nvidianemotron-nano-9b-v2 | 7.150 |
 | claude-haiku-4-5-20251001 | 7.138 |
@@ -186,6 +187,7 @@
 | meta-llamaMeta-Llama-3.1-405B-Instruct | 6.875 |
 | googlegemma-2-2b-it | 6.862 |
 | arcee-aitrinity-large-thinking | 6.850 |
+| gemma-4-26b-a4b-it | 6.850 |
 | claude-opus-4-5-20251101 | 6.838 |
 | claude-4-sonnet-20250514 | 6.800 |
 | qwenqwen3-235b-a22b-07-25 | 6.800 |

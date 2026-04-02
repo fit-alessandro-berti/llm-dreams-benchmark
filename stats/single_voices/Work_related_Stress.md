@@ -117,6 +117,7 @@
 | qwenqwen3.5-35b-a3b | 7.400 |
 | stepfunstep-3.5-flashfree | 7.388 |
 | gemini-2.5-flash-lite-preview-06-17 | 7.387 |
+| gemma-4-26b-a4b-it | 7.350 |
 | Grok-3-beta-thinking-20250303 | 7.325 |
 | googlegemini-3.1-pro-preview | 7.312 |
 | chatgpt-4o-latest-2025-03-26 | 7.287 |
@@ -132,6 +133,7 @@
 | claude-4-opus-20250514 | 7.112 |
 | gemini-3-flash-preview | 7.112 |
 | ai21jamba-large-1.7 | 7.100 |
+| gemma-4-31b-it | 7.087 |
 | claude-4-sonnet-20250514 | 7.062 |
 | grok-4-0709 | 7.050 |
 | exaone-deep7.8b-fp16 | 7.050 |

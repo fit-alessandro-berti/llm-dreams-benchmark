@@ -192,6 +192,7 @@
 | ChatGPT-5.1-Instant-20251113 | 8.075 |
 | ministral-14b-2512 | 8.075 |
 | claude-3-7-sonnet-20250219-thinking-high | 8.050 |
+| gemma-4-31b-it | 8.050 |
 | mistral-medium-2508 | 8.050 |
 | QwenQwen3-235B-A22B | 8.050 |
 | ministral-8b-2512 | 8.050 |
@@ -215,6 +216,7 @@
 | qwen34b | 7.938 |
 | qwenqwen3.6-plusfree | 7.925 |
 | bytedance-seedseed-2.0-mini | 7.925 |
+| gemma-4-26b-a4b-it | 7.925 |
 | qwenqwen3.5-35b-a3b | 7.913 |
 | gpt-5-2025-08-07 | 7.900 |
 | gpt-5.2-2025-12-11 | 7.900 |

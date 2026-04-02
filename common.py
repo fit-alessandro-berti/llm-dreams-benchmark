@@ -1,4 +1,4 @@
-ANSWERING_MODEL_NAME = "qwen/qwen3.6-plus:free"
+ANSWERING_MODEL_NAME = "gemma-4-26b-a4b-it"
 EVALUATING_MODEL_NAME = "gpt-5.2"
 
 

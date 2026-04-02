@@ -3,7 +3,9 @@
 | Model | Average |
 |:--|--:|
 | o3-pro-2025-06-10 | 9.812 |
+| gemma-4-26b-a4b-it | 9.800 |
 | claude-4-opus-20250514 | 9.787 |
+| gemma-4-31b-it | 9.775 |
 | moonshotaikimi-k2.5 | 9.775 |
 | moonshotaikimi-k2 | 9.775 |
 | googlegemini-3.1-pro-preview | 9.762 |

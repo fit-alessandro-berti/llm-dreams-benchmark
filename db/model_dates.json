@@ -80,6 +80,8 @@
   "gemini-3-pro-preview": "2025-11-18",
   "gemma-3-27b-it": "2025-03-12",
   "gemma-3n-e4b-it": "2025-03-12",
+  "gemma-4-26b-a4b-it": "",
+  "gemma-4-31b-it": "",
   "gemma312b-it-q8_0": "2025-03-12",
   "gemma31b-it-q8_0": "2025-03-12",
   "gemma34b-it-q8_0": "2025-03-12",

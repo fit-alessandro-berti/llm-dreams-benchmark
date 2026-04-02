@@ -150,6 +150,7 @@
 | grok-4-1-fast-non-reasoning | 6.525 |
 | googlegemma-2-9b-it | 6.525 |
 | gemini-1.5-flash-8b | 6.513 |
+| gemma-4-31b-it | 6.500 |
 | gemma312b-it-q8_0 | 6.500 |
 | stepfunstep-3.5-flashfree | 6.475 |
 | claude-3-7-sonnet-20250219-thinking-high | 6.475 |
@@ -166,6 +167,7 @@
 | grok-4-1-fast-reasoning | 6.400 |
 | claude-4-opus-20250514 | 6.362 |
 | gemini-3-flash-preview | 6.338 |
+| gemma-4-26b-a4b-it | 6.338 |
 | gemini-2.5-pro-preview-05-06 | 6.312 |
 | gemini-2.5-flash-lite-preview-06-17 | 6.288 |
 | qwen38b | 6.250 |

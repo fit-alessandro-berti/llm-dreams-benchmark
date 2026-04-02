@@ -140,6 +140,7 @@
 | gemma-3-27b-it | 8.375 |
 | gpt-5.2-2025-12-11 | 8.375 |
 | nvidianemotron-nano-9b-v2 | 8.375 |
+| gemma-4-31b-it | 8.363 |
 | gemini-3-flash-preview | 8.362 |
 | claude-3-7-sonnet-20250219-thinking-high | 8.350 |
 | openaigpt-5.4 | 8.350 |
@@ -224,6 +225,7 @@
 | QwenQwen3-235B-A22B | 7.888 |
 | tngtechdeepseek-r1t-chimerafree | 7.888 |
 | qwen34b-instruct-2507-q8_0 | 7.887 |
+| gemma-4-26b-a4b-it | 7.862 |
 | gemini-2.5-flash-preview-09-2025 | 7.850 |
 | bytedance-seedseed-2.0-lite | 7.850 |
 | qwenqwen3-next-80b-a3b-instruct | 7.850 |

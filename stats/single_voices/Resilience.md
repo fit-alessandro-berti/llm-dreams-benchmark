@@ -172,6 +172,7 @@
 | qwen-turbo-0428 | 8.438 |
 | deepseekdeepseek-r1 | 8.425 |
 | googlegemini-3.1-pro-preview | 8.425 |
+| gemma-4-31b-it | 8.425 |
 | googlegemma-2-2b-it | 8.413 |
 | gpt-4o-mini-2024-11-05 | 8.412 |
 | stepfunstep-3.5-flashfree | 8.412 |
@@ -193,6 +194,7 @@
 | claude-4-opus-20250514 | 8.225 |
 | grok-4-0709 | 8.212 |
 | prime-intellectintellect-3 | 8.212 |
+| gemma-4-26b-a4b-it | 8.175 |
 | gpt-5.2-pro-2025-12-11 | 8.162 |
 | magistral-small-2506 | 8.150 |
 | meta-llamaLlama-3.2-3B-Instruct | 8.150 |

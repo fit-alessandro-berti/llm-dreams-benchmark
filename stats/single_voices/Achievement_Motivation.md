@@ -213,6 +213,7 @@
 | gemini-2.5-flash-preview-04-17 | 7.938 |
 | anthropicclaude-sonnet-4.6 | 7.938 |
 | qwen34b | 7.938 |
+| qwenqwen3.6-plusfree | 7.925 |
 | bytedance-seedseed-2.0-mini | 7.925 |
 | qwenqwen3.5-35b-a3b | 7.913 |
 | gpt-5-2025-08-07 | 7.900 |

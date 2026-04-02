@@ -262,3 +262,4 @@
 | anthropicclaude-sonnet-4.6 | 4.613 |
 | qwenqwen3-coder-next | 4.362 |
 | qwenqwen3.5-122b-a10b | 4.275 |
+| qwenqwen3.6-plusfree | 3.575 |

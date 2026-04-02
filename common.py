@@ -1,4 +1,4 @@
-ANSWERING_MODEL_NAME = "arcee-ai/trinity-large-thinking"
+ANSWERING_MODEL_NAME = "qwen/qwen3.6-plus:free"
 EVALUATING_MODEL_NAME = "gpt-5.2"
 
 

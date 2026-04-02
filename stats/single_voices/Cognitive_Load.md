@@ -262,3 +262,4 @@
 | microsoftPhi-3-medium-4k-instruct | 6.575 |
 | qwen34b-instruct-2507-q8_0 | 6.525 |
 | gpt-4.5-preview | 6.112 |
+| qwenqwen3.6-plusfree | 6.012 |

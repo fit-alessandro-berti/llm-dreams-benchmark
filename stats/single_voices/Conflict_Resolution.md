@@ -9,6 +9,7 @@
 | microsoftWizardLM-2-8x22B | 8.700 |
 | ministral-8b-2410 | 8.675 |
 | microsoftphi-4 | 8.663 |
+| qwenqwen3.6-plusfree | 8.663 |
 | o1-preview-2024-09-12 | 8.662 |
 | deepseekdeepseek-v3.2 | 8.637 |
 | qwen-max-2025-01-25 | 8.625 |

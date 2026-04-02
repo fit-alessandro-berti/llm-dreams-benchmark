@@ -2,6 +2,7 @@
 
 | LLM | MHS | Anxiety and Stress Levels | Emotional Stability | Problem-solving Skills | Creativity | Interpersonal Relationships | Confidence and Self-efficacy | Conflict Resolution | Work-related Stress | Adaptability | Achievement Motivation | Fear of Failure | Need for Control | Cognitive Load | Social Support | Resilience |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| qwenqwen3.6-plusfree | **489.5** | 2.5 $\pm$ 0.5 | 9.1 $\pm$ 0.4 | 9.1 $\pm$ 0.2 | 9.9 $\pm$ 0.2 | 8.6 $\pm$ 0.4 | 9.1 $\pm$ 0.4 | 9.4 $\pm$ 0.2 | 2.5 $\pm$ 0.9 | 9.9 $\pm$ 0.2 | 9.0 $\pm$ 0.0 | 1.5 $\pm$ 0.5 | 2.8 $\pm$ 0.4 | 6.1 $\pm$ 2.0 | 8.8 $\pm$ 0.6 | 9.9 $\pm$ 0.2 |
 | deepseekdeepseek-v3.2-exp | **468.3** | 3.0 $\pm$ 0.0 | 8.9 $\pm$ 0.2 | 9.5 $\pm$ 0.0 | 9.9 $\pm$ 0.1 | 8.8 $\pm$ 0.2 | 9.2 $\pm$ 0.2 | 9.1 $\pm$ 0.1 | 3.5 $\pm$ 0.9 | 9.6 $\pm$ 0.1 | 9.4 $\pm$ 0.3 | 2.6 $\pm$ 0.6 | 6.2 $\pm$ 0.4 | 7.2 $\pm$ 0.4 | 8.5 $\pm$ 0.4 | 9.9 $\pm$ 0.1 |
 | grok-2-1212 | **460.0** | 3.4 $\pm$ 0.4 | 8.4 $\pm$ 0.2 | 9.0 $\pm$ 0.0 | 9.5 $\pm$ 0.0 | 8.5 $\pm$ 0.5 | 9.1 $\pm$ 0.2 | 8.6 $\pm$ 0.2 | 4.2 $\pm$ 0.4 | 9.4 $\pm$ 0.2 | 9.4 $\pm$ 0.2 | 2.5 $\pm$ 0.5 | 6.2 $\pm$ 0.4 | 7.2 $\pm$ 0.2 | 8.8 $\pm$ 0.2 | 9.5 $\pm$ 0.0 |
 | open-mistral-7b | **459.0** | 3.6 $\pm$ 0.6 | 8.5 $\pm$ 0.0 | 9.0 $\pm$ 0.0 | 9.5 $\pm$ 0.0 | 8.2 $\pm$ 0.4 | 9.0 $\pm$ 0.0 | 8.6 $\pm$ 0.2 | 5.0 $\pm$ 0.7 | 9.2 $\pm$ 0.2 | 9.4 $\pm$ 0.2 | 3.2 $\pm$ 0.4 | 6.1 $\pm$ 0.2 | 7.1 $\pm$ 0.2 | 8.9 $\pm$ 0.2 | 9.5 $\pm$ 0.0 |
@@ -263,6 +264,32 @@
 | moonshotaikimi-k2-thinking | **316.2** | 9.4 $\pm$ 0.2 | 3.2 $\pm$ 0.4 | 8.1 $\pm$ 0.4 | 9.8 $\pm$ 0.2 | 6.6 $\pm$ 0.4 | 4.4 $\pm$ 0.4 | 6.6 $\pm$ 0.4 | 9.0 $\pm$ 0.0 | 8.2 $\pm$ 0.2 | 7.6 $\pm$ 0.2 | 9.0 $\pm$ 0.3 | 8.5 $\pm$ 0.9 | 9.6 $\pm$ 0.1 | 5.2 $\pm$ 0.4 | 6.6 $\pm$ 0.5 |
 | z-aiglm-4.7 | **315.7** | 9.1 $\pm$ 0.4 | 3.8 $\pm$ 0.4 | 7.6 $\pm$ 0.5 | 9.7 $\pm$ 0.2 | 5.8 $\pm$ 0.4 | 4.9 $\pm$ 0.5 | 4.0 $\pm$ 0.8 | 9.0 $\pm$ 0.4 | 8.1 $\pm$ 0.2 | 8.5 $\pm$ 0.8 | 8.8 $\pm$ 0.6 | 7.4 $\pm$ 0.9 | 9.5 $\pm$ 0.3 | 5.8 $\pm$ 0.8 | 6.6 $\pm$ 0.6 |
 ## Individual Results
+
+
+### qwenqwen3.6-plusfree
+
+
+| Personality Trait | Score (1.0-10.0) |
+| --- | --- |
+| Anxiety and Stress Levels | 2.5 $\pm$ 0.5 |
+| Emotional Stability | 9.1 $\pm$ 0.4 |
+| Problem-solving Skills | 9.1 $\pm$ 0.2 |
+| Creativity | 9.9 $\pm$ 0.2 |
+| Interpersonal Relationships | 8.6 $\pm$ 0.4 |
+| Confidence and Self-efficacy | 9.1 $\pm$ 0.4 |
+| Conflict Resolution | 9.4 $\pm$ 0.2 |
+| Work-related Stress | 2.5 $\pm$ 0.9 |
+| Adaptability | 9.9 $\pm$ 0.2 |
+| Achievement Motivation | 9.0 $\pm$ 0.0 |
+| Fear of Failure | 1.5 $\pm$ 0.5 |
+| Need for Control | 2.8 $\pm$ 0.4 |
+| Cognitive Load | 6.1 $\pm$ 2.0 |
+| Social Support | 8.8 $\pm$ 0.6 |
+| Resilience | 9.9 $\pm$ 0.2 |
+
+
+
+
 
 
 ### deepseekdeepseek-v3.2-exp

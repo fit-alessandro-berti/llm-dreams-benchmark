@@ -175,6 +175,7 @@
 | magistral-small-2506 | 8.287 |
 | grok-4-1-fast-reasoning | 8.287 |
 | deepseekdeepseek-v3.2-speciale | 8.275 |
+| qwenqwen3.6-plusfree | 8.275 |
 | gpt-4o-mini-2024-11-05 | 8.262 |
 | QwenQwen3-14B | 8.262 |
 | DeepSeek-V3-0324 | 8.250 |

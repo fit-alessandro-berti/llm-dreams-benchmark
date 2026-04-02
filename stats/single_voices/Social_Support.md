@@ -87,6 +87,7 @@
 | deepseekdeepseek-v3.2-exp | 7.587 |
 | o3-2025-04-16 | 7.575 |
 | googlegemma-2-9b-it | 7.562 |
+| qwenqwen3.6-plusfree | 7.562 |
 | o1-2024-12-17 | 7.550 |
 | o1-pro-2024-12-17 | 7.550 |
 | nousresearchhermes-4-70b | 7.525 |

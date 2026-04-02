@@ -2,6 +2,7 @@
 
 | Model | Average |
 |:--|--:|
+| qwenqwen3.6-plusfree | 8.362 |
 | microsoftPhi-3-medium-4k-instruct | 8.338 |
 | deepseekdeepseek-v3.2-exp | 8.300 |
 | o3-pro-2025-06-10 | 8.300 |

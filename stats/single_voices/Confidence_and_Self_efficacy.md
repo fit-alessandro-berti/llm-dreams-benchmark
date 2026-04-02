@@ -41,6 +41,7 @@
 | gpt-4o-2024-05-13 | 8.137 |
 | deepseekdeepseek-v3.2 | 8.125 |
 | mistral-small-2503 | 8.125 |
+| qwenqwen3.6-plusfree | 8.113 |
 | ministral-8b-2410 | 8.100 |
 | openaigpt-oss-120b | 8.088 |
 | phi4-reasoningplus | 8.088 |

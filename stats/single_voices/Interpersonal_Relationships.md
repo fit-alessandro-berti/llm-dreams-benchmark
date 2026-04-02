@@ -101,6 +101,7 @@
 | o1-2024-12-05 | 7.600 |
 | qwen2.5-omni-7b | 7.600 |
 | devstral-small-2505 | 7.588 |
+| qwenqwen3.6-plusfree | 7.588 |
 | qwenqwen3-30b-a3b-instruct-2507 | 7.575 |
 | nvidiaNVIDIA-Nemotron-3-Super-120B-A12B | 7.562 |
 | ai21jamba-large-1.7 | 7.550 |

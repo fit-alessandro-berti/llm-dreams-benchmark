@@ -10,6 +10,7 @@
 | gpt-4-turbo-2024-04-09 | 9.188 |
 | inceptionmercury | 9.175 |
 | granite3.28b-instruct-q4_K_M | 9.162 |
+| qwenqwen3.6-plusfree | 9.150 |
 | gpt-5-mini-2025-08-07 | 9.137 |
 | ai21jamba-mini-1.7 | 9.125 |
 | microsoftphi-4 | 9.125 |

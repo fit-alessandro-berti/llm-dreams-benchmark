@@ -195,6 +195,7 @@
 | googlegemma-2-2b-it | **356.5** | 7.5 $\pm$ 0.0 | 5.2 $\pm$ 0.4 | 7.2 $\pm$ 0.4 | 8.6 $\pm$ 0.2 | 6.2 $\pm$ 0.2 | 6.0 $\pm$ 0.4 | 6.4 $\pm$ 0.2 | 7.2 $\pm$ 0.4 | 7.8 $\pm$ 0.4 | 8.0 $\pm$ 0.0 | 6.8 $\pm$ 0.2 | 6.2 $\pm$ 0.2 | 7.2 $\pm$ 0.2 | 6.6 $\pm$ 0.4 | 7.5 $\pm$ 0.4 |
 | mistral-medium-2505 | **355.7** | 7.5 $\pm$ 0.0 | 5.2 $\pm$ 0.4 | 8.0 $\pm$ 0.0 | 9.0 $\pm$ 0.0 | 6.5 $\pm$ 0.0 | 5.9 $\pm$ 0.2 | 6.4 $\pm$ 0.2 | 7.4 $\pm$ 0.5 | 8.0 $\pm$ 0.5 | 7.6 $\pm$ 0.4 | 6.9 $\pm$ 0.4 | 6.3 $\pm$ 0.3 | 7.5 $\pm$ 0.4 | 6.1 $\pm$ 0.2 | 7.0 $\pm$ 0.4 |
 | chatgpt-4o-latest-20250215 | **355.5** | 7.5 $\pm$ 0.0 | 5.4 $\pm$ 0.2 | 8.0 $\pm$ 0.0 | 9.1 $\pm$ 0.2 | 6.4 $\pm$ 0.2 | 6.1 $\pm$ 0.2 | 5.4 $\pm$ 0.2 | 7.0 $\pm$ 0.0 | 8.5 $\pm$ 0.0 | 7.9 $\pm$ 0.2 | 6.6 $\pm$ 0.2 | 6.6 $\pm$ 0.4 | 7.5 $\pm$ 0.0 | 6.0 $\pm$ 0.0 | 7.4 $\pm$ 0.2 |
+| arcee-aitrinity-large-thinking | **355.0** | 7.5 $\pm$ 0.0 | 5.2 $\pm$ 0.4 | 8.0 $\pm$ 0.0 | 9.0 $\pm$ 0.0 | 6.5 $\pm$ 0.0 | 5.9 $\pm$ 0.2 | 5.8 $\pm$ 0.8 | 7.0 $\pm$ 0.0 | 8.0 $\pm$ 0.5 | 7.8 $\pm$ 0.2 | 6.5 $\pm$ 0.0 | 6.0 $\pm$ 0.0 | 7.4 $\pm$ 0.2 | 6.1 $\pm$ 0.2 | 6.9 $\pm$ 0.2 |
 | claude-4-opus-20250514 | **354.5** | 7.5 $\pm$ 1.0 | 5.1 $\pm$ 0.6 | 7.5 $\pm$ 0.5 | 9.5 $\pm$ 0.0 | 6.2 $\pm$ 0.4 | 5.5 $\pm$ 0.6 | 6.9 $\pm$ 0.4 | 7.6 $\pm$ 0.4 | 8.0 $\pm$ 0.5 | 7.0 $\pm$ 0.4 | 7.0 $\pm$ 1.0 | 5.8 $\pm$ 0.8 | 7.8 $\pm$ 0.8 | 6.2 $\pm$ 0.6 | 7.0 $\pm$ 0.8 |
 | anthropicclaude-opus-4.1 | **354.5** | 7.5 $\pm$ 0.0 | 5.0 $\pm$ 0.5 | 7.4 $\pm$ 0.6 | 9.5 $\pm$ 0.0 | 6.2 $\pm$ 0.2 | 5.4 $\pm$ 0.4 | 6.8 $\pm$ 0.4 | 7.6 $\pm$ 0.4 | 8.2 $\pm$ 0.2 | 7.0 $\pm$ 0.5 | 7.0 $\pm$ 0.1 | 5.8 $\pm$ 0.4 | 8.1 $\pm$ 0.1 | 6.3 $\pm$ 0.2 | 7.4 $\pm$ 0.2 |
 | gpt-5.2-pro-2025-12-11 | **353.5** | 7.5 $\pm$ 0.0 | 5.2 $\pm$ 0.4 | 8.0 $\pm$ 0.0 | 9.0 $\pm$ 0.0 | 6.5 $\pm$ 0.0 | 5.2 $\pm$ 0.4 | 6.5 $\pm$ 0.5 | 7.5 $\pm$ 0.5 | 7.8 $\pm$ 0.4 | 7.2 $\pm$ 0.6 | 6.9 $\pm$ 0.4 | 6.1 $\pm$ 0.2 | 7.4 $\pm$ 0.2 | 6.2 $\pm$ 0.2 | 7.0 $\pm$ 0.0 |
@@ -255,6 +256,7 @@
 | smollm2360m | **321.8** | 7.5 $\pm$ 0.0 | 4.8 $\pm$ 0.4 | 6.8 $\pm$ 0.1 | 8.3 $\pm$ 0.1 | 5.8 $\pm$ 0.2 | 5.8 $\pm$ 0.6 | 4.7 $\pm$ 0.4 | 7.4 $\pm$ 0.5 | 6.8 $\pm$ 0.4 | 6.6 $\pm$ 0.5 | 6.9 $\pm$ 0.3 | 6.4 $\pm$ 0.3 | 7.3 $\pm$ 0.2 | 5.8 $\pm$ 0.5 | 6.0 $\pm$ 0.4 |
 | moonshotaikimi-k2-thinking | **321.5** | 8.5 $\pm$ 0.0 | 4.1 $\pm$ 0.2 | 6.9 $\pm$ 0.4 | 9.5 $\pm$ 0.0 | 5.8 $\pm$ 0.2 | 5.0 $\pm$ 0.5 | 6.2 $\pm$ 0.2 | 8.0 $\pm$ 0.0 | 7.1 $\pm$ 0.2 | 6.8 $\pm$ 0.4 | 7.6 $\pm$ 0.2 | 6.6 $\pm$ 0.4 | 8.1 $\pm$ 0.2 | 5.4 $\pm$ 0.4 | 6.5 $\pm$ 0.4 |
 | mistralaimistral-small-creative | **321.5** | 8.2 $\pm$ 0.4 | 4.4 $\pm$ 0.2 | 7.3 $\pm$ 0.4 | 8.8 $\pm$ 0.4 | 6.0 $\pm$ 0.4 | 5.3 $\pm$ 0.3 | 5.4 $\pm$ 0.5 | 8.0 $\pm$ 0.1 | 7.0 $\pm$ 0.4 | 7.0 $\pm$ 0.6 | 7.9 $\pm$ 0.4 | 6.6 $\pm$ 0.1 | 7.9 $\pm$ 0.7 | 5.6 $\pm$ 0.3 | 6.2 $\pm$ 0.5 |
+| z-aiglm-5v-turbo | **319.5** | 8.5 $\pm$ 0.0 | 4.2 $\pm$ 0.4 | 7.0 $\pm$ 0.0 | 9.5 $\pm$ 0.0 | 5.6 $\pm$ 0.2 | 5.1 $\pm$ 0.9 | 5.1 $\pm$ 1.1 | 8.0 $\pm$ 0.0 | 7.5 $\pm$ 0.0 | 7.0 $\pm$ 0.0 | 8.0 $\pm$ 0.0 | 6.5 $\pm$ 0.0 | 8.5 $\pm$ 0.0 | 5.6 $\pm$ 0.4 | 6.6 $\pm$ 0.5 |
 | z-aiglm-5-turbo | **319.5** | 8.0 $\pm$ 0.5 | 4.5 $\pm$ 0.0 | 6.9 $\pm$ 0.1 | 9.5 $\pm$ 0.0 | 5.6 $\pm$ 0.2 | 4.8 $\pm$ 0.4 | 5.0 $\pm$ 0.3 | 7.5 $\pm$ 0.5 | 6.9 $\pm$ 0.4 | 6.6 $\pm$ 0.5 | 7.8 $\pm$ 0.3 | 6.3 $\pm$ 0.4 | 7.8 $\pm$ 0.5 | 6.0 $\pm$ 0.3 | 6.4 $\pm$ 0.3 |
 | gemini-3-pro-preview | **318.5** | 8.5 $\pm$ 0.0 | 4.1 $\pm$ 0.2 | 7.4 $\pm$ 0.2 | 9.5 $\pm$ 0.0 | 5.5 $\pm$ 0.0 | 4.6 $\pm$ 0.2 | 6.0 $\pm$ 0.0 | 8.0 $\pm$ 0.0 | 7.1 $\pm$ 0.2 | 6.5 $\pm$ 0.0 | 7.8 $\pm$ 0.2 | 6.6 $\pm$ 0.6 | 8.2 $\pm$ 0.2 | 5.4 $\pm$ 0.6 | 6.6 $\pm$ 0.2 |
 | ibmgranite4350m-h | **315.8** | 7.8 $\pm$ 0.4 | 4.5 $\pm$ 0.0 | 6.9 $\pm$ 0.1 | 7.6 $\pm$ 0.4 | 5.8 $\pm$ 0.2 | 5.2 $\pm$ 0.2 | 4.9 $\pm$ 0.1 | 7.8 $\pm$ 0.1 | 6.5 $\pm$ 0.0 | 6.7 $\pm$ 0.7 | 7.0 $\pm$ 0.0 | 6.5 $\pm$ 0.2 | 7.5 $\pm$ 0.0 | 5.6 $\pm$ 0.1 | 6.1 $\pm$ 0.1 |
@@ -5281,6 +5283,32 @@
 
 
 
+### arcee-aitrinity-large-thinking
+
+
+| Personality Trait | Score (1.0-10.0) |
+| --- | --- |
+| Anxiety and Stress Levels | 7.5 $\pm$ 0.0 |
+| Emotional Stability | 5.2 $\pm$ 0.4 |
+| Problem-solving Skills | 8.0 $\pm$ 0.0 |
+| Creativity | 9.0 $\pm$ 0.0 |
+| Interpersonal Relationships | 6.5 $\pm$ 0.0 |
+| Confidence and Self-efficacy | 5.9 $\pm$ 0.2 |
+| Conflict Resolution | 5.8 $\pm$ 0.8 |
+| Work-related Stress | 7.0 $\pm$ 0.0 |
+| Adaptability | 8.0 $\pm$ 0.5 |
+| Achievement Motivation | 7.8 $\pm$ 0.2 |
+| Fear of Failure | 6.5 $\pm$ 0.0 |
+| Need for Control | 6.0 $\pm$ 0.0 |
+| Cognitive Load | 7.4 $\pm$ 0.2 |
+| Social Support | 6.1 $\pm$ 0.2 |
+| Resilience | 6.9 $\pm$ 0.2 |
+
+
+
+
+
+
 ### claude-4-opus-20250514
 
 
@@ -6835,6 +6863,32 @@
 | Cognitive Load | 7.9 $\pm$ 0.7 |
 | Social Support | 5.6 $\pm$ 0.3 |
 | Resilience | 6.2 $\pm$ 0.5 |
+
+
+
+
+
+
+### z-aiglm-5v-turbo
+
+
+| Personality Trait | Score (1.0-10.0) |
+| --- | --- |
+| Anxiety and Stress Levels | 8.5 $\pm$ 0.0 |
+| Emotional Stability | 4.2 $\pm$ 0.4 |
+| Problem-solving Skills | 7.0 $\pm$ 0.0 |
+| Creativity | 9.5 $\pm$ 0.0 |
+| Interpersonal Relationships | 5.6 $\pm$ 0.2 |
+| Confidence and Self-efficacy | 5.1 $\pm$ 0.9 |
+| Conflict Resolution | 5.1 $\pm$ 1.1 |
+| Work-related Stress | 8.0 $\pm$ 0.0 |
+| Adaptability | 7.5 $\pm$ 0.0 |
+| Achievement Motivation | 7.0 $\pm$ 0.0 |
+| Fear of Failure | 8.0 $\pm$ 0.0 |
+| Need for Control | 6.5 $\pm$ 0.0 |
+| Cognitive Load | 8.5 $\pm$ 0.0 |
+| Social Support | 5.6 $\pm$ 0.4 |
+| Resilience | 6.6 $\pm$ 0.5 |
 
 
 

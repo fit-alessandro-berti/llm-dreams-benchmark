@@ -104,6 +104,7 @@
     398,
     13
   ],
+  "arcee-aitrinity-large-thinking": [],
   "arcee-aitrinity-mini": [
     26,
     3
@@ -912,5 +913,6 @@
   "z-aiglm-5-turbo": [
     745,
     40
-  ]
+  ],
+  "z-aiglm-5v-turbo": []
 }

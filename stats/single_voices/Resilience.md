@@ -200,6 +200,7 @@
 | r1-1776 | 8.112 |
 | writerpalmyra-x5 | 8.100 |
 | meta-llamaMeta-Llama-3.1-405B-Instruct | 8.088 |
+| arcee-aitrinity-large-thinking | 8.087 |
 | z-aiglm-4.5 | 8.087 |
 | grok-4.20-multi-agent-experimental-beta-0304 | 8.075 |
 | ibmgranite41b-h | 8.075 |
@@ -227,6 +228,7 @@
 | claude-3-5-sonnet-20241022 | 7.812 |
 | gemini-3-pro-preview | 7.750 |
 | magistral-medium-2506 | 7.638 |
+| z-aiglm-5v-turbo | 7.637 |
 | gemini-2.5-flash-preview-04-17 | 7.600 |
 | z-aiglm-5-turbo | 7.575 |
 | ministral-8b-2512 | 7.562 |

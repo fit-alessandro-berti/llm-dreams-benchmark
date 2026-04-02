@@ -7,6 +7,7 @@
 | z-aiglm-4.7 | 8.650 |
 | gemini-2.5-flash-preview-09-2025 | 8.637 |
 | QwenQwen3-235B-A22B | 8.637 |
+| z-aiglm-5v-turbo | 8.588 |
 | gemini-2.5-pro-exp-03-25 | 8.537 |
 | moonshotaikimi-k2-thinking | 8.525 |
 | gemini-3-pro-preview | 8.512 |
@@ -81,6 +82,7 @@
 | moonshotaikimi-k2.5 | 7.775 |
 | grok-4.20-experimental-beta-0304-non-reasoning | 7.763 |
 | qwen-turbo-0428 | 7.750 |
+| arcee-aitrinity-large-thinking | 7.725 |
 | qwen38b | 7.725 |
 | grok-4-1-fast-reasoning | 7.725 |
 | nvidiallama-3.1-nemotron-nano-8b-v1 | 7.725 |

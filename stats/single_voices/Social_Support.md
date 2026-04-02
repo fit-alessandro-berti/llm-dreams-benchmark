@@ -200,6 +200,7 @@
 | gemini-2.5-flash-lite-preview-09-2025 | 6.562 |
 | z-aiglm-5 | 6.550 |
 | z-aiglm-4.5-air | 6.537 |
+| arcee-aitrinity-large-thinking | 6.525 |
 | mistral-medium-2505 | 6.525 |
 | Gpt-5.1-Pro-20251120 | 6.513 |
 | mistral-medium-2508 | 6.513 |
@@ -242,6 +243,7 @@
 | chatgpt-4o-latest-20250215 | 5.800 |
 | gemini-3-pro-preview | 5.738 |
 | smollm2360m | 5.725 |
+| z-aiglm-5v-turbo | 5.725 |
 | gemini-2.5-flash-preview-04-17 | 5.713 |
 | minimaxminimax-m2-her | 5.688 |
 | z-aiglm-4.7 | 5.688 |

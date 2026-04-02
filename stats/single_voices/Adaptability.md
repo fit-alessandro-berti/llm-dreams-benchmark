@@ -179,6 +179,7 @@
 | deepseek-aiDeepSeek-R1-Zero | 8.650 |
 | bytedance-seedseed-2.0-lite | 8.638 |
 | qwen30.6b | 8.625 |
+| arcee-aitrinity-large-thinking | 8.613 |
 | xiaomimimo-v2-flashfree | 8.612 |
 | claude-4-sonnet-20250514 | 8.600 |
 | gpt-4o-mini-2024-11-05 | 8.600 |
@@ -231,6 +232,7 @@
 | ministral-3b-2512 | 8.150 |
 | tngtechdeepseek-r1t-chimerafree | 8.150 |
 | z-aiglm-5-turbo | 8.125 |
+| z-aiglm-5v-turbo | 8.113 |
 | aion-labsaion-2.0 | 8.100 |
 | QwenQwen3-235B-A22B | 8.088 |
 | anthropicclaude-sonnet-4.5 | 8.050 |

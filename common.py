@@ -1,4 +1,4 @@
-ANSWERING_MODEL_NAME = "nvidia/NVIDIA-Nemotron-3-Super-120B-A12B"
+ANSWERING_MODEL_NAME = "arcee-ai/trinity-large-thinking"
 EVALUATING_MODEL_NAME = "gpt-5.2"
 
 

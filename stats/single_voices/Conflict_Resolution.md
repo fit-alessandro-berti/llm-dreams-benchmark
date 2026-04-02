@@ -218,6 +218,7 @@
 | ibmgranite41b-h | 6.737 |
 | gemini-2.5-pro-exp-03-25 | 6.725 |
 | meta-llamallama-4-scout | 6.713 |
+| arcee-aitrinity-large-thinking | 6.713 |
 | gpt-5-chat-latest-2025-08-07 | 6.713 |
 | magistral-medium-2506 | 6.700 |
 | z-aiglm-4.7-flash | 6.688 |
@@ -243,6 +244,7 @@
 | chatgpt-4o-latest-20250215 | 5.950 |
 | aion-labsaion-2.0 | 5.900 |
 | ministral-8b-2512 | 5.900 |
+| z-aiglm-5v-turbo | 5.875 |
 | smollm2135m | 5.812 |
 | QwenQwen3-235B-A22B | 5.800 |
 | llama27b | 5.638 |

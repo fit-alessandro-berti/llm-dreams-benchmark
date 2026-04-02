@@ -14,6 +14,7 @@
 | z-aiglm-4.7 | 8.587 |
 | QwenQwen3-235B-A22B | 8.575 |
 | mistralaimistral-small-creative | 8.562 |
+| z-aiglm-5v-turbo | 8.562 |
 | anthropicclaude-sonnet-4.5 | 8.550 |
 | moonshotaikimi-k2 | 8.538 |
 | gemini-3-pro-preview | 8.500 |
@@ -76,6 +77,7 @@
 | z-aiglm-5 | 8.050 |
 | chatgpt-4o-latest-2025-01-29 | 8.037 |
 | qwen-turbo-0428 | 8.025 |
+| arcee-aitrinity-large-thinking | 8.025 |
 | claude-4-sonnet-20250514 | 8.012 |
 | gemini-2.5-flash-lite-preview-06-17 | 8.000 |
 | qwen30.6b | 8.000 |

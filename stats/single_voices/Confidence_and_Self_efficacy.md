@@ -184,6 +184,7 @@
 | openaigpt-5.4-nano | 6.887 |
 | meta-llamaMeta-Llama-3.1-405B-Instruct | 6.875 |
 | googlegemma-2-2b-it | 6.862 |
+| arcee-aitrinity-large-thinking | 6.850 |
 | claude-opus-4-5-20251101 | 6.838 |
 | claude-4-sonnet-20250514 | 6.800 |
 | qwenqwen3-235b-a22b-07-25 | 6.800 |
@@ -234,6 +235,7 @@
 | gemini-2.5-flash-preview-05-20 | 6.138 |
 | meta-llamaMeta-Llama-3.1-8B-Instruct | 6.137 |
 | qwen3.52b | 6.087 |
+| z-aiglm-5v-turbo | 6.087 |
 | meta-llamallama-4-maverick | 6.050 |
 | qwenqwen3-235b-a22b-thinking-2507 | 6.013 |
 | gpt-5-chat-latest-2025-08-07 | 5.975 |

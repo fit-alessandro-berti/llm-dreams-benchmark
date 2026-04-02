@@ -170,9 +170,11 @@
 | grok-4.20-experimental-beta-0304-reasoning | 8.200 |
 | magistral-medium-2506 | 8.200 |
 | meta-llamallama-4-maverick | 8.200 |
+| arcee-aitrinity-large-thinking | 8.188 |
 | googlegemini-3.1-flash-lite-preview | 8.188 |
 | minimaxminimax-m2-her | 8.188 |
 | QwenQwen3-30B-A3B | 8.188 |
+| z-aiglm-5v-turbo | 8.175 |
 | ibmgranite41b-h | 8.175 |
 | qwenqwen3-235b-a22b-thinking-2507 | 8.163 |
 | r1-1776 | 8.162 |

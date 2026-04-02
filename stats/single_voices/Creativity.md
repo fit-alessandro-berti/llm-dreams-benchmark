@@ -26,6 +26,7 @@
 | qwenqwen3.5-122b-a10b | 9.675 |
 | qwenqwen3.5-397b-a17b | 9.675 |
 | o3-2025-04-16 | 9.675 |
+| z-aiglm-5v-turbo | 9.675 |
 | deepseekdeepseek-v3.2-exp | 9.663 |
 | gpt-5-mini-2025-08-07 | 9.663 |
 | grok-4-1-fast-non-reasoning | 9.662 |
@@ -156,6 +157,7 @@
 | phi3.53.8b-mini-instruct-fp16 | 9.475 |
 | xiaomimimo-v2-omni | 9.475 |
 | liquidlfm-2-24b-a2b | 9.475 |
+| arcee-aitrinity-large-thinking | 9.463 |
 | gpt-4o-mini-2024-07-18 | 9.463 |
 | meta-llamaMeta-Llama-3.1-405B-Instruct | 9.463 |
 | microsoftPhi-3-medium-4k-instruct | 9.463 |

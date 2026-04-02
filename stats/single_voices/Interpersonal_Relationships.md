@@ -178,6 +178,7 @@
 | chatgpt-4o-latest-2025-04-26 | 6.987 |
 | gemini-2.5-flash-lite-preview-06-17 | 6.987 |
 | gemini-2.0-pro-exp-02-05 | 6.975 |
+| arcee-aitrinity-large-thinking | 6.963 |
 | llama213b | 6.950 |
 | gpt-5.2-2025-12-11 | 6.925 |
 | QwenQwen3-32B | 6.925 |
@@ -244,6 +245,7 @@
 | ministral-3b-2512 | 5.950 |
 | gemini-2.5-pro-exp-03-25 | 5.950 |
 | gemini-3-pro-preview | 5.925 |
+| z-aiglm-5v-turbo | 5.925 |
 | smollm2360m | 5.900 |
 | gpt-5-chat-latest-2025-08-07 | 5.900 |
 | QwenQwen3-235B-A22B | 5.888 |

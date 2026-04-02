@@ -23,6 +23,7 @@
 | prime-intellectintellect-3 | 6.950 |
 | openaigpt-5.4-nano | 6.925 |
 | qwen3.50.8b | 6.925 |
+| z-aiglm-5v-turbo | 6.900 |
 | deepseek-aiDeepSeek-R1-Zero | 6.875 |
 | QwenQwen3-14B | 6.850 |
 | deepseekdeepseek-r1 | 6.825 |
@@ -105,6 +106,7 @@
 | qwen2.5-omni-7b | 6.275 |
 | falcon310b-instruct-q8_0 | 6.263 |
 | z-aiglm-5-turbo | 6.263 |
+| arcee-aitrinity-large-thinking | 6.250 |
 | liquidlfm-2-24b-a2b | 6.238 |
 | open-mixtral-8x7b | 6.237 |
 | mistral-small-2503 | 6.225 |

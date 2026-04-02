@@ -11,6 +11,7 @@
 | z-aiglm-4.7 | 8.463 |
 | gemini-2.0-flash-lite-preview-02-05 | 8.438 |
 | gemini-2.5-pro-exp-03-25 | 8.438 |
+| z-aiglm-5v-turbo | 8.400 |
 | qwenqwen3-235b-a22b-thinking-2507 | 8.350 |
 | mistral-small-2603 | 8.338 |
 | arcee-aitrinity-mini | 8.300 |
@@ -69,6 +70,7 @@
 | qwen3.54b | 7.713 |
 | meta-llamaMeta-Llama-3.1-405B-Instruct | 7.712 |
 | Gemini-1.5-Pro-Exp-0827 | 7.700 |
+| arcee-aitrinity-large-thinking | 7.675 |
 | qwen38b | 7.662 |
 | z-aiglm-5 | 7.662 |
 | QwenQwen3-32B | 7.650 |

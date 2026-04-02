@@ -13,6 +13,7 @@
 | gemini-2.5-pro-exp-03-25 | 8.175 |
 | moonshotaikimi-k2-thinking | 8.175 |
 | qwenqwen3-235b-a22b-thinking-2507 | 8.125 |
+| z-aiglm-5v-turbo | 8.088 |
 | gemini-3-pro-preview | 8.013 |
 | mistral-small-2603 | 8.000 |
 | gemini-2.5-flash-preview-04-17 | 7.950 |
@@ -80,6 +81,7 @@
 | meta-llamaMeta-Llama-3.1-405B-Instruct | 7.050 |
 | Gemini-1.5-Pro-Exp-0827 | 7.037 |
 | z-aiglm-5 | 7.013 |
+| arcee-aitrinity-large-thinking | 7.012 |
 | ibmgranite41b-h | 7.012 |
 | qwenqwen3-235b-a22b-07-25 | 6.987 |
 | allenaiolmo-3-7b-think | 6.975 |

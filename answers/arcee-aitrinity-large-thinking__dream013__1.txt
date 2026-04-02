@@ -1,0 +1,14 @@
+
+You are in a maze filled with complex puzzles. Each puzzle requires intense concentration and logical thinking to solve, and as you move deeper into the maze, you realize the walls themselves are made of shifting, translucent equations that rearrange themselves when you look away.
+
+You enter a circular chamber with three doors. Above each door is a statement carved into the stone:
+
+**Door 1:** *This door leads to the center of the maze.*  
+**Door 2:** *The other two doors lead to certain death.*  
+**Door 3:** *Door 2 is lying.*
+
+Only one door leads forward. Which do you choose, and why?
+
+---
+
+*(If you solve this, tell me your reasoning, and I’ll describe what lies beyond—and the next puzzle that awaits.)*

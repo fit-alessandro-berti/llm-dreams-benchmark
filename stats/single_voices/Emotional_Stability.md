@@ -182,6 +182,7 @@
 | z-aiglm-4.5-air | 6.088 |
 | QwenQwen3-32B | 6.050 |
 | anthropicclaude-opus-4.1 | 6.038 |
+| arcee-aitrinity-large-thinking | 6.025 |
 | mistral-medium-2505 | 6.025 |
 | meta-llamaLlama-3.2-3B-Instruct | 6.025 |
 | z-aiglm-5 | 6.025 |
@@ -237,6 +238,7 @@
 | minimaxminimax-m2-her | 5.112 |
 | nvidiallama-3.1-nemotron-nano-8b-v1 | 5.088 |
 | arcee-aitrinity-mini | 5.087 |
+| z-aiglm-5v-turbo | 5.038 |
 | aion-labsaion-2.0 | 5.037 |
 | ibmgranite4350m-h | 4.975 |
 | qwen3.54b | 4.975 |

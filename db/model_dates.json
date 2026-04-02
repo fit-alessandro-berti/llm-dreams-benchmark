@@ -27,6 +27,7 @@
   "anthropicclaude-sonnet-4.5": "2025-09-29",
   "anthropicclaude-sonnet-4.6": "2026-02-17",
   "arcee-aitrinity-large-previewfree": "2026-01-27",
+  "arcee-aitrinity-large-thinking": "",
   "arcee-aitrinity-mini": "2025-12-01",
   "baiduernie-4.5-21b-a3b": "2025-08-12",
   "baiduernie-4.5-300b-a47b": "2025-03-16",
@@ -256,5 +257,6 @@
   "z-aiglm-4.7": "2025-12-22",
   "z-aiglm-4.7-flash": "2026-01-19",
   "z-aiglm-5": "2026-02-11",
-  "z-aiglm-5-turbo": "2026-03-15"
+  "z-aiglm-5-turbo": "2026-03-15",
+  "z-aiglm-5v-turbo": ""
 }

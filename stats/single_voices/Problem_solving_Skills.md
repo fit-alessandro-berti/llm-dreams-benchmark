@@ -136,6 +136,7 @@
 | qwenqwen3-30b-a3b-instruct-2507 | 8.400 |
 | chatgpt-4o-latest-2025-03-26 | 8.387 |
 | liquidlfm-2.5-1.2b-thinkingfree | 8.387 |
+| arcee-aitrinity-large-thinking | 8.375 |
 | gemma-3-27b-it | 8.375 |
 | gpt-5.2-2025-12-11 | 8.375 |
 | nvidianemotron-nano-9b-v2 | 8.375 |
@@ -241,6 +242,7 @@
 | arcee-aitrinity-mini | 7.662 |
 | z-aiglm-5-turbo | 7.650 |
 | meta-llamallama-4-maverick | 7.625 |
+| z-aiglm-5v-turbo | 7.612 |
 | minimaxminimax-m2-her | 7.588 |
 | mistral-large-2512 | 7.588 |
 | claude-3-5-haiku-20241022 | 7.575 |

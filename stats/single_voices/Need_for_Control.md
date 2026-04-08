@@ -117,6 +117,7 @@
 | open-mistral-nemo | 6.200 |
 | deepseekdeepseek-v3.2-speciale | 6.188 |
 | microsoftPhi-3-medium-4k-instruct | 6.188 |
+| z-aiglm-5.1 | 6.188 |
 | ai21jamba-mini-1.7 | 6.175 |
 | Gemini-1.5-Pro-Exp-0827 | 6.175 |
 | qwen2.5-14b-instruct | 6.175 |

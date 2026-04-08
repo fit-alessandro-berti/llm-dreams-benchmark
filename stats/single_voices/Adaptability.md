@@ -221,6 +221,7 @@
 | googlegemma-2-2b-it | 8.325 |
 | grok-3-mini-beta | 8.325 |
 | meta-llamaMeta-Llama-3.1-70B-Instruct | 8.300 |
+| z-aiglm-5.1 | 8.300 |
 | gemini-3-pro-preview | 8.287 |
 | meta-llamallama-4-scout | 8.275 |
 | qwen31.7b | 8.275 |

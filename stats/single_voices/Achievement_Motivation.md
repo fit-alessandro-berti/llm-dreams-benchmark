@@ -247,6 +247,7 @@
 | qwen34b-instruct-2507-q8_0 | 7.638 |
 | mistralaimistral-small-creative | 7.637 |
 | qwenqwen3.5-122b-a10b | 7.613 |
+| z-aiglm-5.1 | 7.600 |
 | claude-4-opus-20250514 | 7.575 |
 | gemini-2.5-flash-preview-05-20 | 7.562 |
 | gemma31b-it-q8_0 | 7.562 |

@@ -210,6 +210,7 @@
 | ministral-14b-2512 | 6.688 |
 | chatgpt-4o-latest-2025-01-29 | 6.662 |
 | grok-4.20-multi-agent-experimental-beta-0304 | 6.662 |
+| z-aiglm-5.1 | 6.662 |
 | z-aiglm-5 | 6.650 |
 | z-aiglm-4.5 | 6.625 |
 | openaigpt-5.3-chat | 6.613 |

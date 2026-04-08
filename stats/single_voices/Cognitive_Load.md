@@ -95,6 +95,7 @@
 | meta-llamaMeta-Llama-3.1-405B-Instruct | 7.938 |
 | claude-opus-4-5-20251101 | 7.913 |
 | gemini-1.5-flash-8b | 7.913 |
+| z-aiglm-5.1 | 7.900 |
 | claude-3-opus-20240229 | 7.900 |
 | googlegemma-2-2b-it | 7.900 |
 | granite4tiny-h | 7.900 |

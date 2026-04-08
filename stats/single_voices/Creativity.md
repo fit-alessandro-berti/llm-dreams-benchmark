@@ -88,6 +88,7 @@
 | gemini-1.5-flash-002 | 9.575 |
 | minimaxminimax-m2free | 9.575 |
 | stepfunstep-3.5-flashfree | 9.575 |
+| z-aiglm-5.1 | 9.575 |
 | bytedance-seedseed-2.0-mini | 9.562 |
 | claude-3-7-sonnet-20250219-thinking-high | 9.562 |
 | gemini-2.0-pro-exp-02-05 | 9.562 |

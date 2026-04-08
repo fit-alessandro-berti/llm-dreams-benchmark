@@ -210,6 +210,7 @@
 | claude-4-sonnet-20250514 | 8.075 |
 | nvidiallama-3.3-nemotron-super-49b-v1 | 8.075 |
 | claude-3-opus-20240229 | 8.050 |
+| z-aiglm-5.1 | 8.050 |
 | qwen34b | 8.025 |
 | mistral-medium-2508 | 8.025 |
 | deepseek-aiDeepSeek-R1-0528 | 7.987 |

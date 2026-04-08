@@ -217,6 +217,7 @@
 | minimaxminimax-m2-her | 6.825 |
 | z-aiglm-4.5-air | 6.825 |
 | nousresearchhermes-4-70b | 6.788 |
+| z-aiglm-5.1 | 6.750 |
 | ibmgranite41b-h | 6.737 |
 | gemini-2.5-pro-exp-03-25 | 6.725 |
 | meta-llamallama-4-scout | 6.713 |

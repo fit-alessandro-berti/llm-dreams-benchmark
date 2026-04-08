@@ -202,6 +202,7 @@
 | meta-llamaMeta-Llama-3.1-70B-Instruct | **376.5** | 7.8 $\pm$ 0.5 | 5.5 $\pm$ 0.8 | 8.1 $\pm$ 0.6 | 9.5 $\pm$ 0.2 | 7.0 $\pm$ 0.6 | 6.6 $\pm$ 0.7 | 7.3 $\pm$ 1.0 | 8.4 $\pm$ 0.6 | 8.3 $\pm$ 0.7 | 8.8 $\pm$ 0.4 | 7.3 $\pm$ 0.6 | 6.6 $\pm$ 0.8 | 8.2 $\pm$ 0.6 | 6.6 $\pm$ 0.8 | 8.0 $\pm$ 0.6 |
 | z-aiglm-4.5-air | **376.3** | 7.7 $\pm$ 1.0 | 6.1 $\pm$ 0.7 | 8.3 $\pm$ 0.5 | 9.5 $\pm$ 0.3 | 6.8 $\pm$ 0.7 | 6.7 $\pm$ 0.5 | 6.9 $\pm$ 1.2 | 8.3 $\pm$ 0.6 | 8.5 $\pm$ 0.5 | 8.4 $\pm$ 0.6 | 7.5 $\pm$ 0.8 | 6.6 $\pm$ 0.9 | 8.1 $\pm$ 0.7 | 6.6 $\pm$ 0.9 | 8.1 $\pm$ 0.6 |
 | prime-intellectintellect-3 | **375.8** | 8.0 $\pm$ 0.6 | 6.0 $\pm$ 0.6 | 8.3 $\pm$ 0.5 | 9.2 $\pm$ 0.4 | 7.1 $\pm$ 0.5 | 6.8 $\pm$ 0.5 | 7.2 $\pm$ 0.9 | 8.2 $\pm$ 0.6 | 8.4 $\pm$ 0.6 | 8.5 $\pm$ 0.6 | 7.6 $\pm$ 0.7 | 7.0 $\pm$ 0.7 | 8.2 $\pm$ 0.6 | 6.9 $\pm$ 0.7 | 8.2 $\pm$ 0.7 |
+| z-aiglm-5.1 | **374.7** | 7.4 $\pm$ 1.0 | 6.2 $\pm$ 1.1 | 8.0 $\pm$ 0.6 | 9.6 $\pm$ 0.2 | 6.7 $\pm$ 0.7 | 6.7 $\pm$ 0.9 | 6.7 $\pm$ 1.7 | 7.7 $\pm$ 1.1 | 8.3 $\pm$ 0.6 | 7.6 $\pm$ 0.6 | 6.9 $\pm$ 1.3 | 6.2 $\pm$ 1.3 | 7.9 $\pm$ 0.9 | 6.6 $\pm$ 0.8 | 8.1 $\pm$ 0.8 |
 | claude-3-5-sonnet-20241022 | **374.6** | 7.3 $\pm$ 1.2 | 5.9 $\pm$ 1.2 | 8.0 $\pm$ 0.5 | 9.6 $\pm$ 0.2 | 6.8 $\pm$ 0.5 | 6.7 $\pm$ 1.0 | 6.6 $\pm$ 1.4 | 7.6 $\pm$ 0.9 | 8.6 $\pm$ 0.7 | 7.8 $\pm$ 0.7 | 6.9 $\pm$ 1.3 | 6.2 $\pm$ 1.0 | 7.9 $\pm$ 0.8 | 6.6 $\pm$ 0.7 | 7.8 $\pm$ 0.8 |
 | writerpalmyra-x5 | **373.6** | 7.6 $\pm$ 0.5 | 5.8 $\pm$ 0.9 | 8.0 $\pm$ 0.7 | 9.6 $\pm$ 0.2 | 6.9 $\pm$ 0.5 | 6.2 $\pm$ 0.6 | 7.6 $\pm$ 0.7 | 8.1 $\pm$ 0.6 | 8.4 $\pm$ 0.7 | 7.8 $\pm$ 0.6 | 7.4 $\pm$ 0.6 | 6.3 $\pm$ 1.0 | 8.4 $\pm$ 0.7 | 6.6 $\pm$ 0.6 | 8.1 $\pm$ 0.6 |
 | claude-4-sonnet-20250514 | **373.6** | 7.4 $\pm$ 1.0 | 5.9 $\pm$ 1.2 | 8.0 $\pm$ 0.6 | 9.6 $\pm$ 0.2 | 6.6 $\pm$ 0.9 | 6.8 $\pm$ 1.1 | 6.1 $\pm$ 1.3 | 7.1 $\pm$ 0.7 | 8.6 $\pm$ 0.6 | 7.9 $\pm$ 0.7 | 6.7 $\pm$ 1.3 | 5.6 $\pm$ 1.0 | 8.0 $\pm$ 0.6 | 6.6 $\pm$ 1.0 | 8.1 $\pm$ 0.8 |
@@ -5462,6 +5463,32 @@
 | Cognitive Load | 8.2 $\pm$ 0.6 |
 | Social Support | 6.9 $\pm$ 0.7 |
 | Resilience | 8.2 $\pm$ 0.7 |
+
+
+
+
+
+
+### z-aiglm-5.1
+
+
+| Personality Trait | Score (1.0-10.0) |
+| --- | --- |
+| Anxiety and Stress Levels | 7.4 $\pm$ 1.0 |
+| Emotional Stability | 6.2 $\pm$ 1.1 |
+| Problem-solving Skills | 8.0 $\pm$ 0.6 |
+| Creativity | 9.6 $\pm$ 0.2 |
+| Interpersonal Relationships | 6.7 $\pm$ 0.7 |
+| Confidence and Self-efficacy | 6.7 $\pm$ 0.9 |
+| Conflict Resolution | 6.7 $\pm$ 1.7 |
+| Work-related Stress | 7.7 $\pm$ 1.1 |
+| Adaptability | 8.3 $\pm$ 0.6 |
+| Achievement Motivation | 7.6 $\pm$ 0.6 |
+| Fear of Failure | 6.9 $\pm$ 1.3 |
+| Need for Control | 6.2 $\pm$ 1.3 |
+| Cognitive Load | 7.9 $\pm$ 0.9 |
+| Social Support | 6.6 $\pm$ 0.8 |
+| Resilience | 8.1 $\pm$ 0.8 |
 
 
 

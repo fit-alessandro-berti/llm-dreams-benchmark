@@ -207,6 +207,7 @@
 | moonshotaikimi-k2 | 6.675 |
 | claude-3-opus-20240229 | 6.663 |
 | meta-llamaMeta-Llama-3.1-70B-Instruct | 6.650 |
+| z-aiglm-5.1 | 6.650 |
 | deepseek-aiDeepSeek-R1-0528 | 6.612 |
 | meta-llamallama-4-scout | 6.588 |
 | openaigpt-5.3-chat | 6.588 |

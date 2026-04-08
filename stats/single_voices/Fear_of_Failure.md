@@ -88,6 +88,7 @@
 | meta-llamaLlama-3.2-3B-Instruct | 6.975 |
 | openaigpt-5.4 | 6.937 |
 | qwen-turbo-0428 | 6.925 |
+| z-aiglm-5.1 | 6.925 |
 | openaigpt-5.4-pro | 6.900 |
 | anthropicclaude-opus-4.1 | 6.888 |
 | qwen38b | 6.863 |

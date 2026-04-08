@@ -92,6 +92,7 @@
 | ibmgranite41b-h | 7.438 |
 | magistral-small-2506 | 7.438 |
 | openaigpt-5.4-nano | 7.437 |
+| z-aiglm-5.1 | 7.425 |
 | gpt-5.2-pro-2025-12-11 | 7.412 |
 | googlegemma-2-9b-it | 7.400 |
 | moonshotaikimi-k2.5 | 7.400 |

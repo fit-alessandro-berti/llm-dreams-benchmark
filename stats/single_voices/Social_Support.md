@@ -200,6 +200,7 @@
 | writerpalmyra-x5 | 6.575 |
 | claude-4-sonnet-20250514 | 6.562 |
 | gemini-2.5-flash-lite-preview-09-2025 | 6.562 |
+| z-aiglm-5.1 | 6.562 |
 | z-aiglm-5 | 6.550 |
 | z-aiglm-4.5-air | 6.537 |
 | arcee-aitrinity-large-thinking | 6.525 |

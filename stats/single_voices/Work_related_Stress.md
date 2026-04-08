@@ -88,6 +88,7 @@
 | nvidiallama-3.1-nemotron-nano-8b-v1 | 7.725 |
 | openaigpt-5.4-nano | 7.725 |
 | gemma31b-it-q8_0 | 7.688 |
+| z-aiglm-5.1 | 7.688 |
 | deepseek-aiDeepSeek-R1-0528 | 7.675 |
 | Gemini-1.5-Pro-Exp-0827 | 7.675 |
 | openaigpt-5.3-codex | 7.662 |

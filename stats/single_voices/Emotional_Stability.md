@@ -178,6 +178,7 @@
 | moonshotaikimi-k2.5 | 6.213 |
 | Gpt-5.1-Pro-20251120 | 6.200 |
 | qwen34b | 6.200 |
+| z-aiglm-5.1 | 6.200 |
 | qwenqwen3-235b-a22b-07-25 | 6.137 |
 | Grok-4.1-20251118 | 6.125 |
 | grok-4.20-experimental-beta-0304-non-reasoning | 6.100 |

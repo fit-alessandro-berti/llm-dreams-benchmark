@@ -203,6 +203,7 @@
 | qwenqwen3-235b-a22b-thinking-2507 | 8.062 |
 | claude-3-5-sonnet-20241022 | 8.050 |
 | qwen-plus-0428 | 8.050 |
+| z-aiglm-5.1 | 8.050 |
 | claude-3-opus-20240229 | 8.050 |
 | Gemini-1.5-Pro-Exp-0801 | 8.037 |
 | meta-llamallama-4-scout | 8.037 |

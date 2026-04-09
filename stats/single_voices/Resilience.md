@@ -55,6 +55,7 @@
 | phi4-reasoningplus | 8.975 |
 | openaigpt-5.1-codex-max | 8.963 |
 | gpt-4.1-mini-2025-04-14 | 8.962 |
+| Meta-Muse-Spark-20260409 | 8.950 |
 | gpt-5-2025-08-07 | 8.950 |
 | gpt-5-pro-2025-10-06 | 8.950 |
 | nvidiaNVIDIA-Nemotron-3-Super-120B-A12B | 8.950 |

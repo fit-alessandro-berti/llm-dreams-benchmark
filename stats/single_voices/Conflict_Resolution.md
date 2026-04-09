@@ -42,6 +42,7 @@
 | o3-mini-20250131-HIGH | 8.463 |
 | googlegemini-3.1-pro-preview | 8.450 |
 | gpt-4o-mini-2024-07-18 | 8.425 |
+| Meta-Muse-Spark-20260409 | 8.425 |
 | granite4small-h | 8.413 |
 | nvidiaLlama-3.1-Nemotron-70B-Instruct | 8.412 |
 | gpt-4-0125-preview | 8.400 |

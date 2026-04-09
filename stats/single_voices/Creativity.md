@@ -170,6 +170,7 @@
 | falcon37b-instruct-q8_0 | 9.462 |
 | gpt-5-chat-latest-2025-08-19 | 9.450 |
 | grok-2-1212 | 9.450 |
+| Meta-Muse-Spark-20260409 | 9.450 |
 | mistralaimistral-small-creative | 9.450 |
 | qwen-turbo-2024-11-01 | 9.450 |
 | gpt-5-chat-latest-2025-08-07 | 9.450 |

@@ -214,6 +214,7 @@
 | ministral-3b-2410 | 6.025 |
 | codex-mini-latest | 6.000 |
 | falcon310b-instruct-q8_0 | 6.000 |
+| Meta-Muse-Spark-20260409 | 5.975 |
 | openaigpt-oss-20b | 5.963 |
 | ministral-8b-2410 | 5.900 |
 | qwen-turbo-2024-11-01 | 5.875 |

@@ -59,6 +59,7 @@
 | devstral-small-2505 | 8.700 |
 | essentialairnj-1-instruct | 8.700 |
 | exaone-deep7.8b-fp16 | 8.700 |
+| Meta-Muse-Spark-20260409 | 8.700 |
 | qwen-max-2025-01-25 | 8.700 |
 | liquidlfm-2.2-6b | 8.688 |
 | nvidiaLlama-3.1-Nemotron-70B-Instruct | 8.688 |

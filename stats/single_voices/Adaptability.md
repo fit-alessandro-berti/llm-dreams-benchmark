@@ -50,6 +50,7 @@
 | o4-mini-2025-04-16 | 8.988 |
 | qwenqwen3-max-thinking | 8.988 |
 | gpt-4-0613 | 8.987 |
+| Meta-Muse-Spark-20260409 | 8.987 |
 | moonshotaikimi-k2.5 | 8.975 |
 | gemini-3-flash-preview | 8.975 |
 | gpt-4.1-mini-2025-04-14 | 8.975 |

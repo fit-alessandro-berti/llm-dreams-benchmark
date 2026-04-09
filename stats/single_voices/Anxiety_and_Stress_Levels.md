@@ -191,6 +191,7 @@
 | googlegemini-3.1-flash-lite-preview | 6.137 |
 | o1-2024-12-17 | 6.113 |
 | liquidlfm-2-24b-a2b | 6.100 |
+| Meta-Muse-Spark-20260409 | 6.100 |
 | gemini-2.0-flash-exp | 6.100 |
 | o1-pro-2024-12-05 | 6.062 |
 | nvidiaNVIDIA-Nemotron-3-Super-120B-A12B | 6.050 |

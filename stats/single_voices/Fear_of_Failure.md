@@ -203,6 +203,7 @@
 | minimaxminimax-m2.7 | 5.213 |
 | qwen34b-instruct-2507-q8_0 | 5.163 |
 | gpt-4-0613 | 5.162 |
+| Meta-Muse-Spark-20260409 | 5.162 |
 | Grok-4-fast | 5.150 |
 | claude-haiku-4-5-20251001 | 5.125 |
 | phi3.53.8b-mini-instruct-fp16 | 5.125 |

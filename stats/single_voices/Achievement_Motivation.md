@@ -136,6 +136,7 @@
 | chatgpt-4o-latest-20250215 | 8.325 |
 | openaigpt-5.4-nano | 8.325 |
 | grok-4-1-fast-reasoning | 8.312 |
+| Meta-Muse-Spark-20260409 | 8.312 |
 | QwenQwen3-32B | 8.312 |
 | qwenqwen3-max-thinking | 8.312 |
 | tngtechdeepseek-r1t-chimerafree | 8.312 |

@@ -61,6 +61,7 @@
 | o1-pro-2024-12-05 | 7.600 |
 | Grok-3-20250426-formal | 7.575 |
 | gpt-5-pro-2025-10-06 | 7.562 |
+| Meta-Muse-Spark-20260409 | 7.550 |
 | codex-mini-latest | 7.537 |
 | Grok-3-20250426-concise | 7.525 |
 | qwen2.5-7b-instruct | 7.500 |

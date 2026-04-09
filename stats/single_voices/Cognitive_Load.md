@@ -200,6 +200,7 @@
 | ministral-8b-2410 | 7.200 |
 | openaigpt-5.2-codex | 7.200 |
 | qwenqwen3-coder | 7.200 |
+| Meta-Muse-Spark-20260409 | 7.175 |
 | mistral-small-2409 | 7.175 |
 | liquidlfm-2.5-1.2b-instructfree | 7.175 |
 | o4-mini-2025-04-16 | 7.175 |

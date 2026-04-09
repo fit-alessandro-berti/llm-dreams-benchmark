@@ -93,6 +93,7 @@
 | nousresearchhermes-4-70b | 7.525 |
 | phi4-reasoningplus | 7.525 |
 | deepseekdeepseek-v3.2 | 7.513 |
+| Meta-Muse-Spark-20260409 | 7.512 |
 | openaigpt-5.4-mini | 7.500 |
 | openaigpt-5.2-codex | 7.488 |
 | gpt-4-1106-preview | 7.487 |

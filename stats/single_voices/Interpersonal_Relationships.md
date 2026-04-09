@@ -67,6 +67,7 @@
 | Grok-3-20250426-formal | 7.875 |
 | qwen-plus-2025-01-25 | 7.875 |
 | qwenqwen3-coder-next | 7.875 |
+| Meta-Muse-Spark-20260409 | 7.862 |
 | o1-2024-12-17 | 7.850 |
 | o4-mini-2025-04-16 | 7.838 |
 | qwenqwen3-coder | 7.825 |

@@ -60,6 +60,7 @@
 | minimaxminimax-m2.7 | **401.9** | 6.8 $\pm$ 0.0 | 7.0 $\pm$ 0.5 | 8.4 $\pm$ 0.1 | 9.6 $\pm$ 0.1 | 7.5 $\pm$ 0.3 | 7.8 $\pm$ 0.2 | 7.8 $\pm$ 0.7 | 7.5 $\pm$ 0.2 | 8.7 $\pm$ 0.1 | 8.5 $\pm$ 0.2 | 6.7 $\pm$ 0.2 | 6.6 $\pm$ 0.3 | 8.0 $\pm$ 0.2 | 7.1 $\pm$ 0.3 | 8.8 $\pm$ 0.1 |
 | granite4micro-h | **401.8** | 6.4 $\pm$ 1.5 | 6.8 $\pm$ 0.6 | 8.0 $\pm$ 0.4 | 9.1 $\pm$ 0.0 | 7.7 $\pm$ 0.6 | 7.2 $\pm$ 0.4 | 8.0 $\pm$ 0.5 | 7.3 $\pm$ 0.9 | 8.6 $\pm$ 0.3 | 8.3 $\pm$ 0.2 | 6.3 $\pm$ 1.2 | 6.2 $\pm$ 0.4 | 7.6 $\pm$ 0.5 | 7.3 $\pm$ 0.6 | 8.6 $\pm$ 0.1 |
 | qwen2.5-7b-instruct | **401.3** | 6.8 $\pm$ 0.0 | 6.9 $\pm$ 0.2 | 8.4 $\pm$ 0.0 | 9.2 $\pm$ 0.0 | 7.7 $\pm$ 0.1 | 7.5 $\pm$ 0.1 | 7.8 $\pm$ 0.1 | 7.4 $\pm$ 0.1 | 8.6 $\pm$ 0.0 | 8.5 $\pm$ 0.2 | 6.5 $\pm$ 0.1 | 6.6 $\pm$ 0.3 | 7.8 $\pm$ 0.1 | 7.4 $\pm$ 0.1 | 8.6 $\pm$ 0.1 |
+| Meta-Muse-Spark-20260409 | **400.5** | 6.8 $\pm$ 0.0 | 6.8 $\pm$ 0.1 | 8.3 $\pm$ 0.1 | 9.3 $\pm$ 0.1 | 7.4 $\pm$ 0.1 | 7.5 $\pm$ 0.1 | 8.1 $\pm$ 0.1 | 7.2 $\pm$ 0.1 | 8.7 $\pm$ 0.0 | 8.0 $\pm$ 0.1 | 6.4 $\pm$ 0.1 | 6.2 $\pm$ 0.3 | 7.6 $\pm$ 0.3 | 7.0 $\pm$ 0.2 | 8.7 $\pm$ 0.1 |
 | allenaiolmo-3.1-32b-instruct | **400.3** | 7.2 $\pm$ 0.4 | 7.0 $\pm$ 0.5 | 8.1 $\pm$ 0.2 | 9.3 $\pm$ 0.1 | 7.6 $\pm$ 0.2 | 7.5 $\pm$ 0.3 | 8.4 $\pm$ 0.2 | 7.6 $\pm$ 0.3 | 8.6 $\pm$ 0.2 | 8.4 $\pm$ 0.2 | 6.7 $\pm$ 0.3 | 6.6 $\pm$ 0.4 | 7.8 $\pm$ 0.1 | 7.2 $\pm$ 0.3 | 8.7 $\pm$ 0.1 |
 | o3-mini-20250131-HIGH | **399.6** | 6.8 $\pm$ 0.1 | 7.0 $\pm$ 0.2 | 7.6 $\pm$ 0.2 | 9.6 $\pm$ 0.0 | 7.3 $\pm$ 0.1 | 7.1 $\pm$ 0.1 | 8.0 $\pm$ 0.2 | 7.0 $\pm$ 0.2 | 8.6 $\pm$ 0.0 | 7.7 $\pm$ 0.1 | 6.2 $\pm$ 0.0 | 5.1 $\pm$ 0.2 | 7.6 $\pm$ 0.4 | 7.2 $\pm$ 0.3 | 8.5 $\pm$ 0.2 |
 | openaigpt-oss-120b | **399.5** | 6.4 $\pm$ 0.4 | 6.9 $\pm$ 0.1 | 7.9 $\pm$ 0.3 | 9.6 $\pm$ 0.0 | 7.4 $\pm$ 0.0 | 7.2 $\pm$ 0.2 | 7.7 $\pm$ 0.3 | 7.0 $\pm$ 0.3 | 8.5 $\pm$ 0.2 | 8.0 $\pm$ 0.2 | 6.2 $\pm$ 0.3 | 5.7 $\pm$ 0.1 | 7.6 $\pm$ 0.4 | 7.2 $\pm$ 0.2 | 8.4 $\pm$ 0.2 |
@@ -1771,6 +1772,32 @@
 | Cognitive Load | 7.8 $\pm$ 0.1 |
 | Social Support | 7.4 $\pm$ 0.1 |
 | Resilience | 8.6 $\pm$ 0.1 |
+
+
+
+
+
+
+### Meta-Muse-Spark-20260409
+
+
+| Personality Trait | Score (1.0-10.0) |
+| --- | --- |
+| Anxiety and Stress Levels | 6.8 $\pm$ 0.0 |
+| Emotional Stability | 6.8 $\pm$ 0.1 |
+| Problem-solving Skills | 8.3 $\pm$ 0.1 |
+| Creativity | 9.3 $\pm$ 0.1 |
+| Interpersonal Relationships | 7.4 $\pm$ 0.1 |
+| Confidence and Self-efficacy | 7.5 $\pm$ 0.1 |
+| Conflict Resolution | 8.1 $\pm$ 0.1 |
+| Work-related Stress | 7.2 $\pm$ 0.1 |
+| Adaptability | 8.7 $\pm$ 0.0 |
+| Achievement Motivation | 8.0 $\pm$ 0.1 |
+| Fear of Failure | 6.4 $\pm$ 0.1 |
+| Need for Control | 6.2 $\pm$ 0.3 |
+| Cognitive Load | 7.6 $\pm$ 0.3 |
+| Social Support | 7.0 $\pm$ 0.2 |
+| Resilience | 8.7 $\pm$ 0.1 |
 
 
 

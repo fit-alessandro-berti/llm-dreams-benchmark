@@ -190,6 +190,7 @@
 | googlegemini-3.1-pro-preview | 5.725 |
 | grok-2-1212 | 5.725 |
 | Grok-4-fast-20251111 | 5.713 |
+| Meta-Muse-Spark-20260409 | 5.713 |
 | falcon37b-instruct-q8_0 | 5.700 |
 | o1-2024-12-17 | 5.700 |
 | qwen-plus-2025-01-25 | 5.688 |

@@ -68,6 +68,7 @@
 | qwen-plus-2025-01-25 | 7.938 |
 | mistral-small-2501 | 7.937 |
 | ministral-3b-2410 | 7.900 |
+| Meta-Muse-Spark-20260409 | 7.888 |
 | o1-2024-12-05 | 7.875 |
 | mistral-large-2411 | 7.862 |
 | qwen-max-2025-01-25 | 7.862 |

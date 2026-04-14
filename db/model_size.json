@@ -105,7 +105,10 @@
     398,
     13
   ],
-  "arcee-aitrinity-large-thinking": [],
+  "arcee-aitrinity-large-thinking": [
+    398,
+    13
+  ],
   "arcee-aitrinity-mini": [
     26,
     3
@@ -293,8 +296,13 @@
   "gemma-3n-e4b-it": [
     4
   ],
-  "gemma-4-26b-a4b-it": [],
-  "gemma-4-31b-it": [],
+  "gemma-4-26b-a4b-it": [
+    26,
+    4
+  ],
+  "gemma-4-31b-it": [
+    31
+  ],
   "gemma312b-it-q8_0": [
     12
   ],
@@ -718,7 +726,9 @@
     21,
     3.6
   ],
-  "openrouterelephant-alpha": [],
+  "openrouterelephant-alpha": [
+    100
+  ],
   "phi2.7b": [
     2.7
   ],
@@ -920,6 +930,12 @@
     745,
     40
   ],
-  "z-aiglm-5.1": [],
-  "z-aiglm-5v-turbo": []
+  "z-aiglm-5.1": [
+    745,
+    40
+  ],
+  "z-aiglm-5v-turbo": [
+    745,
+    40
+  ]
 }

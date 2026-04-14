@@ -47,6 +47,7 @@
 | liquidlfm-2.2-6b | 8.025 |
 | falcon310b-instruct-q8_0 | 8.025 |
 | codex-mini-latest | 8.000 |
+| openrouterelephant-alpha | 7.987 |
 | baiduernie-4.5-300b-a47b | 7.975 |
 | gpt-4.1-mini-2025-04-14 | 7.975 |
 | ministral-3b-2410 | 7.963 |

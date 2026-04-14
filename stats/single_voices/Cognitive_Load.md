@@ -263,6 +263,7 @@
 | open-mixtral-8x7b | 6.638 |
 | qwenqwen3.5-122b-a10b | 6.638 |
 | o3-mini-20250131-HIGH | 6.625 |
+| openrouterelephant-alpha | 6.613 |
 | microsoftPhi-3-medium-4k-instruct | 6.575 |
 | qwen34b-instruct-2507-q8_0 | 6.525 |
 | gpt-4.5-preview | 6.112 |

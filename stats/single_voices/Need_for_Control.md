@@ -261,6 +261,7 @@
 | o3-mini-20250131-HIGH | 4.888 |
 | xiaomimimo-v2-pro | 4.888 |
 | qwen34b-instruct-2507-q8_0 | 4.713 |
+| openrouterelephant-alpha | 4.675 |
 | qwen3.59b | 4.663 |
 | claude-haiku-4-5-20251001 | 4.638 |
 | anthropicclaude-sonnet-4.6 | 4.613 |

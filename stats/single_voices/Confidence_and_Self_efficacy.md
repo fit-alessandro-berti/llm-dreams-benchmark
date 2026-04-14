@@ -7,6 +7,7 @@
 | qwen2.5-14b-instruct | 8.688 |
 | open-mixtral-8x7b | 8.663 |
 | granite4small-h | 8.662 |
+| openrouterelephant-alpha | 8.625 |
 | grok-2-1212 | 8.600 |
 | ai21jamba-mini-1.7 | 8.587 |
 | gpt-3.5-turbo | 8.562 |

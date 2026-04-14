@@ -12,6 +12,7 @@
 | granite3.28b-instruct-q4_K_M | 8.975 |
 | microsoftphi-4 | 8.950 |
 | o3-2025-04-16 | 8.938 |
+| openrouterelephant-alpha | 8.938 |
 | microsoftWizardLM-2-8x22B | 8.925 |
 | qwen2.5-32b-instruct | 8.925 |
 | deepseekdeepseek-v3.2 | 8.900 |

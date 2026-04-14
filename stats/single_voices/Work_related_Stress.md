@@ -266,4 +266,5 @@
 | gpt-4.5-preview | 4.675 |
 | microsoftPhi-3-medium-4k-instruct | 4.650 |
 | microsoftphi-4 | 4.588 |
+| openrouterelephant-alpha | 4.388 |
 | qwenqwen3.6-plusfree | 4.050 |

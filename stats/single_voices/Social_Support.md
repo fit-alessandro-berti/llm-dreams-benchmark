@@ -75,6 +75,7 @@
 | smollm21.7b-instruct-q6_K | 7.687 |
 | deepseek-aiDeepSeek-V3 | 7.675 |
 | granite3.28b-instruct-q4_K_M | 7.675 |
+| openrouterelephant-alpha | 7.675 |
 | nvidiaLlama-3.1-Nemotron-70B-Instruct | 7.675 |
 | nvidiallama-3.1-nemotron-ultra-253b-v1free | 7.675 |
 | granite4tiny-h | 7.650 |

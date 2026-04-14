@@ -111,6 +111,7 @@
 | z-aiglm-4.5-air | 8.425 |
 | Grok-4-fast-20251111 | 8.413 |
 | DeepSeek-V3-0324 | 8.412 |
+| openrouterelephant-alpha | 8.412 |
 | gemini-2.5-flash-lite-preview-06-17 | 8.400 |
 | liquidlfm-2.5-1.2b-instructfree | 8.400 |
 | minimaxminimax-m2free | 8.400 |

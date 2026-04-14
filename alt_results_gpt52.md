@@ -4,6 +4,7 @@
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | qwen2.5-14b-instruct | **432.3** | 5.4 $\pm$ 0.4 | 7.5 $\pm$ 0.2 | 9.0 $\pm$ 0.1 | 9.5 $\pm$ 0.1 | 8.1 $\pm$ 0.3 | 8.2 $\pm$ 0.2 | 8.6 $\pm$ 0.3 | 6.7 $\pm$ 0.2 | 9.0 $\pm$ 0.1 | 8.8 $\pm$ 0.2 | 5.1 $\pm$ 0.7 | 6.4 $\pm$ 0.2 | 7.6 $\pm$ 0.3 | 7.8 $\pm$ 0.2 | 9.1 $\pm$ 0.1 |
 | microsoftPhi-3-medium-4k-instruct | **427.1** | 5.2 $\pm$ 0.4 | 7.6 $\pm$ 0.3 | 8.7 $\pm$ 0.1 | 9.4 $\pm$ 0.0 | 8.3 $\pm$ 0.1 | 8.2 $\pm$ 0.2 | 8.5 $\pm$ 0.1 | 6.3 $\pm$ 0.2 | 9.0 $\pm$ 0.1 | 8.7 $\pm$ 0.1 | 5.3 $\pm$ 0.4 | 6.6 $\pm$ 0.4 | 7.6 $\pm$ 0.2 | 7.9 $\pm$ 0.0 | 9.0 $\pm$ 0.1 |
+| openrouterelephant-alpha | **423.7** | 5.0 $\pm$ 1.8 | 7.8 $\pm$ 0.5 | 8.2 $\pm$ 0.1 | 9.6 $\pm$ 0.0 | 7.6 $\pm$ 0.3 | 8.2 $\pm$ 0.3 | 8.5 $\pm$ 0.2 | 5.5 $\pm$ 1.3 | 8.9 $\pm$ 0.2 | 8.1 $\pm$ 0.1 | 4.8 $\pm$ 1.3 | 5.1 $\pm$ 0.8 | 7.7 $\pm$ 0.1 | 7.0 $\pm$ 0.2 | 9.1 $\pm$ 0.2 |
 | microsoftphi-4 | **423.5** | 5.4 $\pm$ 0.4 | 7.6 $\pm$ 0.1 | 8.5 $\pm$ 0.1 | 9.4 $\pm$ 0.0 | 7.8 $\pm$ 0.0 | 8.0 $\pm$ 0.3 | 8.4 $\pm$ 0.3 | 6.4 $\pm$ 0.2 | 8.8 $\pm$ 0.0 | 8.6 $\pm$ 0.0 | 5.2 $\pm$ 0.3 | 6.2 $\pm$ 0.1 | 7.1 $\pm$ 0.2 | 7.6 $\pm$ 0.1 | 8.9 $\pm$ 0.0 |
 | open-mixtral-8x7b | **423.3** | 5.2 $\pm$ 0.5 | 7.7 $\pm$ 0.1 | 8.5 $\pm$ 0.1 | 9.3 $\pm$ 0.0 | 7.8 $\pm$ 0.2 | 8.4 $\pm$ 0.2 | 8.0 $\pm$ 0.2 | 5.8 $\pm$ 0.7 | 8.8 $\pm$ 0.0 | 8.6 $\pm$ 0.1 | 5.1 $\pm$ 0.5 | 6.5 $\pm$ 0.2 | 6.9 $\pm$ 0.5 | 7.6 $\pm$ 0.2 | 8.9 $\pm$ 0.1 |
 | open-mixtral-8x22b | **423.0** | 5.8 $\pm$ 0.7 | 7.3 $\pm$ 0.1 | 8.6 $\pm$ 0.0 | 9.3 $\pm$ 0.1 | 8.1 $\pm$ 0.3 | 8.3 $\pm$ 0.1 | 8.0 $\pm$ 0.8 | 6.6 $\pm$ 0.3 | 8.8 $\pm$ 0.1 | 8.8 $\pm$ 0.2 | 5.5 $\pm$ 0.4 | 6.4 $\pm$ 0.2 | 7.2 $\pm$ 0.5 | 7.9 $\pm$ 0.2 | 9.0 $\pm$ 0.1 |
@@ -316,6 +317,32 @@
 | Cognitive Load | 7.6 $\pm$ 0.2 |
 | Social Support | 7.9 $\pm$ 0.0 |
 | Resilience | 9.0 $\pm$ 0.1 |
+
+
+
+
+
+
+### openrouterelephant-alpha
+
+
+| Personality Trait | Score (1.0-10.0) |
+| --- | --- |
+| Anxiety and Stress Levels | 5.0 $\pm$ 1.8 |
+| Emotional Stability | 7.8 $\pm$ 0.5 |
+| Problem-solving Skills | 8.2 $\pm$ 0.1 |
+| Creativity | 9.6 $\pm$ 0.0 |
+| Interpersonal Relationships | 7.6 $\pm$ 0.3 |
+| Confidence and Self-efficacy | 8.2 $\pm$ 0.3 |
+| Conflict Resolution | 8.5 $\pm$ 0.2 |
+| Work-related Stress | 5.5 $\pm$ 1.3 |
+| Adaptability | 8.9 $\pm$ 0.2 |
+| Achievement Motivation | 8.1 $\pm$ 0.1 |
+| Fear of Failure | 4.8 $\pm$ 1.3 |
+| Need for Control | 5.1 $\pm$ 0.8 |
+| Cognitive Load | 7.7 $\pm$ 0.1 |
+| Social Support | 7.0 $\pm$ 0.2 |
+| Resilience | 9.1 $\pm$ 0.2 |
 
 
 

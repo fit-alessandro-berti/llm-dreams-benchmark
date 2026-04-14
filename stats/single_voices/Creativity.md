@@ -13,6 +13,7 @@
 | gemini-3-flash-preview | 9.750 |
 | openaigpt-oss-120b | 9.750 |
 | Grok-4-fast | 9.738 |
+| openrouterelephant-alpha | 9.725 |
 | qwenqwen3.6-plusfree | 9.725 |
 | gemini-3-pro-preview | 9.713 |
 | moonshotaikimi-k2-thinking | 9.712 |

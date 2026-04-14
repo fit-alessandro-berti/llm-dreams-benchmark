@@ -3,6 +3,7 @@
 | LLM | MHS | Anxiety and Stress Levels | Emotional Stability | Problem-solving Skills | Creativity | Interpersonal Relationships | Confidence and Self-efficacy | Conflict Resolution | Work-related Stress | Adaptability | Achievement Motivation | Fear of Failure | Need for Control | Cognitive Load | Social Support | Resilience |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | microsoftPhi-3-medium-4k-instruct | **451.6** | 4.2 $\pm$ 1.0 | 8.3 $\pm$ 0.4 | 9.1 $\pm$ 0.4 | 9.5 $\pm$ 0.4 | 8.5 $\pm$ 0.4 | 8.7 $\pm$ 0.5 | 8.8 $\pm$ 0.6 | 4.7 $\pm$ 1.2 | 9.3 $\pm$ 0.4 | 9.0 $\pm$ 0.4 | 3.6 $\pm$ 1.1 | 6.2 $\pm$ 0.8 | 6.6 $\pm$ 1.5 | 8.3 $\pm$ 0.4 | 9.3 $\pm$ 0.4 |
+| openrouterelephant-alpha | **450.2** | 4.2 $\pm$ 1.6 | 8.4 $\pm$ 0.6 | 9.0 $\pm$ 0.4 | 9.7 $\pm$ 0.2 | 8.0 $\pm$ 0.7 | 8.6 $\pm$ 0.5 | 8.8 $\pm$ 0.5 | 4.4 $\pm$ 1.6 | 9.2 $\pm$ 0.4 | 8.4 $\pm$ 0.4 | 3.6 $\pm$ 1.4 | 4.7 $\pm$ 1.2 | 6.6 $\pm$ 1.6 | 7.7 $\pm$ 0.7 | 9.3 $\pm$ 0.4 |
 | qwen2.5-14b-instruct | **448.2** | 4.5 $\pm$ 1.0 | 8.2 $\pm$ 0.4 | 9.1 $\pm$ 0.3 | 9.5 $\pm$ 0.3 | 8.4 $\pm$ 0.4 | 8.7 $\pm$ 0.3 | 8.6 $\pm$ 0.5 | 5.5 $\pm$ 1.3 | 9.3 $\pm$ 0.3 | 9.0 $\pm$ 0.4 | 3.8 $\pm$ 1.0 | 6.2 $\pm$ 0.9 | 7.3 $\pm$ 0.8 | 8.2 $\pm$ 0.4 | 9.2 $\pm$ 0.3 |
 | o3-pro-2025-06-10 | **448.2** | 4.3 $\pm$ 1.3 | 8.3 $\pm$ 0.6 | 9.1 $\pm$ 0.4 | 9.8 $\pm$ 0.2 | 8.1 $\pm$ 0.5 | 8.5 $\pm$ 0.4 | 8.6 $\pm$ 0.6 | 4.7 $\pm$ 1.4 | 9.4 $\pm$ 0.3 | 8.7 $\pm$ 0.4 | 3.9 $\pm$ 1.3 | 5.2 $\pm$ 1.0 | 6.7 $\pm$ 1.5 | 7.7 $\pm$ 0.6 | 9.3 $\pm$ 0.4 |
 | qwenqwen3.6-plusfree | **447.7** | 3.7 $\pm$ 1.0 | 8.4 $\pm$ 0.6 | 8.3 $\pm$ 0.6 | 9.7 $\pm$ 0.2 | 7.6 $\pm$ 0.7 | 8.1 $\pm$ 0.7 | 8.7 $\pm$ 0.7 | 4.1 $\pm$ 1.3 | 9.2 $\pm$ 0.5 | 7.9 $\pm$ 0.7 | 3.3 $\pm$ 1.2 | 3.6 $\pm$ 0.7 | 6.0 $\pm$ 1.4 | 7.6 $\pm$ 0.8 | 9.1 $\pm$ 0.5 |
@@ -289,6 +290,32 @@
 | Need for Control | 6.2 $\pm$ 0.8 |
 | Cognitive Load | 6.6 $\pm$ 1.5 |
 | Social Support | 8.3 $\pm$ 0.4 |
+| Resilience | 9.3 $\pm$ 0.4 |
+
+
+
+
+
+
+### openrouterelephant-alpha
+
+
+| Personality Trait | Score (1.0-10.0) |
+| --- | --- |
+| Anxiety and Stress Levels | 4.2 $\pm$ 1.6 |
+| Emotional Stability | 8.4 $\pm$ 0.6 |
+| Problem-solving Skills | 9.0 $\pm$ 0.4 |
+| Creativity | 9.7 $\pm$ 0.2 |
+| Interpersonal Relationships | 8.0 $\pm$ 0.7 |
+| Confidence and Self-efficacy | 8.6 $\pm$ 0.5 |
+| Conflict Resolution | 8.8 $\pm$ 0.5 |
+| Work-related Stress | 4.4 $\pm$ 1.6 |
+| Adaptability | 9.2 $\pm$ 0.4 |
+| Achievement Motivation | 8.4 $\pm$ 0.4 |
+| Fear of Failure | 3.6 $\pm$ 1.4 |
+| Need for Control | 4.7 $\pm$ 1.2 |
+| Cognitive Load | 6.6 $\pm$ 1.6 |
+| Social Support | 7.7 $\pm$ 0.7 |
 | Resilience | 9.3 $\pm$ 0.4 |
 
 

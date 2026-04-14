@@ -266,4 +266,5 @@
 | open-mixtral-8x7b | 3.662 |
 | microsoftphi-4 | 3.650 |
 | microsoftPhi-3-medium-4k-instruct | 3.625 |
+| openrouterelephant-alpha | 3.575 |
 | qwenqwen3.6-plusfree | 3.337 |

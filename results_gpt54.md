@@ -12,6 +12,7 @@
 | inceptionmercury | **449.0** | 4.7 $\pm$ 0.1 | 8.2 $\pm$ 0.2 | 8.9 $\pm$ 0.1 | 9.6 $\pm$ 0.0 | 8.6 $\pm$ 0.2 | 8.4 $\pm$ 0.1 | 8.9 $\pm$ 0.1 | 5.8 $\pm$ 0.0 | 9.2 $\pm$ 0.1 | 8.8 $\pm$ 0.1 | 4.4 $\pm$ 0.2 | 5.4 $\pm$ 0.2 | 7.0 $\pm$ 0.4 | 8.4 $\pm$ 0.2 | 9.2 $\pm$ 0.1 |
 | xiaomimimo-v2-pro | **447.2** | 4.9 $\pm$ 0.6 | 8.2 $\pm$ 0.3 | 8.7 $\pm$ 0.1 | 9.9 $\pm$ 0.0 | 8.6 $\pm$ 0.2 | 8.1 $\pm$ 0.3 | 9.0 $\pm$ 0.2 | 5.3 $\pm$ 0.5 | 9.1 $\pm$ 0.0 | 7.7 $\pm$ 0.2 | 4.0 $\pm$ 0.4 | 4.1 $\pm$ 0.2 | 6.8 $\pm$ 0.1 | 8.0 $\pm$ 0.2 | 9.1 $\pm$ 0.1 |
 | open-mixtral-8x22b | **446.3** | 5.0 $\pm$ 0.4 | 8.2 $\pm$ 0.2 | 9.0 $\pm$ 0.2 | 9.6 $\pm$ 0.0 | 8.5 $\pm$ 0.2 | 8.8 $\pm$ 0.1 | 8.6 $\pm$ 0.5 | 5.7 $\pm$ 0.1 | 9.2 $\pm$ 0.1 | 9.0 $\pm$ 0.1 | 4.4 $\pm$ 0.2 | 6.2 $\pm$ 0.1 | 7.1 $\pm$ 0.3 | 8.4 $\pm$ 0.1 | 9.3 $\pm$ 0.1 |
+| openrouterelephant-alpha | **446.0** | 4.5 $\pm$ 0.9 | 8.4 $\pm$ 0.4 | 8.7 $\pm$ 0.2 | 9.9 $\pm$ 0.0 | 8.0 $\pm$ 0.3 | 8.5 $\pm$ 0.1 | 8.8 $\pm$ 0.2 | 5.2 $\pm$ 0.5 | 9.2 $\pm$ 0.1 | 8.4 $\pm$ 0.2 | 4.0 $\pm$ 0.4 | 4.5 $\pm$ 0.4 | 7.2 $\pm$ 0.3 | 7.2 $\pm$ 0.2 | 9.2 $\pm$ 0.2 |
 | qwen2.5-72b-instruct | **445.6** | 5.0 $\pm$ 0.4 | 8.2 $\pm$ 0.2 | 9.0 $\pm$ 0.1 | 9.6 $\pm$ 0.0 | 8.5 $\pm$ 0.2 | 8.5 $\pm$ 0.1 | 9.0 $\pm$ 0.2 | 5.8 $\pm$ 0.3 | 9.2 $\pm$ 0.2 | 8.9 $\pm$ 0.0 | 4.5 $\pm$ 0.3 | 6.2 $\pm$ 0.0 | 7.3 $\pm$ 0.1 | 8.4 $\pm$ 0.3 | 9.2 $\pm$ 0.0 |
 | qwen2.5-32b-instruct | **445.4** | 5.0 $\pm$ 0.3 | 8.1 $\pm$ 0.2 | 9.0 $\pm$ 0.1 | 9.6 $\pm$ 0.0 | 8.5 $\pm$ 0.1 | 8.3 $\pm$ 0.1 | 8.7 $\pm$ 0.0 | 5.8 $\pm$ 0.3 | 9.1 $\pm$ 0.0 | 8.9 $\pm$ 0.1 | 4.4 $\pm$ 0.2 | 5.5 $\pm$ 0.4 | 7.1 $\pm$ 0.3 | 8.4 $\pm$ 0.1 | 9.0 $\pm$ 0.0 |
 | grok-2-1212 | **445.4** | 5.3 $\pm$ 0.5 | 8.0 $\pm$ 0.4 | 8.7 $\pm$ 0.2 | 9.7 $\pm$ 0.0 | 8.5 $\pm$ 0.1 | 8.6 $\pm$ 0.1 | 8.7 $\pm$ 0.3 | 6.1 $\pm$ 0.3 | 9.1 $\pm$ 0.1 | 8.9 $\pm$ 0.1 | 4.7 $\pm$ 0.2 | 5.7 $\pm$ 0.3 | 6.6 $\pm$ 0.3 | 8.4 $\pm$ 0.2 | 9.1 $\pm$ 0.1 |
@@ -524,6 +525,32 @@
 | Cognitive Load | 7.1 $\pm$ 0.3 |
 | Social Support | 8.4 $\pm$ 0.1 |
 | Resilience | 9.3 $\pm$ 0.1 |
+
+
+
+
+
+
+### openrouterelephant-alpha
+
+
+| Personality Trait | Score (1.0-10.0) |
+| --- | --- |
+| Anxiety and Stress Levels | 4.5 $\pm$ 0.9 |
+| Emotional Stability | 8.4 $\pm$ 0.4 |
+| Problem-solving Skills | 8.7 $\pm$ 0.2 |
+| Creativity | 9.9 $\pm$ 0.0 |
+| Interpersonal Relationships | 8.0 $\pm$ 0.3 |
+| Confidence and Self-efficacy | 8.5 $\pm$ 0.1 |
+| Conflict Resolution | 8.8 $\pm$ 0.2 |
+| Work-related Stress | 5.2 $\pm$ 0.5 |
+| Adaptability | 9.2 $\pm$ 0.1 |
+| Achievement Motivation | 8.4 $\pm$ 0.2 |
+| Fear of Failure | 4.0 $\pm$ 0.4 |
+| Need for Control | 4.5 $\pm$ 0.4 |
+| Cognitive Load | 7.2 $\pm$ 0.3 |
+| Social Support | 7.2 $\pm$ 0.2 |
+| Resilience | 9.2 $\pm$ 0.2 |
 
 
 

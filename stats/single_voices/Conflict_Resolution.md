@@ -2,6 +2,7 @@
 
 | Model | Average |
 |:--|--:|
+| openrouterelephant-alpha | 8.800 |
 | microsoftPhi-3-medium-4k-instruct | 8.750 |
 | gpt-4.1-2025-04-14 | 8.738 |
 | deepseekdeepseek-v3.2-exp | 8.725 |

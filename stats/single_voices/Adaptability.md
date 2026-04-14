@@ -6,6 +6,7 @@
 | microsoftPhi-3-medium-4k-instruct | 9.312 |
 | qwen2.5-14b-instruct | 9.250 |
 | granite4small-h | 9.238 |
+| openrouterelephant-alpha | 9.238 |
 | microsoftWizardLM-2-8x22B | 9.225 |
 | gpt-4-turbo-2024-04-09 | 9.188 |
 | inceptionmercury | 9.175 |

@@ -2,6 +2,7 @@
 
 | Model | Average |
 |:--|--:|
+| openrouterelephant-alpha | 9.338 |
 | deepseekdeepseek-v3.2-exp | 9.325 |
 | microsoftPhi-3-medium-4k-instruct | 9.312 |
 | granite4small-h | 9.300 |

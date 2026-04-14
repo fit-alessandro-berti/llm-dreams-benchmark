@@ -1,4 +1,4 @@
-ANSWERING_MODEL_NAME = "z-ai/glm-5.1"
+ANSWERING_MODEL_NAME = "openrouter/elephant-alpha"
 EVALUATING_MODEL_NAME = "gpt-5.2"
 
 

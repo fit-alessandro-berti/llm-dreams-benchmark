@@ -2,6 +2,7 @@
 
 | Model | Average |
 |:--|--:|
+| openrouterelephant-alpha | 8.387 |
 | qwenqwen3.6-plusfree | 8.362 |
 | microsoftPhi-3-medium-4k-instruct | 8.338 |
 | deepseekdeepseek-v3.2-exp | 8.300 |

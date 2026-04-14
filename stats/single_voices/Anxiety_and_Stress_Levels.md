@@ -264,6 +264,7 @@
 | deepseekdeepseek-v3.2-exp | 4.312 |
 | o3-pro-2025-06-10 | 4.300 |
 | microsoftphi-4 | 4.212 |
+| openrouterelephant-alpha | 4.188 |
 | microsoftPhi-3-medium-4k-instruct | 4.175 |
 | granite4small-h | 4.137 |
 | qwenqwen3.6-plusfree | 3.700 |

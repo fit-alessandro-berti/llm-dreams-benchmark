@@ -100,6 +100,7 @@
 | openaigpt-5.4-mini | 7.650 |
 | ChatGPT-5.1-Instant-20251113 | 7.613 |
 | deepseek-aiDeepSeek-V3 | 7.612 |
+| gpt-5.3-codex-spark-low | 7.600 |
 | o1-2024-12-05 | 7.600 |
 | qwen2.5-omni-7b | 7.600 |
 | devstral-small-2505 | 7.588 |

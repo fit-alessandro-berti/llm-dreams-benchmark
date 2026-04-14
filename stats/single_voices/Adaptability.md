@@ -16,6 +16,7 @@
 | ai21jamba-mini-1.7 | 9.125 |
 | microsoftphi-4 | 9.125 |
 | open-mixtral-8x22b | 9.125 |
+| gpt-5.3-codex-spark-low | 9.113 |
 | grok-2-1212 | 9.113 |
 | o1-preview-2024-09-12 | 9.113 |
 | qwen2.5-72b-instruct | 9.113 |

@@ -50,6 +50,7 @@
 | open-mistral-nemo | 8.400 |
 | open-mixtral-8x7b | 8.400 |
 | gemini-1.5-flash-002 | 8.388 |
+| gpt-5.3-codex-spark-low | 8.388 |
 | anthropicclaude-sonnet-4.6 | 8.387 |
 | gpt-4.1-nano-2025-04-14 | 8.387 |
 | mistral-small-2501 | 8.375 |

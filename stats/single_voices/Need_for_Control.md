@@ -70,6 +70,7 @@
 | gpt-4o-mini-2024-11-05 | 6.525 |
 | meta-llamaMeta-Llama-3.1-405B-Instruct | 6.525 |
 | anthropicclaude-sonnet-4.5 | 6.513 |
+| gpt-5.3-codex-spark-low | 6.513 |
 | magistral-medium-2506 | 6.500 |
 | smollm2135m | 6.500 |
 | ai21jamba-large-1.7 | 6.487 |

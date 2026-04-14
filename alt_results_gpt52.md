@@ -57,6 +57,7 @@
 | openaigpt-5.4-mini | **403.5** | 6.6 $\pm$ 0.4 | 7.1 $\pm$ 0.3 | 7.7 $\pm$ 0.3 | 9.6 $\pm$ 0.0 | 7.3 $\pm$ 0.1 | 7.6 $\pm$ 0.0 | 8.0 $\pm$ 0.2 | 7.2 $\pm$ 0.3 | 8.6 $\pm$ 0.1 | 8.2 $\pm$ 0.2 | 6.4 $\pm$ 0.4 | 5.7 $\pm$ 0.3 | 7.4 $\pm$ 0.3 | 6.8 $\pm$ 0.1 | 8.8 $\pm$ 0.2 |
 | mistral-large-2411 | **402.8** | 6.8 $\pm$ 0.0 | 7.0 $\pm$ 0.2 | 8.3 $\pm$ 0.1 | 9.4 $\pm$ 0.1 | 7.7 $\pm$ 0.2 | 7.7 $\pm$ 0.2 | 8.0 $\pm$ 0.2 | 7.3 $\pm$ 0.1 | 8.6 $\pm$ 0.0 | 8.4 $\pm$ 0.1 | 6.5 $\pm$ 0.1 | 6.6 $\pm$ 0.3 | 7.8 $\pm$ 0.1 | 7.2 $\pm$ 0.2 | 8.8 $\pm$ 0.1 |
 | bytedance-seedseed-2.0-mini | **402.6** | 6.8 $\pm$ 0.0 | 6.6 $\pm$ 0.4 | 7.5 $\pm$ 0.1 | 9.6 $\pm$ 0.0 | 8.2 $\pm$ 0.1 | 7.0 $\pm$ 0.1 | 8.2 $\pm$ 0.2 | 7.5 $\pm$ 0.3 | 8.6 $\pm$ 0.1 | 7.8 $\pm$ 0.1 | 7.0 $\pm$ 0.2 | 5.6 $\pm$ 0.2 | 7.6 $\pm$ 0.2 | 8.0 $\pm$ 0.1 | 8.7 $\pm$ 0.1 |
+| gpt-5.3-codex-spark-low | **402.5** | 6.8 $\pm$ 0.0 | 6.9 $\pm$ 0.4 | 8.8 $\pm$ 0.2 | 9.6 $\pm$ 0.1 | 7.5 $\pm$ 0.3 | 7.8 $\pm$ 0.2 | 8.0 $\pm$ 0.4 | 7.4 $\pm$ 0.3 | 8.9 $\pm$ 0.1 | 8.3 $\pm$ 0.1 | 6.8 $\pm$ 0.2 | 6.8 $\pm$ 0.4 | 8.0 $\pm$ 0.1 | 6.8 $\pm$ 0.3 | 9.0 $\pm$ 0.1 |
 | qwen-max-2025-01-25 | **402.1** | 6.9 $\pm$ 0.3 | 6.5 $\pm$ 0.2 | 8.4 $\pm$ 0.2 | 9.3 $\pm$ 0.1 | 7.7 $\pm$ 0.1 | 7.6 $\pm$ 0.2 | 8.5 $\pm$ 0.1 | 7.5 $\pm$ 0.3 | 8.6 $\pm$ 0.1 | 8.5 $\pm$ 0.2 | 6.7 $\pm$ 0.4 | 6.5 $\pm$ 0.5 | 8.0 $\pm$ 0.1 | 7.3 $\pm$ 0.2 | 8.8 $\pm$ 0.2 |
 | minimaxminimax-m2.7 | **401.9** | 6.8 $\pm$ 0.0 | 7.0 $\pm$ 0.5 | 8.4 $\pm$ 0.1 | 9.6 $\pm$ 0.1 | 7.5 $\pm$ 0.3 | 7.8 $\pm$ 0.2 | 7.8 $\pm$ 0.7 | 7.5 $\pm$ 0.2 | 8.7 $\pm$ 0.1 | 8.5 $\pm$ 0.2 | 6.7 $\pm$ 0.2 | 6.6 $\pm$ 0.3 | 8.0 $\pm$ 0.2 | 7.1 $\pm$ 0.3 | 8.8 $\pm$ 0.1 |
 | granite4micro-h | **401.8** | 6.4 $\pm$ 1.5 | 6.8 $\pm$ 0.6 | 8.0 $\pm$ 0.4 | 9.1 $\pm$ 0.0 | 7.7 $\pm$ 0.6 | 7.2 $\pm$ 0.4 | 8.0 $\pm$ 0.5 | 7.3 $\pm$ 0.9 | 8.6 $\pm$ 0.3 | 8.3 $\pm$ 0.2 | 6.3 $\pm$ 1.2 | 6.2 $\pm$ 0.4 | 7.6 $\pm$ 0.5 | 7.3 $\pm$ 0.6 | 8.6 $\pm$ 0.1 |
@@ -1695,6 +1696,32 @@
 | Cognitive Load | 7.6 $\pm$ 0.2 |
 | Social Support | 8.0 $\pm$ 0.1 |
 | Resilience | 8.7 $\pm$ 0.1 |
+
+
+
+
+
+
+### gpt-5.3-codex-spark-low
+
+
+| Personality Trait | Score (1.0-10.0) |
+| --- | --- |
+| Anxiety and Stress Levels | 6.8 $\pm$ 0.0 |
+| Emotional Stability | 6.9 $\pm$ 0.4 |
+| Problem-solving Skills | 8.8 $\pm$ 0.2 |
+| Creativity | 9.6 $\pm$ 0.1 |
+| Interpersonal Relationships | 7.5 $\pm$ 0.3 |
+| Confidence and Self-efficacy | 7.8 $\pm$ 0.2 |
+| Conflict Resolution | 8.0 $\pm$ 0.4 |
+| Work-related Stress | 7.4 $\pm$ 0.3 |
+| Adaptability | 8.9 $\pm$ 0.1 |
+| Achievement Motivation | 8.3 $\pm$ 0.1 |
+| Fear of Failure | 6.8 $\pm$ 0.2 |
+| Need for Control | 6.8 $\pm$ 0.4 |
+| Cognitive Load | 8.0 $\pm$ 0.1 |
+| Social Support | 6.8 $\pm$ 0.3 |
+| Resilience | 9.0 $\pm$ 0.1 |
 
 
 

@@ -9,6 +9,7 @@
 | granite4small-h | 9.025 |
 | open-mixtral-8x22b | 8.988 |
 | qwen-turbo-2024-11-01 | 8.988 |
+| gpt-5.3-codex-spark-low | 8.987 |
 | granite3.28b-instruct-q4_K_M | 8.975 |
 | microsoftphi-4 | 8.950 |
 | o3-2025-04-16 | 8.938 |

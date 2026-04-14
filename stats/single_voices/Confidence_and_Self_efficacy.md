@@ -51,6 +51,7 @@
 | gpt-4o-2024-08-06 | 8.062 |
 | xiaomimimo-v2-pro | 8.062 |
 | liquidlfm-2.2-6b | 8.050 |
+| gpt-5.3-codex-spark-low | 8.037 |
 | qwen2.5-omni-7b | 8.037 |
 | grok-4.20-experimental-beta-0304-reasoning | 8.025 |
 | codex-mini-latest | 8.025 |

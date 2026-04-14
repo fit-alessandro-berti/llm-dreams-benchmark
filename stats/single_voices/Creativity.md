@@ -176,6 +176,7 @@
 | qwen-turbo-2024-11-01 | 9.450 |
 | gpt-5-chat-latest-2025-08-07 | 9.450 |
 | Gpt-5.1-Pro-20251120 | 9.450 |
+| gpt-5.3-codex-spark-low | 9.450 |
 | grok-3-mini-beta | 9.450 |
 | o1-pro-2024-12-17 | 9.450 |
 | open-mistral-nemo | 9.450 |

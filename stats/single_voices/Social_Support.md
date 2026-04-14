@@ -135,6 +135,7 @@
 | gemini-1.5-flash-8b | 7.213 |
 | minimaxminimax-m2.1 | 7.213 |
 | gemini-2.0-flash-exp | 7.200 |
+| gpt-5.3-codex-spark-low | 7.200 |
 | qwenqwen3-next-80b-a3b-thinking | 7.188 |
 | openaigpt-5.3-codex | 7.187 |
 | falcon33b-instruct-q8_0 | 7.162 |

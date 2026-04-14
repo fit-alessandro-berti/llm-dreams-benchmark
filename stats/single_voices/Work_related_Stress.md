@@ -150,6 +150,7 @@
 | nousresearchhermes-4-70b | 6.900 |
 | qwenqwen3.5-27b | 6.887 |
 | qwen2.5-7b-instruct-1m | 6.875 |
+| gpt-5.3-codex-spark-low | 6.850 |
 | arcee-aitrinity-large-previewfree | 6.850 |
 | nvidiaLlama-3.1-Nemotron-70B-Instruct | 6.825 |
 | gemma-3-27b-it | 6.812 |

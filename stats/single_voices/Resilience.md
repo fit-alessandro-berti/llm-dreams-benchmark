@@ -35,6 +35,7 @@
 | gpt-4o-2024-05-13 | 9.050 |
 | o3-mini-20250131-HIGH | 9.050 |
 | anthropicclaude-sonnet-4.6 | 9.038 |
+| gpt-5.3-codex-spark-low | 9.038 |
 | granite3.28b-instruct-q4_K_M | 9.037 |
 | falcon310b-instruct-q8_0 | 9.025 |
 | gpt-4-turbo-2024-04-09 | 9.025 |

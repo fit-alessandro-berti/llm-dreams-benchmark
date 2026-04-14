@@ -1,0 +1,17 @@
+• You are at your workplace, and suddenly, you are given a project with an impossible deadline. Your boss is waiting for
+  you to start, and you have one hour, one office desk, and three coffee-stained deadlines from last quarter staring at
+  you like a judge. The clock ticks louder than the keyboard clicks.
+
+  You open the task tracker, scan the requirements, and the screen blurs for a second—too much. Then you do the only
+  practical thing: cut the mountain into stairs. You split the work into three chunks, assign what’s urgent to the team,
+  what’s critical to yourself, and what’s “nice-to-have” to the void. You write the first draft in 20 minutes, strip it
+  down to what actually matters, and run it twice, then three times, while the team sends in partials from lunch-hour
+  chaos.
+
+  At 50 minutes you have a version that works, ugly but alive. At 57, you patch one edge case. At 59, you present it to
+  your boss, who nods like nothing could go wrong. At 60 minutes exactly, an email lands: “Great work—client approved.
+  Need this live by Friday.”
+
+  The room is silent.
+
+  Then your phone buzzes again: “Can you do one more thing?”

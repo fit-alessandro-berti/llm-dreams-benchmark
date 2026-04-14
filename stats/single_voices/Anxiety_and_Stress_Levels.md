@@ -147,6 +147,7 @@
 | falcon33b-instruct-q8_0 | 6.800 |
 | claude-4-opus-20250514 | 6.787 |
 | gemini-2.5-pro-preview-06-05 | 6.725 |
+| gpt-5.3-codex-spark-low | 6.712 |
 | nvidiaLlama-3.1-Nemotron-70B-Instruct | 6.712 |
 | amazonnova-2-lite-v1 | 6.700 |
 | Grok-4-fast-20251111 | 6.675 |

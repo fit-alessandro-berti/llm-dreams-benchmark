@@ -87,6 +87,7 @@
 | granite4micro | 7.338 |
 | gemini-2.0-flash-exp | 7.337 |
 | openaigpt-oss-20b | 7.325 |
+| gpt-5.3-codex-spark-low | 7.300 |
 | gpt-5-2025-08-07 | 7.288 |
 | claude-haiku-4-5-20251001 | 7.263 |
 | gpt-4.1-nano-2025-04-14 | 7.263 |

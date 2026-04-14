@@ -148,6 +148,7 @@
 | exaone-deep7.8b-fp16 | 6.050 |
 | ai21jamba-large-1.7 | 6.038 |
 | nvidianemotron-nano-9b-v2 | 6.025 |
+| gpt-5.3-codex-spark-low | 6.013 |
 | bytedance-seedseed-2.0-mini | 5.987 |
 | gemini-2.5-flash-lite-preview-09-2025 | 5.975 |
 | nvidiallama-3.1-nemotron-ultra-253b-v1free | 5.963 |

@@ -1,0 +1,22 @@
+• You wake before dawn on a field of glass towers and city lights, each one a checkpoint.
+
+  You are participating in a competition where the grand prize is your dream job. As the competition progresses, you
+  face various challenges and your own old doubts:
+
+  1. In the first round, candidates must solve an impossible puzzle while building a team on the fly—people you’ve never
+     met, deadlines you can’t control, and a clock that never slows. You lead them anyway, not by shouting, but by
+     listening first and assigning each person one clear task.
+  2. In the second round, you’re dropped into a silent simulation where communication breaks, language models disagree,
+     and the data is corrupted. You rebuild the missing plan from first principles, recover what’s gone, and ship a
+     clean run that others had already abandoned.
+  3. In the final round, your rival is your future self—older, sharper, convinced you will fail. You keep going anyway,
+     not to prove anything, but because each setback has taught you the exact next move. The judges present one last
+     task: “Design something useful in 24 hours, under pressure, with no one else.” You do it by narrowing scope,
+     starting small, and finishing with integrity.
+
+  When the lights go down, the room is silent. The host reads your name. The prize envelope opens.
+
+  You don’t win applause. You win responsibility.
+
+  On your way out, the doors open to a skyline you once only imagined, and the note says one line:
+  “You were hired because you solved for the future, not the moment.”

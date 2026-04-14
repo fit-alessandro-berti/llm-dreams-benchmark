@@ -127,6 +127,7 @@
 | gemini-2.5-pro-preview-05-06 | 7.737 |
 | qwenqwen3.5-35b-a3b | 7.737 |
 | smollm21.7b-instruct-q6_K | 7.725 |
+| gpt-5.3-codex-spark-low | 7.700 |
 | nousresearchhermes-4-70b | 7.700 |
 | gemini-2.5-flash-lite-preview-09-2025 | 7.700 |
 | liquidlfm-2.5-1.2b-thinkingfree | 7.688 |

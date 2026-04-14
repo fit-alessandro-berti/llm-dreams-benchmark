@@ -65,6 +65,7 @@
 | nvidiallama-3.1-nemotron-ultra-253b-v1free | 8.613 |
 | gpt-4o-2024-08-06 | 8.612 |
 | mistral-large-2411 | 8.612 |
+| gpt-5.3-codex-spark-low | 8.600 |
 | mistral-small-2501 | 8.600 |
 | qwen-max-2025-01-25 | 8.600 |
 | exaone-deep7.8b-fp16 | 8.600 |

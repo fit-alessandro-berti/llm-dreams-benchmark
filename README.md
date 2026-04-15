@@ -67,7 +67,7 @@ Alternative leaderboards (maintaned and updated less frequently):
 * [gpt-5.1](alt_results_gpt51.md)
 * [gpt-5.2](alt_results_gpt52.md)
 * [gemini-3-flash](alt_results_gemini3_flash.md)
-* [qwen3-max](alt_results_qwen3-max.md)
+* [qwen36-plus](alt_results_qwen36-plus.md)
 * [mistral-small-2603](alt_results_mistral2603.md)
 
 ## Implementation

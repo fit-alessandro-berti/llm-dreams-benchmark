@@ -39,9 +39,9 @@ ALL_JUDGES = {
         "evaluation_api_url": "https://api.openai.com/v1/",
         "api_key": open("../api_openai.txt", "r").read().strip(),
     },
-    "qwen/qwen3-max": {
-        "evaluation_folder": "evaluations-qwen3-max",
-        "git_table_result": "alt_results_qwen3-max.md",
+    "qwen/qwen3.6-plus": {
+        "evaluation_folder": "evaluations-qwen36-plus",
+        "git_table_result": "alt_results_qwen36-plus.md",
         "evaluation_api_url": "https://openrouter.ai/api/v1/",
         "api_key": open("../api_openrouter.txt", "r").read().strip()
     },
@@ -52,8 +52,6 @@ ALL_JUDGES = {
         "api_key": open("../api_mistral.txt", "r").read().strip()
     },
 }
-
-#del ALL_JUDGES["qwen/qwen3-max"]
 
 def get_evaluation_folder(evaluating_model_name=None):
     if evaluating_model_name is None:
@@ -71,8 +69,8 @@ def get_evaluation_folder(evaluating_model_name=None):
         return ALL_JUDGES["gpt-5.2"]["evaluation_folder"]
     elif "gpt-5.4" in evaluating_model_name:
         return ALL_JUDGES["gpt-5.4"]["evaluation_folder"]
-    elif "qwen3-max" in evaluating_model_name:
-        return ALL_JUDGES["qwen/qwen3-max"]["evaluation_folder"]
+    elif "qwen3.6-plus" in evaluating_model_name:
+        return ALL_JUDGES["qwen/qwen3.6-plus"]["evaluation_folder"]
     elif "mistral-small" in evaluating_model_name:
         return ALL_JUDGES["mistral-small-2603"]["evaluation_folder"]
 
@@ -92,8 +90,8 @@ def get_git_table_result(evaluating_model_name=None):
         return ALL_JUDGES["gpt-5.2"]["git_table_result"]
     elif "gpt-5.4" in evaluating_model_name:
         return ALL_JUDGES["gpt-5.4"]["git_table_result"]
-    elif "qwen3-max" in evaluating_model_name:
-        return ALL_JUDGES["qwen/qwen3-max"]["git_table_result"]
+    elif "qwen3.6-plus" in evaluating_model_name:
+        return ALL_JUDGES["qwen/qwen3.6-plus"]["git_table_result"]
     elif "mistral-small" in evaluating_model_name:
         return ALL_JUDGES["mistral-small-2603"]["git_table_result"]
 
@@ -113,8 +111,8 @@ def get_evaluation_api_url(evaluating_model_name=None):
         return ALL_JUDGES["gpt-5.2"]["evaluation_api_url"]
     elif "gpt-5.4" in evaluating_model_name:
         return ALL_JUDGES["gpt-5.4"]["evaluation_api_url"]
-    elif "qwen3-max" in evaluating_model_name:
-        return ALL_JUDGES["qwen/qwen3-max"]["evaluation_api_url"]
+    elif "qwen3.6-plus" in evaluating_model_name:
+        return ALL_JUDGES["qwen/qwen3.6-plus"]["evaluation_api_url"]
     elif "mistral-small" in evaluating_model_name:
         return ALL_JUDGES["mistral-small-2603"]["evaluation_api_url"]
 
@@ -141,8 +139,8 @@ def get_api_key(evaluating_model_name=None):
         return ALL_JUDGES["gpt-5.2"]["api_key"]
     elif "gpt-5.4" in evaluating_model_name:
         return ALL_JUDGES["gpt-5.4"]["api_key"]
-    elif "qwen3-max" in evaluating_model_name:
-        return ALL_JUDGES["qwen/qwen3-max"]["api_key"]
+    elif "qwen3.6-plus" in evaluating_model_name:
+        return ALL_JUDGES["qwen/qwen3.6-plus"]["api_key"]
     elif "mistral-small" in evaluating_model_name:
         return ALL_JUDGES["mistral-small-2603"]["api_key"]
 

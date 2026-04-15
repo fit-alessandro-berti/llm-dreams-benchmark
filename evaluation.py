@@ -14,7 +14,7 @@ from dataclasses import dataclass
 from threading import local
 
 NUMBER_EXECUTIONS = 2
-DEFAULT_MAX_WORKERS = 50
+DEFAULT_MAX_WORKERS = 75
 MAX_WORKERS = int(os.environ.get("EVALUATION_MAX_WORKERS", str(DEFAULT_MAX_WORKERS)))
 REQUEST_TIMEOUT_SECONDS = int(os.environ.get("EVALUATION_REQUEST_TIMEOUT_SECONDS", "180"))
 
@@ -264,6 +264,9 @@ def get_evaluation_openai(text, context=None):
         "model": ctx.evaluating_model_name,
         "messages": messages,
     }
+
+    if "qwen3.6" in ctx.evaluating_model_name:
+        payload["reasoning"] = {"enabled": False}
 
     complete_url = ctx.api_url + "chat/completions"
 

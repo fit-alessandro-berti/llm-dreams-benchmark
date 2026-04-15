@@ -59,7 +59,7 @@ JUDGES = {
     "gpt-5.1": interpret(open(os.path.join("..", "alt_results_gpt51.md"), "r").read()),
     "gpt-5.2": interpret(open(os.path.join("..", "alt_results_gpt52.md"), "r").read()),
     "gpt-5.4": interpret(open(os.path.join("..", "results_gpt54.md"), "r").read()),
-    "qwen3-max": interpret(open(os.path.join("..", "alt_results_qwen3-max.md"), "r").read()),
+    "qwen36-plus": interpret(open(os.path.join("..", "alt_results_qwen36-plus.md"), "r").read()),
     "mistral-small-2603": interpret(open(os.path.join("..", "alt_results_mistral2603.md"), "r").read()),
 }
 

@@ -28,6 +28,8 @@ NEGATED_KEYS = {
     "Cognitive Load",
 }
 
+RANK_NEGATED_KEYS = NEGATED_KEYS | {"Work-related Stress"}
+
 SCORE_CACHE = {}
 GROUPED_FILES_CACHE = {}
 
@@ -97,7 +99,7 @@ def build_sorted_llms(llms, mhs):
 
 
 def get_ranked_trait_score(score, key):
-    return (10.0 - score) if key in NEGATED_KEYS else score
+    return (10.0 - score) if key in RANK_NEGATED_KEYS else score
 
 
 def build_sorted_llms_by_trait(llms, trait, mhs, all_llms_score_stats):

@@ -206,6 +206,7 @@
 | mistral-medium-2505 | 8.037 |
 | allenaiolmo-3-7b-instruct | 8.025 |
 | gemma-4-31b-it | 8.025 |
+| gemma4e2b | 8.025 |
 | grok-4.20-multi-agent-experimental-beta-0304 | 8.025 |
 | openaigpt-5.2-codex | 8.025 |
 | moonshotaikimi-linear-48b-a3b-instruct | 8.013 |
@@ -258,6 +259,7 @@
 | gemma34b-it-q8_0 | 7.525 |
 | claude-4-opus-20250514 | 7.525 |
 | anthropicclaude-sonnet-4.5 | 7.487 |
+| gemma4e4b | 7.463 |
 | qwen3.50.8b | 7.462 |
 | qwenqwen3.5-397b-a17b | 7.450 |
 | qwen34b-instruct-2507-q8_0 | 7.438 |

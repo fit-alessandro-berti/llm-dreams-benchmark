@@ -17,6 +17,7 @@
 | mistral-small-2603 | 8.338 |
 | gemma34b-it-q8_0 | 8.337 |
 | meta-llamallama-4-maverick | 8.325 |
+| gemma4e4b | 8.300 |
 | gemini-3-pro-preview | 8.300 |
 | mistral-medium-2508 | 8.275 |
 | anthropicclaude-sonnet-4.5 | 8.262 |
@@ -39,6 +40,7 @@
 | r1-1776 | 8.012 |
 | z-aiglm-4.5 | 8.012 |
 | gemini-2.5-flash-preview-05-20 | 8.000 |
+| gemma4e2b | 8.000 |
 | gpt-5-chat-latest-2025-08-07 | 8.000 |
 | grok-4.20-multi-agent-experimental-beta-0304 | 8.000 |
 | meta-llamaLlama-3.3-70B-Instruct | 8.000 |

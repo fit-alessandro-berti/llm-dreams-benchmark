@@ -315,6 +315,8 @@
   "gemma34b-it-q8_0": [
     4
   ],
+  "gemma4e2b": [],
+  "gemma4e4b": [],
   "googlegemini-3.1-flash-lite-preview": [
     600,
     10

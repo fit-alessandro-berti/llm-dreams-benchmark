@@ -230,6 +230,7 @@
 | meta-llamaMeta-Llama-3.1-8B-Instruct | 7.862 |
 | meta-llamaLlama-3.3-70B-Instruct | 7.862 |
 | gemma31b-it-q8_0 | 7.850 |
+| gemma4e4b | 7.850 |
 | grok-4.20-multi-agent-experimental-beta-0304 | 7.838 |
 | qwen34b | 7.837 |
 | z-aiglm-4.7-flash | 7.825 |
@@ -259,6 +260,7 @@
 | meta-llamallama-4-maverick | 7.488 |
 | gemini-2.5-flash-preview-05-20 | 7.475 |
 | mistralaimistral-small-creative | 7.475 |
+| gemma4e2b | 7.425 |
 | mistral-small-2506 | 7.388 |
 | gemma34b-it-q8_0 | 7.387 |
 | qwen3.54b | 7.275 |

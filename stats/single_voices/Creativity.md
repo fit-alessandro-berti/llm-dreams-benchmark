@@ -43,6 +43,7 @@
 | openaigpt-5.1-codex-max | 9.663 |
 | openaigpt-5.4 | 9.663 |
 | claude-3-5-sonnet-20241022 | 9.662 |
+| gemma4e2b | 9.662 |
 | nvidianemotron-3-nano-30b-a3bfree | 9.662 |
 | o3-2025-04-16 | 9.662 |
 | openaigpt-5.4-pro | 9.662 |
@@ -79,6 +80,7 @@
 | gemini-2.5-flash-preview-09-2025 | 9.625 |
 | bytedance-seedseed-2.0-lite | 9.613 |
 | gemini-1.5-flash-002 | 9.613 |
+| gemma4e4b | 9.613 |
 | grok-4-1-fast-reasoning | 9.613 |
 | mistral-medium-2508 | 9.613 |
 | r1-1776 | 9.613 |

@@ -127,6 +127,7 @@
 | openaigpt-5.3-codex | 6.125 |
 | ai21jamba-mini-1.7 | 6.113 |
 | z-aiglm-5-turbo | 6.112 |
+| gemma4e4b | 6.112 |
 | open-mixtral-8x22b | 6.100 |
 | claude-3-7-sonnet-20250219-thinking-high | 6.100 |
 | deepseek-aiDeepSeek-V3 | 6.100 |
@@ -181,6 +182,7 @@
 | o1-mini | 5.750 |
 | open-mistral-7b | 5.750 |
 | baiduernie-4.5-300b-a47b | 5.725 |
+| gemma4e2b | 5.725 |
 | gpt-4o-mini-2024-07-18 | 5.725 |
 | gpt-5-chat-latest-2025-08-19 | 5.713 |
 | allenaiolmo-3-7b-instruct | 5.700 |

@@ -217,6 +217,7 @@
 | grok-3-mini-beta | 6.462 |
 | gpt-5.2-2025-12-11 | 6.450 |
 | grok-4.20-multi-agent-experimental-beta-0304 | 6.450 |
+| gemma4e2b | 6.438 |
 | smollm2135m | 6.412 |
 | qwen31.7b | 6.388 |
 | gemini-2.0-flash-lite-preview-02-05 | 6.375 |
@@ -258,6 +259,7 @@
 | mistral-small-2603 | 5.675 |
 | mistral-small-2506 | 5.625 |
 | minimaxminimax-m2-her | 5.613 |
+| gemma4e4b | 5.600 |
 | essentialairnj-1-instruct | 5.588 |
 | ministral-3b-2512 | 5.587 |
 | claude-3-5-haiku-20241022 | 5.562 |

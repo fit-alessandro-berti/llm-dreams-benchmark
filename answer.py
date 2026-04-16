@@ -9,7 +9,7 @@ from common import ANSWERING_MODEL_NAME as MODEL_NAME
 
 
 API_URL = "https://api.openai.com/v1/"
-#API_URL = "http://137.226.117.70:11434/v1/"
+API_URL = "http://137.226.117.70:11434/v1/"
 #API_URL = "https://api.deepinfra.com/v1/openai/"
 #API_URL = "https://api.mistral.ai/v1/"
 #API_URL = "https://api.x.ai/v1/"
@@ -20,13 +20,13 @@ API_URL = "https://api.openai.com/v1/"
 #API_URL = "https://dashscope-intl.aliyuncs.com/compatible-mode/v1/"
 #API_URL = "https://api.anthropic.com/v1/"
 #API_URL = "https://integrate.api.nvidia.com/v1/"
-API_URL = "https://openrouter.ai/api/v1/"
+#API_URL = "https://openrouter.ai/api/v1/"
 #API_URL = "https://api.perplexity.ai/"
 
 API_KEY = open("../api_openrouter.txt", "r").read()
 
 NUMBER_EXECUTIONS = 2
-MAX_WORKERS = 50
+MAX_WORKERS = 1
 
 WAITING_TIME_RETRY = 15
 TIME_BETWEEN_ANSWERS = 0

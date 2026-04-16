@@ -17,6 +17,7 @@
 | gemini-2.5-pro-exp-03-25 | 8.500 |
 | qwen3.52b | 8.488 |
 | meta-llamaMeta-Llama-3.1-70B-Instruct | 8.463 |
+| gemma4e4b | 8.450 |
 | mistralaimistral-small-creative | 8.450 |
 | anthropicclaude-sonnet-4.5 | 8.437 |
 | meta-llamallama-4-maverick | 8.400 |
@@ -26,6 +27,7 @@
 | qwen31.7b | 8.363 |
 | meta-llamaMeta-Llama-3.1-405B-Instruct | 8.350 |
 | mistral-large-2512 | 8.350 |
+| gemma4e2b | 8.338 |
 | xiaomimimo-v2-flashfree | 8.338 |
 | meta-llamaMeta-Llama-3.1-8B-Instruct | 8.325 |
 | gemini-2.5-flash-preview-04-17 | 8.312 |

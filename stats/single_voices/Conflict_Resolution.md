@@ -166,6 +166,7 @@
 | allenaiolmo-3-7b-instruct | 7.662 |
 | liquidlfm-2.5-1.2b-instructfree | 7.662 |
 | QwenQwen3-32B | 7.662 |
+| gemma4e2b | 7.650 |
 | gemini-2.5-flash-lite-preview-09-2025 | 7.638 |
 | meta-llamaMeta-Llama-3.1-8B-Instruct | 7.625 |
 | qwen31.7b | 7.625 |
@@ -201,6 +202,7 @@
 | meta-llamaMeta-Llama-3.1-70B-Instruct | 7.163 |
 | moonshotaikimi-k2-thinking | 7.150 |
 | ministral-14b-2512 | 7.150 |
+| gemma4e4b | 7.138 |
 | z-aiglm-5 | 7.138 |
 | grok-3-mini-beta | 7.112 |
 | qwen34b | 7.112 |

@@ -228,6 +228,7 @@
 | r1-1776 | 6.475 |
 | googlegemini-3.1-flash-lite-preview | 6.412 |
 | nvidiallama-3.1-nemotron-nano-8b-v1 | 6.412 |
+| gemma4e2b | 6.362 |
 | ministral-8b-2512 | 6.325 |
 | QwenQwen3-30B-A3B | 6.325 |
 | magistral-medium-2506 | 6.287 |
@@ -245,6 +246,7 @@
 | QwenQwen3-14B | 6.138 |
 | minimaxminimax-m2-her | 6.125 |
 | gemma34b-it-q8_0 | 6.113 |
+| gemma4e4b | 6.050 |
 | anthropicclaude-sonnet-4.5 | 6.025 |
 | gemini-2.5-pro-exp-03-25 | 6.025 |
 | mistral-small-2603 | 5.987 |

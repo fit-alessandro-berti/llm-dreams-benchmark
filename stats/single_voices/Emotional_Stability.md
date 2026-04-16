@@ -218,6 +218,7 @@
 | writerpalmyra-x5 | 5.737 |
 | googlegemma-2-2b-it | 5.700 |
 | DeepSeek-V3-0324 | 5.688 |
+| gemma4e2b | 5.675 |
 | chatgpt-4o-latest-2025-01-29 | 5.662 |
 | grok-3-mini-beta | 5.662 |
 | meta-llamallama-4-scout | 5.625 |
@@ -230,6 +231,7 @@
 | meta-llamaMeta-Llama-3.1-70B-Instruct | 5.500 |
 | tngtechdeepseek-r1t-chimerafree | 5.487 |
 | QwenQwen3-30B-A3B | 5.463 |
+| gemma4e4b | 5.425 |
 | ministral-14b-2512 | 5.425 |
 | magistral-medium-2506 | 5.400 |
 | qwenqwen3-235b-a22b-thinking-2507 | 5.400 |

@@ -217,6 +217,7 @@
 | qwen34b | 8.425 |
 | writerpalmyra-x5 | 8.413 |
 | ministral-8b-2512 | 8.412 |
+| gemma4e4b | 8.400 |
 | meta-llamaLlama-3.2-3B-Instruct | 8.375 |
 | qwen-plus-0428 | 8.375 |
 | Gemini-1.5-Pro-Exp-0801 | 8.363 |
@@ -230,6 +231,7 @@
 | meta-llamaMeta-Llama-3.1-70B-Instruct | 8.275 |
 | gemini-3-pro-preview | 8.250 |
 | gemini-2.5-pro-exp-03-25 | 8.225 |
+| gemma4e2b | 8.225 |
 | magistral-medium-2506 | 8.225 |
 | ministral-14b-2512 | 8.225 |
 | Qwen-QwQ-32B | 8.225 |

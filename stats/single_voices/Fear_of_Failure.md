@@ -23,6 +23,7 @@
 | gemini-2.5-flash-preview-05-20 | 7.850 |
 | qwen3.50.8b | 7.838 |
 | claude-3-5-haiku-20241022 | 7.812 |
+| gemma4e2b | 7.775 |
 | aion-labsaion-2.0 | 7.775 |
 | ministral-3b-2512 | 7.762 |
 | QwenQwen3-30B-A3B | 7.738 |
@@ -34,6 +35,7 @@
 | ibmgranite4350m-h | 7.675 |
 | mistral-medium-2508 | 7.663 |
 | grok-4.20-multi-agent-experimental-beta-0304 | 7.650 |
+| gemma4e4b | 7.612 |
 | prime-intellectintellect-3 | 7.600 |
 | QwenQwen3-14B | 7.600 |
 | z-aiglm-4.7-flash | 7.600 |

@@ -1,4 +1,4 @@
-ANSWERING_MODEL_NAME = "openrouter/elephant-alpha"
+ANSWERING_MODEL_NAME = "gemma4:e4b"
 EVALUATING_MODEL_NAME = "gpt-5.2"
 
 

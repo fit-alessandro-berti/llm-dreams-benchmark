@@ -233,6 +233,7 @@
 | minimaxminimax-m2-her | 6.387 |
 | aion-labsaion-2.0 | 6.375 |
 | z-aiglm-4.7-flash | 6.350 |
+| gemma4e4b | 6.325 |
 | anthropicclaude-opus-4.1 | 6.312 |
 | claude-4-opus-20250514 | 6.250 |
 | writerpalmyra-x5 | 6.237 |
@@ -243,6 +244,7 @@
 | mistral-small-2603 | 6.150 |
 | meta-llamaMeta-Llama-3.1-8B-Instruct | 6.100 |
 | gemini-2.5-flash-preview-09-2025 | 6.088 |
+| gemma4e2b | 6.050 |
 | qwen3.52b | 6.050 |
 | z-aiglm-5v-turbo | 6.050 |
 | qwenqwen3-235b-a22b-thinking-2507 | 6.025 |

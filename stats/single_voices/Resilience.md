@@ -214,11 +214,13 @@
 | claude-4-opus-20250514 | 8.125 |
 | deepseek-aiDeepSeek-R1-0528 | 8.125 |
 | meta-llamaMeta-Llama-3.1-405B-Instruct | 8.125 |
+| gemma4e4b | 8.113 |
 | qwenqwen3-235b-a22b-thinking-2507 | 8.100 |
 | claude-4-sonnet-20250514 | 8.100 |
 | mistral-medium-2508 | 8.087 |
 | claude-3-opus-20240229 | 8.075 |
 | mistral-medium-2505 | 8.037 |
+| gemma4e2b | 8.025 |
 | QwenQwen3-30B-A3B | 8.012 |
 | ministral-14b-2512 | 7.975 |
 | meta-llamaMeta-Llama-3.1-70B-Instruct | 7.975 |

@@ -189,6 +189,7 @@
 | gemma312b-it-q8_0 | 8.112 |
 | qwenqwen3-next-80b-a3b-thinking | 8.100 |
 | stepfunstep-3.5-flashfree | 8.100 |
+| Liquid-LFM2.5-350M | 8.088 |
 | xiaomimimo-v2-flashfree | 8.088 |
 | z-aiglm-5 | 8.088 |
 | ministral-8b-2512 | 8.075 |

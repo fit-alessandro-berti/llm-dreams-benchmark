@@ -163,6 +163,7 @@
 | minimaxminimax-m2.1 | 7.163 |
 | gemini-2.5-pro-preview-06-05 | 7.162 |
 | qwen-turbo-0428 | 7.137 |
+| Liquid-LFM2.5-350M | 7.113 |
 | qwen-plus-0428 | 7.112 |
 | granite4tiny-h | 7.100 |
 | claude-3-7-sonnet-20250219-thinking-high | 7.088 |

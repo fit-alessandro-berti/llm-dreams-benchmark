@@ -154,6 +154,7 @@
 | gemini-2.5-flash-lite-preview-06-17 | 8.588 |
 | gemma-3-27b-it | 8.588 |
 | Grok-3-beta-thinking-20250303 | 8.588 |
+| Liquid-LFM2.5-350M | 8.588 |
 | qwen38b | 8.588 |
 | moonshotaikimi-k2.5 | 8.575 |
 | z-aiglm-5 | 8.575 |

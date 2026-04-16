@@ -102,6 +102,7 @@
 | qwenqwen3-30b-a3b-instruct-2507 | 6.737 |
 | magistral-small-2506 | 6.725 |
 | claude-4-sonnet-20250514 | 6.688 |
+| Liquid-LFM2.5-350M | 6.688 |
 | z-aiglm-5.1 | 6.688 |
 | moonshotaikimi-k2.5 | 6.675 |
 | gemini-2.5-pro-preview-05-06 | 6.662 |

@@ -86,6 +86,7 @@
 | googlegemma-2-9b-it | 7.562 |
 | Gpt-5.1-Pro-20251120 | 7.562 |
 | ministral-8b-2512 | 7.562 |
+| Liquid-LFM2.5-350M | 7.550 |
 | grok-4.20-experimental-beta-0304-non-reasoning | 7.537 |
 | gpt-5.2-pro-2025-12-11 | 7.512 |
 | gemini-2.5-pro-preview-05-06 | 7.500 |

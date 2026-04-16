@@ -186,6 +186,7 @@
 | moonshotaikimi-k2.5 | 8.238 |
 | gpt-4o-mini-2024-11-05 | 8.237 |
 | smollm21.7b-instruct-q6_K | 8.237 |
+| Liquid-LFM2.5-350M | 8.225 |
 | Gpt-5.1-Pro-20251120 | 8.225 |
 | Grok-4.1-20251118 | 8.200 |
 | chatgpt-4o-latest-2025-01-29 | 8.175 |

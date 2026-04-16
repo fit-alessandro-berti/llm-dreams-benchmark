@@ -94,6 +94,7 @@
 | openaigpt-5.2-codex | 8.225 |
 | googlegemma-2-9b-it | 8.200 |
 | bytedance-seedseed-2.0-lite | 8.188 |
+| Liquid-LFM2.5-350M | 8.188 |
 | o1-2024-12-05 | 8.188 |
 | qwenqwen3-30b-a3b-instruct-2507 | 8.188 |
 | xiaomimimo-v2-omni | 8.188 |

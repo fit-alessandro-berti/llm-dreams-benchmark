@@ -80,6 +80,7 @@
 | openaigpt-5.4 | 7.875 |
 | z-aiglm-4.7-flash | 7.875 |
 | grok-4-1-fast-reasoning | 7.875 |
+| Liquid-LFM2.5-350M | 7.863 |
 | qwen38b | 7.850 |
 | moonshotaikimi-k2.5 | 7.812 |
 | arcee-aitrinity-large-thinking | 7.800 |

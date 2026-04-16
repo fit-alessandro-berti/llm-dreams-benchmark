@@ -105,6 +105,7 @@
 | openaigpt-5.4 | 7.900 |
 | chatgpt-4o-latest-2024-11-20 | 7.900 |
 | claude-3-opus-20240229 | 7.888 |
+| Liquid-LFM2.5-350M | 7.888 |
 | gemini-2.0-pro-exp-02-05 | 7.888 |
 | qwen34b | 7.887 |
 | Gemini-1.5-Pro-Exp-0827 | 7.875 |

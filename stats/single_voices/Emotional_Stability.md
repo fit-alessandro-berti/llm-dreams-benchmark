@@ -166,6 +166,7 @@
 | gemma312b-it-q8_0 | 6.450 |
 | googlegemma-2-9b-it | 6.450 |
 | gemini-1.5-flash-8b | 6.413 |
+| Liquid-LFM2.5-350M | 6.400 |
 | claude-3-7-sonnet-20250219-thinking-high | 6.375 |
 | gemma-3n-e4b-it | 6.375 |
 | gemini-3-flash-preview | 6.350 |

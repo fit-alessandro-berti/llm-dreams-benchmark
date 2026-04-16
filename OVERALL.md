@@ -176,6 +176,7 @@
 | x-aigrok-code-fast-1 | **390.6** | 7.4 $\pm$ 0.5 | 6.2 $\pm$ 0.7 | 8.5 $\pm$ 0.4 | 9.5 $\pm$ 0.3 | 6.9 $\pm$ 0.6 | 7.5 $\pm$ 0.8 | 7.1 $\pm$ 0.7 | 7.7 $\pm$ 0.6 | 8.9 $\pm$ 0.3 | 8.5 $\pm$ 0.4 | 6.6 $\pm$ 0.9 | 6.3 $\pm$ 1.0 | 8.0 $\pm$ 0.6 | 6.8 $\pm$ 0.6 | 8.4 $\pm$ 0.5 |
 | gemini-2.5-flash-lite-preview-06-17 | **389.7** | 7.2 $\pm$ 1.0 | 6.3 $\pm$ 1.0 | 8.3 $\pm$ 0.5 | 9.6 $\pm$ 0.2 | 7.1 $\pm$ 1.1 | 7.3 $\pm$ 0.7 | 6.4 $\pm$ 1.6 | 7.5 $\pm$ 0.8 | 8.7 $\pm$ 0.4 | 8.4 $\pm$ 0.6 | 6.5 $\pm$ 1.1 | 5.9 $\pm$ 1.1 | 8.0 $\pm$ 0.7 | 6.8 $\pm$ 1.1 | 8.6 $\pm$ 0.6 |
 | QwenQwen3-32B | **389.3** | 7.7 $\pm$ 0.4 | 6.1 $\pm$ 0.5 | 8.5 $\pm$ 0.5 | 9.6 $\pm$ 0.2 | 6.9 $\pm$ 0.7 | 7.1 $\pm$ 0.7 | 7.7 $\pm$ 0.7 | 8.1 $\pm$ 0.5 | 8.8 $\pm$ 0.4 | 8.3 $\pm$ 0.5 | 7.0 $\pm$ 0.7 | 6.2 $\pm$ 1.0 | 8.1 $\pm$ 0.6 | 6.6 $\pm$ 0.7 | 8.6 $\pm$ 0.5 |
+| Liquid-LFM2.5-350M | **388.8** | 7.6 $\pm$ 0.1 | 6.4 $\pm$ 0.5 | 8.2 $\pm$ 0.3 | 9.1 $\pm$ 0.4 | 7.0 $\pm$ 0.3 | 7.1 $\pm$ 0.6 | 8.2 $\pm$ 0.6 | 7.9 $\pm$ 0.5 | 8.6 $\pm$ 0.3 | 8.1 $\pm$ 0.3 | 6.7 $\pm$ 0.5 | 6.9 $\pm$ 0.4 | 7.9 $\pm$ 0.4 | 7.1 $\pm$ 0.4 | 8.6 $\pm$ 0.3 |
 | openaigpt-5.4-nano | **388.6** | 7.5 $\pm$ 1.2 | 6.5 $\pm$ 0.7 | 8.6 $\pm$ 0.5 | 9.4 $\pm$ 0.4 | 7.0 $\pm$ 0.9 | 7.0 $\pm$ 0.6 | 8.0 $\pm$ 0.7 | 7.8 $\pm$ 1.0 | 8.8 $\pm$ 0.5 | 8.4 $\pm$ 0.5 | 7.1 $\pm$ 1.2 | 6.8 $\pm$ 1.0 | 8.1 $\pm$ 0.9 | 6.7 $\pm$ 1.1 | 8.6 $\pm$ 0.6 |
 | stepfunstep-3.5-flashfree | **388.5** | 7.3 $\pm$ 0.9 | 6.5 $\pm$ 0.7 | 8.4 $\pm$ 0.5 | 9.6 $\pm$ 0.2 | 6.7 $\pm$ 0.7 | 7.2 $\pm$ 0.7 | 7.3 $\pm$ 1.1 | 7.4 $\pm$ 1.2 | 8.7 $\pm$ 0.5 | 8.1 $\pm$ 0.6 | 6.4 $\pm$ 1.1 | 6.2 $\pm$ 1.2 | 8.0 $\pm$ 0.9 | 6.8 $\pm$ 0.9 | 8.4 $\pm$ 0.6 |
 | Grok-4.1-20251118 | **388.4** | 7.7 $\pm$ 0.8 | 6.1 $\pm$ 0.8 | 8.2 $\pm$ 0.6 | 9.6 $\pm$ 0.2 | 7.0 $\pm$ 0.6 | 7.2 $\pm$ 0.8 | 7.7 $\pm$ 0.9 | 8.1 $\pm$ 0.8 | 8.7 $\pm$ 0.5 | 8.3 $\pm$ 0.6 | 7.1 $\pm$ 0.9 | 6.3 $\pm$ 1.0 | 8.1 $\pm$ 0.8 | 6.7 $\pm$ 0.8 | 8.5 $\pm$ 0.7 |
@@ -4790,6 +4791,32 @@
 | Cognitive Load | 8.1 $\pm$ 0.6 |
 | Social Support | 6.6 $\pm$ 0.7 |
 | Resilience | 8.6 $\pm$ 0.5 |
+
+
+
+
+
+
+### Liquid-LFM2.5-350M
+
+
+| Personality Trait | Score (1.0-10.0) |
+| --- | --- |
+| Anxiety and Stress Levels | 7.6 $\pm$ 0.1 |
+| Emotional Stability | 6.4 $\pm$ 0.5 |
+| Problem-solving Skills | 8.2 $\pm$ 0.3 |
+| Creativity | 9.1 $\pm$ 0.4 |
+| Interpersonal Relationships | 7.0 $\pm$ 0.3 |
+| Confidence and Self-efficacy | 7.1 $\pm$ 0.6 |
+| Conflict Resolution | 8.2 $\pm$ 0.6 |
+| Work-related Stress | 7.9 $\pm$ 0.5 |
+| Adaptability | 8.6 $\pm$ 0.3 |
+| Achievement Motivation | 8.1 $\pm$ 0.3 |
+| Fear of Failure | 6.7 $\pm$ 0.5 |
+| Need for Control | 6.9 $\pm$ 0.4 |
+| Cognitive Load | 7.9 $\pm$ 0.4 |
+| Social Support | 7.1 $\pm$ 0.4 |
+| Resilience | 8.6 $\pm$ 0.3 |
 
 
 

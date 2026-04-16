@@ -22,6 +22,7 @@
 | ibmgranite41b-h | 6.938 |
 | prime-intellectintellect-3 | 6.925 |
 | z-aiglm-5v-turbo | 6.925 |
+| Liquid-LFM2.5-350M | 6.900 |
 | qwen3.50.8b | 6.900 |
 | ministral-3b-2512 | 6.862 |
 | qwen-plus-0428 | 6.862 |

@@ -154,6 +154,7 @@
 | gemini-2.0-pro-exp-02-05 | 7.100 |
 | Grok-4-fast-20251111 | 7.100 |
 | qwen30.6b | 7.075 |
+| Liquid-LFM2.5-350M | 7.075 |
 | magistral-small-2506 | 7.063 |
 | gemma-3n-e4b-it | 7.062 |
 | openaigpt-5.4 | 7.062 |

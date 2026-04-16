@@ -199,6 +199,7 @@
 | grok-4.20-multi-agent-experimental-beta-0304 | 8.562 |
 | claude-3-5-sonnet-20241022 | 8.550 |
 | gpt-5.2-2025-12-11 | 8.550 |
+| Liquid-LFM2.5-350M | 8.550 |
 | mistral-medium-2508 | 8.537 |
 | z-aiglm-4.5-air | 8.525 |
 | chatgpt-4o-latest-20250215 | 8.512 |

@@ -176,6 +176,7 @@
 | qwenqwen3.5-122b-a10b | 7.037 |
 | chatgpt-4o-latest-2024-11-20 | 7.025 |
 | Grok-4.1-20251118 | 7.025 |
+| Liquid-LFM2.5-350M | 7.025 |
 | nvidianemotron-nano-9b-v2 | 7.013 |
 | gemma-3n-e4b-it | 7.012 |
 | moonshotaikimi-k2 | 7.012 |

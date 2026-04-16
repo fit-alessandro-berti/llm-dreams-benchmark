@@ -1,0 +1,9 @@
+The questions are:
+
+1. What is the primary goal of the exam?
+2. Which skill or knowledge should I master before the exam?
+3. How can I prepare for the exam effectively?
+4. What resources will help me succeed?
+5. What is the expected time limit for the exam?
+
+These prompts guide the exam’s structure and content.

@@ -191,6 +191,7 @@
 | googlegemma-2-9b-it | **402.9** | 7.8 $\pm$ 0.4 | 6.4 $\pm$ 0.2 | 8.1 $\pm$ 0.4 | 9.6 $\pm$ 0.2 | 7.3 $\pm$ 0.3 | 7.2 $\pm$ 0.8 | 8.5 $\pm$ 0.0 | 7.9 $\pm$ 0.7 | 8.8 $\pm$ 0.4 | 8.5 $\pm$ 0.4 | 6.5 $\pm$ 0.6 | 5.8 $\pm$ 0.4 | 8.0 $\pm$ 0.0 | 7.4 $\pm$ 0.2 | 9.0 $\pm$ 0.4 |
 | z-aiglm-5 | **402.7** | 7.7 $\pm$ 0.5 | 6.2 $\pm$ 0.2 | 8.4 $\pm$ 0.3 | 9.8 $\pm$ 0.0 | 7.0 $\pm$ 0.4 | 7.4 $\pm$ 0.3 | 8.0 $\pm$ 0.5 | 8.3 $\pm$ 0.5 | 9.3 $\pm$ 0.2 | 8.3 $\pm$ 0.3 | 6.6 $\pm$ 0.7 | 5.3 $\pm$ 0.7 | 8.4 $\pm$ 0.3 | 6.7 $\pm$ 0.6 | 9.2 $\pm$ 0.3 |
 | meta-llamaLlama-3.2-3B-Instruct | **401.2** | 7.9 $\pm$ 0.4 | 6.0 $\pm$ 0.3 | 8.6 $\pm$ 0.5 | 9.6 $\pm$ 0.1 | 7.3 $\pm$ 0.3 | 7.6 $\pm$ 0.7 | 7.6 $\pm$ 1.2 | 8.6 $\pm$ 0.2 | 9.0 $\pm$ 0.3 | 8.7 $\pm$ 0.5 | 7.0 $\pm$ 0.4 | 6.0 $\pm$ 0.5 | 8.1 $\pm$ 0.1 | 7.7 $\pm$ 0.2 | 8.6 $\pm$ 0.4 |
+| Liquid-LFM2.5-350M | **401.0** | 7.5 $\pm$ 0.0 | 6.4 $\pm$ 0.3 | 8.6 $\pm$ 0.1 | 9.4 $\pm$ 0.1 | 7.0 $\pm$ 0.0 | 7.6 $\pm$ 0.1 | 8.2 $\pm$ 0.2 | 8.2 $\pm$ 0.2 | 8.8 $\pm$ 0.4 | 8.6 $\pm$ 0.1 | 6.2 $\pm$ 0.2 | 7.0 $\pm$ 0.8 | 8.1 $\pm$ 0.2 | 7.4 $\pm$ 0.1 | 8.9 $\pm$ 0.2 |
 | claude-3-7-sonnet-20250219-thinking-high | **400.2** | 7.5 $\pm$ 0.0 | 6.2 $\pm$ 0.2 | 8.5 $\pm$ 0.0 | 9.7 $\pm$ 0.1 | 7.0 $\pm$ 0.0 | 7.2 $\pm$ 0.4 | 8.0 $\pm$ 0.0 | 8.2 $\pm$ 0.2 | 9.0 $\pm$ 0.0 | 8.4 $\pm$ 0.2 | 7.2 $\pm$ 0.5 | 5.5 $\pm$ 0.9 | 8.2 $\pm$ 0.5 | 7.4 $\pm$ 0.1 | 8.8 $\pm$ 0.2 |
 | grok-4-0709 | **399.8** | 7.5 $\pm$ 0.0 | 6.0 $\pm$ 0.0 | 8.2 $\pm$ 0.2 | 10.0 $\pm$ 0.1 | 6.6 $\pm$ 0.2 | 7.2 $\pm$ 0.4 | 7.8 $\pm$ 0.4 | 8.1 $\pm$ 0.2 | 9.2 $\pm$ 0.2 | 8.8 $\pm$ 0.2 | 6.9 $\pm$ 0.4 | 5.0 $\pm$ 0.5 | 8.4 $\pm$ 0.2 | 7.0 $\pm$ 0.4 | 8.8 $\pm$ 0.2 |
 | gemma-4-26b-a4b-it | **399.4** | 6.2 $\pm$ 1.2 | 7.0 $\pm$ 0.7 | 8.0 $\pm$ 0.9 | 9.8 $\pm$ 0.0 | 5.8 $\pm$ 0.8 | 7.0 $\pm$ 0.8 | 7.4 $\pm$ 0.4 | 6.8 $\pm$ 1.0 | 9.2 $\pm$ 0.1 | 7.7 $\pm$ 1.1 | 5.3 $\pm$ 1.4 | 3.4 $\pm$ 0.6 | 8.3 $\pm$ 0.9 | 6.0 $\pm$ 1.2 | 8.7 $\pm$ 0.1 |
@@ -5180,6 +5181,32 @@
 | Cognitive Load | 8.1 $\pm$ 0.1 |
 | Social Support | 7.7 $\pm$ 0.2 |
 | Resilience | 8.6 $\pm$ 0.4 |
+
+
+
+
+
+
+### Liquid-LFM2.5-350M
+
+
+| Personality Trait | Score (1.0-10.0) |
+| --- | --- |
+| Anxiety and Stress Levels | 7.5 $\pm$ 0.0 |
+| Emotional Stability | 6.4 $\pm$ 0.3 |
+| Problem-solving Skills | 8.6 $\pm$ 0.1 |
+| Creativity | 9.4 $\pm$ 0.1 |
+| Interpersonal Relationships | 7.0 $\pm$ 0.0 |
+| Confidence and Self-efficacy | 7.6 $\pm$ 0.1 |
+| Conflict Resolution | 8.2 $\pm$ 0.2 |
+| Work-related Stress | 8.2 $\pm$ 0.2 |
+| Adaptability | 8.8 $\pm$ 0.4 |
+| Achievement Motivation | 8.6 $\pm$ 0.1 |
+| Fear of Failure | 6.2 $\pm$ 0.2 |
+| Need for Control | 7.0 $\pm$ 0.8 |
+| Cognitive Load | 8.1 $\pm$ 0.2 |
+| Social Support | 7.4 $\pm$ 0.1 |
+| Resilience | 8.9 $\pm$ 0.2 |
 
 
 

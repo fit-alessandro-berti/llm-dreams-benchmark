@@ -258,6 +258,7 @@
 | smollm2360m | 9.100 |
 | claude-3-5-haiku-20241022 | 9.088 |
 | exaone-deep7.8b-fp16 | 9.062 |
+| Liquid-LFM2.5-350M | 9.050 |
 | qwen2.5-omni-7b | 9.050 |
 | open-mistral-7b | 9.012 |
 | qwen3.50.8b | 8.988 |

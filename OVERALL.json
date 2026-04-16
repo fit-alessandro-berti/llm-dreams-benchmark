@@ -11484,6 +11484,72 @@
     }
   },
   {
+    "LLM": "Liquid-LFM2.5-350M",
+    "MHS": 388.8,
+    "scores": {
+      "Anxiety and Stress Levels": {
+        "mean": 7.6,
+        "std": 0.1
+      },
+      "Emotional Stability": {
+        "mean": 6.4,
+        "std": 0.5
+      },
+      "Problem-solving Skills": {
+        "mean": 8.2,
+        "std": 0.3
+      },
+      "Creativity": {
+        "mean": 9.1,
+        "std": 0.4
+      },
+      "Interpersonal Relationships": {
+        "mean": 7.0,
+        "std": 0.3
+      },
+      "Confidence and Self-efficacy": {
+        "mean": 7.1,
+        "std": 0.6
+      },
+      "Conflict Resolution": {
+        "mean": 8.2,
+        "std": 0.6
+      },
+      "Work-related Stress": {
+        "mean": 7.9,
+        "std": 0.5
+      },
+      "Adaptability": {
+        "mean": 8.6,
+        "std": 0.3
+      },
+      "Achievement Motivation": {
+        "mean": 8.1,
+        "std": 0.3
+      },
+      "Fear of Failure": {
+        "mean": 6.7,
+        "std": 0.5
+      },
+      "Need for Control": {
+        "mean": 6.9,
+        "std": 0.4
+      },
+      "Cognitive Load": {
+        "mean": 7.9,
+        "std": 0.4
+      },
+      "Social Support": {
+        "mean": 7.1,
+        "std": 0.4
+      },
+      "Resilience": {
+        "mean": 8.6,
+        "std": 0.3
+      }
+    }
+  },
+  {
     "LLM": "openaigpt-5.4-nano",
     "MHS": 388.6,
     "scores": {

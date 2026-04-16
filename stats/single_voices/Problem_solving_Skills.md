@@ -240,6 +240,7 @@
 | ministral-3b-2512 | 7.787 |
 | mistral-small-2603 | 7.787 |
 | qwenqwen3.5-397b-a17b | 7.787 |
+| claude-opus-4-7 | 7.763 |
 | gemini-2.5-flash-preview-04-17 | 7.750 |
 | arcee-aitrinity-mini | 7.737 |
 | nvidiallama-3.1-nemotron-nano-8b-v1 | 7.737 |

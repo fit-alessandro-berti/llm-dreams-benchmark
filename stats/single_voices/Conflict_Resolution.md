@@ -243,6 +243,7 @@
 | gemini-2.5-flash-preview-09-2025 | 6.338 |
 | ministral-3b-2512 | 6.237 |
 | gemma31b-it-q8_0 | 6.188 |
+| claude-opus-4-7 | 6.175 |
 | gemini-2.5-flash-preview-05-20 | 6.162 |
 | gemini-2.5-flash-preview-04-17 | 6.137 |
 | gemma-4-26b-a4b-it | 6.112 |

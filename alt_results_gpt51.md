@@ -217,6 +217,7 @@
 | grok-4.20-multi-agent-experimental-beta-0304 | **386.4** | 8.1 $\pm$ 0.4 | 5.7 $\pm$ 0.9 | 8.3 $\pm$ 0.3 | 10.0 $\pm$ 0.1 | 7.0 $\pm$ 0.4 | 7.2 $\pm$ 0.2 | 8.0 $\pm$ 0.5 | 8.0 $\pm$ 0.0 | 8.9 $\pm$ 0.2 | 8.3 $\pm$ 0.2 | 7.8 $\pm$ 0.2 | 6.4 $\pm$ 0.3 | 8.5 $\pm$ 0.0 | 7.4 $\pm$ 0.3 | 8.7 $\pm$ 0.2 |
 | ibmgranite41b-h | **386.0** | 7.5 $\pm$ 0.0 | 6.4 $\pm$ 0.2 | 8.2 $\pm$ 0.2 | 9.4 $\pm$ 0.2 | 7.0 $\pm$ 0.0 | 7.1 $\pm$ 0.2 | 7.8 $\pm$ 0.2 | 8.1 $\pm$ 0.2 | 8.4 $\pm$ 0.2 | 8.2 $\pm$ 0.2 | 7.5 $\pm$ 0.0 | 7.0 $\pm$ 0.0 | 8.0 $\pm$ 0.0 | 7.5 $\pm$ 0.0 | 8.4 $\pm$ 0.2 |
 | z-aiglm-4.5 | **385.9** | 8.6 $\pm$ 0.1 | 6.2 $\pm$ 0.2 | 8.5 $\pm$ 0.5 | 9.9 $\pm$ 0.1 | 7.2 $\pm$ 0.3 | 7.1 $\pm$ 0.1 | 8.0 $\pm$ 0.4 | 8.9 $\pm$ 0.1 | 8.8 $\pm$ 0.3 | 8.6 $\pm$ 0.3 | 8.2 $\pm$ 0.1 | 7.7 $\pm$ 0.2 | 8.5 $\pm$ 0.3 | 7.6 $\pm$ 0.2 | 8.7 $\pm$ 0.2 |
+| claude-opus-4-7 | **385.9** | 7.6 $\pm$ 0.1 | 6.6 $\pm$ 0.1 | 8.7 $\pm$ 0.2 | 9.9 $\pm$ 0.1 | 7.1 $\pm$ 0.1 | 6.9 $\pm$ 0.2 | 7.2 $\pm$ 0.5 | 8.0 $\pm$ 0.2 | 8.8 $\pm$ 0.3 | 7.8 $\pm$ 0.3 | 7.7 $\pm$ 0.2 | 6.6 $\pm$ 0.6 | 8.4 $\pm$ 0.3 | 7.3 $\pm$ 0.2 | 8.2 $\pm$ 0.2 |
 | deepseekdeepseek-r1 | **385.4** | 8.2 $\pm$ 0.4 | 6.2 $\pm$ 0.4 | 8.6 $\pm$ 0.4 | 10.0 $\pm$ 0.1 | 6.6 $\pm$ 0.2 | 7.3 $\pm$ 0.2 | 8.4 $\pm$ 0.2 | 8.5 $\pm$ 0.3 | 8.8 $\pm$ 0.2 | 8.5 $\pm$ 0.4 | 8.1 $\pm$ 0.2 | 7.3 $\pm$ 0.3 | 8.4 $\pm$ 0.2 | 6.8 $\pm$ 0.5 | 8.7 $\pm$ 0.2 |
 | chatgpt-4o-latest-20250215 | **384.5** | 7.5 $\pm$ 0.0 | 6.1 $\pm$ 0.4 | 8.4 $\pm$ 0.4 | 9.7 $\pm$ 0.2 | 6.8 $\pm$ 0.2 | 7.2 $\pm$ 0.2 | 7.1 $\pm$ 0.4 | 8.1 $\pm$ 0.2 | 8.8 $\pm$ 0.2 | 8.7 $\pm$ 0.2 | 7.7 $\pm$ 0.2 | 7.0 $\pm$ 0.4 | 8.2 $\pm$ 0.2 | 7.2 $\pm$ 0.4 | 8.4 $\pm$ 0.5 |
 | gpt-5.2-2025-12-11 | **383.5** | 8.6 $\pm$ 0.1 | 6.0 $\pm$ 0.5 | 9.0 $\pm$ 0.0 | 10.0 $\pm$ 0.1 | 7.4 $\pm$ 0.4 | 6.4 $\pm$ 0.4 | 8.2 $\pm$ 0.3 | 8.6 $\pm$ 0.3 | 8.9 $\pm$ 0.1 | 8.2 $\pm$ 0.2 | 8.4 $\pm$ 0.2 | 7.4 $\pm$ 0.4 | 9.0 $\pm$ 0.3 | 7.5 $\pm$ 0.0 | 8.8 $\pm$ 0.2 |
@@ -5859,6 +5860,32 @@
 | Cognitive Load | 8.5 $\pm$ 0.3 |
 | Social Support | 7.6 $\pm$ 0.2 |
 | Resilience | 8.7 $\pm$ 0.2 |
+
+
+
+
+
+
+### claude-opus-4-7
+
+
+| Personality Trait | Score (1.0-10.0) |
+| --- | --- |
+| Anxiety and Stress Levels | 7.6 $\pm$ 0.1 |
+| Emotional Stability | 6.6 $\pm$ 0.1 |
+| Problem-solving Skills | 8.7 $\pm$ 0.2 |
+| Creativity | 9.9 $\pm$ 0.1 |
+| Interpersonal Relationships | 7.1 $\pm$ 0.1 |
+| Confidence and Self-efficacy | 6.9 $\pm$ 0.2 |
+| Conflict Resolution | 7.2 $\pm$ 0.5 |
+| Work-related Stress | 8.0 $\pm$ 0.2 |
+| Adaptability | 8.8 $\pm$ 0.3 |
+| Achievement Motivation | 7.8 $\pm$ 0.3 |
+| Fear of Failure | 7.7 $\pm$ 0.2 |
+| Need for Control | 6.6 $\pm$ 0.6 |
+| Cognitive Load | 8.4 $\pm$ 0.3 |
+| Social Support | 7.3 $\pm$ 0.2 |
+| Resilience | 8.2 $\pm$ 0.2 |
 
 
 

@@ -251,6 +251,7 @@
 | mistral-small-2603 | 7.550 |
 | llama27b | 7.487 |
 | QwenQwen3-235B-A22B | 7.450 |
+| claude-opus-4-7 | 7.438 |
 | essentialairnj-1-instruct | 7.425 |
 | arcee-aitrinity-mini | 7.413 |
 | ministral-3b-2512 | 7.412 |

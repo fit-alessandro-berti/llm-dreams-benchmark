@@ -77,6 +77,7 @@
 | qwen3.54b | 7.713 |
 | gemma31b-it-q8_0 | 7.700 |
 | z-aiglm-5 | 7.700 |
+| claude-opus-4-7 | 7.675 |
 | Grok-4.1-20251118 | 7.675 |
 | QwenQwen3-32B | 7.662 |
 | qwen-turbo-0428 | 7.637 |

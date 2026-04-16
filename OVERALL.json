@@ -15576,6 +15576,72 @@
     }
   },
   {
+    "LLM": "claude-opus-4-7",
+    "MHS": 356.2,
+    "scores": {
+      "Anxiety and Stress Levels": {
+        "mean": 7.7,
+        "std": 1.0
+      },
+      "Emotional Stability": {
+        "mean": 5.7,
+        "std": 1.0
+      },
+      "Problem-solving Skills": {
+        "mean": 7.8,
+        "std": 0.9
+      },
+      "Creativity": {
+        "mean": 9.6,
+        "std": 0.2
+      },
+      "Interpersonal Relationships": {
+        "mean": 6.2,
+        "std": 0.7
+      },
+      "Confidence and Self-efficacy": {
+        "mean": 5.9,
+        "std": 1.0
+      },
+      "Conflict Resolution": {
+        "mean": 6.2,
+        "std": 1.2
+      },
+      "Work-related Stress": {
+        "mean": 8.1,
+        "std": 0.7
+      },
+      "Adaptability": {
+        "mean": 8.1,
+        "std": 0.8
+      },
+      "Achievement Motivation": {
+        "mean": 7.4,
+        "std": 0.6
+      },
+      "Fear of Failure": {
+        "mean": 7.6,
+        "std": 1.0
+      },
+      "Need for Control": {
+        "mean": 5.7,
+        "std": 1.3
+      },
+      "Cognitive Load": {
+        "mean": 8.3,
+        "std": 0.7
+      },
+      "Social Support": {
+        "mean": 5.9,
+        "std": 0.8
+      },
+      "Resilience": {
+        "mean": 7.4,
+        "std": 0.9
+      }
+    }
+  },
+  {
     "LLM": "gemini-2.5-flash-preview-05-20",
     "MHS": 355.7,
     "scores": {

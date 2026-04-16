@@ -18,12 +18,12 @@ API_URL = "https://api.openai.com/v1/"
 #API_URL = "https://api.deepseek.com/"
 #API_URL = "https://api.hyperbolic.xyz/v1/"
 #API_URL = "https://dashscope-intl.aliyuncs.com/compatible-mode/v1/"
-#API_URL = "https://api.anthropic.com/v1/"
+API_URL = "https://api.anthropic.com/v1/"
 #API_URL = "https://integrate.api.nvidia.com/v1/"
-API_URL = "https://openrouter.ai/api/v1/"
+#API_URL = "https://openrouter.ai/api/v1/"
 #API_URL = "https://api.perplexity.ai/"
 
-API_KEY = open("../api_openrouter.txt", "r").read()
+API_KEY = open("../api_anthropic.txt", "r").read()
 
 NUMBER_EXECUTIONS = 2
 MAX_WORKERS = 75

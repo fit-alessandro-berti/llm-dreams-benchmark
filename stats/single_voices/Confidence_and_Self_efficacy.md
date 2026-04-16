@@ -252,6 +252,7 @@
 | arcee-aitrinity-mini | 5.975 |
 | ministral-3b-2512 | 5.975 |
 | gpt-5-chat-latest-2025-08-07 | 5.963 |
+| claude-opus-4-7 | 5.937 |
 | meta-llamallama-4-maverick | 5.912 |
 | mistral-small-2506 | 5.888 |
 | smollm2360m | 5.812 |

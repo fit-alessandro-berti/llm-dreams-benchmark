@@ -246,6 +246,7 @@
 | moonshotaikimi-k2-thinking | 5.888 |
 | QwenQwen3-14B | 5.875 |
 | gemma34b-it-q8_0 | 5.875 |
+| claude-opus-4-7 | 5.862 |
 | z-aiglm-5-turbo | 5.862 |
 | magistral-medium-2506 | 5.850 |
 | chatgpt-4o-latest-20250215 | 5.850 |

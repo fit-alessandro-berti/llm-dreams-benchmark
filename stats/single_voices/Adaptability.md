@@ -240,6 +240,7 @@
 | meta-llamaLlama-3.3-70B-Instruct | 8.175 |
 | ministral-3b-2512 | 8.162 |
 | tngtechdeepseek-r1t-chimerafree | 8.150 |
+| claude-opus-4-7 | 8.125 |
 | gemini-2.5-flash-preview-05-20 | 8.125 |
 | aion-labsaion-2.0 | 8.100 |
 | z-aiglm-5-turbo | 8.100 |

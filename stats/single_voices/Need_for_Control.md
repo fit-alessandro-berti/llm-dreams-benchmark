@@ -182,6 +182,7 @@
 | o1-mini | 5.750 |
 | open-mistral-7b | 5.750 |
 | baiduernie-4.5-300b-a47b | 5.725 |
+| claude-opus-4-7 | 5.725 |
 | gemma4e2b | 5.725 |
 | gpt-4o-mini-2024-07-18 | 5.725 |
 | gpt-5-chat-latest-2025-08-19 | 5.713 |

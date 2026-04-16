@@ -240,6 +240,7 @@
 | qwen31.7b | 6.237 |
 | qwen3.52b | 6.225 |
 | chatgpt-4o-latest-20250215 | 6.188 |
+| claude-opus-4-7 | 6.188 |
 | meta-llamallama-4-maverick | 6.175 |
 | gemini-2.5-flash-preview-05-20 | 6.138 |
 | Qwen-QwQ-32B | 6.138 |

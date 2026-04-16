@@ -212,6 +212,7 @@
 | gemini-2.0-pro-exp-02-05 | 5.838 |
 | meta-llamaMeta-Llama-3.1-405B-Instruct | 5.800 |
 | moonshotaikimi-k2 | 5.763 |
+| claude-opus-4-7 | 5.738 |
 | claude-3-opus-20240229 | 5.737 |
 | gemini-2.5-flash-preview-05-20 | 5.737 |
 | qwen31.7b | 5.737 |

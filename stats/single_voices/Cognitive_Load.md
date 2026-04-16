@@ -34,6 +34,7 @@
 | aion-labsaion-2.0 | 8.400 |
 | writerpalmyra-x5 | 8.388 |
 | moonshotaikimi-k2.5 | 8.375 |
+| claude-opus-4-7 | 8.350 |
 | gemini-2.5-flash-preview-05-20 | 8.350 |
 | qwen3.54b | 8.350 |
 | chatgpt-4o-latest-20250215 | 8.325 |

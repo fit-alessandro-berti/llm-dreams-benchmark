@@ -44,6 +44,7 @@
 | gemini-2.0-pro-exp-02-05 | 7.575 |
 | gpt-5-chat-latest-2025-08-07 | 7.562 |
 | qwen31.7b | 7.562 |
+| claude-opus-4-7 | 7.550 |
 | smollm2360m | 7.537 |
 | r1-1776 | 7.525 |
 | minimaxminimax-m2-her | 7.525 |

@@ -68,6 +68,7 @@
 | z-aiglm-5 | 9.650 |
 | claude-4-sonnet-20250514 | 9.650 |
 | openaigpt-5.2-codex | 9.638 |
+| claude-opus-4-7 | 9.637 |
 | gemma-3n-e4b-it | 9.637 |
 | Grok-4.1-20251118 | 9.637 |
 | QwenQwen3-32B | 9.637 |

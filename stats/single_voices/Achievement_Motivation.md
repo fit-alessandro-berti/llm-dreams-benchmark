@@ -264,6 +264,7 @@
 | qwenqwen3.5-397b-a17b | 7.450 |
 | qwen34b-instruct-2507-q8_0 | 7.438 |
 | z-aiglm-4.7-flash | 7.438 |
+| claude-opus-4-7 | 7.400 |
 | z-aiglm-5-turbo | 7.363 |
 | moonshotaikimi-k2-thinking | 7.325 |
 | anthropicclaude-opus-4.1 | 7.312 |

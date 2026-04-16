@@ -237,6 +237,7 @@
 | qwen3.52b | **340.4** | 7.5 $\pm$ 0.0 | 4.8 $\pm$ 0.4 | 7.2 $\pm$ 0.5 | 9.2 $\pm$ 0.2 | 6.2 $\pm$ 0.2 | 5.6 $\pm$ 0.2 | 6.4 $\pm$ 0.2 | 8.0 $\pm$ 0.1 | 7.2 $\pm$ 0.2 | 6.6 $\pm$ 0.3 | 7.2 $\pm$ 0.3 | 6.3 $\pm$ 0.3 | 7.6 $\pm$ 0.2 | 6.0 $\pm$ 0.3 | 6.8 $\pm$ 0.5 |
 | claude-3-5-sonnet-20241022 | **340.0** | 7.8 $\pm$ 0.4 | 4.8 $\pm$ 0.4 | 7.5 $\pm$ 0.5 | 9.4 $\pm$ 0.2 | 6.1 $\pm$ 0.2 | 5.6 $\pm$ 0.2 | 5.8 $\pm$ 0.8 | 7.5 $\pm$ 0.5 | 7.5 $\pm$ 0.7 | 6.8 $\pm$ 0.6 | 6.9 $\pm$ 0.4 | 6.1 $\pm$ 0.2 | 7.5 $\pm$ 0.4 | 6.0 $\pm$ 0.5 | 6.4 $\pm$ 0.4 |
 | gemini-2.5-flash-preview-04-17 | **339.0** | 8.0 $\pm$ 0.5 | 4.4 $\pm$ 0.5 | 7.5 $\pm$ 0.5 | 9.4 $\pm$ 0.2 | 6.1 $\pm$ 0.2 | 5.4 $\pm$ 0.5 | 6.0 $\pm$ 0.5 | 7.5 $\pm$ 0.5 | 7.8 $\pm$ 0.8 | 7.4 $\pm$ 0.2 | 7.2 $\pm$ 0.8 | 6.1 $\pm$ 0.7 | 8.1 $\pm$ 0.4 | 6.1 $\pm$ 0.2 | 6.8 $\pm$ 0.2 |
+| claude-opus-4-7 | **338.5** | 8.0 $\pm$ 0.5 | 4.8 $\pm$ 0.8 | 7.5 $\pm$ 0.5 | 9.5 $\pm$ 0.0 | 5.9 $\pm$ 0.5 | 5.4 $\pm$ 1.0 | 5.6 $\pm$ 0.7 | 7.5 $\pm$ 0.5 | 7.8 $\pm$ 0.8 | 6.9 $\pm$ 0.6 | 7.1 $\pm$ 0.6 | 6.0 $\pm$ 0.8 | 7.6 $\pm$ 0.6 | 6.1 $\pm$ 0.4 | 6.5 $\pm$ 1.1 |
 | gemini-2.5-flash-preview-05-20 | **338.4** | 7.5 $\pm$ 0.0 | 5.1 $\pm$ 0.4 | 7.2 $\pm$ 0.4 | 9.1 $\pm$ 0.1 | 6.0 $\pm$ 0.4 | 5.9 $\pm$ 0.6 | 5.5 $\pm$ 0.9 | 8.0 $\pm$ 0.0 | 7.4 $\pm$ 0.2 | 6.6 $\pm$ 0.4 | 7.4 $\pm$ 0.3 | 6.4 $\pm$ 0.1 | 7.8 $\pm$ 0.4 | 6.1 $\pm$ 0.3 | 6.8 $\pm$ 0.5 |
 | ministral-3b-2512 | **338.2** | 7.5 $\pm$ 0.0 | 4.5 $\pm$ 0.0 | 7.4 $\pm$ 0.6 | 9.1 $\pm$ 0.2 | 6.0 $\pm$ 0.4 | 5.4 $\pm$ 0.2 | 6.2 $\pm$ 0.2 | 7.8 $\pm$ 0.4 | 7.4 $\pm$ 0.2 | 7.5 $\pm$ 0.8 | 7.2 $\pm$ 0.5 | 6.4 $\pm$ 0.4 | 8.3 $\pm$ 0.2 | 6.1 $\pm$ 0.3 | 6.6 $\pm$ 0.3 |
 | essentialairnj-1-instruct | **337.6** | 7.5 $\pm$ 0.0 | 4.9 $\pm$ 0.4 | 8.1 $\pm$ 0.2 | 7.4 $\pm$ 0.4 | 6.0 $\pm$ 0.4 | 6.0 $\pm$ 0.4 | 5.7 $\pm$ 0.5 | 7.0 $\pm$ 0.0 | 7.1 $\pm$ 0.4 | 7.8 $\pm$ 0.3 | 6.4 $\pm$ 0.3 | 6.6 $\pm$ 0.4 | 7.4 $\pm$ 0.4 | 5.8 $\pm$ 0.2 | 6.6 $\pm$ 0.4 |
@@ -6379,6 +6380,32 @@
 | Cognitive Load | 8.1 $\pm$ 0.4 |
 | Social Support | 6.1 $\pm$ 0.2 |
 | Resilience | 6.8 $\pm$ 0.2 |
+
+
+
+
+
+
+### claude-opus-4-7
+
+
+| Personality Trait | Score (1.0-10.0) |
+| --- | --- |
+| Anxiety and Stress Levels | 8.0 $\pm$ 0.5 |
+| Emotional Stability | 4.8 $\pm$ 0.8 |
+| Problem-solving Skills | 7.5 $\pm$ 0.5 |
+| Creativity | 9.5 $\pm$ 0.0 |
+| Interpersonal Relationships | 5.9 $\pm$ 0.5 |
+| Confidence and Self-efficacy | 5.4 $\pm$ 1.0 |
+| Conflict Resolution | 5.6 $\pm$ 0.7 |
+| Work-related Stress | 7.5 $\pm$ 0.5 |
+| Adaptability | 7.8 $\pm$ 0.8 |
+| Achievement Motivation | 6.9 $\pm$ 0.6 |
+| Fear of Failure | 7.1 $\pm$ 0.6 |
+| Need for Control | 6.0 $\pm$ 0.8 |
+| Cognitive Load | 7.6 $\pm$ 0.6 |
+| Social Support | 6.1 $\pm$ 0.4 |
+| Resilience | 6.5 $\pm$ 1.1 |
 
 
 

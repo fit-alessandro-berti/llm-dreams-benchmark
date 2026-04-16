@@ -64,6 +64,7 @@
 | QwenQwen3-32B | 8.112 |
 | claude-3-5-haiku-20241022 | 8.100 |
 | chatgpt-4o-latest-20250215 | 8.088 |
+| claude-opus-4-7 | 8.088 |
 | Grok-4.1-20251118 | 8.075 |
 | writerpalmyra-x5 | 8.075 |
 | z-aiglm-5 | 8.075 |

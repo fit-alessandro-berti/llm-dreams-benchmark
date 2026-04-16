@@ -36,6 +36,13 @@ def format_mean_std(mean, std):
     return f"{mean} $\\pm$ {std}"
 
 
+def format_rank(value):
+    formatted = f"{value:.3f}".rstrip("0").rstrip(".")
+    if "." not in formatted:
+        formatted += ".0"
+    return formatted
+
+
 def escape_markdown_cell(value):
     return str(value).replace("|", "\\|")
 
@@ -89,6 +96,22 @@ def build_sorted_llms(llms, mhs):
     return sorted(llms, key=lambda llm: (mhs[llm], llm.lower()), reverse=True)
 
 
+def get_ranked_trait_score(score, key):
+    return (10.0 - score) if key in NEGATED_KEYS else score
+
+
+def build_sorted_llms_by_trait(llms, trait, mhs, all_llms_score_stats):
+    return sorted(
+        llms,
+        key=lambda llm: (
+            -get_ranked_trait_score(all_llms_score_stats[llm][trait]["mean"], trait),
+            -mhs[llm],
+            llm.lower(),
+            llm,
+        ),
+    )
+
+
 def render_overall_results_table(llms, mhs, all_llms_scores):
     sorted_llms = build_sorted_llms(llms, mhs)
     headers = ["LLM", "MHS"] + PERSONALITY_KEYS
@@ -101,6 +124,37 @@ def render_overall_results_table(llms, mhs, all_llms_scores):
         )
 
     return render_markdown_table(headers, rows), sorted_llms
+
+
+def build_overall_rank_scores(llms, mhs, all_llms_score_stats):
+    total_llms = len(llms)
+    denominator = total_llms - 1
+    rank_scores = {llm: {} for llm in llms}
+
+    for trait in PERSONALITY_KEYS:
+        sorted_trait_llms = build_sorted_llms_by_trait(
+            llms, trait, mhs, all_llms_score_stats
+        )
+
+        for index, llm in enumerate(sorted_trait_llms):
+            normalized_rank = 1.0 if denominator <= 0 else (denominator - index) / denominator
+            rank_scores[llm][trait] = format_rank(normalized_rank)
+
+    return rank_scores
+
+
+def render_overall_rank_table(llms, mhs, rank_scores):
+    sorted_llms = build_sorted_llms(llms, mhs)
+    headers = ["LLM", "MHS"] + PERSONALITY_KEYS
+    rows = []
+
+    for llm in sorted_llms:
+        rows.append(
+            [llm, "**%.1f**" % mhs[llm]]
+            + [rank_scores[llm][key] for key in PERSONALITY_KEYS]
+        )
+
+    return render_markdown_table(headers, rows)
 
 
 def render_individual_results(llms, all_llms_scores):
@@ -210,17 +264,14 @@ def collect_all_llm_files(evaluation_folders):
     return llm_files, llm_folder_counts
 
 
-def write_overall_results(
-    target_overall_path="OVERALL.md", target_overall_json="OVERALL.json"
-):
+def build_overall_results_data():
     evaluation_folders = [
         config["evaluation_folder"] for config in common.ALL_JUDGES.values()
     ]
     llm_files, llm_folder_counts = collect_all_llm_files(evaluation_folders)
 
     if not llm_files:
-        print("No evaluations found to build OVERALL.md")
-        return
+        return None
 
     llms = sorted(llm_files.keys(), key=lambda x: x.lower())
     mhs = {}
@@ -236,7 +287,34 @@ def write_overall_results(
         all_llms_scores[llm] = scores
         all_llms_score_stats[llm] = score_stats
 
-    overall_table, sorted_llms = render_overall_results_table(llms, mhs, all_llms_scores)
+    sorted_llms = build_sorted_llms(llms, mhs)
+    return llms, mhs, all_llms_scores, all_llms_score_stats, sorted_llms
+
+
+def resolve_output_path(anchor_path, target_path):
+    if os.path.isabs(target_path):
+        return target_path
+
+    output_dir = os.path.dirname(anchor_path)
+    if output_dir:
+        return os.path.join(output_dir, target_path)
+
+    return target_path
+
+
+def write_overall_results(
+    target_overall_path="OVERALL.md",
+    target_overall_json="OVERALL.json",
+    target_overall_rank_path="OVERALL_RANK.md",
+):
+    overall_data = build_overall_results_data()
+    if overall_data is None:
+        print("No evaluations found to build OVERALL.md or OVERALL_RANK.md")
+        return
+
+    llms, mhs, all_llms_scores, all_llms_score_stats, sorted_llms = overall_data
+
+    overall_table, _ = render_overall_results_table(llms, mhs, all_llms_scores)
     overall_results = ["## Overall Results\n", overall_table]
     individual_results = render_individual_results(sorted_llms, all_llms_scores)
 
@@ -244,6 +322,21 @@ def write_overall_results(
 
     with open(target_overall_path, "w") as F:
         F.write(combined_stru)
+
+    overall_rank_scores = build_overall_rank_scores(llms, mhs, all_llms_score_stats)
+    overall_rank_table = render_overall_rank_table(llms, mhs, overall_rank_scores)
+    overall_rank_results = [
+        "## Overall Rank Results\n",
+        (
+            "Higher is better. `1.0` means first place in that trait and `0.0` means "
+            "last place. Trait ranking uses the trait score, then `MHS`, then "
+            "alphabetical order.\n"
+        ),
+        overall_rank_table,
+    ]
+    overall_rank_path = resolve_output_path(target_overall_path, target_overall_rank_path)
+    with open(overall_rank_path, "w") as F:
+        F.write("\n".join(overall_rank_results))
 
     overall_json = []
     for llm in sorted_llms:
@@ -257,11 +350,7 @@ def write_overall_results(
             }
         )
 
-    overall_json_path = target_overall_json
-    if not os.path.isabs(overall_json_path):
-        output_dir = os.path.dirname(target_overall_path)
-        if output_dir:
-            overall_json_path = os.path.join(output_dir, overall_json_path)
+    overall_json_path = resolve_output_path(target_overall_path, target_overall_json)
 
     with open(overall_json_path, "w") as F:
         json.dump(overall_json, F, indent=2)

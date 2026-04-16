@@ -55,6 +55,7 @@ The judge LLM is asked to produce a JSON, reporting a value from 1.0 (minimum sc
 The following table collect the average results over all the judges LLMs:
 
 * [OVERALL](OVERALL.md)
+* [OVERALL_RANK](OVERALL_RANK.md)
 
 The following tables collect results evaluated by the same judge LLM:
 

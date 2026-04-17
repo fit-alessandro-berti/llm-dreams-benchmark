@@ -74,6 +74,7 @@
 | amazonnova-2-lite-v1 | 8.962 |
 | baiduernie-4.5-300b-a47b | 8.962 |
 | gpt-4.1-mini-2025-04-14 | 8.962 |
+| qwen3.635b-a3b | 8.962 |
 | openaigpt-5.4-pro | 8.950 |
 | qwenqwen3-max-thinking | 8.950 |
 | o1-pro-2024-12-17 | 8.937 |

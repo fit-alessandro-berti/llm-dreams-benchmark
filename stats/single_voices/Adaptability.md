@@ -7,6 +7,7 @@
 | openrouterelephant-alpha | 9.250 |
 | qwen2.5-14b-instruct | 9.250 |
 | granite4small-h | 9.238 |
+| qwen3.635b-a3b | 9.225 |
 | microsoftWizardLM-2-8x22B | 9.213 |
 | deepseekdeepseek-v3.2-exp | 9.175 |
 | gpt-4-turbo-2024-04-09 | 9.175 |

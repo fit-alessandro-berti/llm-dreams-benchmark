@@ -85,6 +85,7 @@
 | liquidlfm-2.5-1.2b-instructfree | 7.838 |
 | xiaomimimo-v2-omni | 7.837 |
 | devstral-small-2505 | 7.825 |
+| qwen3.635b-a3b | 7.825 |
 | baiduernie-4.5-300b-a47b | 7.812 |
 | deepseek-aiDeepSeek-V3 | 7.800 |
 | phi4-reasoning | 7.800 |

@@ -130,6 +130,7 @@
 | googlegemini-3.1-flash-lite-preview | 8.450 |
 | allenaiolmo-3-7b-instruct | 8.438 |
 | bytedance-seedseed-2.0-mini | 8.438 |
+| qwen3.635b-a3b | 8.438 |
 | gemini-2.0-pro-exp-02-05 | 8.425 |
 | nousresearchhermes-4-70b | 8.425 |
 | qwenqwen3-max | 8.425 |

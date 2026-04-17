@@ -217,6 +217,7 @@
 | qwen-turbo-2024-11-01 | 6.063 |
 | nvidianemotron-3-nano-30b-a3bfree | 6.062 |
 | ChatGPT-5.1-Instant-20251113 | 6.050 |
+| qwen3.635b-a3b | 6.025 |
 | nvidiaNVIDIA-Nemotron-3-Super-120B-A12B | 6.013 |
 | openaigpt-5.4-mini | 6.013 |
 | minimaxminimax-m2.7 | 5.988 |

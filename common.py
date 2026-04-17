@@ -1,4 +1,4 @@
-ANSWERING_MODEL_NAME = "claude-opus-4-7"
+ANSWERING_MODEL_NAME = "qwen3.6:35b-a3b"
 EVALUATING_MODEL_NAME = "gpt-5.2"
 
 

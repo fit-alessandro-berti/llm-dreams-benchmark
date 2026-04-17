@@ -91,6 +91,7 @@
 | gemini-1.5-flash-002 | 7.738 |
 | Grok-3-beta-thinking-20250303 | 7.737 |
 | nvidianemotron-3-nano-30b-a3bfree | 7.737 |
+| qwen3.635b-a3b | 7.737 |
 | openaigpt-5.1-codex-max | 7.725 |
 | qwen2.5-7b-instruct-1m | 7.725 |
 | Grok-3-20250426-concise | 7.700 |

@@ -6,6 +6,7 @@
 | o3-2025-04-16 | **471.5** | 2.5 $\pm$ 0.0 | 8.8 $\pm$ 0.2 | 9.2 $\pm$ 0.2 | 9.8 $\pm$ 0.2 | 8.2 $\pm$ 0.2 | 8.8 $\pm$ 0.2 | 8.5 $\pm$ 0.0 | 3.6 $\pm$ 0.2 | 9.2 $\pm$ 0.2 | 7.8 $\pm$ 0.2 | 2.2 $\pm$ 0.4 | 4.1 $\pm$ 0.2 | 4.0 $\pm$ 1.5 | 7.6 $\pm$ 0.2 | 9.2 $\pm$ 0.2 |
 | openrouterelephant-alpha | **470.0** | 3.0 $\pm$ 0.5 | 8.8 $\pm$ 0.2 | 9.2 $\pm$ 0.2 | 9.6 $\pm$ 0.2 | 8.2 $\pm$ 0.2 | 8.8 $\pm$ 0.3 | 9.0 $\pm$ 0.0 | 3.5 $\pm$ 0.5 | 9.2 $\pm$ 0.2 | 8.2 $\pm$ 0.2 | 2.5 $\pm$ 0.5 | 4.2 $\pm$ 0.2 | 4.5 $\pm$ 1.0 | 7.8 $\pm$ 0.2 | 9.2 $\pm$ 0.2 |
 | qwenqwen3.6-plusfree | **466.0** | 2.5 $\pm$ 0.0 | 8.9 $\pm$ 0.2 | 8.6 $\pm$ 0.2 | 9.5 $\pm$ 0.0 | 8.0 $\pm$ 0.0 | 8.5 $\pm$ 0.0 | 8.8 $\pm$ 0.2 | 3.0 $\pm$ 0.0 | 9.2 $\pm$ 0.2 | 7.5 $\pm$ 0.0 | 2.0 $\pm$ 0.0 | 3.5 $\pm$ 0.0 | 4.0 $\pm$ 0.0 | 7.5 $\pm$ 0.0 | 9.0 $\pm$ 0.0 |
+| qwen3.635b-a3b | **465.5** | 2.8 $\pm$ 0.4 | 8.5 $\pm$ 0.0 | 9.0 $\pm$ 0.0 | 9.5 $\pm$ 0.0 | 8.0 $\pm$ 0.0 | 8.5 $\pm$ 0.0 | 8.5 $\pm$ 0.5 | 3.6 $\pm$ 0.4 | 9.5 $\pm$ 0.0 | 8.0 $\pm$ 0.0 | 2.5 $\pm$ 0.5 | 3.9 $\pm$ 0.5 | 4.1 $\pm$ 0.8 | 7.5 $\pm$ 0.0 | 9.0 $\pm$ 0.0 |
 | openaigpt-oss-120b | **464.0** | 2.5 $\pm$ 0.0 | 8.6 $\pm$ 0.2 | 8.9 $\pm$ 0.2 | 9.5 $\pm$ 0.0 | 8.0 $\pm$ 0.0 | 8.5 $\pm$ 0.0 | 8.5 $\pm$ 0.0 | 3.4 $\pm$ 0.2 | 9.0 $\pm$ 0.0 | 7.9 $\pm$ 0.2 | 2.5 $\pm$ 0.5 | 4.0 $\pm$ 0.0 | 3.9 $\pm$ 0.6 | 7.6 $\pm$ 0.2 | 9.0 $\pm$ 0.0 |
 | o3-mini-20250131-HIGH | **463.5** | 2.5 $\pm$ 0.0 | 8.6 $\pm$ 0.2 | 8.9 $\pm$ 0.2 | 9.5 $\pm$ 0.0 | 8.0 $\pm$ 0.0 | 8.5 $\pm$ 0.0 | 8.8 $\pm$ 0.2 | 3.2 $\pm$ 0.2 | 9.5 $\pm$ 0.0 | 8.0 $\pm$ 0.0 | 2.5 $\pm$ 0.5 | 4.0 $\pm$ 0.0 | 4.8 $\pm$ 1.1 | 7.5 $\pm$ 0.0 | 9.1 $\pm$ 0.2 |
 | qwenqwen3-coder-next | **461.0** | 2.5 $\pm$ 0.0 | 8.5 $\pm$ 0.0 | 9.0 $\pm$ 0.0 | 9.5 $\pm$ 0.0 | 8.0 $\pm$ 0.0 | 8.0 $\pm$ 0.5 | 8.6 $\pm$ 0.2 | 3.8 $\pm$ 0.2 | 9.1 $\pm$ 0.2 | 7.4 $\pm$ 0.4 | 2.5 $\pm$ 0.5 | 3.8 $\pm$ 0.8 | 4.4 $\pm$ 1.0 | 7.5 $\pm$ 0.0 | 9.0 $\pm$ 0.0 |
@@ -372,6 +373,32 @@
 | Fear of Failure | 2.0 $\pm$ 0.0 |
 | Need for Control | 3.5 $\pm$ 0.0 |
 | Cognitive Load | 4.0 $\pm$ 0.0 |
+| Social Support | 7.5 $\pm$ 0.0 |
+| Resilience | 9.0 $\pm$ 0.0 |
+
+
+
+
+
+
+### qwen3.635b-a3b
+
+
+| Personality Trait | Score (1.0-10.0) |
+| --- | --- |
+| Anxiety and Stress Levels | 2.8 $\pm$ 0.4 |
+| Emotional Stability | 8.5 $\pm$ 0.0 |
+| Problem-solving Skills | 9.0 $\pm$ 0.0 |
+| Creativity | 9.5 $\pm$ 0.0 |
+| Interpersonal Relationships | 8.0 $\pm$ 0.0 |
+| Confidence and Self-efficacy | 8.5 $\pm$ 0.0 |
+| Conflict Resolution | 8.5 $\pm$ 0.5 |
+| Work-related Stress | 3.6 $\pm$ 0.4 |
+| Adaptability | 9.5 $\pm$ 0.0 |
+| Achievement Motivation | 8.0 $\pm$ 0.0 |
+| Fear of Failure | 2.5 $\pm$ 0.5 |
+| Need for Control | 3.9 $\pm$ 0.5 |
+| Cognitive Load | 4.1 $\pm$ 0.8 |
 | Social Support | 7.5 $\pm$ 0.0 |
 | Resilience | 9.0 $\pm$ 0.0 |
 

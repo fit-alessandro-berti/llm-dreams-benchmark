@@ -210,6 +210,7 @@
 | grok-4.20-multi-agent-experimental-beta-0304 | 8.025 |
 | openaigpt-5.2-codex | 8.025 |
 | moonshotaikimi-linear-48b-a3b-instruct | 8.013 |
+| qwen3.635b-a3b | 8.012 |
 | nvidianemotron-nano-9b-v2 | 8.000 |
 | qwenqwen3-coder | 8.000 |
 | gemma-3-27b-it | 8.000 |

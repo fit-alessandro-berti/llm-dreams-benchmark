@@ -224,6 +224,7 @@
 | nvidianemotron-3-nano-30b-a3bfree | 4.850 |
 | Grok-3-20250426-concise | 4.800 |
 | claude-haiku-4-5-20251001 | 4.788 |
+| qwen3.635b-a3b | 4.713 |
 | liquidlfm-2.2-6b | 4.688 |
 | o1-preview-2024-09-12 | 4.638 |
 | openaigpt-5.4-mini | 4.638 |

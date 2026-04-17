@@ -239,6 +239,7 @@
 | codestral-2501 | 7.037 |
 | mistral-large-2407 | 7.037 |
 | deepseekdeepseek-v3.2 | 7.025 |
+| qwen3.635b-a3b | 7.013 |
 | xiaomimimo-v2-omni | 7.013 |
 | ChatGPT-5.1-Instant-20251113 | 7.012 |
 | ai21jamba-mini-1.7 | 6.975 |

@@ -111,6 +111,7 @@
 | deepseek-aiDeepSeek-R1-Zero | 7.500 |
 | o1-pro-2024-12-05 | 7.500 |
 | qwenqwen3-max-thinking | 7.500 |
+| qwen3.635b-a3b | 7.463 |
 | gemini-2.5-pro-preview-05-06 | 7.438 |
 | ai21jamba-large-1.7 | 7.425 |
 | claude-3-7-sonnet-20250219 | 7.425 |

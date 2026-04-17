@@ -270,6 +270,7 @@
 | qwen34b-instruct-2507-q8_0 | 4.513 |
 | anthropicclaude-sonnet-4.6 | 4.463 |
 | claude-haiku-4-5-20251001 | 4.463 |
+| qwen3.635b-a3b | 4.450 |
 | qwenqwen3-coder-next | 4.138 |
 | qwenqwen3.5-122b-a10b | 4.088 |
 | qwenqwen3.6-plusfree | 3.388 |

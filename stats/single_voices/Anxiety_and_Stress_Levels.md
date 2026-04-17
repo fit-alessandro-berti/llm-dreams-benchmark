@@ -225,6 +225,7 @@
 | mistral-small-2501 | 5.637 |
 | qwen34b-instruct-2507-q8_0 | 5.575 |
 | openaigpt-5.4-mini | 5.537 |
+| qwen3.635b-a3b | 5.413 |
 | qwen3.59b | 5.400 |
 | qwen2.5-7b-instruct | 5.375 |
 | microsoftWizardLM-2-8x22B | 5.300 |

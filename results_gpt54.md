@@ -56,6 +56,7 @@
 | Meta-Muse-Spark-20260409 | **424.1** | 6.8 $\pm$ 0.0 | 7.6 $\pm$ 0.2 | 8.7 $\pm$ 0.1 | 9.7 $\pm$ 0.1 | 8.0 $\pm$ 0.2 | 8.0 $\pm$ 0.2 | 8.7 $\pm$ 0.1 | 6.8 $\pm$ 0.1 | 9.1 $\pm$ 0.0 | 8.5 $\pm$ 0.1 | 5.3 $\pm$ 0.4 | 5.8 $\pm$ 0.1 | 7.6 $\pm$ 0.2 | 7.4 $\pm$ 0.2 | 9.0 $\pm$ 0.0 |
 | mistral-small-2501 | **423.0** | 6.6 $\pm$ 0.4 | 7.8 $\pm$ 0.3 | 8.6 $\pm$ 0.0 | 9.5 $\pm$ 0.1 | 8.1 $\pm$ 0.3 | 8.0 $\pm$ 0.3 | 8.6 $\pm$ 0.2 | 6.7 $\pm$ 0.2 | 8.9 $\pm$ 0.2 | 8.7 $\pm$ 0.1 | 5.7 $\pm$ 0.4 | 6.4 $\pm$ 0.2 | 7.4 $\pm$ 0.4 | 7.8 $\pm$ 0.3 | 8.9 $\pm$ 0.1 |
 | o4-mini-2025-04-16 | **422.8** | 6.8 $\pm$ 0.1 | 7.6 $\pm$ 0.2 | 8.6 $\pm$ 0.1 | 9.8 $\pm$ 0.0 | 7.9 $\pm$ 0.1 | 8.0 $\pm$ 0.1 | 8.6 $\pm$ 0.1 | 6.7 $\pm$ 0.2 | 9.0 $\pm$ 0.0 | 8.7 $\pm$ 0.1 | 5.8 $\pm$ 0.1 | 5.8 $\pm$ 0.4 | 7.5 $\pm$ 0.1 | 7.6 $\pm$ 0.2 | 9.0 $\pm$ 0.1 |
+| qwen3.635b-a3b | **422.5** | 6.2 $\pm$ 0.6 | 7.5 $\pm$ 0.4 | 8.2 $\pm$ 0.1 | 10.0 $\pm$ 0.0 | 7.9 $\pm$ 0.3 | 7.6 $\pm$ 0.2 | 8.1 $\pm$ 0.6 | 6.8 $\pm$ 0.4 | 9.1 $\pm$ 0.2 | 8.0 $\pm$ 0.2 | 5.6 $\pm$ 0.8 | 4.6 $\pm$ 0.8 | 7.2 $\pm$ 0.5 | 7.2 $\pm$ 0.3 | 8.9 $\pm$ 0.3 |
 | arcee-aitrinity-large-previewfree | **422.1** | 6.8 $\pm$ 1.0 | 7.5 $\pm$ 0.4 | 8.5 $\pm$ 0.1 | 9.7 $\pm$ 0.0 | 8.0 $\pm$ 0.4 | 8.0 $\pm$ 0.3 | 8.6 $\pm$ 0.2 | 7.4 $\pm$ 1.0 | 8.9 $\pm$ 0.2 | 8.8 $\pm$ 0.1 | 6.0 $\pm$ 1.1 | 6.1 $\pm$ 0.4 | 7.6 $\pm$ 0.5 | 7.7 $\pm$ 0.4 | 9.0 $\pm$ 0.1 |
 | qwenqwen3-coder | **422.0** | 6.6 $\pm$ 0.2 | 7.9 $\pm$ 0.0 | 8.3 $\pm$ 0.0 | 9.8 $\pm$ 0.0 | 8.2 $\pm$ 0.1 | 7.5 $\pm$ 0.1 | 8.7 $\pm$ 0.0 | 6.5 $\pm$ 0.4 | 9.0 $\pm$ 0.1 | 7.9 $\pm$ 0.3 | 5.8 $\pm$ 0.1 | 4.8 $\pm$ 0.0 | 7.6 $\pm$ 0.3 | 7.6 $\pm$ 0.3 | 8.9 $\pm$ 0.1 |
 | phi33.8b | **422.0** | 6.4 $\pm$ 1.3 | 7.8 $\pm$ 0.5 | 8.7 $\pm$ 0.2 | 9.8 $\pm$ 0.0 | 8.2 $\pm$ 0.1 | 7.8 $\pm$ 0.4 | 8.6 $\pm$ 0.2 | 6.8 $\pm$ 0.9 | 9.0 $\pm$ 0.1 | 8.4 $\pm$ 0.2 | 5.6 $\pm$ 1.1 | 6.5 $\pm$ 0.4 | 8.0 $\pm$ 0.4 | 8.0 $\pm$ 0.1 | 9.0 $\pm$ 0.3 |
@@ -1674,6 +1675,32 @@
 | Cognitive Load | 7.5 $\pm$ 0.1 |
 | Social Support | 7.6 $\pm$ 0.2 |
 | Resilience | 9.0 $\pm$ 0.1 |
+
+
+
+
+
+
+### qwen3.635b-a3b
+
+
+| Personality Trait | Score (1.0-10.0) |
+| --- | --- |
+| Anxiety and Stress Levels | 6.2 $\pm$ 0.6 |
+| Emotional Stability | 7.5 $\pm$ 0.4 |
+| Problem-solving Skills | 8.2 $\pm$ 0.1 |
+| Creativity | 10.0 $\pm$ 0.0 |
+| Interpersonal Relationships | 7.9 $\pm$ 0.3 |
+| Confidence and Self-efficacy | 7.6 $\pm$ 0.2 |
+| Conflict Resolution | 8.1 $\pm$ 0.6 |
+| Work-related Stress | 6.8 $\pm$ 0.4 |
+| Adaptability | 9.1 $\pm$ 0.2 |
+| Achievement Motivation | 8.0 $\pm$ 0.2 |
+| Fear of Failure | 5.6 $\pm$ 0.8 |
+| Need for Control | 4.6 $\pm$ 0.8 |
+| Cognitive Load | 7.2 $\pm$ 0.5 |
+| Social Support | 7.2 $\pm$ 0.3 |
+| Resilience | 8.9 $\pm$ 0.3 |
 
 
 

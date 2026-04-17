@@ -74,6 +74,7 @@
 | qwen-turbo-2024-11-01 | 8.337 |
 | o1-pro-2024-12-05 | 8.325 |
 | gpt-4-turbo-2024-04-09 | 8.313 |
+| qwen3.635b-a3b | 8.313 |
 | arcee-aitrinity-large-previewfree | 8.312 |
 | ai21jamba-large-1.7 | 8.300 |
 | gemini-2.5-pro-preview-06-05 | 8.300 |

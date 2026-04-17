@@ -9,6 +9,7 @@
 | gemma-4-26b-a4b-it | 9.800 |
 | googlegemini-3.1-pro-preview | 9.800 |
 | moonshotaikimi-k2 | 9.787 |
+| qwen3.635b-a3b | 9.787 |
 | anthropicclaude-opus-4.1 | 9.762 |
 | gemini-3-flash-preview | 9.762 |
 | openrouterelephant-alpha | 9.762 |

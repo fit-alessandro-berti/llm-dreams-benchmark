@@ -30,6 +30,7 @@
 | open-mixtral-8x7b | 9.100 |
 | qwenqwen3-coder-next | 9.088 |
 | grok-4.20-experimental-beta-0304-reasoning | 9.088 |
+| Grok-4.30-20260420 | 9.088 |
 | gpt-5-nano-2025-08-07 | 9.075 |
 | falcon310b-instruct-q8_0 | 9.075 |
 | gpt-4o-2024-05-13 | 9.075 |

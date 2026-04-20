@@ -51,6 +51,7 @@
 | Grok-3-20250426-concise | 8.675 |
 | o4-mini-2025-04-16 | 8.675 |
 | gpt-4-turbo-2024-04-09 | 8.675 |
+| Grok-4.30-20260420 | 8.662 |
 | liquidlfm-2.2-6b | 8.662 |
 | mistral-large-2411 | 8.662 |
 | qwen2.5-7b-instruct-1m | 8.662 |

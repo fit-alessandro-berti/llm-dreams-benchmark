@@ -67,6 +67,7 @@
 | gpt-4o-2024-08-06 | 8.712 |
 | nvidianemotron-3-nano-30b-a3bfree | 8.712 |
 | granite4micro | 8.700 |
+| Grok-4.30-20260420 | 8.700 |
 | nvidiaLlama-3.1-Nemotron-70B-Instruct | 8.700 |
 | o1-2024-12-05 | 8.700 |
 | baiduernie-4.5-21b-a3b | 8.688 |

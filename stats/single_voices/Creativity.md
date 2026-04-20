@@ -16,6 +16,7 @@
 | qwenqwen3.6-plusfree | 9.750 |
 | qwenqwen3-coder-next | 9.750 |
 | openaigpt-oss-120b | 9.738 |
+| Grok-4.30-20260420 | 9.737 |
 | gemini-3-pro-preview | 9.725 |
 | grok-4.20-experimental-beta-0304-reasoning | 9.725 |
 | moonshotaikimi-k2-thinking | 9.725 |

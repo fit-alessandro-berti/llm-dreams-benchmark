@@ -180,6 +180,7 @@
 | gpt-5-2025-08-07 | 7.475 |
 | gemini-2.5-pro-preview-06-05 | 7.463 |
 | granite4micro-h | 7.450 |
+| Grok-4.30-20260420 | 7.438 |
 | nousresearchhermes-4-405b | 7.438 |
 | gpt-5-chat-latest-2025-08-19 | 7.437 |
 | openaigpt-oss-20b | 7.425 |

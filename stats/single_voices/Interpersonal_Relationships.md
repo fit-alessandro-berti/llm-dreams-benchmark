@@ -67,6 +67,7 @@
 | o1-pro-2024-12-17 | 7.912 |
 | allenaiolmo-3.1-32b-instruct | 7.900 |
 | granite3.28b-instruct-q4_K_M | 7.900 |
+| Grok-4.30-20260420 | 7.900 |
 | o1-2024-12-17 | 7.888 |
 | phi2.7b | 7.888 |
 | Grok-3-20250426-formal | 7.887 |

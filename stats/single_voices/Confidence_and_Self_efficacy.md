@@ -37,6 +37,7 @@
 | nousresearchhermes-4-405b | 8.262 |
 | gpt-4-turbo-2024-04-09 | 8.250 |
 | o1-preview-2024-09-12 | 8.250 |
+| Grok-4.30-20260420 | 8.238 |
 | qwen2.5-32b-instruct | 8.238 |
 | o4-mini-2025-04-16 | 8.225 |
 | deepseekdeepseek-v3.2 | 8.188 |

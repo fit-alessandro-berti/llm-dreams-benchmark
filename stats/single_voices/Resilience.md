@@ -12,6 +12,7 @@
 | open-mixtral-8x22b | 9.213 |
 | microsoftWizardLM-2-8x22B | 9.200 |
 | inceptionmercury | 9.200 |
+| Grok-4.30-20260420 | 9.188 |
 | grok-2-1212 | 9.175 |
 | liquidlfm2-8b-a1b | 9.175 |
 | gpt-4.5-preview | 9.162 |

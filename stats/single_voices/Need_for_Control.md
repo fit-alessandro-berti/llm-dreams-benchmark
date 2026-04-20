@@ -243,6 +243,7 @@
 | qwenqwen3.5-plus-02-15 | 5.138 |
 | gpt-5-mini-2025-08-07 | 5.125 |
 | phi4-reasoningplus | 5.125 |
+| Grok-4.30-20260420 | 5.100 |
 | qwenqwen3-coder | 5.088 |
 | anthropicclaude-opus-4.6 | 5.062 |
 | gemma-4-26b-a4b-it | 5.062 |

@@ -52,6 +52,7 @@
 | falcon37b-instruct-q8_0 | 7.925 |
 | liquidlfm-2.2-6b | 7.913 |
 | open-mistral-nemo | 7.913 |
+| Grok-4.30-20260420 | 7.912 |
 | falcon310b-instruct-q8_0 | 7.900 |
 | arcee-aitrinity-large-previewfree | 7.887 |
 | gpt-4-turbo-2024-04-09 | 7.862 |

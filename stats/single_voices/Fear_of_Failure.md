@@ -221,6 +221,7 @@
 | mistral-small-2409 | 4.913 |
 | Meta-Muse-Spark-20260409 | 4.912 |
 | falcon310b-instruct-q8_0 | 4.863 |
+| Grok-4.30-20260420 | 4.863 |
 | nvidianemotron-3-nano-30b-a3bfree | 4.850 |
 | Grok-3-20250426-concise | 4.800 |
 | claude-haiku-4-5-20251001 | 4.788 |

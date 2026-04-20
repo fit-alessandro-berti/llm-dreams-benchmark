@@ -35,6 +35,7 @@
 | grok-2-1212 | 8.550 |
 | gpt-5-pro-2025-10-06 | 8.538 |
 | codex-mini-latest | 8.525 |
+| Grok-4.30-20260420 | 8.500 |
 | o4-mini-2025-04-16 | 8.500 |
 | open-mistral-7b | 8.500 |
 | qwen2.5-32b-instruct | 8.488 |

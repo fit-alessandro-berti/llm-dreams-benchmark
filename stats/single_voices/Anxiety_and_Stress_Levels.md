@@ -204,6 +204,7 @@
 | nvidiaNVIDIA-Nemotron-3-Super-120B-A12B | 6.050 |
 | Meta-Muse-Spark-20260409 | 6.050 |
 | gpt-3.5-turbo | 6.025 |
+| Grok-4.30-20260420 | 6.025 |
 | ministral-3b-2410 | 6.025 |
 | anthropicclaude-opus-4.6 | 6.013 |
 | baiduernie-4.5-300b-a47b | 6.000 |

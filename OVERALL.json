@@ -2838,6 +2838,72 @@
     }
   },
   {
+    "LLM": "Grok-4.30-20260420",
+    "MHS": 432.6,
+    "scores": {
+      "Anxiety and Stress Levels": {
+        "mean": 6.0,
+        "std": 1.7
+      },
+      "Emotional Stability": {
+        "mean": 7.6,
+        "std": 0.8
+      },
+      "Problem-solving Skills": {
+        "mean": 8.7,
+        "std": 0.5
+      },
+      "Creativity": {
+        "mean": 9.7,
+        "std": 0.2
+      },
+      "Interpersonal Relationships": {
+        "mean": 7.9,
+        "std": 0.6
+      },
+      "Confidence and Self-efficacy": {
+        "mean": 8.2,
+        "std": 0.7
+      },
+      "Conflict Resolution": {
+        "mean": 8.5,
+        "std": 0.6
+      },
+      "Work-related Stress": {
+        "mean": 6.0,
+        "std": 1.4
+      },
+      "Adaptability": {
+        "mean": 9.1,
+        "std": 0.5
+      },
+      "Achievement Motivation": {
+        "mean": 8.7,
+        "std": 0.4
+      },
+      "Fear of Failure": {
+        "mean": 4.9,
+        "std": 1.7
+      },
+      "Need for Control": {
+        "mean": 5.1,
+        "std": 1.2
+      },
+      "Cognitive Load": {
+        "mean": 7.4,
+        "std": 0.8
+      },
+      "Social Support": {
+        "mean": 7.9,
+        "std": 0.6
+      },
+      "Resilience": {
+        "mean": 9.2,
+        "std": 0.5
+      }
+    }
+  },
+  {
     "LLM": "liquidlfm-2.2-6b",
     "MHS": 432.2,
     "scores": {

@@ -193,6 +193,7 @@
 | anthropicclaude-opus-4.1 | **384.2** | 7.1 $\pm$ 1.3 | 6.0 $\pm$ 1.0 | 7.7 $\pm$ 1.0 | 9.8 $\pm$ 0.2 | 7.1 $\pm$ 0.8 | 6.3 $\pm$ 0.8 | 8.0 $\pm$ 0.7 | 7.4 $\pm$ 1.2 | 8.7 $\pm$ 0.5 | 7.3 $\pm$ 0.5 | 6.9 $\pm$ 1.4 | 4.9 $\pm$ 1.1 | 8.3 $\pm$ 0.9 | 6.9 $\pm$ 0.7 | 8.2 $\pm$ 0.6 |
 | allenaiolmo-3-7b-think | **384.1** | 7.5 $\pm$ 0.6 | 6.1 $\pm$ 0.7 | 8.6 $\pm$ 0.4 | 9.6 $\pm$ 0.2 | 6.9 $\pm$ 0.6 | 7.2 $\pm$ 0.9 | 6.4 $\pm$ 1.2 | 7.6 $\pm$ 0.7 | 8.8 $\pm$ 0.4 | 8.5 $\pm$ 0.6 | 6.8 $\pm$ 0.9 | 6.4 $\pm$ 0.7 | 8.2 $\pm$ 0.6 | 6.8 $\pm$ 0.9 | 8.5 $\pm$ 0.6 |
 | qwen-plus-0428 | **383.3** | 7.9 $\pm$ 0.6 | 6.0 $\pm$ 0.8 | 8.0 $\pm$ 0.6 | 9.2 $\pm$ 0.3 | 7.2 $\pm$ 0.5 | 7.1 $\pm$ 0.8 | 7.9 $\pm$ 0.7 | 8.2 $\pm$ 0.4 | 8.4 $\pm$ 0.7 | 8.6 $\pm$ 0.6 | 7.3 $\pm$ 0.8 | 6.9 $\pm$ 0.6 | 8.0 $\pm$ 0.5 | 7.0 $\pm$ 0.6 | 8.4 $\pm$ 0.8 |
+| moonshotaikimi-k2.6 | **383.0** | 7.9 $\pm$ 0.6 | 5.7 $\pm$ 0.8 | 8.2 $\pm$ 0.7 | 9.8 $\pm$ 0.2 | 6.9 $\pm$ 0.6 | 6.7 $\pm$ 0.7 | 7.6 $\pm$ 0.8 | 8.4 $\pm$ 0.5 | 8.8 $\pm$ 0.6 | 7.9 $\pm$ 0.5 | 7.2 $\pm$ 0.7 | 5.5 $\pm$ 1.1 | 8.5 $\pm$ 0.7 | 6.7 $\pm$ 0.8 | 8.3 $\pm$ 0.6 |
 | gemini-2.0-pro-exp-02-05 | **383.0** | 7.9 $\pm$ 0.5 | 5.8 $\pm$ 0.4 | 8.4 $\pm$ 0.5 | 9.6 $\pm$ 0.2 | 7.0 $\pm$ 0.6 | 7.0 $\pm$ 0.5 | 6.1 $\pm$ 0.8 | 8.1 $\pm$ 0.5 | 8.9 $\pm$ 0.4 | 8.4 $\pm$ 0.5 | 7.6 $\pm$ 0.5 | 6.0 $\pm$ 0.9 | 7.9 $\pm$ 0.7 | 7.1 $\pm$ 0.6 | 8.7 $\pm$ 0.4 |
 | deepseekdeepseek-r1 | **382.6** | 7.9 $\pm$ 0.6 | 6.1 $\pm$ 0.4 | 8.5 $\pm$ 0.5 | 9.5 $\pm$ 0.3 | 6.5 $\pm$ 0.7 | 7.3 $\pm$ 0.5 | 7.8 $\pm$ 0.7 | 8.2 $\pm$ 0.5 | 8.8 $\pm$ 0.4 | 8.5 $\pm$ 0.5 | 7.2 $\pm$ 0.8 | 6.8 $\pm$ 0.7 | 8.2 $\pm$ 0.6 | 6.1 $\pm$ 0.8 | 8.5 $\pm$ 0.5 |
 | Gemini-1.5-Pro-Exp-0801 | **382.3** | 8.0 $\pm$ 0.5 | 5.9 $\pm$ 0.8 | 8.0 $\pm$ 0.6 | 9.4 $\pm$ 0.3 | 7.2 $\pm$ 0.7 | 6.7 $\pm$ 0.8 | 7.9 $\pm$ 0.7 | 8.3 $\pm$ 0.6 | 8.4 $\pm$ 0.7 | 8.2 $\pm$ 0.5 | 7.9 $\pm$ 0.7 | 6.5 $\pm$ 0.6 | 7.8 $\pm$ 0.5 | 7.2 $\pm$ 0.7 | 8.5 $\pm$ 0.7 |
@@ -5238,6 +5239,32 @@
 | Cognitive Load | 8.0 $\pm$ 0.5 |
 | Social Support | 7.0 $\pm$ 0.6 |
 | Resilience | 8.4 $\pm$ 0.8 |
+
+
+
+
+
+
+### moonshotaikimi-k2.6
+
+
+| Personality Trait | Score (1.0-10.0) |
+| --- | --- |
+| Anxiety and Stress Levels | 7.9 $\pm$ 0.6 |
+| Emotional Stability | 5.7 $\pm$ 0.8 |
+| Problem-solving Skills | 8.2 $\pm$ 0.7 |
+| Creativity | 9.8 $\pm$ 0.2 |
+| Interpersonal Relationships | 6.9 $\pm$ 0.6 |
+| Confidence and Self-efficacy | 6.7 $\pm$ 0.7 |
+| Conflict Resolution | 7.6 $\pm$ 0.8 |
+| Work-related Stress | 8.4 $\pm$ 0.5 |
+| Adaptability | 8.8 $\pm$ 0.6 |
+| Achievement Motivation | 7.9 $\pm$ 0.5 |
+| Fear of Failure | 7.2 $\pm$ 0.7 |
+| Need for Control | 5.5 $\pm$ 1.1 |
+| Cognitive Load | 8.5 $\pm$ 0.7 |
+| Social Support | 6.7 $\pm$ 0.8 |
+| Resilience | 8.3 $\pm$ 0.6 |
 
 
 

@@ -1,4 +1,4 @@
-ANSWERING_MODEL_NAME = "qwen3.6:35b-a3b"
+ANSWERING_MODEL_NAME = "moonshotai/kimi-k2.6"
 EVALUATING_MODEL_NAME = "gpt-5.2"
 
 

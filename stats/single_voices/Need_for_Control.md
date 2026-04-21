@@ -207,6 +207,7 @@
 | gemini-2.5-flash-lite-preview-09-2025 | 5.550 |
 | liquidlfm-2.2-6b | 5.550 |
 | gemini-1.5-flash-002 | 5.538 |
+| moonshotaikimi-k2.6 | 5.538 |
 | gpt-5-2025-08-07 | 5.537 |
 | gemini-3-flash-preview | 5.525 |
 | googlegemini-3.1-pro-preview | 5.525 |

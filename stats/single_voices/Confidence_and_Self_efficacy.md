@@ -213,6 +213,7 @@
 | tngtechdeepseek-r1t-chimerafree | 6.700 |
 | moonshotaikimi-k2 | 6.700 |
 | claude-3-opus-20240229 | 6.675 |
+| moonshotaikimi-k2.6 | 6.662 |
 | claude-3-5-sonnet-20241022 | 6.638 |
 | openaigpt-5.3-chat | 6.638 |
 | meta-llamaMeta-Llama-3.1-70B-Instruct | 6.625 |

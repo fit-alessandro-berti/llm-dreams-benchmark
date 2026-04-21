@@ -73,6 +73,7 @@
 | moonshotaikimi-k2 | 7.250 |
 | DeepSeek-V3-0324 | 7.225 |
 | openaigpt-5.3-chat | 7.213 |
+| moonshotaikimi-k2.6 | 7.200 |
 | nvidiallama-3.1-nemotron-nano-8b-v1 | 7.188 |
 | deepseekdeepseek-r1 | 7.163 |
 | mistral-medium-2505 | 7.162 |

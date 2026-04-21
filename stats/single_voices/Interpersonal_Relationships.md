@@ -195,6 +195,7 @@
 | gpt-5.2-2025-12-11 | 6.888 |
 | Gpt-5.1-Pro-20251120 | 6.875 |
 | mistral-medium-2505 | 6.875 |
+| moonshotaikimi-k2.6 | 6.875 |
 | x-aigrok-code-fast-1 | 6.875 |
 | allenaiolmo-3-7b-think | 6.862 |
 | claude-4-opus-20250514 | 6.850 |

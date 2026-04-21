@@ -224,6 +224,7 @@
 | gemma4e2b | 5.675 |
 | chatgpt-4o-latest-2025-01-29 | 5.662 |
 | grok-3-mini-beta | 5.662 |
+| moonshotaikimi-k2.6 | 5.662 |
 | meta-llamallama-4-scout | 5.625 |
 | ministral-8b-2512 | 5.588 |
 | meta-llamaLlama-3.3-70B-Instruct | 5.575 |

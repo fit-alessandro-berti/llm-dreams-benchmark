@@ -21,6 +21,7 @@
 | gemini-3-pro-preview | 8.537 |
 | gemma4e4b | 8.537 |
 | mistral-large-2512 | 8.525 |
+| moonshotaikimi-k2.6 | 8.500 |
 | gemma4e2b | 8.488 |
 | mistral-small-2603 | 8.463 |
 | QwenQwen3-30B-A3B | 8.462 |

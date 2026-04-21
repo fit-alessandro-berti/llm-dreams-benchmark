@@ -172,6 +172,7 @@
 | magistral-small-2506 | **406.7** | 5.8 $\pm$ 1.3 | 7.0 $\pm$ 0.6 | 8.5 $\pm$ 0.0 | 9.1 $\pm$ 0.2 | 7.1 $\pm$ 0.2 | 6.6 $\pm$ 0.1 | 7.4 $\pm$ 0.1 | 6.7 $\pm$ 1.2 | 8.3 $\pm$ 0.3 | 7.9 $\pm$ 0.2 | 5.2 $\pm$ 0.9 | 5.1 $\pm$ 0.7 | 6.6 $\pm$ 0.6 | 7.6 $\pm$ 0.2 | 8.2 $\pm$ 0.2 |
 | ai21jamba-large-1.7 | **406.5** | 6.0 $\pm$ 1.5 | 7.0 $\pm$ 1.0 | 8.6 $\pm$ 0.2 | 9.1 $\pm$ 0.2 | 7.5 $\pm$ 0.6 | 6.8 $\pm$ 0.9 | 8.1 $\pm$ 0.6 | 6.8 $\pm$ 1.2 | 8.5 $\pm$ 0.4 | 8.2 $\pm$ 0.2 | 5.6 $\pm$ 1.6 | 6.1 $\pm$ 0.4 | 6.9 $\pm$ 0.5 | 7.4 $\pm$ 0.2 | 8.2 $\pm$ 0.2 |
 | x-aigrok-code-fast-1 | **406.0** | 6.8 $\pm$ 0.4 | 6.5 $\pm$ 0.5 | 8.5 $\pm$ 0.0 | 9.5 $\pm$ 0.0 | 7.2 $\pm$ 0.2 | 7.2 $\pm$ 0.2 | 7.4 $\pm$ 0.6 | 7.6 $\pm$ 0.2 | 9.0 $\pm$ 0.0 | 8.5 $\pm$ 0.0 | 5.9 $\pm$ 0.4 | 5.8 $\pm$ 0.2 | 7.4 $\pm$ 0.4 | 7.2 $\pm$ 0.2 | 8.5 $\pm$ 0.0 |
+| moonshotaikimi-k2.6 | **405.0** | 7.0 $\pm$ 0.5 | 6.5 $\pm$ 0.5 | 8.5 $\pm$ 0.0 | 9.5 $\pm$ 0.0 | 7.2 $\pm$ 0.2 | 6.8 $\pm$ 0.2 | 7.9 $\pm$ 0.2 | 7.8 $\pm$ 0.2 | 9.0 $\pm$ 0.0 | 7.9 $\pm$ 0.2 | 6.0 $\pm$ 0.5 | 4.9 $\pm$ 0.6 | 7.8 $\pm$ 0.8 | 7.6 $\pm$ 0.2 | 8.2 $\pm$ 0.2 |
 | gpt-4o-mini-2024-11-05 | **405.0** | 6.5 $\pm$ 0.0 | 7.0 $\pm$ 0.0 | 8.5 $\pm$ 0.0 | 9.0 $\pm$ 0.0 | 6.8 $\pm$ 0.8 | 7.2 $\pm$ 0.2 | 8.0 $\pm$ 0.0 | 7.5 $\pm$ 0.0 | 8.5 $\pm$ 0.0 | 8.0 $\pm$ 0.0 | 5.9 $\pm$ 0.2 | 5.6 $\pm$ 0.2 | 7.0 $\pm$ 0.0 | 7.4 $\pm$ 0.4 | 8.4 $\pm$ 0.2 |
 | gemma4e2b | **405.0** | 5.5 $\pm$ 2.0 | 7.0 $\pm$ 1.0 | 8.0 $\pm$ 0.5 | 9.5 $\pm$ 0.0 | 7.0 $\pm$ 0.0 | 6.5 $\pm$ 0.0 | 8.2 $\pm$ 0.2 | 6.0 $\pm$ 2.0 | 8.8 $\pm$ 0.2 | 7.5 $\pm$ 0.5 | 5.8 $\pm$ 1.2 | 4.5 $\pm$ 1.5 | 7.2 $\pm$ 1.2 | 7.5 $\pm$ 0.0 | 8.2 $\pm$ 0.2 |
 | chatgpt-4o-latest-2024-11-20 | **403.5** | 6.2 $\pm$ 1.1 | 6.9 $\pm$ 0.5 | 8.5 $\pm$ 0.0 | 9.2 $\pm$ 0.2 | 7.1 $\pm$ 0.4 | 6.9 $\pm$ 0.2 | 7.9 $\pm$ 0.2 | 7.1 $\pm$ 1.0 | 8.8 $\pm$ 0.2 | 8.0 $\pm$ 0.0 | 5.5 $\pm$ 1.1 | 5.9 $\pm$ 0.5 | 7.1 $\pm$ 0.7 | 6.9 $\pm$ 0.6 | 8.4 $\pm$ 0.2 |
@@ -4692,6 +4693,32 @@
 | Cognitive Load | 7.4 $\pm$ 0.4 |
 | Social Support | 7.2 $\pm$ 0.2 |
 | Resilience | 8.5 $\pm$ 0.0 |
+
+
+
+
+
+
+### moonshotaikimi-k2.6
+
+
+| Personality Trait | Score (1.0-10.0) |
+| --- | --- |
+| Anxiety and Stress Levels | 7.0 $\pm$ 0.5 |
+| Emotional Stability | 6.5 $\pm$ 0.5 |
+| Problem-solving Skills | 8.5 $\pm$ 0.0 |
+| Creativity | 9.5 $\pm$ 0.0 |
+| Interpersonal Relationships | 7.2 $\pm$ 0.2 |
+| Confidence and Self-efficacy | 6.8 $\pm$ 0.2 |
+| Conflict Resolution | 7.9 $\pm$ 0.2 |
+| Work-related Stress | 7.8 $\pm$ 0.2 |
+| Adaptability | 9.0 $\pm$ 0.0 |
+| Achievement Motivation | 7.9 $\pm$ 0.2 |
+| Fear of Failure | 6.0 $\pm$ 0.5 |
+| Need for Control | 4.9 $\pm$ 0.6 |
+| Cognitive Load | 7.8 $\pm$ 0.8 |
+| Social Support | 7.6 $\pm$ 0.2 |
+| Resilience | 8.2 $\pm$ 0.2 |
 
 
 

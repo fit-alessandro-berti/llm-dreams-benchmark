@@ -20,6 +20,7 @@
 | gemma4e4b | 8.450 |
 | mistralaimistral-small-creative | 8.450 |
 | anthropicclaude-sonnet-4.5 | 8.437 |
+| moonshotaikimi-k2.6 | 8.437 |
 | meta-llamallama-4-maverick | 8.400 |
 | z-aiglm-4.5-air | 8.400 |
 | meta-llamallama-4-scout | 8.387 |

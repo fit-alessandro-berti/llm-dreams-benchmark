@@ -191,6 +191,7 @@
 | Liquid-LFM2.5-350M | 8.225 |
 | Gpt-5.1-Pro-20251120 | 8.225 |
 | Grok-4.1-20251118 | 8.200 |
+| moonshotaikimi-k2.6 | 8.188 |
 | chatgpt-4o-latest-2025-01-29 | 8.175 |
 | meta-llamaLlama-3.2-3B-Instruct | 8.163 |
 | moonshotaikimi-k2 | 8.162 |

@@ -173,6 +173,7 @@
 | meta-llamaMeta-Llama-3.1-8B-Instruct | 7.625 |
 | qwen31.7b | 7.625 |
 | r1-1776 | 7.625 |
+| moonshotaikimi-k2.6 | 7.625 |
 | qwenqwen3.5-35b-a3b | 7.600 |
 | arcee-aitrinity-mini | 7.600 |
 | Gpt-5.1-Pro-20251120 | 7.600 |

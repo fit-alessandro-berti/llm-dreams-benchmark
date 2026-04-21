@@ -198,6 +198,7 @@
 | gpt-5.2-2025-12-11 | 8.312 |
 | z-aiglm-4.5 | 8.287 |
 | z-aiglm-4.7-flash | 8.287 |
+| moonshotaikimi-k2.6 | 8.275 |
 | openaigpt-5.3-chat | 8.275 |
 | grok-4-0709 | 8.250 |
 | nvidiallama-3.3-nemotron-super-49b-v1 | 8.250 |

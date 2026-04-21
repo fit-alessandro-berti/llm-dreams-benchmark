@@ -58,6 +58,7 @@
 | deepseekdeepseek-r1 | 7.875 |
 | googlegemma-2-2b-it | 7.875 |
 | ibmgranite4350m-h | 7.875 |
+| moonshotaikimi-k2.6 | 7.875 |
 | qwen3.52b | 7.875 |
 | nvidiallama-3.1-nemotron-nano-8b-v1 | 7.850 |
 | z-aiglm-4.7-flash | 7.850 |

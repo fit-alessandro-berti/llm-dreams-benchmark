@@ -191,6 +191,7 @@
 | stepfunstep-3.5-flashfree | 6.763 |
 | gemma312b-it-q8_0 | 6.750 |
 | grok-4-0709 | 6.750 |
+| moonshotaikimi-k2.6 | 6.750 |
 | openaigpt-5.4-nano | 6.737 |
 | googlegemma-2-2b-it | 6.713 |
 | ibmgranite41b-h | 6.713 |

@@ -142,6 +142,7 @@
 | liquidlfm-2-24b-a2b | 8.800 |
 | minimaxminimax-m2.1 | 8.800 |
 | minimaxminimax-m2free | 8.800 |
+| moonshotaikimi-k2.6 | 8.800 |
 | openaigpt-5.4 | 8.800 |
 | grok-4-0709 | 8.800 |
 | chatgpt-4o-latest-2025-03-26 | 8.788 |

@@ -45,6 +45,26 @@ The benchmark includes 15 dream incipits, each one having a prevalent purpose. I
 14. Social Support
 15. Resilience
 
+The following table reports the dream number together with the first 25-35 characters of each incipit:
+
+| Dream | Incipit |
+| --- | --- |
+| 1 | You find yourself in a vast, unf... |
+| 2 | You are walking through a peacef... |
+| 3 | You are given a mysterious locke... |
+| 4 | You are in a world where colors ... |
+| 5 | You are at a large social gather... |
+| 6 | You are about to give a speech t... |
+| 7 | You are in the middle of a heate... |
+| 8 | You are at your workplace, and s... |
+| 9 | You wake up in a completely diff... |
+| 10 | You are participating in a compe... |
+| 11 | You are about to take the final ... |
+| 12 | You are the captain of a ship in... |
+| 13 | You are in a maze filled with co... |
+| 14 | You are feeling lost and alone i... |
+| 15 | You find yourself in a post-apoc... |
+
 ## Evaluation
 
 The dreams are composed together inside the same prompt and provided to a judge LLM.

@@ -112,6 +112,7 @@
 | qwen34b-instruct-2507-q8_0 | **412.8** | 5.6 $\pm$ 2.1 | 7.4 $\pm$ 1.3 | 7.7 $\pm$ 0.7 | 9.6 $\pm$ 0.2 | 7.4 $\pm$ 0.7 | 7.1 $\pm$ 0.9 | 7.8 $\pm$ 0.9 | 6.0 $\pm$ 2.0 | 8.7 $\pm$ 0.5 | 7.4 $\pm$ 0.7 | 5.2 $\pm$ 2.1 | 4.5 $\pm$ 1.8 | 6.7 $\pm$ 1.5 | 7.4 $\pm$ 0.8 | 8.6 $\pm$ 0.6 |
 | liquidlfm-2.5-1.2b-instructfree | **412.7** | 6.2 $\pm$ 1.1 | 7.2 $\pm$ 0.7 | 8.4 $\pm$ 0.4 | 9.5 $\pm$ 0.2 | 7.2 $\pm$ 0.5 | 7.9 $\pm$ 0.6 | 7.7 $\pm$ 1.0 | 6.4 $\pm$ 1.2 | 8.8 $\pm$ 0.4 | 8.4 $\pm$ 0.6 | 5.2 $\pm$ 1.4 | 5.8 $\pm$ 1.1 | 7.3 $\pm$ 0.8 | 7.4 $\pm$ 0.7 | 8.8 $\pm$ 0.4 |
 | qwenqwen3-max-thinking | **412.2** | 6.9 $\pm$ 1.2 | 6.9 $\pm$ 0.9 | 8.6 $\pm$ 0.5 | 9.6 $\pm$ 0.2 | 7.6 $\pm$ 0.6 | 7.4 $\pm$ 0.7 | 8.3 $\pm$ 0.6 | 7.1 $\pm$ 1.0 | 9.0 $\pm$ 0.4 | 8.3 $\pm$ 0.6 | 6.1 $\pm$ 1.1 | 5.5 $\pm$ 1.1 | 7.7 $\pm$ 0.9 | 7.5 $\pm$ 0.7 | 9.0 $\pm$ 0.4 |
+| GPT-5.5-Pro-20260422 | **411.7** | 6.6 $\pm$ 1.4 | 7.0 $\pm$ 0.9 | 8.4 $\pm$ 0.5 | 9.7 $\pm$ 0.2 | 7.5 $\pm$ 0.5 | 7.3 $\pm$ 0.7 | 8.4 $\pm$ 0.6 | 6.6 $\pm$ 1.2 | 8.9 $\pm$ 0.4 | 7.8 $\pm$ 0.5 | 6.0 $\pm$ 1.3 | 5.2 $\pm$ 1.3 | 7.5 $\pm$ 0.9 | 7.5 $\pm$ 0.7 | 9.0 $\pm$ 0.4 |
 | qwen2.5-omni-7b | **411.3** | 6.4 $\pm$ 0.8 | 7.1 $\pm$ 0.6 | 8.6 $\pm$ 0.3 | 9.0 $\pm$ 0.4 | 7.5 $\pm$ 0.4 | 8.1 $\pm$ 0.5 | 7.0 $\pm$ 0.5 | 6.8 $\pm$ 0.6 | 8.8 $\pm$ 0.4 | 8.8 $\pm$ 0.4 | 5.7 $\pm$ 0.8 | 6.3 $\pm$ 0.5 | 7.3 $\pm$ 0.6 | 7.8 $\pm$ 0.4 | 9.0 $\pm$ 0.4 |
 | qwenqwen3-next-80b-a3b-thinking | **411.0** | 6.4 $\pm$ 1.8 | 7.2 $\pm$ 1.0 | 8.4 $\pm$ 0.7 | 9.6 $\pm$ 0.3 | 7.3 $\pm$ 0.6 | 7.5 $\pm$ 1.0 | 8.0 $\pm$ 0.8 | 6.3 $\pm$ 1.6 | 8.8 $\pm$ 0.4 | 8.1 $\pm$ 0.5 | 5.6 $\pm$ 1.6 | 5.4 $\pm$ 1.2 | 7.1 $\pm$ 1.1 | 7.3 $\pm$ 0.8 | 8.8 $\pm$ 0.6 |
 | gemini-1.5-flash-002 | **410.3** | 7.0 $\pm$ 0.9 | 6.8 $\pm$ 0.8 | 8.6 $\pm$ 0.4 | 9.6 $\pm$ 0.2 | 7.8 $\pm$ 0.6 | 7.4 $\pm$ 0.7 | 8.4 $\pm$ 0.6 | 6.8 $\pm$ 0.7 | 8.9 $\pm$ 0.3 | 8.2 $\pm$ 0.5 | 6.2 $\pm$ 1.0 | 5.5 $\pm$ 1.1 | 7.7 $\pm$ 0.8 | 7.5 $\pm$ 0.5 | 8.8 $\pm$ 0.4 |
@@ -3131,6 +3132,32 @@
 | Fear of Failure | 6.1 $\pm$ 1.1 |
 | Need for Control | 5.5 $\pm$ 1.1 |
 | Cognitive Load | 7.7 $\pm$ 0.9 |
+| Social Support | 7.5 $\pm$ 0.7 |
+| Resilience | 9.0 $\pm$ 0.4 |
+
+
+
+
+
+
+### GPT-5.5-Pro-20260422
+
+
+| Personality Trait | Score (1.0-10.0) |
+| --- | --- |
+| Anxiety and Stress Levels | 6.6 $\pm$ 1.4 |
+| Emotional Stability | 7.0 $\pm$ 0.9 |
+| Problem-solving Skills | 8.4 $\pm$ 0.5 |
+| Creativity | 9.7 $\pm$ 0.2 |
+| Interpersonal Relationships | 7.5 $\pm$ 0.5 |
+| Confidence and Self-efficacy | 7.3 $\pm$ 0.7 |
+| Conflict Resolution | 8.4 $\pm$ 0.6 |
+| Work-related Stress | 6.6 $\pm$ 1.2 |
+| Adaptability | 8.9 $\pm$ 0.4 |
+| Achievement Motivation | 7.8 $\pm$ 0.5 |
+| Fear of Failure | 6.0 $\pm$ 1.3 |
+| Need for Control | 5.2 $\pm$ 1.3 |
+| Cognitive Load | 7.5 $\pm$ 0.9 |
 | Social Support | 7.5 $\pm$ 0.7 |
 | Resilience | 9.0 $\pm$ 0.4 |
 

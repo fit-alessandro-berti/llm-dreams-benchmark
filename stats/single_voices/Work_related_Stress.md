@@ -187,6 +187,7 @@
 | qwenqwen3.5-plus-02-15 | 6.600 |
 | bytedance-seedseed-2.0-lite | 6.587 |
 | qwenqwen3.5-397b-a17b | 6.587 |
+| GPT-5.5-Pro-20260422 | 6.575 |
 | gpt-5-2025-08-07 | 6.550 |
 | open-mistral-nemo | 6.513 |
 | allenaiolmo-3.1-32b-instruct | 6.512 |

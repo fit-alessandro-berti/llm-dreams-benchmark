@@ -47,6 +47,7 @@
 | openaigpt-5.4 | 9.663 |
 | claude-3-5-sonnet-20241022 | 9.662 |
 | gemma4e2b | 9.662 |
+| GPT-5.5-Pro-20260422 | 9.662 |
 | nvidianemotron-3-nano-30b-a3bfree | 9.662 |
 | o3-2025-04-16 | 9.662 |
 | openaigpt-5.4-pro | 9.662 |

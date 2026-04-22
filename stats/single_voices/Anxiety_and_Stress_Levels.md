@@ -164,6 +164,7 @@
 | nvidianemotron-nano-9b-v2 | 6.625 |
 | o1-2024-12-05 | 6.625 |
 | gpt-4.1-nano-2025-04-14 | 6.600 |
+| GPT-5.5-Pro-20260422 | 6.562 |
 | qwenqwen3-next-80b-a3b-instruct | 6.562 |
 | allenaiolmo-3-7b-instruct | 6.550 |
 | devstral-small-2505 | 6.550 |

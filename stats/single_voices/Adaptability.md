@@ -96,6 +96,7 @@
 | nvidiaLlama-3.1-Nemotron-70B-Instruct | 8.912 |
 | o1-pro-2024-12-17 | 8.912 |
 | x-aigrok-code-fast-1 | 8.912 |
+| GPT-5.5-Pro-20260422 | 8.912 |
 | anthropicclaude-opus-4.6 | 8.900 |
 | gemini-1.5-flash-002 | 8.900 |
 | googlegemini-3.1-flash-lite-preview | 8.900 |

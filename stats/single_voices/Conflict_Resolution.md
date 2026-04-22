@@ -51,6 +51,7 @@
 | o1-pro-2024-12-17 | 8.412 |
 | devstral-small-2505 | 8.412 |
 | gpt-4-0125-preview | 8.400 |
+| GPT-5.5-Pro-20260422 | 8.400 |
 | gpt-4.1-nano-2025-04-14 | 8.400 |
 | open-mistral-nemo | 8.400 |
 | gpt-5.3-codex-spark-low | 8.388 |

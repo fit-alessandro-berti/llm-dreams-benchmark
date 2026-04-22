@@ -47,6 +47,7 @@
 | gpt-4o-2024-05-13 | 9.025 |
 | mistral-large-2407 | 9.025 |
 | o1-mini | 9.025 |
+| GPT-5.5-Pro-20260422 | 9.025 |
 | liquidlfm-2.2-6b | 9.025 |
 | o3-mini-20250131-HIGH | 9.025 |
 | granite4micro-h | 9.013 |

@@ -135,6 +135,7 @@
 | gemini-2.0-pro-exp-02-05 | 8.425 |
 | nousresearchhermes-4-70b | 8.425 |
 | qwenqwen3-max | 8.425 |
+| GPT-5.5-Pro-20260422 | 8.413 |
 | liquidlfm-2.5-1.2b-thinkingfree | 8.413 |
 | arcee-aitrinity-large-thinking | 8.412 |
 | stepfunstep-3.5-flashfree | 8.412 |

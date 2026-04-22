@@ -116,6 +116,7 @@
 | phi2.7b | 7.088 |
 | liquidlfm-2-24b-a2b | 7.050 |
 | o1-2024-12-05 | 7.050 |
+| GPT-5.5-Pro-20260422 | 7.038 |
 | gemini-2.5-pro-preview-06-05 | 7.025 |
 | deepseekdeepseek-chat-v3.1 | 7.000 |
 | nvidianemotron-nano-9b-v2 | 7.000 |

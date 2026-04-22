@@ -113,6 +113,7 @@
 | qwenqwen3-30b-a3b-instruct-2507 | 7.550 |
 | openaigpt-5.2-codex | 7.538 |
 | ai21jamba-large-1.7 | 7.525 |
+| GPT-5.5-Pro-20260422 | 7.525 |
 | qwenqwen3.5-plus-02-15 | 7.525 |
 | qwenqwen3-max | 7.500 |
 | xiaomimimo-v2-omni | 7.500 |

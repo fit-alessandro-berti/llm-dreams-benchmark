@@ -154,6 +154,7 @@
 | claude-haiku-4-5-20251001 | 7.263 |
 | gemma-4-31b-it | 7.263 |
 | deepseekdeepseek-r1 | 7.250 |
+| GPT-5.5-Pro-20260422 | 7.250 |
 | allenaiolmo-3-7b-think | 7.237 |
 | googlegemma-2-9b-it | 7.225 |
 | smollm21.7b-instruct-q6_K | 7.225 |

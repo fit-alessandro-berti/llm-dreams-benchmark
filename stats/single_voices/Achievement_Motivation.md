@@ -230,6 +230,7 @@
 | gpt-5-chat-latest-2025-08-07 | 7.888 |
 | anthropicclaude-sonnet-4.6 | 7.875 |
 | gpt-5.2-2025-12-11 | 7.875 |
+| GPT-5.5-Pro-20260422 | 7.862 |
 | moonshotaikimi-k2.6 | 7.850 |
 | qwen3.59b | 7.850 |
 | gemini-2.5-pro-exp-03-25 | 7.838 |

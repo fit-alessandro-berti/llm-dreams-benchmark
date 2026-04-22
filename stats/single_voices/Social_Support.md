@@ -108,6 +108,7 @@
 | amazonnova-2-lite-v1 | 7.537 |
 | deepseekdeepseek-v3.2 | 7.525 |
 | nvidianemotron-3-nano-30b-a3bfree | 7.513 |
+| GPT-5.5-Pro-20260422 | 7.513 |
 | ChatGPT-5.1-Instant-20251113 | 7.500 |
 | deepseek-aiDeepSeek-R1-Zero | 7.500 |
 | o1-pro-2024-12-05 | 7.500 |

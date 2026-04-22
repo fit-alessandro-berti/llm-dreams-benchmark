@@ -156,6 +156,7 @@
 | bytedance-seedseed-2.0-lite | 6.037 |
 | amazonnova-2-lite-v1 | 6.025 |
 | nvidiallama-3.1-nemotron-ultra-253b-v1free | 6.013 |
+| GPT-5.5-Pro-20260422 | 5.987 |
 | bytedance-seedseed-2.0-mini | 5.962 |
 | gemma-3-27b-it | 5.962 |
 | gpt-5.3-codex-spark-low | 5.938 |

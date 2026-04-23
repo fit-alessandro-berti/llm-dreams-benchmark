@@ -97,6 +97,7 @@
 | ChatGPT-5.1-Instant-20251113 | **382.8** | 6.9 $\pm$ 0.2 | 6.4 $\pm$ 0.1 | 7.5 $\pm$ 0.1 | 9.4 $\pm$ 0.0 | 7.0 $\pm$ 0.1 | 6.8 $\pm$ 0.1 | 7.7 $\pm$ 0.2 | 7.6 $\pm$ 0.3 | 8.4 $\pm$ 0.1 | 7.8 $\pm$ 0.2 | 7.1 $\pm$ 0.2 | 6.2 $\pm$ 0.4 | 7.8 $\pm$ 0.1 | 6.8 $\pm$ 0.1 | 8.3 $\pm$ 0.1 |
 | granite4tiny-h | **382.0** | 7.7 $\pm$ 0.1 | 6.1 $\pm$ 0.3 | 8.3 $\pm$ 0.1 | 9.2 $\pm$ 0.0 | 7.1 $\pm$ 0.3 | 6.5 $\pm$ 0.5 | 7.9 $\pm$ 0.2 | 8.2 $\pm$ 0.1 | 8.2 $\pm$ 0.4 | 8.5 $\pm$ 0.1 | 7.5 $\pm$ 0.1 | 6.8 $\pm$ 0.1 | 8.2 $\pm$ 0.3 | 7.0 $\pm$ 0.3 | 8.6 $\pm$ 0.1 |
 | liquidlfm-2-24b-a2b | **381.5** | 6.8 $\pm$ 0.0 | 6.2 $\pm$ 0.0 | 7.8 $\pm$ 0.3 | 9.4 $\pm$ 0.1 | 7.0 $\pm$ 0.2 | 7.6 $\pm$ 0.2 | 5.7 $\pm$ 0.1 | 7.6 $\pm$ 0.3 | 8.3 $\pm$ 0.2 | 8.4 $\pm$ 0.1 | 6.8 $\pm$ 0.2 | 6.6 $\pm$ 0.1 | 7.8 $\pm$ 0.1 | 6.7 $\pm$ 0.2 | 8.6 $\pm$ 0.2 |
+| inclusionailing-2.6-1tfree | **380.8** | 7.5 $\pm$ 0.3 | 6.3 $\pm$ 0.2 | 7.4 $\pm$ 0.0 | 9.7 $\pm$ 0.0 | 7.0 $\pm$ 0.1 | 6.6 $\pm$ 0.2 | 7.7 $\pm$ 0.2 | 8.4 $\pm$ 0.1 | 8.6 $\pm$ 0.2 | 7.6 $\pm$ 0.3 | 7.6 $\pm$ 0.3 | 6.4 $\pm$ 0.4 | 8.1 $\pm$ 0.2 | 6.8 $\pm$ 0.1 | 8.8 $\pm$ 0.1 |
 | openaigpt-5.3-codex | **380.6** | 7.7 $\pm$ 0.1 | 6.3 $\pm$ 0.1 | 7.5 $\pm$ 0.1 | 9.6 $\pm$ 0.0 | 7.2 $\pm$ 0.1 | 7.0 $\pm$ 0.2 | 7.3 $\pm$ 0.5 | 8.4 $\pm$ 0.1 | 8.5 $\pm$ 0.1 | 8.2 $\pm$ 0.2 | 7.6 $\pm$ 0.2 | 6.8 $\pm$ 0.3 | 8.2 $\pm$ 0.2 | 6.8 $\pm$ 0.1 | 8.8 $\pm$ 0.0 |
 | qwenqwen3.5-122b-a10b | **380.4** | 6.8 $\pm$ 0.0 | 6.5 $\pm$ 0.3 | 7.0 $\pm$ 0.3 | 9.6 $\pm$ 0.0 | 6.3 $\pm$ 0.4 | 7.0 $\pm$ 0.2 | 7.1 $\pm$ 0.5 | 6.8 $\pm$ 0.4 | 8.5 $\pm$ 0.1 | 7.3 $\pm$ 0.2 | 6.4 $\pm$ 0.5 | 5.0 $\pm$ 0.5 | 7.2 $\pm$ 0.7 | 6.2 $\pm$ 0.2 | 8.2 $\pm$ 0.1 |
 | llama213b | **380.4** | 7.1 $\pm$ 0.3 | 6.0 $\pm$ 0.4 | 8.2 $\pm$ 0.2 | 9.2 $\pm$ 0.0 | 6.9 $\pm$ 0.5 | 7.6 $\pm$ 0.0 | 6.5 $\pm$ 0.2 | 7.4 $\pm$ 0.4 | 8.2 $\pm$ 0.2 | 8.4 $\pm$ 0.3 | 6.7 $\pm$ 0.4 | 7.3 $\pm$ 0.5 | 7.6 $\pm$ 0.1 | 7.0 $\pm$ 0.2 | 8.3 $\pm$ 0.1 |
@@ -2650,6 +2651,32 @@
 | Cognitive Load | 7.8 $\pm$ 0.1 |
 | Social Support | 6.7 $\pm$ 0.2 |
 | Resilience | 8.6 $\pm$ 0.2 |
+
+
+
+
+
+
+### inclusionailing-2.6-1tfree
+
+
+| Personality Trait | Score (1.0-10.0) |
+| --- | --- |
+| Anxiety and Stress Levels | 7.5 $\pm$ 0.3 |
+| Emotional Stability | 6.3 $\pm$ 0.2 |
+| Problem-solving Skills | 7.4 $\pm$ 0.0 |
+| Creativity | 9.7 $\pm$ 0.0 |
+| Interpersonal Relationships | 7.0 $\pm$ 0.1 |
+| Confidence and Self-efficacy | 6.6 $\pm$ 0.2 |
+| Conflict Resolution | 7.7 $\pm$ 0.2 |
+| Work-related Stress | 8.4 $\pm$ 0.1 |
+| Adaptability | 8.6 $\pm$ 0.2 |
+| Achievement Motivation | 7.6 $\pm$ 0.3 |
+| Fear of Failure | 7.6 $\pm$ 0.3 |
+| Need for Control | 6.4 $\pm$ 0.4 |
+| Cognitive Load | 8.1 $\pm$ 0.2 |
+| Social Support | 6.8 $\pm$ 0.1 |
+| Resilience | 8.8 $\pm$ 0.1 |
 
 
 

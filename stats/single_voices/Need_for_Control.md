@@ -143,6 +143,7 @@
 | o3-2025-04-16 | 5.171 |
 | gemma-4-31b-it | 5.157 |
 | phi4-reasoning | 5.157 |
+| inclusionailing-2.6-1tfree | 5.143 |
 | GPT-5.5-Pro-20260422 | 5.143 |
 | gemini-2.0-flash-exp | 5.114 |
 | qwenqwen3.5-397b-a17b | 5.100 |

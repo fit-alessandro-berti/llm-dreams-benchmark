@@ -100,6 +100,7 @@
 | gemini-1.5-flash-8b | 7.443 |
 | claude-3-7-sonnet-20250219 | 7.429 |
 | gpt-5-chat-latest-2025-08-19 | 7.429 |
+| inclusionailing-2.6-1tfree | 7.414 |
 | googlegemini-3.1-flash-lite-preview | 7.386 |
 | googlegemini-3.1-pro-preview | 7.386 |
 | gpt-4-1106-preview | 7.371 |

@@ -145,6 +145,7 @@
 | gemma-4-31b-it | 7.957 |
 | gemma-3-27b-it | 7.943 |
 | moonshotaikimi-k2.5 | 7.943 |
+| inclusionailing-2.6-1tfree | 7.900 |
 | gemini-3-flash-preview | 7.871 |
 | gpt-5-pro-2025-10-06 | 7.871 |
 | qwenqwen3.5-35b-a3b | 7.857 |

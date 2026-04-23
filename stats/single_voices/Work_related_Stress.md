@@ -77,6 +77,7 @@
 | googlegemini-3.1-pro-preview | 7.229 |
 | qwenqwen3-max | 7.229 |
 | nousresearchhermes-4-405b | 7.214 |
+| inclusionailing-2.6-1tfree | 7.186 |
 | ai21jamba-large-1.7 | 7.171 |
 | falcon33b-instruct-q8_0 | 7.171 |
 | gemini-3-flash-preview | 7.171 |

@@ -84,6 +84,7 @@
 | claude-haiku-4-5-20251001 | 7.243 |
 | qwenqwen3.5-27b | 7.157 |
 | nousresearchhermes-4-405b | 7.143 |
+| inclusionailing-2.6-1tfree | 7.100 |
 | qwenqwen3.5-397b-a17b | 7.100 |
 | grok-4.20-experimental-beta-0304-reasoning | 7.086 |
 | openaigpt-5.2-codex | 7.086 |

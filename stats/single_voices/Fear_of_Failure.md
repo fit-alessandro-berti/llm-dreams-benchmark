@@ -87,6 +87,7 @@
 | amazonnova-2-lite-v1 | 5.886 |
 | bytedance-seedseed-2.0-lite | 5.871 |
 | gemma-3-27b-it | 5.871 |
+| inclusionailing-2.6-1tfree | 5.857 |
 | bytedance-seedseed-2.0-mini | 5.857 |
 | deepseek-aiDeepSeek-V3 | 5.857 |
 | claude-opus-4-5-20251101 | 5.843 |

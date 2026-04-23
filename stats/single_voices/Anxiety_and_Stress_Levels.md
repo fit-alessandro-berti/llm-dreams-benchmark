@@ -81,6 +81,7 @@
 | gemini-2.5-pro-preview-06-05 | 6.914 |
 | llama213b | 6.914 |
 | Grok-3-beta-thinking-20250303 | 6.900 |
+| inclusionailing-2.6-1tfree | 6.857 |
 | claude-opus-4-5-20251101 | 6.857 |
 | deepseek-aiDeepSeek-V3 | 6.814 |
 | nvidiaLlama-3.1-Nemotron-70B-Instruct | 6.814 |

@@ -85,6 +85,7 @@
 | nvidiaNVIDIA-Nemotron-3-Super-120B-A12B | 7.514 |
 | deepseek-aiDeepSeek-V3 | 7.514 |
 | gpt-4-1106-preview | 7.500 |
+| inclusionailing-2.6-1tfree | 7.500 |
 | openaigpt-5.2-codex | 7.500 |
 | xiaomimimo-v2-omni | 7.486 |
 | o1-2024-12-05 | 7.471 |

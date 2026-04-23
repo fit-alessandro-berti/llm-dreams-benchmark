@@ -17,6 +17,7 @@
 | Grok-4.30-20260420 | 9.700 |
 | openaigpt-oss-120b | 9.700 |
 | grok-4.20-experimental-beta-0304-reasoning | 9.686 |
+| inclusionailing-2.6-1tfree | 9.671 |
 | Grok-4-fast-20251111 | 9.671 |
 | claude-opus-4-5-20251101 | 9.657 |
 | googlegemini-3.1-flash-lite-preview | 9.657 |

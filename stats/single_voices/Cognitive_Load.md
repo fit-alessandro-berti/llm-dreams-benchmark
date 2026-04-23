@@ -97,6 +97,7 @@
 | deepseekdeepseek-v3.2-speciale | 7.443 |
 | chatgpt-4o-latest-2025-04-26 | 7.429 |
 | gpt-4-1106-preview | 7.429 |
+| inclusionailing-2.6-1tfree | 7.429 |
 | minimaxminimax-m2.5 | 7.429 |
 | gpt-4-0613 | 7.429 |
 | chatgpt-4o-latest-2025-03-26 | 7.414 |

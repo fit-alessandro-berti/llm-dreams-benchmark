@@ -1,4 +1,4 @@
-ANSWERING_MODEL_NAME = "tencent/hy3-preview:free"
+ANSWERING_MODEL_NAME = "inclusionai/ling-2.6-1t:free"
 EVALUATING_MODEL_NAME = "gpt-5.2"
 
 
@@ -30,12 +30,6 @@ ALL_JUDGES = {
     "gpt-5.4": {
         "evaluation_folder": "evaluations-gpt54",
         "git_table_result": "results_gpt54.md",
-        "evaluation_api_url": "https://api.openai.com/v1/",
-        "api_key": open("../api_openai.txt", "r").read().strip(),
-    },
-    "gpt-5.5": {
-        "evaluation_folder": "evaluations-gpt55",
-        "git_table_result": "results_gpt55.md",
         "evaluation_api_url": "https://api.openai.com/v1/",
         "api_key": open("../api_openai.txt", "r").read().strip(),
     },

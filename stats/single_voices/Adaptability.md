@@ -36,6 +36,7 @@
 | o3-2025-04-16 | 9.029 |
 | open-mistral-7b | 9.029 |
 | gemma-4-31b-it | 9.014 |
+| inclusionailing-2.6-1tfree | 9.014 |
 | falcon37b-instruct-q8_0 | 9.000 |
 | gpt-4-0125-preview | 9.000 |
 | qwen2.5-32b-instruct | 9.000 |

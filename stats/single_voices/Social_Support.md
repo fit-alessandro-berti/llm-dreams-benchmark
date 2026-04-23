@@ -94,6 +94,7 @@
 | ai21jamba-large-1.7 | 7.329 |
 | claude-haiku-4-5-20251001 | 7.329 |
 | qwenqwen3.5-plus-02-15 | 7.329 |
+| inclusionailing-2.6-1tfree | 7.314 |
 | phi4-reasoning | 7.300 |
 | gemini-2.0-flash-exp | 7.286 |
 | claude-3-7-sonnet-20250219 | 7.271 |

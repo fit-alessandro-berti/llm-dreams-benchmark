@@ -70,6 +70,7 @@
 | gemma-3-27b-it | 8.214 |
 | granite4micro-h | 8.214 |
 | gpt-4.1-mini-2025-04-14 | 8.200 |
+| inclusionailing-2.6-1tfree | 8.200 |
 | openaigpt-5.2-codex | 8.186 |
 | gpt-5-2025-08-07 | 8.186 |
 | minimaxminimax-m2.7 | 8.171 |

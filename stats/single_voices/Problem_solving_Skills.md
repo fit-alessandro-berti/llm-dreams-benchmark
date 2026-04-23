@@ -100,6 +100,7 @@
 | liquidlfm-2.5-1.2b-thinkingfree | 8.371 |
 | nousresearchhermes-4-70b | 8.371 |
 | gemini-2.0-pro-exp-02-05 | 8.371 |
+| inclusionailing-2.6-1tfree | 8.371 |
 | qwen3.635b-a3b | 8.371 |
 | deepseek-aiDeepSeek-V3 | 8.357 |
 | GPT-5.5-Pro-20260422 | 8.357 |

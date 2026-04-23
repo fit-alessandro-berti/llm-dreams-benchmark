@@ -27,6 +27,7 @@
 | open-mixtral-8x7b | 9.086 |
 | gpt-4-0125-preview | 9.071 |
 | xiaomimimo-v2.5 | 9.071 |
+| inclusionailing-2.6-1tfree | 9.057 |
 | gpt-5.3-codex-spark-low | 9.057 |
 | gpt-5-nano-2025-08-07 | 9.057 |
 | deepseekdeepseek-v3.2 | 9.043 |

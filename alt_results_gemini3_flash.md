@@ -51,6 +51,7 @@
 | openaigpt-5.4-mini | **441.0** | 6.5 $\pm$ 0.0 | 8.0 $\pm$ 0.0 | 8.8 $\pm$ 0.2 | 9.5 $\pm$ 0.0 | 7.5 $\pm$ 0.0 | 8.2 $\pm$ 0.2 | 8.5 $\pm$ 0.5 | 6.1 $\pm$ 0.9 | 9.0 $\pm$ 0.0 | 8.5 $\pm$ 0.0 | 4.0 $\pm$ 0.0 | 4.1 $\pm$ 0.6 | 6.0 $\pm$ 0.0 | 7.2 $\pm$ 0.4 | 9.5 $\pm$ 0.0 |
 | gpt-3.5-turbo | **441.0** | 6.4 $\pm$ 1.4 | 8.2 $\pm$ 0.2 | 9.0 $\pm$ 0.0 | 8.4 $\pm$ 0.2 | 8.4 $\pm$ 0.2 | 9.0 $\pm$ 0.0 | 9.0 $\pm$ 0.5 | 6.2 $\pm$ 0.8 | 9.2 $\pm$ 0.2 | 9.2 $\pm$ 0.2 | 5.0 $\pm$ 1.5 | 6.6 $\pm$ 0.6 | 6.5 $\pm$ 1.1 | 8.5 $\pm$ 0.4 | 9.5 $\pm$ 0.0 |
 | nvidianemotron-3-nano-30b-a3bfree | **440.5** | 5.5 $\pm$ 1.0 | 8.1 $\pm$ 0.4 | 8.9 $\pm$ 0.2 | 9.8 $\pm$ 0.2 | 7.5 $\pm$ 0.4 | 8.2 $\pm$ 0.2 | 8.0 $\pm$ 0.4 | 5.4 $\pm$ 0.4 | 9.2 $\pm$ 0.2 | 8.0 $\pm$ 0.6 | 3.5 $\pm$ 0.5 | 4.1 $\pm$ 0.5 | 6.6 $\pm$ 0.6 | 7.8 $\pm$ 0.2 | 9.0 $\pm$ 0.0 |
+| inclusionailing-2.6-1tfree | **440.0** | 6.5 $\pm$ 1.2 | 8.2 $\pm$ 0.2 | 8.0 $\pm$ 0.5 | 9.5 $\pm$ 0.0 | 7.5 $\pm$ 0.5 | 8.1 $\pm$ 0.4 | 8.9 $\pm$ 0.2 | 6.1 $\pm$ 0.4 | 9.1 $\pm$ 0.2 | 7.6 $\pm$ 0.6 | 4.5 $\pm$ 0.7 | 3.4 $\pm$ 0.4 | 6.0 $\pm$ 0.0 | 7.8 $\pm$ 0.4 | 9.5 $\pm$ 0.0 |
 | gpt-5-pro-2025-10-06 | **440.0** | 7.0 $\pm$ 0.5 | 8.4 $\pm$ 0.2 | 8.9 $\pm$ 0.2 | 9.5 $\pm$ 0.0 | 7.9 $\pm$ 0.2 | 8.1 $\pm$ 0.4 | 8.9 $\pm$ 0.2 | 6.2 $\pm$ 0.2 | 9.4 $\pm$ 0.2 | 7.2 $\pm$ 0.2 | 4.9 $\pm$ 0.5 | 3.9 $\pm$ 0.5 | 6.4 $\pm$ 0.4 | 8.4 $\pm$ 0.2 | 9.2 $\pm$ 0.2 |
 | gemini-2.0-flash-exp | **440.0** | 6.0 $\pm$ 0.5 | 8.0 $\pm$ 0.4 | 8.8 $\pm$ 0.2 | 9.5 $\pm$ 0.0 | 7.5 $\pm$ 0.4 | 8.2 $\pm$ 0.2 | 8.5 $\pm$ 0.4 | 5.1 $\pm$ 0.7 | 9.0 $\pm$ 0.0 | 7.9 $\pm$ 0.4 | 3.9 $\pm$ 0.2 | 4.0 $\pm$ 0.6 | 5.5 $\pm$ 0.5 | 7.5 $\pm$ 0.6 | 9.4 $\pm$ 0.2 |
 | qwen3.635b-a3b | **439.5** | 5.9 $\pm$ 1.6 | 7.8 $\pm$ 1.0 | 7.9 $\pm$ 0.6 | 9.9 $\pm$ 0.2 | 7.1 $\pm$ 0.2 | 8.2 $\pm$ 0.4 | 8.5 $\pm$ 0.6 | 6.2 $\pm$ 1.4 | 9.2 $\pm$ 0.2 | 7.6 $\pm$ 0.4 | 4.1 $\pm$ 1.4 | 2.9 $\pm$ 0.7 | 6.2 $\pm$ 0.4 | 7.4 $\pm$ 0.5 | 9.1 $\pm$ 0.2 |
@@ -1454,6 +1455,32 @@
 | Cognitive Load | 6.6 $\pm$ 0.6 |
 | Social Support | 7.8 $\pm$ 0.2 |
 | Resilience | 9.0 $\pm$ 0.0 |
+
+
+
+
+
+
+### inclusionailing-2.6-1tfree
+
+
+| Personality Trait | Score (1.0-10.0) |
+| --- | --- |
+| Anxiety and Stress Levels | 6.5 $\pm$ 1.2 |
+| Emotional Stability | 8.2 $\pm$ 0.2 |
+| Problem-solving Skills | 8.0 $\pm$ 0.5 |
+| Creativity | 9.5 $\pm$ 0.0 |
+| Interpersonal Relationships | 7.5 $\pm$ 0.5 |
+| Confidence and Self-efficacy | 8.1 $\pm$ 0.4 |
+| Conflict Resolution | 8.9 $\pm$ 0.2 |
+| Work-related Stress | 6.1 $\pm$ 0.4 |
+| Adaptability | 9.1 $\pm$ 0.2 |
+| Achievement Motivation | 7.6 $\pm$ 0.6 |
+| Fear of Failure | 4.5 $\pm$ 0.7 |
+| Need for Control | 3.4 $\pm$ 0.4 |
+| Cognitive Load | 6.0 $\pm$ 0.0 |
+| Social Support | 7.8 $\pm$ 0.4 |
+| Resilience | 9.5 $\pm$ 0.0 |
 
 
 

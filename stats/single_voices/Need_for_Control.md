@@ -12,7 +12,6 @@
 | llama27b | 6.871 |
 | ministral-3b-2512 | 6.871 |
 | prime-intellectintellect-3 | 6.857 |
-| smollm2360m | 6.829 |
 | meta-llamallama-4-maverick | 6.814 |
 | aion-labsaion-2.0 | 6.786 |
 | meta-llamallama-4-scout | 6.786 |
@@ -29,7 +28,6 @@
 | ministral-14b-2512 | 6.600 |
 | meta-llamaMeta-Llama-3.1-405B-Instruct | 6.586 |
 | meta-llamaMeta-Llama-3.1-70B-Instruct | 6.586 |
-| smollm2135m | 6.500 |
 | ministral-8b-2512 | 6.500 |
 | gpt-4o-mini-2024-11-05 | 6.486 |
 | nousresearchhermes-4-70b | 6.486 |
@@ -47,9 +45,7 @@
 | Grok-3-beta-thinking-20250303 | 6.329 |
 | gpt-3.5-turbo | 6.329 |
 | qwen2.5-7b-instruct | 6.286 |
-| qwen38b | 6.271 |
 | gemini-2.5-pro-exp-03-25 | 6.257 |
-| x-aigrok-code-fast-1 | 6.257 |
 | grok-4.20-multi-agent-experimental-beta-0304 | 6.257 |
 | liquidlfm-2-24b-a2b | 6.243 |
 | Grok-4.1-20251118 | 6.200 |
@@ -60,14 +56,12 @@
 | microsoftPhi-3-medium-4k-instruct | 6.143 |
 | writerpalmyra-x5 | 6.129 |
 | open-mixtral-8x22b | 6.114 |
-| open-mistral-nemo | 6.100 |
 | amazonnova-2-lite-v1 | 6.100 |
 | arcee-aitrinity-large-thinking | 6.086 |
 | qwen3.54b | 6.086 |
 | gemma4e4b | 6.086 |
 | openaigpt-5.3-codex | 6.086 |
 | gpt-4-1106-preview | 6.071 |
-| claude-3-7-sonnet-20250219-thinking-high | 6.057 |
 | open-mixtral-8x7b | 6.057 |
 | ai21jamba-mini-1.7 | 6.029 |
 | falcon310b-instruct-q8_0 | 6.029 |
@@ -125,9 +119,7 @@
 | qwenqwen3.5-35b-a3b | 5.529 |
 | liquidlfm-2.2-6b | 5.514 |
 | o1-pro-2024-12-05 | 5.500 |
-| claude-4-sonnet-20250514 | 5.486 |
 | chatgpt-4o-latest-2025-03-26 | 5.486 |
-| mistral-large-2407 | 5.486 |
 | moonshotaikimi-k2.6 | 5.471 |
 | gpt-4o-2024-05-13 | 5.471 |
 | googlegemini-3.1-pro-preview | 5.443 |
@@ -189,5 +181,4 @@
 | anthropicclaude-sonnet-4.6 | 4.386 |
 | qwen3.635b-a3b | 4.329 |
 | qwenqwen3.5-122b-a10b | 4.129 |
-| qwenqwen3-coder-next | 4.129 |
 | qwenqwen3.6-plusfree | 3.400 |

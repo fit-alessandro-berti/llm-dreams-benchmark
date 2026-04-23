@@ -35,7 +35,6 @@
 | gpt-4.1-2025-04-14 | 8.014 |
 | granite4micro | 8.014 |
 | granite4micro-h | 8.014 |
-| mistral-large-2407 | 8.000 |
 | gpt-5-nano-2025-08-07 | 8.000 |
 | granite4small-h | 8.000 |
 | nousresearchhermes-4-405b | 7.986 |
@@ -45,11 +44,9 @@
 | gpt-4.1-mini-2025-04-14 | 7.957 |
 | falcon310b-instruct-q8_0 | 7.929 |
 | microsoftphi-4 | 7.929 |
-| qwenqwen3-coder-next | 7.929 |
 | gpt-5-pro-2025-10-06 | 7.914 |
 | o3-mini-20250131-HIGH | 7.914 |
 | gpt-4.1-nano-2025-04-14 | 7.886 |
-| open-mistral-nemo | 7.886 |
 | openaigpt-oss-120b | 7.886 |
 | arcee-aitrinity-large-previewfree | 7.886 |
 | nvidiaLlama-3.1-Nemotron-70B-Instruct | 7.886 |
@@ -118,14 +115,12 @@
 | meta-llamaLlama-3.3-70B-Instruct | 7.200 |
 | claude-haiku-4-5-20251001 | 7.186 |
 | prime-intellectintellect-3 | 7.171 |
-| qwen38b | 7.171 |
 | gemini-2.5-pro-preview-06-05 | 7.157 |
 | qwen3.59b | 7.129 |
 | gemini-1.5-flash-8b | 7.114 |
 | meta-llamallama-4-scout | 7.086 |
 | grok-4-1-fast-non-reasoning | 7.071 |
 | gemini-3-flash-preview | 7.057 |
-| claude-3-7-sonnet-20250219-thinking-high | 7.057 |
 | moonshotaikimi-k2.5 | 7.057 |
 | Gemini-1.5-Pro-Exp-0827 | 7.029 |
 | gemini-2.0-pro-exp-02-05 | 7.029 |
@@ -145,7 +140,6 @@
 | llama213b | 6.886 |
 | qwenqwen3.5-27b | 6.871 |
 | writerpalmyra-x5 | 6.857 |
-| x-aigrok-code-fast-1 | 6.857 |
 | mistral-medium-2508 | 6.843 |
 | allenaiolmo-3-7b-think | 6.829 |
 | meta-llamaMeta-Llama-3.1-70B-Instruct | 6.829 |
@@ -168,12 +162,10 @@
 | openaigpt-5.3-chat | 6.571 |
 | meta-llamaMeta-Llama-3.1-8B-Instruct | 6.500 |
 | qwenqwen3.5-397b-a17b | 6.486 |
-| claude-4-sonnet-20250514 | 6.429 |
 | googlegemini-3.1-flash-lite-preview | 6.357 |
 | ministral-8b-2512 | 6.300 |
 | gemma4e2b | 6.257 |
 | llama27b | 6.200 |
-| smollm2135m | 6.186 |
 | qwen3.52b | 6.143 |
 | gemma-4-26b-a4b-it | 6.129 |
 | meta-llamallama-4-maverick | 6.057 |
@@ -186,7 +178,6 @@
 | aion-labsaion-2.0 | 5.886 |
 | ministral-3b-2512 | 5.871 |
 | mistral-large-2512 | 5.800 |
-| smollm2360m | 5.771 |
 | z-aiglm-5v-turbo | 5.757 |
 | gemini-3-pro-preview | 5.714 |
 | qwen3.54b | 5.357 |

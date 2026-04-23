@@ -19,19 +19,16 @@
 | writerpalmyra-x5 | 8.400 |
 | ministral-14b-2512 | 8.386 |
 | qwen3.54b | 8.371 |
-| smollm2360m | 8.371 |
 | claude-opus-4-7 | 8.343 |
 | moonshotaikimi-k2.5 | 8.314 |
 | grok-4.20-multi-agent-experimental-beta-0304 | 8.300 |
 | anthropicclaude-opus-4.1 | 8.286 |
-| smollm2135m | 8.271 |
 | z-aiglm-5-turbo | 8.243 |
 | openaigpt-5.3-chat | 8.229 |
 | claude-4-opus-20250514 | 8.200 |
 | qwen3.52b | 8.200 |
 | prime-intellectintellect-3 | 8.186 |
 | gpt-5.2-2025-12-11 | 8.171 |
-| qwen38b | 8.171 |
 | meta-llamaMeta-Llama-3.1-70B-Instruct | 8.157 |
 | qwen3.50.8b | 8.157 |
 | allenaiolmo-3-7b-think | 8.143 |
@@ -44,8 +41,6 @@
 | openaigpt-5.4-nano | 8.014 |
 | arcee-aitrinity-large-thinking | 7.986 |
 | gemini-1.5-flash-8b | 7.986 |
-| claude-4-sonnet-20250514 | 7.986 |
-| x-aigrok-code-fast-1 | 7.986 |
 | z-aiglm-5 | 7.986 |
 | meta-llamaMeta-Llama-3.1-405B-Instruct | 7.943 |
 | llama27b | 7.929 |
@@ -58,7 +53,6 @@
 | meta-llamaLlama-3.2-3B-Instruct | 7.886 |
 | claude-3-opus-20240229 | 7.871 |
 | claude-opus-4-5-20251101 | 7.871 |
-| claude-3-7-sonnet-20250219-thinking-high | 7.871 |
 | Gemini-1.5-Pro-Exp-0827 | 7.857 |
 | grok-4.20-experimental-beta-0304-non-reasoning | 7.857 |
 | ibmgranite41b-h | 7.857 |
@@ -141,7 +135,6 @@
 | openaigpt-5.2-codex | 7.057 |
 | Meta-Muse-Spark-20260409 | 7.014 |
 | gpt-3.5-turbo | 7.014 |
-| open-mistral-nemo | 7.000 |
 | gemini-2.0-flash-exp | 6.986 |
 | phi4-reasoning | 6.986 |
 | bytedance-seedseed-2.0-mini | 6.971 |
@@ -155,7 +148,6 @@
 | falcon37b-instruct-q8_0 | 6.914 |
 | microsoftWizardLM-2-8x22B | 6.914 |
 | xiaomimimo-v2-omni | 6.900 |
-| mistral-large-2407 | 6.886 |
 | nvidiaNVIDIA-Nemotron-3-Super-120B-A12B | 6.886 |
 | gpt-4.1-mini-2025-04-14 | 6.871 |
 | gpt-4-turbo-2024-04-09 | 6.843 |
@@ -179,7 +171,6 @@
 | gpt-4.1-2025-04-14 | 6.614 |
 | o3-pro-2025-06-10 | 6.614 |
 | openaigpt-oss-120b | 6.600 |
-| qwenqwen3-coder-next | 6.571 |
 | open-mixtral-8x22b | 6.557 |
 | deepseekdeepseek-v3.2-exp | 6.543 |
 | microsoftphi-4 | 6.543 |

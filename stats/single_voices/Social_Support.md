@@ -30,7 +30,6 @@
 | phi2.7b | 8.029 |
 | xiaomimimo-v2-pro | 8.029 |
 | gpt-4o-2024-05-13 | 8.014 |
-| mistral-large-2407 | 8.014 |
 | gpt-5-nano-2025-08-07 | 7.986 |
 | allenaiolmo-3.1-32b-instruct | 7.971 |
 | gpt-5-mini-2025-08-07 | 7.971 |
@@ -45,7 +44,6 @@
 | phi3.53.8b-mini-instruct-fp16 | 7.914 |
 | falcon37b-instruct-q8_0 | 7.886 |
 | liquidlfm-2.2-6b | 7.886 |
-| open-mistral-nemo | 7.871 |
 | arcee-aitrinity-large-previewfree | 7.857 |
 | falcon310b-instruct-q8_0 | 7.857 |
 | gpt-4-turbo-2024-04-09 | 7.843 |
@@ -56,7 +54,6 @@
 | granite4tiny-h | 7.729 |
 | nvidiaLlama-3.1-Nemotron-70B-Instruct | 7.729 |
 | o3-mini-20250131-HIGH | 7.714 |
-| qwenqwen3-coder-next | 7.700 |
 | gpt-4-0613 | 7.686 |
 | gpt-5-2025-08-07 | 7.686 |
 | anthropicclaude-opus-4.6 | 7.657 |
@@ -110,7 +107,6 @@
 | gemma-3-27b-it | 7.157 |
 | grok-4.20-experimental-beta-0304-reasoning | 7.143 |
 | falcon33b-instruct-q8_0 | 7.129 |
-| claude-3-7-sonnet-20250219-thinking-high | 7.129 |
 | gpt-5.3-codex-spark-low | 7.114 |
 | liquidlfm-2-24b-a2b | 7.114 |
 | meta-llamaLlama-3.3-70B-Instruct | 7.100 |
@@ -125,7 +121,6 @@
 | meta-llamallama-4-scout | 7.029 |
 | Liquid-LFM2.5-350M | 7.029 |
 | openaigpt-5.4 | 6.957 |
-| qwen38b | 6.929 |
 | prime-intellectintellect-3 | 6.914 |
 | googlegemini-3.1-pro-preview | 6.871 |
 | moonshotaikimi-k2.5 | 6.857 |
@@ -140,7 +135,6 @@
 | gemini-2.5-pro-preview-06-05 | 6.743 |
 | chatgpt-4o-latest-2025-04-26 | 6.729 |
 | grok-4-1-fast-non-reasoning | 6.729 |
-| x-aigrok-code-fast-1 | 6.714 |
 | claude-opus-4-5-20251101 | 6.700 |
 | moonshotaikimi-k2.6 | 6.686 |
 | claude-4-opus-20250514 | 6.671 |
@@ -162,12 +156,10 @@
 | arcee-aitrinity-large-thinking | 6.457 |
 | Gpt-5.1-Pro-20251120 | 6.414 |
 | mistral-medium-2508 | 6.414 |
-| claude-4-sonnet-20250514 | 6.386 |
 | ministral-14b-2512 | 6.371 |
 | qwenqwen3.5-35b-a3b | 6.371 |
 | grok-4.20-multi-agent-experimental-beta-0304 | 6.314 |
 | gpt-5.2-2025-12-11 | 6.300 |
-| smollm2135m | 6.300 |
 | gemma4e2b | 6.286 |
 | openaigpt-5.3-chat | 6.200 |
 | meta-llamallama-4-maverick | 6.171 |
@@ -179,7 +171,6 @@
 | anthropicclaude-sonnet-4.5 | 5.914 |
 | googlegemini-3.1-flash-lite-preview | 5.914 |
 | ministral-8b-2512 | 5.786 |
-| smollm2360m | 5.700 |
 | z-aiglm-5-turbo | 5.700 |
 | claude-opus-4-7 | 5.657 |
 | z-aiglm-5v-turbo | 5.586 |

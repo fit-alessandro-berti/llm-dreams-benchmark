@@ -107,10 +107,6 @@
     400,
     100
   ],
-  "claude-3-7-sonnet-20250219-thinking-high": [
-    400,
-    100
-  ],
   "claude-3-opus-20240229": [
     2000,
     250
@@ -118,10 +114,6 @@
   "claude-4-opus-20250514": [
     2000,
     250
-  ],
-  "claude-4-sonnet-20250514": [
-    300,
-    70
   ],
   "claude-haiku-4-5-20251001": [
     80,
@@ -422,9 +414,6 @@
   "ministral-8b-2512": [
     8
   ],
-  "mistral-large-2407": [
-    123
-  ],
   "mistral-large-2512": [
     675,
     41
@@ -488,9 +477,6 @@
   ],
   "open-mistral-7b": [
     7
-  ],
-  "open-mistral-nemo": [
-    12
   ],
   "open-mixtral-8x22b": [
     176
@@ -581,13 +567,6 @@
     35,
     3
   ],
-  "qwen38b": [
-    8
-  ],
-  "qwenqwen3-coder-next": [
-    80,
-    3
-  ],
   "qwenqwen3-max": [
     1175,
     110
@@ -615,19 +594,9 @@
   "smollm21.7b-instruct-q6_K": [
     1.7
   ],
-  "smollm2135m": [
-    0.135
-  ],
-  "smollm2360m": [
-    0.36
-  ],
   "writerpalmyra-x5": [
     120,
     10
-  ],
-  "x-aigrok-code-fast-1": [
-    300,
-    80
   ],
   "xiaomimimo-v2-omni": [],
   "xiaomimimo-v2-pro": [

@@ -14,7 +14,6 @@
 | grok-2-1212 | 8.571 |
 | liquidlfm2-8b-a1b | 8.543 |
 | open-mistral-7b | 8.543 |
-| open-mistral-nemo | 8.500 |
 | falcon37b-instruct-q8_0 | 8.500 |
 | microsoftWizardLM-2-8x22B | 8.457 |
 | microsoftphi-4 | 8.443 |
@@ -28,7 +27,6 @@
 | inceptionmercury | 8.257 |
 | gpt-4-turbo-2024-04-09 | 8.229 |
 | gpt-4-0125-preview | 8.229 |
-| mistral-large-2407 | 8.229 |
 | o1-preview-2024-09-12 | 8.214 |
 | Grok-4.30-20260420 | 8.214 |
 | qwen2.5-32b-instruct | 8.200 |
@@ -71,7 +69,6 @@
 | o1-2024-12-05 | 7.843 |
 | liquidlfm-2.5-1.2b-instructfree | 7.843 |
 | granite4micro | 7.829 |
-| qwenqwen3-coder-next | 7.814 |
 | xiaomimimo-v2-omni | 7.814 |
 | phi2.7b | 7.800 |
 | qwenqwen3.5-122b-a10b | 7.800 |
@@ -103,7 +100,6 @@
 | gemini-1.5-flash-8b | 7.443 |
 | claude-3-7-sonnet-20250219 | 7.429 |
 | gpt-5-chat-latest-2025-08-19 | 7.429 |
-| x-aigrok-code-fast-1 | 7.414 |
 | googlegemini-3.1-flash-lite-preview | 7.386 |
 | googlegemini-3.1-pro-preview | 7.386 |
 | gpt-4-1106-preview | 7.371 |
@@ -133,9 +129,7 @@
 | granite4tiny-h | 7.043 |
 | qwenqwen3.5-35b-a3b | 7.029 |
 | openaigpt-5.4-nano | 7.014 |
-| qwen38b | 7.000 |
 | Gemini-1.5-Pro-Exp-0827 | 6.971 |
-| claude-3-7-sonnet-20250219-thinking-high | 6.957 |
 | grok-4-0709 | 6.957 |
 | gemini-2.0-pro-exp-02-05 | 6.943 |
 | openaigpt-5.4 | 6.943 |
@@ -153,7 +147,6 @@
 | meta-llamaMeta-Llama-3.1-405B-Instruct | 6.771 |
 | ibmgranite41b-h | 6.743 |
 | z-aiglm-5.1 | 6.714 |
-| claude-4-sonnet-20250514 | 6.671 |
 | moonshotaikimi-k2.6 | 6.629 |
 | claude-3-opus-20240229 | 6.571 |
 | claude-3-5-sonnet-20241022 | 6.543 |
@@ -181,11 +174,9 @@
 | z-aiglm-5v-turbo | 5.957 |
 | ministral-3b-2512 | 5.914 |
 | claude-opus-4-7 | 5.800 |
-| smollm2360m | 5.771 |
 | meta-llamallama-4-maverick | 5.743 |
 | qwen3.54b | 5.714 |
 | z-aiglm-5-turbo | 5.700 |
-| smollm2135m | 5.686 |
 | gemini-3-pro-preview | 5.586 |
 | anthropicclaude-sonnet-4.5 | 5.443 |
 | gemini-2.5-pro-exp-03-25 | 5.386 |

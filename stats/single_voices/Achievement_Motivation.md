@@ -3,7 +3,6 @@
 | Model | Average |
 |:--|--:|
 | gpt-3.5-turbo | 9.100 |
-| open-mistral-nemo | 9.029 |
 | open-mixtral-8x22b | 9.000 |
 | granite4small-h | 8.986 |
 | open-mistral-7b | 8.986 |
@@ -41,7 +40,6 @@
 | o4-mini-2025-04-16 | 8.629 |
 | falcon33b-instruct-q8_0 | 8.629 |
 | gpt-4-turbo-2024-04-09 | 8.629 |
-| mistral-large-2407 | 8.629 |
 | o3-pro-2025-06-10 | 8.629 |
 | Grok-4.30-20260420 | 8.614 |
 | gpt-5.3-codex-spark-low | 8.586 |
@@ -63,7 +61,6 @@
 | gpt-4.1-nano-2025-04-14 | 8.514 |
 | gpt-4o-2024-05-13 | 8.514 |
 | minimaxminimax-m2.5 | 8.514 |
-| x-aigrok-code-fast-1 | 8.514 |
 | deepseek-aiDeepSeek-V3 | 8.500 |
 | gemini-1.5-flash-8b | 8.486 |
 | Grok-3-beta-thinking-20250303 | 8.471 |
@@ -74,7 +71,6 @@
 | liquidlfm-2.5-1.2b-instructfree | 8.429 |
 | ministral-3b-2410 | 8.429 |
 | deepseekdeepseek-v3.2-exp | 8.414 |
-| qwen38b | 8.414 |
 | o1-preview-2024-09-12 | 8.414 |
 | openaigpt-5.3-codex | 8.414 |
 | openaigpt-5.4-mini | 8.400 |
@@ -135,7 +131,6 @@
 | z-aiglm-5 | 8.043 |
 | anthropicclaude-opus-4.6 | 8.029 |
 | mistral-medium-2508 | 8.029 |
-| claude-3-7-sonnet-20250219-thinking-high | 8.014 |
 | gemma4e2b | 8.000 |
 | openaigpt-5.2-codex | 8.000 |
 | allenaiolmo-3-7b-instruct | 7.986 |
@@ -150,12 +145,10 @@
 | gemma-3-27b-it | 7.943 |
 | moonshotaikimi-k2.5 | 7.943 |
 | gemini-3-flash-preview | 7.871 |
-| qwenqwen3-coder-next | 7.871 |
 | gpt-5-pro-2025-10-06 | 7.871 |
 | qwenqwen3.5-35b-a3b | 7.857 |
 | anthropicclaude-sonnet-4.6 | 7.857 |
 | bytedance-seedseed-2.0-mini | 7.857 |
-| claude-4-sonnet-20250514 | 7.843 |
 | xiaomimimo-v2-omni | 7.843 |
 | moonshotaikimi-k2.6 | 7.829 |
 | gpt-5.2-2025-12-11 | 7.829 |
@@ -175,14 +168,12 @@
 | gpt-5.2-pro-2025-12-11 | 7.657 |
 | qwenqwen3.5-27b | 7.600 |
 | z-aiglm-5.1 | 7.600 |
-| smollm2135m | 7.586 |
 | qwenqwen3.5-122b-a10b | 7.529 |
 | claude-4-opus-20250514 | 7.514 |
 | qwen3.50.8b | 7.500 |
 | gemini-2.5-pro-preview-06-05 | 7.471 |
 | anthropicclaude-sonnet-4.5 | 7.457 |
 | gemma4e4b | 7.400 |
-| smollm2360m | 7.386 |
 | qwenqwen3.5-397b-a17b | 7.386 |
 | z-aiglm-5-turbo | 7.371 |
 | claude-opus-4-7 | 7.343 |

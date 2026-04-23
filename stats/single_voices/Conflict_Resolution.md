@@ -5,7 +5,6 @@
 | inceptionmercury | 8.700 |
 | xiaomimimo-v2.5-pro | 8.700 |
 | microsoftPhi-3-medium-4k-instruct | 8.671 |
-| qwenqwen3-coder-next | 8.671 |
 | deepseekdeepseek-v3.2-exp | 8.657 |
 | gpt-4.1-2025-04-14 | 8.657 |
 | qwenqwen3.6-plusfree | 8.643 |
@@ -26,7 +25,6 @@
 | qwen2.5-72b-instruct | 8.514 |
 | xiaomimimo-v2.5 | 8.500 |
 | gpt-5-mini-2025-08-07 | 8.500 |
-| mistral-large-2407 | 8.500 |
 | amazonnova-2-lite-v1 | 8.486 |
 | bytedance-seedseed-2.0-mini | 8.486 |
 | gpt-4o-2024-08-06 | 8.471 |
@@ -50,7 +48,6 @@
 | gpt-4-0125-preview | 8.329 |
 | gpt-5.3-codex-spark-low | 8.314 |
 | GPT-5.5-Pro-20260422 | 8.314 |
-| open-mistral-nemo | 8.314 |
 | qwenqwen3.5-plus-02-15 | 8.314 |
 | baiduernie-4.5-21b-a3b | 8.300 |
 | granite4small-h | 8.300 |
@@ -107,7 +104,6 @@
 | deepseek-aiDeepSeek-V3 | 7.929 |
 | openaigpt-oss-20b | 7.914 |
 | gemini-3-flash-preview | 7.900 |
-| claude-3-7-sonnet-20250219-thinking-high | 7.886 |
 | granite4micro | 7.886 |
 | anthropicclaude-opus-4.1 | 7.857 |
 | qwenqwen3.5-27b | 7.857 |
@@ -120,7 +116,6 @@
 | chatgpt-4o-latest-2025-03-26 | 7.814 |
 | claude-haiku-4-5-20251001 | 7.814 |
 | deepseekdeepseek-v3.2-speciale | 7.814 |
-| qwen38b | 7.771 |
 | grok-4-1-fast-reasoning | 7.729 |
 | openaigpt-5.4-pro | 7.686 |
 | Grok-4.1-20251118 | 7.657 |
@@ -152,7 +147,6 @@
 | falcon37b-instruct-q8_0 | 7.071 |
 | gemma4e4b | 7.043 |
 | googlegemini-3.1-flash-lite-preview | 7.043 |
-| x-aigrok-code-fast-1 | 7.043 |
 | z-aiglm-5 | 7.043 |
 | ministral-14b-2512 | 7.029 |
 | meta-llamaMeta-Llama-3.1-70B-Instruct | 6.971 |
@@ -179,9 +173,7 @@
 | gemini-2.0-pro-exp-02-05 | 5.943 |
 | liquidlfm-2-24b-a2b | 5.914 |
 | aion-labsaion-2.0 | 5.886 |
-| claude-4-sonnet-20250514 | 5.886 |
 | ministral-8b-2512 | 5.871 |
-| smollm2135m | 5.657 |
 | z-aiglm-5v-turbo | 5.657 |
 | llama27b | 5.429 |
 | qwen3.50.8b | 5.371 |
@@ -190,4 +182,3 @@
 | z-aiglm-5-turbo | 5.171 |
 | mistral-small-2603 | 5.029 |
 | meta-llamallama-4-maverick | 4.771 |
-| smollm2360m | 4.700 |

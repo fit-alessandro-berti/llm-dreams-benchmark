@@ -18,9 +18,7 @@
 | ministral-14b-2512 | 8.057 |
 | meta-llamaLlama-3.3-70B-Instruct | 8.029 |
 | meta-llamallama-4-scout | 8.029 |
-| smollm2360m | 8.029 |
 | prime-intellectintellect-3 | 8.014 |
-| smollm2135m | 7.986 |
 | meta-llamaMeta-Llama-3.1-70B-Instruct | 7.986 |
 | grok-4.20-multi-agent-experimental-beta-0304 | 7.986 |
 | gemma4e2b | 7.957 |
@@ -36,7 +34,6 @@
 | meta-llamaMeta-Llama-3.1-405B-Instruct | 7.786 |
 | openaigpt-5.3-chat | 7.786 |
 | meta-llamaLlama-3.2-3B-Instruct | 7.771 |
-| qwen38b | 7.771 |
 | qwen3.54b | 7.743 |
 | z-aiglm-5 | 7.729 |
 | claude-opus-4-7 | 7.686 |
@@ -50,11 +47,8 @@
 | gemini-2.5-pro-preview-05-06 | 7.486 |
 | grok-4.20-experimental-beta-0304-non-reasoning | 7.486 |
 | Gpt-5.1-Pro-20251120 | 7.429 |
-| x-aigrok-code-fast-1 | 7.429 |
 | claude-3-5-sonnet-20241022 | 7.414 |
 | gpt-4o-mini-2024-11-05 | 7.414 |
-| claude-4-sonnet-20250514 | 7.400 |
-| claude-3-7-sonnet-20250219-thinking-high | 7.386 |
 | gpt-5.2-pro-2025-12-11 | 7.371 |
 | openaigpt-5.4-nano | 7.357 |
 | z-aiglm-5.1 | 7.357 |
@@ -148,16 +142,13 @@
 | xiaomimimo-v2.5 | 5.429 |
 | qwenqwen3.5-122b-a10b | 5.386 |
 | qwen3.635b-a3b | 5.386 |
-| open-mistral-nemo | 5.314 |
 | microsoftWizardLM-2-8x22B | 5.271 |
 | o1-preview-2024-09-12 | 5.257 |
 | gpt-4.1-2025-04-14 | 5.243 |
-| mistral-large-2407 | 5.243 |
 | gpt-4.1-mini-2025-04-14 | 5.171 |
 | qwen2.5-7b-instruct | 5.171 |
 | xiaomimimo-v2.5-pro | 5.100 |
 | xiaomimimo-v2-omni | 5.029 |
-| qwenqwen3-coder-next | 5.014 |
 | anthropicclaude-sonnet-4.6 | 5.014 |
 | phi33.8b | 5.000 |
 | granite3.28b-instruct-q4_K_M | 4.971 |

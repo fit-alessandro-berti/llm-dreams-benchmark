@@ -32,7 +32,6 @@
 | ibmgranite41b-h | 8.114 |
 | aion-labsaion-2.0 | 8.100 |
 | claude-opus-4-7 | 8.100 |
-| smollm2360m | 8.071 |
 | gpt-4o-mini-2024-11-05 | 8.043 |
 | Grok-4.1-20251118 | 8.043 |
 | z-aiglm-5 | 8.029 |
@@ -44,14 +43,11 @@
 | Gpt-5.1-Pro-20251120 | 7.900 |
 | llama27b | 7.900 |
 | Gemini-1.5-Pro-Exp-0827 | 7.886 |
-| qwen38b | 7.843 |
 | openaigpt-5.3-codex | 7.814 |
 | arcee-aitrinity-large-thinking | 7.786 |
-| claude-3-7-sonnet-20250219-thinking-high | 7.786 |
 | grok-4-1-fast-reasoning | 7.786 |
 | openaigpt-5.4 | 7.771 |
 | moonshotaikimi-k2.5 | 7.757 |
-| smollm2135m | 7.757 |
 | ministral-8b-2512 | 7.743 |
 | chatgpt-4o-latest-2025-04-26 | 7.714 |
 | granite4tiny-h | 7.700 |
@@ -59,7 +55,6 @@
 | grok-4.20-experimental-beta-0304-non-reasoning | 7.686 |
 | chatgpt-4o-latest-2024-11-20 | 7.671 |
 | claude-3-5-sonnet-20241022 | 7.671 |
-| x-aigrok-code-fast-1 | 7.643 |
 | z-aiglm-5.1 | 7.629 |
 | deepseekdeepseek-v3.2-speciale | 7.614 |
 | grok-4-1-fast-non-reasoning | 7.614 |
@@ -85,7 +80,6 @@
 | falcon33b-instruct-q8_0 | 7.171 |
 | gemini-3-flash-preview | 7.171 |
 | deepseek-aiDeepSeek-V3 | 7.129 |
-| claude-4-sonnet-20250514 | 7.114 |
 | gemini-2.5-pro-preview-06-05 | 7.071 |
 | gemma-4-31b-it | 7.029 |
 | nousresearchhermes-4-70b | 6.971 |
@@ -117,7 +111,6 @@
 | GPT-5.5-Pro-20260422 | 6.514 |
 | bytedance-seedseed-2.0-lite | 6.500 |
 | allenaiolmo-3.1-32b-instruct | 6.500 |
-| open-mistral-nemo | 6.443 |
 | anthropicclaude-opus-4.6 | 6.400 |
 | bytedance-seedseed-2.0-mini | 6.386 |
 | liquidlfm-2.5-1.2b-instructfree | 6.386 |
@@ -145,7 +138,6 @@
 | xiaomimimo-v2-omni | 5.843 |
 | openaigpt-oss-20b | 5.800 |
 | qwen2.5-7b-instruct | 5.786 |
-| mistral-large-2407 | 5.771 |
 | nvidiaNVIDIA-Nemotron-3-Super-120B-A12B | 5.771 |
 | granite3.28b-instruct-q4_K_M | 5.743 |
 | qwen3.59b | 5.714 |
@@ -162,7 +154,6 @@
 | inceptionmercury | 5.429 |
 | qwen2.5-72b-instruct | 5.414 |
 | microsoftWizardLM-2-8x22B | 5.386 |
-| qwenqwen3-coder-next | 5.371 |
 | anthropicclaude-sonnet-4.6 | 5.357 |
 | gpt-4o-2024-08-06 | 5.357 |
 | qwen2.5-32b-instruct | 5.357 |

@@ -34,10 +34,7 @@
 | openaigpt-oss-120b | 7.957 |
 | anthropicclaude-sonnet-4.6 | 7.929 |
 | gpt-5-mini-2025-08-07 | 7.929 |
-| mistral-large-2407 | 7.914 |
-| open-mistral-nemo | 7.914 |
 | xiaomimimo-v2.5 | 7.914 |
-| qwenqwen3-coder-next | 7.900 |
 | gpt-4o-2024-05-13 | 7.886 |
 | gpt-4.1-mini-2025-04-14 | 7.857 |
 | microsoftWizardLM-2-8x22B | 7.843 |
@@ -135,11 +132,8 @@
 | Liquid-LFM2.5-350M | 6.329 |
 | Gpt-5.1-Pro-20251120 | 6.329 |
 | grok-4-1-fast-reasoning | 6.314 |
-| claude-3-7-sonnet-20250219-thinking-high | 6.257 |
 | z-aiglm-5.1 | 6.257 |
 | gemini-2.5-pro-preview-05-06 | 6.243 |
-| x-aigrok-code-fast-1 | 6.200 |
-| qwen38b | 6.186 |
 | gemini-3-flash-preview | 6.171 |
 | gpt-5.2-pro-2025-12-11 | 6.157 |
 | moonshotaikimi-k2.5 | 6.114 |
@@ -160,7 +154,6 @@
 | openaigpt-5.3-chat | 5.771 |
 | claude-3-5-sonnet-20241022 | 5.743 |
 | claude-3-opus-20240229 | 5.700 |
-| claude-4-sonnet-20250514 | 5.671 |
 | gemma4e2b | 5.657 |
 | meta-llamaMeta-Llama-3.1-405B-Instruct | 5.643 |
 | claude-opus-4-7 | 5.614 |
@@ -183,9 +176,7 @@
 | mistral-small-2603 | 4.871 |
 | z-aiglm-5v-turbo | 4.857 |
 | ministral-3b-2512 | 4.829 |
-| smollm2360m | 4.743 |
 | anthropicclaude-sonnet-4.5 | 4.729 |
-| smollm2135m | 4.700 |
 | gemini-2.5-pro-exp-03-25 | 4.586 |
 | meta-llamallama-4-maverick | 4.557 |
 | qwen3.50.8b | 4.471 |

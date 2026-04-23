@@ -19,7 +19,6 @@
 | gemma4e4b | 7.571 |
 | gpt-5.2-2025-12-11 | 7.571 |
 | meta-llamaLlama-3.3-70B-Instruct | 7.571 |
-| smollm2360m | 7.557 |
 | prime-intellectintellect-3 | 7.543 |
 | claude-opus-4-7 | 7.529 |
 | meta-llamallama-4-scout | 7.529 |
@@ -30,7 +29,6 @@
 | qwen3.54b | 7.400 |
 | qwen3.52b | 7.386 |
 | gpt-5.2-pro-2025-12-11 | 7.371 |
-| smollm2135m | 7.371 |
 | meta-llamaMeta-Llama-3.1-70B-Instruct | 7.357 |
 | llama27b | 7.300 |
 | writerpalmyra-x5 | 7.286 |
@@ -43,21 +41,18 @@
 | ministral-8b-2512 | 7.014 |
 | Grok-4.1-20251118 | 7.000 |
 | openaigpt-5.4-nano | 6.971 |
-| claude-3-7-sonnet-20250219-thinking-high | 6.929 |
 | grok-4.20-experimental-beta-0304-non-reasoning | 6.914 |
 | claude-3-5-sonnet-20241022 | 6.914 |
 | ibmgranite41b-h | 6.914 |
 | z-aiglm-5 | 6.900 |
 | anthropicclaude-opus-4.1 | 6.886 |
 | arcee-aitrinity-large-thinking | 6.871 |
-| qwen38b | 6.857 |
 | claude-4-opus-20250514 | 6.843 |
 | allenaiolmo-3-7b-think | 6.800 |
 | gpt-4o-mini-2024-11-05 | 6.800 |
 | openaigpt-5.3-codex | 6.743 |
 | openaigpt-5.4 | 6.743 |
 | smollm21.7b-instruct-q6_K | 6.729 |
-| claude-4-sonnet-20250514 | 6.700 |
 | granite4tiny-h | 6.700 |
 | Liquid-LFM2.5-350M | 6.671 |
 | openaigpt-5.4-pro | 6.643 |
@@ -65,7 +60,6 @@
 | z-aiglm-5.1 | 6.614 |
 | moonshotaikimi-k2.5 | 6.571 |
 | grok-4-0709 | 6.543 |
-| x-aigrok-code-fast-1 | 6.514 |
 | chatgpt-4o-latest-2024-11-20 | 6.500 |
 | grok-4-1-fast-reasoning | 6.471 |
 | gemini-2.5-pro-preview-06-05 | 6.457 |
@@ -149,7 +143,6 @@
 | phi33.8b | 4.471 |
 | o1-preview-2024-09-12 | 4.457 |
 | openaigpt-5.4-mini | 4.414 |
-| mistral-large-2407 | 4.400 |
 | qwenqwen3.5-122b-a10b | 4.400 |
 | microsoftWizardLM-2-8x22B | 4.386 |
 | gpt-4.1-2025-04-14 | 4.371 |
@@ -157,7 +150,6 @@
 | xiaomimimo-v2.5-pro | 4.357 |
 | granite3.28b-instruct-q4_K_M | 4.314 |
 | gpt-4o-2024-05-13 | 4.300 |
-| open-mistral-nemo | 4.300 |
 | gpt-5-mini-2025-08-07 | 4.243 |
 | xiaomimimo-v2-omni | 4.229 |
 | gpt-4.1-mini-2025-04-14 | 4.214 |
@@ -165,7 +157,6 @@
 | o3-mini-20250131-HIGH | 4.143 |
 | phi4-reasoningplus | 4.143 |
 | gpt-5-nano-2025-08-07 | 4.129 |
-| qwenqwen3-coder-next | 4.114 |
 | gpt-4-turbo-2024-04-09 | 4.086 |
 | gpt-4o-2024-08-06 | 4.086 |
 | deepseekdeepseek-v3.2 | 4.071 |

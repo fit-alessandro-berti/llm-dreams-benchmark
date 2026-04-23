@@ -64,8 +64,10 @@
 | gpt-4.1-2025-04-14 | 8.000 |
 | grok-4.20-experimental-beta-0304-reasoning | 8.000 |
 | phi3.53.8b-mini-instruct-fp16 | 7.986 |
+| xiaomimimo-v2.5 | 7.986 |
 | mistral-small-2501 | 7.986 |
 | o1-pro-2024-12-05 | 7.986 |
+| xiaomimimo-v2.5-pro | 7.971 |
 | gpt-5-nano-2025-08-07 | 7.971 |
 | ministral-3b-2410 | 7.971 |
 | Grok-4-fast | 7.957 |

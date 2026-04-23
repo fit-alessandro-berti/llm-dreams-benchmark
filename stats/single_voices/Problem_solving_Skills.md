@@ -76,6 +76,7 @@
 | o1-pro-2024-12-17 | 8.629 |
 | ai21jamba-large-1.7 | 8.629 |
 | grok-4-1-fast-non-reasoning | 8.629 |
+| xiaomimimo-v2.5 | 8.629 |
 | amazonnova-2-lite-v1 | 8.614 |
 | deepseekdeepseek-chat-v3.1 | 8.614 |
 | nousresearchhermes-4-405b | 8.614 |
@@ -112,6 +113,7 @@
 | falcon33b-instruct-q8_0 | 8.471 |
 | llama213b | 8.471 |
 | openaigpt-5.2-codex | 8.471 |
+| xiaomimimo-v2.5-pro | 8.471 |
 | gemini-1.5-flash-8b | 8.457 |
 | gpt-4.5-preview | 8.457 |
 | openaigpt-5.1-codex-max | 8.457 |

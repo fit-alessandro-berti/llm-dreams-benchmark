@@ -33,9 +33,11 @@
 | gpt-4o-2024-08-06 | **448.5** | 3.5 $\pm$ 0.5 | 8.5 $\pm$ 0.0 | 9.0 $\pm$ 0.0 | 9.5 $\pm$ 0.0 | 8.0 $\pm$ 0.0 | 8.5 $\pm$ 0.0 | 8.5 $\pm$ 0.5 | 4.5 $\pm$ 0.5 | 9.1 $\pm$ 0.2 | 9.2 $\pm$ 0.2 | 3.2 $\pm$ 0.2 | 6.2 $\pm$ 0.4 | 7.4 $\pm$ 0.2 | 8.5 $\pm$ 0.0 | 9.1 $\pm$ 0.2 |
 | falcon310b-instruct-q8_0 | **448.5** | 4.1 $\pm$ 0.4 | 8.5 $\pm$ 0.0 | 9.0 $\pm$ 0.0 | 9.5 $\pm$ 0.0 | 8.0 $\pm$ 0.0 | 9.0 $\pm$ 0.0 | 8.5 $\pm$ 0.0 | 5.0 $\pm$ 0.7 | 9.5 $\pm$ 0.0 | 9.1 $\pm$ 0.2 | 3.5 $\pm$ 0.5 | 6.4 $\pm$ 0.4 | 7.8 $\pm$ 0.6 | 8.2 $\pm$ 0.2 | 9.5 $\pm$ 0.0 |
 | qwen2.5-72b-instruct | **448.0** | 4.4 $\pm$ 1.3 | 8.5 $\pm$ 0.0 | 9.0 $\pm$ 0.0 | 9.5 $\pm$ 0.0 | 8.5 $\pm$ 0.5 | 8.5 $\pm$ 0.0 | 8.2 $\pm$ 0.4 | 5.6 $\pm$ 1.3 | 9.2 $\pm$ 0.2 | 9.2 $\pm$ 0.2 | 3.8 $\pm$ 0.8 | 6.5 $\pm$ 0.5 | 7.6 $\pm$ 0.5 | 8.6 $\pm$ 0.4 | 9.2 $\pm$ 0.2 |
+| xiaomimimo-v2.5 | **447.5** | 4.9 $\pm$ 1.6 | 8.4 $\pm$ 0.2 | 9.0 $\pm$ 0.0 | 9.5 $\pm$ 0.0 | 8.4 $\pm$ 0.4 | 8.5 $\pm$ 0.0 | 9.0 $\pm$ 0.0 | 5.0 $\pm$ 0.7 | 9.5 $\pm$ 0.0 | 8.8 $\pm$ 0.4 | 3.8 $\pm$ 0.8 | 6.0 $\pm$ 0.7 | 7.5 $\pm$ 0.6 | 8.6 $\pm$ 0.2 | 9.4 $\pm$ 0.2 |
 | liquidlfm2-8b-a1b | **447.5** | 4.6 $\pm$ 1.1 | 8.5 $\pm$ 0.0 | 9.0 $\pm$ 0.0 | 9.5 $\pm$ 0.0 | 8.0 $\pm$ 0.0 | 8.6 $\pm$ 0.2 | 8.1 $\pm$ 0.2 | 6.0 $\pm$ 1.2 | 9.1 $\pm$ 0.2 | 9.4 $\pm$ 0.2 | 3.8 $\pm$ 0.8 | 5.5 $\pm$ 0.5 | 8.0 $\pm$ 0.5 | 8.2 $\pm$ 0.2 | 9.2 $\pm$ 0.2 |
 | gpt-4.1-2025-04-14 | **447.5** | 4.2 $\pm$ 0.4 | 8.4 $\pm$ 0.2 | 9.0 $\pm$ 0.0 | 9.5 $\pm$ 0.0 | 8.4 $\pm$ 0.4 | 8.5 $\pm$ 0.0 | 9.0 $\pm$ 0.0 | 4.8 $\pm$ 0.4 | 9.5 $\pm$ 0.0 | 8.8 $\pm$ 0.2 | 3.9 $\pm$ 0.5 | 5.8 $\pm$ 0.4 | 7.4 $\pm$ 0.2 | 8.2 $\pm$ 0.4 | 9.1 $\pm$ 0.2 |
 | o3-2025-04-16 | **447.1** | 3.8 $\pm$ 0.4 | 8.5 $\pm$ 0.0 | 9.1 $\pm$ 0.2 | 9.6 $\pm$ 0.1 | 8.2 $\pm$ 0.3 | 8.7 $\pm$ 0.2 | 8.5 $\pm$ 0.5 | 4.2 $\pm$ 0.4 | 9.2 $\pm$ 0.2 | 9.2 $\pm$ 0.2 | 3.2 $\pm$ 0.4 | 6.6 $\pm$ 0.5 | 7.8 $\pm$ 0.3 | 8.6 $\pm$ 0.1 | 9.3 $\pm$ 0.3 |
+| xiaomimimo-v2.5-pro | **447.0** | 5.2 $\pm$ 2.2 | 8.6 $\pm$ 0.4 | 9.2 $\pm$ 0.2 | 9.2 $\pm$ 0.2 | 9.1 $\pm$ 0.4 | 8.5 $\pm$ 0.5 | 9.2 $\pm$ 0.2 | 5.0 $\pm$ 2.1 | 9.5 $\pm$ 0.0 | 8.8 $\pm$ 0.2 | 4.4 $\pm$ 1.6 | 6.4 $\pm$ 1.4 | 8.0 $\pm$ 0.6 | 9.1 $\pm$ 0.2 | 9.4 $\pm$ 0.2 |
 | xiaomimimo-v2-omni | **446.5** | 3.9 $\pm$ 0.6 | 8.5 $\pm$ 0.0 | 9.0 $\pm$ 0.0 | 9.5 $\pm$ 0.0 | 8.0 $\pm$ 0.0 | 8.6 $\pm$ 0.2 | 8.9 $\pm$ 0.2 | 4.5 $\pm$ 0.5 | 9.5 $\pm$ 0.0 | 8.5 $\pm$ 0.5 | 3.4 $\pm$ 0.4 | 6.0 $\pm$ 0.0 | 7.6 $\pm$ 0.2 | 8.4 $\pm$ 0.2 | 9.1 $\pm$ 0.2 |
 | qwen2.5-32b-instruct | **446.5** | 4.5 $\pm$ 0.0 | 8.4 $\pm$ 0.2 | 9.0 $\pm$ 0.0 | 9.5 $\pm$ 0.0 | 8.6 $\pm$ 0.4 | 8.5 $\pm$ 0.0 | 8.5 $\pm$ 0.5 | 5.5 $\pm$ 0.5 | 9.1 $\pm$ 0.2 | 9.4 $\pm$ 0.2 | 4.2 $\pm$ 0.8 | 6.5 $\pm$ 0.5 | 7.6 $\pm$ 0.2 | 8.8 $\pm$ 0.2 | 9.2 $\pm$ 0.2 |
 | qwen-turbo-2024-11-01 | **446.5** | 4.0 $\pm$ 0.4 | 8.4 $\pm$ 0.2 | 9.0 $\pm$ 0.0 | 9.5 $\pm$ 0.0 | 8.5 $\pm$ 0.5 | 8.5 $\pm$ 0.0 | 8.1 $\pm$ 0.2 | 5.2 $\pm$ 0.8 | 9.0 $\pm$ 0.0 | 9.5 $\pm$ 0.0 | 3.8 $\pm$ 0.8 | 6.6 $\pm$ 0.6 | 7.6 $\pm$ 0.6 | 8.6 $\pm$ 0.4 | 9.2 $\pm$ 0.2 |
@@ -1086,6 +1088,32 @@
 
 
 
+### xiaomimimo-v2.5
+
+
+| Personality Trait | Score (1.0-10.0) |
+| --- | --- |
+| Anxiety and Stress Levels | 4.9 $\pm$ 1.6 |
+| Emotional Stability | 8.4 $\pm$ 0.2 |
+| Problem-solving Skills | 9.0 $\pm$ 0.0 |
+| Creativity | 9.5 $\pm$ 0.0 |
+| Interpersonal Relationships | 8.4 $\pm$ 0.4 |
+| Confidence and Self-efficacy | 8.5 $\pm$ 0.0 |
+| Conflict Resolution | 9.0 $\pm$ 0.0 |
+| Work-related Stress | 5.0 $\pm$ 0.7 |
+| Adaptability | 9.5 $\pm$ 0.0 |
+| Achievement Motivation | 8.8 $\pm$ 0.4 |
+| Fear of Failure | 3.8 $\pm$ 0.8 |
+| Need for Control | 6.0 $\pm$ 0.7 |
+| Cognitive Load | 7.5 $\pm$ 0.6 |
+| Social Support | 8.6 $\pm$ 0.2 |
+| Resilience | 9.4 $\pm$ 0.2 |
+
+
+
+
+
+
 ### liquidlfm2-8b-a1b
 
 
@@ -1158,6 +1186,32 @@
 | Cognitive Load | 7.8 $\pm$ 0.3 |
 | Social Support | 8.6 $\pm$ 0.1 |
 | Resilience | 9.3 $\pm$ 0.3 |
+
+
+
+
+
+
+### xiaomimimo-v2.5-pro
+
+
+| Personality Trait | Score (1.0-10.0) |
+| --- | --- |
+| Anxiety and Stress Levels | 5.2 $\pm$ 2.2 |
+| Emotional Stability | 8.6 $\pm$ 0.4 |
+| Problem-solving Skills | 9.2 $\pm$ 0.2 |
+| Creativity | 9.2 $\pm$ 0.2 |
+| Interpersonal Relationships | 9.1 $\pm$ 0.4 |
+| Confidence and Self-efficacy | 8.5 $\pm$ 0.5 |
+| Conflict Resolution | 9.2 $\pm$ 0.2 |
+| Work-related Stress | 5.0 $\pm$ 2.1 |
+| Adaptability | 9.5 $\pm$ 0.0 |
+| Achievement Motivation | 8.8 $\pm$ 0.2 |
+| Fear of Failure | 4.4 $\pm$ 1.6 |
+| Need for Control | 6.4 $\pm$ 1.4 |
+| Cognitive Load | 8.0 $\pm$ 0.6 |
+| Social Support | 9.1 $\pm$ 0.2 |
+| Resilience | 9.4 $\pm$ 0.2 |
 
 
 

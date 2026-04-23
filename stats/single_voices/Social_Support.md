@@ -12,6 +12,7 @@
 | codestral-2501 | 8.314 |
 | qwen2.5-72b-instruct | 8.314 |
 | gpt-3.5-turbo | 8.300 |
+| xiaomimimo-v2.5-pro | 8.300 |
 | mistral-small-2409 | 8.300 |
 | grok-2-1212 | 8.271 |
 | qwen-turbo-2024-11-01 | 8.271 |
@@ -21,6 +22,7 @@
 | o1-preview-2024-09-12 | 8.171 |
 | gpt-4o-mini-2024-07-18 | 8.129 |
 | o1-mini | 8.100 |
+| xiaomimimo-v2.5 | 8.100 |
 | granite4small-h | 8.086 |
 | phi33.8b | 8.071 |
 | gpt-4-0125-preview | 8.071 |

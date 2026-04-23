@@ -4,6 +4,7 @@
 |:--|--:|
 | openrouterelephant-alpha | 8.757 |
 | inceptionmercury | 8.700 |
+| xiaomimimo-v2.5-pro | 8.700 |
 | microsoftPhi-3-medium-4k-instruct | 8.671 |
 | qwenqwen3-coder-next | 8.671 |
 | deepseekdeepseek-v3.2-exp | 8.657 |
@@ -27,6 +28,7 @@
 | gpt-3.5-turbo | 8.514 |
 | gpt-5-nano-2025-08-07 | 8.514 |
 | qwen2.5-72b-instruct | 8.514 |
+| xiaomimimo-v2.5 | 8.500 |
 | gpt-5-mini-2025-08-07 | 8.500 |
 | mistral-large-2407 | 8.500 |
 | amazonnova-2-lite-v1 | 8.486 |

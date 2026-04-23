@@ -247,6 +247,7 @@
 | gpt-4-turbo-2024-04-09 | 6.843 |
 | inceptionmercury | 6.843 |
 | phi4-reasoningplus | 6.843 |
+| xiaomimimo-v2.5 | 6.843 |
 | ai21jamba-mini-1.7 | 6.829 |
 | deepseekdeepseek-v3.2 | 6.800 |
 | gpt-5-mini-2025-08-07 | 6.800 |
@@ -275,5 +276,6 @@
 | open-mixtral-8x7b | 6.429 |
 | qwenqwen3.5-122b-a10b | 6.429 |
 | openrouterelephant-alpha | 6.371 |
+| xiaomimimo-v2.5-pro | 6.329 |
 | gpt-4.5-preview | 6.086 |
 | qwenqwen3.6-plusfree | 5.629 |

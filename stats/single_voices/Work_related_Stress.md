@@ -254,12 +254,14 @@
 | gpt-4o-2024-08-06 | 5.357 |
 | qwen2.5-32b-instruct | 5.357 |
 | gpt-4.1-2025-04-14 | 5.343 |
+| xiaomimimo-v2.5-pro | 5.300 |
 | o3-mini-20250131-HIGH | 5.286 |
 | gpt-4-0125-preview | 5.271 |
 | qwenqwen3.5-122b-a10b | 5.271 |
 | o3-2025-04-16 | 5.214 |
 | phi4-reasoningplus | 5.214 |
 | gpt-5-mini-2025-08-07 | 5.200 |
+| xiaomimimo-v2.5 | 5.200 |
 | open-mixtral-8x22b | 5.200 |
 | granite4small-h | 5.171 |
 | openaigpt-oss-120b | 5.171 |

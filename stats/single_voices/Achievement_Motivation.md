@@ -193,6 +193,7 @@
 | aion-labsaion-2.0 | 8.071 |
 | gpt-4.1-2025-04-14 | 8.071 |
 | openaigpt-5.3-chat | 8.057 |
+| xiaomimimo-v2.5 | 8.057 |
 | gemini-2.5-flash-preview-04-17 | 8.043 |
 | googlegemini-3.1-pro-preview | 8.043 |
 | ministral-14b-2512 | 8.043 |
@@ -235,6 +236,7 @@
 | gemma-4-26b-a4b-it | 7.800 |
 | gemini-2.5-flash-preview-09-2025 | 7.786 |
 | gemini-2.5-pro-exp-03-25 | 7.786 |
+| xiaomimimo-v2.5-pro | 7.786 |
 | GPT-5.5-Pro-20260422 | 7.786 |
 | nvidiallama-3.1-nemotron-nano-8b-v1 | 7.771 |
 | gemini-2.0-flash-lite-preview-02-05 | 7.771 |

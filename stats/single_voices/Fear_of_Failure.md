@@ -229,6 +229,7 @@
 | claude-haiku-4-5-20251001 | 4.657 |
 | liquidlfm-2.2-6b | 4.614 |
 | qwen3.635b-a3b | 4.500 |
+| xiaomimimo-v2.5 | 4.471 |
 | phi33.8b | 4.471 |
 | o1-preview-2024-09-12 | 4.457 |
 | openaigpt-5.4-mini | 4.414 |
@@ -237,6 +238,7 @@
 | microsoftWizardLM-2-8x22B | 4.386 |
 | gpt-4.1-2025-04-14 | 4.371 |
 | qwen2.5-7b-instruct | 4.371 |
+| xiaomimimo-v2.5-pro | 4.357 |
 | qwen-turbo-2024-11-01 | 4.329 |
 | granite3.28b-instruct-q4_K_M | 4.314 |
 | gpt-4o-2024-05-13 | 4.300 |

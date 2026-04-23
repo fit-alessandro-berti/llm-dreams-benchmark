@@ -247,6 +247,7 @@
 | gemma-4-26b-a4b-it | 5.000 |
 | liquidlfm2-8b-a1b | 5.000 |
 | o3-pro-2025-06-10 | 5.000 |
+| xiaomimimo-v2.5 | 5.000 |
 | grok-4.20-experimental-beta-0304-reasoning | 4.986 |
 | anthropicclaude-opus-4.6 | 4.971 |
 | gpt-4.1-2025-04-14 | 4.971 |
@@ -264,6 +265,7 @@
 | gpt-4-0125-preview | 4.800 |
 | qwenqwen3.5-27b | 4.800 |
 | gpt-4.5-preview | 4.800 |
+| xiaomimimo-v2.5-pro | 4.771 |
 | o3-mini-20250131-HIGH | 4.743 |
 | gemini-2.5-pro-preview-06-05 | 4.729 |
 | qwenqwen3-next-80b-a3b-instruct | 4.629 |

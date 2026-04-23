@@ -29,6 +29,7 @@
 | microsoftphi-4 | 9.086 |
 | open-mixtral-8x7b | 9.086 |
 | gpt-4-0125-preview | 9.071 |
+| xiaomimimo-v2.5 | 9.071 |
 | gpt-5.3-codex-spark-low | 9.057 |
 | qwenqwen3-coder-next | 9.057 |
 | gpt-5-nano-2025-08-07 | 9.057 |
@@ -38,6 +39,7 @@
 | phi3.53.8b-mini-instruct-fp16 | 9.043 |
 | xiaomimimo-v2-pro | 9.043 |
 | gpt-4o-2024-08-06 | 9.029 |
+| xiaomimimo-v2.5-pro | 9.029 |
 | granite3.28b-instruct-q4_K_M | 9.014 |
 | openaigpt-5.4-mini | 9.014 |
 | phi33.8b | 9.014 |

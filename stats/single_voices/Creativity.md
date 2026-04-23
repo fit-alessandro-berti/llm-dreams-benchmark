@@ -109,6 +109,7 @@
 | minimaxminimax-m2free | 9.529 |
 | ministral-14b-2512 | 9.529 |
 | QwenQwen3-30B-A3B | 9.529 |
+| xiaomimimo-v2.5 | 9.529 |
 | deepseekdeepseek-v3.2 | 9.514 |
 | gemma-3-27b-it | 9.514 |
 | gemma31b-it-q8_0 | 9.514 |
@@ -156,6 +157,7 @@
 | gpt-4o-mini-2024-07-18 | 9.457 |
 | mistral-large-2411 | 9.457 |
 | nvidiaLlama-3.1-Nemotron-70B-Instruct | 9.457 |
+| xiaomimimo-v2.5-pro | 9.457 |
 | ChatGPT-5.1-Instant-20251113 | 9.457 |
 | deepseekdeepseek-chat-v3.1 | 9.457 |
 | chatgpt-4o-latest-20250215 | 9.443 |

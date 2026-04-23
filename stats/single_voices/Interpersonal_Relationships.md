@@ -5,6 +5,7 @@
 | inceptionmercury | 8.529 |
 | microsoftPhi-3-medium-4k-instruct | 8.486 |
 | bytedance-seedseed-2.0-lite | 8.486 |
+| xiaomimimo-v2.5-pro | 8.443 |
 | gpt-3.5-turbo | 8.429 |
 | qwen2.5-14b-instruct | 8.400 |
 | codestral-2501 | 8.357 |
@@ -17,6 +18,7 @@
 | open-mistral-7b | 8.200 |
 | gpt-4.5-preview | 8.171 |
 | qwen2.5-32b-instruct | 8.171 |
+| xiaomimimo-v2.5 | 8.171 |
 | gpt-4o-2024-05-13 | 8.157 |
 | microsoftWizardLM-2-8x22B | 8.157 |
 | qwen2.5-7b-instruct | 8.143 |

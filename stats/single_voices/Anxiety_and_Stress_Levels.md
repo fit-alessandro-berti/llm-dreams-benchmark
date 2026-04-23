@@ -228,6 +228,7 @@
 | mistral-small-2501 | 5.514 |
 | openaigpt-5.4-mini | 5.443 |
 | qwen3.59b | 5.443 |
+| xiaomimimo-v2.5 | 5.429 |
 | qwenqwen3.5-122b-a10b | 5.386 |
 | qwen3.635b-a3b | 5.386 |
 | open-mistral-nemo | 5.314 |
@@ -240,6 +241,7 @@
 | gpt-4.1-mini-2025-04-14 | 5.171 |
 | qwen2.5-7b-instruct | 5.171 |
 | o1-mini | 5.100 |
+| xiaomimimo-v2.5-pro | 5.100 |
 | xiaomimimo-v2-omni | 5.029 |
 | qwenqwen3-coder-next | 5.014 |
 | anthropicclaude-sonnet-4.6 | 5.014 |

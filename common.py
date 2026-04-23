@@ -1,4 +1,4 @@
-ANSWERING_MODEL_NAME = "moonshotai/kimi-k2.6"
+ANSWERING_MODEL_NAME = "xiaomi/mimo-v2.5-pro"
 EVALUATING_MODEL_NAME = "gpt-5.2"
 
 

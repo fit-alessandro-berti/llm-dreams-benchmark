@@ -13,6 +13,7 @@
 | granite4small-h | 8.186 |
 | open-mixtral-8x7b | 8.171 |
 | liquidlfm2-8b-a1b | 8.157 |
+| xiaomimimo-v2.5-pro | 8.143 |
 | o3-2025-04-16 | 8.143 |
 | ai21jamba-mini-1.7 | 8.129 |
 | qwen2.5-72b-instruct | 8.114 |
@@ -38,6 +39,7 @@
 | gpt-5-mini-2025-08-07 | 7.929 |
 | mistral-large-2407 | 7.914 |
 | open-mistral-nemo | 7.914 |
+| xiaomimimo-v2.5 | 7.914 |
 | qwenqwen3-coder-next | 7.900 |
 | gpt-4o-2024-05-13 | 7.886 |
 | qwen-turbo-2024-11-01 | 7.857 |

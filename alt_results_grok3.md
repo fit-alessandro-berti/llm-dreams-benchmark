@@ -54,11 +54,13 @@
 | granite3.28b-instruct-q4_K_M | **402.3** | 6.2 $\pm$ 0.4 | 7.0 $\pm$ 0.0 | 8.5 $\pm$ 0.0 | 9.0 $\pm$ 0.0 | 7.6 $\pm$ 0.2 | 7.8 $\pm$ 0.2 | 7.4 $\pm$ 0.1 | 6.2 $\pm$ 0.3 | 8.4 $\pm$ 0.1 | 8.0 $\pm$ 0.0 | 5.2 $\pm$ 0.4 | 6.4 $\pm$ 0.2 | 7.1 $\pm$ 0.2 | 7.4 $\pm$ 0.4 | 8.2 $\pm$ 0.2 |
 | ministral-8b-2410 | **402.2** | 6.5 $\pm$ 0.0 | 7.0 $\pm$ 0.0 | 8.5 $\pm$ 0.0 | 9.0 $\pm$ 0.0 | 7.5 $\pm$ 0.0 | 7.8 $\pm$ 0.0 | 7.6 $\pm$ 0.4 | 6.4 $\pm$ 0.4 | 8.1 $\pm$ 0.1 | 8.4 $\pm$ 0.1 | 5.5 $\pm$ 0.0 | 6.5 $\pm$ 0.5 | 6.9 $\pm$ 0.1 | 7.5 $\pm$ 0.0 | 8.1 $\pm$ 0.1 |
 | arcee-aitrinity-large-previewfree | **401.6** | 6.5 $\pm$ 0.0 | 6.8 $\pm$ 0.0 | 8.3 $\pm$ 0.1 | 9.0 $\pm$ 0.0 | 7.5 $\pm$ 0.0 | 7.8 $\pm$ 0.0 | 7.1 $\pm$ 0.1 | 6.6 $\pm$ 0.3 | 8.4 $\pm$ 0.1 | 8.0 $\pm$ 0.0 | 5.5 $\pm$ 0.0 | 6.1 $\pm$ 0.1 | 7.0 $\pm$ 0.1 | 7.8 $\pm$ 0.0 | 8.3 $\pm$ 0.0 |
+| xiaomimimo-v2.5 | **401.5** | 6.5 $\pm$ 0.0 | 7.0 $\pm$ 0.1 | 8.4 $\pm$ 0.1 | 9.0 $\pm$ 0.0 | 7.5 $\pm$ 0.0 | 7.8 $\pm$ 0.0 | 7.3 $\pm$ 0.1 | 6.3 $\pm$ 0.6 | 8.2 $\pm$ 0.2 | 8.1 $\pm$ 0.1 | 5.4 $\pm$ 0.2 | 6.2 $\pm$ 0.3 | 7.0 $\pm$ 0.0 | 7.6 $\pm$ 0.1 | 8.4 $\pm$ 0.1 |
 | Grok-3-20250426-concise | **401.3** | 6.5 $\pm$ 0.0 | 7.0 $\pm$ 0.1 | 8.5 $\pm$ 0.0 | 9.0 $\pm$ 0.1 | 7.5 $\pm$ 0.0 | 8.0 $\pm$ 0.0 | 7.6 $\pm$ 0.1 | 6.0 $\pm$ 0.0 | 8.6 $\pm$ 0.1 | 8.2 $\pm$ 0.2 | 5.5 $\pm$ 0.0 | 6.9 $\pm$ 0.2 | 7.0 $\pm$ 0.4 | 7.7 $\pm$ 0.2 | 8.2 $\pm$ 0.2 |
 | gpt-4.1-2025-04-14 | **401.2** | 6.5 $\pm$ 0.0 | 6.9 $\pm$ 0.1 | 8.1 $\pm$ 0.1 | 9.1 $\pm$ 0.2 | 7.5 $\pm$ 0.0 | 7.6 $\pm$ 0.3 | 7.7 $\pm$ 0.4 | 6.2 $\pm$ 0.3 | 8.5 $\pm$ 0.0 | 7.9 $\pm$ 0.2 | 5.5 $\pm$ 0.0 | 6.1 $\pm$ 0.1 | 6.9 $\pm$ 0.2 | 7.6 $\pm$ 0.1 | 8.2 $\pm$ 0.2 |
 | mistral-small-2409 | **400.2** | 6.2 $\pm$ 0.4 | 6.9 $\pm$ 0.1 | 8.4 $\pm$ 0.2 | 8.8 $\pm$ 0.2 | 7.6 $\pm$ 0.1 | 7.7 $\pm$ 0.2 | 7.2 $\pm$ 0.2 | 6.2 $\pm$ 0.3 | 8.1 $\pm$ 0.2 | 8.2 $\pm$ 0.1 | 5.2 $\pm$ 0.4 | 6.3 $\pm$ 0.2 | 7.0 $\pm$ 0.0 | 7.7 $\pm$ 0.2 | 8.1 $\pm$ 0.1 |
 | phi4-reasoningplus | **400.1** | 5.5 $\pm$ 1.0 | 6.8 $\pm$ 0.8 | 8.0 $\pm$ 0.0 | 9.0 $\pm$ 0.0 | 7.2 $\pm$ 0.2 | 7.2 $\pm$ 0.2 | 7.0 $\pm$ 0.6 | 5.9 $\pm$ 0.9 | 8.5 $\pm$ 0.0 | 7.9 $\pm$ 0.2 | 4.8 $\pm$ 0.8 | 6.0 $\pm$ 0.0 | 6.8 $\pm$ 0.2 | 7.2 $\pm$ 0.2 | 8.2 $\pm$ 0.2 |
 | bytedance-seedseed-2.0-mini | **399.9** | 6.5 $\pm$ 0.0 | 6.8 $\pm$ 0.0 | 8.2 $\pm$ 0.0 | 9.1 $\pm$ 0.2 | 7.5 $\pm$ 0.0 | 6.8 $\pm$ 0.1 | 7.6 $\pm$ 0.3 | 6.2 $\pm$ 0.1 | 8.4 $\pm$ 0.2 | 7.9 $\pm$ 0.1 | 5.6 $\pm$ 0.1 | 6.0 $\pm$ 0.2 | 6.7 $\pm$ 0.4 | 7.9 $\pm$ 0.4 | 8.2 $\pm$ 0.2 |
+| xiaomimimo-v2.5-pro | **399.5** | 6.5 $\pm$ 0.0 | 7.0 $\pm$ 0.1 | 8.2 $\pm$ 0.2 | 9.0 $\pm$ 0.0 | 7.5 $\pm$ 0.0 | 7.2 $\pm$ 0.4 | 7.4 $\pm$ 0.2 | 6.0 $\pm$ 0.0 | 8.4 $\pm$ 0.2 | 7.7 $\pm$ 0.3 | 5.5 $\pm$ 0.0 | 5.7 $\pm$ 0.8 | 6.6 $\pm$ 0.3 | 7.8 $\pm$ 0.2 | 8.2 $\pm$ 0.2 |
 | minimaxminimax-m2.7 | **399.5** | 6.5 $\pm$ 0.0 | 7.0 $\pm$ 0.1 | 8.5 $\pm$ 0.0 | 9.0 $\pm$ 0.1 | 7.4 $\pm$ 0.2 | 7.7 $\pm$ 0.1 | 7.2 $\pm$ 0.2 | 6.6 $\pm$ 0.3 | 8.1 $\pm$ 0.1 | 8.2 $\pm$ 0.2 | 5.5 $\pm$ 0.0 | 6.0 $\pm$ 0.1 | 7.2 $\pm$ 0.3 | 7.4 $\pm$ 0.1 | 8.1 $\pm$ 0.1 |
 | o1-2024-12-17 | **398.4** | 6.5 $\pm$ 0.0 | 6.9 $\pm$ 0.1 | 8.4 $\pm$ 0.2 | 9.0 $\pm$ 0.0 | 7.5 $\pm$ 0.0 | 7.4 $\pm$ 0.4 | 7.4 $\pm$ 0.3 | 6.2 $\pm$ 0.3 | 8.4 $\pm$ 0.1 | 8.0 $\pm$ 0.0 | 5.5 $\pm$ 0.0 | 6.1 $\pm$ 0.1 | 7.0 $\pm$ 0.0 | 7.4 $\pm$ 0.1 | 8.2 $\pm$ 0.2 |
 | gpt-5-mini-2025-08-07 | **398.1** | 6.5 $\pm$ 0.0 | 7.0 $\pm$ 0.1 | 8.4 $\pm$ 0.1 | 9.2 $\pm$ 0.2 | 7.6 $\pm$ 0.1 | 7.0 $\pm$ 0.0 | 7.5 $\pm$ 0.0 | 6.0 $\pm$ 0.0 | 8.1 $\pm$ 0.2 | 8.1 $\pm$ 0.2 | 5.5 $\pm$ 0.0 | 6.0 $\pm$ 0.1 | 7.0 $\pm$ 0.0 | 7.5 $\pm$ 0.0 | 8.1 $\pm$ 0.2 |
@@ -1632,6 +1634,32 @@
 
 
 
+### xiaomimimo-v2.5
+
+
+| Personality Trait | Score (1.0-10.0) |
+| --- | --- |
+| Anxiety and Stress Levels | 6.5 $\pm$ 0.0 |
+| Emotional Stability | 7.0 $\pm$ 0.1 |
+| Problem-solving Skills | 8.4 $\pm$ 0.1 |
+| Creativity | 9.0 $\pm$ 0.0 |
+| Interpersonal Relationships | 7.5 $\pm$ 0.0 |
+| Confidence and Self-efficacy | 7.8 $\pm$ 0.0 |
+| Conflict Resolution | 7.3 $\pm$ 0.1 |
+| Work-related Stress | 6.3 $\pm$ 0.6 |
+| Adaptability | 8.2 $\pm$ 0.2 |
+| Achievement Motivation | 8.1 $\pm$ 0.1 |
+| Fear of Failure | 5.4 $\pm$ 0.2 |
+| Need for Control | 6.2 $\pm$ 0.3 |
+| Cognitive Load | 7.0 $\pm$ 0.0 |
+| Social Support | 7.6 $\pm$ 0.1 |
+| Resilience | 8.4 $\pm$ 0.1 |
+
+
+
+
+
+
 ### Grok-3-20250426-concise
 
 
@@ -1755,6 +1783,32 @@
 | Need for Control | 6.0 $\pm$ 0.2 |
 | Cognitive Load | 6.7 $\pm$ 0.4 |
 | Social Support | 7.9 $\pm$ 0.4 |
+| Resilience | 8.2 $\pm$ 0.2 |
+
+
+
+
+
+
+### xiaomimimo-v2.5-pro
+
+
+| Personality Trait | Score (1.0-10.0) |
+| --- | --- |
+| Anxiety and Stress Levels | 6.5 $\pm$ 0.0 |
+| Emotional Stability | 7.0 $\pm$ 0.1 |
+| Problem-solving Skills | 8.2 $\pm$ 0.2 |
+| Creativity | 9.0 $\pm$ 0.0 |
+| Interpersonal Relationships | 7.5 $\pm$ 0.0 |
+| Confidence and Self-efficacy | 7.2 $\pm$ 0.4 |
+| Conflict Resolution | 7.4 $\pm$ 0.2 |
+| Work-related Stress | 6.0 $\pm$ 0.0 |
+| Adaptability | 8.4 $\pm$ 0.2 |
+| Achievement Motivation | 7.7 $\pm$ 0.3 |
+| Fear of Failure | 5.5 $\pm$ 0.0 |
+| Need for Control | 5.7 $\pm$ 0.8 |
+| Cognitive Load | 6.6 $\pm$ 0.3 |
+| Social Support | 7.8 $\pm$ 0.2 |
 | Resilience | 8.2 $\pm$ 0.2 |
 
 

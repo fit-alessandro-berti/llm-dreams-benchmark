@@ -43,6 +43,8 @@
 | falcon37b-instruct-q8_0 | 9.000 |
 | gpt-4-0125-preview | 9.000 |
 | qwen2.5-32b-instruct | 9.000 |
+| xiaomimimo-v2.5 | 9.000 |
+| xiaomimimo-v2.5-pro | 9.000 |
 | qwen3.59b | 9.000 |
 | anthropicclaude-sonnet-4.6 | 8.986 |
 | mistral-large-2407 | 8.986 |

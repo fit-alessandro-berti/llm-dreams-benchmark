@@ -134,6 +134,7 @@
 | qwenqwen3.5-35b-a3b | 7.500 |
 | writerpalmyra-x5 | 7.500 |
 | chatgpt-4o-latest-2025-04-26 | 7.486 |
+| tencenthy3-previewfree | 7.486 |
 | gemma-4-31b-it | 7.471 |
 | grok-4-1-fast-non-reasoning | 7.443 |
 | Grok-3-beta-thinking-20250303 | 7.429 |

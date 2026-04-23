@@ -22,6 +22,7 @@
 | llama213b | 6.686 |
 | mistral-medium-2508 | 6.671 |
 | claude-3-opus-20240229 | 6.643 |
+| tencenthy3-previewfree | 6.629 |
 | meta-llamaLlama-3.3-70B-Instruct | 6.614 |
 | Gpt-5.1-Pro-20251120 | 6.600 |
 | gpt-5.2-pro-2025-12-11 | 6.600 |

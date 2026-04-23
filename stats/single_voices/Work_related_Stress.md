@@ -14,6 +14,7 @@
 | meta-llamallama-4-maverick | 8.414 |
 | meta-llamallama-4-scout | 8.414 |
 | mistral-large-2512 | 8.386 |
+| tencenthy3-previewfree | 8.386 |
 | meta-llamaMeta-Llama-3.1-405B-Instruct | 8.343 |
 | meta-llamaMeta-Llama-3.1-8B-Instruct | 8.314 |
 | ministral-3b-2512 | 8.314 |

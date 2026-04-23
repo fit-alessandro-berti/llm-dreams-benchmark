@@ -149,6 +149,7 @@
 | claude-3-5-sonnet-20241022 | 8.000 |
 | meta-llamaMeta-Llama-3.1-405B-Instruct | 7.986 |
 | claude-3-opus-20240229 | 7.971 |
+| tencenthy3-previewfree | 7.957 |
 | qwenqwen3.5-27b | 7.943 |
 | meta-llamaMeta-Llama-3.1-70B-Instruct | 7.943 |
 | meta-llamallama-4-scout | 7.900 |

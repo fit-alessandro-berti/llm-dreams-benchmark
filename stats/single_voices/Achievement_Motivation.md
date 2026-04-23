@@ -131,6 +131,7 @@
 | z-aiglm-5 | 8.043 |
 | anthropicclaude-opus-4.6 | 8.029 |
 | mistral-medium-2508 | 8.029 |
+| tencenthy3-previewfree | 8.014 |
 | gemma4e2b | 8.000 |
 | openaigpt-5.2-codex | 8.000 |
 | allenaiolmo-3-7b-instruct | 7.986 |

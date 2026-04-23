@@ -1,4 +1,4 @@
-ANSWERING_MODEL_NAME = "xiaomi/mimo-v2.5-pro"
+ANSWERING_MODEL_NAME = "tencent/hy3-preview:free"
 EVALUATING_MODEL_NAME = "gpt-5.2"
 
 

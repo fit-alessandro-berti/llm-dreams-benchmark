@@ -23,6 +23,7 @@
 | claude-opus-4-7 | 7.529 |
 | meta-llamallama-4-scout | 7.529 |
 | gemini-2.0-pro-exp-02-05 | 7.514 |
+| tencenthy3-previewfree | 7.500 |
 | claude-3-opus-20240229 | 7.471 |
 | ministral-14b-2512 | 7.471 |
 | meta-llamaMeta-Llama-3.1-8B-Instruct | 7.429 |

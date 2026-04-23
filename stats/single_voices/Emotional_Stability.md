@@ -156,6 +156,7 @@
 | claude-3-opus-20240229 | 5.700 |
 | gemma4e2b | 5.657 |
 | meta-llamaMeta-Llama-3.1-405B-Instruct | 5.643 |
+| tencenthy3-previewfree | 5.629 |
 | claude-opus-4-7 | 5.614 |
 | ministral-8b-2512 | 5.614 |
 | writerpalmyra-x5 | 5.557 |

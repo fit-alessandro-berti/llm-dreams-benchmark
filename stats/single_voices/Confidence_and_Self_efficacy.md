@@ -148,6 +148,7 @@
 | ibmgranite41b-h | 6.743 |
 | z-aiglm-5.1 | 6.714 |
 | moonshotaikimi-k2.6 | 6.629 |
+| tencenthy3-previewfree | 6.629 |
 | claude-3-opus-20240229 | 6.571 |
 | claude-3-5-sonnet-20241022 | 6.543 |
 | openaigpt-5.3-chat | 6.543 |

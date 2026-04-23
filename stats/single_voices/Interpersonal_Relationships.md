@@ -146,6 +146,7 @@
 | gpt-5.2-2025-12-11 | 6.814 |
 | Gpt-5.1-Pro-20251120 | 6.800 |
 | moonshotaikimi-k2.6 | 6.800 |
+| tencenthy3-previewfree | 6.800 |
 | claude-4-opus-20250514 | 6.771 |
 | claude-3-opus-20240229 | 6.729 |
 | gpt-5.2-pro-2025-12-11 | 6.729 |

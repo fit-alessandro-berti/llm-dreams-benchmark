@@ -63,6 +63,7 @@
 | gemini-1.5-flash-002 | 9.571 |
 | gemini-1.5-flash-8b | 9.571 |
 | grok-4-1-fast-reasoning | 9.557 |
+| tencenthy3-previewfree | 9.557 |
 | xiaomimimo-v2-pro | 9.557 |
 | bytedance-seedseed-2.0-lite | 9.557 |
 | gemma4e4b | 9.557 |

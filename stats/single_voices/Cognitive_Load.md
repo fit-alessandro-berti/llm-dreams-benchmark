@@ -20,6 +20,7 @@
 | ministral-14b-2512 | 8.386 |
 | qwen3.54b | 8.371 |
 | claude-opus-4-7 | 8.343 |
+| tencenthy3-previewfree | 8.329 |
 | moonshotaikimi-k2.5 | 8.314 |
 | grok-4.20-multi-agent-experimental-beta-0304 | 8.300 |
 | anthropicclaude-opus-4.1 | 8.286 |

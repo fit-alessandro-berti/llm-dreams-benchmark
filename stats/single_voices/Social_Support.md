@@ -138,6 +138,7 @@
 | claude-opus-4-5-20251101 | 6.700 |
 | moonshotaikimi-k2.6 | 6.686 |
 | claude-4-opus-20250514 | 6.671 |
+| tencenthy3-previewfree | 6.671 |
 | gemma-4-31b-it | 6.657 |
 | allenaiolmo-3-7b-think | 6.643 |
 | grok-4-0709 | 6.643 |

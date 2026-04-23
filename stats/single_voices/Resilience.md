@@ -149,6 +149,7 @@
 | gemma-4-26b-a4b-it | 8.157 |
 | anthropicclaude-opus-4.1 | 8.129 |
 | ibmgranite41b-h | 8.129 |
+| tencenthy3-previewfree | 8.129 |
 | z-aiglm-5.1 | 8.100 |
 | arcee-aitrinity-large-thinking | 8.086 |
 | writerpalmyra-x5 | 8.086 |

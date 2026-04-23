@@ -145,6 +145,7 @@
 | arcee-aitrinity-large-thinking | 8.557 |
 | Liquid-LFM2.5-350M | 8.543 |
 | phi2.7b | 8.543 |
+| tencenthy3-previewfree | 8.543 |
 | grok-4.20-multi-agent-experimental-beta-0304 | 8.514 |
 | mistral-medium-2508 | 8.500 |
 | gpt-5.2-2025-12-11 | 8.500 |

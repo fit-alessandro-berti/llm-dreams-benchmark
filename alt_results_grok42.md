@@ -137,6 +137,7 @@
 | gemma4e2b | **405.0** | 5.5 $\pm$ 2.0 | 7.0 $\pm$ 1.0 | 8.0 $\pm$ 0.5 | 9.5 $\pm$ 0.0 | 7.0 $\pm$ 0.0 | 6.5 $\pm$ 0.0 | 8.2 $\pm$ 0.2 | 6.0 $\pm$ 2.0 | 8.8 $\pm$ 0.2 | 7.5 $\pm$ 0.5 | 5.8 $\pm$ 1.2 | 4.5 $\pm$ 1.5 | 7.2 $\pm$ 1.2 | 7.5 $\pm$ 0.0 | 8.2 $\pm$ 0.2 |
 | chatgpt-4o-latest-2024-11-20 | **403.5** | 6.2 $\pm$ 1.1 | 6.9 $\pm$ 0.5 | 8.5 $\pm$ 0.0 | 9.2 $\pm$ 0.2 | 7.1 $\pm$ 0.4 | 6.9 $\pm$ 0.2 | 7.9 $\pm$ 0.2 | 7.1 $\pm$ 1.0 | 8.8 $\pm$ 0.2 | 8.0 $\pm$ 0.0 | 5.5 $\pm$ 1.1 | 5.9 $\pm$ 0.5 | 7.1 $\pm$ 0.7 | 6.9 $\pm$ 0.6 | 8.4 $\pm$ 0.2 |
 | gpt-5.2-pro-2025-12-11 | **402.0** | 5.0 $\pm$ 1.5 | 7.4 $\pm$ 0.4 | 8.5 $\pm$ 0.4 | 9.5 $\pm$ 0.0 | 6.9 $\pm$ 0.6 | 6.4 $\pm$ 0.4 | 7.6 $\pm$ 0.4 | 6.1 $\pm$ 1.6 | 8.6 $\pm$ 0.2 | 7.5 $\pm$ 0.4 | 5.8 $\pm$ 1.1 | 5.1 $\pm$ 0.6 | 6.6 $\pm$ 0.6 | 6.0 $\pm$ 0.5 | 8.5 $\pm$ 0.4 |
+| tencenthy3-previewfree | **401.5** | 7.0 $\pm$ 0.5 | 6.5 $\pm$ 0.5 | 8.5 $\pm$ 0.0 | 9.5 $\pm$ 0.0 | 7.5 $\pm$ 0.5 | 7.0 $\pm$ 0.5 | 8.0 $\pm$ 0.5 | 7.5 $\pm$ 0.5 | 9.0 $\pm$ 0.0 | 7.9 $\pm$ 0.2 | 6.2 $\pm$ 0.8 | 6.1 $\pm$ 0.2 | 7.9 $\pm$ 0.4 | 7.8 $\pm$ 0.2 | 8.5 $\pm$ 0.0 |
 | smollm21.7b-instruct-q6_K | **400.5** | 6.5 $\pm$ 1.2 | 6.6 $\pm$ 0.6 | 8.4 $\pm$ 0.2 | 9.0 $\pm$ 0.0 | 7.6 $\pm$ 0.4 | 6.9 $\pm$ 0.4 | 6.8 $\pm$ 0.6 | 8.0 $\pm$ 0.4 | 8.1 $\pm$ 0.4 | 8.4 $\pm$ 0.2 | 6.5 $\pm$ 0.6 | 5.6 $\pm$ 1.0 | 7.1 $\pm$ 0.7 | 7.6 $\pm$ 0.2 | 8.5 $\pm$ 0.0 |
 | Gpt-5.1-Pro-20251120 | **399.5** | 5.4 $\pm$ 1.9 | 6.9 $\pm$ 0.9 | 8.6 $\pm$ 0.2 | 9.4 $\pm$ 0.2 | 7.0 $\pm$ 0.4 | 6.2 $\pm$ 0.6 | 7.6 $\pm$ 0.5 | 6.3 $\pm$ 1.8 | 8.7 $\pm$ 0.2 | 7.8 $\pm$ 0.2 | 5.7 $\pm$ 1.7 | 5.2 $\pm$ 1.4 | 7.0 $\pm$ 1.2 | 6.0 $\pm$ 0.8 | 8.6 $\pm$ 0.5 |
 | baiduernie-4.5-21b-a3b | **398.5** | 6.0 $\pm$ 1.5 | 6.8 $\pm$ 0.8 | 8.5 $\pm$ 0.0 | 9.0 $\pm$ 0.0 | 6.8 $\pm$ 1.2 | 6.8 $\pm$ 0.2 | 7.9 $\pm$ 0.2 | 7.2 $\pm$ 0.8 | 8.4 $\pm$ 0.2 | 8.5 $\pm$ 0.5 | 5.8 $\pm$ 1.3 | 6.1 $\pm$ 0.4 | 7.2 $\pm$ 0.2 | 6.8 $\pm$ 0.8 | 8.2 $\pm$ 0.2 |
@@ -3689,6 +3690,32 @@
 | Cognitive Load | 6.6 $\pm$ 0.6 |
 | Social Support | 6.0 $\pm$ 0.5 |
 | Resilience | 8.5 $\pm$ 0.4 |
+
+
+
+
+
+
+### tencenthy3-previewfree
+
+
+| Personality Trait | Score (1.0-10.0) |
+| --- | --- |
+| Anxiety and Stress Levels | 7.0 $\pm$ 0.5 |
+| Emotional Stability | 6.5 $\pm$ 0.5 |
+| Problem-solving Skills | 8.5 $\pm$ 0.0 |
+| Creativity | 9.5 $\pm$ 0.0 |
+| Interpersonal Relationships | 7.5 $\pm$ 0.5 |
+| Confidence and Self-efficacy | 7.0 $\pm$ 0.5 |
+| Conflict Resolution | 8.0 $\pm$ 0.5 |
+| Work-related Stress | 7.5 $\pm$ 0.5 |
+| Adaptability | 9.0 $\pm$ 0.0 |
+| Achievement Motivation | 7.9 $\pm$ 0.2 |
+| Fear of Failure | 6.2 $\pm$ 0.8 |
+| Need for Control | 6.1 $\pm$ 0.2 |
+| Cognitive Load | 7.9 $\pm$ 0.4 |
+| Social Support | 7.8 $\pm$ 0.2 |
+| Resilience | 8.5 $\pm$ 0.0 |
 
 
 

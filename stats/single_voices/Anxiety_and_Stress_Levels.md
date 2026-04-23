@@ -20,6 +20,7 @@
 | meta-llamallama-4-scout | 8.029 |
 | prime-intellectintellect-3 | 8.014 |
 | meta-llamaMeta-Llama-3.1-70B-Instruct | 7.986 |
+| tencenthy3-previewfree | 7.986 |
 | grok-4.20-multi-agent-experimental-beta-0304 | 7.986 |
 | gemma4e2b | 7.957 |
 | meta-llamaMeta-Llama-3.1-8B-Instruct | 7.957 |

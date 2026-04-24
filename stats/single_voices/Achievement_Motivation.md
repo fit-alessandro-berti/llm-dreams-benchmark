@@ -65,6 +65,7 @@
 | gemini-1.5-flash-8b | 8.486 |
 | Grok-3-beta-thinking-20250303 | 8.471 |
 | allenaiolmo-3-7b-think | 8.457 |
+| deepseekdeepseek-v4-flash | 8.457 |
 | meta-llamaLlama-3.3-70B-Instruct | 8.457 |
 | chatgpt-4o-latest-2024-11-20 | 8.443 |
 | Grok-4-fast-20251111 | 8.429 |
@@ -155,6 +156,7 @@
 | moonshotaikimi-k2.6 | 7.829 |
 | gpt-5.2-2025-12-11 | 7.829 |
 | mistral-large-2512 | 7.814 |
+| deepseekdeepseek-v4-pro | 7.814 |
 | gemma-4-26b-a4b-it | 7.800 |
 | gemini-2.5-pro-exp-03-25 | 7.786 |
 | xiaomimimo-v2.5-pro | 7.786 |

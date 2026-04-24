@@ -107,7 +107,9 @@
 | chatgpt-4o-latest-2025-03-26 | 7.357 |
 | gemini-1.5-flash-002 | 7.357 |
 | bytedance-seedseed-2.0-mini | 7.357 |
+| deepseekdeepseek-v4-flash | 7.343 |
 | gpt-5-2025-08-07 | 7.329 |
+| deepseekdeepseek-v4-pro | 7.329 |
 | grok-4-1-fast-reasoning | 7.314 |
 | gemini-3-flash-preview | 7.300 |
 | liquidlfm-2.5-1.2b-thinkingfree | 7.300 |

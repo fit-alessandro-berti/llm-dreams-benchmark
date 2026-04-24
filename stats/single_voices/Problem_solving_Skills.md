@@ -85,6 +85,7 @@
 | gemini-1.5-flash-8b | 8.457 |
 | gpt-4.5-preview | 8.457 |
 | claude-3-7-sonnet-20250219 | 8.443 |
+| deepseekdeepseek-v4-flash | 8.443 |
 | grok-4.20-experimental-beta-0304-reasoning | 8.443 |
 | liquidlfm-2-24b-a2b | 8.443 |
 | openaigpt-oss-20b | 8.443 |
@@ -129,6 +130,7 @@
 | openaigpt-5.3-chat | 8.214 |
 | deepseekdeepseek-v3.2-speciale | 8.200 |
 | openaigpt-5.4-pro | 8.200 |
+| deepseekdeepseek-v4-pro | 8.200 |
 | qwenqwen3.6-plusfree | 8.200 |
 | smollm21.7b-instruct-q6_K | 8.200 |
 | Liquid-LFM2.5-350M | 8.186 |

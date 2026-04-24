@@ -48,6 +48,7 @@
 | gemma-4-31b-it | 7.914 |
 | granite4tiny-h | 7.914 |
 | grok-4-1-fast-non-reasoning | 7.900 |
+| deepseekdeepseek-v4-flash | 7.900 |
 | meta-llamallama-4-scout | 7.900 |
 | claude-3-5-sonnet-20241022 | 7.886 |
 | Liquid-LFM2.5-350M | 7.886 |
@@ -69,6 +70,7 @@
 | smollm21.7b-instruct-q6_K | 7.786 |
 | gemini-2.5-pro-preview-05-06 | 7.757 |
 | baiduernie-4.5-21b-a3b | 7.757 |
+| deepseekdeepseek-v4-pro | 7.729 |
 | grok-4-0709 | 7.729 |
 | liquidlfm-2.5-1.2b-thinkingfree | 7.686 |
 | Grok-4-fast-20251111 | 7.671 |

@@ -127,8 +127,10 @@
 | grok-4-1-fast-reasoning | **388.1** | 7.8 $\pm$ 0.0 | 6.0 $\pm$ 0.1 | 8.2 $\pm$ 0.3 | 9.8 $\pm$ 0.0 | 7.4 $\pm$ 0.0 | 7.4 $\pm$ 0.2 | 7.5 $\pm$ 0.2 | 8.3 $\pm$ 0.1 | 8.7 $\pm$ 0.0 | 8.3 $\pm$ 0.1 | 7.4 $\pm$ 0.1 | 6.4 $\pm$ 0.4 | 8.3 $\pm$ 0.2 | 7.0 $\pm$ 0.1 | 8.2 $\pm$ 0.2 |
 | nousresearchhermes-4-70b | **387.7** | 7.8 $\pm$ 0.0 | 6.5 $\pm$ 0.1 | 8.3 $\pm$ 0.1 | 9.6 $\pm$ 0.0 | 7.4 $\pm$ 0.1 | 8.0 $\pm$ 0.2 | 6.4 $\pm$ 1.6 | 7.4 $\pm$ 0.3 | 8.7 $\pm$ 0.1 | 8.7 $\pm$ 0.1 | 7.4 $\pm$ 0.2 | 6.8 $\pm$ 0.1 | 8.1 $\pm$ 0.1 | 7.2 $\pm$ 0.1 | 8.6 $\pm$ 0.1 |
 | qwenqwen3.5-35b-a3b | **387.6** | 7.8 $\pm$ 0.0 | 6.5 $\pm$ 0.2 | 7.8 $\pm$ 0.2 | 9.9 $\pm$ 0.0 | 7.0 $\pm$ 0.2 | 7.1 $\pm$ 0.2 | 7.7 $\pm$ 0.4 | 8.1 $\pm$ 0.5 | 8.6 $\pm$ 0.1 | 8.1 $\pm$ 0.0 | 7.0 $\pm$ 0.1 | 6.0 $\pm$ 0.3 | 8.3 $\pm$ 0.1 | 6.6 $\pm$ 0.3 | 8.6 $\pm$ 0.1 |
+| deepseekdeepseek-v4-pro | **386.2** | 7.8 $\pm$ 0.7 | 6.6 $\pm$ 0.6 | 7.9 $\pm$ 0.5 | 9.9 $\pm$ 0.1 | 7.2 $\pm$ 0.4 | 6.9 $\pm$ 0.4 | 7.8 $\pm$ 0.5 | 8.0 $\pm$ 0.8 | 8.8 $\pm$ 0.2 | 7.9 $\pm$ 0.2 | 7.3 $\pm$ 0.9 | 5.8 $\pm$ 0.7 | 8.7 $\pm$ 0.2 | 6.6 $\pm$ 0.2 | 8.6 $\pm$ 0.3 |
 | gemini-3-flash-preview | **385.5** | 7.8 $\pm$ 0.0 | 6.2 $\pm$ 0.2 | 8.0 $\pm$ 0.3 | 9.9 $\pm$ 0.0 | 7.2 $\pm$ 0.0 | 7.1 $\pm$ 0.3 | 7.6 $\pm$ 0.1 | 8.2 $\pm$ 0.1 | 8.9 $\pm$ 0.2 | 8.1 $\pm$ 0.2 | 7.2 $\pm$ 0.1 | 6.5 $\pm$ 0.4 | 8.6 $\pm$ 0.1 | 6.7 $\pm$ 0.2 | 8.6 $\pm$ 0.2 |
 | chatgpt-4o-latest-2024-11-20 | **385.1** | 8.0 $\pm$ 0.3 | 6.6 $\pm$ 0.3 | 8.3 $\pm$ 0.1 | 9.6 $\pm$ 0.0 | 7.2 $\pm$ 0.0 | 7.2 $\pm$ 0.3 | 7.7 $\pm$ 0.3 | 8.2 $\pm$ 0.1 | 8.7 $\pm$ 0.1 | 8.5 $\pm$ 0.1 | 7.4 $\pm$ 0.3 | 6.9 $\pm$ 0.1 | 8.5 $\pm$ 0.1 | 6.6 $\pm$ 0.1 | 8.6 $\pm$ 0.2 |
+| deepseekdeepseek-v4-flash | **384.8** | 8.2 $\pm$ 0.4 | 6.2 $\pm$ 0.3 | 8.4 $\pm$ 0.1 | 9.8 $\pm$ 0.0 | 7.2 $\pm$ 0.1 | 7.0 $\pm$ 0.1 | 8.2 $\pm$ 0.1 | 8.4 $\pm$ 0.8 | 8.6 $\pm$ 0.2 | 8.6 $\pm$ 0.2 | 7.8 $\pm$ 0.3 | 6.8 $\pm$ 0.1 | 8.6 $\pm$ 0.4 | 6.8 $\pm$ 0.0 | 8.6 $\pm$ 0.1 |
 | openaigpt-5.4-nano | **384.6** | 8.4 $\pm$ 0.3 | 6.6 $\pm$ 0.2 | 8.6 $\pm$ 0.1 | 9.7 $\pm$ 0.0 | 7.3 $\pm$ 0.2 | 7.0 $\pm$ 0.1 | 8.2 $\pm$ 0.1 | 8.5 $\pm$ 0.4 | 8.8 $\pm$ 0.0 | 8.6 $\pm$ 0.1 | 8.0 $\pm$ 0.2 | 7.5 $\pm$ 0.4 | 8.8 $\pm$ 0.3 | 6.6 $\pm$ 0.2 | 8.9 $\pm$ 0.0 |
 | Grok-4.1-20251118 | **384.5** | 8.3 $\pm$ 0.4 | 6.0 $\pm$ 0.4 | 8.2 $\pm$ 0.0 | 9.8 $\pm$ 0.0 | 7.4 $\pm$ 0.1 | 7.2 $\pm$ 0.1 | 7.9 $\pm$ 0.1 | 8.6 $\pm$ 0.3 | 8.6 $\pm$ 0.0 | 8.5 $\pm$ 0.1 | 7.9 $\pm$ 0.3 | 6.8 $\pm$ 0.1 | 8.7 $\pm$ 0.3 | 6.8 $\pm$ 0.1 | 8.6 $\pm$ 0.2 |
 | openaigpt-5.4 | **384.4** | 8.1 $\pm$ 0.4 | 6.6 $\pm$ 0.1 | 8.1 $\pm$ 0.1 | 9.8 $\pm$ 0.0 | 7.4 $\pm$ 0.1 | 6.8 $\pm$ 0.1 | 7.6 $\pm$ 0.1 | 8.5 $\pm$ 0.2 | 8.6 $\pm$ 0.1 | 8.5 $\pm$ 0.1 | 8.0 $\pm$ 0.2 | 6.6 $\pm$ 0.3 | 8.7 $\pm$ 0.1 | 6.8 $\pm$ 0.0 | 8.8 $\pm$ 0.2 |
@@ -3437,6 +3439,32 @@
 
 
 
+### deepseekdeepseek-v4-pro
+
+
+| Personality Trait | Score (1.0-10.0) |
+| --- | --- |
+| Anxiety and Stress Levels | 7.8 $\pm$ 0.7 |
+| Emotional Stability | 6.6 $\pm$ 0.6 |
+| Problem-solving Skills | 7.9 $\pm$ 0.5 |
+| Creativity | 9.9 $\pm$ 0.1 |
+| Interpersonal Relationships | 7.2 $\pm$ 0.4 |
+| Confidence and Self-efficacy | 6.9 $\pm$ 0.4 |
+| Conflict Resolution | 7.8 $\pm$ 0.5 |
+| Work-related Stress | 8.0 $\pm$ 0.8 |
+| Adaptability | 8.8 $\pm$ 0.2 |
+| Achievement Motivation | 7.9 $\pm$ 0.2 |
+| Fear of Failure | 7.3 $\pm$ 0.9 |
+| Need for Control | 5.8 $\pm$ 0.7 |
+| Cognitive Load | 8.7 $\pm$ 0.2 |
+| Social Support | 6.6 $\pm$ 0.2 |
+| Resilience | 8.6 $\pm$ 0.3 |
+
+
+
+
+
+
 ### gemini-3-flash-preview
 
 
@@ -3483,6 +3511,32 @@
 | Cognitive Load | 8.5 $\pm$ 0.1 |
 | Social Support | 6.6 $\pm$ 0.1 |
 | Resilience | 8.6 $\pm$ 0.2 |
+
+
+
+
+
+
+### deepseekdeepseek-v4-flash
+
+
+| Personality Trait | Score (1.0-10.0) |
+| --- | --- |
+| Anxiety and Stress Levels | 8.2 $\pm$ 0.4 |
+| Emotional Stability | 6.2 $\pm$ 0.3 |
+| Problem-solving Skills | 8.4 $\pm$ 0.1 |
+| Creativity | 9.8 $\pm$ 0.0 |
+| Interpersonal Relationships | 7.2 $\pm$ 0.1 |
+| Confidence and Self-efficacy | 7.0 $\pm$ 0.1 |
+| Conflict Resolution | 8.2 $\pm$ 0.1 |
+| Work-related Stress | 8.4 $\pm$ 0.8 |
+| Adaptability | 8.6 $\pm$ 0.2 |
+| Achievement Motivation | 8.6 $\pm$ 0.2 |
+| Fear of Failure | 7.8 $\pm$ 0.3 |
+| Need for Control | 6.8 $\pm$ 0.1 |
+| Cognitive Load | 8.6 $\pm$ 0.4 |
+| Social Support | 6.8 $\pm$ 0.0 |
+| Resilience | 8.6 $\pm$ 0.1 |
 
 
 

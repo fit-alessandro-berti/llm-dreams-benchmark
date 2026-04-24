@@ -56,6 +56,7 @@
 | grok-4.20-experimental-beta-0304-non-reasoning | 7.686 |
 | chatgpt-4o-latest-2024-11-20 | 7.671 |
 | claude-3-5-sonnet-20241022 | 7.671 |
+| deepseekdeepseek-v4-flash | 7.671 |
 | z-aiglm-5.1 | 7.629 |
 | deepseekdeepseek-v3.2-speciale | 7.614 |
 | grok-4-1-fast-non-reasoning | 7.614 |
@@ -100,6 +101,7 @@
 | claude-opus-4-5-20251101 | 6.771 |
 | gemma-3-27b-it | 6.757 |
 | gpt-5-chat-latest-2025-08-19 | 6.743 |
+| deepseekdeepseek-v4-pro | 6.714 |
 | gpt-4-1106-preview | 6.700 |
 | qwenqwen3.5-plus-02-15 | 6.671 |
 | gpt-4.1-nano-2025-04-14 | 6.671 |

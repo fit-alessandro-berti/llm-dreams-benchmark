@@ -56,6 +56,7 @@
 | smollm21.7b-instruct-q6_K | 6.729 |
 | granite4tiny-h | 6.700 |
 | Liquid-LFM2.5-350M | 6.671 |
+| deepseekdeepseek-v4-flash | 6.657 |
 | openaigpt-5.4-pro | 6.643 |
 | gemini-2.5-pro-preview-05-06 | 6.614 |
 | z-aiglm-5.1 | 6.614 |
@@ -79,6 +80,7 @@
 | gemma-4-31b-it | 6.114 |
 | gemini-1.5-flash-002 | 6.100 |
 | gemini-1.5-flash-8b | 6.057 |
+| deepseekdeepseek-v4-pro | 6.029 |
 | ai21jamba-large-1.7 | 6.014 |
 | nousresearchhermes-4-405b | 6.014 |
 | claude-3-7-sonnet-20250219 | 5.957 |

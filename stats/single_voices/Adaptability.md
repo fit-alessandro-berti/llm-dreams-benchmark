@@ -90,6 +90,7 @@
 | grok-4-1-fast-reasoning | 8.857 |
 | minimaxminimax-m2.5 | 8.857 |
 | phi33.8b | 8.857 |
+| deepseekdeepseek-v4-pro | 8.857 |
 | gemma-3-27b-it | 8.843 |
 | gpt-4.1-nano-2025-04-14 | 8.843 |
 | GPT-5.5-Pro-20260422 | 8.843 |
@@ -136,6 +137,7 @@
 | falcon33b-instruct-q8_0 | 8.686 |
 | openaigpt-5.3-chat | 8.671 |
 | anthropicclaude-opus-4.1 | 8.671 |
+| deepseekdeepseek-v4-flash | 8.643 |
 | Grok-4.1-20251118 | 8.643 |
 | qwenqwen3.5-35b-a3b | 8.629 |
 | claude-4-opus-20250514 | 8.629 |

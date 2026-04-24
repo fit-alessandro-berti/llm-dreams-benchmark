@@ -112,6 +112,7 @@
 | qwenqwen3-max | 6.700 |
 | falcon33b-instruct-q8_0 | 6.686 |
 | openaigpt-5.4 | 6.671 |
+| deepseekdeepseek-v4-pro | 6.643 |
 | nousresearchhermes-4-70b | 6.629 |
 | openaigpt-5.3-codex | 6.600 |
 | smollm21.7b-instruct-q6_K | 6.586 |
@@ -128,6 +129,7 @@
 | chatgpt-4o-latest-2025-04-26 | 6.400 |
 | qwenqwen3.5-35b-a3b | 6.400 |
 | chatgpt-4o-latest-2024-11-20 | 6.386 |
+| deepseekdeepseek-v4-flash | 6.371 |
 | gemma-4-26b-a4b-it | 6.371 |
 | gemini-1.5-flash-8b | 6.357 |
 | Liquid-LFM2.5-350M | 6.329 |

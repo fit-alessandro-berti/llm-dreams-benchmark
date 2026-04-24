@@ -98,6 +98,7 @@
 | liquidlfm-2.5-1.2b-thinkingfree | 8.686 |
 | ministral-3b-2410 | 8.671 |
 | ChatGPT-5.1-Instant-20251113 | 8.657 |
+| deepseekdeepseek-v4-pro | 8.657 |
 | gemini-2.5-pro-preview-06-05 | 8.657 |
 | gemini-2.0-pro-exp-02-05 | 8.643 |
 | gemini-3-flash-preview | 8.643 |
@@ -115,6 +116,7 @@
 | gemini-2.5-pro-preview-05-06 | 8.571 |
 | gpt-4-1106-preview | 8.571 |
 | openaigpt-5.4-nano | 8.571 |
+| deepseekdeepseek-v4-flash | 8.557 |
 | chatgpt-4o-latest-2025-03-26 | 8.557 |
 | Grok-3-beta-thinking-20250303 | 8.543 |
 | moonshotaikimi-k2.5 | 8.543 |

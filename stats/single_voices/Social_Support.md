@@ -136,9 +136,11 @@
 | gemini-2.5-pro-preview-06-05 | 6.743 |
 | chatgpt-4o-latest-2025-04-26 | 6.729 |
 | grok-4-1-fast-non-reasoning | 6.729 |
+| deepseekdeepseek-v4-flash | 6.714 |
 | claude-opus-4-5-20251101 | 6.700 |
 | moonshotaikimi-k2.6 | 6.686 |
 | claude-4-opus-20250514 | 6.671 |
+| deepseekdeepseek-v4-pro | 6.671 |
 | tencenthy3-previewfree | 6.671 |
 | gemma-4-31b-it | 6.657 |
 | allenaiolmo-3-7b-think | 6.643 |

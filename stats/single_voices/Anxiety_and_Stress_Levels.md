@@ -55,6 +55,7 @@
 | z-aiglm-5.1 | 7.357 |
 | moonshotaikimi-k2.5 | 7.343 |
 | chatgpt-4o-latest-2024-11-20 | 7.329 |
+| deepseekdeepseek-v4-flash | 7.329 |
 | smollm21.7b-instruct-q6_K | 7.286 |
 | granite4tiny-h | 7.271 |
 | grok-4-0709 | 7.229 |
@@ -81,6 +82,7 @@
 | gemini-2.5-pro-preview-06-05 | 6.914 |
 | llama213b | 6.914 |
 | Grok-3-beta-thinking-20250303 | 6.900 |
+| deepseekdeepseek-v4-pro | 6.871 |
 | inclusionailing-2.6-1tfree | 6.857 |
 | claude-opus-4-5-20251101 | 6.857 |
 | deepseek-aiDeepSeek-V3 | 6.814 |

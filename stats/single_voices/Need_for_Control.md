@@ -69,6 +69,7 @@
 | qwen2.5-14b-instruct | 6.029 |
 | anthropicclaude-sonnet-4.5 | 6.029 |
 | z-aiglm-5-turbo | 6.029 |
+| deepseekdeepseek-v4-flash | 6.014 |
 | granite4small-h | 6.014 |
 | nvidiaLlama-3.1-Nemotron-70B-Instruct | 6.000 |
 | grok-4.20-experimental-beta-0304-non-reasoning | 5.986 |
@@ -158,6 +159,7 @@
 | liquidlfm2-8b-a1b | 5.000 |
 | o3-pro-2025-06-10 | 5.000 |
 | xiaomimimo-v2.5 | 5.000 |
+| deepseekdeepseek-v4-pro | 4.986 |
 | grok-4.20-experimental-beta-0304-reasoning | 4.986 |
 | anthropicclaude-opus-4.6 | 4.971 |
 | gpt-4.1-2025-04-14 | 4.971 |

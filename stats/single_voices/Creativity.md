@@ -23,6 +23,7 @@
 | googlegemini-3.1-flash-lite-preview | 9.657 |
 | grok-4.20-multi-agent-experimental-beta-0304 | 9.657 |
 | qwenqwen3.5-397b-a17b | 9.657 |
+| deepseekdeepseek-v4-pro | 9.643 |
 | gemini-2.5-pro-preview-06-05 | 9.643 |
 | grok-4-0709 | 9.643 |
 | grok-4-1-fast-non-reasoning | 9.643 |
@@ -85,6 +86,7 @@
 | gpt-5-nano-2025-08-07 | 9.514 |
 | aion-labsaion-2.0 | 9.514 |
 | claude-3-7-sonnet-20250219 | 9.514 |
+| deepseekdeepseek-v4-flash | 9.514 |
 | gemini-2.0-pro-exp-02-05 | 9.514 |
 | gemini-2.5-pro-exp-03-25 | 9.514 |
 | gpt-4.1-mini-2025-04-14 | 9.514 |

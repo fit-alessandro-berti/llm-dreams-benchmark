@@ -76,6 +76,7 @@
 | minimaxminimax-m2.7 | 8.171 |
 | qwenqwen3-max | 8.171 |
 | granite4tiny-h | 8.157 |
+| deepseekdeepseek-v4-flash | 8.143 |
 | Liquid-LFM2.5-350M | 8.143 |
 | o3-2025-04-16 | 8.143 |
 | bytedance-seedseed-2.0-lite | 8.129 |
@@ -111,6 +112,7 @@
 | openaigpt-5.4-nano | 7.843 |
 | moonshotaikimi-k2.5 | 7.829 |
 | claude-opus-4-5-20251101 | 7.829 |
+| deepseekdeepseek-v4-pro | 7.829 |
 | meta-llamaLlama-3.3-70B-Instruct | 7.829 |
 | grok-4.20-experimental-beta-0304-non-reasoning | 7.814 |
 | openaigpt-5.4 | 7.814 |

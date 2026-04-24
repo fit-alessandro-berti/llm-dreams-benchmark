@@ -40,6 +40,8 @@
   "deepseekdeepseek-v3.2": "2025-12-01",
   "deepseekdeepseek-v3.2-exp": "2025-09-29",
   "deepseekdeepseek-v3.2-speciale": "2025-12-01",
+  "deepseekdeepseek-v4-flash": "",
+  "deepseekdeepseek-v4-pro": "",
   "falcon310b-instruct-q8_0": "2024-12-17",
   "falcon33b-instruct-q8_0": "2024-12-17",
   "falcon37b-instruct-q8_0": "2024-12-17",

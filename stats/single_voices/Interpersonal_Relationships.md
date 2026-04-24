@@ -123,6 +123,7 @@
 | grok-4-1-fast-non-reasoning | 7.071 |
 | gemini-3-flash-preview | 7.057 |
 | moonshotaikimi-k2.5 | 7.057 |
+| deepseekdeepseek-v4-pro | 7.029 |
 | Gemini-1.5-Pro-Exp-0827 | 7.029 |
 | gemini-2.0-pro-exp-02-05 | 7.029 |
 | googlegemini-3.1-pro-preview | 7.029 |
@@ -138,6 +139,7 @@
 | chatgpt-4o-latest-2025-04-26 | 6.914 |
 | claude-opus-4-5-20251101 | 6.914 |
 | gemma-4-31b-it | 6.900 |
+| deepseekdeepseek-v4-flash | 6.886 |
 | llama213b | 6.886 |
 | qwenqwen3.5-27b | 6.871 |
 | writerpalmyra-x5 | 6.857 |

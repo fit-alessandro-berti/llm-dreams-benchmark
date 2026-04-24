@@ -1,4 +1,4 @@
-ANSWERING_MODEL_NAME = "inclusionai/ling-2.6-1t:free"
+ANSWERING_MODEL_NAME = "deepseek/deepseek-v4-pro"
 EVALUATING_MODEL_NAME = "gpt-5.2"
 
 

@@ -29,7 +29,13 @@ ALL_JUDGES = {
     },
     "gpt-5.4": {
         "evaluation_folder": "evaluations-gpt54",
-        "git_table_result": "results_gpt54.md",
+        "git_table_result": "alt_results_gpt54.md",
+        "evaluation_api_url": "https://api.openai.com/v1/",
+        "api_key": open("../api_openai.txt", "r").read().strip(),
+    },
+    "gpt-5.5": {
+        "evaluation_folder": "evaluations-gpt55",
+        "git_table_result": "results_gpt55.md",
         "evaluation_api_url": "https://api.openai.com/v1/",
         "api_key": open("../api_openai.txt", "r").read().strip(),
     },

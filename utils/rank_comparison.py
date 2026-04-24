@@ -57,7 +57,8 @@ JUDGES = {
     "grok-4.2": interpret(open(os.path.join("..", "alt_results_grok42.md"), "r").read()),
     "gemini-3-flash": interpret(open(os.path.join("..", "alt_results_gemini3_flash.md"), "r").read()),
     "gpt-5.2": interpret(open(os.path.join("..", "alt_results_gpt52.md"), "r").read()),
-    "gpt-5.4": interpret(open(os.path.join("..", "results_gpt54.md"), "r").read()),
+    "gpt-5.4": interpret(open(os.path.join("..", "alt_results_gpt54.md"), "r").read()),
+    "gpt-5.5": interpret(open(os.path.join("..", "results_gpt55.md"), "r").read()),
     "qwen36-plus": interpret(open(os.path.join("..", "alt_results_qwen36-plus.md"), "r").read()),
     "mistral-small-2603": interpret(open(os.path.join("..", "alt_results_mistral2603.md"), "r").read()),
 }

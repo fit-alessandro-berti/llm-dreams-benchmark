@@ -74,6 +74,7 @@
 | Grok-3-beta-thinking-20250303 | 7.271 |
 | gemma-4-26b-a4b-it | 7.271 |
 | claude-3-7-sonnet-20250219 | 7.257 |
+| Qwen-3.6-27B | 7.257 |
 | gemini-1.5-flash-8b | 7.257 |
 | googlegemini-3.1-pro-preview | 7.229 |
 | qwenqwen3-max | 7.229 |
@@ -103,6 +104,7 @@
 | gpt-5-chat-latest-2025-08-19 | 6.743 |
 | deepseekdeepseek-v4-pro | 6.714 |
 | gpt-4-1106-preview | 6.700 |
+| Qwen-3.6-Max-Preview | 6.686 |
 | qwenqwen3.5-plus-02-15 | 6.671 |
 | gpt-4.1-nano-2025-04-14 | 6.671 |
 | googlegemini-3.1-flash-lite-preview | 6.657 |

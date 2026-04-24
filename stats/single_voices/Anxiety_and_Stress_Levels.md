@@ -90,6 +90,7 @@
 | openaigpt-5.4-pro | 6.814 |
 | falcon33b-instruct-q8_0 | 6.786 |
 | claude-3-7-sonnet-20250219 | 6.771 |
+| Qwen-3.6-27B | 6.757 |
 | ai21jamba-large-1.7 | 6.729 |
 | chatgpt-4o-latest-2025-03-26 | 6.714 |
 | amazonnova-2-lite-v1 | 6.686 |
@@ -98,6 +99,7 @@
 | gpt-4.1-nano-2025-04-14 | 6.600 |
 | o1-2024-12-05 | 6.600 |
 | gpt-4-1106-preview | 6.586 |
+| Qwen-3.6-Max-Preview | 6.571 |
 | qwenqwen3.5-plus-02-15 | 6.571 |
 | allenaiolmo-3-7b-instruct | 6.543 |
 | GPT-5.5-Pro-20260422 | 6.529 |

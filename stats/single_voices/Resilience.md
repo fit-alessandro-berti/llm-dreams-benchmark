@@ -70,6 +70,7 @@
 | o1-2024-12-05 | 8.900 |
 | openaigpt-5.4 | 8.900 |
 | openaigpt-5.4-pro | 8.900 |
+| Qwen-3.6-Max-Preview | 8.900 |
 | phi4-reasoning | 8.871 |
 | qwen3.59b | 8.871 |
 | arcee-aitrinity-large-previewfree | 8.857 |
@@ -77,6 +78,7 @@
 | nvidianemotron-3-nano-30b-a3bfree | 8.843 |
 | openaigpt-5.3-codex | 8.843 |
 | granite4tiny-h | 8.829 |
+| Qwen-3.6-27B | 8.800 |
 | gemini-1.5-flash-002 | 8.800 |
 | gpt-4.1-2025-04-14 | 8.786 |
 | gpt-4.1-nano-2025-04-14 | 8.786 |

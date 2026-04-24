@@ -34,6 +34,7 @@
 | anthropicclaude-opus-4.6 | 9.629 |
 | claude-3-5-sonnet-20241022 | 9.629 |
 | qwen3.54b | 9.629 |
+| Qwen-3.6-27B | 9.629 |
 | qwen3.59b | 9.629 |
 | deepseekdeepseek-v3.2-exp | 9.614 |
 | openaigpt-5.4 | 9.614 |
@@ -55,6 +56,7 @@
 | openaigpt-5.3-codex | 9.600 |
 | openaigpt-5.4-mini | 9.600 |
 | openaigpt-oss-20b | 9.600 |
+| Qwen-3.6-Max-Preview | 9.600 |
 | z-aiglm-5 | 9.600 |
 | o4-mini-2025-04-16 | 9.600 |
 | qwenqwen3.5-plus-02-15 | 9.586 |

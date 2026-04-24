@@ -81,6 +81,7 @@
 | nvidiaLlama-3.1-Nemotron-70B-Instruct | 8.871 |
 | nvidianemotron-3-nano-30b-a3bfree | 8.871 |
 | googlegemini-3.1-flash-lite-preview | 8.871 |
+| Qwen-3.6-Max-Preview | 8.871 |
 | allenaiolmo-3-7b-instruct | 8.857 |
 | anthropicclaude-opus-4.6 | 8.857 |
 | arcee-aitrinity-large-previewfree | 8.857 |
@@ -99,6 +100,7 @@
 | gemini-2.0-pro-exp-02-05 | 8.829 |
 | ministral-3b-2410 | 8.829 |
 | openaigpt-oss-20b | 8.829 |
+| Qwen-3.6-27B | 8.829 |
 | ChatGPT-5.1-Instant-20251113 | 8.814 |
 | gemini-2.5-pro-preview-05-06 | 8.814 |
 | granite4micro | 8.814 |

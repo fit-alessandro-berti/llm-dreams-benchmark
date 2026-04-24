@@ -81,6 +81,7 @@
 | falcon33b-instruct-q8_0 | 8.471 |
 | llama213b | 8.471 |
 | openaigpt-5.2-codex | 8.471 |
+| Qwen-3.6-Max-Preview | 8.471 |
 | xiaomimimo-v2.5-pro | 8.471 |
 | gemini-1.5-flash-8b | 8.457 |
 | gpt-4.5-preview | 8.457 |
@@ -120,6 +121,7 @@
 | chatgpt-4o-latest-2024-11-20 | 8.271 |
 | phi4-reasoning | 8.271 |
 | gemini-2.5-pro-preview-05-06 | 8.271 |
+| Qwen-3.6-27B | 8.257 |
 | qwen3.59b | 8.257 |
 | gemini-2.5-pro-preview-06-05 | 8.257 |
 | prime-intellectintellect-3 | 8.257 |

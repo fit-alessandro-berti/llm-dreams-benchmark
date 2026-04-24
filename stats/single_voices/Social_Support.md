@@ -108,6 +108,7 @@
 | gemma-3-27b-it | 7.157 |
 | grok-4.20-experimental-beta-0304-reasoning | 7.143 |
 | falcon33b-instruct-q8_0 | 7.129 |
+| Qwen-3.6-Max-Preview | 7.129 |
 | gpt-5.3-codex-spark-low | 7.114 |
 | liquidlfm-2-24b-a2b | 7.114 |
 | meta-llamaLlama-3.3-70B-Instruct | 7.100 |
@@ -129,6 +130,7 @@
 | Gemini-1.5-Pro-Exp-0827 | 6.814 |
 | qwenqwen3.5-122b-a10b | 6.814 |
 | claude-3-opus-20240229 | 6.800 |
+| Qwen-3.6-27B | 6.786 |
 | gemini-3-flash-preview | 6.786 |
 | gpt-4o-mini-2024-11-05 | 6.771 |
 | anthropicclaude-opus-4.1 | 6.757 |

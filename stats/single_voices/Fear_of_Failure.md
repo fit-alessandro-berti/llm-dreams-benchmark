@@ -83,6 +83,7 @@
 | deepseekdeepseek-v4-pro | 6.029 |
 | ai21jamba-large-1.7 | 6.014 |
 | nousresearchhermes-4-405b | 6.014 |
+| Qwen-3.6-27B | 6.014 |
 | claude-3-7-sonnet-20250219 | 5.957 |
 | liquidlfm-2.5-1.2b-thinkingfree | 5.943 |
 | chatgpt-4o-latest-2025-03-26 | 5.914 |
@@ -115,6 +116,7 @@
 | gpt-4o-mini-2024-07-18 | 5.371 |
 | gpt-5-2025-08-07 | 5.371 |
 | nvidiaNVIDIA-Nemotron-3-Super-120B-A12B | 5.343 |
+| Qwen-3.6-Max-Preview | 5.343 |
 | anthropicclaude-opus-4.6 | 5.329 |
 | gpt-5-pro-2025-10-06 | 5.314 |
 | openaigpt-5.2-codex | 5.300 |

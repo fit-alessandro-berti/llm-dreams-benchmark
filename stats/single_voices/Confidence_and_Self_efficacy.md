@@ -84,6 +84,7 @@
 | phi4-reasoning | 7.700 |
 | baiduernie-4.5-21b-a3b | 7.686 |
 | qwenqwen3.5-plus-02-15 | 7.671 |
+| Qwen-3.6-Max-Preview | 7.671 |
 | qwen3.59b | 7.657 |
 | falcon33b-instruct-q8_0 | 7.643 |
 | qwenqwen3.5-27b | 7.614 |
@@ -113,6 +114,7 @@
 | grok-4-1-fast-reasoning | 7.314 |
 | gemini-3-flash-preview | 7.300 |
 | liquidlfm-2.5-1.2b-thinkingfree | 7.300 |
+| Qwen-3.6-27B | 7.300 |
 | qwenqwen3.5-397b-a17b | 7.300 |
 | claude-haiku-4-5-20251001 | 7.271 |
 | openaigpt-5.3-codex | 7.271 |

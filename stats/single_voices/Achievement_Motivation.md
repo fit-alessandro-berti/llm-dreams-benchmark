@@ -97,10 +97,12 @@
 | meta-llamallama-4-scout | 8.300 |
 | o1-2024-12-17 | 8.286 |
 | o3-2025-04-16 | 8.286 |
+| Qwen-3.6-27B | 8.286 |
 | llama27b | 8.286 |
 | gemini-2.5-pro-preview-05-06 | 8.271 |
 | gpt-5-nano-2025-08-07 | 8.271 |
 | gpt-4-1106-preview | 8.229 |
+| Qwen-3.6-Max-Preview | 8.229 |
 | claude-3-7-sonnet-20250219 | 8.214 |
 | gemini-1.5-flash-002 | 8.214 |
 | claude-3-opus-20240229 | 8.214 |

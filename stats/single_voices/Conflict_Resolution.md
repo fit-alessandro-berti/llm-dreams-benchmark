@@ -52,6 +52,7 @@
 | baiduernie-4.5-21b-a3b | 8.300 |
 | granite4small-h | 8.300 |
 | nousresearchhermes-4-405b | 8.300 |
+| Qwen-3.6-Max-Preview | 8.300 |
 | gpt-4-turbo-2024-04-09 | 8.286 |
 | open-mixtral-8x22b | 8.286 |
 | open-mixtral-8x7b | 8.286 |
@@ -147,6 +148,7 @@
 | chatgpt-4o-latest-2024-11-20 | 7.357 |
 | grok-4-0709 | 7.229 |
 | prime-intellectintellect-3 | 7.214 |
+| Qwen-3.6-27B | 7.171 |
 | meta-llamaLlama-3.2-3B-Instruct | 7.143 |
 | falcon37b-instruct-q8_0 | 7.071 |
 | gemma4e4b | 7.043 |

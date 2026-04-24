@@ -80,6 +80,7 @@
 | gpt-5.3-codex-spark-low | 7.657 |
 | gemini-1.5-flash-002 | 7.643 |
 | gemma-3-27b-it | 7.643 |
+| Qwen-3.6-27B | 7.629 |
 | qwenqwen3-max | 7.629 |
 | qwenqwen3.5-35b-a3b | 7.629 |
 | phi3.53.8b-mini-instruct-fp16 | 7.614 |
@@ -113,6 +114,7 @@
 | Grok-4.30-20260420 | 7.329 |
 | GPT-5.5-Pro-20260422 | 7.314 |
 | openaigpt-oss-20b | 7.314 |
+| Qwen-3.6-Max-Preview | 7.271 |
 | gpt-5-2025-08-07 | 7.271 |
 | phi33.8b | 7.257 |
 | llama213b | 7.243 |

@@ -84,6 +84,7 @@
 | claude-haiku-4-5-20251001 | 7.243 |
 | qwenqwen3.5-27b | 7.157 |
 | nousresearchhermes-4-405b | 7.143 |
+| Qwen-3.6-Max-Preview | 7.114 |
 | inclusionailing-2.6-1tfree | 7.100 |
 | qwenqwen3.5-397b-a17b | 7.100 |
 | grok-4.20-experimental-beta-0304-reasoning | 7.086 |
@@ -102,6 +103,7 @@
 | allenaiolmo-3-7b-instruct | 6.843 |
 | chatgpt-4o-latest-2025-03-26 | 6.800 |
 | nvidiaLlama-3.1-Nemotron-70B-Instruct | 6.800 |
+| Qwen-3.6-27B | 6.771 |
 | deepseek-aiDeepSeek-V3 | 6.771 |
 | googlegemini-3.1-flash-lite-preview | 6.771 |
 | ai21jamba-large-1.7 | 6.757 |

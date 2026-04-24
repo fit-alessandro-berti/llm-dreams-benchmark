@@ -102,6 +102,7 @@
 | gemini-2.0-flash-exp | 7.300 |
 | grok-4-1-fast-reasoning | 7.300 |
 | openaigpt-5.4-pro | 7.300 |
+| Qwen-3.6-Max-Preview | 7.300 |
 | meta-llamaMeta-Llama-3.1-405B-Instruct | 7.271 |
 | openaigpt-5.4 | 7.257 |
 | liquidlfm-2-24b-a2b | 7.257 |
@@ -134,6 +135,7 @@
 | Grok-4.1-20251118 | 6.986 |
 | openaigpt-5.4-nano | 6.986 |
 | Liquid-LFM2.5-350M | 6.971 |
+| Qwen-3.6-27B | 6.971 |
 | chatgpt-4o-latest-2024-11-20 | 6.957 |
 | grok-4.20-experimental-beta-0304-non-reasoning | 6.957 |
 | chatgpt-4o-latest-2025-04-26 | 6.914 |

@@ -118,6 +118,7 @@
 | grok-2-1212 | 5.557 |
 | o1-2024-12-17 | 5.557 |
 | gemini-3-flash-preview | 5.529 |
+| Qwen-3.6-27B | 5.529 |
 | qwenqwen3.5-35b-a3b | 5.529 |
 | liquidlfm-2.2-6b | 5.514 |
 | o1-pro-2024-12-05 | 5.500 |
@@ -139,6 +140,7 @@
 | deepseekdeepseek-v3.2 | 5.300 |
 | gpt-5-pro-2025-10-06 | 5.300 |
 | moonshotaikimi-k2.5 | 5.286 |
+| Qwen-3.6-Max-Preview | 5.271 |
 | nvidianemotron-3-nano-30b-a3bfree | 5.257 |
 | gpt-4.1-mini-2025-04-14 | 5.200 |
 | o3-2025-04-16 | 5.171 |

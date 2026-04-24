@@ -64,6 +64,7 @@
 | xiaomimimo-v2-omni | 8.925 |
 | baiduernie-4.5-300b-a47b | 8.912 |
 | gpt-3.5-turbo | 8.912 |
+| gpt-5.5-2026-04-23 | 8.912 |
 | gpt-4.5-preview | 8.900 |
 | granite4micro-h | 8.900 |
 | o1-pro-2024-12-05 | 8.900 |

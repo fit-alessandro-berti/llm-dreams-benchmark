@@ -102,6 +102,7 @@
 | qwenqwen3.5-plus-02-15 | 6.675 |
 | gpt-4.1-nano-2025-04-14 | 6.663 |
 | allenaiolmo-3-7b-instruct | 6.662 |
+| gpt-5.5-2026-04-23 | 6.638 |
 | GPT-5.5-Pro-20260422 | 6.625 |
 | granite4micro | 6.612 |
 | gpt-5-chat-latest-2025-08-19 | 6.575 |

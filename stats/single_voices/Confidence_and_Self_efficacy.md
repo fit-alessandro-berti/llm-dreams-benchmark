@@ -103,6 +103,7 @@
 | gpt-5-chat-latest-2025-08-19 | 7.450 |
 | anthropicclaude-opus-4.6 | 7.438 |
 | googlegemini-3.1-pro-preview | 7.437 |
+| gpt-5.5-2026-04-23 | 7.425 |
 | gpt-5-2025-08-07 | 7.425 |
 | gemini-1.5-flash-002 | 7.413 |
 | bytedance-seedseed-2.0-mini | 7.412 |

@@ -89,6 +89,7 @@
 | meta-llamaLlama-3.2-3B-Instruct | 7.462 |
 | qwen3.635b-a3b | 7.438 |
 | nvidiaNVIDIA-Nemotron-3-Super-120B-A12B | 7.425 |
+| gpt-5.5-2026-04-23 | 7.413 |
 | ai21jamba-large-1.7 | 7.388 |
 | claude-haiku-4-5-20251001 | 7.388 |
 | gemini-2.5-pro-preview-05-06 | 7.388 |

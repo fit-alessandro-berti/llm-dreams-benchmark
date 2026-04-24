@@ -72,6 +72,7 @@
 | openaigpt-5.4 | 8.887 |
 | phi4-reasoning | 8.887 |
 | openaigpt-5.4-pro | 8.875 |
+| gpt-5.5-2026-04-23 | 8.862 |
 | granite4tiny-h | 8.850 |
 | arcee-aitrinity-large-previewfree | 8.850 |
 | nvidianemotron-3-nano-30b-a3bfree | 8.838 |

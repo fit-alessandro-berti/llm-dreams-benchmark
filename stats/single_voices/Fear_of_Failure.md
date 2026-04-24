@@ -97,6 +97,7 @@
 | GPT-5.5-Pro-20260422 | 5.962 |
 | o1-2024-12-05 | 5.863 |
 | gpt-5.3-codex-spark-low | 5.862 |
+| gpt-5.5-2026-04-23 | 5.838 |
 | gpt-5-chat-latest-2025-08-19 | 5.812 |
 | nvidiaLlama-3.1-Nemotron-70B-Instruct | 5.800 |
 | qwenqwen3.5-27b | 5.800 |

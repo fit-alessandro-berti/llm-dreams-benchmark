@@ -48,6 +48,7 @@
 | granite4small-h | 8.362 |
 | qwen2.5-7b-instruct | 8.362 |
 | ChatGPT-5.1-Instant-20251113 | 8.338 |
+| gpt-5.5-2026-04-23 | 8.338 |
 | GPT-5.5-Pro-20260422 | 8.338 |
 | nousresearchhermes-4-405b | 8.338 |
 | gpt-5.3-codex-spark-low | 8.325 |

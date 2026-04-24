@@ -1,4 +1,4 @@
-ANSWERING_MODEL_NAME = "deepseek/deepseek-v4-pro"
+ANSWERING_MODEL_NAME = "gpt-5.5-2026-04-23"
 EVALUATING_MODEL_NAME = "gpt-5.2"
 
 

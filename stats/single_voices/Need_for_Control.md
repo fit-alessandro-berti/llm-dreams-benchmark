@@ -150,6 +150,7 @@
 | o3-2025-04-16 | 5.287 |
 | GPT-5.5-Pro-20260422 | 5.275 |
 | gemini-2.0-flash-exp | 5.200 |
+| gpt-5.5-2026-04-23 | 5.188 |
 | gemma-4-26b-a4b-it | 5.175 |
 | nvidiaNVIDIA-Nemotron-3-Super-120B-A12B | 5.175 |
 | qwenqwen3.5-plus-02-15 | 5.175 |

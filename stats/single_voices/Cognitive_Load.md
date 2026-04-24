@@ -117,6 +117,7 @@
 | Qwen-3.6-Max-Preview | 7.425 |
 | gpt-5-2025-08-07 | 7.425 |
 | anthropicclaude-opus-4.6 | 7.400 |
+| gpt-5.5-2026-04-23 | 7.388 |
 | phi33.8b | 7.362 |
 | qwenqwen3.5-27b | 7.362 |
 | minimaxminimax-m2.7 | 7.362 |

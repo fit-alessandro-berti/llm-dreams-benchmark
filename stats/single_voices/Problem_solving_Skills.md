@@ -98,6 +98,7 @@
 | anthropicclaude-opus-4.6 | 8.375 |
 | gemini-2.0-pro-exp-02-05 | 8.375 |
 | nousresearchhermes-4-70b | 8.375 |
+| gpt-5.5-2026-04-23 | 8.375 |
 | inclusionailing-2.6-1tfree | 8.363 |
 | qwenqwen3-max | 8.363 |
 | deepseek-aiDeepSeek-V3 | 8.362 |

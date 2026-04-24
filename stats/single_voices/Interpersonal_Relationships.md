@@ -79,6 +79,7 @@
 | openaigpt-5.4-mini | 7.638 |
 | smollm21.7b-instruct-q6_K | 7.637 |
 | ChatGPT-5.1-Instant-20251113 | 7.625 |
+| gpt-5.5-2026-04-23 | 7.575 |
 | deepseek-aiDeepSeek-V3 | 7.575 |
 | qwenqwen3.6-plusfree | 7.575 |
 | allenaiolmo-3-7b-instruct | 7.538 |

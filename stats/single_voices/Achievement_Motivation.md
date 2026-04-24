@@ -116,6 +116,7 @@
 | gpt-5-mini-2025-08-07 | 8.188 |
 | qwenqwen3.5-plus-02-15 | 8.188 |
 | liquidlfm-2.5-1.2b-thinkingfree | 8.175 |
+| gpt-5.5-2026-04-23 | 8.163 |
 | arcee-aitrinity-large-thinking | 8.162 |
 | Gpt-5.1-Pro-20251120 | 8.150 |
 | grok-4-0709 | 8.125 |

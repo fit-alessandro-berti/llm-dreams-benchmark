@@ -112,6 +112,7 @@
 | granite4micro-h | 6.725 |
 | phi2.7b | 6.700 |
 | openaigpt-5.2-codex | 6.675 |
+| gpt-5.5-2026-04-23 | 6.662 |
 | phi3.53.8b-mini-instruct-fp16 | 6.650 |
 | bytedance-seedseed-2.0-lite | 6.625 |
 | gpt-4o-mini-2024-07-18 | 6.600 |

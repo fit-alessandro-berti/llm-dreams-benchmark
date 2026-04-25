@@ -3,7 +3,10 @@
     200,
     23
   ],
-  "GPT-5.5-Pro-20260422": [],
+  "GPT-5.5-Pro-20260422": [
+    1600,
+    100
+  ],
   "Gemini-1.5-Pro-Exp-0827": [
     1200,
     120
@@ -32,7 +35,9 @@
     350
   ],
   "Meta-Muse-Spark-20260409": [],
-  "Qwen-3.6-27B": [],
+  "Qwen-3.6-27B": [
+    27
+  ],
   "Qwen-3.6-Max-Preview": [],
   "ai21jamba-large-1.7": [
     398,
@@ -137,8 +142,14 @@
     671,
     37
   ],
-  "deepseekdeepseek-v4-flash": [],
-  "deepseekdeepseek-v4-pro": [],
+  "deepseekdeepseek-v4-flash": [
+    284,
+    13
+  ],
+  "deepseekdeepseek-v4-pro": [
+    1600,
+    49
+  ],
   "falcon310b-instruct-q8_0": [
     10
   ],
@@ -285,7 +296,10 @@
     48
   ],
   "gpt-5.3-codex-spark-low": [],
-  "gpt-5.5-2026-04-23": [],
+  "gpt-5.5-2026-04-23": [
+    1600,
+    100
+  ],
   "granite3.28b-instruct-q4_K_M": [
     8
   ],
@@ -336,7 +350,10 @@
   "inceptionmercury": [
     15
   ],
-  "inclusionailing-2.6-1tfree": [],
+  "inclusionailing-2.6-1tfree": [
+    1000,
+    63
+  ],
   "liquidlfm-2-24b-a2b": [
     24,
     2
@@ -427,7 +444,10 @@
     1000,
     32
   ],
-  "moonshotaikimi-k2.6": [],
+  "moonshotaikimi-k2.6": [
+    1000,
+    32
+  ],
   "nousresearchhermes-4-405b": [
     405
   ],
@@ -592,7 +612,10 @@
   "smollm21.7b-instruct-q6_K": [
     1.7
   ],
-  "tencenthy3-previewfree": [],
+  "tencenthy3-previewfree": [
+    295,
+    21
+  ],
   "writerpalmyra-x5": [
     120,
     10
@@ -603,7 +626,10 @@
     42
   ],
   "xiaomimimo-v2.5": [],
-  "xiaomimimo-v2.5-pro": [],
+  "xiaomimimo-v2.5-pro": [
+    1000,
+    42
+  ],
   "z-aiglm-5": [
     745,
     40

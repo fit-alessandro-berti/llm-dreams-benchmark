@@ -14,7 +14,7 @@ def do_deletion(base_path, original_name):
 
 
 if __name__ == "__main__":
-    original_name = "qwenqwen3-coder-next_"
+    original_name = "deepseekdeepseek-v3.2-exp_"
 
     if not original_name.endswith("_"):
         raise Exception("error")

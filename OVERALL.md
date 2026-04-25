@@ -10,7 +10,6 @@
 | granite4small-h | **445.8** | 4.4 $\pm$ 1.0 | 8.2 $\pm$ 0.4 | 9.0 $\pm$ 0.4 | 9.3 $\pm$ 0.4 | 8.1 $\pm$ 0.4 | 8.7 $\pm$ 0.4 | 8.4 $\pm$ 0.6 | 5.4 $\pm$ 1.3 | 9.2 $\pm$ 0.3 | 9.0 $\pm$ 0.4 | 3.6 $\pm$ 1.2 | 6.1 $\pm$ 0.9 | 7.1 $\pm$ 0.9 | 8.2 $\pm$ 0.4 | 9.3 $\pm$ 0.3 |
 | gpt-4.5-preview | **445.6** | 4.5 $\pm$ 1.1 | 8.2 $\pm$ 0.5 | 8.5 $\pm$ 0.5 | 9.4 $\pm$ 0.2 | 8.2 $\pm$ 0.4 | 8.4 $\pm$ 0.4 | 8.5 $\pm$ 0.5 | 4.9 $\pm$ 1.0 | 8.9 $\pm$ 0.3 | 8.3 $\pm$ 0.4 | 4.0 $\pm$ 1.1 | 4.8 $\pm$ 1.0 | 6.2 $\pm$ 0.8 | 8.4 $\pm$ 0.5 | 9.1 $\pm$ 0.3 |
 | open-mistral-7b | **445.1** | 4.8 $\pm$ 1.1 | 8.1 $\pm$ 0.4 | 8.9 $\pm$ 0.3 | 9.0 $\pm$ 0.5 | 8.2 $\pm$ 0.6 | 8.6 $\pm$ 0.5 | 8.4 $\pm$ 0.5 | 5.7 $\pm$ 1.0 | 9.0 $\pm$ 0.3 | 8.9 $\pm$ 0.4 | 3.9 $\pm$ 1.0 | 5.7 $\pm$ 0.8 | 6.7 $\pm$ 0.8 | 8.5 $\pm$ 0.6 | 9.2 $\pm$ 0.3 |
-| deepseekdeepseek-v3.2-exp | **444.7** | 4.4 $\pm$ 1.1 | 8.4 $\pm$ 0.4 | 9.0 $\pm$ 0.3 | 9.6 $\pm$ 0.2 | 8.1 $\pm$ 0.5 | 8.6 $\pm$ 0.5 | 8.7 $\pm$ 0.4 | 4.8 $\pm$ 1.4 | 9.1 $\pm$ 0.4 | 8.4 $\pm$ 0.5 | 3.8 $\pm$ 1.3 | 5.5 $\pm$ 1.1 | 6.7 $\pm$ 0.9 | 7.6 $\pm$ 0.6 | 9.3 $\pm$ 0.4 |
 | microsoftphi-4 | **444.4** | 4.4 $\pm$ 0.9 | 8.2 $\pm$ 0.4 | 8.9 $\pm$ 0.3 | 9.4 $\pm$ 0.2 | 8.0 $\pm$ 0.4 | 8.4 $\pm$ 0.5 | 8.6 $\pm$ 0.6 | 4.9 $\pm$ 1.0 | 9.1 $\pm$ 0.3 | 8.7 $\pm$ 0.4 | 3.6 $\pm$ 1.0 | 5.6 $\pm$ 0.8 | 6.7 $\pm$ 0.8 | 8.1 $\pm$ 0.5 | 9.1 $\pm$ 0.4 |
 | grok-2-1212 | **443.7** | 5.0 $\pm$ 1.3 | 8.0 $\pm$ 0.5 | 8.8 $\pm$ 0.3 | 9.4 $\pm$ 0.3 | 8.2 $\pm$ 0.4 | 8.6 $\pm$ 0.4 | 8.5 $\pm$ 0.5 | 5.5 $\pm$ 1.2 | 9.1 $\pm$ 0.3 | 9.0 $\pm$ 0.3 | 4.1 $\pm$ 1.4 | 5.6 $\pm$ 0.9 | 6.9 $\pm$ 0.8 | 8.3 $\pm$ 0.4 | 9.1 $\pm$ 0.3 |
 | open-mixtral-8x22b | **443.2** | 4.9 $\pm$ 1.0 | 8.0 $\pm$ 0.5 | 9.0 $\pm$ 0.3 | 9.3 $\pm$ 0.3 | 8.4 $\pm$ 0.3 | 8.7 $\pm$ 0.4 | 8.3 $\pm$ 0.6 | 5.3 $\pm$ 1.0 | 9.1 $\pm$ 0.3 | 9.0 $\pm$ 0.4 | 4.1 $\pm$ 1.1 | 6.2 $\pm$ 0.7 | 6.7 $\pm$ 0.9 | 8.4 $\pm$ 0.4 | 9.2 $\pm$ 0.4 |
@@ -93,7 +92,6 @@
 | bytedance-seedseed-2.0-lite | **411.4** | 6.2 $\pm$ 1.8 | 7.2 $\pm$ 1.0 | 7.7 $\pm$ 0.7 | 9.6 $\pm$ 0.2 | 8.5 $\pm$ 0.4 | 6.9 $\pm$ 0.7 | 8.1 $\pm$ 0.5 | 6.6 $\pm$ 1.7 | 8.6 $\pm$ 0.6 | 7.0 $\pm$ 0.9 | 6.1 $\pm$ 1.7 | 5.0 $\pm$ 0.9 | 7.1 $\pm$ 1.1 | 8.4 $\pm$ 0.8 | 8.6 $\pm$ 0.5 |
 | GPT-5.5-Pro-20260422 | **409.8** | 6.6 $\pm$ 1.4 | 7.0 $\pm$ 0.9 | 8.3 $\pm$ 0.5 | 9.6 $\pm$ 0.2 | 7.5 $\pm$ 0.5 | 7.3 $\pm$ 0.7 | 8.3 $\pm$ 0.6 | 6.6 $\pm$ 1.2 | 8.8 $\pm$ 0.4 | 7.8 $\pm$ 0.5 | 6.0 $\pm$ 1.3 | 5.3 $\pm$ 1.4 | 7.5 $\pm$ 0.9 | 7.5 $\pm$ 0.6 | 9.0 $\pm$ 0.4 |
 | gemini-1.5-flash-002 | **408.7** | 7.0 $\pm$ 0.9 | 6.8 $\pm$ 0.7 | 8.5 $\pm$ 0.3 | 9.6 $\pm$ 0.2 | 7.7 $\pm$ 0.6 | 7.4 $\pm$ 0.7 | 8.4 $\pm$ 0.6 | 6.8 $\pm$ 0.7 | 8.9 $\pm$ 0.3 | 8.2 $\pm$ 0.5 | 6.2 $\pm$ 1.0 | 5.5 $\pm$ 1.2 | 7.7 $\pm$ 0.8 | 7.5 $\pm$ 0.5 | 8.8 $\pm$ 0.4 |
-| deepseek-aiDeepSeek-V3 | **408.5** | 6.9 $\pm$ 1.0 | 6.8 $\pm$ 0.6 | 8.3 $\pm$ 0.4 | 9.4 $\pm$ 0.3 | 7.6 $\pm$ 0.5 | 7.8 $\pm$ 0.5 | 8.0 $\pm$ 0.7 | 7.2 $\pm$ 1.0 | 8.7 $\pm$ 0.4 | 8.5 $\pm$ 0.4 | 6.0 $\pm$ 1.1 | 6.1 $\pm$ 1.0 | 7.6 $\pm$ 0.7 | 7.7 $\pm$ 0.5 | 8.8 $\pm$ 0.4 |
 | claude-haiku-4-5-20251001 | **407.4** | 6.0 $\pm$ 1.5 | 7.3 $\pm$ 0.7 | 7.8 $\pm$ 0.6 | 9.5 $\pm$ 0.2 | 7.3 $\pm$ 0.5 | 7.3 $\pm$ 0.6 | 7.8 $\pm$ 0.9 | 5.7 $\pm$ 1.2 | 8.9 $\pm$ 0.4 | 7.1 $\pm$ 0.7 | 4.9 $\pm$ 1.5 | 4.6 $\pm$ 1.2 | 7.3 $\pm$ 1.0 | 7.4 $\pm$ 0.6 | 8.5 $\pm$ 0.5 |
 | Grok-4-fast-20251111 | **407.2** | 6.7 $\pm$ 1.2 | 6.7 $\pm$ 0.9 | 8.5 $\pm$ 0.5 | 9.7 $\pm$ 0.2 | 7.3 $\pm$ 0.6 | 7.8 $\pm$ 0.6 | 7.7 $\pm$ 0.7 | 6.9 $\pm$ 1.1 | 9.0 $\pm$ 0.3 | 8.4 $\pm$ 0.4 | 5.7 $\pm$ 1.4 | 5.7 $\pm$ 1.1 | 7.8 $\pm$ 0.8 | 7.1 $\pm$ 0.7 | 8.6 $\pm$ 0.5 |
 | ai21jamba-large-1.7 | **406.4** | 6.8 $\pm$ 1.2 | 6.8 $\pm$ 1.0 | 8.6 $\pm$ 0.3 | 9.3 $\pm$ 0.3 | 7.5 $\pm$ 0.5 | 7.6 $\pm$ 0.9 | 8.2 $\pm$ 0.7 | 7.3 $\pm$ 1.3 | 8.8 $\pm$ 0.4 | 8.7 $\pm$ 0.5 | 6.2 $\pm$ 1.5 | 6.5 $\pm$ 0.7 | 7.6 $\pm$ 0.8 | 7.4 $\pm$ 0.6 | 8.6 $\pm$ 0.5 |
@@ -394,32 +392,6 @@
 | Cognitive Load | 6.7 $\pm$ 0.8 |
 | Social Support | 8.5 $\pm$ 0.6 |
 | Resilience | 9.2 $\pm$ 0.3 |
-
-
-
-
-
-
-### deepseekdeepseek-v3.2-exp
-
-
-| Personality Trait | Score (1.0-10.0) |
-| --- | --- |
-| Anxiety and Stress Levels | 4.4 $\pm$ 1.1 |
-| Emotional Stability | 8.4 $\pm$ 0.4 |
-| Problem-solving Skills | 9.0 $\pm$ 0.3 |
-| Creativity | 9.6 $\pm$ 0.2 |
-| Interpersonal Relationships | 8.1 $\pm$ 0.5 |
-| Confidence and Self-efficacy | 8.6 $\pm$ 0.5 |
-| Conflict Resolution | 8.7 $\pm$ 0.4 |
-| Work-related Stress | 4.8 $\pm$ 1.4 |
-| Adaptability | 9.1 $\pm$ 0.4 |
-| Achievement Motivation | 8.4 $\pm$ 0.5 |
-| Fear of Failure | 3.8 $\pm$ 1.3 |
-| Need for Control | 5.5 $\pm$ 1.1 |
-| Cognitive Load | 6.7 $\pm$ 0.9 |
-| Social Support | 7.6 $\pm$ 0.6 |
-| Resilience | 9.3 $\pm$ 0.4 |
 
 
 
@@ -2551,32 +2523,6 @@
 | Need for Control | 5.5 $\pm$ 1.2 |
 | Cognitive Load | 7.7 $\pm$ 0.8 |
 | Social Support | 7.5 $\pm$ 0.5 |
-| Resilience | 8.8 $\pm$ 0.4 |
-
-
-
-
-
-
-### deepseek-aiDeepSeek-V3
-
-
-| Personality Trait | Score (1.0-10.0) |
-| --- | --- |
-| Anxiety and Stress Levels | 6.9 $\pm$ 1.0 |
-| Emotional Stability | 6.8 $\pm$ 0.6 |
-| Problem-solving Skills | 8.3 $\pm$ 0.4 |
-| Creativity | 9.4 $\pm$ 0.3 |
-| Interpersonal Relationships | 7.6 $\pm$ 0.5 |
-| Confidence and Self-efficacy | 7.8 $\pm$ 0.5 |
-| Conflict Resolution | 8.0 $\pm$ 0.7 |
-| Work-related Stress | 7.2 $\pm$ 1.0 |
-| Adaptability | 8.7 $\pm$ 0.4 |
-| Achievement Motivation | 8.5 $\pm$ 0.4 |
-| Fear of Failure | 6.0 $\pm$ 1.1 |
-| Need for Control | 6.1 $\pm$ 1.0 |
-| Cognitive Load | 7.6 $\pm$ 0.7 |
-| Social Support | 7.7 $\pm$ 0.5 |
 | Resilience | 8.8 $\pm$ 0.4 |
 
 

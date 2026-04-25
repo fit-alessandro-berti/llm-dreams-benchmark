@@ -10,7 +10,6 @@
 | granite4small-h | **423.0** | 5.8 $\pm$ 0.0 | 7.4 $\pm$ 0.1 | 8.6 $\pm$ 0.0 | 9.4 $\pm$ 0.0 | 7.8 $\pm$ 0.1 | 8.2 $\pm$ 0.0 | 8.2 $\pm$ 0.2 | 6.8 $\pm$ 0.2 | 8.9 $\pm$ 0.1 | 8.9 $\pm$ 0.1 | 5.5 $\pm$ 0.6 | 6.4 $\pm$ 0.2 | 7.6 $\pm$ 0.2 | 7.6 $\pm$ 0.2 | 9.0 $\pm$ 0.1 |
 | o3-pro-2025-06-10 | **422.4** | 5.0 $\pm$ 0.8 | 7.5 $\pm$ 0.2 | 8.3 $\pm$ 0.1 | 9.7 $\pm$ 0.0 | 7.6 $\pm$ 0.2 | 7.9 $\pm$ 0.1 | 8.3 $\pm$ 0.1 | 6.1 $\pm$ 0.5 | 9.0 $\pm$ 0.0 | 8.3 $\pm$ 0.2 | 5.3 $\pm$ 0.6 | 5.5 $\pm$ 0.4 | 7.4 $\pm$ 0.3 | 7.0 $\pm$ 0.1 | 9.0 $\pm$ 0.1 |
 | gpt-4.5-preview | **422.0** | 5.3 $\pm$ 0.5 | 7.6 $\pm$ 0.1 | 7.6 $\pm$ 0.2 | 9.3 $\pm$ 0.1 | 8.0 $\pm$ 0.1 | 7.8 $\pm$ 0.0 | 8.2 $\pm$ 0.1 | 6.2 $\pm$ 0.4 | 8.6 $\pm$ 0.1 | 8.0 $\pm$ 0.1 | 5.6 $\pm$ 0.4 | 5.2 $\pm$ 0.6 | 6.6 $\pm$ 0.3 | 8.2 $\pm$ 0.2 | 8.7 $\pm$ 0.0 |
-| deepseekdeepseek-v3.2-exp | **420.3** | 5.5 $\pm$ 1.3 | 7.6 $\pm$ 0.1 | 8.6 $\pm$ 0.1 | 9.6 $\pm$ 0.0 | 7.8 $\pm$ 0.5 | 8.0 $\pm$ 0.2 | 8.6 $\pm$ 0.2 | 6.3 $\pm$ 1.0 | 8.7 $\pm$ 0.4 | 8.2 $\pm$ 0.1 | 5.9 $\pm$ 1.1 | 6.1 $\pm$ 0.1 | 7.3 $\pm$ 0.5 | 7.3 $\pm$ 0.4 | 9.1 $\pm$ 0.1 |
 | qwen2.5-32b-instruct | **419.7** | 5.8 $\pm$ 0.3 | 7.4 $\pm$ 0.1 | 8.6 $\pm$ 0.1 | 9.2 $\pm$ 0.1 | 8.0 $\pm$ 0.1 | 7.9 $\pm$ 0.0 | 8.1 $\pm$ 0.1 | 6.8 $\pm$ 0.1 | 8.7 $\pm$ 0.0 | 8.6 $\pm$ 0.1 | 5.7 $\pm$ 0.1 | 6.4 $\pm$ 0.1 | 7.2 $\pm$ 0.1 | 7.8 $\pm$ 0.1 | 8.9 $\pm$ 0.0 |
 | ai21jamba-mini-1.7 | **418.1** | 5.8 $\pm$ 0.0 | 7.4 $\pm$ 0.1 | 8.5 $\pm$ 0.1 | 9.2 $\pm$ 0.1 | 7.8 $\pm$ 0.1 | 8.1 $\pm$ 0.0 | 8.2 $\pm$ 0.2 | 6.8 $\pm$ 0.1 | 8.8 $\pm$ 0.1 | 8.7 $\pm$ 0.1 | 5.8 $\pm$ 0.1 | 6.5 $\pm$ 0.1 | 7.4 $\pm$ 0.3 | 7.5 $\pm$ 0.1 | 8.8 $\pm$ 0.2 |
 | inceptionmercury | **417.9** | 6.4 $\pm$ 0.4 | 7.4 $\pm$ 0.1 | 8.5 $\pm$ 0.1 | 9.2 $\pm$ 0.1 | 8.1 $\pm$ 0.1 | 8.0 $\pm$ 0.1 | 8.6 $\pm$ 0.1 | 7.0 $\pm$ 0.3 | 8.9 $\pm$ 0.1 | 8.7 $\pm$ 0.1 | 6.2 $\pm$ 0.3 | 6.5 $\pm$ 0.2 | 7.8 $\pm$ 0.2 | 7.8 $\pm$ 0.1 | 9.0 $\pm$ 0.2 |
@@ -74,7 +73,6 @@
 | qwen3.635b-a3b | **391.6** | 6.8 $\pm$ 0.0 | 6.8 $\pm$ 0.5 | 7.3 $\pm$ 0.2 | 9.7 $\pm$ 0.1 | 7.3 $\pm$ 0.3 | 7.1 $\pm$ 0.1 | 7.5 $\pm$ 0.8 | 7.4 $\pm$ 0.5 | 8.8 $\pm$ 0.1 | 7.7 $\pm$ 0.2 | 6.6 $\pm$ 0.5 | 5.9 $\pm$ 0.3 | 7.8 $\pm$ 0.1 | 6.7 $\pm$ 0.3 | 8.5 $\pm$ 0.2 |
 | nvidiaLlama-3.1-Nemotron-70B-Instruct | **391.6** | 7.2 $\pm$ 0.5 | 6.2 $\pm$ 0.2 | 8.3 $\pm$ 0.1 | 9.4 $\pm$ 0.1 | 7.5 $\pm$ 0.1 | 7.2 $\pm$ 0.4 | 8.0 $\pm$ 0.1 | 7.8 $\pm$ 0.4 | 8.6 $\pm$ 0.0 | 8.5 $\pm$ 0.2 | 7.3 $\pm$ 0.4 | 6.5 $\pm$ 0.3 | 7.9 $\pm$ 0.1 | 7.0 $\pm$ 0.2 | 8.4 $\pm$ 0.2 |
 | gpt-5-pro-2025-10-06 | **391.6** | 7.0 $\pm$ 0.3 | 6.5 $\pm$ 0.1 | 8.2 $\pm$ 0.2 | 9.6 $\pm$ 0.0 | 7.5 $\pm$ 0.1 | 6.8 $\pm$ 0.1 | 8.2 $\pm$ 0.1 | 7.6 $\pm$ 0.2 | 8.8 $\pm$ 0.1 | 7.6 $\pm$ 0.3 | 7.2 $\pm$ 0.2 | 6.3 $\pm$ 0.5 | 8.0 $\pm$ 0.2 | 6.8 $\pm$ 0.2 | 8.8 $\pm$ 0.1 |
-| deepseek-aiDeepSeek-V3 | **391.6** | 6.8 $\pm$ 0.0 | 6.4 $\pm$ 0.1 | 7.6 $\pm$ 0.3 | 9.2 $\pm$ 0.1 | 7.2 $\pm$ 0.2 | 7.4 $\pm$ 0.1 | 7.8 $\pm$ 0.2 | 7.7 $\pm$ 0.6 | 8.3 $\pm$ 0.3 | 8.3 $\pm$ 0.2 | 7.0 $\pm$ 0.3 | 6.4 $\pm$ 0.4 | 7.6 $\pm$ 0.1 | 7.2 $\pm$ 0.5 | 8.6 $\pm$ 0.1 |
 | nvidianemotron-3-nano-30b-a3bfree | **391.3** | 6.8 $\pm$ 0.0 | 6.6 $\pm$ 0.2 | 7.8 $\pm$ 0.1 | 9.6 $\pm$ 0.0 | 7.2 $\pm$ 0.1 | 7.0 $\pm$ 0.3 | 7.5 $\pm$ 0.3 | 7.4 $\pm$ 0.3 | 8.5 $\pm$ 0.2 | 8.0 $\pm$ 0.2 | 6.5 $\pm$ 0.2 | 6.1 $\pm$ 0.5 | 7.7 $\pm$ 0.2 | 6.9 $\pm$ 0.1 | 8.4 $\pm$ 0.1 |
 | qwen3.59b | **390.8** | 6.1 $\pm$ 1.6 | 6.9 $\pm$ 0.7 | 7.2 $\pm$ 0.1 | 9.6 $\pm$ 0.0 | 6.5 $\pm$ 0.1 | 7.0 $\pm$ 0.4 | 7.5 $\pm$ 0.3 | 6.5 $\pm$ 1.8 | 8.8 $\pm$ 0.2 | 7.7 $\pm$ 0.2 | 6.3 $\pm$ 1.3 | 5.4 $\pm$ 1.5 | 7.6 $\pm$ 0.8 | 6.8 $\pm$ 0.1 | 8.7 $\pm$ 0.4 |
 | gpt-5.5-2026-04-23 | **390.1** | 6.8 $\pm$ 0.0 | 6.5 $\pm$ 0.2 | 7.6 $\pm$ 0.2 | 9.6 $\pm$ 0.0 | 7.1 $\pm$ 0.2 | 7.0 $\pm$ 0.1 | 8.0 $\pm$ 0.1 | 7.4 $\pm$ 0.2 | 8.6 $\pm$ 0.2 | 7.7 $\pm$ 0.1 | 7.1 $\pm$ 0.3 | 5.6 $\pm$ 0.2 | 8.0 $\pm$ 0.1 | 6.6 $\pm$ 0.3 | 8.8 $\pm$ 0.1 |
@@ -394,32 +392,6 @@
 | Cognitive Load | 6.6 $\pm$ 0.3 |
 | Social Support | 8.2 $\pm$ 0.2 |
 | Resilience | 8.7 $\pm$ 0.0 |
-
-
-
-
-
-
-### deepseekdeepseek-v3.2-exp
-
-
-| Personality Trait | Score (1.0-10.0) |
-| --- | --- |
-| Anxiety and Stress Levels | 5.5 $\pm$ 1.3 |
-| Emotional Stability | 7.6 $\pm$ 0.1 |
-| Problem-solving Skills | 8.6 $\pm$ 0.1 |
-| Creativity | 9.6 $\pm$ 0.0 |
-| Interpersonal Relationships | 7.8 $\pm$ 0.5 |
-| Confidence and Self-efficacy | 8.0 $\pm$ 0.2 |
-| Conflict Resolution | 8.6 $\pm$ 0.2 |
-| Work-related Stress | 6.3 $\pm$ 1.0 |
-| Adaptability | 8.7 $\pm$ 0.4 |
-| Achievement Motivation | 8.2 $\pm$ 0.1 |
-| Fear of Failure | 5.9 $\pm$ 1.1 |
-| Need for Control | 6.1 $\pm$ 0.1 |
-| Cognitive Load | 7.3 $\pm$ 0.5 |
-| Social Support | 7.3 $\pm$ 0.4 |
-| Resilience | 9.1 $\pm$ 0.1 |
 
 
 
@@ -2058,32 +2030,6 @@
 | Cognitive Load | 8.0 $\pm$ 0.2 |
 | Social Support | 6.8 $\pm$ 0.2 |
 | Resilience | 8.8 $\pm$ 0.1 |
-
-
-
-
-
-
-### deepseek-aiDeepSeek-V3
-
-
-| Personality Trait | Score (1.0-10.0) |
-| --- | --- |
-| Anxiety and Stress Levels | 6.8 $\pm$ 0.0 |
-| Emotional Stability | 6.4 $\pm$ 0.1 |
-| Problem-solving Skills | 7.6 $\pm$ 0.3 |
-| Creativity | 9.2 $\pm$ 0.1 |
-| Interpersonal Relationships | 7.2 $\pm$ 0.2 |
-| Confidence and Self-efficacy | 7.4 $\pm$ 0.1 |
-| Conflict Resolution | 7.8 $\pm$ 0.2 |
-| Work-related Stress | 7.7 $\pm$ 0.6 |
-| Adaptability | 8.3 $\pm$ 0.3 |
-| Achievement Motivation | 8.3 $\pm$ 0.2 |
-| Fear of Failure | 7.0 $\pm$ 0.3 |
-| Need for Control | 6.4 $\pm$ 0.4 |
-| Cognitive Load | 7.6 $\pm$ 0.1 |
-| Social Support | 7.2 $\pm$ 0.5 |
-| Resilience | 8.6 $\pm$ 0.1 |
 
 
 

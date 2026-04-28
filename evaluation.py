@@ -268,6 +268,9 @@ def get_evaluation_openai(text, context=None):
     if "qwen3.6" in ctx.evaluating_model_name:
         payload["reasoning"] = {"enabled": False}
 
+    if "deepseek" in ctx.evaluating_model_name:
+        payload["reasoning"] = {"enabled": False}
+
     complete_url = ctx.api_url + "chat/completions"
 
     response = post_json(complete_url, headers, payload)

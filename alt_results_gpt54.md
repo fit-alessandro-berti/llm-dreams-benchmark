@@ -108,6 +108,7 @@
 | liquidlfm-2.5-1.2b-instructfree | **396.8** | 7.3 $\pm$ 0.5 | 7.0 $\pm$ 0.6 | 8.2 $\pm$ 0.1 | 9.7 $\pm$ 0.0 | 7.3 $\pm$ 0.5 | 7.6 $\pm$ 0.2 | 7.4 $\pm$ 1.0 | 7.4 $\pm$ 0.6 | 8.7 $\pm$ 0.1 | 8.5 $\pm$ 0.0 | 6.6 $\pm$ 0.6 | 6.4 $\pm$ 0.6 | 7.8 $\pm$ 0.3 | 6.8 $\pm$ 0.5 | 8.6 $\pm$ 0.2 |
 | gemma-3-27b-it | **396.7** | 7.8 $\pm$ 0.0 | 6.5 $\pm$ 0.1 | 8.5 $\pm$ 0.1 | 9.8 $\pm$ 0.0 | 7.8 $\pm$ 0.1 | 7.1 $\pm$ 0.2 | 8.5 $\pm$ 0.2 | 7.5 $\pm$ 0.1 | 8.9 $\pm$ 0.1 | 8.1 $\pm$ 0.1 | 7.0 $\pm$ 0.1 | 5.8 $\pm$ 0.0 | 8.5 $\pm$ 0.2 | 7.0 $\pm$ 0.1 | 8.6 $\pm$ 0.2 |
 | granite4tiny-h | **395.5** | 8.2 $\pm$ 0.4 | 6.5 $\pm$ 0.2 | 8.6 $\pm$ 0.1 | 9.6 $\pm$ 0.0 | 7.9 $\pm$ 0.1 | 7.1 $\pm$ 0.3 | 8.6 $\pm$ 0.2 | 8.1 $\pm$ 0.3 | 8.9 $\pm$ 0.1 | 8.9 $\pm$ 0.1 | 7.8 $\pm$ 0.6 | 7.1 $\pm$ 0.3 | 8.6 $\pm$ 0.2 | 7.4 $\pm$ 0.2 | 9.0 $\pm$ 0.1 |
+| poolsidelaguna-m.1free | **395.3** | 7.8 $\pm$ 0.0 | 6.5 $\pm$ 0.2 | 8.4 $\pm$ 0.0 | 9.8 $\pm$ 0.0 | 7.4 $\pm$ 0.3 | 7.0 $\pm$ 0.2 | 8.1 $\pm$ 0.1 | 7.7 $\pm$ 0.2 | 8.8 $\pm$ 0.1 | 8.0 $\pm$ 0.4 | 6.8 $\pm$ 0.1 | 5.6 $\pm$ 0.4 | 8.3 $\pm$ 0.2 | 7.0 $\pm$ 0.3 | 8.6 $\pm$ 0.1 |
 | liquidlfm-2.5-1.2b-thinkingfree | **395.2** | 7.8 $\pm$ 0.1 | 6.7 $\pm$ 0.1 | 8.2 $\pm$ 0.1 | 9.8 $\pm$ 0.1 | 7.4 $\pm$ 0.1 | 7.2 $\pm$ 0.2 | 8.2 $\pm$ 0.1 | 8.2 $\pm$ 0.4 | 8.5 $\pm$ 0.0 | 8.2 $\pm$ 0.1 | 7.0 $\pm$ 0.2 | 6.6 $\pm$ 0.2 | 8.0 $\pm$ 0.0 | 7.0 $\pm$ 0.1 | 8.8 $\pm$ 0.1 |
 | claude-opus-4-5-20251101 | **395.1** | 7.3 $\pm$ 0.5 | 6.5 $\pm$ 0.3 | 8.3 $\pm$ 0.1 | 9.9 $\pm$ 0.0 | 7.1 $\pm$ 0.5 | 7.0 $\pm$ 0.3 | 8.0 $\pm$ 0.5 | 7.1 $\pm$ 0.6 | 8.8 $\pm$ 0.2 | 7.9 $\pm$ 0.1 | 6.2 $\pm$ 0.9 | 4.9 $\pm$ 0.6 | 8.2 $\pm$ 0.2 | 6.5 $\pm$ 0.4 | 8.4 $\pm$ 0.4 |
 | claude-3-7-sonnet-20250219 | **393.8** | 7.8 $\pm$ 0.0 | 6.7 $\pm$ 0.1 | 8.4 $\pm$ 0.2 | 9.8 $\pm$ 0.0 | 7.4 $\pm$ 0.1 | 7.2 $\pm$ 0.1 | 8.2 $\pm$ 0.2 | 8.0 $\pm$ 0.3 | 8.8 $\pm$ 0.1 | 8.1 $\pm$ 0.1 | 7.3 $\pm$ 0.3 | 6.5 $\pm$ 0.3 | 8.3 $\pm$ 0.2 | 7.1 $\pm$ 0.0 | 8.6 $\pm$ 0.1 |
@@ -140,6 +141,7 @@
 | Qwen-3.6-27B | **383.9** | 7.8 $\pm$ 0.0 | 6.6 $\pm$ 0.2 | 8.0 $\pm$ 0.2 | 9.8 $\pm$ 0.0 | 7.0 $\pm$ 0.4 | 7.1 $\pm$ 0.3 | 7.2 $\pm$ 1.0 | 8.0 $\pm$ 0.4 | 8.7 $\pm$ 0.0 | 8.2 $\pm$ 0.2 | 7.3 $\pm$ 0.2 | 6.6 $\pm$ 0.4 | 8.4 $\pm$ 0.1 | 6.6 $\pm$ 0.3 | 8.7 $\pm$ 0.2 |
 | Gemini-1.5-Pro-Exp-0827 | **383.4** | 8.2 $\pm$ 0.4 | 6.2 $\pm$ 0.7 | 8.2 $\pm$ 0.1 | 9.7 $\pm$ 0.0 | 7.5 $\pm$ 0.4 | 7.0 $\pm$ 0.4 | 7.0 $\pm$ 1.4 | 8.3 $\pm$ 0.1 | 8.6 $\pm$ 0.3 | 8.6 $\pm$ 0.2 | 7.8 $\pm$ 0.3 | 6.5 $\pm$ 0.3 | 8.5 $\pm$ 0.3 | 7.0 $\pm$ 0.2 | 8.7 $\pm$ 0.2 |
 | meta-llamaLlama-3.3-70B-Instruct | **383.2** | 8.4 $\pm$ 0.3 | 5.6 $\pm$ 0.2 | 8.2 $\pm$ 0.2 | 9.7 $\pm$ 0.1 | 7.7 $\pm$ 0.3 | 6.8 $\pm$ 0.3 | 8.4 $\pm$ 0.3 | 8.7 $\pm$ 0.2 | 8.4 $\pm$ 0.2 | 8.6 $\pm$ 0.2 | 8.1 $\pm$ 0.4 | 6.8 $\pm$ 0.6 | 8.6 $\pm$ 0.3 | 7.4 $\pm$ 0.1 | 8.3 $\pm$ 0.1 |
+| poolsidelaguna-xs.2free | **382.0** | 7.8 $\pm$ 0.0 | 6.4 $\pm$ 0.2 | 8.2 $\pm$ 0.1 | 9.8 $\pm$ 0.0 | 7.0 $\pm$ 0.3 | 7.2 $\pm$ 0.1 | 6.6 $\pm$ 0.3 | 8.0 $\pm$ 0.1 | 8.6 $\pm$ 0.2 | 8.4 $\pm$ 0.1 | 7.3 $\pm$ 0.2 | 6.4 $\pm$ 0.4 | 8.3 $\pm$ 0.3 | 6.8 $\pm$ 0.6 | 8.4 $\pm$ 0.2 |
 | meta-llamaMeta-Llama-3.1-405B-Instruct | **381.7** | 8.3 $\pm$ 0.3 | 5.7 $\pm$ 0.3 | 8.1 $\pm$ 0.3 | 9.8 $\pm$ 0.0 | 7.5 $\pm$ 0.1 | 7.0 $\pm$ 0.3 | 7.5 $\pm$ 0.5 | 8.6 $\pm$ 0.2 | 8.5 $\pm$ 0.2 | 8.5 $\pm$ 0.0 | 7.8 $\pm$ 0.3 | 6.8 $\pm$ 0.1 | 8.4 $\pm$ 0.2 | 7.4 $\pm$ 0.1 | 8.2 $\pm$ 0.2 |
 | gemini-2.0-pro-exp-02-05 | **380.8** | 8.4 $\pm$ 0.4 | 5.9 $\pm$ 0.3 | 8.5 $\pm$ 0.1 | 9.8 $\pm$ 0.0 | 7.4 $\pm$ 0.1 | 6.9 $\pm$ 0.3 | 6.3 $\pm$ 0.1 | 8.8 $\pm$ 0.1 | 9.0 $\pm$ 0.1 | 8.6 $\pm$ 0.2 | 8.3 $\pm$ 0.1 | 6.2 $\pm$ 0.6 | 8.6 $\pm$ 0.2 | 7.0 $\pm$ 0.2 | 8.8 $\pm$ 0.1 |
 | googlegemini-3.1-flash-lite-preview | **380.4** | 7.4 $\pm$ 0.6 | 6.6 $\pm$ 0.8 | 8.3 $\pm$ 0.2 | 9.9 $\pm$ 0.0 | 6.6 $\pm$ 0.3 | 7.2 $\pm$ 0.5 | 6.6 $\pm$ 0.9 | 7.8 $\pm$ 0.6 | 8.8 $\pm$ 0.2 | 8.2 $\pm$ 0.1 | 6.8 $\pm$ 0.8 | 6.8 $\pm$ 0.1 | 8.4 $\pm$ 0.3 | 6.0 $\pm$ 0.2 | 8.5 $\pm$ 0.2 |
@@ -2947,6 +2949,32 @@
 
 
 
+### poolsidelaguna-m.1free
+
+
+| Personality Trait | Score (1.0-10.0) |
+| --- | --- |
+| Anxiety and Stress Levels | 7.8 $\pm$ 0.0 |
+| Emotional Stability | 6.5 $\pm$ 0.2 |
+| Problem-solving Skills | 8.4 $\pm$ 0.0 |
+| Creativity | 9.8 $\pm$ 0.0 |
+| Interpersonal Relationships | 7.4 $\pm$ 0.3 |
+| Confidence and Self-efficacy | 7.0 $\pm$ 0.2 |
+| Conflict Resolution | 8.1 $\pm$ 0.1 |
+| Work-related Stress | 7.7 $\pm$ 0.2 |
+| Adaptability | 8.8 $\pm$ 0.1 |
+| Achievement Motivation | 8.0 $\pm$ 0.4 |
+| Fear of Failure | 6.8 $\pm$ 0.1 |
+| Need for Control | 5.6 $\pm$ 0.4 |
+| Cognitive Load | 8.3 $\pm$ 0.2 |
+| Social Support | 7.0 $\pm$ 0.3 |
+| Resilience | 8.6 $\pm$ 0.1 |
+
+
+
+
+
+
 ### liquidlfm-2.5-1.2b-thinkingfree
 
 
@@ -3773,6 +3801,32 @@
 | Cognitive Load | 8.6 $\pm$ 0.3 |
 | Social Support | 7.4 $\pm$ 0.1 |
 | Resilience | 8.3 $\pm$ 0.1 |
+
+
+
+
+
+
+### poolsidelaguna-xs.2free
+
+
+| Personality Trait | Score (1.0-10.0) |
+| --- | --- |
+| Anxiety and Stress Levels | 7.8 $\pm$ 0.0 |
+| Emotional Stability | 6.4 $\pm$ 0.2 |
+| Problem-solving Skills | 8.2 $\pm$ 0.1 |
+| Creativity | 9.8 $\pm$ 0.0 |
+| Interpersonal Relationships | 7.0 $\pm$ 0.3 |
+| Confidence and Self-efficacy | 7.2 $\pm$ 0.1 |
+| Conflict Resolution | 6.6 $\pm$ 0.3 |
+| Work-related Stress | 8.0 $\pm$ 0.1 |
+| Adaptability | 8.6 $\pm$ 0.2 |
+| Achievement Motivation | 8.4 $\pm$ 0.1 |
+| Fear of Failure | 7.3 $\pm$ 0.2 |
+| Need for Control | 6.4 $\pm$ 0.4 |
+| Cognitive Load | 8.3 $\pm$ 0.3 |
+| Social Support | 6.8 $\pm$ 0.6 |
+| Resilience | 8.4 $\pm$ 0.2 |
 
 
 

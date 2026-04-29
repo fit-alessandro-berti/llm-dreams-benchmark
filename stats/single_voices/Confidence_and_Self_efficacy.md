@@ -122,9 +122,11 @@
 | allenaiolmo-3-7b-instruct | 7.275 |
 | gemma-4-31b-it | 7.263 |
 | qwenqwen3-max | 7.250 |
+| poolsidelaguna-m.1free | 7.250 |
 | chatgpt-4o-latest-2025-04-26 | 7.237 |
 | allenaiolmo-3-7b-think | 7.225 |
 | smollm21.7b-instruct-q6_K | 7.225 |
+| poolsidelaguna-xs.2free | 7.175 |
 | Grok-4.1-20251118 | 7.163 |
 | gemini-2.5-pro-preview-06-05 | 7.162 |
 | granite4tiny-h | 7.125 |

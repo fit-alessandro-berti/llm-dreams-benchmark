@@ -100,10 +100,12 @@
 | grok-4.20-experimental-beta-0304-reasoning | **429.9** | 5.0 $\pm$ 2.1 | 7.0 $\pm$ 1.5 | 8.6 $\pm$ 0.4 | 9.9 $\pm$ 0.1 | 7.1 $\pm$ 0.6 | 8.3 $\pm$ 0.7 | 7.9 $\pm$ 0.6 | 4.9 $\pm$ 2.7 | 9.5 $\pm$ 0.0 | 7.9 $\pm$ 0.5 | 3.7 $\pm$ 2.6 | 3.7 $\pm$ 1.5 | 7.5 $\pm$ 1.3 | 7.3 $\pm$ 0.9 | 9.0 $\pm$ 0.4 |
 | chatgpt-4o-latest-2025-04-26 | **429.6** | 6.8 $\pm$ 0.4 | 7.2 $\pm$ 0.3 | 8.4 $\pm$ 0.1 | 9.8 $\pm$ 0.0 | 7.2 $\pm$ 0.9 | 8.4 $\pm$ 0.3 | 8.5 $\pm$ 0.4 | 7.8 $\pm$ 0.8 | 9.3 $\pm$ 0.1 | 8.8 $\pm$ 0.2 | 5.8 $\pm$ 0.4 | 4.6 $\pm$ 0.8 | 7.6 $\pm$ 0.4 | 7.4 $\pm$ 0.5 | 9.2 $\pm$ 0.2 |
 | gemma-3-27b-it | **429.1** | 6.5 $\pm$ 0.0 | 7.2 $\pm$ 0.1 | 8.6 $\pm$ 0.2 | 9.8 $\pm$ 0.0 | 7.6 $\pm$ 0.1 | 7.9 $\pm$ 0.4 | 8.7 $\pm$ 0.4 | 6.0 $\pm$ 0.0 | 9.3 $\pm$ 0.2 | 8.2 $\pm$ 0.2 | 4.8 $\pm$ 0.4 | 3.8 $\pm$ 0.2 | 7.6 $\pm$ 0.4 | 7.4 $\pm$ 0.5 | 9.0 $\pm$ 0.1 |
+| poolsidelaguna-xs.2free | **428.3** | 6.8 $\pm$ 0.4 | 7.3 $\pm$ 0.7 | 8.6 $\pm$ 0.3 | 9.8 $\pm$ 0.1 | 7.4 $\pm$ 0.4 | 8.2 $\pm$ 0.2 | 7.6 $\pm$ 0.3 | 7.0 $\pm$ 0.7 | 9.2 $\pm$ 0.2 | 8.8 $\pm$ 0.2 | 4.8 $\pm$ 1.1 | 4.2 $\pm$ 0.8 | 7.9 $\pm$ 0.6 | 7.8 $\pm$ 0.3 | 9.0 $\pm$ 0.0 |
 | baiduernie-4.5-21b-a3b | **427.6** | 7.0 $\pm$ 0.5 | 7.4 $\pm$ 0.5 | 9.1 $\pm$ 0.1 | 9.6 $\pm$ 0.1 | 7.4 $\pm$ 0.9 | 8.7 $\pm$ 0.1 | 9.0 $\pm$ 0.0 | 7.7 $\pm$ 0.5 | 9.2 $\pm$ 0.1 | 9.2 $\pm$ 0.2 | 5.1 $\pm$ 0.9 | 6.8 $\pm$ 0.8 | 8.3 $\pm$ 0.2 | 7.5 $\pm$ 0.5 | 9.4 $\pm$ 0.2 |
 | qwenqwen3.5-27b | **427.0** | 5.8 $\pm$ 1.3 | 7.6 $\pm$ 0.1 | 8.0 $\pm$ 0.6 | 9.7 $\pm$ 0.1 | 6.7 $\pm$ 0.5 | 8.3 $\pm$ 0.5 | 8.1 $\pm$ 0.2 | 6.9 $\pm$ 0.5 | 9.4 $\pm$ 0.2 | 7.4 $\pm$ 0.6 | 4.5 $\pm$ 0.6 | 3.4 $\pm$ 0.5 | 7.4 $\pm$ 1.2 | 6.7 $\pm$ 0.6 | 8.9 $\pm$ 0.3 |
 | gpt-4-1106-preview | **427.0** | 6.5 $\pm$ 0.0 | 7.7 $\pm$ 0.1 | 8.5 $\pm$ 0.2 | 9.6 $\pm$ 0.1 | 8.0 $\pm$ 0.3 | 8.1 $\pm$ 0.2 | 8.6 $\pm$ 0.2 | 6.8 $\pm$ 0.5 | 9.1 $\pm$ 0.1 | 8.5 $\pm$ 0.0 | 5.8 $\pm$ 0.3 | 5.5 $\pm$ 0.4 | 7.6 $\pm$ 0.2 | 8.2 $\pm$ 0.3 | 9.0 $\pm$ 0.1 |
 | gpt-5.3-codex-spark-low | **426.9** | 7.0 $\pm$ 0.5 | 7.3 $\pm$ 0.5 | 9.2 $\pm$ 0.0 | 9.8 $\pm$ 0.1 | 7.4 $\pm$ 0.7 | 8.6 $\pm$ 0.2 | 8.6 $\pm$ 0.3 | 7.8 $\pm$ 0.7 | 9.4 $\pm$ 0.1 | 9.0 $\pm$ 0.2 | 5.4 $\pm$ 1.0 | 6.1 $\pm$ 0.7 | 8.1 $\pm$ 0.6 | 6.9 $\pm$ 0.6 | 9.4 $\pm$ 0.2 |
+| poolsidelaguna-m.1free | **426.3** | 7.0 $\pm$ 0.5 | 7.3 $\pm$ 0.5 | 8.8 $\pm$ 0.4 | 9.8 $\pm$ 0.0 | 7.8 $\pm$ 0.7 | 8.2 $\pm$ 0.3 | 8.6 $\pm$ 0.2 | 6.9 $\pm$ 1.1 | 9.3 $\pm$ 0.1 | 8.6 $\pm$ 0.4 | 5.5 $\pm$ 1.0 | 5.2 $\pm$ 0.2 | 8.0 $\pm$ 0.7 | 7.9 $\pm$ 0.7 | 9.1 $\pm$ 0.1 |
 | qwenqwen3-max | **426.0** | 7.0 $\pm$ 0.5 | 7.1 $\pm$ 0.4 | 8.7 $\pm$ 0.2 | 9.8 $\pm$ 0.0 | 7.6 $\pm$ 0.4 | 7.9 $\pm$ 0.2 | 8.8 $\pm$ 0.2 | 7.7 $\pm$ 0.5 | 9.3 $\pm$ 0.1 | 8.6 $\pm$ 0.1 | 5.6 $\pm$ 1.4 | 4.9 $\pm$ 1.2 | 8.3 $\pm$ 0.4 | 7.4 $\pm$ 0.3 | 9.4 $\pm$ 0.0 |
 | openaigpt-5.4-pro | **425.6** | 6.8 $\pm$ 0.4 | 7.4 $\pm$ 0.8 | 8.5 $\pm$ 0.0 | 9.8 $\pm$ 0.0 | 7.6 $\pm$ 0.6 | 7.6 $\pm$ 0.2 | 8.2 $\pm$ 0.3 | 7.5 $\pm$ 0.6 | 9.1 $\pm$ 0.1 | 8.6 $\pm$ 0.3 | 6.4 $\pm$ 0.6 | 4.6 $\pm$ 0.5 | 7.3 $\pm$ 0.5 | 7.8 $\pm$ 0.8 | 9.4 $\pm$ 0.2 |
 | granite4tiny-h | **424.9** | 7.5 $\pm$ 0.0 | 6.9 $\pm$ 0.6 | 9.1 $\pm$ 0.1 | 9.6 $\pm$ 0.1 | 8.4 $\pm$ 0.4 | 7.8 $\pm$ 0.5 | 8.9 $\pm$ 0.2 | 8.3 $\pm$ 0.2 | 9.3 $\pm$ 0.2 | 9.2 $\pm$ 0.2 | 6.7 $\pm$ 0.5 | 6.4 $\pm$ 0.2 | 8.4 $\pm$ 0.3 | 8.2 $\pm$ 0.3 | 9.5 $\pm$ 0.1 |
@@ -2739,6 +2741,32 @@
 
 
 
+### poolsidelaguna-xs.2free
+
+
+| Personality Trait | Score (1.0-10.0) |
+| --- | --- |
+| Anxiety and Stress Levels | 6.8 $\pm$ 0.4 |
+| Emotional Stability | 7.3 $\pm$ 0.7 |
+| Problem-solving Skills | 8.6 $\pm$ 0.3 |
+| Creativity | 9.8 $\pm$ 0.1 |
+| Interpersonal Relationships | 7.4 $\pm$ 0.4 |
+| Confidence and Self-efficacy | 8.2 $\pm$ 0.2 |
+| Conflict Resolution | 7.6 $\pm$ 0.3 |
+| Work-related Stress | 7.0 $\pm$ 0.7 |
+| Adaptability | 9.2 $\pm$ 0.2 |
+| Achievement Motivation | 8.8 $\pm$ 0.2 |
+| Fear of Failure | 4.8 $\pm$ 1.1 |
+| Need for Control | 4.2 $\pm$ 0.8 |
+| Cognitive Load | 7.9 $\pm$ 0.6 |
+| Social Support | 7.8 $\pm$ 0.3 |
+| Resilience | 9.0 $\pm$ 0.0 |
+
+
+
+
+
+
 ### baiduernie-4.5-21b-a3b
 
 
@@ -2837,6 +2865,32 @@
 | Cognitive Load | 8.1 $\pm$ 0.6 |
 | Social Support | 6.9 $\pm$ 0.6 |
 | Resilience | 9.4 $\pm$ 0.2 |
+
+
+
+
+
+
+### poolsidelaguna-m.1free
+
+
+| Personality Trait | Score (1.0-10.0) |
+| --- | --- |
+| Anxiety and Stress Levels | 7.0 $\pm$ 0.5 |
+| Emotional Stability | 7.3 $\pm$ 0.5 |
+| Problem-solving Skills | 8.8 $\pm$ 0.4 |
+| Creativity | 9.8 $\pm$ 0.0 |
+| Interpersonal Relationships | 7.8 $\pm$ 0.7 |
+| Confidence and Self-efficacy | 8.2 $\pm$ 0.3 |
+| Conflict Resolution | 8.6 $\pm$ 0.2 |
+| Work-related Stress | 6.9 $\pm$ 1.1 |
+| Adaptability | 9.3 $\pm$ 0.1 |
+| Achievement Motivation | 8.6 $\pm$ 0.4 |
+| Fear of Failure | 5.5 $\pm$ 1.0 |
+| Need for Control | 5.2 $\pm$ 0.2 |
+| Cognitive Load | 8.0 $\pm$ 0.7 |
+| Social Support | 7.9 $\pm$ 0.7 |
+| Resilience | 9.1 $\pm$ 0.1 |
 
 
 

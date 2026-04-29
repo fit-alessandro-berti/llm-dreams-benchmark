@@ -74,6 +74,7 @@
 | tencenthy3-previewfree | 9.563 |
 | gpt-5-pro-2025-10-06 | 9.562 |
 | z-aiglm-5.1 | 9.562 |
+| poolsidelaguna-xs.2free | 9.550 |
 | ministral-3b-2512 | 9.550 |
 | openaigpt-5.3-chat | 9.550 |
 | liquidlfm-2.2-6b | 9.538 |
@@ -81,6 +82,7 @@
 | allenaiolmo-3-7b-think | 9.537 |
 | bytedance-seedseed-2.0-mini | 9.537 |
 | liquidlfm2-8b-a1b | 9.537 |
+| poolsidelaguna-m.1free | 9.537 |
 | xiaomimimo-v2.5 | 9.537 |
 | gemma-3-27b-it | 9.525 |
 | aion-labsaion-2.0 | 9.525 |

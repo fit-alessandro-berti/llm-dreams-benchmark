@@ -116,6 +116,7 @@
 | falcon33b-instruct-q8_0 | 8.587 |
 | gemini-2.5-pro-preview-05-06 | 8.562 |
 | gpt-4-1106-preview | 8.562 |
+| poolsidelaguna-m.1free | 8.550 |
 | qwenqwen3.5-27b | 8.550 |
 | chatgpt-4o-latest-2025-03-26 | 8.538 |
 | deepseekdeepseek-v4-flash | 8.537 |
@@ -148,6 +149,7 @@
 | claude-opus-4-5-20251101 | 8.275 |
 | moonshotaikimi-k2.6 | 8.238 |
 | gpt-5.2-pro-2025-12-11 | 8.225 |
+| poolsidelaguna-xs.2free | 8.213 |
 | grok-4-0709 | 8.200 |
 | openaigpt-5.3-chat | 8.175 |
 | gemma-4-26b-a4b-it | 8.138 |

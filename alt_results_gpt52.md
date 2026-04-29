@@ -121,6 +121,7 @@
 | googlegemini-3.1-pro-preview | **372.7** | 7.3 $\pm$ 0.5 | 5.8 $\pm$ 0.4 | 7.5 $\pm$ 0.1 | 9.7 $\pm$ 0.0 | 6.7 $\pm$ 0.4 | 6.4 $\pm$ 0.4 | 8.0 $\pm$ 0.2 | 8.0 $\pm$ 0.3 | 8.7 $\pm$ 0.1 | 7.6 $\pm$ 0.2 | 7.6 $\pm$ 0.4 | 6.4 $\pm$ 0.5 | 8.4 $\pm$ 0.3 | 6.2 $\pm$ 0.4 | 8.0 $\pm$ 0.3 |
 | gemini-2.5-pro-preview-06-05 | **372.4** | 7.7 $\pm$ 0.1 | 6.3 $\pm$ 0.1 | 7.2 $\pm$ 0.1 | 9.6 $\pm$ 0.0 | 6.7 $\pm$ 0.1 | 6.3 $\pm$ 0.1 | 7.2 $\pm$ 0.3 | 8.2 $\pm$ 0.0 | 8.5 $\pm$ 0.2 | 7.2 $\pm$ 0.1 | 7.8 $\pm$ 0.1 | 5.2 $\pm$ 0.4 | 8.0 $\pm$ 0.0 | 6.2 $\pm$ 0.1 | 8.3 $\pm$ 0.2 |
 | chatgpt-4o-latest-2025-03-26 | **372.2** | 7.2 $\pm$ 0.5 | 6.1 $\pm$ 0.2 | 7.5 $\pm$ 0.1 | 9.5 $\pm$ 0.1 | 6.6 $\pm$ 0.1 | 6.7 $\pm$ 0.3 | 7.1 $\pm$ 0.2 | 8.2 $\pm$ 0.2 | 8.1 $\pm$ 0.2 | 7.7 $\pm$ 0.2 | 7.4 $\pm$ 0.4 | 6.3 $\pm$ 0.6 | 8.1 $\pm$ 0.2 | 6.5 $\pm$ 0.1 | 8.1 $\pm$ 0.3 |
+| poolsidelaguna-m.1free | **372.1** | 7.6 $\pm$ 0.1 | 5.9 $\pm$ 0.3 | 7.7 $\pm$ 0.3 | 9.5 $\pm$ 0.1 | 6.8 $\pm$ 0.4 | 6.6 $\pm$ 0.4 | 7.4 $\pm$ 0.3 | 8.0 $\pm$ 0.1 | 8.4 $\pm$ 0.1 | 7.7 $\pm$ 0.6 | 7.2 $\pm$ 0.2 | 6.7 $\pm$ 0.2 | 8.4 $\pm$ 0.2 | 6.6 $\pm$ 0.4 | 8.2 $\pm$ 0.2 |
 | claude-3-7-sonnet-20250219 | **370.2** | 7.4 $\pm$ 0.4 | 6.0 $\pm$ 0.2 | 7.4 $\pm$ 0.1 | 9.4 $\pm$ 0.0 | 6.7 $\pm$ 0.2 | 6.6 $\pm$ 0.3 | 7.4 $\pm$ 0.3 | 8.2 $\pm$ 0.4 | 8.0 $\pm$ 0.1 | 7.8 $\pm$ 0.2 | 7.5 $\pm$ 0.5 | 6.8 $\pm$ 0.2 | 7.9 $\pm$ 0.4 | 6.6 $\pm$ 0.1 | 8.2 $\pm$ 0.2 |
 | claude-opus-4-5-20251101 | **369.9** | 7.1 $\pm$ 0.3 | 5.9 $\pm$ 0.4 | 7.3 $\pm$ 0.2 | 9.6 $\pm$ 0.0 | 6.6 $\pm$ 0.6 | 6.4 $\pm$ 0.1 | 7.5 $\pm$ 0.6 | 7.3 $\pm$ 0.3 | 8.4 $\pm$ 0.1 | 7.2 $\pm$ 0.2 | 7.1 $\pm$ 0.2 | 5.9 $\pm$ 0.4 | 8.1 $\pm$ 0.2 | 6.3 $\pm$ 0.4 | 8.1 $\pm$ 0.4 |
 | allenaiolmo-3-7b-instruct | **369.6** | 7.2 $\pm$ 0.4 | 6.2 $\pm$ 0.1 | 7.5 $\pm$ 0.1 | 9.3 $\pm$ 0.0 | 6.8 $\pm$ 0.2 | 6.6 $\pm$ 0.2 | 6.7 $\pm$ 0.2 | 7.8 $\pm$ 0.2 | 8.2 $\pm$ 0.1 | 7.6 $\pm$ 0.1 | 7.2 $\pm$ 0.1 | 6.6 $\pm$ 0.4 | 7.9 $\pm$ 0.0 | 6.6 $\pm$ 0.1 | 7.8 $\pm$ 0.1 |
@@ -152,6 +153,7 @@
 | tencenthy3-previewfree | **356.8** | 7.8 $\pm$ 0.0 | 5.6 $\pm$ 0.5 | 7.2 $\pm$ 0.1 | 9.6 $\pm$ 0.0 | 6.4 $\pm$ 0.4 | 6.4 $\pm$ 0.3 | 6.8 $\pm$ 0.4 | 8.5 $\pm$ 0.1 | 8.1 $\pm$ 0.2 | 7.8 $\pm$ 0.3 | 7.9 $\pm$ 0.3 | 6.9 $\pm$ 0.1 | 8.6 $\pm$ 0.2 | 6.1 $\pm$ 0.2 | 7.9 $\pm$ 0.4 |
 | arcee-aitrinity-large-thinking | **356.8** | 7.7 $\pm$ 0.1 | 5.8 $\pm$ 0.6 | 7.6 $\pm$ 0.4 | 9.3 $\pm$ 0.1 | 6.5 $\pm$ 0.3 | 6.5 $\pm$ 0.5 | 6.2 $\pm$ 1.0 | 8.2 $\pm$ 0.1 | 8.2 $\pm$ 0.5 | 7.7 $\pm$ 0.2 | 7.7 $\pm$ 0.3 | 6.8 $\pm$ 0.1 | 8.3 $\pm$ 0.2 | 5.9 $\pm$ 0.2 | 7.9 $\pm$ 0.5 |
 | gemma-4-26b-a4b-it | **356.2** | 7.3 $\pm$ 0.5 | 6.0 $\pm$ 0.4 | 7.0 $\pm$ 0.2 | 9.8 $\pm$ 0.1 | 5.8 $\pm$ 0.3 | 6.2 $\pm$ 0.2 | 5.2 $\pm$ 0.5 | 7.9 $\pm$ 0.4 | 8.4 $\pm$ 0.1 | 7.4 $\pm$ 0.2 | 7.2 $\pm$ 0.3 | 5.8 $\pm$ 1.0 | 8.1 $\pm$ 0.6 | 5.9 $\pm$ 0.3 | 8.0 $\pm$ 0.1 |
+| poolsidelaguna-xs.2free | **355.8** | 7.6 $\pm$ 0.1 | 5.6 $\pm$ 0.3 | 7.2 $\pm$ 0.1 | 9.5 $\pm$ 0.1 | 6.4 $\pm$ 0.2 | 6.4 $\pm$ 0.3 | 5.9 $\pm$ 0.2 | 8.2 $\pm$ 0.0 | 7.8 $\pm$ 0.1 | 7.6 $\pm$ 0.3 | 7.4 $\pm$ 0.3 | 6.7 $\pm$ 0.2 | 8.0 $\pm$ 0.1 | 6.3 $\pm$ 0.5 | 7.7 $\pm$ 0.1 |
 | moonshotaikimi-k2.5 | **353.8** | 7.8 $\pm$ 0.1 | 5.6 $\pm$ 0.7 | 6.8 $\pm$ 0.3 | 9.8 $\pm$ 0.0 | 6.4 $\pm$ 0.1 | 6.0 $\pm$ 0.5 | 7.1 $\pm$ 0.3 | 8.4 $\pm$ 0.0 | 8.1 $\pm$ 0.2 | 7.5 $\pm$ 0.1 | 7.7 $\pm$ 0.4 | 6.9 $\pm$ 0.0 | 8.6 $\pm$ 0.0 | 6.1 $\pm$ 0.4 | 7.9 $\pm$ 0.2 |
 | meta-llamallama-4-scout | **353.2** | 7.8 $\pm$ 0.1 | 5.4 $\pm$ 0.3 | 7.3 $\pm$ 0.1 | 9.3 $\pm$ 0.1 | 6.7 $\pm$ 0.3 | 6.2 $\pm$ 0.3 | 6.0 $\pm$ 0.8 | 8.2 $\pm$ 0.1 | 7.8 $\pm$ 0.2 | 7.8 $\pm$ 0.6 | 7.9 $\pm$ 0.2 | 6.8 $\pm$ 0.1 | 8.0 $\pm$ 0.1 | 6.6 $\pm$ 0.2 | 7.4 $\pm$ 0.3 |
 | z-aiglm-5 | **353.0** | 7.8 $\pm$ 0.0 | 5.6 $\pm$ 0.1 | 7.0 $\pm$ 0.1 | 9.6 $\pm$ 0.0 | 6.0 $\pm$ 0.4 | 6.4 $\pm$ 0.1 | 6.2 $\pm$ 0.8 | 8.5 $\pm$ 0.2 | 8.2 $\pm$ 0.1 | 7.4 $\pm$ 0.1 | 7.8 $\pm$ 0.2 | 6.8 $\pm$ 0.3 | 8.4 $\pm$ 0.1 | 5.9 $\pm$ 0.2 | 8.2 $\pm$ 0.6 |
@@ -3285,6 +3287,32 @@
 
 
 
+### poolsidelaguna-m.1free
+
+
+| Personality Trait | Score (1.0-10.0) |
+| --- | --- |
+| Anxiety and Stress Levels | 7.6 $\pm$ 0.1 |
+| Emotional Stability | 5.9 $\pm$ 0.3 |
+| Problem-solving Skills | 7.7 $\pm$ 0.3 |
+| Creativity | 9.5 $\pm$ 0.1 |
+| Interpersonal Relationships | 6.8 $\pm$ 0.4 |
+| Confidence and Self-efficacy | 6.6 $\pm$ 0.4 |
+| Conflict Resolution | 7.4 $\pm$ 0.3 |
+| Work-related Stress | 8.0 $\pm$ 0.1 |
+| Adaptability | 8.4 $\pm$ 0.1 |
+| Achievement Motivation | 7.7 $\pm$ 0.6 |
+| Fear of Failure | 7.2 $\pm$ 0.2 |
+| Need for Control | 6.7 $\pm$ 0.2 |
+| Cognitive Load | 8.4 $\pm$ 0.2 |
+| Social Support | 6.6 $\pm$ 0.4 |
+| Resilience | 8.2 $\pm$ 0.2 |
+
+
+
+
+
+
 ### claude-3-7-sonnet-20250219
 
 
@@ -4085,6 +4113,32 @@
 | Cognitive Load | 8.1 $\pm$ 0.6 |
 | Social Support | 5.9 $\pm$ 0.3 |
 | Resilience | 8.0 $\pm$ 0.1 |
+
+
+
+
+
+
+### poolsidelaguna-xs.2free
+
+
+| Personality Trait | Score (1.0-10.0) |
+| --- | --- |
+| Anxiety and Stress Levels | 7.6 $\pm$ 0.1 |
+| Emotional Stability | 5.6 $\pm$ 0.3 |
+| Problem-solving Skills | 7.2 $\pm$ 0.1 |
+| Creativity | 9.5 $\pm$ 0.1 |
+| Interpersonal Relationships | 6.4 $\pm$ 0.2 |
+| Confidence and Self-efficacy | 6.4 $\pm$ 0.3 |
+| Conflict Resolution | 5.9 $\pm$ 0.2 |
+| Work-related Stress | 8.2 $\pm$ 0.0 |
+| Adaptability | 7.8 $\pm$ 0.1 |
+| Achievement Motivation | 7.6 $\pm$ 0.3 |
+| Fear of Failure | 7.4 $\pm$ 0.3 |
+| Need for Control | 6.7 $\pm$ 0.2 |
+| Cognitive Load | 8.0 $\pm$ 0.1 |
+| Social Support | 6.3 $\pm$ 0.5 |
+| Resilience | 7.7 $\pm$ 0.1 |
 
 
 

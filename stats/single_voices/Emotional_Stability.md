@@ -122,6 +122,7 @@
 | gemma-4-31b-it | 6.550 |
 | gemma-3-27b-it | 6.537 |
 | openaigpt-5.4-nano | 6.525 |
+| poolsidelaguna-m.1free | 6.512 |
 | claude-opus-4-5-20251101 | 6.487 |
 | llama213b | 6.463 |
 | deepseekdeepseek-v3.2-speciale | 6.450 |
@@ -135,6 +136,7 @@
 | gemini-1.5-flash-8b | 6.363 |
 | Liquid-LFM2.5-350M | 6.350 |
 | gemma-4-26b-a4b-it | 6.338 |
+| poolsidelaguna-xs.2free | 6.337 |
 | grok-4-1-fast-reasoning | 6.325 |
 | gemini-2.5-pro-preview-05-06 | 6.275 |
 | gpt-5.2-pro-2025-12-11 | 6.237 |

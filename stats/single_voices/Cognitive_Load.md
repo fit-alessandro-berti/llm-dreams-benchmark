@@ -53,6 +53,7 @@
 | meta-llamaLlama-3.2-3B-Instruct | 7.975 |
 | claude-3-5-sonnet-20241022 | 7.975 |
 | grok-4.20-experimental-beta-0304-non-reasoning | 7.963 |
+| poolsidelaguna-m.1free | 7.963 |
 | claude-opus-4-5-20251101 | 7.962 |
 | claude-3-opus-20240229 | 7.950 |
 | gemini-3-flash-preview | 7.950 |
@@ -72,6 +73,7 @@
 | smollm21.7b-instruct-q6_K | 7.862 |
 | grok-4-0709 | 7.850 |
 | deepseekdeepseek-v4-pro | 7.838 |
+| poolsidelaguna-xs.2free | 7.825 |
 | Grok-4-fast-20251111 | 7.800 |
 | liquidlfm-2.5-1.2b-thinkingfree | 7.800 |
 | gpt-5.3-codex-spark-low | 7.775 |

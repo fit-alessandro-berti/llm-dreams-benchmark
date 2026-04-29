@@ -105,6 +105,7 @@
 | phi4-reasoningplus | 7.988 |
 | gpt-5-chat-latest-2025-08-19 | 7.987 |
 | openaigpt-oss-20b | 7.950 |
+| poolsidelaguna-m.1free | 7.938 |
 | openaigpt-5.4-nano | 7.912 |
 | gemini-3-flash-preview | 7.888 |
 | meta-llamaLlama-3.3-70B-Instruct | 7.888 |
@@ -166,6 +167,7 @@
 | z-aiglm-5.1 | 6.650 |
 | arcee-aitrinity-large-thinking | 6.638 |
 | meta-llamallama-4-scout | 6.600 |
+| poolsidelaguna-xs.2free | 6.588 |
 | Gemini-1.5-Pro-Exp-0827 | 6.512 |
 | claude-3-5-sonnet-20241022 | 6.463 |
 | allenaiolmo-3-7b-think | 6.375 |

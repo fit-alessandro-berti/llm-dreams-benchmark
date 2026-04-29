@@ -102,11 +102,13 @@
 | qwenqwen3-max | 7.287 |
 | openaigpt-5.3-codex | 7.275 |
 | chatgpt-4o-latest-2025-03-26 | 7.263 |
+| poolsidelaguna-m.1free | 7.263 |
 | grok-4-1-fast-reasoning | 7.250 |
 | gemini-1.5-flash-8b | 7.237 |
 | gemma-3-27b-it | 7.212 |
 | falcon33b-instruct-q8_0 | 7.200 |
 | grok-4.20-experimental-beta-0304-reasoning | 7.200 |
+| poolsidelaguna-xs.2free | 7.187 |
 | meta-llamaLlama-3.3-70B-Instruct | 7.175 |
 | liquidlfm-2-24b-a2b | 7.175 |
 | openaigpt-oss-20b | 7.175 |

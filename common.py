@@ -1,4 +1,4 @@
-ANSWERING_MODEL_NAME = "talkie-1930-13b-it"
+ANSWERING_MODEL_NAME = "poolside/laguna-xs.2:free"
 EVALUATING_MODEL_NAME = "gpt-5.2"
 
 

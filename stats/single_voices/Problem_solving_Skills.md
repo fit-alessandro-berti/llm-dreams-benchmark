@@ -91,6 +91,7 @@
 | liquidlfm-2-24b-a2b | 8.437 |
 | deepseekdeepseek-v4-flash | 8.413 |
 | gemini-2.0-flash-exp | 8.388 |
+| poolsidelaguna-m.1free | 8.388 |
 | allenaiolmo-3-7b-instruct | 8.387 |
 | arcee-aitrinity-large-thinking | 8.387 |
 | bytedance-seedseed-2.0-mini | 8.387 |
@@ -137,6 +138,7 @@
 | openaigpt-5.3-chat | 8.175 |
 | Gemini-1.5-Pro-Exp-0827 | 8.163 |
 | Gpt-5.1-Pro-20251120 | 8.163 |
+| poolsidelaguna-xs.2free | 8.150 |
 | deepseekdeepseek-v4-pro | 8.150 |
 | Grok-4.1-20251118 | 8.150 |
 | moonshotaikimi-k2.5 | 8.137 |

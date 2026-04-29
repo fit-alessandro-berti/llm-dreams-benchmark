@@ -101,6 +101,7 @@
 | openaigpt-5.4-pro | 7.338 |
 | liquidlfm-2.5-1.2b-thinkingfree | 7.337 |
 | grok-4-1-fast-reasoning | 7.325 |
+| poolsidelaguna-m.1free | 7.325 |
 | Qwen-3.6-Max-Preview | 7.325 |
 | meta-llamaLlama-3.2-3B-Instruct | 7.325 |
 | meta-llamaMeta-Llama-3.1-405B-Instruct | 7.312 |
@@ -131,6 +132,7 @@
 | moonshotaikimi-k2.5 | 7.050 |
 | Grok-4.1-20251118 | 7.037 |
 | Liquid-LFM2.5-350M | 7.025 |
+| poolsidelaguna-xs.2free | 7.025 |
 | arcee-aitrinity-large-thinking | 7.013 |
 | qwenqwen3.5-122b-a10b | 7.013 |
 | grok-4.20-experimental-beta-0304-non-reasoning | 7.012 |

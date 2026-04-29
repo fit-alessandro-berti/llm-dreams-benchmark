@@ -96,6 +96,7 @@
 | anthropicclaude-opus-4.6 | 8.837 |
 | nvidiaNVIDIA-Nemotron-3-Super-120B-A12B | 8.837 |
 | grok-4-1-fast-reasoning | 8.825 |
+| poolsidelaguna-m.1free | 8.825 |
 | gemini-2.0-flash-exp | 8.825 |
 | gemma-3-27b-it | 8.825 |
 | openaigpt-oss-20b | 8.825 |
@@ -136,6 +137,7 @@
 | deepseekdeepseek-v3.2-speciale | 8.675 |
 | falcon33b-instruct-q8_0 | 8.675 |
 | grok-4.20-experimental-beta-0304-non-reasoning | 8.675 |
+| poolsidelaguna-xs.2free | 8.675 |
 | openaigpt-5.3-chat | 8.638 |
 | anthropicclaude-opus-4.1 | 8.637 |
 | Grok-4.1-20251118 | 8.637 |

@@ -77,6 +77,7 @@
 | baiduernie-4.5-21b-a3b | 6.312 |
 | qwenqwen3.5-35b-a3b | 6.312 |
 | gemma-4-31b-it | 6.263 |
+| poolsidelaguna-xs.2free | 6.262 |
 | gpt-4-1106-preview | 6.250 |
 | Grok-3-beta-thinking-20250303 | 6.237 |
 | gemini-1.5-flash-002 | 6.225 |
@@ -84,6 +85,7 @@
 | Qwen-3.6-27B | 6.200 |
 | ai21jamba-large-1.7 | 6.175 |
 | deepseekdeepseek-v4-pro | 6.175 |
+| poolsidelaguna-m.1free | 6.175 |
 | claude-3-7-sonnet-20250219 | 6.112 |
 | inclusionailing-2.6-1tfree | 6.088 |
 | chatgpt-4o-latest-2025-03-26 | 6.075 |

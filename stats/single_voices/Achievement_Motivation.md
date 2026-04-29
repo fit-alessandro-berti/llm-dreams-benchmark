@@ -98,6 +98,7 @@
 | Qwen-3.6-27B | 8.275 |
 | meta-llamallama-4-scout | 8.262 |
 | llama27b | 8.250 |
+| poolsidelaguna-xs.2free | 8.250 |
 | gpt-4-1106-preview | 8.238 |
 | gemini-2.5-pro-preview-05-06 | 8.225 |
 | Qwen-3.6-Max-Preview | 8.225 |
@@ -127,6 +128,7 @@
 | Liquid-LFM2.5-350M | 8.075 |
 | googlegemini-3.1-pro-preview | 8.062 |
 | openaigpt-5.3-chat | 8.050 |
+| poolsidelaguna-m.1free | 8.050 |
 | mistral-medium-2508 | 8.038 |
 | aion-labsaion-2.0 | 8.037 |
 | ministral-14b-2512 | 8.037 |

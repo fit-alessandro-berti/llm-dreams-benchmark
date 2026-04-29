@@ -91,6 +91,7 @@
 | grok-4-1-fast-reasoning | 5.938 |
 | phi2.7b | 5.925 |
 | o1-2024-12-05 | 5.900 |
+| poolsidelaguna-m.1free | 5.900 |
 | gemini-2.5-pro-preview-05-06 | 5.887 |
 | gpt-4-0613 | 5.875 |
 | phi33.8b | 5.875 |
@@ -119,6 +120,7 @@
 | moonshotaikimi-k2.6 | 5.650 |
 | allenaiolmo-3.1-32b-instruct | 5.638 |
 | falcon37b-instruct-q8_0 | 5.638 |
+| poolsidelaguna-xs.2free | 5.625 |
 | microsoftphi-4 | 5.625 |
 | grok-2-1212 | 5.613 |
 | chatgpt-4o-latest-2025-03-26 | 5.612 |

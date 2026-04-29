@@ -68,7 +68,9 @@
 | chatgpt-4o-latest-2025-04-26 | 7.212 |
 | qwenqwen3.5-35b-a3b | 7.212 |
 | anthropicclaude-opus-4.1 | 7.188 |
+| poolsidelaguna-m.1free | 7.188 |
 | nousresearchhermes-4-70b | 7.162 |
+| poolsidelaguna-xs.2free | 7.162 |
 | qwenqwen3-max | 7.162 |
 | claude-4-opus-20250514 | 7.100 |
 | googlegemini-3.1-pro-preview | 7.075 |

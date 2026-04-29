@@ -59,13 +59,11 @@
 | minimaxminimax-m2.5 | 8.512 |
 | gpt-4.1-nano-2025-04-14 | 8.500 |
 | meta-llamaLlama-3.2-3B-Instruct | 8.500 |
-| deepseek-aiDeepSeek-V3 | 8.500 |
 | gpt-4o-2024-05-13 | 8.500 |
 | allenaiolmo-3-7b-think | 8.475 |
 | meta-llamaMeta-Llama-3.1-405B-Instruct | 8.475 |
 | gemini-1.5-flash-8b | 8.462 |
 | Grok-3-beta-thinking-20250303 | 8.450 |
-| deepseekdeepseek-v3.2-exp | 8.438 |
 | meta-llamaLlama-3.3-70B-Instruct | 8.438 |
 | o1-preview-2024-09-12 | 8.438 |
 | Grok-4-fast-20251111 | 8.425 |
@@ -140,6 +138,7 @@
 | ChatGPT-5.1-Instant-20251113 | 8.000 |
 | allenaiolmo-3-7b-instruct | 7.988 |
 | gemma4e2b | 7.987 |
+| talkie-1930-13b-it | 7.987 |
 | gemma-4-31b-it | 7.975 |
 | openaigpt-5.2-codex | 7.975 |
 | grok-4.20-multi-agent-experimental-beta-0304 | 7.975 |

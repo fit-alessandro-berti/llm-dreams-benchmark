@@ -2,7 +2,6 @@
 
 | Model | Average |
 |:--|--:|
-| deepseekdeepseek-v3.2-exp | 9.313 |
 | granite4small-h | 9.287 |
 | microsoftPhi-3-medium-4k-instruct | 9.250 |
 | qwen2.5-14b-instruct | 9.213 |
@@ -87,7 +86,6 @@
 | Qwen-3.6-27B | 8.775 |
 | qwenqwen3.5-122b-a10b | 8.775 |
 | allenaiolmo-3.1-32b-instruct | 8.762 |
-| deepseek-aiDeepSeek-V3 | 8.750 |
 | minimaxminimax-m2.5 | 8.738 |
 | phi2.7b | 8.738 |
 | liquidlfm-2.5-1.2b-instructfree | 8.725 |
@@ -188,4 +186,5 @@
 | anthropicclaude-sonnet-4.5 | 7.150 |
 | qwen3.54b | 7.088 |
 | mistral-large-2512 | 6.938 |
+| talkie-1930-13b-it | 6.938 |
 | qwen3.50.8b | 6.400 |

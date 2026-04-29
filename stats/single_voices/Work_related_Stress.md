@@ -68,6 +68,7 @@
 | qwen3.54b | 7.550 |
 | anthropicclaude-opus-4.1 | 7.537 |
 | chatgpt-4o-latest-2025-03-26 | 7.537 |
+| talkie-1930-13b-it | 7.475 |
 | qwenqwen3.5-35b-a3b | 7.450 |
 | gemma-4-26b-a4b-it | 7.387 |
 | grok-4-0709 | 7.375 |
@@ -83,7 +84,6 @@
 | nousresearchhermes-4-405b | 7.263 |
 | gemini-3-flash-preview | 7.262 |
 | falcon33b-instruct-q8_0 | 7.250 |
-| deepseek-aiDeepSeek-V3 | 7.212 |
 | gemma-4-31b-it | 7.137 |
 | gemini-2.5-pro-preview-06-05 | 7.125 |
 | granite4micro | 7.075 |
@@ -185,7 +185,6 @@
 | falcon37b-instruct-q8_0 | 4.875 |
 | xiaomimimo-v2-pro | 4.850 |
 | microsoftphi-4 | 4.838 |
-| deepseekdeepseek-v3.2-exp | 4.763 |
 | o3-pro-2025-06-10 | 4.700 |
 | open-mixtral-8x7b | 4.700 |
 | qwenqwen3.6-plusfree | 4.050 |

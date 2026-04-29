@@ -63,10 +63,8 @@
 | Grok-3-beta-thinking-20250303 | 7.687 |
 | o3-pro-2025-06-10 | 7.675 |
 | o4-mini-2025-04-16 | 7.675 |
-| deepseek-aiDeepSeek-V3 | 7.662 |
 | liquidlfm2-8b-a1b | 7.650 |
 | openaigpt-5.2-codex | 7.650 |
-| deepseekdeepseek-v3.2-exp | 7.613 |
 | openaigpt-5.4-mini | 7.600 |
 | meta-llamaMeta-Llama-3.1-405B-Instruct | 7.600 |
 | nousresearchhermes-4-70b | 7.588 |
@@ -178,6 +176,7 @@
 | googlegemini-3.1-flash-lite-preview | 6.013 |
 | anthropicclaude-sonnet-4.5 | 6.000 |
 | ministral-8b-2512 | 5.888 |
+| talkie-1930-13b-it | 5.888 |
 | z-aiglm-5-turbo | 5.812 |
 | claude-opus-4-7 | 5.762 |
 | aion-labsaion-2.0 | 5.725 |

@@ -11550,6 +11550,72 @@
     }
   },
   {
+    "LLM": "talkie-1930-13b-it",
+    "MHS": 345.3,
+    "scores": {
+      "Anxiety and Stress Levels": {
+        "mean": 7.0,
+        "std": 0.5
+      },
+      "Emotional Stability": {
+        "mean": 5.4,
+        "std": 0.6
+      },
+      "Problem-solving Skills": {
+        "mean": 6.9,
+        "std": 1.2
+      },
+      "Creativity": {
+        "mean": 8.6,
+        "std": 0.4
+      },
+      "Interpersonal Relationships": {
+        "mean": 5.5,
+        "std": 1.0
+      },
+      "Confidence and Self-efficacy": {
+        "mean": 6.8,
+        "std": 0.5
+      },
+      "Conflict Resolution": {
+        "mean": 4.9,
+        "std": 1.4
+      },
+      "Work-related Stress": {
+        "mean": 7.5,
+        "std": 0.5
+      },
+      "Adaptability": {
+        "mean": 7.2,
+        "std": 0.7
+      },
+      "Achievement Motivation": {
+        "mean": 8.0,
+        "std": 0.5
+      },
+      "Fear of Failure": {
+        "mean": 6.5,
+        "std": 0.5
+      },
+      "Need for Control": {
+        "mean": 6.1,
+        "std": 0.9
+      },
+      "Cognitive Load": {
+        "mean": 7.6,
+        "std": 0.6
+      },
+      "Social Support": {
+        "mean": 5.9,
+        "std": 0.9
+      },
+      "Resilience": {
+        "mean": 6.9,
+        "std": 0.8
+      }
+    }
+  },
+  {
     "LLM": "gemini-2.5-pro-exp-03-25",
     "MHS": 344.7,
     "scores": {

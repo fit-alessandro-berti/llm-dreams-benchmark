@@ -8,7 +8,6 @@
 | granite4small-h | 9.200 |
 | microsoftWizardLM-2-8x22B | 9.175 |
 | qwen3.635b-a3b | 9.175 |
-| deepseekdeepseek-v3.2-exp | 9.150 |
 | granite3.28b-instruct-q4_K_M | 9.137 |
 | gpt-4-turbo-2024-04-09 | 9.125 |
 | inceptionmercury | 9.125 |
@@ -117,7 +116,6 @@
 | openaigpt-5.4-pro | 8.762 |
 | allenaiolmo-3-7b-think | 8.750 |
 | claude-3-7-sonnet-20250219 | 8.750 |
-| deepseek-aiDeepSeek-V3 | 8.750 |
 | granite4tiny-h | 8.750 |
 | liquidlfm-2-24b-a2b | 8.750 |
 | nousresearchhermes-4-70b | 8.750 |
@@ -188,4 +186,5 @@
 | mistral-small-2603 | 7.725 |
 | llama27b | 7.700 |
 | meta-llamallama-4-maverick | 7.575 |
+| talkie-1930-13b-it | 7.250 |
 | qwen3.50.8b | 6.838 |

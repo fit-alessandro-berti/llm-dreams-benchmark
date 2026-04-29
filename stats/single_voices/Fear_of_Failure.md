@@ -65,6 +65,7 @@
 | grok-4-1-fast-reasoning | 6.625 |
 | chatgpt-4o-latest-2024-11-20 | 6.613 |
 | gemini-2.5-pro-preview-06-05 | 6.550 |
+| talkie-1930-13b-it | 6.550 |
 | gemma-4-26b-a4b-it | 6.500 |
 | gemini-3-flash-preview | 6.488 |
 | chatgpt-4o-latest-2025-04-26 | 6.487 |
@@ -90,7 +91,6 @@
 | nousresearchhermes-4-405b | 6.050 |
 | bytedance-seedseed-2.0-lite | 6.038 |
 | amazonnova-2-lite-v1 | 6.025 |
-| deepseek-aiDeepSeek-V3 | 6.000 |
 | bytedance-seedseed-2.0-mini | 5.987 |
 | claude-opus-4-5-20251101 | 5.987 |
 | gemma-3-27b-it | 5.987 |
@@ -180,7 +180,6 @@
 | xiaomimimo-v2-pro | 3.888 |
 | inceptionmercury | 3.887 |
 | open-mistral-7b | 3.862 |
-| deepseekdeepseek-v3.2-exp | 3.850 |
 | liquidlfm2-8b-a1b | 3.812 |
 | o3-pro-2025-06-10 | 3.638 |
 | granite4small-h | 3.612 |

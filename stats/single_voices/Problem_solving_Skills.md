@@ -5,7 +5,6 @@
 | qwen2.5-14b-instruct | 9.175 |
 | o3-pro-2025-06-10 | 9.050 |
 | microsoftPhi-3-medium-4k-instruct | 9.050 |
-| deepseekdeepseek-v3.2-exp | 9.012 |
 | granite4small-h | 9.000 |
 | open-mixtral-8x22b | 8.988 |
 | gpt-5.3-codex-spark-low | 8.963 |
@@ -101,7 +100,6 @@
 | gpt-5.5-2026-04-23 | 8.375 |
 | inclusionailing-2.6-1tfree | 8.363 |
 | qwenqwen3-max | 8.363 |
-| deepseek-aiDeepSeek-V3 | 8.362 |
 | googlegemini-3.1-flash-lite-preview | 8.362 |
 | Grok-3-beta-thinking-20250303 | 8.362 |
 | liquidlfm-2.5-1.2b-instructfree | 8.350 |
@@ -188,4 +186,5 @@
 | gemma4e2b | 7.325 |
 | qwen3.54b | 7.187 |
 | anthropicclaude-sonnet-4.5 | 7.112 |
+| talkie-1930-13b-it | 6.975 |
 | qwen3.50.8b | 6.663 |

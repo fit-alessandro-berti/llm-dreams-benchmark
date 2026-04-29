@@ -8,7 +8,6 @@
 | open-mixtral-8x7b | 8.662 |
 | microsoftPhi-3-medium-4k-instruct | 8.650 |
 | ai21jamba-mini-1.7 | 8.613 |
-| deepseekdeepseek-v3.2-exp | 8.588 |
 | o3-pro-2025-06-10 | 8.588 |
 | gpt-3.5-turbo | 8.575 |
 | grok-2-1212 | 8.575 |
@@ -75,7 +74,6 @@
 | phi2.7b | 7.812 |
 | Grok-4-fast-20251111 | 7.800 |
 | baiduernie-4.5-300b-a47b | 7.800 |
-| deepseek-aiDeepSeek-V3 | 7.800 |
 | nvidiaNVIDIA-Nemotron-3-Super-120B-A12B | 7.775 |
 | granite4micro-h | 7.763 |
 | grok-4-1-fast-non-reasoning | 7.750 |
@@ -152,6 +150,7 @@
 | meta-llamaMeta-Llama-3.1-405B-Instruct | 6.837 |
 | ibmgranite41b-h | 6.812 |
 | gemma-4-26b-a4b-it | 6.800 |
+| talkie-1930-13b-it | 6.775 |
 | z-aiglm-5.1 | 6.750 |
 | moonshotaikimi-k2.6 | 6.700 |
 | tencenthy3-previewfree | 6.675 |

@@ -6,7 +6,6 @@
 | microsoftPhi-3-medium-4k-instruct | 8.713 |
 | xiaomimimo-v2.5-pro | 8.700 |
 | gpt-4.1-2025-04-14 | 8.675 |
-| deepseekdeepseek-v3.2-exp | 8.675 |
 | microsoftWizardLM-2-8x22B | 8.650 |
 | deepseekdeepseek-v3.2 | 8.637 |
 | microsoftphi-4 | 8.625 |
@@ -105,7 +104,6 @@
 | qwenqwen3.5-122b-a10b | 8.000 |
 | phi4-reasoningplus | 7.988 |
 | gpt-5-chat-latest-2025-08-19 | 7.987 |
-| deepseek-aiDeepSeek-V3 | 7.987 |
 | openaigpt-oss-20b | 7.950 |
 | openaigpt-5.4-nano | 7.912 |
 | gemini-3-flash-preview | 7.888 |
@@ -189,3 +187,4 @@
 | z-aiglm-5-turbo | 5.175 |
 | mistral-small-2603 | 5.075 |
 | meta-llamallama-4-maverick | 4.862 |
+| talkie-1930-13b-it | 4.850 |

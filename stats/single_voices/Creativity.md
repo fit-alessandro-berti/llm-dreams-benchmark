@@ -49,7 +49,6 @@
 | grok-4-1-fast-non-reasoning | 9.625 |
 | qwenqwen3.5-27b | 9.625 |
 | anthropicclaude-sonnet-4.6 | 9.613 |
-| deepseekdeepseek-v3.2-exp | 9.613 |
 | openaigpt-5.2-codex | 9.613 |
 | Qwen-3.6-Max-Preview | 9.613 |
 | qwenqwen3-max | 9.613 |
@@ -152,7 +151,6 @@
 | Gpt-5.1-Pro-20251120 | 9.375 |
 | phi33.8b | 9.375 |
 | liquidlfm-2.5-1.2b-thinkingfree | 9.362 |
-| deepseek-aiDeepSeek-V3 | 9.350 |
 | meta-llamaMeta-Llama-3.1-8B-Instruct | 9.338 |
 | gpt-5.2-2025-12-11 | 9.325 |
 | open-mixtral-8x22b | 9.325 |
@@ -189,3 +187,4 @@
 | llama27b | 8.812 |
 | ibmgranite41b-h | 8.775 |
 | phi2.7b | 8.662 |
+| talkie-1930-13b-it | 8.588 |

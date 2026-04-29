@@ -178,6 +178,7 @@
 | gemma4e4b | **344.0** | 8.5 $\pm$ 0.0 | 6.2 $\pm$ 0.2 | 7.2 $\pm$ 0.2 | 9.5 $\pm$ 0.0 | 5.1 $\pm$ 1.2 | 6.1 $\pm$ 0.6 | 7.0 $\pm$ 1.0 | 8.2 $\pm$ 0.8 | 8.2 $\pm$ 0.2 | 6.6 $\pm$ 0.6 | 8.2 $\pm$ 0.2 | 5.6 $\pm$ 1.4 | 8.0 $\pm$ 0.8 | 4.1 $\pm$ 1.1 | 7.9 $\pm$ 0.4 |
 | anthropicclaude-sonnet-4.5 | **343.5** | 8.0 $\pm$ 0.5 | 5.1 $\pm$ 0.9 | 6.9 $\pm$ 1.1 | 9.5 $\pm$ 0.0 | 5.4 $\pm$ 0.2 | 5.6 $\pm$ 1.4 | 6.5 $\pm$ 0.4 | 8.2 $\pm$ 0.2 | 8.1 $\pm$ 0.9 | 7.9 $\pm$ 0.6 | 8.1 $\pm$ 0.6 | 5.9 $\pm$ 1.9 | 8.2 $\pm$ 0.4 | 5.5 $\pm$ 0.8 | 7.4 $\pm$ 1.1 |
 | z-aiglm-5-turbo | **340.0** | 8.0 $\pm$ 0.5 | 5.5 $\pm$ 0.9 | 7.5 $\pm$ 0.6 | 9.5 $\pm$ 0.0 | 5.2 $\pm$ 0.2 | 6.2 $\pm$ 1.0 | 4.0 $\pm$ 0.4 | 8.8 $\pm$ 0.2 | 8.2 $\pm$ 0.8 | 7.8 $\pm$ 0.4 | 8.4 $\pm$ 0.5 | 5.8 $\pm$ 1.8 | 8.0 $\pm$ 1.0 | 4.9 $\pm$ 1.0 | 7.5 $\pm$ 1.1 |
+| talkie-1930-13b-it | **337.0** | 6.5 $\pm$ 0.0 | 5.0 $\pm$ 0.0 | 6.5 $\pm$ 1.0 | 8.4 $\pm$ 0.2 | 5.0 $\pm$ 1.0 | 6.5 $\pm$ 0.5 | 4.2 $\pm$ 1.2 | 7.0 $\pm$ 0.0 | 7.0 $\pm$ 0.9 | 8.0 $\pm$ 0.6 | 6.0 $\pm$ 0.0 | 5.2 $\pm$ 1.1 | 7.5 $\pm$ 0.4 | 5.5 $\pm$ 1.0 | 6.4 $\pm$ 1.2 |
 | gemma4e2b | **337.0** | 8.5 $\pm$ 0.0 | 5.4 $\pm$ 1.4 | 5.8 $\pm$ 0.8 | 9.5 $\pm$ 0.0 | 5.1 $\pm$ 0.7 | 5.1 $\pm$ 0.6 | 7.2 $\pm$ 0.4 | 8.9 $\pm$ 0.2 | 7.2 $\pm$ 1.1 | 7.9 $\pm$ 0.2 | 8.5 $\pm$ 0.4 | 5.5 $\pm$ 2.0 | 8.0 $\pm$ 0.4 | 5.5 $\pm$ 0.6 | 7.1 $\pm$ 0.9 |
 | z-aiglm-5v-turbo | **333.0** | 8.5 $\pm$ 0.0 | 5.4 $\pm$ 1.1 | 7.0 $\pm$ 0.4 | 9.5 $\pm$ 0.0 | 5.2 $\pm$ 0.2 | 6.6 $\pm$ 0.6 | 5.1 $\pm$ 1.0 | 9.0 $\pm$ 0.0 | 7.8 $\pm$ 0.2 | 8.2 $\pm$ 0.2 | 8.2 $\pm$ 0.2 | 7.4 $\pm$ 0.2 | 8.2 $\pm$ 0.2 | 4.5 $\pm$ 0.4 | 7.2 $\pm$ 0.4 |
 | mistral-small-2603 | **332.5** | 8.5 $\pm$ 0.0 | 5.5 $\pm$ 0.5 | 7.5 $\pm$ 0.0 | 9.5 $\pm$ 0.0 | 5.5 $\pm$ 0.5 | 6.2 $\pm$ 0.4 | 4.2 $\pm$ 0.2 | 8.5 $\pm$ 0.5 | 7.5 $\pm$ 0.5 | 8.5 $\pm$ 0.0 | 8.5 $\pm$ 0.5 | 7.4 $\pm$ 0.2 | 7.9 $\pm$ 0.5 | 5.2 $\pm$ 0.8 | 7.1 $\pm$ 0.2 |
@@ -4760,6 +4761,32 @@
 | Cognitive Load | 8.0 $\pm$ 1.0 |
 | Social Support | 4.9 $\pm$ 1.0 |
 | Resilience | 7.5 $\pm$ 1.1 |
+
+
+
+
+
+
+### talkie-1930-13b-it
+
+
+| Personality Trait | Score (1.0-10.0) |
+| --- | --- |
+| Anxiety and Stress Levels | 6.5 $\pm$ 0.0 |
+| Emotional Stability | 5.0 $\pm$ 0.0 |
+| Problem-solving Skills | 6.5 $\pm$ 1.0 |
+| Creativity | 8.4 $\pm$ 0.2 |
+| Interpersonal Relationships | 5.0 $\pm$ 1.0 |
+| Confidence and Self-efficacy | 6.5 $\pm$ 0.5 |
+| Conflict Resolution | 4.2 $\pm$ 1.2 |
+| Work-related Stress | 7.0 $\pm$ 0.0 |
+| Adaptability | 7.0 $\pm$ 0.9 |
+| Achievement Motivation | 8.0 $\pm$ 0.6 |
+| Fear of Failure | 6.0 $\pm$ 0.0 |
+| Need for Control | 5.2 $\pm$ 1.1 |
+| Cognitive Load | 7.5 $\pm$ 0.4 |
+| Social Support | 5.5 $\pm$ 1.0 |
+| Resilience | 6.4 $\pm$ 1.2 |
 
 
 

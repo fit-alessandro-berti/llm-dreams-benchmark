@@ -91,7 +91,7 @@
 | amazonnova-2-lite-v1 | 7.675 |
 | googlegemini-3.1-flash-lite-preview | 7.675 |
 | arcee-aitrinity-large-previewfree | 7.638 |
-| deepseek-aiDeepSeek-V3 | 7.625 |
+| talkie-1930-13b-it | 7.638 |
 | grok-4.20-experimental-beta-0304-reasoning | 7.612 |
 | allenaiolmo-3-7b-instruct | 7.600 |
 | inclusionailing-2.6-1tfree | 7.600 |
@@ -180,7 +180,6 @@
 | o3-pro-2025-06-10 | 6.712 |
 | open-mixtral-8x22b | 6.712 |
 | microsoftphi-4 | 6.688 |
-| deepseekdeepseek-v3.2-exp | 6.675 |
 | o3-mini-20250131-HIGH | 6.650 |
 | xiaomimimo-v2-pro | 6.613 |
 | gpt-5-nano-2025-08-07 | 6.600 |

@@ -75,6 +75,7 @@
 | baiduernie-4.5-21b-a3b | 7.050 |
 | gemma-3-27b-it | 7.050 |
 | gemini-1.5-flash-002 | 7.050 |
+| talkie-1930-13b-it | 7.038 |
 | gemma-4-26b-a4b-it | 7.037 |
 | gemma-4-31b-it | 7.037 |
 | inclusionailing-2.6-1tfree | 7.013 |
@@ -85,7 +86,6 @@
 | llama213b | 6.975 |
 | deepseekdeepseek-v4-pro | 6.950 |
 | openaigpt-5.4-pro | 6.925 |
-| deepseek-aiDeepSeek-V3 | 6.913 |
 | nvidiaLlama-3.1-Nemotron-70B-Instruct | 6.912 |
 | claude-opus-4-5-20251101 | 6.900 |
 | claude-3-7-sonnet-20250219 | 6.875 |
@@ -185,7 +185,6 @@
 | open-mixtral-8x7b | 4.438 |
 | microsoftphi-4 | 4.400 |
 | granite4small-h | 4.362 |
-| deepseekdeepseek-v3.2-exp | 4.350 |
 | o3-pro-2025-06-10 | 4.350 |
 | microsoftPhi-3-medium-4k-instruct | 4.287 |
 | qwenqwen3.6-plusfree | 3.700 |

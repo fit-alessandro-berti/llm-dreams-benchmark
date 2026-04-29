@@ -26,7 +26,7 @@ API_URL = "https://openrouter.ai/api/v1/"
 API_KEY = open("../api_openrouter.txt", "r").read()
 
 NUMBER_EXECUTIONS = 2
-MAX_WORKERS = 75
+MAX_WORKERS = 1
 
 WAITING_TIME_RETRY = 15
 TIME_BETWEEN_ANSWERS = 0
@@ -180,7 +180,7 @@ def perform_query_openai_api(text, streaming_enabled=None):
     while not response_message:
         try:
             if streaming_enabled is None:
-                streaming_enabled = "alpha" not in MODEL_NAME and "seed" not in MODEL_NAME
+                streaming_enabled = "alpha" not in MODEL_NAME and "seed" not in MODEL_NAME and "talkie" not in MODEL_NAME
 
             if streaming_enabled:
                 payload["stream"] = True

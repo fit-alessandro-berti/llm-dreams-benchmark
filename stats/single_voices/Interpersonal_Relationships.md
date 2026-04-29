@@ -29,7 +29,6 @@
 | phi33.8b | 8.113 |
 | ai21jamba-mini-1.7 | 8.100 |
 | liquidlfm-2.2-6b | 8.075 |
-| deepseekdeepseek-v3.2-exp | 8.062 |
 | granite4small-h | 8.062 |
 | o3-pro-2025-06-10 | 8.062 |
 | baiduernie-4.5-300b-a47b | 8.050 |
@@ -80,7 +79,6 @@
 | smollm21.7b-instruct-q6_K | 7.637 |
 | ChatGPT-5.1-Instant-20251113 | 7.625 |
 | gpt-5.5-2026-04-23 | 7.575 |
-| deepseek-aiDeepSeek-V3 | 7.575 |
 | qwenqwen3.6-plusfree | 7.575 |
 | allenaiolmo-3-7b-instruct | 7.538 |
 | gpt-5.3-codex-spark-low | 7.538 |
@@ -187,5 +185,6 @@
 | mistral-large-2512 | 5.838 |
 | z-aiglm-5v-turbo | 5.737 |
 | gemini-3-pro-preview | 5.700 |
+| talkie-1930-13b-it | 5.487 |
 | qwen3.54b | 5.388 |
 | qwen3.50.8b | 5.250 |

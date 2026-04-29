@@ -73,10 +73,10 @@
 | qwen2.5-14b-instruct | 6.100 |
 | granite4small-h | 6.100 |
 | open-mixtral-8x7b | 6.088 |
+| talkie-1930-13b-it | 6.088 |
 | z-aiglm-5.1 | 6.088 |
 | falcon33b-instruct-q8_0 | 6.087 |
 | openaigpt-5.4 | 6.087 |
-| deepseek-aiDeepSeek-V3 | 6.075 |
 | arcee-aitrinity-large-previewfree | 6.050 |
 | gemini-2.0-pro-exp-02-05 | 6.050 |
 | granite3.28b-instruct-q4_K_M | 6.038 |
@@ -130,7 +130,6 @@
 | gpt-4o-2024-05-13 | 5.525 |
 | gpt-5-2025-08-07 | 5.513 |
 | Meta-Muse-Spark-20260409 | 5.513 |
-| deepseekdeepseek-v3.2-exp | 5.500 |
 | ChatGPT-5.1-Instant-20251113 | 5.500 |
 | moonshotaikimi-k2.5 | 5.500 |
 | bytedance-seedseed-2.0-mini | 5.487 |

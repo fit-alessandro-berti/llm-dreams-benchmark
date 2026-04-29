@@ -3,7 +3,6 @@
 | Model | Average |
 |:--|--:|
 | qwenqwen3.6-plusfree | 8.450 |
-| deepseekdeepseek-v3.2-exp | 8.350 |
 | microsoftPhi-3-medium-4k-instruct | 8.288 |
 | o3-pro-2025-06-10 | 8.262 |
 | qwen2.5-14b-instruct | 8.213 |
@@ -102,7 +101,6 @@
 | openaigpt-5.4-pro | 6.862 |
 | claude-3-7-sonnet-20250219 | 6.838 |
 | allenaiolmo-3-7b-instruct | 6.825 |
-| deepseek-aiDeepSeek-V3 | 6.812 |
 | nvidiaLlama-3.1-Nemotron-70B-Instruct | 6.800 |
 | chatgpt-4o-latest-2025-03-26 | 6.788 |
 | gemini-1.5-flash-002 | 6.787 |
@@ -172,6 +170,7 @@
 | gemma4e4b | 5.525 |
 | meta-llamaLlama-3.3-70B-Instruct | 5.513 |
 | ministral-14b-2512 | 5.425 |
+| talkie-1930-13b-it | 5.425 |
 | meta-llamaMeta-Llama-3.1-70B-Instruct | 5.387 |
 | z-aiglm-5-turbo | 5.350 |
 | mistral-medium-2508 | 5.312 |

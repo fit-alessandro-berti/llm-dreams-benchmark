@@ -26,7 +26,7 @@ API_URL = "https://openrouter.ai/api/v1/"
 API_KEY = open("../api_openrouter.txt", "r").read()
 
 NUMBER_EXECUTIONS = 2
-MAX_WORKERS = 1
+MAX_WORKERS = 75
 
 WAITING_TIME_RETRY = 15
 TIME_BETWEEN_ANSWERS = 0

@@ -62,6 +62,7 @@
 | grok-4-0709 | 6.725 |
 | moonshotaikimi-k2.5 | 6.713 |
 | gemini-2.5-pro-preview-05-06 | 6.712 |
+| mistral-medium-3.5 | 6.638 |
 | grok-4-1-fast-reasoning | 6.625 |
 | chatgpt-4o-latest-2024-11-20 | 6.613 |
 | gemini-2.5-pro-preview-06-05 | 6.550 |

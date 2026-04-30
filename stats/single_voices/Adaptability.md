@@ -119,6 +119,7 @@
 | claude-3-7-sonnet-20250219 | 8.750 |
 | granite4tiny-h | 8.750 |
 | liquidlfm-2-24b-a2b | 8.750 |
+| mistral-medium-3.5 | 8.750 |
 | nousresearchhermes-4-70b | 8.750 |
 | openaigpt-5.4 | 8.750 |
 | liquidlfm-2.5-1.2b-instructfree | 8.750 |

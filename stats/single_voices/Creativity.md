@@ -113,6 +113,7 @@
 | gemini-2.0-flash-exp | 9.488 |
 | phi4-reasoningplus | 9.488 |
 | gpt-4.1-2025-04-14 | 9.487 |
+| mistral-medium-3.5 | 9.475 |
 | baiduernie-4.5-300b-a47b | 9.475 |
 | nvidiaLlama-3.1-Nemotron-70B-Instruct | 9.475 |
 | amazonnova-2-lite-v1 | 9.463 |

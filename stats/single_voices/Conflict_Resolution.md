@@ -121,6 +121,7 @@
 | qwenqwen3.5-27b | 7.812 |
 | deepseekdeepseek-v4-pro | 7.800 |
 | grok-4-1-fast-reasoning | 7.762 |
+| mistral-medium-3.5 | 7.688 |
 | Grok-4-fast-20251111 | 7.688 |
 | Grok-4.1-20251118 | 7.675 |
 | openaigpt-5.4-pro | 7.662 |

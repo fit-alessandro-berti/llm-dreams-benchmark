@@ -161,6 +161,7 @@
 | qwenqwen3.5-397b-a17b | 6.575 |
 | meta-llamaMeta-Llama-3.1-70B-Instruct | 6.550 |
 | arcee-aitrinity-large-thinking | 6.550 |
+| mistral-medium-3.5 | 6.538 |
 | z-aiglm-5 | 6.525 |
 | mistral-medium-2508 | 6.513 |
 | qwenqwen3.5-35b-a3b | 6.463 |

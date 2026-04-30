@@ -144,6 +144,7 @@
 | Gpt-5.1-Pro-20251120 | 8.375 |
 | llama213b | 8.375 |
 | allenaiolmo-3-7b-instruct | 8.325 |
+| mistral-medium-3.5 | 8.325 |
 | prime-intellectintellect-3 | 8.288 |
 | gpt-5.2-2025-12-11 | 8.287 |
 | claude-opus-4-5-20251101 | 8.275 |

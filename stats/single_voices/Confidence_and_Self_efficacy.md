@@ -129,6 +129,7 @@
 | poolsidelaguna-xs.2free | 7.175 |
 | Grok-4.1-20251118 | 7.163 |
 | gemini-2.5-pro-preview-06-05 | 7.162 |
+| mistral-medium-3.5 | 7.162 |
 | granite4tiny-h | 7.125 |
 | openaigpt-5.4-nano | 7.112 |
 | chatgpt-4o-latest-2024-11-20 | 7.100 |

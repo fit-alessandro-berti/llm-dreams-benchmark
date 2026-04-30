@@ -76,6 +76,7 @@
 | talkie-1930-13b-it | 6.088 |
 | z-aiglm-5.1 | 6.088 |
 | falcon33b-instruct-q8_0 | 6.087 |
+| mistral-medium-3.5 | 6.087 |
 | openaigpt-5.4 | 6.087 |
 | arcee-aitrinity-large-previewfree | 6.050 |
 | gemini-2.0-pro-exp-02-05 | 6.050 |

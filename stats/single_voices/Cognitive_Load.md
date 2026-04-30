@@ -68,6 +68,7 @@
 | Gemini-1.5-Pro-Exp-0827 | 7.925 |
 | z-aiglm-5.1 | 7.925 |
 | grok-4-1-fast-reasoning | 7.912 |
+| mistral-medium-3.5 | 7.888 |
 | baiduernie-4.5-21b-a3b | 7.875 |
 | gemini-2.5-pro-preview-05-06 | 7.862 |
 | smollm21.7b-instruct-q6_K | 7.862 |

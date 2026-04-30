@@ -85,6 +85,7 @@
 | gemini-3-flash-preview | 7.262 |
 | falcon33b-instruct-q8_0 | 7.250 |
 | poolsidelaguna-xs.2free | 7.238 |
+| mistral-medium-3.5 | 7.237 |
 | poolsidelaguna-m.1free | 7.200 |
 | gemma-4-31b-it | 7.137 |
 | gemini-2.5-pro-preview-06-05 | 7.125 |

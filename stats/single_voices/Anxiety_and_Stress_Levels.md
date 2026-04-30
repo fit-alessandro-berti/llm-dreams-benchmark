@@ -56,6 +56,7 @@
 | chatgpt-4o-latest-2024-11-20 | 7.400 |
 | moonshotaikimi-k2.5 | 7.400 |
 | deepseekdeepseek-v4-flash | 7.362 |
+| mistral-medium-3.5 | 7.350 |
 | granite4tiny-h | 7.337 |
 | grok-4-0709 | 7.337 |
 | smollm21.7b-instruct-q6_K | 7.325 |

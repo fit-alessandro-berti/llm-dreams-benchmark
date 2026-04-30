@@ -151,6 +151,7 @@
 | qwenqwen3.5-27b | 6.888 |
 | meta-llamaMeta-Llama-3.1-70B-Instruct | 6.875 |
 | allenaiolmo-3-7b-think | 6.862 |
+| mistral-medium-3.5 | 6.850 |
 | moonshotaikimi-k2.6 | 6.838 |
 | tencenthy3-previewfree | 6.825 |
 | gpt-5.2-pro-2025-12-11 | 6.812 |

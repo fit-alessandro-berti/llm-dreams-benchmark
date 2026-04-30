@@ -106,6 +106,7 @@
 | claude-3-opus-20240229 | 8.213 |
 | gpt-5-chat-latest-2025-08-19 | 8.213 |
 | qwenqwen3-max | 8.213 |
+| mistral-medium-3.5 | 8.212 |
 | claude-3-7-sonnet-20250219 | 8.200 |
 | grok-4.20-experimental-beta-0304-non-reasoning | 8.200 |
 | o3-mini-20250131-HIGH | 8.200 |

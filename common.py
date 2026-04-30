@@ -1,4 +1,4 @@
-ANSWERING_MODEL_NAME = "poolside/laguna-xs.2:free"
+ANSWERING_MODEL_NAME = "mistral-medium-3.5"
 EVALUATING_MODEL_NAME = "gpt-5.2"
 
 

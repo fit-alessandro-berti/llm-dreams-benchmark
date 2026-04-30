@@ -136,6 +136,7 @@
 | gemini-1.5-flash-8b | 6.363 |
 | Liquid-LFM2.5-350M | 6.350 |
 | gemma-4-26b-a4b-it | 6.338 |
+| mistral-medium-3.5 | 6.337 |
 | poolsidelaguna-xs.2free | 6.337 |
 | grok-4-1-fast-reasoning | 6.325 |
 | gemini-2.5-pro-preview-05-06 | 6.275 |

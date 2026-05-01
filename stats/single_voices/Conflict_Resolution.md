@@ -8,6 +8,7 @@
 | gpt-4.1-2025-04-14 | 8.675 |
 | microsoftWizardLM-2-8x22B | 8.650 |
 | deepseekdeepseek-v3.2 | 8.637 |
+| ibm-granitegranite-4.1-8b | 8.625 |
 | microsoftphi-4 | 8.625 |
 | o1-preview-2024-09-12 | 8.625 |
 | allenaiolmo-3.1-32b-instruct | 8.600 |
@@ -97,6 +98,7 @@
 | falcon310b-instruct-q8_0 | 8.075 |
 | liquidlfm2-8b-a1b | 8.075 |
 | nvidianemotron-3-nano-30b-a3bfree | 8.062 |
+| openrouterowl-alpha | 8.050 |
 | openaigpt-5.3-codex | 8.038 |
 | claude-3-7-sonnet-20250219 | 8.037 |
 | gpt-4-0613 | 8.037 |

@@ -92,6 +92,7 @@
 | granite4micro | 7.075 |
 | nvidiaLlama-3.1-Nemotron-70B-Instruct | 7.062 |
 | qwenqwen3.5-27b | 7.050 |
+| openrouterowl-alpha | 7.025 |
 | amazonnova-2-lite-v1 | 7.013 |
 | nousresearchhermes-4-70b | 7.000 |
 | llama213b | 6.987 |
@@ -159,6 +160,7 @@
 | liquidlfm-2.2-6b | 5.638 |
 | qwen2.5-14b-instruct | 5.638 |
 | inceptionmercury | 5.563 |
+| ibm-granitegranite-4.1-8b | 5.550 |
 | gpt-4-turbo-2024-04-09 | 5.525 |
 | microsoftWizardLM-2-8x22B | 5.525 |
 | grok-2-1212 | 5.525 |

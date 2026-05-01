@@ -17,6 +17,7 @@
 | qwen2.5-72b-instruct | 8.113 |
 | open-mistral-7b | 8.075 |
 | granite3.28b-instruct-q4_K_M | 8.075 |
+| ibm-granitegranite-4.1-8b | 8.075 |
 | gpt-4-0125-preview | 8.062 |
 | gpt-4-turbo-2024-04-09 | 8.062 |
 | inceptionmercury | 8.050 |
@@ -69,6 +70,7 @@
 | ChatGPT-5.1-Instant-20251113 | 7.350 |
 | qwenqwen3.5-122b-a10b | 7.350 |
 | arcee-aitrinity-large-previewfree | 7.338 |
+| openrouterowl-alpha | 7.337 |
 | gpt-5.3-codex-spark-low | 7.325 |
 | openaigpt-oss-20b | 7.325 |
 | gpt-4.1-nano-2025-04-14 | 7.300 |

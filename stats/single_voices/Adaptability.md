@@ -19,6 +19,7 @@
 | microsoftphi-4 | 9.087 |
 | gpt-5-pro-2025-10-06 | 9.075 |
 | open-mixtral-8x7b | 9.075 |
+| ibm-granitegranite-4.1-8b | 9.075 |
 | o3-mini-20250131-HIGH | 9.075 |
 | qwen2.5-72b-instruct | 9.075 |
 | googlegemini-3.1-pro-preview | 9.062 |
@@ -138,6 +139,7 @@
 | deepseekdeepseek-v3.2-speciale | 8.675 |
 | falcon33b-instruct-q8_0 | 8.675 |
 | grok-4.20-experimental-beta-0304-non-reasoning | 8.675 |
+| openrouterowl-alpha | 8.675 |
 | poolsidelaguna-xs.2free | 8.675 |
 | openaigpt-5.3-chat | 8.638 |
 | anthropicclaude-opus-4.1 | 8.637 |

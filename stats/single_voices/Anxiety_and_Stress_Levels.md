@@ -108,6 +108,7 @@
 | gpt-5.5-2026-04-23 | 6.638 |
 | GPT-5.5-Pro-20260422 | 6.625 |
 | granite4micro | 6.612 |
+| openrouterowl-alpha | 6.600 |
 | gpt-5-chat-latest-2025-08-19 | 6.575 |
 | qwenqwen3.5-27b | 6.562 |
 | allenaiolmo-3.1-32b-instruct | 6.475 |
@@ -174,6 +175,7 @@
 | gpt-4o-2024-08-06 | 4.888 |
 | open-mixtral-8x22b | 4.875 |
 | open-mistral-7b | 4.850 |
+| ibm-granitegranite-4.1-8b | 4.838 |
 | xiaomimimo-v2-pro | 4.825 |
 | o3-2025-04-16 | 4.825 |
 | liquidlfm2-8b-a1b | 4.813 |

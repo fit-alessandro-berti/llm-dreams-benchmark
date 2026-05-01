@@ -1,4 +1,4 @@
-ANSWERING_MODEL_NAME = "mistral-medium-3.5"
+ANSWERING_MODEL_NAME = "openrouter/owl-alpha"
 EVALUATING_MODEL_NAME = "gpt-5.2"
 
 

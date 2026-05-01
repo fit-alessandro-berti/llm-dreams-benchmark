@@ -8,6 +8,7 @@
 | open-mixtral-8x7b | 8.662 |
 | microsoftPhi-3-medium-4k-instruct | 8.650 |
 | ai21jamba-mini-1.7 | 8.613 |
+| ibm-granitegranite-4.1-8b | 8.588 |
 | o3-pro-2025-06-10 | 8.588 |
 | gpt-3.5-turbo | 8.575 |
 | grok-2-1212 | 8.575 |
@@ -60,6 +61,7 @@
 | nvidianemotron-3-nano-30b-a3bfree | 7.975 |
 | gpt-4o-mini-2024-07-18 | 7.962 |
 | nousresearchhermes-4-70b | 7.950 |
+| openrouterowl-alpha | 7.913 |
 | minimaxminimax-m2.5 | 7.900 |
 | qwen3.635b-a3b | 7.900 |
 | anthropicclaude-sonnet-4.6 | 7.900 |

@@ -16,6 +16,7 @@
 | liquidlfm2-8b-a1b | 9.125 |
 | gpt-4.5-preview | 9.113 |
 | gpt-5-mini-2025-08-07 | 9.113 |
+| ibm-granitegranite-4.1-8b | 9.112 |
 | ai21jamba-mini-1.7 | 9.100 |
 | gpt-4-0613 | 9.100 |
 | o1-preview-2024-09-12 | 9.100 |
@@ -78,6 +79,7 @@
 | openaigpt-5.3-codex | 8.838 |
 | qwen3.59b | 8.838 |
 | qwenqwen3.5-plus-02-15 | 8.825 |
+| openrouterowl-alpha | 8.812 |
 | gemini-1.5-flash-002 | 8.812 |
 | gpt-4.1-2025-04-14 | 8.787 |
 | gpt-4.1-nano-2025-04-14 | 8.787 |

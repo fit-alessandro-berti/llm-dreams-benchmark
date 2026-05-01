@@ -28,6 +28,7 @@
 | gpt-4-0125-preview | 8.113 |
 | phi33.8b | 8.113 |
 | ai21jamba-mini-1.7 | 8.100 |
+| ibm-granitegranite-4.1-8b | 8.088 |
 | liquidlfm-2.2-6b | 8.075 |
 | granite4small-h | 8.062 |
 | o3-pro-2025-06-10 | 8.062 |
@@ -64,6 +65,7 @@
 | minimaxminimax-m2.7 | 7.800 |
 | amazonnova-2-lite-v1 | 7.788 |
 | anthropicclaude-opus-4.6 | 7.787 |
+| openrouterowl-alpha | 7.787 |
 | granite4tiny-h | 7.775 |
 | anthropicclaude-sonnet-4.6 | 7.775 |
 | o3-2025-04-16 | 7.762 |

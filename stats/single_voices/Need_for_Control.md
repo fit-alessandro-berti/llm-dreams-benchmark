@@ -84,6 +84,7 @@
 | ministral-3b-2410 | 6.038 |
 | gpt-4.1-nano-2025-04-14 | 6.025 |
 | phi3.53.8b-mini-instruct-fp16 | 6.013 |
+| ibm-granitegranite-4.1-8b | 6.000 |
 | granite4micro-h | 5.987 |
 | z-aiglm-5 | 5.987 |
 | openaigpt-5.4-pro | 5.950 |
@@ -115,6 +116,7 @@
 | Grok-4-fast-20251111 | 5.712 |
 | Qwen-3.6-27B | 5.700 |
 | qwen2.5-72b-instruct | 5.688 |
+| openrouterowl-alpha | 5.675 |
 | minimaxminimax-m2.7 | 5.675 |
 | qwenqwen3.5-35b-a3b | 5.662 |
 | liquidlfm-2.2-6b | 5.650 |

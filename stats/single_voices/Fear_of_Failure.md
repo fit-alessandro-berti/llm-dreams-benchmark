@@ -116,6 +116,7 @@
 | qwenqwen3.5-397b-a17b | 5.625 |
 | qwenqwen3.5-plus-02-15 | 5.612 |
 | googlegemini-3.1-flash-lite-preview | 5.600 |
+| openrouterowl-alpha | 5.600 |
 | anthropicclaude-opus-4.6 | 5.587 |
 | gpt-5-2025-08-07 | 5.550 |
 | arcee-aitrinity-large-previewfree | 5.537 |
@@ -171,6 +172,7 @@
 | gpt-4-0125-preview | 4.213 |
 | gpt-5-nano-2025-08-07 | 4.213 |
 | gpt-4o-2024-08-06 | 4.162 |
+| ibm-granitegranite-4.1-8b | 4.150 |
 | o3-2025-04-16 | 4.150 |
 | open-mixtral-8x22b | 4.100 |
 | qwen2.5-72b-instruct | 4.100 |

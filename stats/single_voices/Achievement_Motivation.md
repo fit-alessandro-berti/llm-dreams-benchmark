@@ -16,6 +16,7 @@
 | gpt-4-0613 | 8.837 |
 | liquidlfm2-8b-a1b | 8.775 |
 | microsoftWizardLM-2-8x22B | 8.763 |
+| ibm-granitegranite-4.1-8b | 8.750 |
 | granite4micro | 8.738 |
 | ai21jamba-large-1.7 | 8.725 |
 | qwen2.5-32b-instruct | 8.713 |
@@ -64,6 +65,7 @@
 | meta-llamaMeta-Llama-3.1-405B-Instruct | 8.475 |
 | gemini-1.5-flash-8b | 8.462 |
 | Grok-3-beta-thinking-20250303 | 8.450 |
+| openrouterowl-alpha | 8.450 |
 | meta-llamaLlama-3.3-70B-Instruct | 8.438 |
 | o1-preview-2024-09-12 | 8.438 |
 | Grok-4-fast-20251111 | 8.425 |

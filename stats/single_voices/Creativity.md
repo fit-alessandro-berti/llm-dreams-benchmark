@@ -94,6 +94,7 @@
 | gpt-4-turbo-2024-04-09 | 9.525 |
 | gpt-4o-2024-08-06 | 9.525 |
 | gpt-5-nano-2025-08-07 | 9.525 |
+| openrouterowl-alpha | 9.525 |
 | claude-haiku-4-5-20251001 | 9.513 |
 | Gemini-1.5-Pro-Exp-0827 | 9.513 |
 | minimaxminimax-m2.5 | 9.513 |
@@ -134,6 +135,7 @@
 | gpt-5.3-codex-spark-low | 9.438 |
 | gpt-5-chat-latest-2025-08-19 | 9.438 |
 | gpt-4.5-preview | 9.425 |
+| ibm-granitegranite-4.1-8b | 9.425 |
 | inceptionmercury | 9.425 |
 | mistral-large-2512 | 9.425 |
 | liquidlfm-2-24b-a2b | 9.425 |

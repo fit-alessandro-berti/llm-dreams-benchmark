@@ -41,6 +41,7 @@
 | gpt-4.1-mini-2025-04-14 | 8.000 |
 | phi3.53.8b-mini-instruct-fp16 | 7.987 |
 | granite4micro | 7.975 |
+| ibm-granitegranite-4.1-8b | 7.975 |
 | gpt-4.1-nano-2025-04-14 | 7.950 |
 | falcon37b-instruct-q8_0 | 7.925 |
 | liquidlfm-2.2-6b | 7.913 |
@@ -61,6 +62,7 @@
 | anthropicclaude-opus-4.6 | 7.688 |
 | smollm21.7b-instruct-q6_K | 7.688 |
 | Grok-3-beta-thinking-20250303 | 7.687 |
+| openrouterowl-alpha | 7.675 |
 | o3-pro-2025-06-10 | 7.675 |
 | o4-mini-2025-04-16 | 7.675 |
 | liquidlfm2-8b-a1b | 7.650 |

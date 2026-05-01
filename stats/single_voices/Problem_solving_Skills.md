@@ -9,6 +9,7 @@
 | open-mixtral-8x22b | 8.988 |
 | gpt-5.3-codex-spark-low | 8.963 |
 | granite3.28b-instruct-q4_K_M | 8.963 |
+| ibm-granitegranite-4.1-8b | 8.913 |
 | microsoftphi-4 | 8.912 |
 | inceptionmercury | 8.887 |
 | qwen2.5-32b-instruct | 8.887 |
@@ -66,6 +67,7 @@
 | arcee-aitrinity-large-previewfree | 8.575 |
 | allenaiolmo-3-7b-think | 8.562 |
 | gpt-5-2025-08-07 | 8.538 |
+| openrouterowl-alpha | 8.538 |
 | gemini-1.5-flash-002 | 8.537 |
 | o1-2024-12-17 | 8.525 |
 | openaigpt-5.4-mini | 8.525 |

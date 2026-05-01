@@ -25,6 +25,7 @@
 | openaigpt-oss-120b | **409.3** | 5.5 $\pm$ 0.7 | 7.1 $\pm$ 0.2 | 8.4 $\pm$ 0.2 | 9.5 $\pm$ 0.0 | 7.4 $\pm$ 0.2 | 7.6 $\pm$ 0.3 | 7.3 $\pm$ 0.1 | 6.0 $\pm$ 0.6 | 8.1 $\pm$ 0.2 | 8.3 $\pm$ 0.1 | 4.5 $\pm$ 0.7 | 6.1 $\pm$ 0.2 | 6.9 $\pm$ 0.2 | 7.6 $\pm$ 0.1 | 8.2 $\pm$ 0.2 |
 | gpt-4o-2024-08-06 | **409.0** | 5.5 $\pm$ 1.0 | 7.4 $\pm$ 0.4 | 8.5 $\pm$ 0.0 | 9.1 $\pm$ 0.1 | 7.5 $\pm$ 0.0 | 7.4 $\pm$ 0.4 | 7.5 $\pm$ 0.3 | 5.9 $\pm$ 0.9 | 8.1 $\pm$ 0.1 | 8.2 $\pm$ 0.2 | 4.8 $\pm$ 0.7 | 6.2 $\pm$ 0.2 | 6.7 $\pm$ 0.4 | 7.4 $\pm$ 0.1 | 8.4 $\pm$ 0.2 |
 | gpt-4.1-mini-2025-04-14 | **408.8** | 5.5 $\pm$ 1.0 | 7.2 $\pm$ 0.3 | 8.2 $\pm$ 0.2 | 9.1 $\pm$ 0.2 | 7.6 $\pm$ 0.1 | 7.8 $\pm$ 0.4 | 7.1 $\pm$ 0.2 | 5.6 $\pm$ 0.4 | 8.4 $\pm$ 0.1 | 8.3 $\pm$ 0.3 | 4.6 $\pm$ 0.9 | 6.2 $\pm$ 0.2 | 6.8 $\pm$ 0.2 | 7.6 $\pm$ 0.2 | 8.2 $\pm$ 0.2 |
+| ibm-granitegranite-4.1-8b | **408.6** | 5.8 $\pm$ 0.8 | 7.1 $\pm$ 0.2 | 8.5 $\pm$ 0.0 | 9.0 $\pm$ 0.0 | 7.6 $\pm$ 0.1 | 8.0 $\pm$ 0.0 | 7.5 $\pm$ 0.0 | 5.8 $\pm$ 0.4 | 8.6 $\pm$ 0.1 | 8.1 $\pm$ 0.2 | 4.8 $\pm$ 0.8 | 6.4 $\pm$ 0.2 | 7.0 $\pm$ 0.0 | 7.5 $\pm$ 0.0 | 8.4 $\pm$ 0.2 |
 | gpt-4-turbo-2024-04-09 | **408.1** | 6.5 $\pm$ 0.0 | 7.2 $\pm$ 0.3 | 8.5 $\pm$ 0.0 | 9.0 $\pm$ 0.1 | 7.6 $\pm$ 0.2 | 7.8 $\pm$ 0.1 | 7.3 $\pm$ 0.2 | 6.8 $\pm$ 0.0 | 8.6 $\pm$ 0.4 | 8.2 $\pm$ 0.1 | 5.5 $\pm$ 0.0 | 6.0 $\pm$ 0.1 | 7.0 $\pm$ 0.0 | 7.6 $\pm$ 0.3 | 8.3 $\pm$ 0.3 |
 | gpt-3.5-turbo | **407.8** | 6.5 $\pm$ 0.0 | 6.9 $\pm$ 0.1 | 8.4 $\pm$ 0.1 | 8.9 $\pm$ 0.2 | 8.0 $\pm$ 0.1 | 8.1 $\pm$ 0.4 | 7.4 $\pm$ 0.2 | 6.0 $\pm$ 0.0 | 8.3 $\pm$ 0.2 | 8.8 $\pm$ 0.3 | 5.5 $\pm$ 0.0 | 6.5 $\pm$ 0.3 | 6.8 $\pm$ 0.2 | 8.0 $\pm$ 0.2 | 8.5 $\pm$ 0.3 |
 | anthropicclaude-sonnet-4.6 | **407.0** | 6.5 $\pm$ 0.0 | 7.0 $\pm$ 0.0 | 8.5 $\pm$ 0.0 | 9.1 $\pm$ 0.2 | 7.5 $\pm$ 0.0 | 7.4 $\pm$ 0.4 | 7.4 $\pm$ 0.1 | 6.4 $\pm$ 0.4 | 8.0 $\pm$ 0.0 | 8.2 $\pm$ 0.2 | 5.5 $\pm$ 0.0 | 5.5 $\pm$ 0.5 | 6.5 $\pm$ 0.5 | 7.8 $\pm$ 0.2 | 8.5 $\pm$ 0.0 |
@@ -63,6 +64,7 @@
 | nvidiaNVIDIA-Nemotron-3-Super-120B-A12B | **396.5** | 6.8 $\pm$ 0.4 | 6.5 $\pm$ 0.5 | 8.5 $\pm$ 0.0 | 9.0 $\pm$ 0.0 | 7.2 $\pm$ 0.2 | 7.0 $\pm$ 0.4 | 7.8 $\pm$ 0.2 | 6.4 $\pm$ 0.4 | 8.2 $\pm$ 0.2 | 8.0 $\pm$ 0.5 | 5.8 $\pm$ 0.4 | 5.5 $\pm$ 0.5 | 6.9 $\pm$ 0.2 | 7.2 $\pm$ 0.2 | 8.1 $\pm$ 0.2 |
 | qwen3.635b-a3b | **396.0** | 7.0 $\pm$ 0.5 | 6.2 $\pm$ 0.8 | 8.2 $\pm$ 0.2 | 9.5 $\pm$ 0.0 | 7.0 $\pm$ 0.5 | 6.9 $\pm$ 0.9 | 7.4 $\pm$ 0.6 | 7.4 $\pm$ 0.6 | 8.7 $\pm$ 0.3 | 7.8 $\pm$ 0.3 | 6.0 $\pm$ 0.5 | 5.2 $\pm$ 0.7 | 7.2 $\pm$ 0.2 | 6.9 $\pm$ 0.6 | 8.3 $\pm$ 0.6 |
 | gpt-5-2025-08-07 | **395.7** | 6.8 $\pm$ 0.4 | 6.4 $\pm$ 0.5 | 8.3 $\pm$ 0.2 | 9.4 $\pm$ 0.2 | 7.4 $\pm$ 0.2 | 6.8 $\pm$ 0.2 | 7.5 $\pm$ 0.2 | 6.4 $\pm$ 0.4 | 8.1 $\pm$ 0.2 | 8.0 $\pm$ 0.3 | 5.8 $\pm$ 0.4 | 5.5 $\pm$ 0.4 | 7.1 $\pm$ 0.2 | 7.5 $\pm$ 0.4 | 8.2 $\pm$ 0.2 |
+| openrouterowl-alpha | **395.2** | 6.5 $\pm$ 0.0 | 6.5 $\pm$ 0.5 | 8.2 $\pm$ 0.2 | 9.2 $\pm$ 0.2 | 7.2 $\pm$ 0.2 | 7.6 $\pm$ 0.1 | 6.8 $\pm$ 0.2 | 6.7 $\pm$ 0.4 | 8.2 $\pm$ 0.2 | 8.2 $\pm$ 0.2 | 5.5 $\pm$ 0.0 | 6.0 $\pm$ 0.0 | 7.3 $\pm$ 0.2 | 7.2 $\pm$ 0.2 | 8.1 $\pm$ 0.1 |
 | bytedance-seedseed-2.0-lite | **395.1** | 6.5 $\pm$ 0.0 | 6.4 $\pm$ 0.6 | 7.6 $\pm$ 0.4 | 9.2 $\pm$ 0.2 | 8.1 $\pm$ 0.4 | 6.6 $\pm$ 1.0 | 7.4 $\pm$ 0.6 | 6.4 $\pm$ 0.5 | 8.0 $\pm$ 0.6 | 6.9 $\pm$ 0.6 | 6.0 $\pm$ 0.6 | 5.1 $\pm$ 0.4 | 6.2 $\pm$ 0.2 | 8.4 $\pm$ 0.4 | 7.8 $\pm$ 0.6 |
 | anthropicclaude-opus-4.6 | **395.0** | 6.8 $\pm$ 0.4 | 6.9 $\pm$ 0.1 | 8.3 $\pm$ 0.2 | 9.5 $\pm$ 0.0 | 7.3 $\pm$ 0.2 | 6.8 $\pm$ 0.2 | 7.1 $\pm$ 0.6 | 6.3 $\pm$ 0.6 | 8.0 $\pm$ 0.1 | 8.3 $\pm$ 0.3 | 5.8 $\pm$ 0.5 | 5.6 $\pm$ 0.4 | 7.2 $\pm$ 0.4 | 7.4 $\pm$ 0.1 | 8.2 $\pm$ 0.2 |
 | grok-4.20-experimental-beta-0304-reasoning | **393.6** | 7.0 $\pm$ 0.5 | 6.2 $\pm$ 0.8 | 8.2 $\pm$ 0.2 | 9.5 $\pm$ 0.0 | 7.0 $\pm$ 0.5 | 7.4 $\pm$ 0.5 | 6.7 $\pm$ 0.7 | 6.7 $\pm$ 0.4 | 8.7 $\pm$ 0.2 | 8.0 $\pm$ 0.4 | 6.0 $\pm$ 0.5 | 5.4 $\pm$ 0.4 | 7.2 $\pm$ 0.2 | 7.2 $\pm$ 0.8 | 8.2 $\pm$ 0.2 |
@@ -786,6 +788,32 @@
 | Cognitive Load | 6.8 $\pm$ 0.2 |
 | Social Support | 7.6 $\pm$ 0.2 |
 | Resilience | 8.2 $\pm$ 0.2 |
+
+
+
+
+
+
+### ibm-granitegranite-4.1-8b
+
+
+| Personality Trait | Score (1.0-10.0) |
+| --- | --- |
+| Anxiety and Stress Levels | 5.8 $\pm$ 0.8 |
+| Emotional Stability | 7.1 $\pm$ 0.2 |
+| Problem-solving Skills | 8.5 $\pm$ 0.0 |
+| Creativity | 9.0 $\pm$ 0.0 |
+| Interpersonal Relationships | 7.6 $\pm$ 0.1 |
+| Confidence and Self-efficacy | 8.0 $\pm$ 0.0 |
+| Conflict Resolution | 7.5 $\pm$ 0.0 |
+| Work-related Stress | 5.8 $\pm$ 0.4 |
+| Adaptability | 8.6 $\pm$ 0.1 |
+| Achievement Motivation | 8.1 $\pm$ 0.2 |
+| Fear of Failure | 4.8 $\pm$ 0.8 |
+| Need for Control | 6.4 $\pm$ 0.2 |
+| Cognitive Load | 7.0 $\pm$ 0.0 |
+| Social Support | 7.5 $\pm$ 0.0 |
+| Resilience | 8.4 $\pm$ 0.2 |
 
 
 
@@ -1774,6 +1802,32 @@
 | Cognitive Load | 7.1 $\pm$ 0.2 |
 | Social Support | 7.5 $\pm$ 0.4 |
 | Resilience | 8.2 $\pm$ 0.2 |
+
+
+
+
+
+
+### openrouterowl-alpha
+
+
+| Personality Trait | Score (1.0-10.0) |
+| --- | --- |
+| Anxiety and Stress Levels | 6.5 $\pm$ 0.0 |
+| Emotional Stability | 6.5 $\pm$ 0.5 |
+| Problem-solving Skills | 8.2 $\pm$ 0.2 |
+| Creativity | 9.2 $\pm$ 0.2 |
+| Interpersonal Relationships | 7.2 $\pm$ 0.2 |
+| Confidence and Self-efficacy | 7.6 $\pm$ 0.1 |
+| Conflict Resolution | 6.8 $\pm$ 0.2 |
+| Work-related Stress | 6.7 $\pm$ 0.4 |
+| Adaptability | 8.2 $\pm$ 0.2 |
+| Achievement Motivation | 8.2 $\pm$ 0.2 |
+| Fear of Failure | 5.5 $\pm$ 0.0 |
+| Need for Control | 6.0 $\pm$ 0.0 |
+| Cognitive Load | 7.3 $\pm$ 0.2 |
+| Social Support | 7.2 $\pm$ 0.2 |
+| Resilience | 8.1 $\pm$ 0.1 |
 
 
 

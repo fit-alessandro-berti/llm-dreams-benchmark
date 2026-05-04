@@ -169,7 +169,8 @@ def execute_pipeline(config: Dict[str, Any], python_executable: str, dry_run: bo
         original_answering_model_name = common_module.ANSWERING_MODEL_NAME
         try:
             common_module.ANSWERING_MODEL_NAME = config["alias"]
-            evaluation_module.dispatch_all_evaluations([common_module.EVALUATING_MODEL_NAME], massive=False)
+            judge_list = list(common_module.ALL_JUDGES)
+            evaluation_module.dispatch_all_evaluations(judge_list, massive=False)
         finally:
             common_module.ANSWERING_MODEL_NAME = original_answering_model_name
 

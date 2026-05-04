@@ -1,5 +1,19 @@
+import os
+from pathlib import Path
+
 ANSWERING_MODEL_NAME = "openrouter/owl-alpha"
 EVALUATING_MODEL_NAME = "gpt-5.2"
+
+
+def _read_api_key(env_name, file_name):
+    if os.environ.get(env_name):
+        return os.environ[env_name]
+
+    candidate = (Path(__file__).resolve().parent / file_name).resolve()
+    if candidate.exists():
+        return candidate.read_text(encoding="utf-8").strip()
+
+    return ""
 
 
 ALL_JUDGES = {
@@ -7,49 +21,49 @@ ALL_JUDGES = {
         "evaluation_folder": "evaluations-grok3",
         "git_table_result": "alt_results_grok3.md",
         "evaluation_api_url": "https://api.x.ai/v1/",
-        "api_key": open("../api_grok.txt", "r").read().strip(),
+        "api_key": _read_api_key("GROK_API_KEY", "../api_grok.txt"),
     },
     "grok-4.20-0309-non-reasoning": {
         "evaluation_folder": "evaluations-grok42",
         "git_table_result": "alt_results_grok42.md",
         "evaluation_api_url": "https://api.x.ai/v1/",
-        "api_key": open("../api_grok.txt", "r").read().strip(),
+        "api_key": _read_api_key("GROK_API_KEY", "../api_grok.txt"),
     },
     "gemini-3-flash-preview": {
         "evaluation_folder": "evaluations-gemini3-flash",
         "git_table_result": "alt_results_gemini3_flash.md",
         "evaluation_api_url": "https://generativelanguage.googleapis.com/v1beta/",
-        "api_key": open("../api_google.txt", "r").read().strip(),
+        "api_key": _read_api_key("GOOGLE_API_KEY", "../api_google.txt"),
     },
     "gpt-5.2": {
         "evaluation_folder": "evaluations-gpt52",
         "git_table_result": "alt_results_gpt52.md",
         "evaluation_api_url": "https://api.openai.com/v1/",
-        "api_key": open("../api_openai.txt", "r").read().strip(),
+        "api_key": _read_api_key("OPENAI_API_KEY", "../api_openai.txt"),
     },
     "gpt-5.4": {
         "evaluation_folder": "evaluations-gpt54",
         "git_table_result": "alt_results_gpt54.md",
         "evaluation_api_url": "https://api.openai.com/v1/",
-        "api_key": open("../api_openai.txt", "r").read().strip(),
+        "api_key": _read_api_key("OPENAI_API_KEY", "../api_openai.txt"),
     },
     "gpt-5.5": {
         "evaluation_folder": "evaluations-gpt55",
         "git_table_result": "results_gpt55.md",
         "evaluation_api_url": "https://api.openai.com/v1/",
-        "api_key": open("../api_openai.txt", "r").read().strip(),
+        "api_key": _read_api_key("OPENAI_API_KEY", "../api_openai.txt"),
     },
     "qwen/qwen3.6-plus": {
         "evaluation_folder": "evaluations-qwen36-plus",
         "git_table_result": "alt_results_qwen36-plus.md",
         "evaluation_api_url": "https://openrouter.ai/api/v1/",
-        "api_key": open("../api_openrouter.txt", "r").read().strip()
+        "api_key": _read_api_key("OPENROUTER_API_KEY", "../api_openrouter.txt")
     },
     "mistral-small-2603": {
         "evaluation_folder": "evaluations-mistral2603",
         "git_table_result": "alt_results_mistral2603.md",
         "evaluation_api_url": "https://api.mistral.ai/v1/",
-        "api_key": open("../api_mistral.txt", "r").read().strip()
+        "api_key": _read_api_key("MISTRAL_API_KEY", "../api_mistral.txt")
     },
 }
 

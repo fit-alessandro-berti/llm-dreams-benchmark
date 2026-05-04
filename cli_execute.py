@@ -7,7 +7,6 @@ import json
 import os
 import subprocess
 import sys
-import tempfile
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from pathlib import Path
 from typing import Any, Dict
@@ -45,6 +44,22 @@ PROVIDER_API_KEY_FILES = {
     "nvidia": "../api_nvidia.txt",
     "perplexity": "../api_perplexity.txt",
     "groq": "../api_groq.txt",
+}
+
+PROVIDER_API_KEY_ENVS = {
+    "openrouter": "OPENROUTER_API_KEY",
+    "openai": "OPENAI_API_KEY",
+    "google": "GOOGLE_API_KEY",
+    "claude": "ANTHROPIC_API_KEY",
+    "anthropic": "ANTHROPIC_API_KEY",
+    "grok": "GROK_API_KEY",
+    "x-ai": "GROK_API_KEY",
+    "mistral": "MISTRAL_API_KEY",
+    "deepinfra": "DEEPINFRA_API_KEY",
+    "qwen": "QWEN_API_KEY",
+    "nvidia": "NVIDIA_API_KEY",
+    "perplexity": "PERPLEXITY_API_KEY",
+    "groq": "GROQ_API_KEY",
 }
 
 
@@ -106,9 +121,11 @@ def load_runtime_config(args: argparse.Namespace) -> Dict[str, Any]:
     config.setdefault("alias", args.alias or args.model_name)
     config.setdefault("base_model", args.base_model or args.model_name)
     config.setdefault("api_url", args.api_url or PROVIDER_API_URLS.get(config["provider"]))
-    config.setdefault("api_key_file", args.api_key_file or PROVIDER_API_KEY_FILES.get(config["provider"]))
-    if args.api_key_env:
-        config["api_key_env"] = args.api_key_env
+    config.setdefault("api_key_env", args.api_key_env or PROVIDER_API_KEY_ENVS.get(config["provider"]))
+    if args.api_key_file:
+        config["api_key_file"] = args.api_key_file
+    else:
+        config.setdefault("api_key_file", PROVIDER_API_KEY_FILES.get(config["provider"]))
     return config
 
 
@@ -127,6 +144,22 @@ def sync_repository(dry_run: bool) -> None:
     ]
     for command in git_commands:
         run_subprocess(command, cwd=REPO_ROOT, dry_run=dry_run)
+
+
+def read_api_key(config: Dict[str, Any]) -> str:
+    api_key_env = config.get("api_key_env")
+    if api_key_env and os.environ.get(api_key_env):
+        return os.environ[api_key_env]
+
+    api_key_file = config.get("api_key_file")
+    if api_key_file:
+        candidate = Path(api_key_file)
+        if not candidate.is_absolute():
+            candidate = (REPO_ROOT / candidate).resolve()
+        if candidate.exists():
+            return candidate.read_text(encoding="utf-8").strip()
+
+    return ""
 
 
 def publish_results(config: Dict[str, Any], dry_run: bool) -> None:
@@ -154,7 +187,7 @@ def publish_results(config: Dict[str, Any], dry_run: bool) -> None:
 def run_answers(config: Dict[str, Any], answer_module: Any) -> None:
     answer_module.configure_model(config["base_model"])
     answer_module.m_name = config["alias"].replace("/", "").replace(":", "")
-    answer_module.configure_api(config["api_url"], str((REPO_ROOT / config["api_key_file"]).resolve()))
+    answer_module.configure_api(config["api_url"], api_key_value=read_api_key(config))
 
     max_workers = min(answer_module.MAX_WORKERS, max(1, len(answer_module.incipits) * answer_module.NUMBER_EXECUTIONS))
     with ThreadPoolExecutor(max_workers=max_workers) as executor:
@@ -175,34 +208,20 @@ def execute_pipeline(config: Dict[str, Any], python_executable: str, dry_run: bo
     answer_module = importlib.import_module("answer")
     evaluation_module = importlib.import_module("evaluation")
 
-    temp_api_key_path: str | None = None
-    if config.get("api_key_env") and config.get("api_key_file") is None:
-        api_key_value = os.environ.get(config["api_key_env"])
-        if api_key_value:
-            with tempfile.NamedTemporaryFile("w", encoding="utf-8", delete=False) as handler:
-                handler.write(api_key_value)
-                temp_api_key_path = handler.name
-            config = dict(config)
-            config["api_key_file"] = temp_api_key_path
+    run_answers(config, answer_module)
 
+    original_answering_model_name = common_module.ANSWERING_MODEL_NAME
     try:
-        run_answers(config, answer_module)
-
-        original_answering_model_name = common_module.ANSWERING_MODEL_NAME
-        try:
-            common_module.ANSWERING_MODEL_NAME = config["alias"]
-            judge_list = list(common_module.ALL_JUDGES)
-            evaluation_module.dispatch_all_evaluations(judge_list, massive=False)
-        finally:
-            common_module.ANSWERING_MODEL_NAME = original_answering_model_name
-
-        run_subprocess([python_executable, "git_table_results.py"], cwd=REPO_ROOT, dry_run=False)
-        run_subprocess([python_executable, "utils/rank_comparison.py"], cwd=REPO_ROOT, dry_run=False)
-        run_subprocess([python_executable, "utils/single_voices_report.py"], cwd=REPO_ROOT, dry_run=False)
-        run_subprocess([python_executable, "utils/parse_compute_metrics.py"], cwd=REPO_ROOT, dry_run=False)
+        common_module.ANSWERING_MODEL_NAME = config["alias"]
+        judge_list = list(common_module.ALL_JUDGES)
+        evaluation_module.dispatch_all_evaluations(judge_list, massive=False)
     finally:
-        if temp_api_key_path:
-            Path(temp_api_key_path).unlink(missing_ok=True)
+        common_module.ANSWERING_MODEL_NAME = original_answering_model_name
+
+    run_subprocess([python_executable, "git_table_results.py"], cwd=REPO_ROOT, dry_run=False)
+    run_subprocess([python_executable, "utils/rank_comparison.py"], cwd=REPO_ROOT, dry_run=False)
+    run_subprocess([python_executable, "utils/single_voices_report.py"], cwd=REPO_ROOT, dry_run=False)
+    run_subprocess([python_executable, "utils/parse_compute_metrics.py"], cwd=REPO_ROOT, dry_run=False)
 
 
 def main() -> None:

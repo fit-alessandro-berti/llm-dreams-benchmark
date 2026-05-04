@@ -26,6 +26,7 @@ API_URL = "https://openrouter.ai/api/v1/"
 
 DEFAULT_API_URL = API_URL
 DEFAULT_API_KEY_FILE = "../api_openrouter.txt"
+DEFAULT_API_KEY_ENV = "OPENROUTER_API_KEY"
 API_KEY = None
 
 NUMBER_EXECUTIONS = 2
@@ -58,6 +59,11 @@ def parse_args(argv=None):
         default=DEFAULT_API_KEY_FILE,
         help="Path to the file containing the API key for this run.",
     )
+    parser.add_argument(
+        "--api-key-env",
+        default=DEFAULT_API_KEY_ENV,
+        help="Environment variable containing the API key for this run.",
+    )
     return parser.parse_args(argv)
 
 
@@ -67,11 +73,20 @@ def configure_model(model_name):
     m_name = MODEL_NAME.replace("/", "").replace(":", "")
 
 
-def configure_api(api_url, api_key_file):
+def configure_api(api_url, api_key_file=None, api_key_value=None, api_key_env=None):
     global API_URL, API_KEY
     API_URL = api_url if api_url.endswith("/") else api_url + "/"
-    with open(api_key_file, "r") as api_key:
-        API_KEY = api_key.read().strip()
+    if api_key_value is not None:
+        API_KEY = api_key_value
+        return
+    if api_key_env and os.environ.get(api_key_env):
+        API_KEY = os.environ[api_key_env]
+        return
+    if api_key_file and os.path.exists(api_key_file):
+        with open(api_key_file, "r", encoding="utf-8") as api_key:
+            API_KEY = api_key.read().strip()
+        return
+    API_KEY = ""
 
 
 def write_answer(response_message, answer_path):
@@ -347,7 +362,7 @@ def generate_answer_for_incipit(incipit, execution_index):
 def main(argv=None):
     args = parse_args(argv)
     configure_model(args.model_name)
-    configure_api(args.api_url, args.api_key_file)
+    configure_api(args.api_url, api_key_file=args.api_key_file, api_key_env=args.api_key_env)
 
     if not incipits:
         return

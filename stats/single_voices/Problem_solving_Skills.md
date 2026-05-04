@@ -175,6 +175,7 @@
 | ministral-3b-2512 | 7.737 |
 | mistral-small-2603 | 7.725 |
 | bytedance-seedseed-2.0-lite | 7.713 |
+| qwenqwen3-next-80b-a3b-instruct | 7.713 |
 | gemma-4-26b-a4b-it | 7.700 |
 | qwenqwen3.5-397b-a17b | 7.688 |
 | claude-4-opus-20250514 | 7.675 |

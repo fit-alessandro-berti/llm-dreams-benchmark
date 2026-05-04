@@ -191,5 +191,6 @@
 | qwen3.635b-a3b | 4.550 |
 | claude-haiku-4-5-20251001 | 4.550 |
 | anthropicclaude-sonnet-4.6 | 4.475 |
+| qwenqwen3-next-80b-a3b-instruct | 4.325 |
 | qwenqwen3.5-122b-a10b | 4.238 |
 | qwenqwen3.6-plusfree | 3.350 |

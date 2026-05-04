@@ -160,6 +160,7 @@
 | xiaomimimo-v2-omni | 5.237 |
 | qwen2.5-7b-instruct | 5.225 |
 | xiaomimimo-v2.5-pro | 5.213 |
+| qwenqwen3-next-80b-a3b-instruct | 5.212 |
 | granite3.28b-instruct-q4_K_M | 5.175 |
 | gpt-4-turbo-2024-04-09 | 5.150 |
 | phi4-reasoningplus | 5.138 |

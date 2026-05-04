@@ -45,6 +45,7 @@
 | gpt-4.1-mini-2025-04-14 | 7.975 |
 | gpt-5-pro-2025-10-06 | 7.975 |
 | falcon310b-instruct-q8_0 | 7.963 |
+| qwenqwen3-next-80b-a3b-instruct | 7.950 |
 | openaigpt-oss-120b | 7.925 |
 | arcee-aitrinity-large-previewfree | 7.925 |
 | o3-mini-20250131-HIGH | 7.925 |

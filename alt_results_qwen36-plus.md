@@ -56,6 +56,7 @@
 | baiduernie-4.5-300b-a47b | **456.1** | 5.2 $\pm$ 1.3 | 7.8 $\pm$ 0.4 | 9.2 $\pm$ 0.2 | 9.7 $\pm$ 0.1 | 8.6 $\pm$ 0.1 | 8.5 $\pm$ 0.5 | 8.9 $\pm$ 0.2 | 5.6 $\pm$ 1.1 | 9.6 $\pm$ 0.1 | 8.8 $\pm$ 0.3 | 3.9 $\pm$ 1.2 | 4.2 $\pm$ 0.9 | 7.4 $\pm$ 1.0 | 8.8 $\pm$ 0.5 | 9.4 $\pm$ 0.2 |
 | minimaxminimax-m2.5 | **455.2** | 5.2 $\pm$ 1.8 | 8.2 $\pm$ 0.3 | 9.1 $\pm$ 0.1 | 9.9 $\pm$ 0.1 | 8.2 $\pm$ 0.2 | 8.8 $\pm$ 0.2 | 9.1 $\pm$ 0.2 | 5.5 $\pm$ 1.5 | 9.4 $\pm$ 0.1 | 9.0 $\pm$ 0.3 | 2.9 $\pm$ 0.6 | 4.6 $\pm$ 1.0 | 7.9 $\pm$ 1.0 | 7.8 $\pm$ 0.3 | 9.4 $\pm$ 0.2 |
 | xiaomimimo-v2-omni | **454.4** | 4.5 $\pm$ 1.2 | 8.2 $\pm$ 0.4 | 8.7 $\pm$ 0.4 | 9.7 $\pm$ 0.1 | 7.6 $\pm$ 0.5 | 8.3 $\pm$ 0.3 | 8.6 $\pm$ 0.5 | 5.9 $\pm$ 0.4 | 9.4 $\pm$ 0.0 | 7.9 $\pm$ 0.4 | 2.7 $\pm$ 0.5 | 3.7 $\pm$ 0.8 | 6.9 $\pm$ 0.7 | 8.0 $\pm$ 0.5 | 9.1 $\pm$ 0.1 |
+| qwenqwen3-next-80b-a3b-instruct | **454.3** | 3.8 $\pm$ 0.4 | 8.3 $\pm$ 0.3 | 7.7 $\pm$ 0.5 | 9.8 $\pm$ 0.0 | 8.2 $\pm$ 0.2 | 7.9 $\pm$ 0.3 | 8.5 $\pm$ 0.6 | 4.1 $\pm$ 1.2 | 9.2 $\pm$ 0.2 | 7.3 $\pm$ 0.9 | 2.9 $\pm$ 0.5 | 2.6 $\pm$ 0.2 | 5.9 $\pm$ 1.1 | 8.2 $\pm$ 0.4 | 9.4 $\pm$ 0.2 |
 | phi4-reasoning | **453.2** | 4.2 $\pm$ 0.4 | 8.0 $\pm$ 0.3 | 8.2 $\pm$ 0.2 | 9.6 $\pm$ 0.1 | 7.9 $\pm$ 0.4 | 8.2 $\pm$ 0.2 | 8.9 $\pm$ 0.2 | 5.0 $\pm$ 0.6 | 9.1 $\pm$ 0.1 | 8.6 $\pm$ 0.2 | 3.1 $\pm$ 0.4 | 3.1 $\pm$ 0.2 | 6.8 $\pm$ 0.4 | 7.6 $\pm$ 0.5 | 9.4 $\pm$ 0.1 |
 | openaigpt-5.2-codex | **452.7** | 4.8 $\pm$ 1.3 | 7.8 $\pm$ 0.3 | 8.7 $\pm$ 0.2 | 9.7 $\pm$ 0.1 | 7.5 $\pm$ 0.5 | 8.2 $\pm$ 0.2 | 8.7 $\pm$ 0.2 | 6.6 $\pm$ 0.4 | 9.4 $\pm$ 0.2 | 8.4 $\pm$ 0.4 | 3.9 $\pm$ 0.8 | 3.3 $\pm$ 0.3 | 6.8 $\pm$ 0.8 | 7.8 $\pm$ 0.4 | 9.1 $\pm$ 0.1 |
 | falcon310b-instruct-q8_0 | **452.5** | 4.8 $\pm$ 1.1 | 7.9 $\pm$ 0.2 | 9.1 $\pm$ 0.1 | 9.6 $\pm$ 0.2 | 8.0 $\pm$ 0.4 | 8.8 $\pm$ 0.1 | 8.5 $\pm$ 0.6 | 6.1 $\pm$ 1.1 | 9.4 $\pm$ 0.1 | 9.1 $\pm$ 0.2 | 3.6 $\pm$ 0.6 | 5.2 $\pm$ 0.5 | 7.4 $\pm$ 0.6 | 8.1 $\pm$ 0.3 | 9.4 $\pm$ 0.1 |
@@ -1594,6 +1595,32 @@
 | Cognitive Load | 6.9 $\pm$ 0.7 |
 | Social Support | 8.0 $\pm$ 0.5 |
 | Resilience | 9.1 $\pm$ 0.1 |
+
+
+
+
+
+
+### qwenqwen3-next-80b-a3b-instruct
+
+
+| Personality Trait | Score (1.0-10.0) |
+| --- | --- |
+| Anxiety and Stress Levels | 3.8 $\pm$ 0.4 |
+| Emotional Stability | 8.3 $\pm$ 0.3 |
+| Problem-solving Skills | 7.7 $\pm$ 0.5 |
+| Creativity | 9.8 $\pm$ 0.0 |
+| Interpersonal Relationships | 8.2 $\pm$ 0.2 |
+| Confidence and Self-efficacy | 7.9 $\pm$ 0.3 |
+| Conflict Resolution | 8.5 $\pm$ 0.6 |
+| Work-related Stress | 4.1 $\pm$ 1.2 |
+| Adaptability | 9.2 $\pm$ 0.2 |
+| Achievement Motivation | 7.3 $\pm$ 0.9 |
+| Fear of Failure | 2.9 $\pm$ 0.5 |
+| Need for Control | 2.6 $\pm$ 0.2 |
+| Cognitive Load | 5.9 $\pm$ 1.1 |
+| Social Support | 8.2 $\pm$ 0.4 |
+| Resilience | 9.4 $\pm$ 0.2 |
 
 
 

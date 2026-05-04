@@ -59,6 +59,7 @@
 | open-mixtral-8x7b | 8.300 |
 | openaigpt-5.4-mini | 8.300 |
 | Qwen-3.6-Max-Preview | 8.300 |
+| qwenqwen3-next-80b-a3b-instruct | 8.300 |
 | qwenqwen3.5-plus-02-15 | 8.300 |
 | gpt-4-turbo-2024-04-09 | 8.288 |
 | open-mixtral-8x22b | 8.287 |

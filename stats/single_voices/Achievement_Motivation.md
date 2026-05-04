@@ -171,6 +171,7 @@
 | qwenqwen3.6-plusfree | 7.787 |
 | qwen3.59b | 7.775 |
 | xiaomimimo-v2.5-pro | 7.762 |
+| qwenqwen3-next-80b-a3b-instruct | 7.750 |
 | claude-3-5-sonnet-20241022 | 7.750 |
 | gemini-3-pro-preview | 7.725 |
 | writerpalmyra-x5 | 7.725 |

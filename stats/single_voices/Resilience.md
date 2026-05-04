@@ -48,6 +48,7 @@
 | liquidlfm-2.2-6b | 8.987 |
 | Meta-Muse-Spark-20260409 | 8.987 |
 | o3-mini-20250131-HIGH | 8.987 |
+| qwenqwen3-next-80b-a3b-instruct | 8.987 |
 | gpt-4o-2024-05-13 | 8.975 |
 | nousresearchhermes-4-405b | 8.975 |
 | phi4-reasoningplus | 8.975 |

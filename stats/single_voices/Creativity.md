@@ -15,6 +15,7 @@
 | anthropicclaude-opus-4.1 | 9.738 |
 | Grok-4.30-20260420 | 9.725 |
 | openaigpt-oss-120b | 9.725 |
+| qwenqwen3-next-80b-a3b-instruct | 9.713 |
 | gemini-3-pro-preview | 9.700 |
 | grok-4.20-experimental-beta-0304-reasoning | 9.700 |
 | inclusionailing-2.6-1tfree | 9.688 |

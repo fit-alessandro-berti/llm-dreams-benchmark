@@ -175,6 +175,7 @@
 | gpt-4-0125-preview | 5.438 |
 | gpt-4o-2024-08-06 | 5.438 |
 | o3-2025-04-16 | 5.425 |
+| qwenqwen3-next-80b-a3b-instruct | 5.425 |
 | phi4-reasoningplus | 5.400 |
 | gpt-5-mini-2025-08-07 | 5.400 |
 | openaigpt-oss-120b | 5.363 |

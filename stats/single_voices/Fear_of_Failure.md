@@ -141,6 +141,7 @@
 | gpt-4-0613 | 5.112 |
 | qwen3.59b | 5.075 |
 | o4-mini-2025-04-16 | 5.062 |
+| qwenqwen3-next-80b-a3b-instruct | 4.987 |
 | minimaxminimax-m2.7 | 4.938 |
 | openaigpt-oss-20b | 4.938 |
 | Grok-4.30-20260420 | 4.925 |

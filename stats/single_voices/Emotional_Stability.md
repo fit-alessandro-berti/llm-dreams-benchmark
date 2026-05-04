@@ -55,6 +55,7 @@
 | Meta-Muse-Spark-20260409 | 7.600 |
 | nvidianemotron-3-nano-30b-a3bfree | 7.588 |
 | gpt-4o-mini-2024-07-18 | 7.575 |
+| qwenqwen3-next-80b-a3b-instruct | 7.575 |
 | qwen3.635b-a3b | 7.562 |
 | o1-2024-12-17 | 7.537 |
 | phi3.53.8b-mini-instruct-fp16 | 7.525 |

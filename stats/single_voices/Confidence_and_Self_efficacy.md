@@ -111,6 +111,7 @@
 | googlegemini-3.1-flash-lite-preview | 7.400 |
 | gpt-4-1106-preview | 7.400 |
 | deepseekdeepseek-v4-flash | 7.375 |
+| qwenqwen3-next-80b-a3b-instruct | 7.375 |
 | grok-4-1-fast-reasoning | 7.363 |
 | liquidlfm-2.5-1.2b-thinkingfree | 7.362 |
 | gemini-3-flash-preview | 7.350 |

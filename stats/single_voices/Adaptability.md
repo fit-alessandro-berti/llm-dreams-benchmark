@@ -82,6 +82,7 @@
 | nvidianemotron-3-nano-30b-a3bfree | 8.875 |
 | gpt-4o-mini-2024-07-18 | 8.863 |
 | nvidiaLlama-3.1-Nemotron-70B-Instruct | 8.863 |
+| qwenqwen3-next-80b-a3b-instruct | 8.862 |
 | amazonnova-2-lite-v1 | 8.850 |
 | claude-haiku-4-5-20251001 | 8.850 |
 | GPT-5.5-Pro-20260422 | 8.850 |

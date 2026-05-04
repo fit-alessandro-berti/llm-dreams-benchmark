@@ -184,6 +184,7 @@
 | gpt-4.1-2025-04-14 | 6.725 |
 | o3-pro-2025-06-10 | 6.712 |
 | open-mixtral-8x22b | 6.712 |
+| qwenqwen3-next-80b-a3b-instruct | 6.700 |
 | microsoftphi-4 | 6.688 |
 | o3-mini-20250131-HIGH | 6.650 |
 | xiaomimimo-v2-pro | 6.613 |

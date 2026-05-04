@@ -129,6 +129,28 @@ def sync_repository(dry_run: bool) -> None:
         run_subprocess(command, cwd=REPO_ROOT, dry_run=dry_run)
 
 
+def publish_results(config: Dict[str, Any], dry_run: bool) -> None:
+    if not (REPO_ROOT / ".git").exists():
+        return
+
+    commit_message = f"Update llm-dreams-benchmark results for {config['alias']}"
+    run_subprocess(["git", "add", "-A"], cwd=REPO_ROOT, dry_run=dry_run)
+    if dry_run:
+        run_subprocess(["git", "commit", "-m", commit_message], cwd=REPO_ROOT, dry_run=True)
+        run_subprocess(["git", "push"], cwd=REPO_ROOT, dry_run=True)
+        return
+
+    diff_result = subprocess.run(["git", "diff", "--cached", "--quiet"], cwd=str(REPO_ROOT), check=False)
+    if diff_result.returncode == 0:
+        print("No git changes to commit.")
+        return
+    if diff_result.returncode not in {0, 1}:
+        diff_result.check_returncode()
+
+    run_subprocess(["git", "commit", "-m", commit_message], cwd=REPO_ROOT, dry_run=False)
+    run_subprocess(["git", "push"], cwd=REPO_ROOT, dry_run=False)
+
+
 def run_answers(config: Dict[str, Any], answer_module: Any) -> None:
     answer_module.configure_model(config["base_model"])
     answer_module.m_name = config["alias"].replace("/", "").replace(":", "")
@@ -189,6 +211,7 @@ def main() -> None:
     config = load_runtime_config(args)
     sync_repository(args.dry_run)
     execute_pipeline(config, python_executable=args.python, dry_run=args.dry_run)
+    publish_results(config, args.dry_run)
 
 
 if __name__ == "__main__":

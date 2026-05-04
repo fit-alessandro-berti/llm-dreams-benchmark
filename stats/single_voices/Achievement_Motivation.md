@@ -77,6 +77,7 @@
 | ministral-3b-2410 | 8.400 |
 | openaigpt-5.4-mini | 8.400 |
 | openaigpt-5.4-pro | 8.375 |
+| qwenqwen3-30b-a3b-instruct-2507 | 8.375 |
 | chatgpt-4o-latest-2025-04-26 | 8.363 |
 | gemini-2.0-pro-exp-02-05 | 8.363 |
 | grok-4-1-fast-reasoning | 8.362 |

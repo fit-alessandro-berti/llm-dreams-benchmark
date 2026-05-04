@@ -120,6 +120,7 @@
 | gpt-5-chat-latest-2025-08-19 | **375.2** | 7.0 $\pm$ 0.3 | 6.6 $\pm$ 0.2 | 7.6 $\pm$ 0.1 | 9.2 $\pm$ 0.1 | 6.5 $\pm$ 0.1 | 6.8 $\pm$ 0.2 | 7.4 $\pm$ 0.1 | 7.8 $\pm$ 0.3 | 8.2 $\pm$ 0.1 | 7.9 $\pm$ 0.1 | 7.0 $\pm$ 0.3 | 6.4 $\pm$ 0.3 | 8.0 $\pm$ 0.2 | 6.1 $\pm$ 0.2 | 8.1 $\pm$ 0.2 |
 | gpt-4-1106-preview | **374.7** | 7.2 $\pm$ 0.5 | 6.3 $\pm$ 0.1 | 7.5 $\pm$ 0.1 | 9.2 $\pm$ 0.0 | 6.9 $\pm$ 0.1 | 6.9 $\pm$ 0.2 | 7.4 $\pm$ 0.2 | 7.5 $\pm$ 0.4 | 8.2 $\pm$ 0.2 | 7.9 $\pm$ 0.1 | 7.4 $\pm$ 0.5 | 6.5 $\pm$ 0.5 | 7.6 $\pm$ 0.2 | 6.5 $\pm$ 0.1 | 8.0 $\pm$ 0.1 |
 | deepseekdeepseek-v4-flash | **374.4** | 7.6 $\pm$ 0.1 | 6.2 $\pm$ 0.0 | 7.9 $\pm$ 0.5 | 9.5 $\pm$ 0.1 | 6.7 $\pm$ 0.1 | 6.9 $\pm$ 0.2 | 8.0 $\pm$ 0.1 | 8.2 $\pm$ 0.4 | 8.2 $\pm$ 0.1 | 8.0 $\pm$ 0.6 | 7.8 $\pm$ 0.1 | 6.8 $\pm$ 0.1 | 8.6 $\pm$ 0.1 | 6.3 $\pm$ 0.2 | 8.5 $\pm$ 0.4 |
+| qwenqwen3-30b-a3b-instruct-2507 | **374.3** | 7.2 $\pm$ 0.5 | 6.0 $\pm$ 0.3 | 7.6 $\pm$ 0.2 | 9.6 $\pm$ 0.0 | 6.7 $\pm$ 0.2 | 6.7 $\pm$ 0.3 | 7.5 $\pm$ 0.3 | 7.4 $\pm$ 0.1 | 8.5 $\pm$ 0.1 | 7.8 $\pm$ 0.1 | 7.5 $\pm$ 0.5 | 6.2 $\pm$ 0.5 | 8.2 $\pm$ 0.3 | 6.3 $\pm$ 0.3 | 8.6 $\pm$ 0.2 |
 | gemini-2.5-pro-preview-05-06 | **374.2** | 7.6 $\pm$ 0.2 | 6.2 $\pm$ 0.2 | 7.4 $\pm$ 0.1 | 9.6 $\pm$ 0.0 | 6.8 $\pm$ 0.3 | 6.5 $\pm$ 0.2 | 7.5 $\pm$ 0.3 | 8.1 $\pm$ 0.2 | 8.4 $\pm$ 0.0 | 7.6 $\pm$ 0.2 | 7.6 $\pm$ 0.4 | 6.4 $\pm$ 0.4 | 8.0 $\pm$ 0.3 | 6.7 $\pm$ 0.1 | 8.4 $\pm$ 0.2 |
 | googlegemini-3.1-pro-preview | **372.7** | 7.3 $\pm$ 0.5 | 5.8 $\pm$ 0.4 | 7.5 $\pm$ 0.1 | 9.7 $\pm$ 0.0 | 6.7 $\pm$ 0.4 | 6.4 $\pm$ 0.4 | 8.0 $\pm$ 0.2 | 8.0 $\pm$ 0.3 | 8.7 $\pm$ 0.1 | 7.6 $\pm$ 0.2 | 7.6 $\pm$ 0.4 | 6.4 $\pm$ 0.5 | 8.4 $\pm$ 0.3 | 6.2 $\pm$ 0.4 | 8.0 $\pm$ 0.3 |
 | gemini-2.5-pro-preview-06-05 | **372.4** | 7.7 $\pm$ 0.1 | 6.3 $\pm$ 0.1 | 7.2 $\pm$ 0.1 | 9.6 $\pm$ 0.0 | 6.7 $\pm$ 0.1 | 6.3 $\pm$ 0.1 | 7.2 $\pm$ 0.3 | 8.2 $\pm$ 0.0 | 8.5 $\pm$ 0.2 | 7.2 $\pm$ 0.1 | 7.8 $\pm$ 0.1 | 5.2 $\pm$ 0.4 | 8.0 $\pm$ 0.0 | 6.2 $\pm$ 0.1 | 8.3 $\pm$ 0.2 |
@@ -3259,6 +3260,32 @@
 | Cognitive Load | 8.6 $\pm$ 0.1 |
 | Social Support | 6.3 $\pm$ 0.2 |
 | Resilience | 8.5 $\pm$ 0.4 |
+
+
+
+
+
+
+### qwenqwen3-30b-a3b-instruct-2507
+
+
+| Personality Trait | Score (1.0-10.0) |
+| --- | --- |
+| Anxiety and Stress Levels | 7.2 $\pm$ 0.5 |
+| Emotional Stability | 6.0 $\pm$ 0.3 |
+| Problem-solving Skills | 7.6 $\pm$ 0.2 |
+| Creativity | 9.6 $\pm$ 0.0 |
+| Interpersonal Relationships | 6.7 $\pm$ 0.2 |
+| Confidence and Self-efficacy | 6.7 $\pm$ 0.3 |
+| Conflict Resolution | 7.5 $\pm$ 0.3 |
+| Work-related Stress | 7.4 $\pm$ 0.1 |
+| Adaptability | 8.5 $\pm$ 0.1 |
+| Achievement Motivation | 7.8 $\pm$ 0.1 |
+| Fear of Failure | 7.5 $\pm$ 0.5 |
+| Need for Control | 6.2 $\pm$ 0.5 |
+| Cognitive Load | 8.2 $\pm$ 0.3 |
+| Social Support | 6.3 $\pm$ 0.3 |
+| Resilience | 8.6 $\pm$ 0.2 |
 
 
 

@@ -101,6 +101,7 @@
 | arcee-aitrinity-large-previewfree | 6.925 |
 | Grok-4-fast-20251111 | 6.925 |
 | o1-2024-12-05 | 6.925 |
+| qwenqwen3-30b-a3b-instruct-2507 | 6.912 |
 | allenaiolmo-3-7b-instruct | 6.900 |
 | gpt-5-chat-latest-2025-08-19 | 6.863 |
 | gemini-1.5-flash-002 | 6.850 |

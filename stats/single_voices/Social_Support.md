@@ -128,6 +128,7 @@
 | llama213b | 7.088 |
 | openaigpt-5.4 | 7.050 |
 | prime-intellectintellect-3 | 7.000 |
+| qwenqwen3-30b-a3b-instruct-2507 | 6.975 |
 | googlegemini-3.1-pro-preview | 6.938 |
 | Gemini-1.5-Pro-Exp-0827 | 6.925 |
 | moonshotaikimi-k2.5 | 6.925 |

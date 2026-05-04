@@ -80,6 +80,7 @@
 | Qwen-3.6-Max-Preview | 8.887 |
 | qwenqwen3.5-27b | 8.887 |
 | nvidianemotron-3-nano-30b-a3bfree | 8.875 |
+| qwenqwen3-30b-a3b-instruct-2507 | 8.875 |
 | gpt-4o-mini-2024-07-18 | 8.863 |
 | nvidiaLlama-3.1-Nemotron-70B-Instruct | 8.863 |
 | qwenqwen3-next-80b-a3b-instruct | 8.862 |

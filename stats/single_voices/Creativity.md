@@ -42,6 +42,7 @@
 | openaigpt-5.4-pro | 9.637 |
 | Qwen-3.6-27B | 9.637 |
 | qwen3.54b | 9.637 |
+| qwenqwen3-30b-a3b-instruct-2507 | 9.637 |
 | claude-3-5-sonnet-20241022 | 9.625 |
 | gpt-5.5-2026-04-23 | 9.625 |
 | openaigpt-5.4 | 9.625 |

@@ -79,6 +79,7 @@
 | nvidianemotron-3-nano-30b-a3bfree | 8.838 |
 | openaigpt-5.3-codex | 8.838 |
 | qwen3.59b | 8.838 |
+| qwenqwen3-30b-a3b-instruct-2507 | 8.825 |
 | qwenqwen3.5-plus-02-15 | 8.825 |
 | openrouterowl-alpha | 8.812 |
 | gemini-1.5-flash-002 | 8.812 |

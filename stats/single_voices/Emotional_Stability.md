@@ -114,6 +114,7 @@
 | liquidlfm-2.5-1.2b-thinkingfree | 6.737 |
 | Grok-4-fast-20251111 | 6.725 |
 | falcon33b-instruct-q8_0 | 6.712 |
+| qwenqwen3-30b-a3b-instruct-2507 | 6.700 |
 | qwenqwen3-max | 6.700 |
 | openaigpt-5.4 | 6.663 |
 | deepseekdeepseek-v4-pro | 6.638 |

@@ -91,6 +91,7 @@
 | xiaomimimo-v2-omni | 8.450 |
 | grok-4.20-experimental-beta-0304-reasoning | 8.438 |
 | liquidlfm-2-24b-a2b | 8.437 |
+| qwenqwen3-30b-a3b-instruct-2507 | 8.425 |
 | deepseekdeepseek-v4-flash | 8.413 |
 | gemini-2.0-flash-exp | 8.388 |
 | poolsidelaguna-m.1free | 8.388 |

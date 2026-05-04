@@ -140,6 +140,7 @@
 | bytedance-seedseed-2.0-mini | 5.487 |
 | o1-preview-2024-09-12 | 5.438 |
 | qwen2.5-32b-instruct | 5.425 |
+| qwenqwen3-30b-a3b-instruct-2507 | 5.413 |
 | openaigpt-oss-20b | 5.375 |
 | deepseekdeepseek-v3.2 | 5.375 |
 | inclusionailing-2.6-1tfree | 5.363 |

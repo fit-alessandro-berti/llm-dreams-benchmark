@@ -70,6 +70,7 @@
 | gemma-4-26b-a4b-it | 6.500 |
 | gemini-3-flash-preview | 6.488 |
 | chatgpt-4o-latest-2025-04-26 | 6.487 |
+| qwenqwen3-30b-a3b-instruct-2507 | 6.475 |
 | qwenqwen3-max | 6.475 |
 | googlegemini-3.1-pro-preview | 6.450 |
 | grok-4-1-fast-non-reasoning | 6.388 |

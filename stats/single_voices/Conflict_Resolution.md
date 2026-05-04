@@ -96,6 +96,7 @@
 | liquidlfm-2.5-1.2b-thinkingfree | 8.100 |
 | phi4-reasoning | 8.100 |
 | gemini-2.5-pro-preview-05-06 | 8.088 |
+| qwenqwen3-30b-a3b-instruct-2507 | 8.088 |
 | falcon310b-instruct-q8_0 | 8.075 |
 | liquidlfm2-8b-a1b | 8.075 |
 | nvidianemotron-3-nano-30b-a3bfree | 8.062 |

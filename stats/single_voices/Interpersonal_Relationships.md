@@ -121,6 +121,7 @@
 | grok-4.20-experimental-beta-0304-reasoning | 7.225 |
 | prime-intellectintellect-3 | 7.213 |
 | gemini-2.5-pro-preview-06-05 | 7.200 |
+| qwenqwen3-30b-a3b-instruct-2507 | 7.175 |
 | gemini-1.5-flash-8b | 7.150 |
 | qwen3.59b | 7.150 |
 | meta-llamallama-4-scout | 7.138 |

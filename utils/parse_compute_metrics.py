@@ -2,6 +2,7 @@ from typing import Dict, List, Optional, Tuple
 import numpy as np
 import sys
 import os
+from pathlib import Path
 
 PERSONALITY_HEADERS = [
     "Anxiety and Stress Levels",
@@ -20,6 +21,8 @@ PERSONALITY_HEADERS = [
     "Social Support",
     "Resilience",
 ]
+REPO_ROOT = Path(__file__).resolve().parent.parent
+
 DEFAULT_EMBEDDING_METHOD = os.environ.get("PARSE_COMPUTE_METRICS_EMBEDDING", "pca").strip().lower()
 
 
@@ -430,13 +433,15 @@ def main(input_path: str, output_path: str):
 
 
 if __name__ == "__main__":
-    os.chdir("..")
+    if str(REPO_ROOT) not in sys.path:
+        sys.path.insert(0, str(REPO_ROOT))
+
     from common import ALL_JUDGES
 
     for index, judge in enumerate(ALL_JUDGES):
         print(index, judge)
 
-        input_path = ALL_JUDGES[judge]["git_table_result"]
-        output_path = "stats/stats-" + judge.replace("/", "_") + ".txt"
+        input_path = REPO_ROOT / ALL_JUDGES[judge]["git_table_result"]
+        output_path = REPO_ROOT / "stats" / ("stats-" + judge.replace("/", "_") + ".txt")
 
         main(input_path, output_path)

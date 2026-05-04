@@ -16,8 +16,9 @@ def read_contents(file_path):
     return content
 
 
-incipits_folder = os.path.join("..", "incipits")
-answers_folder = os.path.join("..", "answers")
+base_path = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+incipits_folder = os.path.join(base_path, "incipits")
+answers_folder = os.path.join(base_path, "answers")
 
 incipits = [x for x in os.listdir(incipits_folder) if x.endswith("txt")]
 

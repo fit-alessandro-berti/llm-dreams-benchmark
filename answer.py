@@ -1,11 +1,12 @@
 import requests
+import argparse
 import os
 import traceback
 import time
 import re
 import json
 from concurrent.futures import ThreadPoolExecutor, as_completed
-from common import ANSWERING_MODEL_NAME as MODEL_NAME
+from common import ANSWERING_MODEL_NAME
 
 
 API_URL = "https://api.openai.com/v1/"
@@ -23,7 +24,9 @@ API_URL = "https://api.openai.com/v1/"
 API_URL = "https://openrouter.ai/api/v1/"
 #API_URL = "https://api.perplexity.ai/"
 
-API_KEY = open("../api_openrouter.txt", "r").read()
+DEFAULT_API_URL = API_URL
+DEFAULT_API_KEY_FILE = "../api_openrouter.txt"
+API_KEY = None
 
 NUMBER_EXECUTIONS = 2
 MAX_WORKERS = 75
@@ -34,7 +37,41 @@ TIME_BETWEEN_ANSWERS = 0
 incipits = [x for x in os.listdir("incipits") if x.endswith("txt")]
 incipit_positions = {name: idx for idx, name in enumerate(incipits)}
 
+MODEL_NAME = ANSWERING_MODEL_NAME
 m_name = MODEL_NAME.replace("/", "").replace(":", "")
+
+
+def parse_args(argv=None):
+    parser = argparse.ArgumentParser()
+    parser.add_argument(
+        "--model-name",
+        default=ANSWERING_MODEL_NAME,
+        help="Override common.ANSWERING_MODEL_NAME for this run.",
+    )
+    parser.add_argument(
+        "--api-url",
+        default=DEFAULT_API_URL,
+        help="Override the API base URL for this run.",
+    )
+    parser.add_argument(
+        "--api-key-file",
+        default=DEFAULT_API_KEY_FILE,
+        help="Path to the file containing the API key for this run.",
+    )
+    return parser.parse_args(argv)
+
+
+def configure_model(model_name):
+    global MODEL_NAME, m_name
+    MODEL_NAME = model_name
+    m_name = MODEL_NAME.replace("/", "").replace(":", "")
+
+
+def configure_api(api_url, api_key_file):
+    global API_URL, API_KEY
+    API_URL = api_url if api_url.endswith("/") else api_url + "/"
+    with open(api_key_file, "r") as api_key:
+        API_KEY = api_key.read().strip()
 
 
 def write_answer(response_message, answer_path):
@@ -307,7 +344,11 @@ def generate_answer_for_incipit(incipit, execution_index):
         time.sleep(WAITING_TIME_RETRY)
 
 
-def main():
+def main(argv=None):
+    args = parse_args(argv)
+    configure_model(args.model_name)
+    configure_api(args.api_url, args.api_key_file)
+
     if not incipits:
         return
 

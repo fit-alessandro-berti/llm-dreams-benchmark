@@ -1,4 +1,4 @@
-import os
+from pathlib import Path
 from scipy.stats import pearsonr
 import pandas as pd
 
@@ -19,6 +19,14 @@ def is_markdown_separator_row(line):
             return False
 
     return True
+
+
+
+REPO_ROOT = Path(__file__).resolve().parent.parent
+
+
+def repo_file(path):
+    return REPO_ROOT / path
 
 
 def interpret(content):
@@ -53,14 +61,14 @@ def interpret(content):
 
 
 JUDGES = {
-    "grok-3": interpret(open(os.path.join("..", "alt_results_grok3.md"), "r").read()),
-    "grok-4.2": interpret(open(os.path.join("..", "alt_results_grok42.md"), "r").read()),
-    "gemini-3-flash": interpret(open(os.path.join("..", "alt_results_gemini3_flash.md"), "r").read()),
-    "gpt-5.2": interpret(open(os.path.join("..", "alt_results_gpt52.md"), "r").read()),
-    "gpt-5.4": interpret(open(os.path.join("..", "alt_results_gpt54.md"), "r").read()),
-    "gpt-5.5": interpret(open(os.path.join("..", "results_gpt55.md"), "r").read()),
-    "qwen36-plus": interpret(open(os.path.join("..", "alt_results_qwen36-plus.md"), "r").read()),
-    "mistral-small-2603": interpret(open(os.path.join("..", "alt_results_mistral2603.md"), "r").read()),
+    "grok-3": interpret(repo_file("alt_results_grok3.md").read_text(encoding="utf-8")),
+    "grok-4.2": interpret(repo_file("alt_results_grok42.md").read_text(encoding="utf-8")),
+    "gemini-3-flash": interpret(repo_file("alt_results_gemini3_flash.md").read_text(encoding="utf-8")),
+    "gpt-5.2": interpret(repo_file("alt_results_gpt52.md").read_text(encoding="utf-8")),
+    "gpt-5.4": interpret(repo_file("alt_results_gpt54.md").read_text(encoding="utf-8")),
+    "gpt-5.5": interpret(repo_file("results_gpt55.md").read_text(encoding="utf-8")),
+    "qwen36-plus": interpret(repo_file("alt_results_qwen36-plus.md").read_text(encoding="utf-8")),
+    "mistral-small-2603": interpret(repo_file("alt_results_mistral2603.md").read_text(encoding="utf-8")),
 }
 
 model_keys = sorted(set.intersection(*(set(scores.keys()) for scores in JUDGES.values())))
@@ -89,4 +97,4 @@ for judge in JUDGES:
 dataframe = pd.DataFrame(dataframe)
 dataframe.sort_values(["SUM", "Model"], ascending=False, inplace=True)
 
-dataframe.to_markdown("../stats/JUDGES_RANK.md", index=False)
+repo_file("stats/JUDGES_RANK.md").write_text(dataframe.to_markdown(index=False), encoding="utf-8")

@@ -1,7 +1,7 @@
 import os
 from collections import Counter
 
-base_path = ".."
+base_path = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 andir = os.path.join(base_path, "answers")
 answering_models = [x.split("_")[0] for x in os.listdir(andir) if x.split("_")[0] and os.path.getsize(os.path.join(andir, x)) > 0]

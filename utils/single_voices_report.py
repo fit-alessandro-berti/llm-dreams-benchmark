@@ -1,9 +1,12 @@
 from typing import Dict, List
 import os
 import sys
+from pathlib import Path
 import re
 
 # Voices/metrics we expect in the markdown tables
+REPO_ROOT = Path(__file__).resolve().parent.parent
+
 HEADERS = [
     "Anxiety and Stress Levels", "Emotional Stability", "Problem-solving Skills",
     "Creativity", "Interpersonal Relationships", "Confidence and Self-efficacy",
@@ -173,11 +176,8 @@ def main():
     compute per-voice per-model averages across files,
     and write one Markdown table per voice into stats/single_voices/.
     """
-    try:
-        # Move to project root (like your other script)
-        os.chdir("..")
-    except Exception:
-        pass
+    if str(REPO_ROOT) not in sys.path:
+        sys.path.insert(0, str(REPO_ROOT))
 
     try:
         from common import ALL_JUDGES
@@ -188,7 +188,7 @@ def main():
     parsed_list: List[Dict[str, Dict[str, float]]] = []
     for idx, judge in enumerate(ALL_JUDGES):
         print(idx, judge)
-        input_path = ALL_JUDGES[judge]["git_table_result"]
+        input_path = REPO_ROOT / ALL_JUDGES[judge]["git_table_result"]
         try:
             parsed = parse_markdown_table(input_path)
             if parsed:
@@ -204,7 +204,7 @@ def main():
         sys.exit(1)
 
     avgs = aggregate_averages(parsed_list)
-    output_dir = os.path.join("stats", "single_voices")
+    output_dir = REPO_ROOT / "stats" / "single_voices"
     write_per_voice_tables(output_dir, avgs)
 
 

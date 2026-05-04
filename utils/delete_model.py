@@ -19,7 +19,7 @@ if __name__ == "__main__":
     if not original_name.endswith("_"):
         raise Exception("error")
 
-    base_path = ".."
+    base_path = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
     answer_directory = os.path.join(base_path, "answers")
     do_deletion(answer_directory, original_name)

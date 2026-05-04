@@ -22,7 +22,7 @@ if __name__ == "__main__":
     if not novel_name.endswith("_"):
         raise Exception("error")
 
-    base_path = ".."
+    base_path = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
     answer_directory = os.path.join(base_path, "answers")
     do_renaming(answer_directory, original_name, novel_name)

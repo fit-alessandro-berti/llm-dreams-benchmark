@@ -119,6 +119,16 @@ def run_subprocess(command: list[str], cwd: Path, dry_run: bool) -> None:
     subprocess.run(command, cwd=str(cwd), check=True)
 
 
+def sync_repository(dry_run: bool) -> None:
+    git_commands = [
+        ["git", "reset", "--hard", "HEAD"],
+        ["git", "clean", "-x", "-f"],
+        ["git", "pull"],
+    ]
+    for command in git_commands:
+        run_subprocess(command, cwd=REPO_ROOT, dry_run=dry_run)
+
+
 def run_answers(config: Dict[str, Any], answer_module: Any) -> None:
     answer_module.configure_model(config["base_model"])
     answer_module.m_name = config["alias"].replace("/", "").replace(":", "")
@@ -176,6 +186,7 @@ def main() -> None:
     parser = build_parser()
     args = parser.parse_args()
     config = load_runtime_config(args)
+    sync_repository(args.dry_run)
     execute_pipeline(config, python_executable=args.python, dry_run=args.dry_run)
 
 

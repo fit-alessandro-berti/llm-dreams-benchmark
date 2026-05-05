@@ -16,6 +16,7 @@
 | open-mistral-7b | 8.225 |
 | microsoftWizardLM-2-8x22B | 8.213 |
 | qwen2.5-32b-instruct | 8.213 |
+| granite4.130b | 8.212 |
 | qwen2.5-7b-instruct | 8.200 |
 | gpt-4.5-preview | 8.188 |
 | gpt-4o-2024-05-13 | 8.188 |
@@ -45,6 +46,7 @@
 | gpt-4.1-mini-2025-04-14 | 7.975 |
 | gpt-5-pro-2025-10-06 | 7.975 |
 | falcon310b-instruct-q8_0 | 7.963 |
+| granite4.13b | 7.950 |
 | qwenqwen3-next-80b-a3b-instruct | 7.950 |
 | openaigpt-oss-120b | 7.925 |
 | arcee-aitrinity-large-previewfree | 7.925 |

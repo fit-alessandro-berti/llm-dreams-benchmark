@@ -82,6 +82,7 @@
 | gemini-2.0-pro-exp-02-05 | 6.050 |
 | granite3.28b-instruct-q4_K_M | 6.038 |
 | ministral-3b-2410 | 6.038 |
+| granite4.13b | 6.037 |
 | gpt-4.1-nano-2025-04-14 | 6.025 |
 | phi3.53.8b-mini-instruct-fp16 | 6.013 |
 | ibm-granitegranite-4.1-8b | 6.000 |
@@ -133,6 +134,7 @@
 | qwenqwen3-max | 5.575 |
 | gemini-1.5-flash-002 | 5.538 |
 | gpt-4o-2024-05-13 | 5.525 |
+| granite4.130b | 5.525 |
 | gpt-5-2025-08-07 | 5.513 |
 | Meta-Muse-Spark-20260409 | 5.513 |
 | ChatGPT-5.1-Instant-20251113 | 5.500 |

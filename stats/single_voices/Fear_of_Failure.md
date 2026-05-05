@@ -126,6 +126,7 @@
 | gpt-4o-mini-2024-07-18 | 5.475 |
 | openaigpt-5.2-codex | 5.450 |
 | baiduernie-4.5-300b-a47b | 5.438 |
+| granite4.13b | 5.425 |
 | gpt-5-pro-2025-10-06 | 5.400 |
 | grok-4.20-experimental-beta-0304-reasoning | 5.400 |
 | o1-pro-2024-12-05 | 5.350 |
@@ -152,6 +153,7 @@
 | falcon310b-instruct-q8_0 | 4.850 |
 | liquidlfm-2.2-6b | 4.787 |
 | qwen3.635b-a3b | 4.775 |
+| granite4.130b | 4.712 |
 | openaigpt-5.4-mini | 4.637 |
 | o1-preview-2024-09-12 | 4.625 |
 | qwenqwen3.5-122b-a10b | 4.625 |

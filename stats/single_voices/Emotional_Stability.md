@@ -40,6 +40,7 @@
 | gpt-4.1-mini-2025-04-14 | 7.837 |
 | gpt-4.1-2025-04-14 | 7.825 |
 | phi33.8b | 7.812 |
+| granite4.130b | 7.812 |
 | minimaxminimax-m2.7 | 7.800 |
 | xiaomimimo-v2-omni | 7.800 |
 | gpt-3.5-turbo | 7.787 |
@@ -50,6 +51,7 @@
 | phi4-reasoningplus | 7.713 |
 | gpt-5-pro-2025-10-06 | 7.700 |
 | openaigpt-5.4-mini | 7.688 |
+| granite4.13b | 7.650 |
 | Grok-4.30-20260420 | 7.600 |
 | o1-pro-2024-12-05 | 7.600 |
 | Meta-Muse-Spark-20260409 | 7.600 |

@@ -27,9 +27,11 @@
 | open-mixtral-8x7b | 8.837 |
 | gpt-4o-2024-05-13 | 8.812 |
 | grok-2-1212 | 8.812 |
+| granite4.130b | 8.800 |
 | gpt-3.5-turbo | 8.788 |
 | liquidlfm2-8b-a1b | 8.788 |
 | minimaxminimax-m2.7 | 8.787 |
+| granite4.13b | 8.775 |
 | phi33.8b | 8.775 |
 | gpt-5-pro-2025-10-06 | 8.762 |
 | gpt-5-mini-2025-08-07 | 8.750 |

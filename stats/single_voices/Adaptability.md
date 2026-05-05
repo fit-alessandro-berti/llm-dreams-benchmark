@@ -30,6 +30,7 @@
 | gpt-5-nano-2025-08-07 | 9.050 |
 | o1-preview-2024-09-12 | 9.050 |
 | gpt-4o-2024-05-13 | 9.037 |
+| granite4.130b | 9.037 |
 | o3-2025-04-16 | 9.037 |
 | gpt-4-0125-preview | 9.025 |
 | gpt-4.1-2025-04-14 | 9.025 |
@@ -81,6 +82,7 @@
 | qwenqwen3.5-27b | 8.887 |
 | nvidianemotron-3-nano-30b-a3bfree | 8.875 |
 | qwenqwen3-30b-a3b-instruct-2507 | 8.875 |
+| granite4.13b | 8.875 |
 | gpt-4o-mini-2024-07-18 | 8.863 |
 | nvidiaLlama-3.1-Nemotron-70B-Instruct | 8.863 |
 | qwenqwen3-next-80b-a3b-instruct | 8.862 |

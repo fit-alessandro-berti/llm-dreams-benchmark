@@ -100,6 +100,7 @@
 | allenaiolmo-3-7b-instruct | 7.600 |
 | inclusionailing-2.6-1tfree | 7.600 |
 | liquidlfm-2-24b-a2b | 7.600 |
+| granite4.13b | 7.588 |
 | o1-2024-12-05 | 7.587 |
 | ai21jamba-large-1.7 | 7.563 |
 | gpt-5-chat-latest-2025-08-19 | 7.562 |
@@ -141,6 +142,7 @@
 | qwenqwen3.5-plus-02-15 | 7.275 |
 | qwen2.5-7b-instruct | 7.263 |
 | gpt-5-pro-2025-10-06 | 7.250 |
+| granite4.130b | 7.237 |
 | o1-pro-2024-12-05 | 7.225 |
 | qwen2.5-14b-instruct | 7.212 |
 | gpt-4o-mini-2024-07-18 | 7.175 |

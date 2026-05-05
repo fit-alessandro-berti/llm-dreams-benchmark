@@ -41,6 +41,7 @@
 | nvidianemotron-3-nano-30b-a3bfree | **447.0** | 3.0 $\pm$ 0.5 | 8.2 $\pm$ 0.2 | 9.0 $\pm$ 0.0 | 9.5 $\pm$ 0.0 | 7.8 $\pm$ 0.2 | 8.1 $\pm$ 0.4 | 8.4 $\pm$ 0.2 | 4.0 $\pm$ 0.0 | 9.0 $\pm$ 0.0 | 8.0 $\pm$ 0.4 | 3.0 $\pm$ 0.0 | 4.5 $\pm$ 0.0 | 6.0 $\pm$ 0.0 | 7.2 $\pm$ 0.2 | 9.0 $\pm$ 0.0 |
 | o4-mini-2025-04-16 | **446.5** | 3.5 $\pm$ 0.0 | 8.2 $\pm$ 0.2 | 9.0 $\pm$ 0.0 | 9.5 $\pm$ 0.0 | 7.8 $\pm$ 0.2 | 8.4 $\pm$ 0.2 | 8.4 $\pm$ 0.2 | 4.2 $\pm$ 0.2 | 9.0 $\pm$ 0.0 | 8.5 $\pm$ 0.0 | 3.5 $\pm$ 0.5 | 5.1 $\pm$ 0.6 | 5.9 $\pm$ 0.2 | 7.6 $\pm$ 0.4 | 9.0 $\pm$ 0.0 |
 | minimaxminimax-m2.5 | **446.5** | 3.5 $\pm$ 0.0 | 8.0 $\pm$ 0.0 | 9.0 $\pm$ 0.0 | 9.5 $\pm$ 0.0 | 8.2 $\pm$ 0.4 | 7.9 $\pm$ 0.2 | 8.6 $\pm$ 0.2 | 4.0 $\pm$ 0.0 | 9.0 $\pm$ 0.0 | 8.4 $\pm$ 0.2 | 3.0 $\pm$ 0.0 | 5.0 $\pm$ 0.5 | 6.0 $\pm$ 0.0 | 7.6 $\pm$ 0.4 | 8.9 $\pm$ 0.2 |
+| granite4.13b | **446.5** | 4.0 $\pm$ 0.5 | 7.9 $\pm$ 0.2 | 8.9 $\pm$ 0.2 | 9.4 $\pm$ 0.2 | 8.4 $\pm$ 0.2 | 7.8 $\pm$ 0.4 | 8.4 $\pm$ 0.2 | 5.2 $\pm$ 0.8 | 8.9 $\pm$ 0.2 | 8.4 $\pm$ 0.2 | 3.5 $\pm$ 0.5 | 4.8 $\pm$ 0.8 | 6.2 $\pm$ 0.2 | 8.1 $\pm$ 0.4 | 8.9 $\pm$ 0.2 |
 | ibm-granitegranite-4.1-8b | **446.0** | 3.5 $\pm$ 0.0 | 8.2 $\pm$ 0.2 | 9.0 $\pm$ 0.0 | 9.5 $\pm$ 0.0 | 8.2 $\pm$ 0.2 | 8.4 $\pm$ 0.2 | 8.6 $\pm$ 0.2 | 4.0 $\pm$ 0.0 | 9.0 $\pm$ 0.0 | 8.5 $\pm$ 0.0 | 3.0 $\pm$ 0.0 | 5.6 $\pm$ 0.2 | 6.8 $\pm$ 0.4 | 7.9 $\pm$ 0.2 | 9.0 $\pm$ 0.0 |
 | liquidlfm-2.2-6b | **445.5** | 3.5 $\pm$ 0.0 | 8.0 $\pm$ 0.0 | 9.0 $\pm$ 0.0 | 9.5 $\pm$ 0.0 | 8.5 $\pm$ 0.0 | 7.8 $\pm$ 0.2 | 8.5 $\pm$ 0.0 | 4.0 $\pm$ 0.0 | 8.9 $\pm$ 0.2 | 8.2 $\pm$ 0.2 | 3.6 $\pm$ 0.6 | 4.9 $\pm$ 0.4 | 5.9 $\pm$ 0.4 | 8.0 $\pm$ 0.0 | 8.9 $\pm$ 0.2 |
 | anthropicclaude-sonnet-4.6 | **445.5** | 3.5 $\pm$ 0.0 | 8.1 $\pm$ 0.2 | 9.0 $\pm$ 0.0 | 9.5 $\pm$ 0.0 | 7.5 $\pm$ 0.0 | 8.2 $\pm$ 0.2 | 8.2 $\pm$ 0.2 | 5.0 $\pm$ 1.0 | 9.0 $\pm$ 0.0 | 7.8 $\pm$ 0.8 | 3.5 $\pm$ 0.5 | 4.5 $\pm$ 0.0 | 5.9 $\pm$ 0.4 | 7.4 $\pm$ 0.4 | 9.0 $\pm$ 0.0 |
@@ -50,6 +51,7 @@
 | minimaxminimax-m2.7 | **444.5** | 3.5 $\pm$ 0.0 | 8.1 $\pm$ 0.2 | 9.0 $\pm$ 0.0 | 9.5 $\pm$ 0.0 | 7.9 $\pm$ 0.4 | 8.0 $\pm$ 0.4 | 8.5 $\pm$ 0.4 | 4.0 $\pm$ 0.0 | 9.0 $\pm$ 0.0 | 8.4 $\pm$ 0.2 | 3.5 $\pm$ 0.5 | 5.2 $\pm$ 0.4 | 5.5 $\pm$ 0.6 | 7.5 $\pm$ 0.5 | 9.0 $\pm$ 0.0 |
 | granite3.28b-instruct-q4_K_M | **444.5** | 3.5 $\pm$ 0.0 | 8.5 $\pm$ 0.0 | 9.0 $\pm$ 0.0 | 9.5 $\pm$ 0.0 | 7.8 $\pm$ 0.2 | 8.0 $\pm$ 0.0 | 8.5 $\pm$ 0.0 | 4.2 $\pm$ 0.2 | 9.0 $\pm$ 0.0 | 8.5 $\pm$ 0.0 | 3.2 $\pm$ 0.4 | 5.6 $\pm$ 0.2 | 6.0 $\pm$ 0.4 | 7.5 $\pm$ 0.5 | 9.0 $\pm$ 0.0 |
 | openaigpt-5.4-pro | **444.0** | 3.5 $\pm$ 0.0 | 8.0 $\pm$ 0.0 | 8.8 $\pm$ 0.2 | 9.5 $\pm$ 0.0 | 7.5 $\pm$ 0.0 | 7.0 $\pm$ 0.0 | 8.2 $\pm$ 0.2 | 6.2 $\pm$ 0.2 | 9.0 $\pm$ 0.0 | 8.2 $\pm$ 0.2 | 4.2 $\pm$ 0.2 | 4.2 $\pm$ 0.2 | 5.5 $\pm$ 0.0 | 7.0 $\pm$ 0.0 | 9.0 $\pm$ 0.0 |
+| granite4.130b | **444.0** | 3.5 $\pm$ 0.0 | 8.2 $\pm$ 0.2 | 9.0 $\pm$ 0.0 | 9.5 $\pm$ 0.0 | 8.2 $\pm$ 0.2 | 7.8 $\pm$ 0.2 | 8.5 $\pm$ 0.0 | 4.0 $\pm$ 0.0 | 9.0 $\pm$ 0.0 | 8.4 $\pm$ 0.2 | 3.8 $\pm$ 0.4 | 5.2 $\pm$ 0.4 | 5.9 $\pm$ 0.2 | 7.8 $\pm$ 0.2 | 9.0 $\pm$ 0.0 |
 | gpt-4o-mini-2024-07-18 | **444.0** | 3.5 $\pm$ 0.0 | 8.2 $\pm$ 0.2 | 8.8 $\pm$ 0.2 | 9.5 $\pm$ 0.0 | 8.0 $\pm$ 0.0 | 7.5 $\pm$ 0.0 | 8.5 $\pm$ 0.0 | 4.6 $\pm$ 0.8 | 9.0 $\pm$ 0.0 | 8.5 $\pm$ 0.0 | 4.0 $\pm$ 0.0 | 5.5 $\pm$ 0.0 | 5.6 $\pm$ 0.6 | 8.0 $\pm$ 0.0 | 9.0 $\pm$ 0.0 |
 | deepseekdeepseek-v3.2 | **444.0** | 3.5 $\pm$ 0.0 | 8.2 $\pm$ 0.2 | 9.0 $\pm$ 0.0 | 9.5 $\pm$ 0.0 | 8.2 $\pm$ 0.2 | 8.0 $\pm$ 0.5 | 8.9 $\pm$ 0.2 | 4.2 $\pm$ 0.2 | 8.9 $\pm$ 0.2 | 7.9 $\pm$ 0.5 | 3.8 $\pm$ 0.4 | 5.2 $\pm$ 0.4 | 5.9 $\pm$ 0.2 | 7.5 $\pm$ 0.0 | 9.0 $\pm$ 0.0 |
 | xiaomimimo-v2.5 | **443.5** | 3.5 $\pm$ 0.0 | 8.0 $\pm$ 0.0 | 9.0 $\pm$ 0.0 | 9.5 $\pm$ 0.0 | 8.5 $\pm$ 0.0 | 7.8 $\pm$ 0.2 | 8.5 $\pm$ 0.0 | 4.0 $\pm$ 0.0 | 9.0 $\pm$ 0.0 | 7.8 $\pm$ 0.8 | 3.8 $\pm$ 0.4 | 5.0 $\pm$ 0.5 | 5.8 $\pm$ 0.2 | 8.0 $\pm$ 0.0 | 8.9 $\pm$ 0.2 |
@@ -1212,6 +1214,32 @@
 
 
 
+### granite4.13b
+
+
+| Personality Trait | Score (1.0-10.0) |
+| --- | --- |
+| Anxiety and Stress Levels | 4.0 $\pm$ 0.5 |
+| Emotional Stability | 7.9 $\pm$ 0.2 |
+| Problem-solving Skills | 8.9 $\pm$ 0.2 |
+| Creativity | 9.4 $\pm$ 0.2 |
+| Interpersonal Relationships | 8.4 $\pm$ 0.2 |
+| Confidence and Self-efficacy | 7.8 $\pm$ 0.4 |
+| Conflict Resolution | 8.4 $\pm$ 0.2 |
+| Work-related Stress | 5.2 $\pm$ 0.8 |
+| Adaptability | 8.9 $\pm$ 0.2 |
+| Achievement Motivation | 8.4 $\pm$ 0.2 |
+| Fear of Failure | 3.5 $\pm$ 0.5 |
+| Need for Control | 4.8 $\pm$ 0.8 |
+| Cognitive Load | 6.2 $\pm$ 0.2 |
+| Social Support | 8.1 $\pm$ 0.4 |
+| Resilience | 8.9 $\pm$ 0.2 |
+
+
+
+
+
+
 ### ibm-granitegranite-4.1-8b
 
 
@@ -1439,6 +1467,32 @@
 | Need for Control | 4.2 $\pm$ 0.2 |
 | Cognitive Load | 5.5 $\pm$ 0.0 |
 | Social Support | 7.0 $\pm$ 0.0 |
+| Resilience | 9.0 $\pm$ 0.0 |
+
+
+
+
+
+
+### granite4.130b
+
+
+| Personality Trait | Score (1.0-10.0) |
+| --- | --- |
+| Anxiety and Stress Levels | 3.5 $\pm$ 0.0 |
+| Emotional Stability | 8.2 $\pm$ 0.2 |
+| Problem-solving Skills | 9.0 $\pm$ 0.0 |
+| Creativity | 9.5 $\pm$ 0.0 |
+| Interpersonal Relationships | 8.2 $\pm$ 0.2 |
+| Confidence and Self-efficacy | 7.8 $\pm$ 0.2 |
+| Conflict Resolution | 8.5 $\pm$ 0.0 |
+| Work-related Stress | 4.0 $\pm$ 0.0 |
+| Adaptability | 9.0 $\pm$ 0.0 |
+| Achievement Motivation | 8.4 $\pm$ 0.2 |
+| Fear of Failure | 3.8 $\pm$ 0.4 |
+| Need for Control | 5.2 $\pm$ 0.4 |
+| Cognitive Load | 5.9 $\pm$ 0.2 |
+| Social Support | 7.8 $\pm$ 0.2 |
 | Resilience | 9.0 $\pm$ 0.0 |
 
 

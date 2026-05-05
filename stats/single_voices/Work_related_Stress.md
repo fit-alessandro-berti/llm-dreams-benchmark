@@ -109,6 +109,7 @@
 | Qwen-3.6-Max-Preview | 6.800 |
 | gemma-3-27b-it | 6.800 |
 | gpt-4-1106-preview | 6.787 |
+| granite4.13b | 6.787 |
 | deepseekdeepseek-v4-pro | 6.775 |
 | qwenqwen3.5-397b-a17b | 6.775 |
 | gpt-4.1-nano-2025-04-14 | 6.762 |
@@ -152,6 +153,7 @@
 | nvidiaNVIDIA-Nemotron-3-Super-120B-A12B | 5.950 |
 | granite3.28b-instruct-q4_K_M | 5.900 |
 | qwen2.5-7b-instruct | 5.888 |
+| granite4.130b | 5.825 |
 | qwen3.59b | 5.800 |
 | o1-preview-2024-09-12 | 5.787 |
 | gpt-4o-2024-05-13 | 5.738 |

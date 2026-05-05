@@ -38,11 +38,13 @@
 | openaigpt-oss-120b | 8.188 |
 | gpt-4o-2024-05-13 | 8.163 |
 | phi4-reasoningplus | 8.150 |
+| granite4.130b | 8.113 |
 | qwen2.5-7b-instruct | 8.113 |
 | liquidlfm-2.2-6b | 8.112 |
 | gpt-5.3-codex-spark-low | 8.100 |
 | xiaomimimo-v2-pro | 8.100 |
 | o3-mini-20250131-HIGH | 8.088 |
+| granite4.13b | 8.075 |
 | gpt-4o-2024-08-06 | 8.075 |
 | arcee-aitrinity-large-previewfree | 8.062 |
 | openaigpt-5.4-mini | 8.062 |

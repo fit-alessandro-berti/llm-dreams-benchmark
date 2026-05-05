@@ -28,6 +28,7 @@
 | open-mixtral-8x7b | 9.075 |
 | gpt-5-nano-2025-08-07 | 9.062 |
 | gpt-5.3-codex-spark-low | 9.050 |
+| granite4.130b | 9.050 |
 | phi3.53.8b-mini-instruct-fp16 | 9.050 |
 | xiaomimimo-v2.5 | 9.050 |
 | xiaomimimo-v2-pro | 9.038 |
@@ -59,6 +60,7 @@
 | gpt-4o-mini-2024-07-18 | 8.950 |
 | granite4micro | 8.950 |
 | gpt-4.1-mini-2025-04-14 | 8.938 |
+| granite4.13b | 8.938 |
 | o1-pro-2024-12-05 | 8.938 |
 | qwen2.5-32b-instruct | 8.938 |
 | nvidiaNVIDIA-Nemotron-3-Super-120B-A12B | 8.937 |

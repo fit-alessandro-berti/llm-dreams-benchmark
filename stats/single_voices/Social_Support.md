@@ -22,6 +22,7 @@
 | granite4small-h | 8.150 |
 | phi33.8b | 8.138 |
 | gpt-4o-2024-08-06 | 8.137 |
+| granite4.130b | 8.137 |
 | xiaomimimo-v2.5 | 8.137 |
 | microsoftphi-4 | 8.125 |
 | xiaomimimo-v2-pro | 8.100 |
@@ -37,6 +38,7 @@
 | open-mixtral-8x7b | 8.000 |
 | allenaiolmo-3.1-32b-instruct | 8.000 |
 | baiduernie-4.5-300b-a47b | 8.000 |
+| granite4.13b | 8.000 |
 | ministral-3b-2410 | 8.000 |
 | gpt-4.1-mini-2025-04-14 | 8.000 |
 | phi3.53.8b-mini-instruct-fp16 | 7.987 |

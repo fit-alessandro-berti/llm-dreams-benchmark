@@ -1,7 +1,7 @@
 import os
 from pathlib import Path
 
-ANSWERING_MODEL_NAME = "openrouter/owl-alpha"
+ANSWERING_MODEL_NAME = "granite4.1:30b"
 EVALUATING_MODEL_NAME = "gpt-5.2"
 
 

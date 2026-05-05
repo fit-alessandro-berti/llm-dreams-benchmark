@@ -126,6 +126,7 @@
 | gpt-5-2025-08-07 | 6.237 |
 | openaigpt-5.2-codex | 6.225 |
 | bytedance-seedseed-2.0-lite | 6.212 |
+| granite4.13b | 6.212 |
 | ministral-3b-2410 | 6.212 |
 | grok-4.20-experimental-beta-0304-reasoning | 6.188 |
 | o4-mini-2025-04-16 | 6.188 |
@@ -154,6 +155,7 @@
 | qwenqwen3.5-122b-a10b | 5.563 |
 | xiaomimimo-v2.5 | 5.562 |
 | qwen3.59b | 5.500 |
+| granite4.130b | 5.487 |
 | o1-preview-2024-09-12 | 5.438 |
 | microsoftWizardLM-2-8x22B | 5.400 |
 | gpt-4.1-2025-04-14 | 5.388 |

@@ -22,6 +22,7 @@
 | qwen2.5-32b-instruct | 8.713 |
 | falcon37b-instruct-q8_0 | 8.700 |
 | qwen2.5-7b-instruct | 8.700 |
+| granite4.13b | 8.688 |
 | meta-llamaMeta-Llama-3.1-70B-Instruct | 8.688 |
 | falcon310b-instruct-q8_0 | 8.688 |
 | qwen2.5-72b-instruct | 8.688 |
@@ -40,6 +41,7 @@
 | gpt-4-turbo-2024-04-09 | 8.625 |
 | amazonnova-2-lite-v1 | 8.613 |
 | gpt-4.1-mini-2025-04-14 | 8.613 |
+| granite4.130b | 8.613 |
 | o3-pro-2025-06-10 | 8.600 |
 | falcon33b-instruct-q8_0 | 8.600 |
 | o4-mini-2025-04-16 | 8.600 |

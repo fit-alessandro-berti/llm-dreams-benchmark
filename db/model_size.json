@@ -303,6 +303,8 @@
   "granite3.28b-instruct-q4_K_M": [
     8
   ],
+  "granite4.130b": [],
+  "granite4.13b": [],
   "granite4micro": [
     3
   ],

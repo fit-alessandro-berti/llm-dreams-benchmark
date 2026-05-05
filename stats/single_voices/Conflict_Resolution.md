@@ -23,6 +23,7 @@
 | o3-pro-2025-06-10 | 8.550 |
 | qwen2.5-14b-instruct | 8.550 |
 | gpt-3.5-turbo | 8.525 |
+| granite4.130b | 8.513 |
 | xiaomimimo-v2.5 | 8.513 |
 | gpt-4o-2024-08-06 | 8.512 |
 | amazonnova-2-lite-v1 | 8.500 |
@@ -55,6 +56,7 @@
 | baiduernie-4.5-21b-a3b | 8.325 |
 | ministral-3b-2410 | 8.312 |
 | openaigpt-oss-120b | 8.312 |
+| granite4.13b | 8.300 |
 | o1-2024-12-17 | 8.300 |
 | open-mixtral-8x7b | 8.300 |
 | openaigpt-5.4-mini | 8.300 |

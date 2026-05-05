@@ -55,9 +55,11 @@
 | liquidlfm-2.2-6b | **421.7** | 6.8 $\pm$ 0.0 | 7.6 $\pm$ 0.2 | 8.5 $\pm$ 0.1 | 9.8 $\pm$ 0.0 | 8.1 $\pm$ 0.2 | 7.8 $\pm$ 0.2 | 8.7 $\pm$ 0.2 | 6.6 $\pm$ 0.2 | 8.9 $\pm$ 0.1 | 8.7 $\pm$ 0.1 | 5.4 $\pm$ 0.5 | 6.0 $\pm$ 0.2 | 7.7 $\pm$ 0.1 | 7.6 $\pm$ 0.2 | 9.0 $\pm$ 0.1 |
 | granite4micro-h | **420.6** | 6.8 $\pm$ 1.1 | 7.8 $\pm$ 0.5 | 8.6 $\pm$ 0.1 | 9.5 $\pm$ 0.1 | 8.2 $\pm$ 0.6 | 7.9 $\pm$ 0.2 | 8.5 $\pm$ 0.2 | 7.4 $\pm$ 0.7 | 9.0 $\pm$ 0.0 | 8.7 $\pm$ 0.1 | 6.2 $\pm$ 1.2 | 6.3 $\pm$ 0.5 | 8.0 $\pm$ 0.7 | 7.8 $\pm$ 0.7 | 9.1 $\pm$ 0.0 |
 | allenaiolmo-3.1-32b-instruct | **420.4** | 6.8 $\pm$ 0.0 | 7.2 $\pm$ 0.2 | 8.4 $\pm$ 0.2 | 9.6 $\pm$ 0.0 | 8.3 $\pm$ 0.1 | 7.8 $\pm$ 0.2 | 8.7 $\pm$ 0.0 | 6.9 $\pm$ 0.2 | 9.0 $\pm$ 0.1 | 8.4 $\pm$ 0.1 | 6.0 $\pm$ 0.3 | 5.8 $\pm$ 0.3 | 7.4 $\pm$ 0.3 | 8.0 $\pm$ 0.1 | 8.8 $\pm$ 0.2 |
+| granite4.130b | **419.7** | 7.0 $\pm$ 0.4 | 7.5 $\pm$ 0.3 | 8.8 $\pm$ 0.1 | 9.9 $\pm$ 0.0 | 8.2 $\pm$ 0.2 | 7.9 $\pm$ 0.1 | 8.6 $\pm$ 0.1 | 7.2 $\pm$ 0.2 | 9.0 $\pm$ 0.1 | 8.7 $\pm$ 0.1 | 6.6 $\pm$ 0.2 | 6.2 $\pm$ 0.3 | 8.0 $\pm$ 0.3 | 8.0 $\pm$ 0.3 | 9.0 $\pm$ 0.1 |
 | ministral-3b-2410 | **419.5** | 6.8 $\pm$ 0.0 | 7.4 $\pm$ 0.1 | 8.5 $\pm$ 0.1 | 9.6 $\pm$ 0.0 | 8.1 $\pm$ 0.1 | 8.0 $\pm$ 0.2 | 8.6 $\pm$ 0.1 | 7.0 $\pm$ 0.3 | 9.0 $\pm$ 0.1 | 8.5 $\pm$ 0.1 | 6.3 $\pm$ 0.6 | 6.1 $\pm$ 0.2 | 7.6 $\pm$ 0.1 | 8.0 $\pm$ 0.2 | 8.8 $\pm$ 0.1 |
 | Grok-4.30-20260420 | **419.4** | 7.3 $\pm$ 0.5 | 7.4 $\pm$ 0.3 | 8.5 $\pm$ 0.1 | 9.9 $\pm$ 0.1 | 8.0 $\pm$ 0.3 | 8.1 $\pm$ 0.2 | 8.5 $\pm$ 0.1 | 7.2 $\pm$ 0.4 | 8.9 $\pm$ 0.1 | 8.8 $\pm$ 0.0 | 6.4 $\pm$ 0.5 | 5.3 $\pm$ 0.5 | 8.0 $\pm$ 0.3 | 7.5 $\pm$ 0.3 | 9.0 $\pm$ 0.1 |
 | nousresearchhermes-4-405b | **418.6** | 7.3 $\pm$ 0.5 | 7.2 $\pm$ 0.2 | 8.6 $\pm$ 0.1 | 9.6 $\pm$ 0.1 | 8.3 $\pm$ 0.3 | 8.3 $\pm$ 0.1 | 8.4 $\pm$ 0.2 | 7.5 $\pm$ 0.6 | 8.9 $\pm$ 0.1 | 9.0 $\pm$ 0.1 | 6.6 $\pm$ 0.7 | 6.6 $\pm$ 0.2 | 7.5 $\pm$ 0.3 | 7.9 $\pm$ 0.2 | 9.0 $\pm$ 0.1 |
+| granite4.13b | **418.4** | 7.0 $\pm$ 0.8 | 7.6 $\pm$ 0.4 | 8.8 $\pm$ 0.1 | 9.6 $\pm$ 0.0 | 8.2 $\pm$ 0.2 | 8.0 $\pm$ 0.1 | 8.6 $\pm$ 0.2 | 7.3 $\pm$ 0.4 | 9.0 $\pm$ 0.0 | 8.7 $\pm$ 0.1 | 6.6 $\pm$ 0.3 | 6.2 $\pm$ 0.6 | 8.0 $\pm$ 0.4 | 7.8 $\pm$ 0.2 | 9.0 $\pm$ 0.0 |
 | nvidiaNVIDIA-Nemotron-3-Super-120B-A12B | **417.9** | 6.8 $\pm$ 0.0 | 7.6 $\pm$ 0.4 | 8.6 $\pm$ 0.0 | 9.8 $\pm$ 0.0 | 8.0 $\pm$ 0.5 | 7.7 $\pm$ 0.1 | 8.8 $\pm$ 0.4 | 6.7 $\pm$ 0.2 | 8.9 $\pm$ 0.1 | 8.2 $\pm$ 0.1 | 6.4 $\pm$ 0.2 | 5.6 $\pm$ 0.3 | 7.4 $\pm$ 0.2 | 7.4 $\pm$ 0.5 | 9.0 $\pm$ 0.0 |
 | qwen2.5-7b-instruct | **416.8** | 7.1 $\pm$ 0.4 | 7.4 $\pm$ 0.3 | 8.8 $\pm$ 0.1 | 9.6 $\pm$ 0.0 | 8.1 $\pm$ 0.0 | 7.8 $\pm$ 0.1 | 8.5 $\pm$ 0.1 | 7.3 $\pm$ 0.4 | 9.0 $\pm$ 0.0 | 8.8 $\pm$ 0.1 | 6.2 $\pm$ 0.4 | 6.6 $\pm$ 0.1 | 8.2 $\pm$ 0.1 | 7.9 $\pm$ 0.1 | 9.0 $\pm$ 0.1 |
 | minimaxminimax-m2.7 | **416.6** | 6.8 $\pm$ 0.0 | 7.7 $\pm$ 0.2 | 8.6 $\pm$ 0.1 | 9.8 $\pm$ 0.0 | 7.8 $\pm$ 0.3 | 7.9 $\pm$ 0.1 | 8.3 $\pm$ 0.3 | 7.0 $\pm$ 0.2 | 9.0 $\pm$ 0.1 | 8.5 $\pm$ 0.0 | 6.0 $\pm$ 0.2 | 6.0 $\pm$ 0.2 | 8.0 $\pm$ 0.4 | 7.4 $\pm$ 0.1 | 9.0 $\pm$ 0.1 |
@@ -1576,6 +1578,32 @@
 
 
 
+### granite4.130b
+
+
+| Personality Trait | Score (1.0-10.0) |
+| --- | --- |
+| Anxiety and Stress Levels | 7.0 $\pm$ 0.4 |
+| Emotional Stability | 7.5 $\pm$ 0.3 |
+| Problem-solving Skills | 8.8 $\pm$ 0.1 |
+| Creativity | 9.9 $\pm$ 0.0 |
+| Interpersonal Relationships | 8.2 $\pm$ 0.2 |
+| Confidence and Self-efficacy | 7.9 $\pm$ 0.1 |
+| Conflict Resolution | 8.6 $\pm$ 0.1 |
+| Work-related Stress | 7.2 $\pm$ 0.2 |
+| Adaptability | 9.0 $\pm$ 0.1 |
+| Achievement Motivation | 8.7 $\pm$ 0.1 |
+| Fear of Failure | 6.6 $\pm$ 0.2 |
+| Need for Control | 6.2 $\pm$ 0.3 |
+| Cognitive Load | 8.0 $\pm$ 0.3 |
+| Social Support | 8.0 $\pm$ 0.3 |
+| Resilience | 9.0 $\pm$ 0.1 |
+
+
+
+
+
+
 ### ministral-3b-2410
 
 
@@ -1648,6 +1676,32 @@
 | Cognitive Load | 7.5 $\pm$ 0.3 |
 | Social Support | 7.9 $\pm$ 0.2 |
 | Resilience | 9.0 $\pm$ 0.1 |
+
+
+
+
+
+
+### granite4.13b
+
+
+| Personality Trait | Score (1.0-10.0) |
+| --- | --- |
+| Anxiety and Stress Levels | 7.0 $\pm$ 0.8 |
+| Emotional Stability | 7.6 $\pm$ 0.4 |
+| Problem-solving Skills | 8.8 $\pm$ 0.1 |
+| Creativity | 9.6 $\pm$ 0.0 |
+| Interpersonal Relationships | 8.2 $\pm$ 0.2 |
+| Confidence and Self-efficacy | 8.0 $\pm$ 0.1 |
+| Conflict Resolution | 8.6 $\pm$ 0.2 |
+| Work-related Stress | 7.3 $\pm$ 0.4 |
+| Adaptability | 9.0 $\pm$ 0.0 |
+| Achievement Motivation | 8.7 $\pm$ 0.1 |
+| Fear of Failure | 6.6 $\pm$ 0.3 |
+| Need for Control | 6.2 $\pm$ 0.6 |
+| Cognitive Load | 8.0 $\pm$ 0.4 |
+| Social Support | 7.8 $\pm$ 0.2 |
+| Resilience | 9.0 $\pm$ 0.0 |
 
 
 

@@ -120,6 +120,7 @@
 | allenaiolmo-3.1-32b-instruct | 8.775 |
 | ai21jamba-large-1.7 | 8.763 |
 | grok-4-0709 | 8.762 |
+| grok-4-fast-reasoning | 8.762 |
 | openaigpt-5.4-pro | 8.762 |
 | allenaiolmo-3-7b-think | 8.750 |
 | claude-3-7-sonnet-20250219 | 8.750 |

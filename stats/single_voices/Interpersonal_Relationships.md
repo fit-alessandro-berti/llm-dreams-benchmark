@@ -128,6 +128,7 @@
 | gemini-1.5-flash-8b | 7.150 |
 | qwen3.59b | 7.150 |
 | meta-llamallama-4-scout | 7.138 |
+| grok-4-fast-reasoning | 7.125 |
 | gemini-2.0-pro-exp-02-05 | 7.087 |
 | openaigpt-5.4-nano | 7.087 |
 | Gemini-1.5-Pro-Exp-0827 | 7.075 |

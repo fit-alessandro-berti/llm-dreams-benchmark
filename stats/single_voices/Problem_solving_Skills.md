@@ -114,6 +114,7 @@
 | liquidlfm-2.5-1.2b-thinkingfree | 8.338 |
 | qwen3.635b-a3b | 8.338 |
 | gpt-5-chat-latest-2025-08-19 | 8.337 |
+| grok-4-fast-reasoning | 8.337 |
 | gpt-5.2-2025-12-11 | 8.312 |
 | mistral-medium-3.5 | 8.312 |
 | gemma-4-31b-it | 8.300 |

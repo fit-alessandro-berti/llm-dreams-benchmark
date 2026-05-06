@@ -108,6 +108,7 @@
 | googlegemini-3.1-pro-preview | 7.437 |
 | gpt-5.5-2026-04-23 | 7.425 |
 | gpt-5-2025-08-07 | 7.425 |
+| grok-4-fast-reasoning | 7.425 |
 | gemini-1.5-flash-002 | 7.413 |
 | bytedance-seedseed-2.0-mini | 7.412 |
 | chatgpt-4o-latest-2025-03-26 | 7.400 |

@@ -79,6 +79,7 @@
 | mistral-medium-3.5 | 6.087 |
 | openaigpt-5.4 | 6.087 |
 | arcee-aitrinity-large-previewfree | 6.050 |
+| grok-4-fast-reasoning | 6.050 |
 | gemini-2.0-pro-exp-02-05 | 6.050 |
 | granite3.28b-instruct-q4_K_M | 6.038 |
 | ministral-3b-2410 | 6.038 |

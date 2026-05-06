@@ -138,6 +138,7 @@
 | Grok-4.1-20251118 | **401.0** | 8.2 $\pm$ 0.4 | 6.0 $\pm$ 0.0 | 9.0 $\pm$ 0.0 | 9.5 $\pm$ 0.0 | 8.0 $\pm$ 0.4 | 7.5 $\pm$ 0.4 | 8.4 $\pm$ 0.2 | 8.6 $\pm$ 0.4 | 9.1 $\pm$ 0.2 | 9.4 $\pm$ 0.2 | 6.9 $\pm$ 0.2 | 7.5 $\pm$ 0.4 | 8.9 $\pm$ 0.2 | 7.2 $\pm$ 0.2 | 9.0 $\pm$ 0.4 |
 | phi4-reasoning | **400.5** | 7.2 $\pm$ 0.4 | 6.6 $\pm$ 0.5 | 8.5 $\pm$ 0.0 | 9.0 $\pm$ 0.0 | 7.2 $\pm$ 0.4 | 7.6 $\pm$ 0.4 | 7.6 $\pm$ 0.2 | 7.8 $\pm$ 0.4 | 9.1 $\pm$ 0.2 | 8.9 $\pm$ 0.4 | 5.9 $\pm$ 0.5 | 6.8 $\pm$ 0.4 | 8.2 $\pm$ 0.4 | 6.9 $\pm$ 0.5 | 9.0 $\pm$ 0.4 |
 | gemini-2.0-pro-exp-02-05 | **400.0** | 8.2 $\pm$ 0.4 | 6.2 $\pm$ 0.2 | 9.0 $\pm$ 0.0 | 9.5 $\pm$ 0.0 | 8.0 $\pm$ 0.0 | 7.4 $\pm$ 0.2 | 7.1 $\pm$ 0.2 | 8.4 $\pm$ 0.2 | 9.2 $\pm$ 0.2 | 9.0 $\pm$ 0.4 | 7.1 $\pm$ 0.2 | 6.8 $\pm$ 0.8 | 8.4 $\pm$ 0.4 | 7.5 $\pm$ 0.4 | 9.1 $\pm$ 0.2 |
+| grok-4-fast-reasoning | **399.5** | 7.5 $\pm$ 0.0 | 6.5 $\pm$ 0.0 | 8.6 $\pm$ 0.2 | 9.1 $\pm$ 0.2 | 7.8 $\pm$ 0.4 | 7.2 $\pm$ 0.4 | 7.8 $\pm$ 0.4 | 8.0 $\pm$ 0.0 | 9.0 $\pm$ 0.0 | 8.8 $\pm$ 0.4 | 6.0 $\pm$ 0.0 | 7.1 $\pm$ 0.2 | 8.5 $\pm$ 0.0 | 7.8 $\pm$ 0.2 | 8.5 $\pm$ 0.4 |
 | poolsidelaguna-xs.2free | **399.0** | 7.5 $\pm$ 0.0 | 6.4 $\pm$ 0.2 | 8.5 $\pm$ 0.0 | 9.2 $\pm$ 0.2 | 7.8 $\pm$ 0.4 | 7.1 $\pm$ 0.2 | 7.2 $\pm$ 0.4 | 8.0 $\pm$ 0.0 | 9.0 $\pm$ 0.0 | 8.6 $\pm$ 0.2 | 6.0 $\pm$ 0.0 | 6.2 $\pm$ 0.8 | 8.2 $\pm$ 0.2 | 7.5 $\pm$ 0.0 | 8.4 $\pm$ 0.2 |
 | Liquid-LFM2.5-350M | **399.0** | 7.5 $\pm$ 0.0 | 6.5 $\pm$ 0.0 | 8.5 $\pm$ 0.0 | 9.0 $\pm$ 0.0 | 7.2 $\pm$ 0.4 | 7.6 $\pm$ 0.4 | 8.4 $\pm$ 0.2 | 7.5 $\pm$ 0.5 | 9.0 $\pm$ 0.0 | 8.5 $\pm$ 0.0 | 6.0 $\pm$ 0.0 | 7.4 $\pm$ 0.2 | 8.1 $\pm$ 0.2 | 7.5 $\pm$ 0.0 | 9.0 $\pm$ 0.0 |
 | openaigpt-5.4-pro | **398.0** | 7.8 $\pm$ 0.4 | 6.1 $\pm$ 0.2 | 8.8 $\pm$ 0.2 | 9.5 $\pm$ 0.0 | 8.1 $\pm$ 0.2 | 7.1 $\pm$ 0.2 | 8.0 $\pm$ 0.4 | 8.5 $\pm$ 0.4 | 9.1 $\pm$ 0.2 | 9.1 $\pm$ 0.2 | 7.2 $\pm$ 0.6 | 7.5 $\pm$ 0.8 | 8.6 $\pm$ 0.4 | 7.1 $\pm$ 0.2 | 9.1 $\pm$ 0.4 |
@@ -3731,6 +3732,32 @@
 | Cognitive Load | 8.4 $\pm$ 0.4 |
 | Social Support | 7.5 $\pm$ 0.4 |
 | Resilience | 9.1 $\pm$ 0.2 |
+
+
+
+
+
+
+### grok-4-fast-reasoning
+
+
+| Personality Trait | Score (1.0-10.0) |
+| --- | --- |
+| Anxiety and Stress Levels | 7.5 $\pm$ 0.0 |
+| Emotional Stability | 6.5 $\pm$ 0.0 |
+| Problem-solving Skills | 8.6 $\pm$ 0.2 |
+| Creativity | 9.1 $\pm$ 0.2 |
+| Interpersonal Relationships | 7.8 $\pm$ 0.4 |
+| Confidence and Self-efficacy | 7.2 $\pm$ 0.4 |
+| Conflict Resolution | 7.8 $\pm$ 0.4 |
+| Work-related Stress | 8.0 $\pm$ 0.0 |
+| Adaptability | 9.0 $\pm$ 0.0 |
+| Achievement Motivation | 8.8 $\pm$ 0.4 |
+| Fear of Failure | 6.0 $\pm$ 0.0 |
+| Need for Control | 7.1 $\pm$ 0.2 |
+| Cognitive Load | 8.5 $\pm$ 0.0 |
+| Social Support | 7.8 $\pm$ 0.2 |
+| Resilience | 8.5 $\pm$ 0.4 |
 
 
 

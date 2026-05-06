@@ -123,6 +123,7 @@
 | falcon33b-instruct-q8_0 | 8.587 |
 | gemini-2.5-pro-preview-05-06 | 8.562 |
 | gpt-4-1106-preview | 8.562 |
+| grok-4-fast-reasoning | 8.562 |
 | poolsidelaguna-m.1free | 8.550 |
 | qwenqwen3.5-27b | 8.550 |
 | chatgpt-4o-latest-2025-03-26 | 8.538 |

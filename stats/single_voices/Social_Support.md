@@ -114,6 +114,7 @@
 | gemma-3-27b-it | 7.212 |
 | falcon33b-instruct-q8_0 | 7.200 |
 | grok-4.20-experimental-beta-0304-reasoning | 7.200 |
+| grok-4-fast-reasoning | 7.187 |
 | poolsidelaguna-xs.2free | 7.187 |
 | meta-llamaLlama-3.3-70B-Instruct | 7.175 |
 | liquidlfm-2-24b-a2b | 7.175 |

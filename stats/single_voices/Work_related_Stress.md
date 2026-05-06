@@ -66,6 +66,7 @@
 | allenaiolmo-3-7b-think | 7.600 |
 | liquidlfm-2.5-1.2b-thinkingfree | 7.562 |
 | qwen3.54b | 7.550 |
+| grok-4-fast-reasoning | 7.550 |
 | anthropicclaude-opus-4.1 | 7.537 |
 | chatgpt-4o-latest-2025-03-26 | 7.537 |
 | talkie-1930-13b-it | 7.475 |

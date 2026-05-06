@@ -84,6 +84,7 @@
 | ministral-14b-2512 | 9.538 |
 | allenaiolmo-3-7b-think | 9.537 |
 | bytedance-seedseed-2.0-mini | 9.537 |
+| grok-4-fast-reasoning | 9.537 |
 | liquidlfm2-8b-a1b | 9.537 |
 | poolsidelaguna-m.1free | 9.537 |
 | xiaomimimo-v2.5 | 9.537 |

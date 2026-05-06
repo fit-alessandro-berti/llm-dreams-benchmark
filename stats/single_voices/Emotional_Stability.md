@@ -129,6 +129,7 @@
 | gemma-4-31b-it | 6.550 |
 | gemma-3-27b-it | 6.537 |
 | openaigpt-5.4-nano | 6.525 |
+| grok-4-fast-reasoning | 6.513 |
 | poolsidelaguna-m.1free | 6.512 |
 | claude-opus-4-5-20251101 | 6.487 |
 | llama213b | 6.463 |

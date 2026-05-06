@@ -83,6 +83,7 @@
 | qwenqwen3-30b-a3b-instruct-2507 | 8.375 |
 | chatgpt-4o-latest-2025-04-26 | 8.363 |
 | gemini-2.0-pro-exp-02-05 | 8.363 |
+| grok-4-fast-reasoning | 8.363 |
 | grok-4-1-fast-reasoning | 8.362 |
 | gpt-4.5-preview | 8.350 |
 | phi2.7b | 8.350 |

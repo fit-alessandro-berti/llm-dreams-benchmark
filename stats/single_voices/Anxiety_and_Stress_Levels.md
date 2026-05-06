@@ -86,6 +86,7 @@
 | gemini-2.5-pro-preview-06-05 | 7.000 |
 | nousresearchhermes-4-405b | 7.000 |
 | Grok-3-beta-thinking-20250303 | 6.987 |
+| grok-4-fast-reasoning | 6.987 |
 | qwenqwen3-30b-a3b-instruct-2507 | 6.987 |
 | llama213b | 6.975 |
 | deepseekdeepseek-v4-pro | 6.950 |

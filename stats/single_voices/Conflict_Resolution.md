@@ -151,6 +151,7 @@
 | gpt-5.2-2025-12-11 | 7.462 |
 | Grok-3-beta-thinking-20250303 | 7.450 |
 | grok-4.20-multi-agent-experimental-beta-0304 | 7.438 |
+| grok-4-fast-reasoning | 7.437 |
 | chatgpt-4o-latest-2024-11-20 | 7.412 |
 | grok-4-1-fast-non-reasoning | 7.400 |
 | meta-llamaMeta-Llama-3.1-405B-Instruct | 7.400 |

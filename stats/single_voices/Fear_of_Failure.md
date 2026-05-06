@@ -74,6 +74,7 @@
 | qwenqwen3-max | 6.475 |
 | googlegemini-3.1-pro-preview | 6.450 |
 | grok-4-1-fast-non-reasoning | 6.388 |
+| grok-4-fast-reasoning | 6.375 |
 | deepseekdeepseek-v3.2-speciale | 6.325 |
 | nousresearchhermes-4-70b | 6.325 |
 | baiduernie-4.5-21b-a3b | 6.312 |

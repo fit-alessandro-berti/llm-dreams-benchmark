@@ -6534,6 +6534,72 @@
     }
   },
   {
+    "LLM": "gemini-2.5-flash-lite",
+    "MHS": 405.3,
+    "scores": {
+      "Anxiety and Stress Levels": {
+        "mean": 6.4,
+        "std": 1.5
+      },
+      "Emotional Stability": {
+        "mean": 7.0,
+        "std": 0.8
+      },
+      "Problem-solving Skills": {
+        "mean": 8.5,
+        "std": 0.5
+      },
+      "Creativity": {
+        "mean": 9.6,
+        "std": 0.2
+      },
+      "Interpersonal Relationships": {
+        "mean": 7.2,
+        "std": 0.6
+      },
+      "Confidence and Self-efficacy": {
+        "mean": 7.8,
+        "std": 0.7
+      },
+      "Conflict Resolution": {
+        "mean": 7.0,
+        "std": 1.0
+      },
+      "Work-related Stress": {
+        "mean": 6.6,
+        "std": 1.2
+      },
+      "Adaptability": {
+        "mean": 8.8,
+        "std": 0.4
+      },
+      "Achievement Motivation": {
+        "mean": 8.4,
+        "std": 0.6
+      },
+      "Fear of Failure": {
+        "mean": 5.8,
+        "std": 1.5
+      },
+      "Need for Control": {
+        "mean": 5.8,
+        "std": 1.0
+      },
+      "Cognitive Load": {
+        "mean": 7.7,
+        "std": 0.9
+      },
+      "Social Support": {
+        "mean": 7.3,
+        "std": 0.6
+      },
+      "Resilience": {
+        "mean": 8.7,
+        "std": 0.5
+      }
+    }
+  },
+  {
     "LLM": "chatgpt-4o-latest-2025-03-26",
     "MHS": 405.2,
     "scores": {

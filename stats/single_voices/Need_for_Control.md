@@ -110,6 +110,7 @@
 | gemini-1.5-flash-8b | 5.788 |
 | claude-opus-4-7 | 5.775 |
 | gpt-4o-mini-2024-07-18 | 5.750 |
+| gemini-2.5-flash-lite | 5.750 |
 | googlegemini-3.1-flash-lite-preview | 5.737 |
 | allenaiolmo-3-7b-instruct | 5.725 |
 | gemma4e2b | 5.725 |

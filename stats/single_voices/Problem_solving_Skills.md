@@ -80,6 +80,7 @@
 | gpt-4.1-nano-2025-04-14 | 8.512 |
 | phi4-reasoningplus | 8.512 |
 | allenaiolmo-3.1-32b-instruct | 8.488 |
+| gemini-2.5-flash-lite | 8.487 |
 | gpt-4.1-2025-04-14 | 8.475 |
 | Grok-4-fast-20251111 | 8.475 |
 | llama213b | 8.475 |

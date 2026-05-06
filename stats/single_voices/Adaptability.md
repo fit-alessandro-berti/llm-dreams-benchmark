@@ -101,6 +101,7 @@
 | minimaxminimax-m2.5 | 8.838 |
 | anthropicclaude-opus-4.6 | 8.837 |
 | nvidiaNVIDIA-Nemotron-3-Super-120B-A12B | 8.837 |
+| gemini-2.5-flash-lite | 8.825 |
 | grok-4-1-fast-reasoning | 8.825 |
 | poolsidelaguna-m.1free | 8.825 |
 | gemini-2.0-flash-exp | 8.825 |

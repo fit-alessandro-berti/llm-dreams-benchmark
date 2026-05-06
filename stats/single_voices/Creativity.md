@@ -62,6 +62,7 @@
 | openaigpt-5.4-mini | 9.600 |
 | openaigpt-oss-20b | 9.600 |
 | grok-4.20-experimental-beta-0304-non-reasoning | 9.600 |
+| gemini-2.5-flash-lite | 9.600 |
 | anthropicclaude-sonnet-4.5 | 9.588 |
 | gemini-1.5-flash-002 | 9.588 |
 | o4-mini-2025-04-16 | 9.588 |

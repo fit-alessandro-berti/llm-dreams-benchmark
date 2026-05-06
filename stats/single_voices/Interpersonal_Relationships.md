@@ -123,6 +123,7 @@
 | chatgpt-4o-latest-2025-03-26 | 7.225 |
 | grok-4.20-experimental-beta-0304-reasoning | 7.225 |
 | prime-intellectintellect-3 | 7.213 |
+| gemini-2.5-flash-lite | 7.200 |
 | gemini-2.5-pro-preview-06-05 | 7.200 |
 | qwenqwen3-30b-a3b-instruct-2507 | 7.175 |
 | gemini-1.5-flash-8b | 7.150 |

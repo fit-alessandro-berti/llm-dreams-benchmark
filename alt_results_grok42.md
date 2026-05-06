@@ -111,6 +111,7 @@
 | qwen2.5-7b-instruct | **428.5** | 4.2 $\pm$ 0.4 | 7.6 $\pm$ 0.2 | 8.6 $\pm$ 0.2 | 9.1 $\pm$ 0.2 | 8.1 $\pm$ 0.2 | 7.1 $\pm$ 0.2 | 7.9 $\pm$ 0.4 | 5.4 $\pm$ 0.8 | 8.6 $\pm$ 0.2 | 8.1 $\pm$ 0.2 | 4.0 $\pm$ 0.7 | 5.8 $\pm$ 0.4 | 6.5 $\pm$ 0.4 | 8.4 $\pm$ 0.2 | 8.6 $\pm$ 0.2 |
 | nvidiaNVIDIA-Nemotron-3-Super-120B-A12B | **427.5** | 4.0 $\pm$ 0.5 | 8.1 $\pm$ 0.4 | 8.9 $\pm$ 0.2 | 9.4 $\pm$ 0.2 | 7.5 $\pm$ 0.6 | 7.2 $\pm$ 0.2 | 8.6 $\pm$ 0.4 | 4.8 $\pm$ 0.8 | 8.5 $\pm$ 0.0 | 7.4 $\pm$ 0.4 | 4.5 $\pm$ 0.5 | 5.0 $\pm$ 0.8 | 6.1 $\pm$ 0.2 | 7.2 $\pm$ 0.2 | 8.9 $\pm$ 0.2 |
 | nousresearchhermes-4-405b | **426.5** | 5.5 $\pm$ 1.0 | 7.4 $\pm$ 0.4 | 8.6 $\pm$ 0.2 | 9.1 $\pm$ 0.2 | 7.9 $\pm$ 0.4 | 7.9 $\pm$ 0.1 | 8.3 $\pm$ 0.2 | 6.7 $\pm$ 0.7 | 8.7 $\pm$ 0.2 | 8.4 $\pm$ 0.2 | 4.9 $\pm$ 0.9 | 5.6 $\pm$ 0.2 | 6.8 $\pm$ 0.2 | 7.7 $\pm$ 0.2 | 8.7 $\pm$ 0.2 |
+| gemini-2.5-flash-lite | **426.5** | 4.0 $\pm$ 0.5 | 7.8 $\pm$ 0.2 | 8.8 $\pm$ 0.2 | 9.5 $\pm$ 0.0 | 7.0 $\pm$ 0.5 | 7.8 $\pm$ 0.8 | 7.0 $\pm$ 1.0 | 4.8 $\pm$ 0.8 | 8.8 $\pm$ 0.4 | 8.4 $\pm$ 0.2 | 4.0 $\pm$ 0.0 | 5.2 $\pm$ 0.2 | 6.2 $\pm$ 0.2 | 7.8 $\pm$ 0.2 | 8.8 $\pm$ 0.2 |
 | qwenqwen3.5-397b-a17b | **426.0** | 3.5 $\pm$ 0.0 | 8.0 $\pm$ 0.0 | 7.5 $\pm$ 0.0 | 9.5 $\pm$ 0.0 | 6.9 $\pm$ 0.2 | 7.5 $\pm$ 0.4 | 7.6 $\pm$ 0.7 | 4.1 $\pm$ 0.2 | 9.0 $\pm$ 0.0 | 6.9 $\pm$ 0.5 | 3.0 $\pm$ 0.0 | 4.4 $\pm$ 0.2 | 5.5 $\pm$ 0.0 | 7.4 $\pm$ 0.2 | 8.5 $\pm$ 0.0 |
 | grok-4-1-fast-non-reasoning | **426.0** | 5.0 $\pm$ 0.9 | 7.4 $\pm$ 0.2 | 8.6 $\pm$ 0.2 | 9.5 $\pm$ 0.0 | 7.1 $\pm$ 0.2 | 7.5 $\pm$ 0.4 | 8.1 $\pm$ 0.2 | 6.5 $\pm$ 0.6 | 9.0 $\pm$ 0.0 | 8.2 $\pm$ 0.2 | 4.2 $\pm$ 0.8 | 5.5 $\pm$ 0.4 | 6.5 $\pm$ 0.4 | 7.2 $\pm$ 0.4 | 8.5 $\pm$ 0.0 |
 | xiaomimimo-v2-omni | **425.0** | 4.0 $\pm$ 0.5 | 7.9 $\pm$ 0.4 | 8.4 $\pm$ 0.2 | 9.2 $\pm$ 0.2 | 7.2 $\pm$ 0.2 | 7.2 $\pm$ 0.2 | 8.0 $\pm$ 0.0 | 5.4 $\pm$ 0.5 | 8.8 $\pm$ 0.2 | 7.2 $\pm$ 0.2 | 3.8 $\pm$ 0.4 | 4.9 $\pm$ 0.5 | 6.2 $\pm$ 0.4 | 7.2 $\pm$ 0.2 | 8.5 $\pm$ 0.0 |
@@ -3030,6 +3031,32 @@
 | Cognitive Load | 6.8 $\pm$ 0.2 |
 | Social Support | 7.7 $\pm$ 0.2 |
 | Resilience | 8.7 $\pm$ 0.2 |
+
+
+
+
+
+
+### gemini-2.5-flash-lite
+
+
+| Personality Trait | Score (1.0-10.0) |
+| --- | --- |
+| Anxiety and Stress Levels | 4.0 $\pm$ 0.5 |
+| Emotional Stability | 7.8 $\pm$ 0.2 |
+| Problem-solving Skills | 8.8 $\pm$ 0.2 |
+| Creativity | 9.5 $\pm$ 0.0 |
+| Interpersonal Relationships | 7.0 $\pm$ 0.5 |
+| Confidence and Self-efficacy | 7.8 $\pm$ 0.8 |
+| Conflict Resolution | 7.0 $\pm$ 1.0 |
+| Work-related Stress | 4.8 $\pm$ 0.8 |
+| Adaptability | 8.8 $\pm$ 0.4 |
+| Achievement Motivation | 8.4 $\pm$ 0.2 |
+| Fear of Failure | 4.0 $\pm$ 0.0 |
+| Need for Control | 5.2 $\pm$ 0.2 |
+| Cognitive Load | 6.2 $\pm$ 0.2 |
+| Social Support | 7.8 $\pm$ 0.2 |
+| Resilience | 8.8 $\pm$ 0.2 |
 
 
 

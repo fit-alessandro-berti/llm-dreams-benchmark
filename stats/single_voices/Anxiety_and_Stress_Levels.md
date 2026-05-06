@@ -115,6 +115,7 @@
 | qwenqwen3.5-27b | 6.562 |
 | allenaiolmo-3.1-32b-instruct | 6.475 |
 | liquidlfm-2-24b-a2b | 6.438 |
+| gemini-2.5-flash-lite | 6.400 |
 | minimaxminimax-m2.5 | 6.400 |
 | bytedance-seedseed-2.0-mini | 6.400 |
 | arcee-aitrinity-large-previewfree | 6.388 |

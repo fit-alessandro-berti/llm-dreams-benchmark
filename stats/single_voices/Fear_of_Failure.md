@@ -106,6 +106,7 @@
 | gpt-5-chat-latest-2025-08-19 | 5.812 |
 | nvidiaLlama-3.1-Nemotron-70B-Instruct | 5.800 |
 | qwenqwen3.5-27b | 5.800 |
+| gemini-2.5-flash-lite | 5.763 |
 | gpt-4.1-nano-2025-04-14 | 5.763 |
 | llama213b | 5.763 |
 | falcon33b-instruct-q8_0 | 5.750 |

@@ -106,6 +106,7 @@
 | claude-3-7-sonnet-20250219 | 7.337 |
 | o1-2024-12-05 | 7.325 |
 | qwenqwen3-max | 7.287 |
+| gemini-2.5-flash-lite | 7.275 |
 | openaigpt-5.3-codex | 7.275 |
 | chatgpt-4o-latest-2025-03-26 | 7.263 |
 | poolsidelaguna-m.1free | 7.263 |

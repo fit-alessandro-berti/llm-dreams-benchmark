@@ -67,6 +67,7 @@
 | meta-llamaMeta-Llama-3.1-405B-Instruct | 8.475 |
 | gemini-1.5-flash-8b | 8.462 |
 | nvidiaNemotron-3-Nano-Omni-30B-A3B-Reasoning | 8.462 |
+| gemini-2.5-flash-lite | 8.450 |
 | Grok-3-beta-thinking-20250303 | 8.450 |
 | openrouterowl-alpha | 8.450 |
 | meta-llamaLlama-3.3-70B-Instruct | 8.438 |

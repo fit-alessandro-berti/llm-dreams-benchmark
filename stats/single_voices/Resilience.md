@@ -101,6 +101,7 @@
 | smollm21.7b-instruct-q6_K | 8.713 |
 | xiaomimimo-v2-omni | 8.713 |
 | openaigpt-oss-20b | 8.700 |
+| gemini-2.5-flash-lite | 8.688 |
 | openaigpt-5.2-codex | 8.688 |
 | grok-4.20-experimental-beta-0304-reasoning | 8.675 |
 | liquidlfm-2.5-1.2b-thinkingfree | 8.675 |

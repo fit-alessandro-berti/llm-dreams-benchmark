@@ -98,6 +98,7 @@
 | amazonnova-2-lite-v1 | 7.038 |
 | gpt-5.5-2026-04-23 | 7.037 |
 | o1-2024-12-05 | 7.013 |
+| gemini-2.5-flash-lite | 7.000 |
 | GPT-5.5-Pro-20260422 | 7.000 |
 | gemini-2.5-pro-preview-06-05 | 6.950 |
 | gpt-5-chat-latest-2025-08-19 | 6.938 |

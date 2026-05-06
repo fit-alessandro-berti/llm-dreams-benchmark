@@ -162,6 +162,7 @@
 | falcon37b-instruct-q8_0 | 7.112 |
 | gemma4e4b | 7.075 |
 | meta-llamaMeta-Llama-3.1-70B-Instruct | 7.063 |
+| gemini-2.5-flash-lite | 7.062 |
 | ministral-14b-2512 | 7.025 |
 | googlegemini-3.1-flash-lite-preview | 7.012 |
 | z-aiglm-5 | 6.987 |

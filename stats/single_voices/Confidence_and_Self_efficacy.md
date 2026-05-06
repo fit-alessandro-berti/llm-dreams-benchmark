@@ -79,6 +79,7 @@
 | phi2.7b | 7.812 |
 | Grok-4-fast-20251111 | 7.800 |
 | baiduernie-4.5-300b-a47b | 7.800 |
+| gemini-2.5-flash-lite | 7.787 |
 | nvidiaNVIDIA-Nemotron-3-Super-120B-A12B | 7.775 |
 | granite4micro-h | 7.763 |
 | grok-4-1-fast-non-reasoning | 7.750 |

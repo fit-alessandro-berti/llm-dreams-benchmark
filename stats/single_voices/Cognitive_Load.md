@@ -95,6 +95,7 @@
 | openaigpt-5.4-pro | 7.688 |
 | amazonnova-2-lite-v1 | 7.675 |
 | googlegemini-3.1-flash-lite-preview | 7.675 |
+| gemini-2.5-flash-lite | 7.662 |
 | arcee-aitrinity-large-previewfree | 7.638 |
 | talkie-1930-13b-it | 7.638 |
 | grok-4.20-experimental-beta-0304-reasoning | 7.612 |

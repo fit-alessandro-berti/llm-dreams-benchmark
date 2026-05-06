@@ -93,6 +93,7 @@
 | gpt-4o-mini-2024-11-05 | 8.113 |
 | phi2.7b | 8.113 |
 | qwen3.59b | 8.113 |
+| nvidiaNemotron-3-Nano-Omni-30B-A3B-Reasoning | 8.112 |
 | xiaomimimo-v2-omni | 8.100 |
 | gemini-2.0-flash-exp | 8.100 |
 | liquidlfm-2.5-1.2b-thinkingfree | 8.100 |

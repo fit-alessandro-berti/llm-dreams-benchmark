@@ -53,6 +53,7 @@
 | openaigpt-oss-120b | 7.900 |
 | Grok-4.30-20260420 | 7.862 |
 | gpt-5-pro-2025-10-06 | 7.850 |
+| nvidiaNemotron-3-Nano-Omni-30B-A3B-Reasoning | 7.850 |
 | qwenqwen3-next-80b-a3b-instruct | 7.825 |
 | anthropicclaude-sonnet-4.6 | 7.800 |
 | granite4tiny-h | 7.788 |

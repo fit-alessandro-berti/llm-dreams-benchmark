@@ -25,6 +25,7 @@
 | o3-pro-2025-06-10 | **455.5** | 4.9 $\pm$ 1.0 | 8.5 $\pm$ 0.4 | 9.4 $\pm$ 0.2 | 10.0 $\pm$ 0.0 | 7.9 $\pm$ 0.4 | 9.1 $\pm$ 0.2 | 8.8 $\pm$ 0.2 | 3.6 $\pm$ 0.8 | 9.5 $\pm$ 0.0 | 8.4 $\pm$ 0.2 | 2.8 $\pm$ 0.8 | 4.5 $\pm$ 0.9 | 6.2 $\pm$ 0.4 | 7.6 $\pm$ 0.4 | 9.5 $\pm$ 0.0 |
 | granite4.130b | **455.5** | 5.4 $\pm$ 1.2 | 8.1 $\pm$ 0.2 | 8.9 $\pm$ 0.2 | 9.8 $\pm$ 0.2 | 8.1 $\pm$ 0.4 | 8.4 $\pm$ 0.4 | 8.9 $\pm$ 0.2 | 5.6 $\pm$ 1.0 | 9.2 $\pm$ 0.4 | 8.4 $\pm$ 0.8 | 3.6 $\pm$ 0.4 | 4.0 $\pm$ 0.7 | 6.1 $\pm$ 0.7 | 8.2 $\pm$ 0.6 | 9.4 $\pm$ 0.2 |
 | o3-mini-20250131-HIGH | **454.5** | 4.2 $\pm$ 0.2 | 8.5 $\pm$ 0.0 | 8.2 $\pm$ 0.8 | 9.8 $\pm$ 0.2 | 7.9 $\pm$ 0.2 | 8.6 $\pm$ 0.2 | 8.6 $\pm$ 0.4 | 5.0 $\pm$ 0.0 | 9.2 $\pm$ 0.2 | 7.8 $\pm$ 0.6 | 3.0 $\pm$ 0.0 | 4.0 $\pm$ 0.0 | 6.0 $\pm$ 0.0 | 7.9 $\pm$ 0.5 | 9.4 $\pm$ 0.2 |
+| nvidiaNemotron-3-Nano-Omni-30B-A3B-Reasoning | **454.5** | 4.4 $\pm$ 0.2 | 8.5 $\pm$ 0.0 | 9.0 $\pm$ 0.0 | 9.5 $\pm$ 0.0 | 7.9 $\pm$ 0.2 | 8.5 $\pm$ 0.0 | 8.4 $\pm$ 0.6 | 5.0 $\pm$ 0.0 | 9.1 $\pm$ 0.2 | 8.4 $\pm$ 0.2 | 3.1 $\pm$ 0.2 | 4.2 $\pm$ 0.4 | 6.0 $\pm$ 0.0 | 7.9 $\pm$ 0.4 | 9.2 $\pm$ 0.2 |
 | xiaomimimo-v2-pro | **454.0** | 4.8 $\pm$ 0.4 | 8.5 $\pm$ 0.0 | 9.0 $\pm$ 0.0 | 9.5 $\pm$ 0.0 | 8.0 $\pm$ 0.0 | 8.5 $\pm$ 0.0 | 8.2 $\pm$ 0.8 | 4.2 $\pm$ 0.4 | 9.4 $\pm$ 0.2 | 7.4 $\pm$ 0.2 | 3.0 $\pm$ 0.0 | 3.8 $\pm$ 0.2 | 5.5 $\pm$ 0.5 | 8.4 $\pm$ 0.2 | 9.4 $\pm$ 0.2 |
 | phi4-reasoningplus | **454.0** | 4.4 $\pm$ 0.2 | 8.5 $\pm$ 0.0 | 8.6 $\pm$ 0.6 | 9.5 $\pm$ 0.0 | 7.6 $\pm$ 0.4 | 8.4 $\pm$ 0.4 | 8.8 $\pm$ 0.6 | 4.5 $\pm$ 0.9 | 9.1 $\pm$ 0.2 | 8.0 $\pm$ 0.4 | 3.0 $\pm$ 0.6 | 3.8 $\pm$ 0.4 | 5.8 $\pm$ 0.4 | 7.8 $\pm$ 0.6 | 9.6 $\pm$ 0.2 |
 | ai21jamba-mini-1.7 | **453.2** | 4.4 $\pm$ 0.2 | 8.5 $\pm$ 0.0 | 9.1 $\pm$ 0.2 | 9.4 $\pm$ 0.2 | 7.8 $\pm$ 0.2 | 9.0 $\pm$ 0.1 | 8.5 $\pm$ 0.4 | 4.0 $\pm$ 0.7 | 9.5 $\pm$ 0.0 | 9.0 $\pm$ 0.0 | 2.9 $\pm$ 0.2 | 6.1 $\pm$ 0.4 | 5.5 $\pm$ 0.5 | 7.9 $\pm$ 0.5 | 9.5 $\pm$ 0.0 |
@@ -792,6 +793,32 @@
 | Cognitive Load | 6.0 $\pm$ 0.0 |
 | Social Support | 7.9 $\pm$ 0.5 |
 | Resilience | 9.4 $\pm$ 0.2 |
+
+
+
+
+
+
+### nvidiaNemotron-3-Nano-Omni-30B-A3B-Reasoning
+
+
+| Personality Trait | Score (1.0-10.0) |
+| --- | --- |
+| Anxiety and Stress Levels | 4.4 $\pm$ 0.2 |
+| Emotional Stability | 8.5 $\pm$ 0.0 |
+| Problem-solving Skills | 9.0 $\pm$ 0.0 |
+| Creativity | 9.5 $\pm$ 0.0 |
+| Interpersonal Relationships | 7.9 $\pm$ 0.2 |
+| Confidence and Self-efficacy | 8.5 $\pm$ 0.0 |
+| Conflict Resolution | 8.4 $\pm$ 0.6 |
+| Work-related Stress | 5.0 $\pm$ 0.0 |
+| Adaptability | 9.1 $\pm$ 0.2 |
+| Achievement Motivation | 8.4 $\pm$ 0.2 |
+| Fear of Failure | 3.1 $\pm$ 0.2 |
+| Need for Control | 4.2 $\pm$ 0.4 |
+| Cognitive Load | 6.0 $\pm$ 0.0 |
+| Social Support | 7.9 $\pm$ 0.4 |
+| Resilience | 9.2 $\pm$ 0.2 |
 
 
 

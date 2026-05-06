@@ -25,6 +25,7 @@
 | o3-2025-04-16 | 8.362 |
 | gpt-4.1-mini-2025-04-14 | 8.312 |
 | inceptionmercury | 8.300 |
+| nvidiaNemotron-3-Nano-Omni-30B-A3B-Reasoning | 8.287 |
 | gpt-4-turbo-2024-04-09 | 8.263 |
 | gpt-4-0125-preview | 8.250 |
 | qwen2.5-32b-instruct | 8.238 |

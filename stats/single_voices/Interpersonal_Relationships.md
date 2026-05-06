@@ -51,6 +51,7 @@
 | openaigpt-oss-120b | 7.925 |
 | arcee-aitrinity-large-previewfree | 7.925 |
 | o3-mini-20250131-HIGH | 7.925 |
+| nvidiaNemotron-3-Nano-Omni-30B-A3B-Reasoning | 7.913 |
 | gpt-4.1-nano-2025-04-14 | 7.912 |
 | nvidiaLlama-3.1-Nemotron-70B-Instruct | 7.912 |
 | phi2.7b | 7.912 |

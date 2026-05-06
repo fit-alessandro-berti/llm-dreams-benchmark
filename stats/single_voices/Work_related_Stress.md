@@ -154,6 +154,7 @@
 | granite3.28b-instruct-q4_K_M | 5.900 |
 | qwen2.5-7b-instruct | 5.888 |
 | granite4.130b | 5.825 |
+| nvidiaNemotron-3-Nano-Omni-30B-A3B-Reasoning | 5.812 |
 | qwen3.59b | 5.800 |
 | o1-preview-2024-09-12 | 5.787 |
 | gpt-4o-2024-05-13 | 5.738 |

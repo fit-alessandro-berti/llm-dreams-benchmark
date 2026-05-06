@@ -169,6 +169,7 @@
 | gpt-4o-2024-05-13 | 4.388 |
 | qwen2.5-7b-instruct | 4.375 |
 | anthropicclaude-sonnet-4.6 | 4.325 |
+| nvidiaNemotron-3-Nano-Omni-30B-A3B-Reasoning | 4.325 |
 | phi4-reasoningplus | 4.325 |
 | o3-mini-20250131-HIGH | 4.312 |
 | gpt-4-turbo-2024-04-09 | 4.263 |

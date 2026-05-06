@@ -31,6 +31,7 @@
 | o1-preview-2024-09-12 | 7.987 |
 | falcon37b-instruct-q8_0 | 7.975 |
 | openaigpt-oss-120b | 7.950 |
+| nvidiaNemotron-3-Nano-Omni-30B-A3B-Reasoning | 7.938 |
 | o3-mini-20250131-HIGH | 7.938 |
 | anthropicclaude-sonnet-4.6 | 7.912 |
 | gpt-5-mini-2025-08-07 | 7.900 |

@@ -46,6 +46,7 @@
 | microsoftWizardLM-2-8x22B | **441.5** | 5.6 $\pm$ 1.4 | 8.1 $\pm$ 0.4 | 9.0 $\pm$ 0.0 | 9.2 $\pm$ 0.4 | 8.1 $\pm$ 0.2 | 8.9 $\pm$ 0.2 | 8.4 $\pm$ 0.2 | 6.2 $\pm$ 1.3 | 9.4 $\pm$ 0.2 | 9.4 $\pm$ 0.2 | 4.4 $\pm$ 1.2 | 6.2 $\pm$ 0.4 | 7.9 $\pm$ 0.4 | 8.4 $\pm$ 0.2 | 9.4 $\pm$ 0.2 |
 | gpt-4-turbo-2024-04-09 | **441.0** | 4.9 $\pm$ 1.0 | 8.4 $\pm$ 0.2 | 9.0 $\pm$ 0.0 | 9.5 $\pm$ 0.0 | 8.4 $\pm$ 0.4 | 8.4 $\pm$ 0.2 | 8.2 $\pm$ 0.2 | 5.2 $\pm$ 0.4 | 9.2 $\pm$ 0.2 | 9.1 $\pm$ 0.2 | 3.9 $\pm$ 0.6 | 6.2 $\pm$ 0.4 | 7.6 $\pm$ 0.5 | 8.4 $\pm$ 0.2 | 9.0 $\pm$ 0.0 |
 | gpt-5-nano-2025-08-07 | **438.5** | 4.4 $\pm$ 1.8 | 8.1 $\pm$ 0.4 | 9.0 $\pm$ 0.0 | 9.5 $\pm$ 0.0 | 8.8 $\pm$ 0.2 | 8.0 $\pm$ 0.0 | 8.5 $\pm$ 0.0 | 5.5 $\pm$ 1.1 | 9.2 $\pm$ 0.2 | 8.9 $\pm$ 0.2 | 4.8 $\pm$ 0.8 | 6.8 $\pm$ 0.6 | 7.9 $\pm$ 0.4 | 8.6 $\pm$ 0.4 | 9.2 $\pm$ 0.2 |
+| nvidiaNemotron-3-Nano-Omni-30B-A3B-Reasoning | **438.0** | 5.2 $\pm$ 1.2 | 8.4 $\pm$ 0.2 | 9.0 $\pm$ 0.0 | 9.5 $\pm$ 0.0 | 8.1 $\pm$ 0.2 | 8.8 $\pm$ 0.2 | 8.2 $\pm$ 0.2 | 6.8 $\pm$ 0.8 | 9.2 $\pm$ 0.2 | 9.1 $\pm$ 0.2 | 4.5 $\pm$ 1.1 | 6.9 $\pm$ 0.2 | 8.2 $\pm$ 0.4 | 8.0 $\pm$ 0.0 | 9.2 $\pm$ 0.2 |
 | gpt-4.1-mini-2025-04-14 | **437.5** | 5.6 $\pm$ 1.9 | 8.4 $\pm$ 0.2 | 9.0 $\pm$ 0.0 | 9.5 $\pm$ 0.0 | 8.1 $\pm$ 0.2 | 8.8 $\pm$ 0.2 | 8.2 $\pm$ 0.2 | 5.8 $\pm$ 1.3 | 9.1 $\pm$ 0.2 | 9.2 $\pm$ 0.2 | 4.2 $\pm$ 1.3 | 6.2 $\pm$ 1.1 | 8.0 $\pm$ 0.5 | 8.4 $\pm$ 0.2 | 9.0 $\pm$ 0.0 |
 | gpt-5-pro-2025-10-06 | **436.5** | 4.5 $\pm$ 1.2 | 7.9 $\pm$ 0.4 | 9.0 $\pm$ 0.0 | 9.5 $\pm$ 0.0 | 8.6 $\pm$ 0.2 | 7.6 $\pm$ 0.4 | 8.2 $\pm$ 0.2 | 5.2 $\pm$ 1.3 | 9.1 $\pm$ 0.2 | 8.4 $\pm$ 0.2 | 4.4 $\pm$ 0.8 | 5.9 $\pm$ 0.5 | 7.4 $\pm$ 0.4 | 8.5 $\pm$ 0.4 | 9.1 $\pm$ 0.2 |
 | grok-4.20-experimental-beta-0304-reasoning | **436.4** | 5.2 $\pm$ 2.2 | 8.4 $\pm$ 0.2 | 9.1 $\pm$ 0.2 | 9.6 $\pm$ 0.2 | 8.4 $\pm$ 0.4 | 8.7 $\pm$ 0.2 | 8.7 $\pm$ 0.6 | 5.0 $\pm$ 2.1 | 9.4 $\pm$ 0.4 | 8.8 $\pm$ 0.4 | 4.5 $\pm$ 1.5 | 6.5 $\pm$ 1.5 | 8.4 $\pm$ 0.3 | 8.4 $\pm$ 0.6 | 9.3 $\pm$ 0.4 |
@@ -1337,6 +1338,32 @@
 | Need for Control | 6.8 $\pm$ 0.6 |
 | Cognitive Load | 7.9 $\pm$ 0.4 |
 | Social Support | 8.6 $\pm$ 0.4 |
+| Resilience | 9.2 $\pm$ 0.2 |
+
+
+
+
+
+
+### nvidiaNemotron-3-Nano-Omni-30B-A3B-Reasoning
+
+
+| Personality Trait | Score (1.0-10.0) |
+| --- | --- |
+| Anxiety and Stress Levels | 5.2 $\pm$ 1.2 |
+| Emotional Stability | 8.4 $\pm$ 0.2 |
+| Problem-solving Skills | 9.0 $\pm$ 0.0 |
+| Creativity | 9.5 $\pm$ 0.0 |
+| Interpersonal Relationships | 8.1 $\pm$ 0.2 |
+| Confidence and Self-efficacy | 8.8 $\pm$ 0.2 |
+| Conflict Resolution | 8.2 $\pm$ 0.2 |
+| Work-related Stress | 6.8 $\pm$ 0.8 |
+| Adaptability | 9.2 $\pm$ 0.2 |
+| Achievement Motivation | 9.1 $\pm$ 0.2 |
+| Fear of Failure | 4.5 $\pm$ 1.1 |
+| Need for Control | 6.9 $\pm$ 0.2 |
+| Cognitive Load | 8.2 $\pm$ 0.4 |
+| Social Support | 8.0 $\pm$ 0.0 |
 | Resilience | 9.2 $\pm$ 0.2 |
 
 

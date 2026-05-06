@@ -53,6 +53,7 @@
 | deepseekdeepseek-v3.2 | 8.950 |
 | gpt-4.1-mini-2025-04-14 | 8.950 |
 | gpt-5-2025-08-07 | 8.950 |
+| nvidiaNemotron-3-Nano-Omni-30B-A3B-Reasoning | 8.950 |
 | openaigpt-5.4-mini | 8.950 |
 | openaigpt-oss-120b | 8.950 |
 | gemini-2.5-pro-preview-06-05 | 8.938 |

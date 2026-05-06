@@ -71,6 +71,7 @@
 | qwenqwen3-max | 8.912 |
 | bytedance-seedseed-2.0-mini | 8.900 |
 | amazonnova-2-lite-v1 | 8.900 |
+| nvidiaNemotron-3-Nano-Omni-30B-A3B-Reasoning | 8.900 |
 | o1-2024-12-05 | 8.900 |
 | openaigpt-5.4 | 8.887 |
 | phi4-reasoning | 8.887 |

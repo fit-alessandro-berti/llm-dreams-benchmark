@@ -49,6 +49,7 @@
 | openaigpt-oss-120b | 8.675 |
 | gpt-4o-2024-08-06 | 8.662 |
 | nvidianemotron-3-nano-30b-a3bfree | 8.662 |
+| nvidiaNemotron-3-Nano-Omni-30B-A3B-Reasoning | 8.662 |
 | o1-pro-2024-12-05 | 8.662 |
 | o4-mini-2025-04-16 | 8.662 |
 | Grok-4.30-20260420 | 8.650 |

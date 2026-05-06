@@ -132,6 +132,7 @@
 | falcon37b-instruct-q8_0 | 9.450 |
 | gpt-4o-mini-2024-07-18 | 9.450 |
 | microsoftPhi-3-medium-4k-instruct | 9.450 |
+| nvidiaNemotron-3-Nano-Omni-30B-A3B-Reasoning | 9.450 |
 | o1-2024-12-17 | 9.450 |
 | o1-preview-2024-09-12 | 9.450 |
 | gpt-4-0613 | 9.438 |

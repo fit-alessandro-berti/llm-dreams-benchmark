@@ -156,6 +156,7 @@
 | liquidlfm-2.2-6b | 7.112 |
 | gpt-3.5-turbo | 7.112 |
 | granite4small-h | 7.088 |
+| nvidiaNemotron-3-Nano-Omni-30B-A3B-Reasoning | 7.088 |
 | qwen2.5-72b-instruct | 7.075 |
 | ChatGPT-5.1-Instant-20251113 | 7.062 |
 | liquidlfm2-8b-a1b | 7.062 |

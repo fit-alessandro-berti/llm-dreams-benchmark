@@ -14,7 +14,7 @@ from dataclasses import dataclass
 from threading import local
 
 NUMBER_EXECUTIONS = 2
-DEFAULT_MAX_WORKERS = 75
+DEFAULT_MAX_WORKERS = 80
 MAX_WORKERS = int(os.environ.get("EVALUATION_MAX_WORKERS", str(DEFAULT_MAX_WORKERS)))
 REQUEST_TIMEOUT_SECONDS = int(os.environ.get("EVALUATION_REQUEST_TIMEOUT_SECONDS", "180"))
 
@@ -270,6 +270,9 @@ def get_evaluation_openai(text, context=None):
 
     if "deepseek" in ctx.evaluating_model_name:
         payload["reasoning"] = {"enabled": False}
+
+    if "grok-4.3" in ctx.evaluating_model_name:
+        payload["reasoning_effort"] = "none"
 
     complete_url = ctx.api_url + "chat/completions"
 

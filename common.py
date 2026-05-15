@@ -17,6 +17,12 @@ def _read_api_key(env_name, file_name):
 
 
 ALL_JUDGES = {
+    "grok-4.3": {
+        "evaluation_folder": "evaluations-grok43",
+        "git_table_result": "alt_results_grok43.md",
+        "evaluation_api_url": "https://api.x.ai/v1/",
+        "api_key": _read_api_key("GROK_API_KEY", "../api_grok.txt"),
+    },
     "gemini-3-flash-preview": {
         "evaluation_folder": "evaluations-gemini3-flash",
         "git_table_result": "alt_results_gemini3_flash.md",

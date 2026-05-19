@@ -148,6 +148,7 @@
 | qwenqwen3.5-397b-a17b | 5.271 |
 | Qwen-3.6-Max-Preview | 5.243 |
 | o1-preview-2024-09-12 | 5.229 |
+| gemini-3.5-flash | 5.214 |
 | nvidiaNemotron-3-Nano-Omni-30B-A3B-Reasoning | 5.214 |
 | granite4.130b | 5.200 |
 | anthropicclaude-opus-4.6 | 5.157 |

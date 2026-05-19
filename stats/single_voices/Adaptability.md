@@ -53,6 +53,7 @@
 | openaigpt-oss-120b | 9.057 |
 | qwen3.59b | 9.057 |
 | Meta-Muse-Spark-20260409 | 9.057 |
+| gemini-3.5-flash | 9.043 |
 | Grok-4-fast-20251111 | 9.043 |
 | gemma-4-31b-it | 9.029 |
 | gpt-4.1-mini-2025-04-14 | 9.029 |

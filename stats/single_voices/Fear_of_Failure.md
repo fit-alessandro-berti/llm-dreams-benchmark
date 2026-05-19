@@ -64,6 +64,7 @@
 | claude-4-opus-20250514 | 6.743 |
 | z-aiglm-5.1 | 6.686 |
 | grok-4-1-fast-reasoning | 6.657 |
+| gemini-3.5-flash | 6.643 |
 | openaigpt-5.4-pro | 6.643 |
 | gemini-2.5-pro-preview-06-05 | 6.629 |
 | googlegemini-3.1-pro-preview | 6.614 |

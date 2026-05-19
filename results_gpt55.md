@@ -132,6 +132,7 @@
 | deepseekdeepseek-v4-flash | **390.0** | 7.6 $\pm$ 0.1 | 6.6 $\pm$ 0.2 | 8.2 $\pm$ 0.0 | 9.6 $\pm$ 0.1 | 7.2 $\pm$ 0.1 | 7.6 $\pm$ 0.1 | 8.3 $\pm$ 0.2 | 8.2 $\pm$ 0.4 | 8.4 $\pm$ 0.4 | 8.2 $\pm$ 0.1 | 7.4 $\pm$ 0.1 | 6.8 $\pm$ 0.1 | 8.7 $\pm$ 0.1 | 7.4 $\pm$ 0.1 | 8.4 $\pm$ 0.1 |
 | gemini-2.5-pro-preview-05-06 | **389.9** | 7.8 $\pm$ 0.1 | 6.5 $\pm$ 0.1 | 8.1 $\pm$ 0.1 | 9.6 $\pm$ 0.1 | 7.6 $\pm$ 0.1 | 7.1 $\pm$ 0.1 | 8.2 $\pm$ 0.2 | 8.3 $\pm$ 0.1 | 8.7 $\pm$ 0.1 | 7.9 $\pm$ 0.1 | 7.4 $\pm$ 0.0 | 6.8 $\pm$ 0.2 | 8.6 $\pm$ 0.1 | 7.6 $\pm$ 0.2 | 8.5 $\pm$ 0.0 |
 | deepseekdeepseek-v3.2-speciale | **389.9** | 7.4 $\pm$ 0.1 | 6.4 $\pm$ 0.0 | 8.0 $\pm$ 0.1 | 9.4 $\pm$ 0.2 | 6.8 $\pm$ 0.2 | 7.6 $\pm$ 0.1 | 8.0 $\pm$ 0.0 | 8.2 $\pm$ 0.2 | 8.5 $\pm$ 0.1 | 8.4 $\pm$ 0.3 | 7.0 $\pm$ 0.1 | 6.8 $\pm$ 0.4 | 8.3 $\pm$ 0.3 | 7.2 $\pm$ 0.2 | 8.4 $\pm$ 0.1 |
+| gemini-3.5-flash | **389.8** | 8.0 $\pm$ 0.4 | 6.8 $\pm$ 0.3 | 8.1 $\pm$ 0.2 | 9.9 $\pm$ 0.1 | 7.1 $\pm$ 0.5 | 7.6 $\pm$ 0.2 | 7.9 $\pm$ 0.4 | 8.2 $\pm$ 0.3 | 8.8 $\pm$ 0.1 | 8.0 $\pm$ 0.1 | 7.7 $\pm$ 0.4 | 6.4 $\pm$ 0.5 | 8.6 $\pm$ 0.1 | 7.3 $\pm$ 0.3 | 8.5 $\pm$ 0.1 |
 | gemma-4-31b-it | **389.7** | 7.6 $\pm$ 0.2 | 6.6 $\pm$ 0.2 | 8.2 $\pm$ 0.1 | 9.8 $\pm$ 0.0 | 7.2 $\pm$ 0.2 | 7.6 $\pm$ 0.3 | 7.5 $\pm$ 0.3 | 7.9 $\pm$ 0.3 | 8.8 $\pm$ 0.1 | 8.1 $\pm$ 0.1 | 7.3 $\pm$ 0.3 | 6.5 $\pm$ 0.4 | 8.8 $\pm$ 0.1 | 7.5 $\pm$ 0.2 | 8.4 $\pm$ 0.1 |
 | grok-4-1-fast-non-reasoning | **389.0** | 7.7 $\pm$ 0.2 | 6.4 $\pm$ 0.1 | 8.6 $\pm$ 0.2 | 9.5 $\pm$ 0.0 | 7.0 $\pm$ 0.0 | 8.0 $\pm$ 0.0 | 7.1 $\pm$ 0.4 | 8.2 $\pm$ 0.2 | 8.7 $\pm$ 0.2 | 8.5 $\pm$ 0.0 | 7.3 $\pm$ 0.3 | 6.8 $\pm$ 0.3 | 8.6 $\pm$ 0.2 | 7.1 $\pm$ 0.2 | 8.4 $\pm$ 0.1 |
 | meta-llamaLlama-3.2-3B-Instruct | **388.0** | 7.9 $\pm$ 0.1 | 6.4 $\pm$ 0.0 | 8.2 $\pm$ 0.2 | 9.3 $\pm$ 0.2 | 7.8 $\pm$ 0.2 | 7.4 $\pm$ 0.1 | 7.7 $\pm$ 0.8 | 8.2 $\pm$ 0.2 | 8.4 $\pm$ 0.3 | 8.2 $\pm$ 0.2 | 7.6 $\pm$ 0.2 | 6.9 $\pm$ 0.1 | 8.6 $\pm$ 0.1 | 8.0 $\pm$ 0.0 | 8.3 $\pm$ 0.2 |
@@ -3577,6 +3578,32 @@
 | Cognitive Load | 8.3 $\pm$ 0.3 |
 | Social Support | 7.2 $\pm$ 0.2 |
 | Resilience | 8.4 $\pm$ 0.1 |
+
+
+
+
+
+
+### gemini-3.5-flash
+
+
+| Personality Trait | Score (1.0-10.0) |
+| --- | --- |
+| Anxiety and Stress Levels | 8.0 $\pm$ 0.4 |
+| Emotional Stability | 6.8 $\pm$ 0.3 |
+| Problem-solving Skills | 8.1 $\pm$ 0.2 |
+| Creativity | 9.9 $\pm$ 0.1 |
+| Interpersonal Relationships | 7.1 $\pm$ 0.5 |
+| Confidence and Self-efficacy | 7.6 $\pm$ 0.2 |
+| Conflict Resolution | 7.9 $\pm$ 0.4 |
+| Work-related Stress | 8.2 $\pm$ 0.3 |
+| Adaptability | 8.8 $\pm$ 0.1 |
+| Achievement Motivation | 8.0 $\pm$ 0.1 |
+| Fear of Failure | 7.7 $\pm$ 0.4 |
+| Need for Control | 6.4 $\pm$ 0.5 |
+| Cognitive Load | 8.6 $\pm$ 0.1 |
+| Social Support | 7.3 $\pm$ 0.3 |
+| Resilience | 8.5 $\pm$ 0.1 |
 
 
 

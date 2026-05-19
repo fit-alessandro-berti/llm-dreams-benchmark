@@ -170,6 +170,7 @@
 | gemini-2.5-pro-exp-03-25 | 7.900 |
 | xiaomimimo-v2-omni | 7.900 |
 | gemini-2.0-flash-exp | 7.886 |
+| gemini-3.5-flash | 7.871 |
 | gemma-4-26b-a4b-it | 7.871 |
 | gpt-5-pro-2025-10-06 | 7.871 |
 | qwen3.59b | 7.857 |

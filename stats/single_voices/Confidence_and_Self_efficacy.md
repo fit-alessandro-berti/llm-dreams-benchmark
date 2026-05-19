@@ -107,6 +107,7 @@
 | gpt-5.5-2026-04-23 | 7.657 |
 | gemini-1.5-flash-002 | 7.643 |
 | inclusionailing-2.6-1tfree | 7.643 |
+| gemini-3.5-flash | 7.643 |
 | gpt-4-1106-preview | 7.629 |
 | gpt-5-chat-latest-2025-08-19 | 7.629 |
 | openaigpt-5.3-codex | 7.629 |

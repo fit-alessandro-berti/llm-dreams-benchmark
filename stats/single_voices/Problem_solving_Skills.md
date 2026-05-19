@@ -121,6 +121,7 @@
 | gpt-5.2-2025-12-11 | 8.357 |
 | mistral-medium-3.5 | 8.357 |
 | qwen3.635b-a3b | 8.357 |
+| gemini-3.5-flash | 8.343 |
 | anthropicclaude-opus-4.6 | 8.329 |
 | claude-opus-4-5-20251101 | 8.329 |
 | gemma-3-27b-it | 8.314 |

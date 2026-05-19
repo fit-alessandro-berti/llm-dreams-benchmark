@@ -156,6 +156,7 @@
 | chatgpt-4o-latest-2024-11-20 | 7.029 |
 | Gpt-5.1-Pro-20251120 | 7.014 |
 | qwenqwen3.5-27b | 7.000 |
+| gemini-3.5-flash | 7.000 |
 | writerpalmyra-x5 | 6.986 |
 | deepseekdeepseek-v4-flash | 6.929 |
 | gpt-5.2-2025-12-11 | 6.929 |

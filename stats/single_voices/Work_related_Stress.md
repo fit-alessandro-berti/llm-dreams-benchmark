@@ -58,6 +58,7 @@
 | baiduernie-4.5-21b-a3b | 7.714 |
 | gemini-2.5-pro-preview-05-06 | 7.671 |
 | deepseekdeepseek-v4-flash | 7.671 |
+| gemini-3.5-flash | 7.671 |
 | z-aiglm-5.1 | 7.657 |
 | grok-4.20-experimental-beta-0304-non-reasoning | 7.629 |
 | grok-4-1-fast-non-reasoning | 7.614 |

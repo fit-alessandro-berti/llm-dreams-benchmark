@@ -16,6 +16,7 @@
 | Grok-4.30-20260420 | 9.771 |
 | qwenqwen3-next-80b-a3b-instruct | 9.757 |
 | gemini-3-pro-preview | 9.743 |
+| gemini-3.5-flash | 9.743 |
 | grok-4.20-experimental-beta-0304-reasoning | 9.743 |
 | openaigpt-oss-120b | 9.743 |
 | qwenqwen3.5-122b-a10b | 9.743 |

@@ -108,6 +108,7 @@
 | claude-3-7-sonnet-20250219 | 7.029 |
 | liquidlfm-2-24b-a2b | 6.986 |
 | chatgpt-4o-latest-2025-03-26 | 6.971 |
+| gemini-3.5-flash | 6.971 |
 | allenaiolmo-3-7b-instruct | 6.929 |
 | falcon33b-instruct-q8_0 | 6.929 |
 | liquidlfm-2.5-1.2b-thinkingfree | 6.929 |

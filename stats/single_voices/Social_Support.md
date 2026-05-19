@@ -140,6 +140,7 @@
 | moonshotaikimi-k2.5 | 7.043 |
 | gemini-2.5-pro-preview-06-05 | 7.014 |
 | gemini-3-flash-preview | 6.986 |
+| gemini-3.5-flash | 6.957 |
 | qwenqwen3.5-122b-a10b | 6.957 |
 | qwenqwen3.5-27b | 6.957 |
 | gemma-4-31b-it | 6.943 |

@@ -114,6 +114,7 @@
 | phi2.7b | 8.771 |
 | bytedance-seedseed-2.0-lite | 8.771 |
 | baiduernie-4.5-21b-a3b | 8.757 |
+| gemini-3.5-flash | 8.757 |
 | gemini-2.5-flash-lite | 8.743 |
 | grok-4.20-experimental-beta-0304-reasoning | 8.743 |
 | liquidlfm-2-24b-a2b | 8.743 |

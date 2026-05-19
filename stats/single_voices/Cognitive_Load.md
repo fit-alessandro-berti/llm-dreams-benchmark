@@ -86,6 +86,7 @@
 | gpt-5.3-codex-spark-low | 7.843 |
 | phi3.53.8b-mini-instruct-fp16 | 7.829 |
 | falcon33b-instruct-q8_0 | 7.814 |
+| gemini-3.5-flash | 7.800 |
 | nousresearchhermes-4-70b | 7.800 |
 | granite3.28b-instruct-q4_K_M | 7.786 |
 | inclusionailing-2.6-1tfree | 7.786 |

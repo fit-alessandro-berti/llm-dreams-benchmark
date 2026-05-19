@@ -66,6 +66,7 @@
 | gemini-3-flash-preview | 7.386 |
 | qwenqwen3-max | 7.386 |
 | googlegemini-3.1-pro-preview | 7.314 |
+| gemini-3.5-flash | 7.300 |
 | grok-4-1-fast-reasoning | 7.300 |
 | anthropicclaude-opus-4.1 | 7.271 |
 | nousresearchhermes-4-70b | 7.257 |

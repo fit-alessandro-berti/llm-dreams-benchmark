@@ -114,6 +114,7 @@
 | gemini-3-flash-preview | 8.114 |
 | openrouterowl-alpha | 8.100 |
 | claude-opus-4-5-20251101 | 8.086 |
+| gemini-3.5-flash | 8.086 |
 | openaigpt-oss-20b | 8.071 |
 | openaigpt-5.4-nano | 8.043 |
 | poolsidelaguna-m.1free | 8.014 |

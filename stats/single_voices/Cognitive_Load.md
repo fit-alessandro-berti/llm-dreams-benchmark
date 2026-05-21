@@ -37,6 +37,7 @@
 | openaigpt-5.4-nano | 8.286 |
 | meta-llamallama-4-maverick | 8.271 |
 | Gpt-5.1-Pro-20251120 | 8.243 |
+| qwenqwen3.7-max | 8.243 |
 | gemma-4-26b-a4b-it | 8.229 |
 | qwen3.50.8b | 8.229 |
 | Grok-4.1-20251118 | 8.214 |

@@ -48,6 +48,7 @@
 | meta-llamaMeta-Llama-3.1-405B-Instruct | 7.057 |
 | anthropicclaude-opus-4.1 | 7.014 |
 | openaigpt-5.4 | 7.014 |
+| qwenqwen3.7-max | 7.014 |
 | granite4tiny-h | 6.986 |
 | grok-4.20-experimental-beta-0304-non-reasoning | 6.971 |
 | arcee-aitrinity-large-thinking | 6.929 |

@@ -129,6 +129,7 @@
 | chatgpt-4o-latest-2025-03-26 | 8.300 |
 | ChatGPT-5.1-Instant-20251113 | 8.300 |
 | gpt-5.2-pro-2025-12-11 | 8.300 |
+| qwenqwen3.7-max | 8.300 |
 | openaigpt-5.4 | 8.286 |
 | prime-intellectintellect-3 | 8.286 |
 | o3-mini-20250131-HIGH | 8.271 |

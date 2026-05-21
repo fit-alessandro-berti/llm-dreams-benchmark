@@ -166,6 +166,7 @@
 | grok-4-0709 | 6.886 |
 | claude-3-5-sonnet-20241022 | 6.871 |
 | mistral-medium-3.5 | 6.871 |
+| qwenqwen3.7-max | 6.843 |
 | tencenthy3-previewfree | 6.829 |
 | allenaiolmo-3-7b-think | 6.829 |
 | gpt-4o-mini-2024-11-05 | 6.814 |

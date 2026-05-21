@@ -112,6 +112,7 @@
 | liquidlfm2-8b-a1b | 8.143 |
 | gpt-5-chat-latest-2025-08-19 | 8.129 |
 | gemini-3-flash-preview | 8.114 |
+| qwenqwen3.7-max | 8.114 |
 | openrouterowl-alpha | 8.100 |
 | claude-opus-4-5-20251101 | 8.086 |
 | gemini-3.5-flash | 8.086 |

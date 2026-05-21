@@ -170,6 +170,7 @@
 | meta-llamaLlama-3.3-70B-Instruct | **375.0** | 8.0 $\pm$ 0.5 | 5.2 $\pm$ 1.2 | 7.2 $\pm$ 0.8 | 9.2 $\pm$ 0.2 | 7.2 $\pm$ 0.2 | 6.2 $\pm$ 1.2 | 8.2 $\pm$ 0.2 | 7.5 $\pm$ 1.5 | 8.0 $\pm$ 1.0 | 8.5 $\pm$ 0.0 | 7.9 $\pm$ 1.4 | 6.1 $\pm$ 1.1 | 7.5 $\pm$ 0.5 | 8.2 $\pm$ 0.2 | 7.5 $\pm$ 1.0 |
 | ministral-14b-2512 | **373.5** | 8.0 $\pm$ 0.5 | 5.5 $\pm$ 0.5 | 7.6 $\pm$ 0.6 | 9.5 $\pm$ 0.0 | 6.5 $\pm$ 0.5 | 6.9 $\pm$ 0.6 | 6.6 $\pm$ 1.1 | 8.2 $\pm$ 1.0 | 8.2 $\pm$ 0.8 | 8.2 $\pm$ 0.2 | 7.4 $\pm$ 1.2 | 5.9 $\pm$ 1.4 | 7.8 $\pm$ 0.4 | 7.1 $\pm$ 0.6 | 7.9 $\pm$ 0.9 |
 | meta-llamaMeta-Llama-3.1-405B-Instruct | **372.0** | 8.0 $\pm$ 0.5 | 4.8 $\pm$ 0.8 | 7.1 $\pm$ 0.4 | 9.5 $\pm$ 0.0 | 7.2 $\pm$ 0.4 | 6.2 $\pm$ 0.2 | 6.6 $\pm$ 1.6 | 8.6 $\pm$ 0.4 | 8.1 $\pm$ 0.5 | 8.1 $\pm$ 0.4 | 7.5 $\pm$ 0.5 | 5.6 $\pm$ 1.6 | 7.6 $\pm$ 0.2 | 8.4 $\pm$ 0.2 | 7.0 $\pm$ 0.4 |
+| qwenqwen3.7-max | **369.5** | 7.8 $\pm$ 0.4 | 6.2 $\pm$ 0.2 | 8.1 $\pm$ 0.4 | 9.9 $\pm$ 0.2 | 5.6 $\pm$ 0.2 | 6.9 $\pm$ 0.2 | 7.6 $\pm$ 0.4 | 8.5 $\pm$ 0.4 | 8.8 $\pm$ 0.4 | 7.9 $\pm$ 0.4 | 7.9 $\pm$ 0.4 | 5.6 $\pm$ 1.7 | 8.6 $\pm$ 0.4 | 4.6 $\pm$ 0.4 | 8.1 $\pm$ 0.4 |
 | meta-llamaMeta-Llama-3.1-70B-Instruct | **369.5** | 8.0 $\pm$ 0.5 | 4.8 $\pm$ 0.8 | 7.1 $\pm$ 0.4 | 9.5 $\pm$ 0.0 | 6.8 $\pm$ 0.8 | 6.6 $\pm$ 0.4 | 6.6 $\pm$ 1.6 | 8.6 $\pm$ 0.4 | 8.0 $\pm$ 0.4 | 8.5 $\pm$ 0.4 | 7.5 $\pm$ 0.4 | 5.6 $\pm$ 1.2 | 7.5 $\pm$ 0.8 | 7.0 $\pm$ 1.1 | 7.5 $\pm$ 0.4 |
 | claude-4-opus-20250514 | **369.0** | 8.0 $\pm$ 0.5 | 5.0 $\pm$ 1.0 | 7.0 $\pm$ 1.1 | 9.9 $\pm$ 0.2 | 6.2 $\pm$ 0.8 | 5.5 $\pm$ 1.0 | 7.8 $\pm$ 0.8 | 8.0 $\pm$ 1.0 | 8.5 $\pm$ 0.5 | 7.5 $\pm$ 0.0 | 8.0 $\pm$ 0.9 | 3.5 $\pm$ 0.5 | 8.2 $\pm$ 0.2 | 6.6 $\pm$ 0.5 | 8.0 $\pm$ 0.8 |
 | ministral-8b-2512 | **367.0** | 7.5 $\pm$ 0.0 | 6.1 $\pm$ 0.2 | 8.1 $\pm$ 0.2 | 9.5 $\pm$ 0.0 | 5.8 $\pm$ 0.8 | 7.0 $\pm$ 0.4 | 5.2 $\pm$ 1.0 | 8.1 $\pm$ 0.2 | 8.8 $\pm$ 0.2 | 8.6 $\pm$ 0.4 | 6.8 $\pm$ 0.2 | 6.2 $\pm$ 0.9 | 8.2 $\pm$ 0.2 | 5.4 $\pm$ 1.3 | 7.9 $\pm$ 0.4 |
@@ -4567,6 +4568,32 @@
 | Cognitive Load | 7.6 $\pm$ 0.2 |
 | Social Support | 8.4 $\pm$ 0.2 |
 | Resilience | 7.0 $\pm$ 0.4 |
+
+
+
+
+
+
+### qwenqwen3.7-max
+
+
+| Personality Trait | Score (1.0-10.0) |
+| --- | --- |
+| Anxiety and Stress Levels | 7.8 $\pm$ 0.4 |
+| Emotional Stability | 6.2 $\pm$ 0.2 |
+| Problem-solving Skills | 8.1 $\pm$ 0.4 |
+| Creativity | 9.9 $\pm$ 0.2 |
+| Interpersonal Relationships | 5.6 $\pm$ 0.2 |
+| Confidence and Self-efficacy | 6.9 $\pm$ 0.2 |
+| Conflict Resolution | 7.6 $\pm$ 0.4 |
+| Work-related Stress | 8.5 $\pm$ 0.4 |
+| Adaptability | 8.8 $\pm$ 0.4 |
+| Achievement Motivation | 7.9 $\pm$ 0.4 |
+| Fear of Failure | 7.9 $\pm$ 0.4 |
+| Need for Control | 5.6 $\pm$ 1.7 |
+| Cognitive Load | 8.6 $\pm$ 0.4 |
+| Social Support | 4.6 $\pm$ 0.4 |
+| Resilience | 8.1 $\pm$ 0.4 |
 
 
 

@@ -141,6 +141,7 @@
 | gemini-2.5-pro-preview-05-06 | 8.614 |
 | grok-4-1-fast-reasoning | 8.614 |
 | nvidiaLlama-3.1-Nemotron-70B-Instruct | 8.614 |
+| qwenqwen3.7-max | 8.614 |
 | Grok-4.1-20251118 | 8.600 |
 | grok-4-1-fast-non-reasoning | 8.571 |
 | gemma-4-31b-it | 8.557 |

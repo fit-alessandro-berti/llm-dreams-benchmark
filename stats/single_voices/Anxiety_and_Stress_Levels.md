@@ -60,6 +60,7 @@
 | gemini-1.5-flash-8b | 7.471 |
 | poolsidelaguna-m.1free | 7.471 |
 | mistral-medium-3.5 | 7.457 |
+| qwenqwen3.7-max | 7.457 |
 | smollm21.7b-instruct-q6_K | 7.429 |
 | deepseekdeepseek-v4-flash | 7.414 |
 | grok-4-0709 | 7.400 |

@@ -10,6 +10,7 @@
 | gemma-4-26b-a4b-it | 9.843 |
 | moonshotaikimi-k2.5 | 9.843 |
 | qwenqwen3.6-plusfree | 9.829 |
+| qwenqwen3.7-max | 9.829 |
 | claude-4-opus-20250514 | 9.814 |
 | moonshotaikimi-k2.6 | 9.814 |
 | anthropicclaude-opus-4.1 | 9.786 |

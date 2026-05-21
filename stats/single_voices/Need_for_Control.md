@@ -86,6 +86,7 @@
 | gemini-1.5-flash-8b | 5.943 |
 | granite4small-h | 5.943 |
 | minimaxminimax-m2.5 | 5.929 |
+| qwenqwen3.7-max | 5.929 |
 | grok-4-0709 | 5.914 |
 | phi3.53.8b-mini-instruct-fp16 | 5.900 |
 | qwen2.5-14b-instruct | 5.886 |

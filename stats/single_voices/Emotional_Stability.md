@@ -127,6 +127,7 @@
 | llama213b | 6.700 |
 | gemma-4-31b-it | 6.700 |
 | googlegemini-3.1-pro-preview | 6.686 |
+| qwenqwen3.7-max | 6.686 |
 | smollm21.7b-instruct-q6_K | 6.686 |
 | nousresearchhermes-4-70b | 6.671 |
 | claude-opus-4-5-20251101 | 6.657 |

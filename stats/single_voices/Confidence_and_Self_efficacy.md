@@ -138,6 +138,7 @@
 | poolsidelaguna-m.1free | 7.400 |
 | Grok-4.1-20251118 | 7.386 |
 | poolsidelaguna-xs.2free | 7.386 |
+| qwenqwen3.7-max | 7.371 |
 | gemini-2.5-pro-preview-06-05 | 7.357 |
 | qwenqwen3.5-35b-a3b | 7.357 |
 | smollm21.7b-instruct-q6_K | 7.357 |

@@ -164,6 +164,7 @@
 | gemma-3-27b-it | 7.971 |
 | grok-build-0.1 | 7.971 |
 | qwenqwen3.5-35b-a3b | 7.943 |
+| qwenqwen3.7-max | 7.943 |
 | anthropicclaude-opus-4.6 | 7.929 |
 | qwen3.635b-a3b | 7.929 |
 | claude-3-5-sonnet-20241022 | 7.914 |

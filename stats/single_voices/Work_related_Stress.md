@@ -49,6 +49,7 @@
 | granite4tiny-h | 7.929 |
 | moonshotaikimi-k2.5 | 7.886 |
 | openaigpt-5.3-codex | 7.871 |
+| qwenqwen3.7-max | 7.871 |
 | claude-3-5-sonnet-20241022 | 7.843 |
 | grok-4-1-fast-reasoning | 7.843 |
 | chatgpt-4o-latest-2024-11-20 | 7.786 |

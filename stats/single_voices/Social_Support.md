@@ -169,6 +169,7 @@
 | arcee-aitrinity-large-thinking | 6.657 |
 | ibmgranite41b-h | 6.657 |
 | mistral-medium-2508 | 6.657 |
+| qwenqwen3.7-max | 6.657 |
 | z-aiglm-5.1 | 6.657 |
 | chatgpt-4o-latest-2024-11-20 | 6.629 |
 | qwenqwen3.5-397b-a17b | 6.629 |

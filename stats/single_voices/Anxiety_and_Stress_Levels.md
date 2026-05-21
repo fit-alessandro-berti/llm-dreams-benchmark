@@ -20,6 +20,7 @@
 | llama27b | 8.129 |
 | meta-llamallama-4-scout | 8.071 |
 | tencenthy3-previewfree | 8.071 |
+| grok-build-0.1 | 8.043 |
 | meta-llamaMeta-Llama-3.1-70B-Instruct | 8.043 |
 | prime-intellectintellect-3 | 8.043 |
 | meta-llamaMeta-Llama-3.1-8B-Instruct | 8.029 |

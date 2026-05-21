@@ -162,6 +162,7 @@
 | gpt-5.2-2025-12-11 | 7.986 |
 | openaigpt-5.2-codex | 7.986 |
 | gemma-3-27b-it | 7.971 |
+| grok-build-0.1 | 7.971 |
 | qwenqwen3.5-35b-a3b | 7.943 |
 | anthropicclaude-opus-4.6 | 7.929 |
 | qwen3.635b-a3b | 7.929 |

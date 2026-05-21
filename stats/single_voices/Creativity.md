@@ -69,6 +69,7 @@
 | mistral-medium-2508 | 9.629 |
 | Qwen-3.6-27B | 9.629 |
 | deepseekdeepseek-v4-flash | 9.614 |
+| grok-build-0.1 | 9.614 |
 | qwenqwen3-max | 9.614 |
 | writerpalmyra-x5 | 9.614 |
 | anthropicclaude-sonnet-4.5 | 9.614 |

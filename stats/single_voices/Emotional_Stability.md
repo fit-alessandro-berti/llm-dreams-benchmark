@@ -167,6 +167,7 @@
 | ibmgranite41b-h | 6.086 |
 | claude-3-5-sonnet-20241022 | 6.071 |
 | meta-llamaLlama-3.2-3B-Instruct | 6.014 |
+| grok-build-0.1 | 6.000 |
 | meta-llamaMeta-Llama-3.1-405B-Instruct | 5.986 |
 | anthropicclaude-opus-4.1 | 5.957 |
 | openaigpt-5.3-chat | 5.943 |

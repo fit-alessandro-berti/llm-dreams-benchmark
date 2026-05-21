@@ -154,6 +154,7 @@
 | deepseekdeepseek-v3.2-speciale | 8.143 |
 | Gpt-5.1-Pro-20251120 | 8.143 |
 | grok-4-0709 | 8.143 |
+| grok-build-0.1 | 8.129 |
 | Liquid-LFM2.5-350M | 8.129 |
 | ibmgranite41b-h | 8.114 |
 | moonshotaikimi-k2.5 | 8.114 |

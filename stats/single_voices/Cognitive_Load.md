@@ -12,6 +12,7 @@
 | gemma4e4b | 8.671 |
 | meta-llamaMeta-Llama-3.1-8B-Instruct | 8.629 |
 | claude-opus-4-7 | 8.586 |
+| grok-build-0.1 | 8.586 |
 | tencenthy3-previewfree | 8.557 |
 | gemini-3-pro-preview | 8.543 |
 | gemma4e2b | 8.543 |

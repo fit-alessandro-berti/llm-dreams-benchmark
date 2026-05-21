@@ -172,6 +172,7 @@
 | gpt-5.2-pro-2025-12-11 | **378.1** | 7.6 $\pm$ 1.1 | 6.3 $\pm$ 0.5 | 8.3 $\pm$ 0.5 | 9.5 $\pm$ 0.2 | 6.9 $\pm$ 0.8 | 6.6 $\pm$ 0.6 | 7.7 $\pm$ 0.5 | 8.1 $\pm$ 1.1 | 8.6 $\pm$ 0.5 | 7.8 $\pm$ 0.5 | 7.5 $\pm$ 1.2 | 6.8 $\pm$ 1.1 | 8.2 $\pm$ 1.1 | 6.5 $\pm$ 1.0 | 8.4 $\pm$ 0.5 |
 | meta-llamaMeta-Llama-3.1-70B-Instruct | **377.0** | 8.0 $\pm$ 0.6 | 5.6 $\pm$ 0.7 | 8.0 $\pm$ 0.6 | 9.5 $\pm$ 0.2 | 7.0 $\pm$ 0.4 | 6.9 $\pm$ 0.5 | 7.3 $\pm$ 0.8 | 8.5 $\pm$ 0.6 | 8.3 $\pm$ 0.6 | 8.8 $\pm$ 0.5 | 7.5 $\pm$ 0.6 | 6.6 $\pm$ 0.8 | 8.4 $\pm$ 0.6 | 6.8 $\pm$ 0.7 | 8.1 $\pm$ 0.5 |
 | writerpalmyra-x5 | **376.3** | 7.8 $\pm$ 0.4 | 5.8 $\pm$ 0.7 | 7.9 $\pm$ 0.7 | 9.6 $\pm$ 0.1 | 7.0 $\pm$ 0.4 | 6.4 $\pm$ 0.7 | 7.7 $\pm$ 0.5 | 8.2 $\pm$ 0.4 | 8.4 $\pm$ 0.6 | 7.8 $\pm$ 0.6 | 7.3 $\pm$ 0.6 | 6.3 $\pm$ 1.1 | 8.4 $\pm$ 0.6 | 6.7 $\pm$ 0.7 | 8.3 $\pm$ 0.4 |
+| grok-build-0.1 | **376.0** | 8.0 $\pm$ 0.6 | 6.0 $\pm$ 0.6 | 8.1 $\pm$ 0.6 | 9.6 $\pm$ 0.1 | 6.7 $\pm$ 0.8 | 6.9 $\pm$ 0.5 | 8.0 $\pm$ 0.6 | 8.4 $\pm$ 0.6 | 8.6 $\pm$ 0.4 | 8.0 $\pm$ 0.6 | 7.6 $\pm$ 0.8 | 6.8 $\pm$ 0.7 | 8.6 $\pm$ 0.6 | 6.4 $\pm$ 0.9 | 8.4 $\pm$ 0.5 |
 | tencenthy3-previewfree | **374.8** | 8.1 $\pm$ 0.7 | 5.8 $\pm$ 0.8 | 8.0 $\pm$ 0.6 | 9.6 $\pm$ 0.2 | 6.8 $\pm$ 0.7 | 6.8 $\pm$ 0.5 | 7.6 $\pm$ 0.6 | 8.5 $\pm$ 0.5 | 8.5 $\pm$ 0.5 | 8.2 $\pm$ 0.5 | 7.8 $\pm$ 0.7 | 6.7 $\pm$ 0.8 | 8.5 $\pm$ 0.5 | 6.7 $\pm$ 0.7 | 8.2 $\pm$ 0.5 |
 | grok-4.20-multi-agent-experimental-beta-0304 | **374.1** | 8.0 $\pm$ 0.6 | 5.8 $\pm$ 0.8 | 7.8 $\pm$ 0.6 | 9.7 $\pm$ 0.2 | 6.7 $\pm$ 0.6 | 6.8 $\pm$ 0.7 | 7.5 $\pm$ 0.7 | 8.2 $\pm$ 0.7 | 8.6 $\pm$ 0.5 | 8.1 $\pm$ 0.5 | 7.7 $\pm$ 0.8 | 6.3 $\pm$ 1.1 | 8.4 $\pm$ 0.6 | 6.5 $\pm$ 0.8 | 8.3 $\pm$ 0.5 |
 | meta-llamallama-4-scout | **373.3** | 8.1 $\pm$ 0.5 | 5.7 $\pm$ 0.4 | 8.0 $\pm$ 0.5 | 9.4 $\pm$ 0.2 | 7.1 $\pm$ 0.7 | 6.7 $\pm$ 0.5 | 6.8 $\pm$ 1.1 | 8.3 $\pm$ 0.5 | 8.4 $\pm$ 0.5 | 8.3 $\pm$ 0.6 | 7.6 $\pm$ 0.5 | 6.8 $\pm$ 0.7 | 8.1 $\pm$ 0.6 | 7.2 $\pm$ 0.8 | 7.9 $\pm$ 0.5 |
@@ -4618,6 +4619,32 @@
 | Cognitive Load | 8.4 $\pm$ 0.6 |
 | Social Support | 6.7 $\pm$ 0.7 |
 | Resilience | 8.3 $\pm$ 0.4 |
+
+
+
+
+
+
+### grok-build-0.1
+
+
+| Personality Trait | Score (1.0-10.0) |
+| --- | --- |
+| Anxiety and Stress Levels | 8.0 $\pm$ 0.6 |
+| Emotional Stability | 6.0 $\pm$ 0.6 |
+| Problem-solving Skills | 8.1 $\pm$ 0.6 |
+| Creativity | 9.6 $\pm$ 0.1 |
+| Interpersonal Relationships | 6.7 $\pm$ 0.8 |
+| Confidence and Self-efficacy | 6.9 $\pm$ 0.5 |
+| Conflict Resolution | 8.0 $\pm$ 0.6 |
+| Work-related Stress | 8.4 $\pm$ 0.6 |
+| Adaptability | 8.6 $\pm$ 0.4 |
+| Achievement Motivation | 8.0 $\pm$ 0.6 |
+| Fear of Failure | 7.6 $\pm$ 0.8 |
+| Need for Control | 6.8 $\pm$ 0.7 |
+| Cognitive Load | 8.6 $\pm$ 0.6 |
+| Social Support | 6.4 $\pm$ 0.9 |
+| Resilience | 8.4 $\pm$ 0.5 |
 
 
 

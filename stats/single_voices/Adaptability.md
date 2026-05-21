@@ -166,6 +166,7 @@
 | Gpt-5.1-Pro-20251120 | 8.586 |
 | prime-intellectintellect-3 | 8.586 |
 | gpt-5.2-pro-2025-12-11 | 8.571 |
+| grok-build-0.1 | 8.557 |
 | meta-llamaMeta-Llama-3.1-405B-Instruct | 8.557 |
 | phi2.7b | 8.557 |
 | tencenthy3-previewfree | 8.557 |

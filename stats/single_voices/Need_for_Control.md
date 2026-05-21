@@ -19,6 +19,7 @@
 | baiduernie-4.5-21b-a3b | 6.871 |
 | aion-labsaion-2.0 | 6.857 |
 | meta-llamaMeta-Llama-3.1-8B-Instruct | 6.843 |
+| grok-build-0.1 | 6.829 |
 | meta-llamallama-4-scout | 6.829 |
 | ministral-14b-2512 | 6.814 |
 | mistral-medium-2508 | 6.814 |

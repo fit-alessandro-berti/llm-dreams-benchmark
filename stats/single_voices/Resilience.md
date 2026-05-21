@@ -155,6 +155,7 @@
 | deepseekdeepseek-v3.2-speciale | 8.486 |
 | claude-opus-4-5-20251101 | 8.471 |
 | allenaiolmo-3-7b-instruct | 8.457 |
+| grok-build-0.1 | 8.457 |
 | mistral-medium-3.5 | 8.443 |
 | grok-4-0709 | 8.429 |
 | Gpt-5.1-Pro-20251120 | 8.429 |

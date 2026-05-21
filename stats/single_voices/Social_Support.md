@@ -179,6 +179,7 @@
 | gpt-5.2-pro-2025-12-11 | 6.500 |
 | grok-4.20-multi-agent-experimental-beta-0304 | 6.500 |
 | z-aiglm-5 | 6.471 |
+| grok-build-0.1 | 6.429 |
 | meta-llamallama-4-maverick | 6.329 |
 | gemma4e2b | 6.257 |
 | openaigpt-5.3-chat | 6.214 |

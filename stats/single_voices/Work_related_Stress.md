@@ -16,6 +16,7 @@
 | anthropicclaude-sonnet-4.5 | 8.457 |
 | meta-llamallama-4-maverick | 8.457 |
 | gemma4e4b | 8.429 |
+| grok-build-0.1 | 8.371 |
 | claude-3-opus-20240229 | 8.343 |
 | meta-llamallama-4-scout | 8.343 |
 | gpt-5.2-2025-12-11 | 8.329 |

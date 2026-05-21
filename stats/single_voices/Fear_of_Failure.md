@@ -24,6 +24,7 @@
 | prime-intellectintellect-3 | 7.629 |
 | gemini-2.0-pro-exp-02-05 | 7.614 |
 | meta-llamallama-4-scout | 7.600 |
+| grok-build-0.1 | 7.571 |
 | ministral-14b-2512 | 7.571 |
 | qwen3.54b | 7.571 |
 | moonshotaikimi-k2.6 | 7.557 |

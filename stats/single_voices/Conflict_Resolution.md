@@ -121,6 +121,7 @@
 | chatgpt-4o-latest-2025-03-26 | 8.014 |
 | claude-haiku-4-5-20251001 | 8.014 |
 | qwenqwen3.5-27b | 8.014 |
+| grok-build-0.1 | 8.000 |
 | grok-4-1-fast-reasoning | 7.943 |
 | deepseekdeepseek-v4-pro | 7.929 |
 | Grok-4-fast-20251111 | 7.929 |

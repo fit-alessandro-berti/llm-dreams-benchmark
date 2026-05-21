@@ -168,6 +168,7 @@
 | Gpt-5.1-Pro-20251120 | 6.871 |
 | moonshotaikimi-k2.6 | 6.871 |
 | claude-3-opus-20240229 | 6.857 |
+| grok-build-0.1 | 6.857 |
 | llama27b | 6.857 |
 | meta-llamaMeta-Llama-3.1-70B-Instruct | 6.857 |
 | talkie-1930-13b-it | 6.857 |

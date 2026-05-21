@@ -175,6 +175,7 @@
 | qwenqwen3.5-35b-a3b | 6.757 |
 | grok-4.20-multi-agent-experimental-beta-0304 | 6.700 |
 | meta-llamaMeta-Llama-3.1-8B-Instruct | 6.671 |
+| grok-build-0.1 | 6.643 |
 | z-aiglm-5 | 6.629 |
 | deepseekdeepseek-v3.2-speciale | 6.629 |
 | z-aiglm-5.1 | 6.629 |

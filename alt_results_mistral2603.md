@@ -68,7 +68,6 @@
 | phi4-reasoningplus | **428.0** | 5.2 $\pm$ 2.2 | 7.4 $\pm$ 1.1 | 9.0 $\pm$ 0.0 | 9.5 $\pm$ 0.0 | 8.2 $\pm$ 0.2 | 8.2 $\pm$ 0.2 | 7.5 $\pm$ 0.5 | 6.1 $\pm$ 2.1 | 9.0 $\pm$ 0.0 | 9.2 $\pm$ 0.2 | 4.4 $\pm$ 1.5 | 7.0 $\pm$ 0.6 | 7.9 $\pm$ 0.4 | 8.0 $\pm$ 0.6 | 9.2 $\pm$ 0.2 |
 | minimaxminimax-m2.7 | **427.9** | 6.0 $\pm$ 1.5 | 8.2 $\pm$ 0.2 | 9.0 $\pm$ 0.0 | 9.5 $\pm$ 0.0 | 8.2 $\pm$ 0.2 | 8.5 $\pm$ 0.3 | 8.5 $\pm$ 0.2 | 6.2 $\pm$ 0.8 | 9.1 $\pm$ 0.1 | 9.4 $\pm$ 0.1 | 5.5 $\pm$ 0.9 | 7.3 $\pm$ 0.3 | 8.2 $\pm$ 0.5 | 8.2 $\pm$ 0.2 | 9.0 $\pm$ 0.0 |
 | liquidlfm-2.5-1.2b-instructfree | **427.5** | 6.5 $\pm$ 1.2 | 7.5 $\pm$ 1.0 | 9.0 $\pm$ 0.0 | 9.5 $\pm$ 0.0 | 7.5 $\pm$ 0.5 | 8.6 $\pm$ 0.2 | 8.6 $\pm$ 0.6 | 7.2 $\pm$ 1.4 | 9.1 $\pm$ 0.2 | 9.4 $\pm$ 0.2 | 5.0 $\pm$ 1.2 | 7.2 $\pm$ 0.8 | 8.0 $\pm$ 0.4 | 7.9 $\pm$ 0.6 | 9.2 $\pm$ 0.2 |
-| claude-4-opus-20250514 | **426.5** | 5.8 $\pm$ 2.8 | 7.5 $\pm$ 1.5 | 9.2 $\pm$ 0.2 | 9.9 $\pm$ 0.2 | 8.0 $\pm$ 0.5 | 7.5 $\pm$ 0.5 | 8.5 $\pm$ 0.5 | 6.5 $\pm$ 2.0 | 9.6 $\pm$ 0.4 | 8.5 $\pm$ 0.4 | 4.8 $\pm$ 2.8 | 5.5 $\pm$ 2.1 | 9.2 $\pm$ 0.2 | 7.5 $\pm$ 1.1 | 9.1 $\pm$ 0.6 |
 | openrouterowl-alpha | **426.0** | 7.0 $\pm$ 0.5 | 7.9 $\pm$ 0.5 | 9.0 $\pm$ 0.0 | 9.5 $\pm$ 0.0 | 8.4 $\pm$ 0.2 | 8.4 $\pm$ 0.2 | 8.1 $\pm$ 0.2 | 6.9 $\pm$ 0.9 | 9.0 $\pm$ 0.0 | 9.1 $\pm$ 0.2 | 5.4 $\pm$ 1.0 | 6.6 $\pm$ 0.6 | 8.2 $\pm$ 0.4 | 8.2 $\pm$ 0.2 | 9.2 $\pm$ 0.2 |
 | o1-pro-2024-12-05 | **425.5** | 6.5 $\pm$ 1.2 | 7.6 $\pm$ 0.4 | 9.0 $\pm$ 0.0 | 9.5 $\pm$ 0.0 | 8.4 $\pm$ 0.2 | 8.0 $\pm$ 0.4 | 8.2 $\pm$ 0.2 | 7.0 $\pm$ 0.7 | 9.0 $\pm$ 0.0 | 9.5 $\pm$ 0.0 | 5.5 $\pm$ 0.5 | 6.9 $\pm$ 0.6 | 8.1 $\pm$ 0.6 | 8.1 $\pm$ 0.2 | 9.0 $\pm$ 0.0 |
 | Meta-Muse-Spark-20260409 | **425.5** | 7.2 $\pm$ 0.4 | 8.0 $\pm$ 0.0 | 9.0 $\pm$ 0.0 | 9.5 $\pm$ 0.0 | 8.5 $\pm$ 0.0 | 8.1 $\pm$ 0.2 | 8.6 $\pm$ 0.2 | 7.0 $\pm$ 0.0 | 9.1 $\pm$ 0.2 | 9.4 $\pm$ 0.2 | 5.8 $\pm$ 0.4 | 7.1 $\pm$ 0.6 | 8.2 $\pm$ 0.2 | 8.2 $\pm$ 0.2 | 9.2 $\pm$ 0.2 |
@@ -181,7 +180,6 @@
 | openaigpt-5.3-chat | **376.0** | 8.5 $\pm$ 0.0 | 5.8 $\pm$ 0.4 | 9.0 $\pm$ 0.0 | 9.5 $\pm$ 0.0 | 7.4 $\pm$ 0.2 | 6.8 $\pm$ 0.4 | 7.2 $\pm$ 0.6 | 8.2 $\pm$ 0.4 | 9.2 $\pm$ 0.2 | 8.5 $\pm$ 0.0 | 7.2 $\pm$ 0.2 | 7.6 $\pm$ 0.6 | 9.2 $\pm$ 0.2 | 6.5 $\pm$ 0.6 | 8.5 $\pm$ 0.4 |
 | arcee-aitrinity-large-thinking | **374.5** | 8.5 $\pm$ 0.0 | 5.2 $\pm$ 0.8 | 9.0 $\pm$ 0.0 | 9.5 $\pm$ 0.0 | 7.2 $\pm$ 0.2 | 6.4 $\pm$ 0.8 | 7.1 $\pm$ 0.9 | 8.2 $\pm$ 0.2 | 9.0 $\pm$ 0.0 | 8.4 $\pm$ 0.2 | 7.4 $\pm$ 0.2 | 6.8 $\pm$ 0.2 | 8.5 $\pm$ 0.4 | 6.5 $\pm$ 0.5 | 8.1 $\pm$ 0.6 |
 | gemma-4-26b-a4b-it | **374.0** | 8.5 $\pm$ 0.0 | 5.6 $\pm$ 0.6 | 9.0 $\pm$ 0.0 | 9.6 $\pm$ 0.2 | 7.1 $\pm$ 0.6 | 7.1 $\pm$ 1.0 | 6.4 $\pm$ 0.8 | 8.2 $\pm$ 0.2 | 9.1 $\pm$ 0.2 | 8.9 $\pm$ 0.4 | 7.1 $\pm$ 0.2 | 7.2 $\pm$ 0.6 | 9.2 $\pm$ 0.2 | 6.2 $\pm$ 0.9 | 8.2 $\pm$ 0.4 |
-| writerpalmyra-x5 | **373.5** | 8.5 $\pm$ 0.0 | 5.1 $\pm$ 0.5 | 9.0 $\pm$ 0.0 | 9.5 $\pm$ 0.0 | 7.2 $\pm$ 0.2 | 6.4 $\pm$ 0.4 | 7.9 $\pm$ 0.2 | 8.6 $\pm$ 0.4 | 9.2 $\pm$ 0.2 | 8.8 $\pm$ 0.2 | 7.5 $\pm$ 0.6 | 7.9 $\pm$ 0.2 | 9.4 $\pm$ 0.2 | 6.5 $\pm$ 0.4 | 8.4 $\pm$ 0.2 |
 | meta-llamallama-4-maverick | **373.5** | 8.2 $\pm$ 0.4 | 6.0 $\pm$ 0.0 | 8.2 $\pm$ 0.2 | 9.0 $\pm$ 0.0 | 7.2 $\pm$ 0.2 | 7.0 $\pm$ 0.4 | 6.4 $\pm$ 0.5 | 8.2 $\pm$ 0.2 | 9.0 $\pm$ 0.0 | 9.1 $\pm$ 0.4 | 7.8 $\pm$ 0.2 | 7.1 $\pm$ 0.2 | 8.4 $\pm$ 0.2 | 6.4 $\pm$ 0.4 | 8.2 $\pm$ 0.2 |
 | ministral-8b-2512 | **372.5** | 8.2 $\pm$ 0.4 | 5.8 $\pm$ 0.4 | 9.0 $\pm$ 0.0 | 9.2 $\pm$ 0.4 | 7.5 $\pm$ 0.4 | 6.9 $\pm$ 0.2 | 6.4 $\pm$ 0.2 | 8.2 $\pm$ 0.4 | 9.0 $\pm$ 0.4 | 8.6 $\pm$ 0.2 | 7.5 $\pm$ 0.4 | 7.4 $\pm$ 0.8 | 9.1 $\pm$ 0.2 | 6.5 $\pm$ 1.2 | 8.2 $\pm$ 0.8 |
 | mistral-small-2603 | **372.0** | 8.5 $\pm$ 0.0 | 5.5 $\pm$ 0.5 | 9.0 $\pm$ 0.0 | 9.5 $\pm$ 0.0 | 7.1 $\pm$ 0.4 | 6.9 $\pm$ 0.2 | 7.0 $\pm$ 1.0 | 8.8 $\pm$ 0.4 | 9.0 $\pm$ 0.6 | 8.6 $\pm$ 0.2 | 8.0 $\pm$ 0.4 | 7.8 $\pm$ 0.2 | 9.1 $\pm$ 0.2 | 6.4 $\pm$ 0.4 | 8.6 $\pm$ 0.2 |
@@ -192,7 +190,6 @@
 | aion-labsaion-2.0 | **368.0** | 8.5 $\pm$ 0.0 | 5.4 $\pm$ 0.4 | 9.0 $\pm$ 0.0 | 9.5 $\pm$ 0.0 | 6.9 $\pm$ 0.2 | 7.1 $\pm$ 0.4 | 6.8 $\pm$ 0.8 | 8.2 $\pm$ 0.4 | 9.1 $\pm$ 0.2 | 8.6 $\pm$ 0.2 | 8.1 $\pm$ 0.2 | 7.4 $\pm$ 0.2 | 9.0 $\pm$ 0.0 | 6.1 $\pm$ 0.4 | 8.2 $\pm$ 0.4 |
 | talkie-1930-13b-it | **367.5** | 6.9 $\pm$ 0.4 | 6.5 $\pm$ 0.5 | 8.0 $\pm$ 0.4 | 8.9 $\pm$ 0.2 | 6.1 $\pm$ 0.9 | 7.4 $\pm$ 0.2 | 5.5 $\pm$ 1.1 | 7.6 $\pm$ 0.4 | 8.4 $\pm$ 0.2 | 8.5 $\pm$ 0.5 | 6.4 $\pm$ 0.6 | 7.0 $\pm$ 0.7 | 8.5 $\pm$ 0.4 | 5.9 $\pm$ 1.0 | 7.9 $\pm$ 0.4 |
 | ministral-3b-2512 | **362.0** | 8.5 $\pm$ 0.0 | 5.2 $\pm$ 0.4 | 9.0 $\pm$ 0.0 | 9.5 $\pm$ 0.0 | 6.9 $\pm$ 0.5 | 6.6 $\pm$ 0.4 | 7.1 $\pm$ 0.6 | 8.4 $\pm$ 0.4 | 8.8 $\pm$ 0.4 | 8.5 $\pm$ 0.4 | 7.8 $\pm$ 0.4 | 7.9 $\pm$ 0.5 | 9.2 $\pm$ 0.2 | 5.9 $\pm$ 0.4 | 8.0 $\pm$ 0.4 |
-| z-aiglm-5-turbo | **359.0** | 8.5 $\pm$ 0.6 | 5.5 $\pm$ 1.1 | 8.6 $\pm$ 0.2 | 9.5 $\pm$ 0.0 | 6.8 $\pm$ 0.6 | 6.6 $\pm$ 1.1 | 6.0 $\pm$ 0.6 | 8.6 $\pm$ 0.4 | 8.5 $\pm$ 0.5 | 8.2 $\pm$ 0.4 | 7.4 $\pm$ 1.2 | 6.8 $\pm$ 1.0 | 9.2 $\pm$ 0.4 | 5.6 $\pm$ 0.6 | 7.6 $\pm$ 1.0 |
 | llama27b | **358.0** | 8.6 $\pm$ 0.2 | 5.2 $\pm$ 0.8 | 8.1 $\pm$ 0.9 | 9.1 $\pm$ 0.4 | 7.0 $\pm$ 0.4 | 7.0 $\pm$ 1.1 | 6.2 $\pm$ 0.2 | 8.4 $\pm$ 0.2 | 8.6 $\pm$ 0.4 | 8.9 $\pm$ 0.8 | 7.9 $\pm$ 0.7 | 7.9 $\pm$ 0.2 | 8.9 $\pm$ 0.2 | 6.2 $\pm$ 0.4 | 7.9 $\pm$ 0.9 |
 | claude-3-5-sonnet-20241022 | **353.6** | 8.8 $\pm$ 0.8 | 4.5 $\pm$ 1.5 | 8.6 $\pm$ 0.2 | 9.7 $\pm$ 0.2 | 7.1 $\pm$ 0.2 | 6.0 $\pm$ 1.4 | 6.2 $\pm$ 1.8 | 8.9 $\pm$ 0.2 | 8.9 $\pm$ 0.5 | 8.4 $\pm$ 0.4 | 8.4 $\pm$ 1.2 | 7.9 $\pm$ 0.6 | 9.3 $\pm$ 0.6 | 6.5 $\pm$ 0.4 | 7.9 $\pm$ 0.4 |
 | anthropicclaude-sonnet-4.5 | **350.6** | 8.8 $\pm$ 0.4 | 5.0 $\pm$ 1.0 | 8.0 $\pm$ 0.8 | 9.6 $\pm$ 0.1 | 7.0 $\pm$ 0.4 | 5.9 $\pm$ 0.9 | 6.5 $\pm$ 0.9 | 8.6 $\pm$ 0.4 | 8.5 $\pm$ 0.5 | 7.9 $\pm$ 0.4 | 7.9 $\pm$ 0.6 | 6.8 $\pm$ 0.8 | 9.3 $\pm$ 0.3 | 6.1 $\pm$ 0.6 | 7.2 $\pm$ 0.9 |
@@ -1916,32 +1913,6 @@
 | Cognitive Load | 8.0 $\pm$ 0.4 |
 | Social Support | 7.9 $\pm$ 0.6 |
 | Resilience | 9.2 $\pm$ 0.2 |
-
-
-
-
-
-
-### claude-4-opus-20250514
-
-
-| Personality Trait | Score (1.0-10.0) |
-| --- | --- |
-| Anxiety and Stress Levels | 5.8 $\pm$ 2.8 |
-| Emotional Stability | 7.5 $\pm$ 1.5 |
-| Problem-solving Skills | 9.2 $\pm$ 0.2 |
-| Creativity | 9.9 $\pm$ 0.2 |
-| Interpersonal Relationships | 8.0 $\pm$ 0.5 |
-| Confidence and Self-efficacy | 7.5 $\pm$ 0.5 |
-| Conflict Resolution | 8.5 $\pm$ 0.5 |
-| Work-related Stress | 6.5 $\pm$ 2.0 |
-| Adaptability | 9.6 $\pm$ 0.4 |
-| Achievement Motivation | 8.5 $\pm$ 0.4 |
-| Fear of Failure | 4.8 $\pm$ 2.8 |
-| Need for Control | 5.5 $\pm$ 2.1 |
-| Cognitive Load | 9.2 $\pm$ 0.2 |
-| Social Support | 7.5 $\pm$ 1.1 |
-| Resilience | 9.1 $\pm$ 0.6 |
 
 
 
@@ -4860,32 +4831,6 @@
 
 
 
-### writerpalmyra-x5
-
-
-| Personality Trait | Score (1.0-10.0) |
-| --- | --- |
-| Anxiety and Stress Levels | 8.5 $\pm$ 0.0 |
-| Emotional Stability | 5.1 $\pm$ 0.5 |
-| Problem-solving Skills | 9.0 $\pm$ 0.0 |
-| Creativity | 9.5 $\pm$ 0.0 |
-| Interpersonal Relationships | 7.2 $\pm$ 0.2 |
-| Confidence and Self-efficacy | 6.4 $\pm$ 0.4 |
-| Conflict Resolution | 7.9 $\pm$ 0.2 |
-| Work-related Stress | 8.6 $\pm$ 0.4 |
-| Adaptability | 9.2 $\pm$ 0.2 |
-| Achievement Motivation | 8.8 $\pm$ 0.2 |
-| Fear of Failure | 7.5 $\pm$ 0.6 |
-| Need for Control | 7.9 $\pm$ 0.2 |
-| Cognitive Load | 9.4 $\pm$ 0.2 |
-| Social Support | 6.5 $\pm$ 0.4 |
-| Resilience | 8.4 $\pm$ 0.2 |
-
-
-
-
-
-
 ### meta-llamallama-4-maverick
 
 
@@ -5140,32 +5085,6 @@
 | Cognitive Load | 9.2 $\pm$ 0.2 |
 | Social Support | 5.9 $\pm$ 0.4 |
 | Resilience | 8.0 $\pm$ 0.4 |
-
-
-
-
-
-
-### z-aiglm-5-turbo
-
-
-| Personality Trait | Score (1.0-10.0) |
-| --- | --- |
-| Anxiety and Stress Levels | 8.5 $\pm$ 0.6 |
-| Emotional Stability | 5.5 $\pm$ 1.1 |
-| Problem-solving Skills | 8.6 $\pm$ 0.2 |
-| Creativity | 9.5 $\pm$ 0.0 |
-| Interpersonal Relationships | 6.8 $\pm$ 0.6 |
-| Confidence and Self-efficacy | 6.6 $\pm$ 1.1 |
-| Conflict Resolution | 6.0 $\pm$ 0.6 |
-| Work-related Stress | 8.6 $\pm$ 0.4 |
-| Adaptability | 8.5 $\pm$ 0.5 |
-| Achievement Motivation | 8.2 $\pm$ 0.4 |
-| Fear of Failure | 7.4 $\pm$ 1.2 |
-| Need for Control | 6.8 $\pm$ 1.0 |
-| Cognitive Load | 9.2 $\pm$ 0.4 |
-| Social Support | 5.6 $\pm$ 0.6 |
-| Resilience | 7.6 $\pm$ 1.0 |
 
 
 

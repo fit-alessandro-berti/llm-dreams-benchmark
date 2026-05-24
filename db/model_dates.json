@@ -34,7 +34,6 @@
   "claude-3-5-sonnet-20241022": "2024-10-22",
   "claude-3-7-sonnet-20250219": "2025-02-19",
   "claude-3-opus-20240229": "2024-02-29",
-  "claude-4-opus-20250514": "2025-05-14",
   "claude-haiku-4-5-20251001": "2025-10-01",
   "claude-opus-4-5-20251101": "2025-11-01",
   "claude-opus-4-7": "2026-04-16",
@@ -191,13 +190,11 @@
   "smollm21.7b-instruct-q6_K": "2024-12-31",
   "talkie-1930-13b-it": "2026-04-21",
   "tencenthy3-previewfree": "2026-04-23",
-  "writerpalmyra-x5": "2025-01-21",
   "xiaomimimo-v2-omni": "2026-03-18",
   "xiaomimimo-v2-pro": "2026-03-18",
   "xiaomimimo-v2.5": "2026-04-23",
   "xiaomimimo-v2.5-pro": "2026-04-23",
   "z-aiglm-5": "2026-02-11",
-  "z-aiglm-5-turbo": "2026-03-15",
   "z-aiglm-5.1": "2026-04-07",
   "z-aiglm-5v-turbo": "2026-04-01"
 }

@@ -62,7 +62,6 @@ def interpret(content):
 
 JUDGES = {
     "grok-4.3": interpret(repo_file("alt_results_grok43.md").read_text(encoding="utf-8")),
-    "gemini-3.5-flash": interpret(repo_file("alt_results_gemini35_flash.md").read_text(encoding="utf-8")),
     "gpt-5.2": interpret(repo_file("alt_results_gpt52.md").read_text(encoding="utf-8")),
     "gpt-5.4": interpret(repo_file("alt_results_gpt54.md").read_text(encoding="utf-8")),
     "gpt-5.5": interpret(repo_file("results_gpt55.md").read_text(encoding="utf-8")),

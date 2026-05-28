@@ -1,7 +1,7 @@
 import os
 from pathlib import Path
 
-ANSWERING_MODEL_NAME = "granite4.1:30b"
+ANSWERING_MODEL_NAME = "claude-opus-4-8"
 EVALUATING_MODEL_NAME = "gpt-5.2"
 
 
@@ -22,12 +22,6 @@ ALL_JUDGES = {
         "git_table_result": "alt_results_grok43.md",
         "evaluation_api_url": "https://api.x.ai/v1/",
         "api_key": _read_api_key("GROK_API_KEY", "../api_grok.txt"),
-    },
-    "gemini-3.5-flash": {
-        "evaluation_folder": "evaluations-gemini35-flash",
-        "git_table_result": "alt_results_gemini35_flash.md",
-        "evaluation_api_url": "https://generativelanguage.googleapis.com/v1beta/",
-        "api_key": _read_api_key("GOOGLE_API_KEY", "../api_google.txt"),
     },
     "gpt-5.2": {
         "evaluation_folder": "evaluations-gpt52",

@@ -70,6 +70,7 @@
 | nousresearchhermes-4-405b | 6.300 |
 | grok-4-fast-reasoning | 6.283 |
 | gpt-4.1-nano-2025-04-14 | 6.267 |
+| stepfunstep-3.7-flash | 6.267 |
 | chatgpt-4o-latest-2025-04-26 | 6.233 |
 | gemini-1.5-flash-8b | 6.233 |
 | grok-4.20-experimental-beta-0304-non-reasoning | 6.233 |

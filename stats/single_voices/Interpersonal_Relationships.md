@@ -79,6 +79,7 @@
 | minimaxminimax-m2.7 | 7.833 |
 | Grok-3-beta-thinking-20250303 | 7.817 |
 | o3-2025-04-16 | 7.800 |
+| stepfunstep-3.7-flash | 7.800 |
 | smollm21.7b-instruct-q6_K | 7.783 |
 | gpt-5.5-2026-04-23 | 7.750 |
 | anthropicclaude-opus-4.6 | 7.733 |

@@ -144,6 +144,7 @@
 | gpt-4-1106-preview | 8.567 |
 | grok-build-0.1 | 8.567 |
 | qwenqwen3.5-397b-a17b | 8.567 |
+| stepfunstep-3.7-flash | 8.550 |
 | grok-4-1-fast-reasoning | 8.550 |
 | Liquid-LFM2.5-350M | 8.550 |
 | Grok-3-beta-thinking-20250303 | 8.533 |

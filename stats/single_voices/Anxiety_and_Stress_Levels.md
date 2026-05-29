@@ -59,6 +59,7 @@
 | grok-4.20-experimental-beta-0304-non-reasoning | 7.450 |
 | grok-4-0709 | 7.433 |
 | moonshotaikimi-k2.5 | 7.433 |
+| stepfunstep-3.7-flash | 7.433 |
 | gemini-1.5-flash-8b | 7.417 |
 | Gpt-5.1-Pro-20251120 | 7.417 |
 | qwenqwen3-max | 7.417 |

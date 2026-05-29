@@ -58,6 +58,7 @@
 | gemma-4-26b-a4b-it | 8.183 |
 | Gpt-5.1-Pro-20251120 | 8.183 |
 | qwenqwen3.7-max | 8.183 |
+| stepfunstep-3.7-flash | 8.183 |
 | claude-3-5-sonnet-20241022 | 8.167 |
 | grok-4-1-fast-non-reasoning | 8.167 |
 | ibmgranite41b-h | 8.167 |

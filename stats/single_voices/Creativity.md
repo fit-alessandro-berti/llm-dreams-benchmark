@@ -63,6 +63,7 @@
 | Qwen-3.6-Max-Preview | 9.650 |
 | qwenqwen3.5-27b | 9.650 |
 | qwenqwen3.5-397b-a17b | 9.650 |
+| stepfunstep-3.7-flash | 9.650 |
 | z-aiglm-5 | 9.650 |
 | z-aiglm-5.1 | 9.650 |
 | anthropicclaude-sonnet-4.5 | 9.633 |

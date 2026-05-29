@@ -171,6 +171,7 @@
 | talkie-1930-13b-it | 6.917 |
 | meta-llamaMeta-Llama-3.1-70B-Instruct | 6.900 |
 | claude-3-5-sonnet-20241022 | 6.833 |
+| stepfunstep-3.7-flash | 6.833 |
 | moonshotaikimi-k2.6 | 6.817 |
 | openaigpt-5.3-chat | 6.783 |
 | meta-llamaLlama-3.3-70B-Instruct | 6.767 |

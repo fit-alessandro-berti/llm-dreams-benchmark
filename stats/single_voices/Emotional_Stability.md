@@ -155,6 +155,7 @@
 | mistral-medium-3.5 | 6.367 |
 | gpt-5.2-pro-2025-12-11 | 6.317 |
 | moonshotaikimi-k2.5 | 6.317 |
+| stepfunstep-3.7-flash | 6.317 |
 | Gemini-1.5-Pro-Exp-0827 | 6.300 |
 | allenaiolmo-3-7b-think | 6.283 |
 | z-aiglm-5.1 | 6.267 |

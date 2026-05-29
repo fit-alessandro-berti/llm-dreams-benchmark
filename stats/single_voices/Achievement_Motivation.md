@@ -193,6 +193,7 @@
 | anthropicclaude-sonnet-4.5 | 7.600 |
 | gemma4e4b | 7.600 |
 | qwenqwen3.5-397b-a17b | 7.533 |
+| stepfunstep-3.7-flash | 7.467 |
 | qwen3.50.8b | 7.433 |
 | anthropicclaude-opus-4.1 | 7.233 |
 | claude-opus-4-7 | 7.233 |

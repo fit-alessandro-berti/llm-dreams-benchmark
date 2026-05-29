@@ -85,6 +85,7 @@
 | GPT-5.5-Pro-20260422 | 7.617 |
 | qwenqwen3.6-plusfree | 7.617 |
 | qwen3.635b-a3b | 7.617 |
+| stepfunstep-3.7-flash | 7.600 |
 | xiaomimimo-v2-omni | 7.600 |
 | deepseekdeepseek-v3.2 | 7.583 |
 | nousresearchhermes-4-70b | 7.583 |

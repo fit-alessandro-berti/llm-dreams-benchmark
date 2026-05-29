@@ -47,6 +47,7 @@
 | openaigpt-5.3-codex | 7.083 |
 | granite4tiny-h | 7.067 |
 | openaigpt-5.4-nano | 7.050 |
+| stepfunstep-3.7-flash | 7.033 |
 | arcee-aitrinity-large-thinking | 7.017 |
 | grok-4-0709 | 7.000 |
 | smollm21.7b-instruct-q6_K | 7.000 |

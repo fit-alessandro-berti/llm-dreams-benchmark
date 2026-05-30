@@ -9,6 +9,7 @@
 | gpt-5-mini-2025-08-07 | 9.250 |
 | granite4small-h | 9.250 |
 | qwen2.5-14b-instruct | 9.250 |
+| Grok-4.3-20260530 | 9.233 |
 | granite3.28b-instruct-q4_K_M | 9.217 |
 | xiaomimimo-v2-pro | 9.217 |
 | inceptionmercury | 9.200 |
@@ -45,6 +46,7 @@
 | open-mixtral-8x7b | 9.083 |
 | qwen2.5-7b-instruct | 9.083 |
 | qwenqwen3.7-max | 9.083 |
+| ChatGPT-5.5-Instant-20260530 | 9.083 |
 | gpt-5-2025-08-07 | 9.067 |
 | qwenqwen3.5-122b-a10b | 9.067 |
 | qwen2.5-32b-instruct | 9.067 |

@@ -73,6 +73,7 @@
 | Meta-Muse-Spark-20260409 | 8.550 |
 | deepseekdeepseek-v3.2-speciale | 8.550 |
 | Gemini-1.5-Pro-Exp-0827 | 8.550 |
+| Grok-4.3-20260530 | 8.550 |
 | openaigpt-oss-120b | 8.533 |
 | Grok-4-fast-20251111 | 8.517 |
 | meta-llamaLlama-3.3-70B-Instruct | 8.517 |
@@ -147,6 +148,7 @@
 | openaigpt-5.3-chat | 8.117 |
 | xiaomimimo-v2.5 | 8.117 |
 | z-aiglm-5 | 8.117 |
+| ChatGPT-5.5-Instant-20260530 | 8.100 |
 | mistral-large-2512 | 8.083 |
 | nvidiaNVIDIA-Nemotron-3-Super-120B-A12B | 8.083 |
 | inclusionailing-2.6-1tfree | 8.067 |

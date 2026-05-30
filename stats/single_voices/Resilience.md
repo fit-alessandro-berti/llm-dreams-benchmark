@@ -4,6 +4,7 @@
 |:--|--:|
 | granite4small-h | 9.367 |
 | microsoftPhi-3-medium-4k-instruct | 9.350 |
+| Grok-4.3-20260530 | 9.283 |
 | o3-pro-2025-06-10 | 9.250 |
 | open-mixtral-8x22b | 9.250 |
 | Grok-4.30-20260420 | 9.233 |
@@ -82,6 +83,7 @@
 | gemini-1.5-flash-002 | 8.917 |
 | nvidiaNemotron-3-Nano-Omni-30B-A3B-Reasoning | 8.917 |
 | openaigpt-5.4 | 8.917 |
+| ChatGPT-5.5-Instant-20260530 | 8.900 |
 | nvidianemotron-3-nano-30b-a3bfree | 8.900 |
 | o1-2024-12-17 | 8.900 |
 | arcee-aitrinity-large-previewfree | 8.883 |

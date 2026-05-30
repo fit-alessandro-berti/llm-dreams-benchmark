@@ -2,6 +2,7 @@
 
 | Model | Average |
 |:--|--:|
+| Grok-4.3-20260530 | 9.883 |
 | o3-pro-2025-06-10 | 9.883 |
 | qwenqwen3.6-plusfree | 9.867 |
 | googlegemini-3.1-pro-preview | 9.833 |
@@ -87,6 +88,7 @@
 | tencenthy3-previewfree | 9.617 |
 | liquidlfm2-8b-a1b | 9.600 |
 | chatgpt-4o-latest-2025-04-26 | 9.600 |
+| ChatGPT-5.5-Instant-20260530 | 9.600 |
 | claude-3-7-sonnet-20250219 | 9.600 |
 | gemini-2.5-pro-exp-03-25 | 9.600 |
 | gpt-4o-2024-08-06 | 9.600 |

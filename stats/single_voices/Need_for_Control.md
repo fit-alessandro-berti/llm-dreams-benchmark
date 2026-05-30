@@ -188,11 +188,13 @@
 | gpt-4-turbo-2024-04-09 | 4.933 |
 | openaigpt-5.4-mini | 4.917 |
 | openaigpt-oss-120b | 4.917 |
+| ChatGPT-5.5-Instant-20260530 | 4.867 |
 | xiaomimimo-v2.5 | 4.867 |
 | o3-pro-2025-06-10 | 4.817 |
 | gpt-4-0125-preview | 4.717 |
 | qwen3.59b | 4.683 |
 | o3-mini-20250131-HIGH | 4.667 |
+| Grok-4.3-20260530 | 4.633 |
 | claude-haiku-4-5-20251001 | 4.583 |
 | qwen3.635b-a3b | 4.567 |
 | xiaomimimo-v2.5-pro | 4.567 |

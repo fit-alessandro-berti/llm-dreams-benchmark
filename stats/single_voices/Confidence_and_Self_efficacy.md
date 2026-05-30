@@ -9,6 +9,7 @@
 | qwen2.5-14b-instruct | 8.717 |
 | gpt-3.5-turbo | 8.700 |
 | open-mistral-7b | 8.700 |
+| Grok-4.3-20260530 | 8.683 |
 | ai21jamba-mini-1.7 | 8.683 |
 | grok-2-1212 | 8.633 |
 | ibm-granitegranite-4.1-8b | 8.617 |
@@ -82,6 +83,7 @@
 | openaigpt-oss-20b | 7.900 |
 | baiduernie-4.5-300b-a47b | 7.883 |
 | gemini-2.5-flash-lite | 7.883 |
+| ChatGPT-5.5-Instant-20260530 | 7.867 |
 | o1-2024-12-17 | 7.867 |
 | qwenqwen3.5-122b-a10b | 7.867 |
 | anthropicclaude-sonnet-4.6 | 7.867 |

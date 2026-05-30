@@ -167,6 +167,7 @@
 | inceptionmercury | 5.683 |
 | ibm-granitegranite-4.1-8b | 5.667 |
 | qwen3.59b | 5.650 |
+| ChatGPT-5.5-Instant-20260530 | 5.650 |
 | open-mistral-7b | 5.633 |
 | ai21jamba-mini-1.7 | 5.600 |
 | phi33.8b | 5.567 |
@@ -193,6 +194,7 @@
 | xiaomimimo-v2.5 | 5.250 |
 | qwenqwen3-next-80b-a3b-instruct | 5.217 |
 | gpt-4-0125-preview | 5.217 |
+| Grok-4.3-20260530 | 5.100 |
 | gpt-5-nano-2025-08-07 | 5.017 |
 | microsoftphi-4 | 4.983 |
 | falcon37b-instruct-q8_0 | 4.950 |

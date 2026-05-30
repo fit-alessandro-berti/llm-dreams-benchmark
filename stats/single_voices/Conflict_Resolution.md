@@ -109,6 +109,8 @@
 | phi4-reasoningplus | 8.167 |
 | claude-3-7-sonnet-20250219 | 8.150 |
 | liquidlfm2-8b-a1b | 8.150 |
+| ChatGPT-5.5-Instant-20260530 | 8.133 |
+| Grok-4.3-20260530 | 8.133 |
 | nvidiaNemotron-3-Nano-Omni-30B-A3B-Reasoning | 8.133 |
 | openrouterowl-alpha | 8.100 |
 | gpt-5-chat-latest-2025-08-19 | 8.083 |

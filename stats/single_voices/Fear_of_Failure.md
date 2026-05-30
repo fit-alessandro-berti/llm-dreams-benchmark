@@ -154,6 +154,7 @@
 | qwen3.59b | 4.917 |
 | qwen3.635b-a3b | 4.800 |
 | Grok-4.30-20260420 | 4.800 |
+| ChatGPT-5.5-Instant-20260530 | 4.767 |
 | claude-haiku-4-5-20251001 | 4.767 |
 | qwenqwen3-next-80b-a3b-instruct | 4.733 |
 | granite4.130b | 4.683 |
@@ -196,6 +197,7 @@
 | xiaomimimo-v2-pro | 3.783 |
 | gpt-4.5-preview | 3.767 |
 | granite4small-h | 3.717 |
+| Grok-4.3-20260530 | 3.683 |
 | o3-pro-2025-06-10 | 3.667 |
 | qwen2.5-14b-instruct | 3.667 |
 | microsoftphi-4 | 3.600 |

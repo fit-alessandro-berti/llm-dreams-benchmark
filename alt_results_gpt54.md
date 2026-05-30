@@ -23,6 +23,7 @@
 | gpt-4o-2024-08-06 | **442.1** | 5.3 $\pm$ 0.5 | 8.2 $\pm$ 0.4 | 8.7 $\pm$ 0.2 | 9.8 $\pm$ 0.0 | 8.4 $\pm$ 0.0 | 8.1 $\pm$ 0.1 | 8.7 $\pm$ 0.1 | 6.0 $\pm$ 0.3 | 9.1 $\pm$ 0.0 | 8.4 $\pm$ 0.2 | 4.9 $\pm$ 0.3 | 5.2 $\pm$ 0.4 | 6.7 $\pm$ 0.0 | 8.2 $\pm$ 0.2 | 9.1 $\pm$ 0.1 |
 | xiaomimimo-v2.5-pro | **441.1** | 5.5 $\pm$ 1.3 | 8.1 $\pm$ 0.2 | 8.2 $\pm$ 0.2 | 9.8 $\pm$ 0.0 | 8.7 $\pm$ 0.0 | 8.0 $\pm$ 0.2 | 9.0 $\pm$ 0.1 | 5.9 $\pm$ 0.8 | 9.0 $\pm$ 0.0 | 7.8 $\pm$ 0.2 | 4.8 $\pm$ 1.1 | 4.6 $\pm$ 0.3 | 6.5 $\pm$ 0.9 | 8.2 $\pm$ 0.2 | 9.0 $\pm$ 0.1 |
 | ai21jamba-mini-1.7 | **440.7** | 5.8 $\pm$ 0.0 | 8.1 $\pm$ 0.1 | 8.8 $\pm$ 0.1 | 9.8 $\pm$ 0.1 | 8.3 $\pm$ 0.1 | 8.7 $\pm$ 0.1 | 8.8 $\pm$ 0.2 | 6.4 $\pm$ 0.0 | 9.3 $\pm$ 0.0 | 9.1 $\pm$ 0.0 | 4.8 $\pm$ 0.2 | 6.4 $\pm$ 0.2 | 7.5 $\pm$ 0.1 | 8.0 $\pm$ 0.1 | 9.3 $\pm$ 0.1 |
+| Grok-4.3-20260530 | **440.2** | 5.2 $\pm$ 0.7 | 8.0 $\pm$ 0.3 | 8.7 $\pm$ 0.1 | 10.0 $\pm$ 0.0 | 8.1 $\pm$ 0.3 | 8.5 $\pm$ 0.1 | 8.0 $\pm$ 0.8 | 6.0 $\pm$ 0.4 | 9.2 $\pm$ 0.1 | 8.6 $\pm$ 0.1 | 4.2 $\pm$ 0.4 | 4.8 $\pm$ 0.7 | 7.5 $\pm$ 0.4 | 7.6 $\pm$ 0.4 | 9.2 $\pm$ 0.2 |
 | microsoftWizardLM-2-8x22B | **439.4** | 5.6 $\pm$ 0.4 | 8.0 $\pm$ 0.2 | 8.9 $\pm$ 0.1 | 9.7 $\pm$ 0.0 | 8.5 $\pm$ 0.1 | 8.6 $\pm$ 0.2 | 8.9 $\pm$ 0.1 | 6.0 $\pm$ 0.3 | 9.2 $\pm$ 0.1 | 8.8 $\pm$ 0.1 | 5.0 $\pm$ 0.5 | 6.3 $\pm$ 0.0 | 6.9 $\pm$ 0.1 | 8.0 $\pm$ 0.2 | 9.1 $\pm$ 0.1 |
 | nvidiaNemotron-3-Nano-Omni-30B-A3B-Reasoning | **438.9** | 5.6 $\pm$ 1.2 | 7.8 $\pm$ 0.5 | 8.6 $\pm$ 0.0 | 9.8 $\pm$ 0.0 | 8.2 $\pm$ 0.1 | 8.2 $\pm$ 0.3 | 8.7 $\pm$ 0.1 | 6.6 $\pm$ 0.6 | 9.0 $\pm$ 0.1 | 8.5 $\pm$ 0.1 | 4.9 $\pm$ 1.0 | 5.0 $\pm$ 0.2 | 7.2 $\pm$ 0.5 | 8.0 $\pm$ 0.3 | 9.0 $\pm$ 0.2 |
 | liquidlfm2-8b-a1b | **438.7** | 5.5 $\pm$ 0.5 | 8.2 $\pm$ 0.1 | 8.8 $\pm$ 0.1 | 9.8 $\pm$ 0.0 | 8.2 $\pm$ 0.2 | 8.6 $\pm$ 0.1 | 8.2 $\pm$ 0.4 | 5.9 $\pm$ 0.8 | 9.1 $\pm$ 0.0 | 8.9 $\pm$ 0.1 | 4.6 $\pm$ 0.2 | 5.4 $\pm$ 0.7 | 7.4 $\pm$ 0.1 | 7.8 $\pm$ 0.1 | 9.1 $\pm$ 0.1 |
@@ -64,6 +65,7 @@
 | nvidiaNVIDIA-Nemotron-3-Super-120B-A12B | **417.9** | 6.8 $\pm$ 0.0 | 7.6 $\pm$ 0.4 | 8.6 $\pm$ 0.0 | 9.8 $\pm$ 0.0 | 8.0 $\pm$ 0.5 | 7.7 $\pm$ 0.1 | 8.8 $\pm$ 0.4 | 6.7 $\pm$ 0.2 | 8.9 $\pm$ 0.1 | 8.2 $\pm$ 0.1 | 6.4 $\pm$ 0.2 | 5.6 $\pm$ 0.3 | 7.4 $\pm$ 0.2 | 7.4 $\pm$ 0.5 | 9.0 $\pm$ 0.0 |
 | qwen2.5-7b-instruct | **416.8** | 7.1 $\pm$ 0.4 | 7.4 $\pm$ 0.3 | 8.8 $\pm$ 0.1 | 9.6 $\pm$ 0.0 | 8.1 $\pm$ 0.0 | 7.8 $\pm$ 0.1 | 8.5 $\pm$ 0.1 | 7.3 $\pm$ 0.4 | 9.0 $\pm$ 0.0 | 8.8 $\pm$ 0.1 | 6.2 $\pm$ 0.4 | 6.6 $\pm$ 0.1 | 8.2 $\pm$ 0.1 | 7.9 $\pm$ 0.1 | 9.0 $\pm$ 0.1 |
 | minimaxminimax-m2.7 | **416.6** | 6.8 $\pm$ 0.0 | 7.7 $\pm$ 0.2 | 8.6 $\pm$ 0.1 | 9.8 $\pm$ 0.0 | 7.8 $\pm$ 0.3 | 7.9 $\pm$ 0.1 | 8.3 $\pm$ 0.3 | 7.0 $\pm$ 0.2 | 9.0 $\pm$ 0.1 | 8.5 $\pm$ 0.0 | 6.0 $\pm$ 0.2 | 6.0 $\pm$ 0.2 | 8.0 $\pm$ 0.4 | 7.4 $\pm$ 0.1 | 9.0 $\pm$ 0.1 |
+| ChatGPT-5.5-Instant-20260530 | **415.9** | 6.2 $\pm$ 0.6 | 7.5 $\pm$ 0.1 | 8.3 $\pm$ 0.1 | 9.8 $\pm$ 0.0 | 7.3 $\pm$ 0.1 | 7.6 $\pm$ 0.2 | 7.9 $\pm$ 0.1 | 6.6 $\pm$ 0.3 | 8.9 $\pm$ 0.2 | 8.2 $\pm$ 0.0 | 5.5 $\pm$ 0.5 | 4.6 $\pm$ 0.2 | 7.4 $\pm$ 0.2 | 6.8 $\pm$ 0.1 | 8.8 $\pm$ 0.0 |
 | gpt-4.1-nano-2025-04-14 | **415.7** | 7.3 $\pm$ 0.5 | 7.4 $\pm$ 0.1 | 8.6 $\pm$ 0.1 | 9.5 $\pm$ 0.0 | 8.2 $\pm$ 0.1 | 7.8 $\pm$ 0.1 | 8.6 $\pm$ 0.1 | 7.3 $\pm$ 0.6 | 9.0 $\pm$ 0.1 | 8.7 $\pm$ 0.1 | 6.4 $\pm$ 0.6 | 6.3 $\pm$ 0.3 | 7.8 $\pm$ 0.2 | 7.9 $\pm$ 0.1 | 8.9 $\pm$ 0.1 |
 | minimaxminimax-m2.5 | **414.3** | 7.0 $\pm$ 0.4 | 7.4 $\pm$ 0.1 | 8.5 $\pm$ 0.1 | 9.8 $\pm$ 0.0 | 7.8 $\pm$ 0.1 | 8.0 $\pm$ 0.1 | 8.5 $\pm$ 0.1 | 7.2 $\pm$ 0.3 | 8.9 $\pm$ 0.1 | 8.5 $\pm$ 0.2 | 6.2 $\pm$ 0.4 | 6.1 $\pm$ 0.3 | 7.7 $\pm$ 0.3 | 7.3 $\pm$ 0.1 | 8.7 $\pm$ 0.1 |
 | nvidianemotron-3-nano-30b-a3bfree | **414.1** | 7.0 $\pm$ 0.4 | 7.5 $\pm$ 0.3 | 8.6 $\pm$ 0.1 | 9.9 $\pm$ 0.0 | 7.6 $\pm$ 0.1 | 7.9 $\pm$ 0.1 | 8.1 $\pm$ 0.1 | 6.9 $\pm$ 0.3 | 8.9 $\pm$ 0.1 | 8.4 $\pm$ 0.1 | 6.0 $\pm$ 0.5 | 5.4 $\pm$ 0.6 | 7.7 $\pm$ 0.5 | 7.2 $\pm$ 0.1 | 8.8 $\pm$ 0.1 |
@@ -745,6 +747,32 @@
 | Cognitive Load | 7.5 $\pm$ 0.1 |
 | Social Support | 8.0 $\pm$ 0.1 |
 | Resilience | 9.3 $\pm$ 0.1 |
+
+
+
+
+
+
+### Grok-4.3-20260530
+
+
+| Personality Trait | Score (1.0-10.0) |
+| --- | --- |
+| Anxiety and Stress Levels | 5.2 $\pm$ 0.7 |
+| Emotional Stability | 8.0 $\pm$ 0.3 |
+| Problem-solving Skills | 8.7 $\pm$ 0.1 |
+| Creativity | 10.0 $\pm$ 0.0 |
+| Interpersonal Relationships | 8.1 $\pm$ 0.3 |
+| Confidence and Self-efficacy | 8.5 $\pm$ 0.1 |
+| Conflict Resolution | 8.0 $\pm$ 0.8 |
+| Work-related Stress | 6.0 $\pm$ 0.4 |
+| Adaptability | 9.2 $\pm$ 0.1 |
+| Achievement Motivation | 8.6 $\pm$ 0.1 |
+| Fear of Failure | 4.2 $\pm$ 0.4 |
+| Need for Control | 4.8 $\pm$ 0.7 |
+| Cognitive Load | 7.5 $\pm$ 0.4 |
+| Social Support | 7.6 $\pm$ 0.4 |
+| Resilience | 9.2 $\pm$ 0.2 |
 
 
 
@@ -1811,6 +1839,32 @@
 | Cognitive Load | 8.0 $\pm$ 0.4 |
 | Social Support | 7.4 $\pm$ 0.1 |
 | Resilience | 9.0 $\pm$ 0.1 |
+
+
+
+
+
+
+### ChatGPT-5.5-Instant-20260530
+
+
+| Personality Trait | Score (1.0-10.0) |
+| --- | --- |
+| Anxiety and Stress Levels | 6.2 $\pm$ 0.6 |
+| Emotional Stability | 7.5 $\pm$ 0.1 |
+| Problem-solving Skills | 8.3 $\pm$ 0.1 |
+| Creativity | 9.8 $\pm$ 0.0 |
+| Interpersonal Relationships | 7.3 $\pm$ 0.1 |
+| Confidence and Self-efficacy | 7.6 $\pm$ 0.2 |
+| Conflict Resolution | 7.9 $\pm$ 0.1 |
+| Work-related Stress | 6.6 $\pm$ 0.3 |
+| Adaptability | 8.9 $\pm$ 0.2 |
+| Achievement Motivation | 8.2 $\pm$ 0.0 |
+| Fear of Failure | 5.5 $\pm$ 0.5 |
+| Need for Control | 4.6 $\pm$ 0.2 |
+| Cognitive Load | 7.4 $\pm$ 0.2 |
+| Social Support | 6.8 $\pm$ 0.1 |
+| Resilience | 8.8 $\pm$ 0.0 |
 
 
 

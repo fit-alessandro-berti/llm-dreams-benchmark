@@ -3,6 +3,7 @@
 | LLM | MHS | Anxiety and Stress Levels | Emotional Stability | Problem-solving Skills | Creativity | Interpersonal Relationships | Confidence and Self-efficacy | Conflict Resolution | Work-related Stress | Adaptability | Achievement Motivation | Fear of Failure | Need for Control | Cognitive Load | Social Support | Resilience |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | qwenqwen3.6-plusfree | **477.5** | 2.2 $\pm$ 0.2 | 8.9 $\pm$ 0.2 | 8.8 $\pm$ 0.6 | 9.8 $\pm$ 0.2 | 7.9 $\pm$ 0.4 | 8.5 $\pm$ 0.4 | 8.8 $\pm$ 0.6 | 3.0 $\pm$ 0.0 | 9.2 $\pm$ 0.2 | 7.6 $\pm$ 0.4 | 2.2 $\pm$ 0.2 | 2.6 $\pm$ 0.4 | 3.4 $\pm$ 0.4 | 8.1 $\pm$ 0.5 | 9.4 $\pm$ 0.2 |
+| Grok-4.3-20260530 | **476.5** | 3.2 $\pm$ 0.2 | 8.5 $\pm$ 0.0 | 9.0 $\pm$ 0.0 | 9.9 $\pm$ 0.2 | 8.0 $\pm$ 0.0 | 9.0 $\pm$ 0.0 | 8.6 $\pm$ 0.2 | 3.8 $\pm$ 0.4 | 9.4 $\pm$ 0.2 | 8.4 $\pm$ 0.2 | 2.4 $\pm$ 0.2 | 3.2 $\pm$ 0.2 | 4.0 $\pm$ 0.0 | 8.1 $\pm$ 0.2 | 9.4 $\pm$ 0.2 |
 | granite4small-h | **472.0** | 2.8 $\pm$ 0.6 | 8.8 $\pm$ 0.2 | 9.4 $\pm$ 0.4 | 9.4 $\pm$ 0.2 | 8.1 $\pm$ 0.7 | 9.0 $\pm$ 0.5 | 8.6 $\pm$ 0.6 | 3.6 $\pm$ 0.6 | 9.2 $\pm$ 0.2 | 9.0 $\pm$ 0.0 | 2.4 $\pm$ 0.4 | 3.8 $\pm$ 0.8 | 5.8 $\pm$ 1.3 | 8.1 $\pm$ 0.5 | 9.4 $\pm$ 0.4 |
 | qwenqwen3.5-122b-a10b | **470.5** | 2.6 $\pm$ 0.6 | 8.8 $\pm$ 0.2 | 8.9 $\pm$ 0.2 | 9.9 $\pm$ 0.2 | 7.8 $\pm$ 0.2 | 8.6 $\pm$ 0.4 | 8.6 $\pm$ 0.4 | 3.0 $\pm$ 0.6 | 9.5 $\pm$ 0.4 | 7.9 $\pm$ 0.5 | 2.1 $\pm$ 0.5 | 3.2 $\pm$ 0.9 | 4.2 $\pm$ 1.1 | 7.6 $\pm$ 0.4 | 9.4 $\pm$ 0.4 |
 | o1-preview-2024-09-12 | **469.5** | 3.0 $\pm$ 0.7 | 8.2 $\pm$ 0.4 | 9.1 $\pm$ 0.2 | 9.5 $\pm$ 0.0 | 8.5 $\pm$ 0.4 | 8.5 $\pm$ 0.4 | 8.9 $\pm$ 0.5 | 3.6 $\pm$ 1.0 | 9.1 $\pm$ 0.2 | 8.6 $\pm$ 0.2 | 2.9 $\pm$ 0.6 | 3.8 $\pm$ 0.6 | 4.6 $\pm$ 0.6 | 8.4 $\pm$ 0.4 | 9.1 $\pm$ 0.2 |
@@ -26,6 +27,7 @@
 | gpt-4-turbo-2024-04-09 | **460.5** | 3.4 $\pm$ 0.2 | 8.1 $\pm$ 0.2 | 8.9 $\pm$ 0.2 | 9.5 $\pm$ 0.0 | 8.2 $\pm$ 0.2 | 8.2 $\pm$ 0.2 | 8.2 $\pm$ 0.2 | 3.9 $\pm$ 0.5 | 9.0 $\pm$ 0.0 | 8.4 $\pm$ 0.2 | 3.0 $\pm$ 0.5 | 3.2 $\pm$ 0.4 | 4.9 $\pm$ 0.9 | 8.1 $\pm$ 0.2 | 9.0 $\pm$ 0.0 |
 | gpt-4-0125-preview | **460.5** | 3.2 $\pm$ 0.4 | 8.2 $\pm$ 0.2 | 9.0 $\pm$ 0.0 | 9.5 $\pm$ 0.0 | 8.2 $\pm$ 0.2 | 8.2 $\pm$ 0.2 | 8.2 $\pm$ 0.2 | 3.2 $\pm$ 0.4 | 9.0 $\pm$ 0.0 | 8.4 $\pm$ 0.2 | 2.5 $\pm$ 0.4 | 3.5 $\pm$ 0.4 | 5.1 $\pm$ 1.2 | 8.4 $\pm$ 0.2 | 9.0 $\pm$ 0.0 |
 | gpt-4o-mini-2024-07-18 | **460.0** | 4.0 $\pm$ 1.1 | 7.9 $\pm$ 0.2 | 8.9 $\pm$ 0.2 | 9.4 $\pm$ 0.4 | 8.4 $\pm$ 0.4 | 8.0 $\pm$ 0.4 | 8.5 $\pm$ 0.5 | 4.2 $\pm$ 1.1 | 9.2 $\pm$ 0.2 | 8.5 $\pm$ 0.4 | 3.1 $\pm$ 0.9 | 3.8 $\pm$ 1.2 | 4.6 $\pm$ 1.8 | 8.5 $\pm$ 0.4 | 9.0 $\pm$ 0.4 |
+| ChatGPT-5.5-Instant-20260530 | **460.0** | 3.5 $\pm$ 0.4 | 8.4 $\pm$ 0.2 | 9.0 $\pm$ 0.0 | 9.5 $\pm$ 0.0 | 8.0 $\pm$ 0.0 | 8.2 $\pm$ 0.2 | 8.5 $\pm$ 0.0 | 3.5 $\pm$ 0.6 | 9.2 $\pm$ 0.2 | 7.6 $\pm$ 0.2 | 2.9 $\pm$ 0.2 | 3.5 $\pm$ 0.4 | 4.4 $\pm$ 0.4 | 8.2 $\pm$ 0.2 | 9.0 $\pm$ 0.0 |
 | o3-2025-04-16 | **459.9** | 3.2 $\pm$ 0.2 | 8.2 $\pm$ 0.2 | 9.2 $\pm$ 0.2 | 9.7 $\pm$ 0.2 | 7.9 $\pm$ 0.2 | 8.6 $\pm$ 0.2 | 8.2 $\pm$ 0.5 | 3.8 $\pm$ 0.3 | 9.2 $\pm$ 0.2 | 8.0 $\pm$ 0.6 | 3.0 $\pm$ 0.4 | 3.2 $\pm$ 0.2 | 5.2 $\pm$ 0.8 | 7.6 $\pm$ 0.4 | 9.1 $\pm$ 0.2 |
 | openaigpt-oss-20b | **459.5** | 3.0 $\pm$ 0.4 | 8.2 $\pm$ 0.2 | 9.0 $\pm$ 0.0 | 9.6 $\pm$ 0.2 | 8.0 $\pm$ 0.4 | 8.2 $\pm$ 0.2 | 8.5 $\pm$ 0.5 | 3.4 $\pm$ 0.6 | 9.2 $\pm$ 0.2 | 8.4 $\pm$ 0.5 | 2.8 $\pm$ 0.4 | 3.9 $\pm$ 0.4 | 5.0 $\pm$ 1.1 | 7.8 $\pm$ 0.4 | 9.1 $\pm$ 0.2 |
 | microsoftWizardLM-2-8x22B | **459.5** | 4.1 $\pm$ 1.1 | 8.1 $\pm$ 0.2 | 9.1 $\pm$ 0.2 | 9.5 $\pm$ 0.0 | 8.4 $\pm$ 0.2 | 8.5 $\pm$ 0.4 | 8.9 $\pm$ 0.2 | 4.4 $\pm$ 1.6 | 9.4 $\pm$ 0.2 | 8.9 $\pm$ 0.2 | 3.1 $\pm$ 0.7 | 4.4 $\pm$ 1.2 | 6.0 $\pm$ 1.9 | 8.2 $\pm$ 0.2 | 9.1 $\pm$ 0.2 |
@@ -224,6 +226,32 @@
 | Need for Control | 2.6 $\pm$ 0.4 |
 | Cognitive Load | 3.4 $\pm$ 0.4 |
 | Social Support | 8.1 $\pm$ 0.5 |
+| Resilience | 9.4 $\pm$ 0.2 |
+
+
+
+
+
+
+### Grok-4.3-20260530
+
+
+| Personality Trait | Score (1.0-10.0) |
+| --- | --- |
+| Anxiety and Stress Levels | 3.2 $\pm$ 0.2 |
+| Emotional Stability | 8.5 $\pm$ 0.0 |
+| Problem-solving Skills | 9.0 $\pm$ 0.0 |
+| Creativity | 9.9 $\pm$ 0.2 |
+| Interpersonal Relationships | 8.0 $\pm$ 0.0 |
+| Confidence and Self-efficacy | 9.0 $\pm$ 0.0 |
+| Conflict Resolution | 8.6 $\pm$ 0.2 |
+| Work-related Stress | 3.8 $\pm$ 0.4 |
+| Adaptability | 9.4 $\pm$ 0.2 |
+| Achievement Motivation | 8.4 $\pm$ 0.2 |
+| Fear of Failure | 2.4 $\pm$ 0.2 |
+| Need for Control | 3.2 $\pm$ 0.2 |
+| Cognitive Load | 4.0 $\pm$ 0.0 |
+| Social Support | 8.1 $\pm$ 0.2 |
 | Resilience | 9.4 $\pm$ 0.2 |
 
 
@@ -823,6 +851,32 @@
 | Cognitive Load | 4.6 $\pm$ 1.8 |
 | Social Support | 8.5 $\pm$ 0.4 |
 | Resilience | 9.0 $\pm$ 0.4 |
+
+
+
+
+
+
+### ChatGPT-5.5-Instant-20260530
+
+
+| Personality Trait | Score (1.0-10.0) |
+| --- | --- |
+| Anxiety and Stress Levels | 3.5 $\pm$ 0.4 |
+| Emotional Stability | 8.4 $\pm$ 0.2 |
+| Problem-solving Skills | 9.0 $\pm$ 0.0 |
+| Creativity | 9.5 $\pm$ 0.0 |
+| Interpersonal Relationships | 8.0 $\pm$ 0.0 |
+| Confidence and Self-efficacy | 8.2 $\pm$ 0.2 |
+| Conflict Resolution | 8.5 $\pm$ 0.0 |
+| Work-related Stress | 3.5 $\pm$ 0.6 |
+| Adaptability | 9.2 $\pm$ 0.2 |
+| Achievement Motivation | 7.6 $\pm$ 0.2 |
+| Fear of Failure | 2.9 $\pm$ 0.2 |
+| Need for Control | 3.5 $\pm$ 0.4 |
+| Cognitive Load | 4.4 $\pm$ 0.4 |
+| Social Support | 8.2 $\pm$ 0.2 |
+| Resilience | 9.0 $\pm$ 0.0 |
 
 
 

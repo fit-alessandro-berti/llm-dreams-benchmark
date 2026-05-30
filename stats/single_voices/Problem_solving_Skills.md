@@ -29,6 +29,7 @@
 | gpt-3.5-turbo | 8.833 |
 | gpt-4o-2024-05-13 | 8.833 |
 | gpt-5-pro-2025-10-06 | 8.833 |
+| Grok-4.3-20260530 | 8.833 |
 | grok-2-1212 | 8.817 |
 | phi33.8b | 8.817 |
 | baiduernie-4.5-21b-a3b | 8.800 |
@@ -85,6 +86,7 @@
 | openaigpt-5.4-mini | 8.533 |
 | claude-3-7-sonnet-20250219 | 8.517 |
 | Qwen-3.6-Max-Preview | 8.517 |
+| ChatGPT-5.5-Instant-20260530 | 8.517 |
 | deepseekdeepseek-v4-flash | 8.500 |
 | gpt-4.5-preview | 8.500 |
 | liquidlfm-2.5-1.2b-instructfree | 8.500 |

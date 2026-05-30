@@ -51,6 +51,7 @@
 | falcon310b-instruct-q8_0 | 7.967 |
 | gpt-5-pro-2025-10-06 | 7.967 |
 | liquidlfm-2.2-6b | 7.950 |
+| Grok-4.3-20260530 | 7.933 |
 | granite4micro | 7.933 |
 | gpt-4.1-nano-2025-04-14 | 7.917 |
 | gpt-5-2025-08-07 | 7.900 |
@@ -79,6 +80,7 @@
 | amazonnova-2-lite-v1 | 7.650 |
 | meta-llamaMeta-Llama-3.1-405B-Instruct | 7.650 |
 | nvidianemotron-3-nano-30b-a3bfree | 7.650 |
+| ChatGPT-5.5-Instant-20260530 | 7.633 |
 | Grok-3-beta-thinking-20250303 | 7.633 |
 | minimaxminimax-m2.5 | 7.633 |
 | o1-pro-2024-12-05 | 7.633 |

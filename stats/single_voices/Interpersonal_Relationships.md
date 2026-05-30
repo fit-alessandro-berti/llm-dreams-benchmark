@@ -44,6 +44,7 @@
 | gpt-4.1-mini-2025-04-14 | 8.100 |
 | o3-pro-2025-06-10 | 8.100 |
 | granite4.13b | 8.067 |
+| Grok-4.3-20260530 | 8.067 |
 | gpt-5-2025-08-07 | 8.050 |
 | ministral-3b-2410 | 8.050 |
 | open-mixtral-8x7b | 8.050 |
@@ -83,6 +84,7 @@
 | smollm21.7b-instruct-q6_K | 7.783 |
 | gpt-5.5-2026-04-23 | 7.750 |
 | anthropicclaude-opus-4.6 | 7.733 |
+| ChatGPT-5.5-Instant-20260530 | 7.717 |
 | gpt-5.3-codex-spark-low | 7.717 |
 | openaigpt-5.4-mini | 7.717 |
 | o1-2024-12-05 | 7.700 |

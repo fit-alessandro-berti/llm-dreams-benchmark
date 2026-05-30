@@ -156,6 +156,7 @@
 | qwen3.635b-a3b | 5.500 |
 | granite4.130b | 5.433 |
 | microsoftWizardLM-2-8x22B | 5.400 |
+| ChatGPT-5.5-Instant-20260530 | 5.383 |
 | falcon310b-instruct-q8_0 | 5.383 |
 | xiaomimimo-v2.5 | 5.367 |
 | qwen3.59b | 5.317 |
@@ -191,6 +192,7 @@
 | xiaomimimo-v2-pro | 4.700 |
 | gpt-4o-2024-08-06 | 4.683 |
 | qwen2.5-14b-instruct | 4.683 |
+| Grok-4.3-20260530 | 4.667 |
 | qwen2.5-32b-instruct | 4.650 |
 | open-mixtral-8x22b | 4.650 |
 | gpt-5-nano-2025-08-07 | 4.550 |

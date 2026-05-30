@@ -23,6 +23,7 @@
 | liquidlfm2-8b-a1b | 8.100 |
 | qwen2.5-72b-instruct | 8.100 |
 | gpt-4-turbo-2024-04-09 | 8.083 |
+| Grok-4.3-20260530 | 8.083 |
 | granite3.28b-instruct-q4_K_M | 8.067 |
 | open-mixtral-8x22b | 8.067 |
 | qwen2.5-32b-instruct | 8.067 |
@@ -51,6 +52,7 @@
 | gpt-4-0613 | 7.750 |
 | openaigpt-5.4-mini | 7.750 |
 | minimaxminimax-m2.7 | 7.733 |
+| ChatGPT-5.5-Instant-20260530 | 7.733 |
 | gpt-5-pro-2025-10-06 | 7.733 |
 | phi4-reasoningplus | 7.717 |
 | Meta-Muse-Spark-20260409 | 7.700 |

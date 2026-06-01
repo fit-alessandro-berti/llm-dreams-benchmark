@@ -101,6 +101,7 @@
 | gemini-3-flash-preview | 5.950 |
 | poolsidelaguna-xs.2free | 5.950 |
 | googlegemini-3.1-flash-lite-preview | 5.950 |
+| minimaxminimax-m3 | 5.933 |
 | openaigpt-5.4-pro | 5.933 |
 | gpt-5-chat-latest-2025-08-19 | 5.933 |
 | openrouterowl-alpha | 5.917 |

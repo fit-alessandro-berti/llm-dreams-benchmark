@@ -83,6 +83,7 @@
 | qwenqwen3-30b-a3b-instruct-2507 | 8.067 |
 | smollm21.7b-instruct-q6_K | 8.050 |
 | poolsidelaguna-xs.2free | 8.050 |
+| minimaxminimax-m3 | 8.033 |
 | qwenqwen3-max | 8.033 |
 | gemini-1.5-flash-002 | 8.017 |
 | granite3.28b-instruct-q4_K_M | 8.000 |

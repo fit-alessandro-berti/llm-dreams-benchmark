@@ -11286,6 +11286,72 @@
     }
   },
   {
+    "LLM": "minimaxminimax-m3",
+    "MHS": 377.3,
+    "scores": {
+      "Anxiety and Stress Levels": {
+        "mean": 7.1,
+        "std": 1.3
+      },
+      "Emotional Stability": {
+        "mean": 6.4,
+        "std": 0.8
+      },
+      "Problem-solving Skills": {
+        "mean": 7.8,
+        "std": 0.8
+      },
+      "Creativity": {
+        "mean": 9.6,
+        "std": 0.2
+      },
+      "Interpersonal Relationships": {
+        "mean": 6.8,
+        "std": 0.6
+      },
+      "Confidence and Self-efficacy": {
+        "mean": 6.9,
+        "std": 0.8
+      },
+      "Conflict Resolution": {
+        "mean": 6.2,
+        "std": 1.1
+      },
+      "Work-related Stress": {
+        "mean": 7.5,
+        "std": 1.2
+      },
+      "Adaptability": {
+        "mean": 8.5,
+        "std": 0.7
+      },
+      "Achievement Motivation": {
+        "mean": 7.7,
+        "std": 0.6
+      },
+      "Fear of Failure": {
+        "mean": 6.6,
+        "std": 1.3
+      },
+      "Need for Control": {
+        "mean": 5.9,
+        "std": 1.4
+      },
+      "Cognitive Load": {
+        "mean": 8.0,
+        "std": 1.1
+      },
+      "Social Support": {
+        "mean": 6.7,
+        "std": 0.7
+      },
+      "Resilience": {
+        "mean": 8.0,
+        "std": 0.6
+      }
+    }
+  },
+  {
     "LLM": "tencenthy3-previewfree",
     "MHS": 376.6,
     "scores": {

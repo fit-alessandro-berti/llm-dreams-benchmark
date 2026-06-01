@@ -190,6 +190,7 @@
 | claude-opus-4-5-20251101 | 7.733 |
 | xiaomimimo-v2-pro | 7.700 |
 | gemini-2.5-pro-preview-06-05 | 7.667 |
+| minimaxminimax-m3 | 7.667 |
 | qwenqwen3.5-27b | 7.650 |
 | qwenqwen3.5-122b-a10b | 7.617 |
 | anthropicclaude-sonnet-4.5 | 7.600 |

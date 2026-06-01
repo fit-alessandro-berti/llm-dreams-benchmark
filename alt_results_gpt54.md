@@ -184,6 +184,7 @@
 | ibmgranite41b-h | **361.2** | 8.2 $\pm$ 0.4 | 6.0 $\pm$ 0.2 | 8.0 $\pm$ 0.1 | 9.0 $\pm$ 0.2 | 6.7 $\pm$ 0.2 | 6.8 $\pm$ 0.1 | 6.8 $\pm$ 0.6 | 8.6 $\pm$ 0.2 | 7.7 $\pm$ 0.2 | 8.4 $\pm$ 0.1 | 8.0 $\pm$ 0.3 | 7.2 $\pm$ 0.1 | 8.5 $\pm$ 0.1 | 6.2 $\pm$ 0.3 | 8.0 $\pm$ 0.1 |
 | meta-llamaMeta-Llama-3.1-8B-Instruct | **361.1** | 8.4 $\pm$ 0.3 | 5.0 $\pm$ 0.4 | 7.8 $\pm$ 0.5 | 9.6 $\pm$ 0.1 | 6.8 $\pm$ 0.0 | 6.3 $\pm$ 0.6 | 7.9 $\pm$ 0.5 | 8.6 $\pm$ 0.1 | 7.8 $\pm$ 0.3 | 8.6 $\pm$ 0.1 | 8.1 $\pm$ 0.3 | 7.2 $\pm$ 0.0 | 8.9 $\pm$ 0.2 | 6.4 $\pm$ 0.2 | 7.9 $\pm$ 0.1 |
 | claude-3-opus-20240229 | **360.7** | 8.4 $\pm$ 0.4 | 5.6 $\pm$ 0.3 | 8.1 $\pm$ 0.2 | 9.5 $\pm$ 0.1 | 6.6 $\pm$ 0.1 | 6.6 $\pm$ 0.4 | 6.1 $\pm$ 1.3 | 8.6 $\pm$ 0.1 | 8.2 $\pm$ 0.1 | 8.4 $\pm$ 0.2 | 8.1 $\pm$ 0.3 | 7.2 $\pm$ 0.3 | 8.3 $\pm$ 0.2 | 6.3 $\pm$ 0.1 | 8.1 $\pm$ 0.2 |
+| minimaxminimax-m3 | **358.4** | 7.8 $\pm$ 0.0 | 6.1 $\pm$ 0.5 | 7.4 $\pm$ 0.0 | 9.8 $\pm$ 0.0 | 6.6 $\pm$ 0.4 | 6.4 $\pm$ 0.3 | 5.7 $\pm$ 1.0 | 8.1 $\pm$ 0.0 | 8.4 $\pm$ 0.0 | 7.6 $\pm$ 0.0 | 7.4 $\pm$ 0.2 | 6.8 $\pm$ 0.1 | 8.3 $\pm$ 0.3 | 6.1 $\pm$ 0.2 | 7.8 $\pm$ 0.2 |
 | ministral-14b-2512 | **357.6** | 8.7 $\pm$ 0.2 | 5.3 $\pm$ 0.4 | 7.9 $\pm$ 0.1 | 9.8 $\pm$ 0.0 | 6.8 $\pm$ 0.4 | 6.1 $\pm$ 0.2 | 7.2 $\pm$ 0.5 | 8.6 $\pm$ 0.1 | 8.2 $\pm$ 0.2 | 8.3 $\pm$ 0.2 | 8.2 $\pm$ 0.2 | 7.3 $\pm$ 0.1 | 8.8 $\pm$ 0.1 | 6.1 $\pm$ 0.3 | 8.1 $\pm$ 0.1 |
 | gemma4e4b | **354.9** | 8.8 $\pm$ 0.0 | 5.3 $\pm$ 0.4 | 7.6 $\pm$ 0.3 | 9.8 $\pm$ 0.0 | 6.5 $\pm$ 0.9 | 6.0 $\pm$ 0.4 | 7.5 $\pm$ 0.6 | 8.9 $\pm$ 0.1 | 8.2 $\pm$ 0.2 | 7.9 $\pm$ 0.3 | 8.3 $\pm$ 0.1 | 7.0 $\pm$ 0.2 | 8.9 $\pm$ 0.2 | 5.7 $\pm$ 0.7 | 8.3 $\pm$ 0.1 |
 | gemma4e2b | **354.1** | 8.8 $\pm$ 0.1 | 5.0 $\pm$ 0.5 | 7.2 $\pm$ 0.2 | 9.9 $\pm$ 0.0 | 6.2 $\pm$ 0.0 | 5.5 $\pm$ 0.3 | 7.7 $\pm$ 0.1 | 9.0 $\pm$ 0.2 | 8.0 $\pm$ 0.3 | 8.1 $\pm$ 0.3 | 8.7 $\pm$ 0.2 | 5.7 $\pm$ 1.2 | 8.9 $\pm$ 0.1 | 5.8 $\pm$ 0.1 | 8.0 $\pm$ 0.1 |
@@ -4933,6 +4934,32 @@
 | Cognitive Load | 8.3 $\pm$ 0.2 |
 | Social Support | 6.3 $\pm$ 0.1 |
 | Resilience | 8.1 $\pm$ 0.2 |
+
+
+
+
+
+
+### minimaxminimax-m3
+
+
+| Personality Trait | Score (1.0-10.0) |
+| --- | --- |
+| Anxiety and Stress Levels | 7.8 $\pm$ 0.0 |
+| Emotional Stability | 6.1 $\pm$ 0.5 |
+| Problem-solving Skills | 7.4 $\pm$ 0.0 |
+| Creativity | 9.8 $\pm$ 0.0 |
+| Interpersonal Relationships | 6.6 $\pm$ 0.4 |
+| Confidence and Self-efficacy | 6.4 $\pm$ 0.3 |
+| Conflict Resolution | 5.7 $\pm$ 1.0 |
+| Work-related Stress | 8.1 $\pm$ 0.0 |
+| Adaptability | 8.4 $\pm$ 0.0 |
+| Achievement Motivation | 7.6 $\pm$ 0.0 |
+| Fear of Failure | 7.4 $\pm$ 0.2 |
+| Need for Control | 6.8 $\pm$ 0.1 |
+| Cognitive Load | 8.3 $\pm$ 0.3 |
+| Social Support | 6.1 $\pm$ 0.2 |
+| Resilience | 7.8 $\pm$ 0.2 |
 
 
 

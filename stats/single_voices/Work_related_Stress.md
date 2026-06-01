@@ -78,6 +78,7 @@
 | stepfunstep-3.7-flash | 7.500 |
 | chatgpt-4o-latest-2025-03-26 | 7.483 |
 | openrouterowl-alpha | 7.467 |
+| minimaxminimax-m3 | 7.467 |
 | mistral-medium-3.5 | 7.450 |
 | ai21jamba-large-1.7 | 7.450 |
 | claude-opus-4-8 | 7.417 |

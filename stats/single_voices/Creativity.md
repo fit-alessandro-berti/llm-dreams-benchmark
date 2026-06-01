@@ -104,6 +104,7 @@
 | openrouterowl-alpha | 9.583 |
 | qwen2.5-14b-instruct | 9.583 |
 | gpt-4.1-mini-2025-04-14 | 9.567 |
+| minimaxminimax-m3 | 9.567 |
 | ministral-8b-2512 | 9.567 |
 | phi4-reasoningplus | 9.567 |
 | poolsidelaguna-m.1free | 9.567 |

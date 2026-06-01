@@ -188,6 +188,7 @@
 | qwenqwen3-next-80b-a3b-instruct | 7.817 |
 | bytedance-seedseed-2.0-lite | 7.800 |
 | grok-4.20-multi-agent-experimental-beta-0304 | 7.800 |
+| minimaxminimax-m3 | 7.800 |
 | mistral-small-2603 | 7.783 |
 | ministral-3b-2512 | 7.767 |
 | anthropicclaude-opus-4.1 | 7.733 |

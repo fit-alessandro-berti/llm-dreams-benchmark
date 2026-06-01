@@ -175,6 +175,7 @@
 | claude-3-5-sonnet-20241022 | 6.683 |
 | ibmgranite41b-h | 6.683 |
 | mistral-medium-2508 | 6.683 |
+| minimaxminimax-m3 | 6.667 |
 | allenaiolmo-3-7b-think | 6.617 |
 | z-aiglm-5.1 | 6.617 |
 | meta-llamaMeta-Llama-3.1-8B-Instruct | 6.600 |

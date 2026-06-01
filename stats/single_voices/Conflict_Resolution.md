@@ -193,6 +193,7 @@
 | gemma-4-26b-a4b-it | 6.317 |
 | claude-opus-4-7 | 6.267 |
 | aion-labsaion-2.0 | 6.200 |
+| minimaxminimax-m3 | 6.183 |
 | ministral-8b-2512 | 6.133 |
 | liquidlfm-2-24b-a2b | 6.050 |
 | llama27b | 5.800 |

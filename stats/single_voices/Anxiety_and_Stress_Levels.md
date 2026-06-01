@@ -83,6 +83,7 @@
 | gemini-1.5-flash-002 | 7.183 |
 | qwenqwen3-30b-a3b-instruct-2507 | 7.167 |
 | anthropicclaude-opus-4.1 | 7.117 |
+| minimaxminimax-m3 | 7.083 |
 | amazonnova-2-lite-v1 | 7.067 |
 | talkie-1930-13b-it | 7.067 |
 | gemma-4-31b-it | 7.067 |

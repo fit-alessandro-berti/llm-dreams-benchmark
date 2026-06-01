@@ -174,6 +174,7 @@
 | claude-3-5-sonnet-20241022 | 6.867 |
 | ministral-14b-2512 | 6.850 |
 | grok-build-0.1 | 6.850 |
+| minimaxminimax-m3 | 6.817 |
 | ibmgranite41b-h | 6.767 |
 | claude-3-opus-20240229 | 6.750 |
 | deepseekdeepseek-v3.2-speciale | 6.733 |

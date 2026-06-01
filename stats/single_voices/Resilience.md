@@ -185,6 +185,7 @@
 | ministral-14b-2512 | 8.150 |
 | claude-3-5-sonnet-20241022 | 8.083 |
 | claude-3-opus-20240229 | 8.050 |
+| minimaxminimax-m3 | 8.017 |
 | meta-llamallama-4-scout | 7.967 |
 | meta-llamaMeta-Llama-3.1-8B-Instruct | 7.883 |
 | ministral-8b-2512 | 7.833 |

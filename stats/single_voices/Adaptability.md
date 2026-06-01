@@ -174,6 +174,7 @@
 | phi2.7b | 8.550 |
 | gpt-5.2-2025-12-11 | 8.533 |
 | stepfunstep-3.7-flash | 8.533 |
+| minimaxminimax-m3 | 8.483 |
 | Liquid-LFM2.5-350M | 8.467 |
 | smollm21.7b-instruct-q6_K | 8.467 |
 | meta-llamallama-4-scout | 8.433 |

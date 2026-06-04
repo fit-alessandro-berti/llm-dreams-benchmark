@@ -201,6 +201,7 @@
 | claude-opus-4-8 | 6.133 |
 | ministral-3b-2512 | 6.083 |
 | mistral-large-2512 | 5.917 |
+| nvidianemotron-3-ultra-550b-a55bfree | 5.850 |
 | gemini-3-pro-preview | 5.817 |
 | z-aiglm-5v-turbo | 5.717 |
 | talkie-1930-13b-it | 5.667 |

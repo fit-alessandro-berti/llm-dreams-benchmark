@@ -199,6 +199,7 @@
 | claude-opus-4-7 | 7.600 |
 | gemma4e2b | 7.600 |
 | meta-llamallama-4-maverick | 7.600 |
+| nvidianemotron-3-ultra-550b-a55bfree | 7.600 |
 | z-aiglm-5v-turbo | 7.550 |
 | qwen3.52b | 7.267 |
 | anthropicclaude-sonnet-4.5 | 7.250 |

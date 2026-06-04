@@ -200,6 +200,7 @@
 | qwen3.52b | 6.017 |
 | z-aiglm-5v-turbo | 5.983 |
 | qwen3.54b | 5.950 |
+| nvidianemotron-3-ultra-550b-a55bfree | 5.900 |
 | claude-opus-4-8 | 5.867 |
 | claude-opus-4-7 | 5.817 |
 | gemini-2.5-pro-exp-03-25 | 5.800 |

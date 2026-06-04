@@ -205,4 +205,5 @@
 | gemini-3-pro-preview | 4.783 |
 | z-aiglm-5v-turbo | 4.767 |
 | qwen3.50.8b | 4.733 |
+| nvidianemotron-3-ultra-550b-a55bfree | 4.600 |
 | mistral-large-2512 | 4.517 |

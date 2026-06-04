@@ -33,6 +33,7 @@
 | granite4tiny-h | 6.733 |
 | meta-llamaMeta-Llama-3.1-405B-Instruct | 6.733 |
 | smollm21.7b-instruct-q6_K | 6.733 |
+| nvidianemotron-3-ultra-550b-a55bfree | 6.717 |
 | qwen3.54b | 6.717 |
 | meta-llamaLlama-3.2-3B-Instruct | 6.717 |
 | gpt-4o-mini-2024-11-05 | 6.683 |

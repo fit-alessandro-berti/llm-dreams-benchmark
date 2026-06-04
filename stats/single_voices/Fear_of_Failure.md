@@ -3,6 +3,7 @@
 | Model | Average |
 |:--|--:|
 | mistral-large-2512 | 8.517 |
+| nvidianemotron-3-ultra-550b-a55bfree | 8.217 |
 | z-aiglm-5v-turbo | 8.167 |
 | gemini-2.5-pro-exp-03-25 | 8.133 |
 | mistral-small-2603 | 8.117 |

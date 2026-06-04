@@ -204,5 +204,6 @@
 | gemma4e4b | 5.800 |
 | z-aiglm-5v-turbo | 5.800 |
 | mistral-large-2512 | 5.700 |
+| nvidianemotron-3-ultra-550b-a55bfree | 5.567 |
 | qwen3.54b | 5.400 |
 | qwen3.50.8b | 5.150 |

@@ -31,6 +31,7 @@
 | gpt-5-mini-2025-08-07 | 9.717 |
 | Grok-4-fast-20251111 | 9.717 |
 | deepseekdeepseek-v4-pro | 9.700 |
+| nvidianemotron-3-ultra-550b-a55bfree | 9.700 |
 | qwenqwen3-30b-a3b-instruct-2507 | 9.700 |
 | qwenqwen3.5-35b-a3b | 9.700 |
 | claude-opus-4-5-20251101 | 9.700 |

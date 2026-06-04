@@ -3,6 +3,7 @@
 | Model | Average |
 |:--|--:|
 | z-aiglm-5v-turbo | 8.700 |
+| nvidianemotron-3-ultra-550b-a55bfree | 8.667 |
 | moonshotaikimi-k2.6 | 8.617 |
 | qwen3.52b | 8.600 |
 | gemini-3-pro-preview | 8.567 |

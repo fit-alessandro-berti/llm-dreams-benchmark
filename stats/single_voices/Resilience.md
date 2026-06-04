@@ -196,6 +196,7 @@
 | gemini-3-pro-preview | 7.783 |
 | llama27b | 7.667 |
 | z-aiglm-5v-turbo | 7.667 |
+| nvidianemotron-3-ultra-550b-a55bfree | 7.633 |
 | gemini-2.5-pro-exp-03-25 | 7.633 |
 | meta-llamallama-4-maverick | 7.550 |
 | ministral-3b-2512 | 7.517 |

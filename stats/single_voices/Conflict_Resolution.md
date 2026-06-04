@@ -204,5 +204,6 @@
 | qwen3.50.8b | 5.517 |
 | claude-opus-4-8 | 5.483 |
 | mistral-large-2512 | 5.483 |
+| nvidianemotron-3-ultra-550b-a55bfree | 5.267 |
 | talkie-1930-13b-it | 5.150 |
 | meta-llamallama-4-maverick | 5.067 |

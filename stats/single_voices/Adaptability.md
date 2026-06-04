@@ -197,6 +197,7 @@
 | meta-llamaMeta-Llama-3.1-8B-Instruct | 8.017 |
 | z-aiglm-5v-turbo | 8.017 |
 | claude-opus-4-8 | 8.017 |
+| nvidianemotron-3-ultra-550b-a55bfree | 7.983 |
 | ibmgranite41b-h | 7.967 |
 | mistral-small-2603 | 7.950 |
 | qwen3.52b | 7.917 |

@@ -2,6 +2,7 @@
 
 | Model | Average |
 |:--|--:|
+| nvidianemotron-3-ultra-550b-a55bfree | 8.983 |
 | z-aiglm-5v-turbo | 8.917 |
 | anthropicclaude-sonnet-4.5 | 8.867 |
 | mistral-large-2512 | 8.867 |

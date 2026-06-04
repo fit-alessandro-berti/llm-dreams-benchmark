@@ -4,6 +4,7 @@
 |:--|--:|
 | mistral-large-2512 | 8.700 |
 | gemini-2.5-pro-exp-03-25 | 8.517 |
+| nvidianemotron-3-ultra-550b-a55bfree | 8.483 |
 | z-aiglm-5v-turbo | 8.450 |
 | gemma4e4b | 8.400 |
 | anthropicclaude-sonnet-4.5 | 8.383 |

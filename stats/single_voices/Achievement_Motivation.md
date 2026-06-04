@@ -186,6 +186,7 @@
 | qwenqwen3-next-80b-a3b-instruct | 7.833 |
 | anthropicclaude-sonnet-4.6 | 7.817 |
 | deepseekdeepseek-v4-pro | 7.783 |
+| nvidianemotron-3-ultra-550b-a55bfree | 7.783 |
 | gpt-5.2-pro-2025-12-11 | 7.767 |
 | z-aiglm-5.1 | 7.767 |
 | claude-opus-4-5-20251101 | 7.733 |

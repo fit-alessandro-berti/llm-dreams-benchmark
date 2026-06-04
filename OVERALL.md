@@ -203,6 +203,7 @@
 | claude-opus-4-8 | **345.1** | 7.6 $\pm$ 1.2 | 5.7 $\pm$ 1.3 | 7.0 $\pm$ 0.8 | 9.4 $\pm$ 0.3 | 6.1 $\pm$ 0.6 | 5.9 $\pm$ 1.2 | 5.5 $\pm$ 0.8 | 7.4 $\pm$ 1.3 | 8.0 $\pm$ 0.9 | 7.2 $\pm$ 0.6 | 7.3 $\pm$ 1.5 | 6.1 $\pm$ 1.6 | 8.2 $\pm$ 0.9 | 5.9 $\pm$ 0.9 | 7.3 $\pm$ 0.9 |
 | meta-llamallama-4-maverick | **343.9** | 8.3 $\pm$ 0.6 | 5.0 $\pm$ 0.7 | 7.6 $\pm$ 0.5 | 9.3 $\pm$ 0.2 | 6.2 $\pm$ 0.8 | 6.3 $\pm$ 0.6 | 5.1 $\pm$ 0.8 | 8.4 $\pm$ 0.5 | 7.9 $\pm$ 0.7 | 8.3 $\pm$ 0.5 | 8.1 $\pm$ 0.5 | 7.2 $\pm$ 0.4 | 8.4 $\pm$ 0.5 | 6.3 $\pm$ 0.7 | 7.5 $\pm$ 0.4 |
 | z-aiglm-5v-turbo | **340.6** | 8.4 $\pm$ 0.6 | 4.8 $\pm$ 0.8 | 7.5 $\pm$ 0.6 | 9.7 $\pm$ 0.1 | 5.7 $\pm$ 0.6 | 6.0 $\pm$ 0.8 | 5.8 $\pm$ 1.2 | 8.7 $\pm$ 0.4 | 8.0 $\pm$ 0.5 | 8.4 $\pm$ 0.5 | 8.2 $\pm$ 0.7 | 7.3 $\pm$ 0.6 | 8.9 $\pm$ 0.5 | 5.8 $\pm$ 0.6 | 7.7 $\pm$ 0.5 |
+| nvidianemotron-3-ultra-550b-a55bfree | **336.7** | 8.5 $\pm$ 0.4 | 4.6 $\pm$ 0.6 | 7.6 $\pm$ 0.6 | 9.7 $\pm$ 0.2 | 5.9 $\pm$ 0.8 | 5.9 $\pm$ 0.6 | 5.3 $\pm$ 0.9 | 8.7 $\pm$ 0.4 | 8.0 $\pm$ 0.6 | 7.8 $\pm$ 0.6 | 8.2 $\pm$ 0.4 | 6.7 $\pm$ 1.6 | 9.0 $\pm$ 0.4 | 5.5 $\pm$ 0.8 | 7.7 $\pm$ 0.6 |
 | qwen3.54b | **335.5** | 7.8 $\pm$ 1.1 | 5.3 $\pm$ 0.9 | 7.2 $\pm$ 1.0 | 9.7 $\pm$ 0.2 | 5.6 $\pm$ 0.7 | 6.0 $\pm$ 0.8 | 5.6 $\pm$ 1.1 | 7.6 $\pm$ 1.2 | 7.9 $\pm$ 0.7 | 7.0 $\pm$ 0.7 | 7.6 $\pm$ 1.0 | 6.7 $\pm$ 1.4 | 8.5 $\pm$ 0.8 | 5.4 $\pm$ 0.9 | 7.2 $\pm$ 0.5 |
 | mistral-large-2512 | **331.0** | 8.7 $\pm$ 0.4 | 4.5 $\pm$ 0.5 | 7.7 $\pm$ 0.7 | 9.5 $\pm$ 0.2 | 5.9 $\pm$ 0.5 | 5.7 $\pm$ 0.7 | 5.5 $\pm$ 0.7 | 8.6 $\pm$ 0.4 | 7.9 $\pm$ 0.5 | 8.1 $\pm$ 0.5 | 8.5 $\pm$ 0.5 | 7.6 $\pm$ 0.5 | 8.8 $\pm$ 0.4 | 5.7 $\pm$ 0.6 | 7.3 $\pm$ 0.4 |
 | qwen3.50.8b | **317.9** | 8.1 $\pm$ 0.4 | 4.8 $\pm$ 0.7 | 6.8 $\pm$ 0.7 | 8.9 $\pm$ 0.4 | 5.3 $\pm$ 0.5 | 5.4 $\pm$ 0.8 | 5.5 $\pm$ 1.0 | 8.1 $\pm$ 0.4 | 7.1 $\pm$ 0.6 | 7.4 $\pm$ 0.8 | 8.0 $\pm$ 0.5 | 7.2 $\pm$ 0.4 | 8.3 $\pm$ 0.5 | 5.2 $\pm$ 0.8 | 6.5 $\pm$ 0.8 |
@@ -5429,6 +5430,32 @@
 | Cognitive Load | 8.9 $\pm$ 0.5 |
 | Social Support | 5.8 $\pm$ 0.6 |
 | Resilience | 7.7 $\pm$ 0.5 |
+
+
+
+
+
+
+### nvidianemotron-3-ultra-550b-a55bfree
+
+
+| Personality Trait | Score (1.0-10.0) |
+| --- | --- |
+| Anxiety and Stress Levels | 8.5 $\pm$ 0.4 |
+| Emotional Stability | 4.6 $\pm$ 0.6 |
+| Problem-solving Skills | 7.6 $\pm$ 0.6 |
+| Creativity | 9.7 $\pm$ 0.2 |
+| Interpersonal Relationships | 5.9 $\pm$ 0.8 |
+| Confidence and Self-efficacy | 5.9 $\pm$ 0.6 |
+| Conflict Resolution | 5.3 $\pm$ 0.9 |
+| Work-related Stress | 8.7 $\pm$ 0.4 |
+| Adaptability | 8.0 $\pm$ 0.6 |
+| Achievement Motivation | 7.8 $\pm$ 0.6 |
+| Fear of Failure | 8.2 $\pm$ 0.4 |
+| Need for Control | 6.7 $\pm$ 1.6 |
+| Cognitive Load | 9.0 $\pm$ 0.4 |
+| Social Support | 5.5 $\pm$ 0.8 |
+| Resilience | 7.7 $\pm$ 0.6 |
 
 
 

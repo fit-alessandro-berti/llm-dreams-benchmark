@@ -153,6 +153,7 @@
 | openaigpt-oss-20b | 4.967 |
 | gpt-4-0613 | 4.933 |
 | qwen3.59b | 4.917 |
+| qwenqwen3.7-plus | 4.850 |
 | qwen3.635b-a3b | 4.800 |
 | Grok-4.30-20260420 | 4.800 |
 | ChatGPT-5.5-Instant-20260530 | 4.767 |

@@ -90,6 +90,7 @@
 | deepseekdeepseek-v4-flash | 8.500 |
 | gpt-4.5-preview | 8.500 |
 | liquidlfm-2.5-1.2b-instructfree | 8.500 |
+| qwenqwen3.7-plus | 8.500 |
 | qwenqwen3-30b-a3b-instruct-2507 | 8.500 |
 | Grok-4-fast-20251111 | 8.483 |
 | inclusionailing-2.6-1tfree | 8.483 |

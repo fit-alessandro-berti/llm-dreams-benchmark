@@ -154,6 +154,7 @@
 | claude-haiku-4-5-20251001 | 5.750 |
 | grok-4.20-experimental-beta-0304-reasoning | 5.750 |
 | openaigpt-oss-20b | 5.633 |
+| qwenqwen3.7-plus | 5.567 |
 | qwen3.635b-a3b | 5.500 |
 | granite4.130b | 5.433 |
 | microsoftWizardLM-2-8x22B | 5.400 |

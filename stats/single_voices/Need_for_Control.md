@@ -201,6 +201,7 @@
 | xiaomimimo-v2.5-pro | 4.567 |
 | anthropicclaude-sonnet-4.6 | 4.517 |
 | gpt-4.5-preview | 4.517 |
+| qwenqwen3.7-plus | 4.467 |
 | xiaomimimo-v2-pro | 4.367 |
 | qwenqwen3.5-122b-a10b | 4.217 |
 | qwenqwen3-next-80b-a3b-instruct | 4.183 |

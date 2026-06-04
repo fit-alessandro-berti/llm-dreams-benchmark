@@ -46,6 +46,7 @@
 | openaigpt-oss-120b | 7.883 |
 | falcon310b-instruct-q8_0 | 7.867 |
 | gpt-3.5-turbo | 7.867 |
+| qwenqwen3.7-plus | 7.833 |
 | o4-mini-2025-04-16 | 7.783 |
 | xiaomimimo-v2-omni | 7.783 |
 | liquidlfm-2.2-6b | 7.767 |

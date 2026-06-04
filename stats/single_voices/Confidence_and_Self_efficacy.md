@@ -67,6 +67,7 @@
 | minimaxminimax-m2.5 | 8.017 |
 | xiaomimimo-v2.5 | 8.017 |
 | nvidianemotron-3-nano-30b-a3bfree | 8.000 |
+| qwenqwen3.7-plus | 8.000 |
 | liquidlfm-2.5-1.2b-instructfree | 7.983 |
 | baiduernie-4.5-21b-a3b | 7.967 |
 | amazonnova-2-lite-v1 | 7.950 |

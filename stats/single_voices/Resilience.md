@@ -86,6 +86,7 @@
 | ChatGPT-5.5-Instant-20260530 | 8.900 |
 | nvidianemotron-3-nano-30b-a3bfree | 8.900 |
 | o1-2024-12-17 | 8.900 |
+| qwenqwen3.7-plus | 8.883 |
 | arcee-aitrinity-large-previewfree | 8.883 |
 | gpt-4.1-2025-04-14 | 8.883 |
 | openaigpt-5.4-nano | 8.883 |

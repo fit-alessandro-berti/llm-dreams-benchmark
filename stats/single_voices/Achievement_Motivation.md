@@ -178,6 +178,7 @@
 | gemma-4-26b-a4b-it | 7.933 |
 | gpt-5-2025-08-07 | 7.933 |
 | qwenqwen3.5-35b-a3b | 7.933 |
+| qwenqwen3.7-plus | 7.933 |
 | qwen3.59b | 7.917 |
 | gemini-2.0-flash-exp | 7.883 |
 | claude-3-5-sonnet-20241022 | 7.867 |

@@ -110,6 +110,7 @@
 | poolsidelaguna-m.1free | 7.550 |
 | ai21jamba-large-1.7 | 7.533 |
 | meta-llamaLlama-3.3-70B-Instruct | 7.533 |
+| qwenqwen3.7-plus | 7.533 |
 | nousresearchhermes-4-70b | 7.533 |
 | grok-4-1-fast-reasoning | 7.517 |
 | claude-3-7-sonnet-20250219 | 7.500 |

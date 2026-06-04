@@ -113,6 +113,7 @@
 | Grok-4.3-20260530 | 8.133 |
 | nvidiaNemotron-3-Nano-Omni-30B-A3B-Reasoning | 8.133 |
 | openrouterowl-alpha | 8.100 |
+| qwenqwen3.7-plus | 8.100 |
 | gpt-5-chat-latest-2025-08-19 | 8.083 |
 | grok-build-0.1 | 8.083 |
 | claude-opus-4-5-20251101 | 8.067 |

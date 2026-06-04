@@ -14,6 +14,7 @@
 | qwenqwen3.7-max | 9.817 |
 | Grok-4.30-20260420 | 9.800 |
 | qwenqwen3-next-80b-a3b-instruct | 9.800 |
+| qwenqwen3.7-plus | 9.800 |
 | moonshotaikimi-k2.6 | 9.783 |
 | grok-4.20-experimental-beta-0304-reasoning | 9.767 |
 | inclusionailing-2.6-1tfree | 9.750 |

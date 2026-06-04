@@ -22,6 +22,7 @@
 | gpt-4o-2024-05-13 | 9.150 |
 | gpt-5-nano-2025-08-07 | 9.150 |
 | gpt-5-pro-2025-10-06 | 9.150 |
+| qwenqwen3.7-plus | 9.150 |
 | ai21jamba-mini-1.7 | 9.150 |
 | gpt-4-turbo-2024-04-09 | 9.150 |
 | ibm-granitegranite-4.1-8b | 9.150 |

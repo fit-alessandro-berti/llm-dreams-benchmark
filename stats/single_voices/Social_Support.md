@@ -92,6 +92,7 @@
 | deepseekdeepseek-v3.2 | 7.583 |
 | nousresearchhermes-4-70b | 7.583 |
 | o3-2025-04-16 | 7.583 |
+| qwenqwen3.7-plus | 7.583 |
 | ChatGPT-5.1-Instant-20251113 | 7.567 |
 | gpt-5.5-2026-04-23 | 7.567 |
 | claude-haiku-4-5-20251001 | 7.550 |

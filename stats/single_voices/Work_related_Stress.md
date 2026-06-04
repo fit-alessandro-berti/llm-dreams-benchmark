@@ -160,6 +160,7 @@
 | falcon310b-instruct-q8_0 | 5.883 |
 | qwen2.5-14b-instruct | 5.867 |
 | granite4.130b | 5.783 |
+| qwenqwen3.7-plus | 5.783 |
 | grok-4.20-experimental-beta-0304-reasoning | 5.767 |
 | microsoftWizardLM-2-8x22B | 5.750 |
 | openaigpt-5.4-mini | 5.750 |

@@ -188,6 +188,7 @@
 | grok-2-1212 | 6.983 |
 | gpt-4-turbo-2024-04-09 | 6.967 |
 | qwen2.5-32b-instruct | 6.967 |
+| qwenqwen3.7-plus | 6.967 |
 | phi4-reasoningplus | 6.950 |
 | open-mixtral-8x22b | 6.950 |
 | open-mistral-7b | 6.933 |

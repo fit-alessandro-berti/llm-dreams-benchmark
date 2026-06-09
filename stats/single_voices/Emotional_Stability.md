@@ -128,6 +128,7 @@
 | qwenqwen3.7-max | 6.767 |
 | Grok-3-beta-thinking-20250303 | 6.750 |
 | openaigpt-5.3-codex | 6.750 |
+| anthropicclaude-fable-5 | 6.717 |
 | nousresearchhermes-4-70b | 6.700 |
 | gemma-3-27b-it | 6.683 |
 | gemini-1.5-flash-8b | 6.667 |

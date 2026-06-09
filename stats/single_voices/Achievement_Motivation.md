@@ -197,6 +197,7 @@
 | qwenqwen3.5-122b-a10b | 7.617 |
 | anthropicclaude-sonnet-4.5 | 7.600 |
 | gemma4e4b | 7.600 |
+| anthropicclaude-fable-5 | 7.583 |
 | qwenqwen3.5-397b-a17b | 7.533 |
 | stepfunstep-3.7-flash | 7.467 |
 | qwen3.50.8b | 7.433 |

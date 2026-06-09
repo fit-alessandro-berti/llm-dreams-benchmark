@@ -139,6 +139,7 @@
 | moonshotaikimi-k2.6 | 8.783 |
 | openaigpt-5.4-pro | 8.783 |
 | qwenqwen3.5-397b-a17b | 8.783 |
+| anthropicclaude-fable-5 | 8.767 |
 | chatgpt-4o-latest-2025-03-26 | 8.767 |
 | gpt-4-1106-preview | 8.767 |
 | grok-4-fast-reasoning | 8.767 |

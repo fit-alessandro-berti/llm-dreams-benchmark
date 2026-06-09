@@ -69,6 +69,7 @@
 | anthropicclaude-opus-4.1 | 6.717 |
 | talkie-1930-13b-it | 6.683 |
 | chatgpt-4o-latest-2025-04-26 | 6.667 |
+| anthropicclaude-fable-5 | 6.650 |
 | googlegemini-3.1-pro-preview | 6.633 |
 | grok-4-1-fast-non-reasoning | 6.617 |
 | qwenqwen3-max | 6.600 |

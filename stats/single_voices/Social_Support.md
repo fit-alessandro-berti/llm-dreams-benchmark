@@ -120,6 +120,7 @@
 | liquidlfm-2.5-1.2b-thinkingfree | 7.350 |
 | o1-2024-12-05 | 7.350 |
 | ai21jamba-large-1.7 | 7.333 |
+| anthropicclaude-fable-5 | 7.333 |
 | chatgpt-4o-latest-2025-03-26 | 7.333 |
 | gemini-2.0-pro-exp-02-05 | 7.333 |
 | gemini-2.5-flash-lite | 7.333 |

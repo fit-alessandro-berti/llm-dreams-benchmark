@@ -159,6 +159,7 @@
 | mistral-medium-3.5 | **363.3** | 7.6 $\pm$ 0.2 | 5.9 $\pm$ 0.4 | 7.6 $\pm$ 0.1 | 9.4 $\pm$ 0.0 | 6.3 $\pm$ 0.1 | 6.4 $\pm$ 0.3 | 7.2 $\pm$ 0.4 | 8.1 $\pm$ 0.2 | 8.0 $\pm$ 0.3 | 8.0 $\pm$ 0.2 | 7.4 $\pm$ 0.2 | 6.6 $\pm$ 0.4 | 8.2 $\pm$ 0.2 | 5.9 $\pm$ 0.1 | 7.8 $\pm$ 0.2 |
 | stepfunstep-3.7-flash | **363.1** | 7.3 $\pm$ 0.5 | 5.8 $\pm$ 0.6 | 7.0 $\pm$ 0.6 | 9.6 $\pm$ 0.0 | 7.2 $\pm$ 0.1 | 6.3 $\pm$ 0.5 | 6.7 $\pm$ 0.3 | 7.6 $\pm$ 0.2 | 7.8 $\pm$ 0.5 | 7.2 $\pm$ 0.4 | 7.5 $\pm$ 0.5 | 6.2 $\pm$ 1.0 | 8.1 $\pm$ 0.2 | 6.7 $\pm$ 0.2 | 8.1 $\pm$ 0.3 |
 | allenaiolmo-3-7b-think | **363.1** | 7.6 $\pm$ 0.2 | 5.8 $\pm$ 0.3 | 8.1 $\pm$ 0.1 | 9.6 $\pm$ 0.0 | 6.3 $\pm$ 0.2 | 6.6 $\pm$ 0.3 | 5.9 $\pm$ 0.6 | 8.1 $\pm$ 0.3 | 8.4 $\pm$ 0.3 | 8.2 $\pm$ 0.1 | 7.5 $\pm$ 0.1 | 6.8 $\pm$ 0.3 | 8.5 $\pm$ 0.2 | 6.0 $\pm$ 0.1 | 8.2 $\pm$ 0.3 |
+| anthropicclaude-fable-5 | **362.0** | 7.4 $\pm$ 0.4 | 6.1 $\pm$ 0.3 | 6.9 $\pm$ 0.4 | 9.6 $\pm$ 0.0 | 6.5 $\pm$ 0.3 | 6.4 $\pm$ 0.7 | 6.8 $\pm$ 0.1 | 8.1 $\pm$ 0.2 | 8.0 $\pm$ 0.5 | 7.2 $\pm$ 0.2 | 7.8 $\pm$ 0.4 | 6.4 $\pm$ 0.8 | 8.1 $\pm$ 0.2 | 6.6 $\pm$ 0.1 | 8.1 $\pm$ 0.4 |
 | meta-llamaMeta-Llama-3.1-70B-Instruct | **361.7** | 7.8 $\pm$ 0.1 | 5.6 $\pm$ 0.1 | 7.4 $\pm$ 0.1 | 9.3 $\pm$ 0.1 | 6.6 $\pm$ 0.0 | 6.3 $\pm$ 0.1 | 7.0 $\pm$ 0.2 | 8.3 $\pm$ 0.0 | 7.8 $\pm$ 0.1 | 8.2 $\pm$ 0.2 | 7.5 $\pm$ 0.1 | 6.8 $\pm$ 0.1 | 8.0 $\pm$ 0.1 | 6.2 $\pm$ 0.2 | 7.8 $\pm$ 0.2 |
 | Grok-4.1-20251118 | **357.9** | 7.7 $\pm$ 0.1 | 5.6 $\pm$ 0.1 | 7.1 $\pm$ 0.2 | 9.6 $\pm$ 0.0 | 6.4 $\pm$ 0.1 | 6.3 $\pm$ 0.3 | 6.6 $\pm$ 0.4 | 8.4 $\pm$ 0.0 | 8.0 $\pm$ 0.1 | 8.0 $\pm$ 0.4 | 7.7 $\pm$ 0.4 | 6.9 $\pm$ 0.1 | 8.3 $\pm$ 0.1 | 5.9 $\pm$ 0.1 | 8.2 $\pm$ 0.5 |
 | gemini-3-flash-preview | **357.9** | 7.6 $\pm$ 0.2 | 5.5 $\pm$ 0.3 | 6.9 $\pm$ 0.2 | 9.8 $\pm$ 0.1 | 6.4 $\pm$ 0.3 | 6.2 $\pm$ 0.3 | 6.9 $\pm$ 0.2 | 8.0 $\pm$ 0.2 | 8.2 $\pm$ 0.4 | 7.3 $\pm$ 0.2 | 7.4 $\pm$ 0.2 | 6.5 $\pm$ 0.4 | 8.1 $\pm$ 0.2 | 5.8 $\pm$ 0.1 | 8.2 $\pm$ 0.3 |
@@ -4286,6 +4287,32 @@
 | Cognitive Load | 8.5 $\pm$ 0.2 |
 | Social Support | 6.0 $\pm$ 0.1 |
 | Resilience | 8.2 $\pm$ 0.3 |
+
+
+
+
+
+
+### anthropicclaude-fable-5
+
+
+| Personality Trait | Score (1.0-10.0) |
+| --- | --- |
+| Anxiety and Stress Levels | 7.4 $\pm$ 0.4 |
+| Emotional Stability | 6.1 $\pm$ 0.3 |
+| Problem-solving Skills | 6.9 $\pm$ 0.4 |
+| Creativity | 9.6 $\pm$ 0.0 |
+| Interpersonal Relationships | 6.5 $\pm$ 0.3 |
+| Confidence and Self-efficacy | 6.4 $\pm$ 0.7 |
+| Conflict Resolution | 6.8 $\pm$ 0.1 |
+| Work-related Stress | 8.1 $\pm$ 0.2 |
+| Adaptability | 8.0 $\pm$ 0.5 |
+| Achievement Motivation | 7.2 $\pm$ 0.2 |
+| Fear of Failure | 7.8 $\pm$ 0.4 |
+| Need for Control | 6.4 $\pm$ 0.8 |
+| Cognitive Load | 8.1 $\pm$ 0.2 |
+| Social Support | 6.6 $\pm$ 0.1 |
+| Resilience | 8.1 $\pm$ 0.4 |
 
 
 

@@ -159,6 +159,7 @@
 | arcee-aitrinity-large-thinking | 7.100 |
 | claude-opus-4-5-20251101 | 7.083 |
 | gemini-2.5-pro-preview-05-06 | 7.067 |
+| anthropicclaude-fable-5 | 7.067 |
 | moonshotaikimi-k2.5 | 7.067 |
 | meta-llamaLlama-3.2-3B-Instruct | 7.033 |
 | bytedance-seedseed-2.0-lite | 7.033 |

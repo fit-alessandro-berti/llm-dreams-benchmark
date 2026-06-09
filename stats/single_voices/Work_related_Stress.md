@@ -83,6 +83,7 @@
 | mistral-medium-3.5 | 7.450 |
 | ai21jamba-large-1.7 | 7.450 |
 | claude-opus-4-8 | 7.417 |
+| anthropicclaude-fable-5 | 7.400 |
 | amazonnova-2-lite-v1 | 7.383 |
 | nvidiaLlama-3.1-Nemotron-70B-Instruct | 7.383 |
 | falcon33b-instruct-q8_0 | 7.367 |

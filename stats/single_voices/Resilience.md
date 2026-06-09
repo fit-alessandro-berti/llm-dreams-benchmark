@@ -136,6 +136,7 @@
 | Grok-4.1-20251118 | 8.617 |
 | moonshotaikimi-k2.5 | 8.617 |
 | nvidiaLlama-3.1-Nemotron-70B-Instruct | 8.617 |
+| anthropicclaude-fable-5 | 8.617 |
 | chatgpt-4o-latest-2025-03-26 | 8.600 |
 | chatgpt-4o-latest-2025-04-26 | 8.600 |
 | gemma-3-27b-it | 8.600 |

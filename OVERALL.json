@@ -9306,6 +9306,72 @@
     }
   },
   {
+    "LLM": "anthropicclaude-fable-5",
+    "MHS": 395.7,
+    "scores": {
+      "Anxiety and Stress Levels": {
+        "mean": 7.1,
+        "std": 1.3
+      },
+      "Emotional Stability": {
+        "mean": 6.7,
+        "std": 0.8
+      },
+      "Problem-solving Skills": {
+        "mean": 8.0,
+        "std": 0.7
+      },
+      "Creativity": {
+        "mean": 9.7,
+        "std": 0.1
+      },
+      "Interpersonal Relationships": {
+        "mean": 7.3,
+        "std": 0.5
+      },
+      "Confidence and Self-efficacy": {
+        "mean": 7.1,
+        "std": 0.7
+      },
+      "Conflict Resolution": {
+        "mean": 7.8,
+        "std": 0.6
+      },
+      "Work-related Stress": {
+        "mean": 7.4,
+        "std": 1.3
+      },
+      "Adaptability": {
+        "mean": 8.8,
+        "std": 0.5
+      },
+      "Achievement Motivation": {
+        "mean": 7.6,
+        "std": 0.5
+      },
+      "Fear of Failure": {
+        "mean": 6.6,
+        "std": 1.5
+      },
+      "Need for Control": {
+        "mean": 5.6,
+        "std": 1.5
+      },
+      "Cognitive Load": {
+        "mean": 7.9,
+        "std": 1.2
+      },
+      "Social Support": {
+        "mean": 7.3,
+        "std": 0.5
+      },
+      "Resilience": {
+        "mean": 8.6,
+        "std": 0.5
+      }
+    }
+  },
+  {
     "LLM": "grok-4.20-experimental-beta-0304-non-reasoning",
     "MHS": 395.5,
     "scores": {

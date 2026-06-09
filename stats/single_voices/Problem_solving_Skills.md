@@ -175,6 +175,7 @@
 | ministral-14b-2512 | 8.000 |
 | qwenqwen3.5-122b-a10b | 8.000 |
 | stepfunstep-3.7-flash | 8.000 |
+| anthropicclaude-fable-5 | 7.983 |
 | claude-3-opus-20240229 | 7.983 |
 | meta-llamallama-4-scout | 7.983 |
 | z-aiglm-5 | 7.967 |

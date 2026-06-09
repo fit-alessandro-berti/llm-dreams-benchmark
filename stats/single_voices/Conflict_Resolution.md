@@ -141,6 +141,7 @@
 | mistral-medium-2508 | 7.817 |
 | grok-4.20-experimental-beta-0304-reasoning | 7.817 |
 | liquidlfm-2.5-1.2b-instructfree | 7.783 |
+| anthropicclaude-fable-5 | 7.767 |
 | openaigpt-5.4 | 7.767 |
 | Grok-4.1-20251118 | 7.750 |
 | gpt-5.2-pro-2025-12-11 | 7.733 |

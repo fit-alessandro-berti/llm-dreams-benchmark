@@ -53,6 +53,7 @@
 | nvidianemotron-3-nano-30b-a3bfree | 9.667 |
 | openaigpt-5.4-pro | 9.667 |
 | qwen3.54b | 9.667 |
+| anthropicclaude-fable-5 | 9.650 |
 | anthropicclaude-sonnet-4.6 | 9.650 |
 | bytedance-seedseed-2.0-lite | 9.650 |
 | claude-3-5-sonnet-20241022 | 9.650 |

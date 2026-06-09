@@ -132,6 +132,7 @@
 | GPT-5.5-Pro-20260422 | 5.667 |
 | microsoftWizardLM-2-8x22B | 5.667 |
 | o1-2024-12-17 | 5.667 |
+| anthropicclaude-fable-5 | 5.650 |
 | gpt-4o-mini-2024-07-18 | 5.650 |
 | bytedance-seedseed-2.0-mini | 5.633 |
 | inclusionailing-2.6-1tfree | 5.633 |

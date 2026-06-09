@@ -127,6 +127,7 @@
 | chatgpt-4o-latest-2025-03-26 | 7.367 |
 | gemini-2.5-pro-preview-05-06 | 7.367 |
 | meta-llamaLlama-3.2-3B-Instruct | 7.367 |
+| anthropicclaude-fable-5 | 7.350 |
 | gemini-2.5-pro-preview-06-05 | 7.333 |
 | openaigpt-5.4-nano | 7.333 |
 | googlegemini-3.1-pro-preview | 7.300 |

@@ -96,6 +96,7 @@
 | gpt-4-1106-preview | 7.683 |
 | openaigpt-5.2-codex | 7.683 |
 | gemma-3-27b-it | 7.667 |
+| moonshotaikimi-k2.7-code | 7.667 |
 | qwenqwen3-max | 7.667 |
 | openaigpt-oss-20b | 7.650 |
 | qwenqwen3.5-plus-02-15 | 7.650 |

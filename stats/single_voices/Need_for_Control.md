@@ -191,6 +191,7 @@
 | gpt-4-turbo-2024-04-09 | 4.933 |
 | openaigpt-5.4-mini | 4.917 |
 | openaigpt-oss-120b | 4.917 |
+| moonshotaikimi-k2.7-code | 4.883 |
 | ChatGPT-5.5-Instant-20260530 | 4.867 |
 | xiaomimimo-v2.5 | 4.867 |
 | o3-pro-2025-06-10 | 4.817 |

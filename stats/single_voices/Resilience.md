@@ -93,6 +93,7 @@
 | phi4-reasoning | 8.883 |
 | allenaiolmo-3.1-32b-instruct | 8.850 |
 | gpt-4.1-nano-2025-04-14 | 8.850 |
+| moonshotaikimi-k2.7-code | 8.850 |
 | Qwen-3.6-27B | 8.850 |
 | falcon37b-instruct-q8_0 | 8.833 |
 | grok-4.20-experimental-beta-0304-non-reasoning | 8.833 |

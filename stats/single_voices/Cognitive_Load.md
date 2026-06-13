@@ -156,6 +156,7 @@
 | granite4small-h | 7.333 |
 | xiaomimimo-v2-omni | 7.300 |
 | microsoftPhi-3-medium-4k-instruct | 7.283 |
+| moonshotaikimi-k2.7-code | 7.283 |
 | qwenqwen3.5-plus-02-15 | 7.283 |
 | falcon310b-instruct-q8_0 | 7.267 |
 | openaigpt-5.2-codex | 7.267 |

@@ -65,6 +65,7 @@
 | gemma-4-31b-it | 9.000 |
 | gpt-4.1-mini-2025-04-14 | 9.000 |
 | gpt-4o-mini-2024-07-18 | 9.000 |
+| moonshotaikimi-k2.7-code | 9.000 |
 | nvidiaNemotron-3-Nano-Omni-30B-A3B-Reasoning | 9.000 |
 | o4-mini-2025-04-16 | 9.000 |
 | openaigpt-oss-120b | 9.000 |

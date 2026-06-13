@@ -73,6 +73,7 @@
 | anthropicclaude-sonnet-4.5 | 9.633 |
 | deepseekdeepseek-v4-flash | 9.633 |
 | grok-build-0.1 | 9.633 |
+| moonshotaikimi-k2.7-code | 9.633 |
 | qwenqwen3-max | 9.633 |
 | xiaomimimo-v2.5 | 9.633 |
 | allenaiolmo-3-7b-think | 9.617 |

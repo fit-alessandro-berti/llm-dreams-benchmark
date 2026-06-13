@@ -111,6 +111,7 @@
 | Qwen-3.6-27B | 7.633 |
 | ChatGPT-5.1-Instant-20251113 | 7.633 |
 | gpt-5-chat-latest-2025-08-19 | 7.633 |
+| moonshotaikimi-k2.7-code | 7.633 |
 | Grok-3-beta-thinking-20250303 | 7.617 |
 | qwenqwen3-next-80b-a3b-instruct | 7.617 |
 | gemini-1.5-flash-002 | 7.600 |

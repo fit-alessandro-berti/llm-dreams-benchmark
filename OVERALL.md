@@ -73,6 +73,7 @@
 | arcee-aitrinity-large-previewfree | **423.8** | 6.3 $\pm$ 1.4 | 7.4 $\pm$ 0.6 | 8.6 $\pm$ 0.4 | 9.5 $\pm$ 0.2 | 8.0 $\pm$ 0.5 | 8.2 $\pm$ 0.5 | 8.3 $\pm$ 0.4 | 7.0 $\pm$ 1.5 | 8.9 $\pm$ 0.3 | 8.8 $\pm$ 0.4 | 5.6 $\pm$ 1.6 | 5.9 $\pm$ 1.2 | 7.6 $\pm$ 1.0 | 7.9 $\pm$ 0.5 | 8.9 $\pm$ 0.3 |
 | baiduernie-4.5-300b-a47b | **423.2** | 6.3 $\pm$ 1.4 | 7.3 $\pm$ 0.6 | 8.7 $\pm$ 0.4 | 9.5 $\pm$ 0.2 | 8.1 $\pm$ 0.5 | 7.9 $\pm$ 0.5 | 8.4 $\pm$ 0.5 | 6.6 $\pm$ 1.2 | 9.0 $\pm$ 0.4 | 8.6 $\pm$ 0.5 | 5.7 $\pm$ 1.6 | 5.8 $\pm$ 1.3 | 7.7 $\pm$ 1.0 | 8.0 $\pm$ 0.7 | 9.0 $\pm$ 0.3 |
 | bytedance-seedseed-2.0-mini | **423.0** | 6.7 $\pm$ 1.1 | 7.4 $\pm$ 0.7 | 8.4 $\pm$ 0.5 | 9.6 $\pm$ 0.2 | 8.6 $\pm$ 0.3 | 7.6 $\pm$ 0.5 | 8.7 $\pm$ 0.3 | 6.9 $\pm$ 1.1 | 9.0 $\pm$ 0.4 | 8.1 $\pm$ 0.3 | 6.3 $\pm$ 0.9 | 5.7 $\pm$ 1.1 | 7.4 $\pm$ 0.9 | 8.6 $\pm$ 0.4 | 9.0 $\pm$ 0.3 |
+| moonshotaikimi-k2.7-code | **422.0** | 6.0 $\pm$ 1.5 | 7.4 $\pm$ 0.7 | 8.3 $\pm$ 0.5 | 9.6 $\pm$ 0.1 | 7.7 $\pm$ 0.4 | 7.6 $\pm$ 0.5 | 8.5 $\pm$ 0.3 | 6.5 $\pm$ 1.6 | 9.0 $\pm$ 0.3 | 7.9 $\pm$ 0.6 | 5.2 $\pm$ 1.6 | 4.9 $\pm$ 1.4 | 7.3 $\pm$ 1.3 | 7.5 $\pm$ 0.6 | 8.8 $\pm$ 0.3 |
 | o1-2024-12-17 | **421.4** | 6.4 $\pm$ 1.3 | 7.6 $\pm$ 0.6 | 8.5 $\pm$ 0.5 | 9.5 $\pm$ 0.1 | 8.0 $\pm$ 0.4 | 7.9 $\pm$ 0.5 | 8.4 $\pm$ 0.4 | 6.7 $\pm$ 1.2 | 8.9 $\pm$ 0.3 | 8.5 $\pm$ 0.5 | 5.8 $\pm$ 1.4 | 5.7 $\pm$ 1.3 | 7.4 $\pm$ 1.1 | 7.8 $\pm$ 0.6 | 8.9 $\pm$ 0.3 |
 | qwenqwen3.5-122b-a10b | **420.8** | 5.3 $\pm$ 1.9 | 7.4 $\pm$ 1.0 | 8.0 $\pm$ 0.8 | 9.7 $\pm$ 0.2 | 7.0 $\pm$ 0.6 | 7.9 $\pm$ 0.6 | 8.1 $\pm$ 0.7 | 5.3 $\pm$ 2.0 | 9.1 $\pm$ 0.4 | 7.6 $\pm$ 0.5 | 4.6 $\pm$ 2.0 | 4.2 $\pm$ 1.4 | 6.6 $\pm$ 1.6 | 6.9 $\pm$ 0.8 | 8.8 $\pm$ 0.5 |
 | qwenqwen3.5-plus-02-15 | **420.5** | 6.5 $\pm$ 1.4 | 7.4 $\pm$ 0.9 | 8.4 $\pm$ 0.6 | 9.6 $\pm$ 0.1 | 7.6 $\pm$ 0.4 | 7.9 $\pm$ 0.5 | 8.4 $\pm$ 0.5 | 6.6 $\pm$ 1.4 | 8.9 $\pm$ 0.3 | 8.3 $\pm$ 0.5 | 5.5 $\pm$ 1.5 | 5.3 $\pm$ 1.4 | 7.3 $\pm$ 1.2 | 7.5 $\pm$ 0.5 | 9.0 $\pm$ 0.4 |
@@ -2051,6 +2052,32 @@
 | Cognitive Load | 7.4 $\pm$ 0.9 |
 | Social Support | 8.6 $\pm$ 0.4 |
 | Resilience | 9.0 $\pm$ 0.3 |
+
+
+
+
+
+
+### moonshotaikimi-k2.7-code
+
+
+| Personality Trait | Score (1.0-10.0) |
+| --- | --- |
+| Anxiety and Stress Levels | 6.0 $\pm$ 1.5 |
+| Emotional Stability | 7.4 $\pm$ 0.7 |
+| Problem-solving Skills | 8.3 $\pm$ 0.5 |
+| Creativity | 9.6 $\pm$ 0.1 |
+| Interpersonal Relationships | 7.7 $\pm$ 0.4 |
+| Confidence and Self-efficacy | 7.6 $\pm$ 0.5 |
+| Conflict Resolution | 8.5 $\pm$ 0.3 |
+| Work-related Stress | 6.5 $\pm$ 1.6 |
+| Adaptability | 9.0 $\pm$ 0.3 |
+| Achievement Motivation | 7.9 $\pm$ 0.6 |
+| Fear of Failure | 5.2 $\pm$ 1.6 |
+| Need for Control | 4.9 $\pm$ 1.4 |
+| Cognitive Load | 7.3 $\pm$ 1.3 |
+| Social Support | 7.5 $\pm$ 0.6 |
+| Resilience | 8.8 $\pm$ 0.3 |
 
 
 

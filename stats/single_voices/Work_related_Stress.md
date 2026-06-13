@@ -138,6 +138,7 @@
 | phi2.7b | 6.583 |
 | phi4-reasoning | 6.567 |
 | gpt-3.5-turbo | 6.550 |
+| moonshotaikimi-k2.7-code | 6.533 |
 | ministral-3b-2410 | 6.517 |
 | bytedance-seedseed-2.0-lite | 6.500 |
 | gemini-2.0-flash-exp | 6.500 |

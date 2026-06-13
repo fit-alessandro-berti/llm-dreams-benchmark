@@ -52,6 +52,7 @@
 | gpt-5.3-codex-spark-low | 8.483 |
 | o3-mini-20250131-HIGH | 8.483 |
 | granite4.13b | 8.467 |
+| moonshotaikimi-k2.7-code | 8.467 |
 | openaigpt-5.4-mini | 8.467 |
 | Qwen-3.6-Max-Preview | 8.467 |
 | phi33.8b | 8.450 |

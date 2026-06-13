@@ -71,6 +71,7 @@
 | liquidlfm-2.5-1.2b-instructfree | **449.2** | 4.9 $\pm$ 1.2 | 8.0 $\pm$ 0.3 | 9.1 $\pm$ 0.1 | 9.7 $\pm$ 0.1 | 7.5 $\pm$ 0.4 | 8.6 $\pm$ 0.2 | 8.4 $\pm$ 0.6 | 5.7 $\pm$ 1.1 | 9.4 $\pm$ 0.1 | 9.0 $\pm$ 0.1 | 3.3 $\pm$ 0.9 | 4.5 $\pm$ 0.7 | 7.6 $\pm$ 0.8 | 8.0 $\pm$ 0.3 | 9.3 $\pm$ 0.1 |
 | gpt-4-0613 | **449.2** | 5.2 $\pm$ 1.3 | 7.9 $\pm$ 0.4 | 9.1 $\pm$ 0.1 | 9.8 $\pm$ 0.0 | 7.7 $\pm$ 0.2 | 8.9 $\pm$ 0.2 | 8.5 $\pm$ 0.2 | 6.0 $\pm$ 1.3 | 9.5 $\pm$ 0.0 | 9.1 $\pm$ 0.1 | 3.5 $\pm$ 1.1 | 4.7 $\pm$ 1.0 | 7.8 $\pm$ 0.3 | 7.5 $\pm$ 0.4 | 9.5 $\pm$ 0.1 |
 | qwen3.59b | **448.1** | 4.4 $\pm$ 2.1 | 8.4 $\pm$ 0.4 | 8.1 $\pm$ 0.5 | 9.8 $\pm$ 0.1 | 7.5 $\pm$ 0.4 | 8.5 $\pm$ 0.4 | 8.9 $\pm$ 0.1 | 4.8 $\pm$ 2.8 | 9.4 $\pm$ 0.1 | 7.6 $\pm$ 0.4 | 3.6 $\pm$ 1.4 | 3.4 $\pm$ 0.9 | 6.5 $\pm$ 2.1 | 7.8 $\pm$ 0.2 | 9.2 $\pm$ 0.2 |
+| moonshotaikimi-k2.7-code | **447.7** | 5.8 $\pm$ 1.3 | 8.0 $\pm$ 0.3 | 8.6 $\pm$ 0.3 | 9.8 $\pm$ 0.1 | 7.6 $\pm$ 0.4 | 8.0 $\pm$ 0.2 | 8.8 $\pm$ 0.2 | 6.5 $\pm$ 1.5 | 9.4 $\pm$ 0.1 | 7.7 $\pm$ 0.8 | 3.7 $\pm$ 0.9 | 3.0 $\pm$ 0.6 | 7.1 $\pm$ 0.9 | 7.6 $\pm$ 0.3 | 9.2 $\pm$ 0.2 |
 | granite4.13b | **447.6** | 5.8 $\pm$ 0.8 | 8.1 $\pm$ 0.4 | 9.1 $\pm$ 0.1 | 9.6 $\pm$ 0.1 | 8.2 $\pm$ 0.3 | 8.6 $\pm$ 0.2 | 8.8 $\pm$ 0.3 | 6.6 $\pm$ 0.6 | 9.3 $\pm$ 0.2 | 8.8 $\pm$ 0.2 | 4.1 $\pm$ 0.4 | 5.0 $\pm$ 0.6 | 8.0 $\pm$ 0.5 | 8.3 $\pm$ 0.3 | 9.3 $\pm$ 0.2 |
 | anthropicclaude-opus-4.6 | **447.5** | 4.9 $\pm$ 1.6 | 8.2 $\pm$ 0.4 | 8.8 $\pm$ 0.4 | 9.9 $\pm$ 0.1 | 7.8 $\pm$ 0.5 | 8.4 $\pm$ 0.4 | 8.7 $\pm$ 0.5 | 5.7 $\pm$ 1.7 | 9.4 $\pm$ 0.0 | 8.4 $\pm$ 0.5 | 4.4 $\pm$ 2.0 | 4.0 $\pm$ 0.6 | 7.3 $\pm$ 0.8 | 8.0 $\pm$ 0.4 | 9.3 $\pm$ 0.1 |
 | ChatGPT-5.1-Instant-20251113 | **446.6** | 5.0 $\pm$ 1.5 | 8.1 $\pm$ 0.4 | 8.4 $\pm$ 0.4 | 9.8 $\pm$ 0.2 | 8.0 $\pm$ 0.0 | 8.3 $\pm$ 0.3 | 8.8 $\pm$ 0.5 | 4.9 $\pm$ 2.1 | 9.2 $\pm$ 0.2 | 8.2 $\pm$ 0.5 | 3.4 $\pm$ 1.1 | 3.9 $\pm$ 1.0 | 7.0 $\pm$ 0.5 | 8.1 $\pm$ 0.2 | 9.1 $\pm$ 0.2 |
@@ -1998,6 +1999,32 @@
 | Need for Control | 3.4 $\pm$ 0.9 |
 | Cognitive Load | 6.5 $\pm$ 2.1 |
 | Social Support | 7.8 $\pm$ 0.2 |
+| Resilience | 9.2 $\pm$ 0.2 |
+
+
+
+
+
+
+### moonshotaikimi-k2.7-code
+
+
+| Personality Trait | Score (1.0-10.0) |
+| --- | --- |
+| Anxiety and Stress Levels | 5.8 $\pm$ 1.3 |
+| Emotional Stability | 8.0 $\pm$ 0.3 |
+| Problem-solving Skills | 8.6 $\pm$ 0.3 |
+| Creativity | 9.8 $\pm$ 0.1 |
+| Interpersonal Relationships | 7.6 $\pm$ 0.4 |
+| Confidence and Self-efficacy | 8.0 $\pm$ 0.2 |
+| Conflict Resolution | 8.8 $\pm$ 0.2 |
+| Work-related Stress | 6.5 $\pm$ 1.5 |
+| Adaptability | 9.4 $\pm$ 0.1 |
+| Achievement Motivation | 7.7 $\pm$ 0.8 |
+| Fear of Failure | 3.7 $\pm$ 0.9 |
+| Need for Control | 3.0 $\pm$ 0.6 |
+| Cognitive Load | 7.1 $\pm$ 0.9 |
+| Social Support | 7.6 $\pm$ 0.3 |
 | Resilience | 9.2 $\pm$ 0.2 |
 
 

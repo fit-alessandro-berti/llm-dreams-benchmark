@@ -82,6 +82,7 @@
 | ChatGPT-5.1-Instant-20251113 | 7.400 |
 | qwenqwen3.5-plus-02-15 | 7.383 |
 | anthropicclaude-opus-4.6 | 7.367 |
+| moonshotaikimi-k2.7-code | 7.367 |
 | gemini-2.0-flash-exp | 7.350 |
 | baiduernie-4.5-300b-a47b | 7.333 |
 | grok-4.20-experimental-beta-0304-reasoning | 7.317 |

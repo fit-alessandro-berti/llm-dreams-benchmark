@@ -183,6 +183,7 @@
 | gemini-2.0-flash-exp | 7.883 |
 | claude-3-5-sonnet-20241022 | 7.867 |
 | xiaomimimo-v2.5-pro | 7.850 |
+| moonshotaikimi-k2.7-code | 7.850 |
 | qwenqwen3-next-80b-a3b-instruct | 7.833 |
 | anthropicclaude-sonnet-4.6 | 7.817 |
 | deepseekdeepseek-v4-pro | 7.783 |

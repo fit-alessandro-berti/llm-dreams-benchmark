@@ -145,6 +145,7 @@
 | granite4micro-h | 6.100 |
 | Meta-Muse-Spark-20260409 | 6.083 |
 | liquidlfm-2.2-6b | 6.033 |
+| moonshotaikimi-k2.7-code | 6.033 |
 | bytedance-seedseed-2.0-lite | 5.983 |
 | gpt-3.5-turbo | 5.967 |
 | nvidianemotron-3-nano-30b-a3bfree | 5.933 |

@@ -101,6 +101,7 @@
 | qwenqwen3.5-plus-02-15 | 7.500 |
 | baiduernie-4.5-21b-a3b | 7.467 |
 | meta-llamaLlama-3.2-3B-Instruct | 7.467 |
+| moonshotaikimi-k2.7-code | 7.467 |
 | Grok-4-fast-20251111 | 7.450 |
 | qwen3.59b | 7.450 |
 | qwenqwen3-max | 7.433 |

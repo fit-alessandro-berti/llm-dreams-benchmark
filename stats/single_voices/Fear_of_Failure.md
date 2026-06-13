@@ -142,6 +142,7 @@
 | phi4-reasoning | 5.350 |
 | gemini-2.0-flash-exp | 5.333 |
 | o1-pro-2024-12-05 | 5.300 |
+| moonshotaikimi-k2.7-code | 5.217 |
 | phi3.53.8b-mini-instruct-fp16 | 5.183 |
 | gpt-3.5-turbo | 5.150 |
 | gpt-5-pro-2025-10-06 | 5.150 |

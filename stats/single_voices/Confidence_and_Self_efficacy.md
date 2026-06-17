@@ -175,6 +175,7 @@
 | grok-build-0.1 | 6.917 |
 | talkie-1930-13b-it | 6.917 |
 | meta-llamaMeta-Llama-3.1-70B-Instruct | 6.900 |
+| z-aiglm-5.2 | 6.900 |
 | minimaxminimax-m3 | 6.883 |
 | claude-3-5-sonnet-20241022 | 6.833 |
 | stepfunstep-3.7-flash | 6.833 |

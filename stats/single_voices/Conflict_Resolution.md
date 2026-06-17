@@ -159,6 +159,7 @@
 | grok-4-fast-reasoning | 7.600 |
 | tencenthy3-previewfree | 7.583 |
 | moonshotaikimi-k2.6 | 7.533 |
+| z-aiglm-5.2 | 7.517 |
 | Qwen-3.6-27B | 7.500 |
 | chatgpt-4o-latest-2024-11-20 | 7.483 |
 | stepfunstep-3.7-flash | 7.467 |

@@ -39,6 +39,7 @@
 | googlegemini-3.1-pro-preview | 8.300 |
 | granite4tiny-h | 8.300 |
 | qwen3.50.8b | 8.300 |
+| z-aiglm-5.2 | 8.283 |
 | Gemini-1.5-Pro-Exp-0827 | 8.267 |
 | meta-llamallama-4-scout | 8.267 |
 | baiduernie-4.5-21b-a3b | 8.250 |

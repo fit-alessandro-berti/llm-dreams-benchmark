@@ -164,6 +164,7 @@
 | claude-opus-4-5-20251101 | 8.467 |
 | deepseekdeepseek-v3.2-speciale | 8.467 |
 | gpt-5.2-2025-12-11 | 8.467 |
+| z-aiglm-5.2 | 8.450 |
 | allenaiolmo-3-7b-instruct | 8.433 |
 | mistral-medium-3.5 | 8.433 |
 | prime-intellectintellect-3 | 8.417 |

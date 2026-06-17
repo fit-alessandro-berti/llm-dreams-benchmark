@@ -175,6 +175,7 @@
 | arcee-aitrinity-large-thinking | 6.700 |
 | grok-build-0.1 | 6.700 |
 | qwenqwen3.5-397b-a17b | 6.700 |
+| z-aiglm-5.2 | 6.700 |
 | claude-3-5-sonnet-20241022 | 6.683 |
 | ibmgranite41b-h | 6.683 |
 | mistral-medium-2508 | 6.683 |

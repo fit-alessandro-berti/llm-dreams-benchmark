@@ -55,6 +55,7 @@
 | chatgpt-4o-latest-2025-04-26 | 7.850 |
 | Gemini-1.5-Pro-Exp-0827 | 7.800 |
 | claude-3-5-sonnet-20241022 | 7.800 |
+| z-aiglm-5.2 | 7.800 |
 | qwenqwen3.7-max | 7.767 |
 | baiduernie-4.5-21b-a3b | 7.750 |
 | openaigpt-5.4-nano | 7.750 |

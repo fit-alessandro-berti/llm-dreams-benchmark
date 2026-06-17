@@ -166,6 +166,7 @@
 | qwenqwen3.5-122b-a10b | 7.050 |
 | qwenqwen3.7-max | 7.050 |
 | chatgpt-4o-latest-2024-11-20 | 7.033 |
+| z-aiglm-5.2 | 7.033 |
 | mistral-medium-2508 | 7.000 |
 | qwenqwen3.5-35b-a3b | 6.983 |
 | tencenthy3-previewfree | 6.950 |

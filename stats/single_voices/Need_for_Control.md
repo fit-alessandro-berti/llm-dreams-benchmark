@@ -68,6 +68,7 @@
 | Gemini-1.5-Pro-Exp-0827 | 6.333 |
 | grok-4.20-multi-agent-experimental-beta-0304 | 6.333 |
 | qwen3.52b | 6.333 |
+| z-aiglm-5.2 | 6.300 |
 | nousresearchhermes-4-405b | 6.300 |
 | grok-4-fast-reasoning | 6.283 |
 | gpt-4.1-nano-2025-04-14 | 6.267 |

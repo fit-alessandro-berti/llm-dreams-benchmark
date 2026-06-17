@@ -168,6 +168,7 @@
 | deepseekdeepseek-v3.2-speciale | 8.633 |
 | claude-3-5-sonnet-20241022 | 8.617 |
 | liquidlfm-2.5-1.2b-thinkingfree | 8.617 |
+| z-aiglm-5.2 | 8.617 |
 | gpt-5.2-pro-2025-12-11 | 8.600 |
 | prime-intellectintellect-3 | 8.600 |
 | grok-build-0.1 | 8.583 |

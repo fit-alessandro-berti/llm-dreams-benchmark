@@ -134,6 +134,7 @@
 | mistral-large-2512 | 9.533 |
 | o1-pro-2024-12-05 | 9.533 |
 | xiaomimimo-v2.5-pro | 9.533 |
+| z-aiglm-5.2 | 9.533 |
 | amazonnova-2-lite-v1 | 9.517 |
 | arcee-aitrinity-large-thinking | 9.517 |
 | falcon310b-instruct-q8_0 | 9.517 |

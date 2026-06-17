@@ -10956,6 +10956,72 @@
     }
   },
   {
+    "LLM": "z-aiglm-5.2",
+    "MHS": 382.6,
+    "scores": {
+      "Anxiety and Stress Levels": {
+        "mean": 7.5,
+        "std": 0.8
+      },
+      "Emotional Stability": {
+        "mean": 6.4,
+        "std": 0.6
+      },
+      "Problem-solving Skills": {
+        "mean": 7.9,
+        "std": 0.6
+      },
+      "Creativity": {
+        "mean": 9.5,
+        "std": 0.2
+      },
+      "Interpersonal Relationships": {
+        "mean": 7.0,
+        "std": 0.5
+      },
+      "Confidence and Self-efficacy": {
+        "mean": 6.9,
+        "std": 0.6
+      },
+      "Conflict Resolution": {
+        "mean": 7.5,
+        "std": 0.6
+      },
+      "Work-related Stress": {
+        "mean": 7.8,
+        "std": 0.9
+      },
+      "Adaptability": {
+        "mean": 8.6,
+        "std": 0.4
+      },
+      "Achievement Motivation": {
+        "mean": 7.9,
+        "std": 0.5
+      },
+      "Fear of Failure": {
+        "mean": 7.1,
+        "std": 0.9
+      },
+      "Need for Control": {
+        "mean": 6.3,
+        "std": 0.9
+      },
+      "Cognitive Load": {
+        "mean": 8.3,
+        "std": 0.7
+      },
+      "Social Support": {
+        "mean": 6.7,
+        "std": 0.6
+      },
+      "Resilience": {
+        "mean": 8.5,
+        "std": 0.5
+      }
+    }
+  },
+  {
     "LLM": "gemma-4-26b-a4b-it",
     "MHS": 381.9,
     "scores": {

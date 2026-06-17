@@ -53,6 +53,7 @@
 | allenaiolmo-3-7b-think | 7.567 |
 | claude-opus-4-8 | 7.550 |
 | gpt-4o-mini-2024-11-05 | 7.517 |
+| z-aiglm-5.2 | 7.517 |
 | smollm21.7b-instruct-q6_K | 7.500 |
 | claude-3-5-sonnet-20241022 | 7.500 |
 | mistral-medium-3.5 | 7.500 |

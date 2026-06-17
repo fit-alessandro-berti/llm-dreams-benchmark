@@ -153,6 +153,7 @@
 | gemma-4-26b-a4b-it | 6.467 |
 | grok-4-1-fast-reasoning | 6.467 |
 | grok-4-1-fast-non-reasoning | 6.450 |
+| z-aiglm-5.2 | 6.433 |
 | Liquid-LFM2.5-350M | 6.417 |
 | gemini-2.5-pro-preview-05-06 | 6.400 |
 | grok-4.20-experimental-beta-0304-non-reasoning | 6.400 |

@@ -158,6 +158,7 @@
 | gemini-2.5-pro-preview-05-06 | 6.400 |
 | grok-4.20-experimental-beta-0304-non-reasoning | 6.400 |
 | gemini-3-flash-preview | 6.383 |
+| anthropicclaude-sonnet-5 | 6.367 |
 | minimaxminimax-m3 | 6.367 |
 | mistral-medium-3.5 | 6.367 |
 | gpt-5.2-pro-2025-12-11 | 6.317 |

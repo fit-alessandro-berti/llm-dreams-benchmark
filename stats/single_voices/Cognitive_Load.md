@@ -74,6 +74,7 @@
 | claude-3-opus-20240229 | 8.100 |
 | liquidlfm-2.5-1.2b-thinkingfree | 8.100 |
 | nvidiaLlama-3.1-Nemotron-70B-Instruct | 8.100 |
+| anthropicclaude-sonnet-5 | 8.083 |
 | gemini-2.5-pro-preview-05-06 | 8.083 |
 | grok-4-0709 | 8.083 |
 | Grok-4-fast-20251111 | 8.083 |

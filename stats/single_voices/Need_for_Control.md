@@ -100,6 +100,7 @@
 | qwenqwen3.7-max | 5.983 |
 | allenaiolmo-3-7b-instruct | 5.967 |
 | ai21jamba-mini-1.7 | 5.950 |
+| anthropicclaude-sonnet-5 | 5.950 |
 | gemini-3-flash-preview | 5.950 |
 | poolsidelaguna-xs.2free | 5.950 |
 | googlegemini-3.1-flash-lite-preview | 5.950 |

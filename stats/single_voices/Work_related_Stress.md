@@ -76,6 +76,7 @@
 | googlegemini-3.1-pro-preview | 7.550 |
 | grok-4-0709 | 7.533 |
 | liquidlfm-2.5-1.2b-thinkingfree | 7.533 |
+| anthropicclaude-sonnet-5 | 7.517 |
 | openaigpt-5.4-pro | 7.517 |
 | stepfunstep-3.7-flash | 7.500 |
 | chatgpt-4o-latest-2025-03-26 | 7.483 |

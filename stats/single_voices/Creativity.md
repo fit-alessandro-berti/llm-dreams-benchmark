@@ -91,6 +91,7 @@
 | gemini-1.5-flash-002 | 9.617 |
 | tencenthy3-previewfree | 9.617 |
 | liquidlfm2-8b-a1b | 9.600 |
+| anthropicclaude-sonnet-5 | 9.600 |
 | chatgpt-4o-latest-2025-04-26 | 9.600 |
 | ChatGPT-5.5-Instant-20260530 | 9.600 |
 | claude-3-7-sonnet-20250219 | 9.600 |

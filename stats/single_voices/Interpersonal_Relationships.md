@@ -180,6 +180,7 @@
 | grok-build-0.1 | 6.850 |
 | minimaxminimax-m3 | 6.817 |
 | ibmgranite41b-h | 6.767 |
+| anthropicclaude-sonnet-5 | 6.750 |
 | claude-3-opus-20240229 | 6.750 |
 | deepseekdeepseek-v3.2-speciale | 6.733 |
 | grok-4.20-multi-agent-experimental-beta-0304 | 6.733 |

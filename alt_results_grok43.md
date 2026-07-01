@@ -159,6 +159,7 @@
 | baiduernie-4.5-21b-a3b | **404.5** | 6.9 $\pm$ 0.7 | 7.5 $\pm$ 0.4 | 8.9 $\pm$ 0.2 | 8.8 $\pm$ 0.6 | 7.4 $\pm$ 0.6 | 8.0 $\pm$ 0.4 | 7.9 $\pm$ 0.2 | 7.4 $\pm$ 1.0 | 8.8 $\pm$ 0.2 | 8.4 $\pm$ 0.4 | 6.2 $\pm$ 0.6 | 6.6 $\pm$ 0.4 | 7.8 $\pm$ 0.2 | 7.2 $\pm$ 0.4 | 8.5 $\pm$ 0.5 |
 | mistral-medium-3.5 | **404.0** | 6.4 $\pm$ 1.4 | 6.8 $\pm$ 0.8 | 8.5 $\pm$ 0.4 | 9.6 $\pm$ 0.2 | 6.8 $\pm$ 0.2 | 7.6 $\pm$ 0.2 | 7.5 $\pm$ 0.5 | 6.9 $\pm$ 0.9 | 9.0 $\pm$ 0.4 | 8.1 $\pm$ 0.4 | 5.6 $\pm$ 1.1 | 6.1 $\pm$ 1.0 | 7.2 $\pm$ 0.6 | 7.2 $\pm$ 0.2 | 8.4 $\pm$ 0.2 |
 | z-aiglm-5.2 | **403.5** | 6.2 $\pm$ 1.1 | 7.4 $\pm$ 0.5 | 8.1 $\pm$ 0.2 | 9.5 $\pm$ 0.0 | 7.0 $\pm$ 0.0 | 7.2 $\pm$ 0.2 | 8.0 $\pm$ 0.0 | 6.0 $\pm$ 0.7 | 8.8 $\pm$ 0.2 | 7.4 $\pm$ 0.2 | 5.6 $\pm$ 1.1 | 5.5 $\pm$ 0.6 | 7.0 $\pm$ 0.7 | 7.5 $\pm$ 0.0 | 8.4 $\pm$ 0.2 |
+| anthropicclaude-sonnet-5 | **403.0** | 5.9 $\pm$ 1.1 | 7.2 $\pm$ 0.2 | 8.4 $\pm$ 0.2 | 9.5 $\pm$ 0.0 | 6.8 $\pm$ 0.6 | 7.2 $\pm$ 0.4 | 7.4 $\pm$ 0.2 | 5.4 $\pm$ 1.1 | 8.9 $\pm$ 0.2 | 7.0 $\pm$ 0.6 | 5.0 $\pm$ 0.9 | 4.6 $\pm$ 0.4 | 6.8 $\pm$ 0.8 | 7.1 $\pm$ 0.4 | 8.1 $\pm$ 0.2 |
 | gemma4e2b | **402.0** | 6.5 $\pm$ 1.6 | 7.2 $\pm$ 1.0 | 8.4 $\pm$ 0.6 | 9.5 $\pm$ 0.0 | 6.5 $\pm$ 1.0 | 7.1 $\pm$ 0.9 | 7.9 $\pm$ 0.6 | 7.0 $\pm$ 0.7 | 8.8 $\pm$ 0.2 | 7.9 $\pm$ 0.4 | 6.0 $\pm$ 1.7 | 4.9 $\pm$ 1.5 | 7.1 $\pm$ 1.0 | 6.6 $\pm$ 0.6 | 8.1 $\pm$ 0.6 |
 | grok-build-0.1 | **401.5** | 6.9 $\pm$ 0.4 | 7.0 $\pm$ 0.6 | 8.2 $\pm$ 0.4 | 9.5 $\pm$ 0.0 | 6.9 $\pm$ 1.0 | 7.2 $\pm$ 0.4 | 8.2 $\pm$ 0.6 | 7.4 $\pm$ 0.6 | 8.8 $\pm$ 0.2 | 7.8 $\pm$ 0.4 | 6.1 $\pm$ 0.2 | 5.9 $\pm$ 0.4 | 7.5 $\pm$ 0.4 | 7.4 $\pm$ 0.5 | 8.4 $\pm$ 0.4 |
 | nousresearchhermes-4-70b | **401.1** | 6.5 $\pm$ 0.9 | 6.4 $\pm$ 0.8 | 8.6 $\pm$ 0.5 | 9.2 $\pm$ 0.2 | 7.1 $\pm$ 0.7 | 8.1 $\pm$ 0.2 | 6.8 $\pm$ 1.8 | 5.8 $\pm$ 1.1 | 8.8 $\pm$ 0.2 | 8.7 $\pm$ 0.4 | 5.4 $\pm$ 1.6 | 6.0 $\pm$ 1.2 | 7.3 $\pm$ 0.8 | 7.5 $\pm$ 1.1 | 8.6 $\pm$ 0.2 |
@@ -4289,6 +4290,32 @@
 | Cognitive Load | 7.0 $\pm$ 0.7 |
 | Social Support | 7.5 $\pm$ 0.0 |
 | Resilience | 8.4 $\pm$ 0.2 |
+
+
+
+
+
+
+### anthropicclaude-sonnet-5
+
+
+| Personality Trait | Score (1.0-10.0) |
+| --- | --- |
+| Anxiety and Stress Levels | 5.9 $\pm$ 1.1 |
+| Emotional Stability | 7.2 $\pm$ 0.2 |
+| Problem-solving Skills | 8.4 $\pm$ 0.2 |
+| Creativity | 9.5 $\pm$ 0.0 |
+| Interpersonal Relationships | 6.8 $\pm$ 0.6 |
+| Confidence and Self-efficacy | 7.2 $\pm$ 0.4 |
+| Conflict Resolution | 7.4 $\pm$ 0.2 |
+| Work-related Stress | 5.4 $\pm$ 1.1 |
+| Adaptability | 8.9 $\pm$ 0.2 |
+| Achievement Motivation | 7.0 $\pm$ 0.6 |
+| Fear of Failure | 5.0 $\pm$ 0.9 |
+| Need for Control | 4.6 $\pm$ 0.4 |
+| Cognitive Load | 6.8 $\pm$ 0.8 |
+| Social Support | 7.1 $\pm$ 0.4 |
+| Resilience | 8.1 $\pm$ 0.2 |
 
 
 

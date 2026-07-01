@@ -187,6 +187,7 @@
 | gemma4e2b | 8.183 |
 | meta-llamaMeta-Llama-3.1-70B-Instruct | 8.167 |
 | ministral-14b-2512 | 8.150 |
+| anthropicclaude-sonnet-5 | 8.133 |
 | claude-3-5-sonnet-20241022 | 8.083 |
 | claude-3-opus-20240229 | 8.050 |
 | minimaxminimax-m3 | 8.017 |

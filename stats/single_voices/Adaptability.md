@@ -163,6 +163,7 @@
 | poolsidelaguna-xs.2free | 8.667 |
 | arcee-aitrinity-large-thinking | 8.650 |
 | llama213b | 8.650 |
+| anthropicclaude-sonnet-5 | 8.650 |
 | Gpt-5.1-Pro-20251120 | 8.650 |
 | meta-llamaMeta-Llama-3.1-405B-Instruct | 8.633 |
 | deepseekdeepseek-v3.2-speciale | 8.633 |

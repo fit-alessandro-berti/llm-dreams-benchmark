@@ -172,6 +172,7 @@
 | gpt-5.2-2025-12-11 | 6.767 |
 | gpt-5.2-pro-2025-12-11 | 6.767 |
 | grok-4-0709 | 6.767 |
+| anthropicclaude-sonnet-5 | 6.733 |
 | arcee-aitrinity-large-thinking | 6.700 |
 | grok-build-0.1 | 6.700 |
 | qwenqwen3.5-397b-a17b | 6.700 |

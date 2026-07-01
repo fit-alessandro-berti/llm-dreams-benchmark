@@ -67,6 +67,7 @@
 | qwenqwen3-max | 7.417 |
 | deepseekdeepseek-v4-flash | 7.400 |
 | qwenqwen3.7-max | 7.400 |
+| anthropicclaude-sonnet-5 | 7.367 |
 | gemini-3-flash-preview | 7.367 |
 | grok-4-1-fast-reasoning | 7.350 |
 | z-aiglm-5.1 | 7.333 |

@@ -62,6 +62,7 @@
 | Liquid-LFM2.5-350M | 6.850 |
 | allenaiolmo-3-7b-think | 6.833 |
 | mistral-medium-3.5 | 6.833 |
+| anthropicclaude-sonnet-5 | 6.783 |
 | deepseekdeepseek-v4-flash | 6.783 |
 | grok-4-1-fast-reasoning | 6.767 |
 | moonshotaikimi-k2.5 | 6.767 |

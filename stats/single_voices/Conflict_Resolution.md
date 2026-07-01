@@ -176,6 +176,7 @@
 | openaigpt-5.3-chat | 7.067 |
 | llama213b | 7.050 |
 | smollm21.7b-instruct-q6_K | 7.000 |
+| anthropicclaude-sonnet-5 | 7.000 |
 | z-aiglm-5 | 6.967 |
 | ibmgranite41b-h | 6.933 |
 | qwenqwen3.5-397b-a17b | 6.933 |

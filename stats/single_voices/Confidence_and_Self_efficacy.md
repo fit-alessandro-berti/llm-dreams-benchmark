@@ -193,6 +193,7 @@
 | anthropicclaude-opus-4.1 | 6.617 |
 | gpt-5.2-pro-2025-12-11 | 6.617 |
 | ministral-8b-2512 | 6.583 |
+| poolsidelaguna-xs-2.1 | 6.550 |
 | gpt-5.2-2025-12-11 | 6.500 |
 | gemma4e4b | 6.483 |
 | mistral-small-2603 | 6.450 |

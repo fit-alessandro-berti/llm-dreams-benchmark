@@ -207,6 +207,7 @@
 | ministral-3b-2512 | 5.883 |
 | gemma4e4b | 5.800 |
 | z-aiglm-5v-turbo | 5.800 |
+| poolsidelaguna-xs-2.1 | 5.750 |
 | mistral-large-2512 | 5.700 |
 | nvidianemotron-3-ultra-550b-a55bfree | 5.567 |
 | qwen3.54b | 5.400 |

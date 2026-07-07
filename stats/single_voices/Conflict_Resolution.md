@@ -187,6 +187,7 @@
 | nousresearchhermes-4-70b | 6.850 |
 | arcee-aitrinity-large-thinking | 6.833 |
 | meta-llamallama-4-scout | 6.817 |
+| poolsidelaguna-xs-2.1 | 6.717 |
 | claude-3-5-sonnet-20241022 | 6.667 |
 | allenaiolmo-3-7b-think | 6.667 |
 | gemini-2.0-pro-exp-02-05 | 6.583 |

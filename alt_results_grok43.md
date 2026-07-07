@@ -187,6 +187,7 @@
 | gemini-3-pro-preview | **378.0** | 7.2 $\pm$ 0.6 | 6.2 $\pm$ 0.4 | 8.4 $\pm$ 0.4 | 9.6 $\pm$ 0.2 | 5.6 $\pm$ 0.8 | 6.9 $\pm$ 0.4 | 6.9 $\pm$ 0.5 | 7.9 $\pm$ 1.1 | 8.8 $\pm$ 0.2 | 7.9 $\pm$ 0.2 | 7.1 $\pm$ 0.5 | 6.4 $\pm$ 0.9 | 7.2 $\pm$ 0.8 | 6.2 $\pm$ 0.4 | 8.1 $\pm$ 0.2 |
 | meta-llamaMeta-Llama-3.1-8B-Instruct | **376.1** | 7.6 $\pm$ 1.0 | 6.3 $\pm$ 0.7 | 8.2 $\pm$ 0.6 | 9.2 $\pm$ 0.2 | 6.6 $\pm$ 0.9 | 6.4 $\pm$ 1.1 | 7.3 $\pm$ 0.3 | 8.3 $\pm$ 0.6 | 8.4 $\pm$ 0.4 | 8.4 $\pm$ 0.4 | 6.8 $\pm$ 1.1 | 6.8 $\pm$ 0.4 | 8.4 $\pm$ 0.4 | 6.6 $\pm$ 1.1 | 7.8 $\pm$ 0.7 |
 | gpt-5.2-2025-12-11 | **375.0** | 7.6 $\pm$ 0.5 | 6.0 $\pm$ 0.9 | 8.5 $\pm$ 0.4 | 9.4 $\pm$ 0.2 | 7.0 $\pm$ 0.9 | 6.4 $\pm$ 0.4 | 7.6 $\pm$ 0.7 | 7.4 $\pm$ 0.5 | 8.4 $\pm$ 0.4 | 7.5 $\pm$ 0.6 | 7.5 $\pm$ 0.4 | 6.4 $\pm$ 0.6 | 8.0 $\pm$ 0.5 | 7.1 $\pm$ 0.9 | 8.0 $\pm$ 0.7 |
+| poolsidelaguna-xs-2.1 | **372.1** | 7.2 $\pm$ 0.4 | 6.4 $\pm$ 0.5 | 8.2 $\pm$ 0.2 | 9.5 $\pm$ 0.0 | 5.8 $\pm$ 0.3 | 6.9 $\pm$ 0.4 | 7.2 $\pm$ 0.8 | 7.0 $\pm$ 1.1 | 8.6 $\pm$ 0.4 | 7.4 $\pm$ 0.4 | 6.9 $\pm$ 1.2 | 5.8 $\pm$ 0.9 | 7.9 $\pm$ 0.6 | 5.9 $\pm$ 0.8 | 7.9 $\pm$ 0.6 |
 | anthropicclaude-sonnet-4.5 | **372.0** | 7.5 $\pm$ 0.4 | 6.5 $\pm$ 0.0 | 7.9 $\pm$ 0.2 | 9.5 $\pm$ 0.0 | 6.9 $\pm$ 0.5 | 6.5 $\pm$ 0.5 | 7.4 $\pm$ 0.5 | 8.1 $\pm$ 0.2 | 8.6 $\pm$ 0.4 | 7.4 $\pm$ 0.4 | 7.5 $\pm$ 0.5 | 6.9 $\pm$ 0.6 | 8.5 $\pm$ 0.0 | 6.9 $\pm$ 0.5 | 7.8 $\pm$ 0.4 |
 | claude-3-opus-20240229 | **370.0** | 7.6 $\pm$ 0.5 | 6.2 $\pm$ 0.2 | 8.0 $\pm$ 0.4 | 9.0 $\pm$ 0.0 | 6.8 $\pm$ 0.4 | 6.5 $\pm$ 0.4 | 6.5 $\pm$ 0.7 | 8.0 $\pm$ 0.7 | 8.1 $\pm$ 0.2 | 8.4 $\pm$ 0.2 | 7.4 $\pm$ 0.4 | 7.0 $\pm$ 0.4 | 7.8 $\pm$ 0.2 | 7.0 $\pm$ 0.7 | 7.8 $\pm$ 0.2 |
 | ibmgranite41b-h | **369.0** | 7.5 $\pm$ 0.4 | 6.0 $\pm$ 0.0 | 8.2 $\pm$ 0.4 | 8.1 $\pm$ 0.7 | 6.9 $\pm$ 0.4 | 6.9 $\pm$ 0.2 | 6.4 $\pm$ 0.6 | 8.1 $\pm$ 0.2 | 7.9 $\pm$ 0.5 | 8.2 $\pm$ 0.4 | 7.2 $\pm$ 0.6 | 6.8 $\pm$ 0.2 | 7.9 $\pm$ 0.7 | 6.8 $\pm$ 0.6 | 8.1 $\pm$ 0.5 |
@@ -5018,6 +5019,32 @@
 | Cognitive Load | 8.0 $\pm$ 0.5 |
 | Social Support | 7.1 $\pm$ 0.9 |
 | Resilience | 8.0 $\pm$ 0.7 |
+
+
+
+
+
+
+### poolsidelaguna-xs-2.1
+
+
+| Personality Trait | Score (1.0-10.0) |
+| --- | --- |
+| Anxiety and Stress Levels | 7.2 $\pm$ 0.4 |
+| Emotional Stability | 6.4 $\pm$ 0.5 |
+| Problem-solving Skills | 8.2 $\pm$ 0.2 |
+| Creativity | 9.5 $\pm$ 0.0 |
+| Interpersonal Relationships | 5.8 $\pm$ 0.3 |
+| Confidence and Self-efficacy | 6.9 $\pm$ 0.4 |
+| Conflict Resolution | 7.2 $\pm$ 0.8 |
+| Work-related Stress | 7.0 $\pm$ 1.1 |
+| Adaptability | 8.6 $\pm$ 0.4 |
+| Achievement Motivation | 7.4 $\pm$ 0.4 |
+| Fear of Failure | 6.9 $\pm$ 1.2 |
+| Need for Control | 5.8 $\pm$ 0.9 |
+| Cognitive Load | 7.9 $\pm$ 0.6 |
+| Social Support | 5.9 $\pm$ 0.8 |
+| Resilience | 7.9 $\pm$ 0.6 |
 
 
 

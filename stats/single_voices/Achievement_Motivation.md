@@ -157,6 +157,7 @@
 | mistral-small-2603 | 8.050 |
 | anthropicclaude-opus-4.6 | 8.050 |
 | grok-build-0.1 | 8.050 |
+| poolsidelaguna-xs-2.1 | 8.050 |
 | gemma-3-27b-it | 8.033 |
 | talkie-1930-13b-it | 8.033 |
 | aion-labsaion-2.0 | 8.017 |

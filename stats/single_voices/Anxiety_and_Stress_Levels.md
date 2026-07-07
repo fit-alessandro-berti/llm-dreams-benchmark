@@ -33,6 +33,7 @@
 | claude-3-opus-20240229 | 7.950 |
 | claude-opus-4-7 | 7.917 |
 | meta-llamaLlama-3.2-3B-Instruct | 7.900 |
+| poolsidelaguna-xs-2.1 | 7.850 |
 | meta-llamaLlama-3.3-70B-Instruct | 7.833 |
 | qwen3.54b | 7.817 |
 | Grok-4.1-20251118 | 7.783 |

@@ -195,6 +195,7 @@
 | gemma4e4b | 5.633 |
 | ministral-14b-2512 | 5.617 |
 | mistral-medium-2508 | 5.567 |
+| poolsidelaguna-xs-2.1 | 5.517 |
 | aion-labsaion-2.0 | 5.483 |
 | claude-opus-4-7 | 5.483 |
 | meta-llamaMeta-Llama-3.1-8B-Instruct | 5.483 |

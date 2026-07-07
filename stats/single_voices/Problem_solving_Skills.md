@@ -186,6 +186,7 @@
 | claude-haiku-4-5-20251001 | 7.933 |
 | gemma-4-26b-a4b-it | 7.917 |
 | z-aiglm-5.2 | 7.917 |
+| poolsidelaguna-xs-2.1 | 7.883 |
 | gemma4e4b | 7.867 |
 | qwenqwen3.5-35b-a3b | 7.850 |
 | gemini-2.5-pro-exp-03-25 | 7.833 |

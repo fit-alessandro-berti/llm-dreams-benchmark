@@ -46,6 +46,7 @@
 | llama213b | 6.567 |
 | anthropicclaude-sonnet-4.5 | 6.533 |
 | liquidlfm-2.5-1.2b-thinkingfree | 6.533 |
+| poolsidelaguna-xs-2.1 | 6.533 |
 | ai21jamba-large-1.7 | 6.517 |
 | granite4micro | 6.517 |
 | Grok-3-beta-thinking-20250303 | 6.517 |

@@ -204,6 +204,7 @@
 | gemini-2.5-pro-exp-03-25 | 6.150 |
 | claude-opus-4-8 | 6.133 |
 | ministral-3b-2512 | 6.083 |
+| poolsidelaguna-xs-2.1 | 6.000 |
 | mistral-large-2512 | 5.917 |
 | nvidianemotron-3-ultra-550b-a55bfree | 5.850 |
 | gemini-3-pro-preview | 5.817 |

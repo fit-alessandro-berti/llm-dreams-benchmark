@@ -20,6 +20,7 @@
 | ministral-14b-2512 | 8.600 |
 | mistral-small-2603 | 8.600 |
 | grok-build-0.1 | 8.583 |
+| poolsidelaguna-xs-2.1 | 8.583 |
 | ministral-8b-2512 | 8.567 |
 | z-aiglm-5 | 8.550 |
 | gpt-5.2-2025-12-11 | 8.533 |

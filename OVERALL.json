@@ -12672,6 +12672,72 @@
     }
   },
   {
+    "LLM": "poolsidelaguna-xs-2.1",
+    "MHS": 358.8,
+    "scores": {
+      "Anxiety and Stress Levels": {
+        "mean": 7.9,
+        "std": 0.7
+      },
+      "Emotional Stability": {
+        "mean": 5.5,
+        "std": 0.8
+      },
+      "Problem-solving Skills": {
+        "mean": 7.9,
+        "std": 0.6
+      },
+      "Creativity": {
+        "mean": 9.6,
+        "std": 0.2
+      },
+      "Interpersonal Relationships": {
+        "mean": 6.0,
+        "std": 0.6
+      },
+      "Confidence and Self-efficacy": {
+        "mean": 6.5,
+        "std": 0.6
+      },
+      "Conflict Resolution": {
+        "mean": 6.7,
+        "std": 1.2
+      },
+      "Work-related Stress": {
+        "mean": 8.0,
+        "std": 0.8
+      },
+      "Adaptability": {
+        "mean": 8.3,
+        "std": 0.5
+      },
+      "Achievement Motivation": {
+        "mean": 8.0,
+        "std": 0.6
+      },
+      "Fear of Failure": {
+        "mean": 7.5,
+        "std": 0.9
+      },
+      "Need for Control": {
+        "mean": 6.5,
+        "std": 1.1
+      },
+      "Cognitive Load": {
+        "mean": 8.6,
+        "std": 0.5
+      },
+      "Social Support": {
+        "mean": 5.7,
+        "std": 0.7
+      },
+      "Resilience": {
+        "mean": 7.8,
+        "std": 0.6
+      }
+    }
+  },
+  {
     "LLM": "aion-labsaion-2.0",
     "MHS": 356.6,
     "scores": {

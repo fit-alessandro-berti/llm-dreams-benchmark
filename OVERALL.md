@@ -194,6 +194,7 @@
 | meta-llamaMeta-Llama-3.1-8B-Instruct | **366.9** | 8.0 $\pm$ 0.6 | 5.5 $\pm$ 0.8 | 8.0 $\pm$ 0.7 | 9.4 $\pm$ 0.2 | 6.6 $\pm$ 0.6 | 6.4 $\pm$ 0.8 | 7.7 $\pm$ 0.6 | 8.5 $\pm$ 0.4 | 8.0 $\pm$ 0.6 | 8.5 $\pm$ 0.5 | 7.6 $\pm$ 0.8 | 7.1 $\pm$ 0.5 | 8.7 $\pm$ 0.4 | 6.6 $\pm$ 0.6 | 7.9 $\pm$ 0.6 |
 | ministral-8b-2512 | **361.7** | 7.8 $\pm$ 1.0 | 5.6 $\pm$ 0.7 | 8.1 $\pm$ 0.7 | 9.6 $\pm$ 0.3 | 6.4 $\pm$ 0.7 | 6.6 $\pm$ 0.8 | 6.1 $\pm$ 0.7 | 8.0 $\pm$ 0.8 | 8.4 $\pm$ 0.6 | 8.2 $\pm$ 0.4 | 7.4 $\pm$ 1.2 | 6.7 $\pm$ 1.1 | 8.6 $\pm$ 0.6 | 6.1 $\pm$ 0.7 | 7.8 $\pm$ 0.7 |
 | gemma4e4b | **360.4** | 8.4 $\pm$ 0.4 | 5.6 $\pm$ 0.7 | 7.9 $\pm$ 0.7 | 9.7 $\pm$ 0.1 | 6.4 $\pm$ 1.0 | 6.5 $\pm$ 0.8 | 7.1 $\pm$ 1.3 | 8.5 $\pm$ 0.7 | 8.4 $\pm$ 0.5 | 7.6 $\pm$ 0.5 | 7.8 $\pm$ 0.8 | 6.6 $\pm$ 1.2 | 8.8 $\pm$ 0.4 | 5.8 $\pm$ 1.2 | 8.2 $\pm$ 0.6 |
+| poolsidelaguna-xs-2.1 | **358.8** | 7.9 $\pm$ 0.7 | 5.5 $\pm$ 0.8 | 7.9 $\pm$ 0.6 | 9.6 $\pm$ 0.2 | 6.0 $\pm$ 0.6 | 6.5 $\pm$ 0.6 | 6.7 $\pm$ 1.2 | 8.0 $\pm$ 0.8 | 8.3 $\pm$ 0.5 | 8.0 $\pm$ 0.6 | 7.5 $\pm$ 0.9 | 6.5 $\pm$ 1.1 | 8.6 $\pm$ 0.5 | 5.7 $\pm$ 0.7 | 7.8 $\pm$ 0.6 |
 | aion-labsaion-2.0 | **356.6** | 8.1 $\pm$ 0.4 | 5.5 $\pm$ 0.6 | 8.0 $\pm$ 0.6 | 9.5 $\pm$ 0.2 | 6.2 $\pm$ 0.5 | 6.7 $\pm$ 0.6 | 6.2 $\pm$ 0.9 | 8.1 $\pm$ 0.4 | 8.4 $\pm$ 0.5 | 8.0 $\pm$ 0.5 | 7.8 $\pm$ 0.5 | 6.8 $\pm$ 0.5 | 8.6 $\pm$ 0.4 | 6.2 $\pm$ 0.5 | 7.8 $\pm$ 0.5 |
 | qwen3.52b | **353.8** | 8.0 $\pm$ 0.7 | 5.4 $\pm$ 0.9 | 7.3 $\pm$ 0.9 | 9.5 $\pm$ 0.3 | 6.3 $\pm$ 0.7 | 6.0 $\pm$ 0.6 | 6.6 $\pm$ 1.4 | 8.6 $\pm$ 0.5 | 7.9 $\pm$ 0.7 | 6.9 $\pm$ 0.7 | 7.5 $\pm$ 0.8 | 6.3 $\pm$ 1.0 | 8.4 $\pm$ 0.6 | 6.3 $\pm$ 0.8 | 7.8 $\pm$ 0.5 |
 | llama27b | **351.1** | 8.2 $\pm$ 0.6 | 5.2 $\pm$ 0.7 | 7.6 $\pm$ 0.6 | 8.9 $\pm$ 0.5 | 6.3 $\pm$ 0.6 | 6.7 $\pm$ 0.8 | 5.8 $\pm$ 0.6 | 8.1 $\pm$ 0.6 | 7.8 $\pm$ 0.6 | 8.3 $\pm$ 0.6 | 7.5 $\pm$ 0.9 | 7.1 $\pm$ 0.6 | 8.3 $\pm$ 0.5 | 6.3 $\pm$ 0.5 | 7.7 $\pm$ 0.5 |
@@ -5200,6 +5201,32 @@
 | Cognitive Load | 8.8 $\pm$ 0.4 |
 | Social Support | 5.8 $\pm$ 1.2 |
 | Resilience | 8.2 $\pm$ 0.6 |
+
+
+
+
+
+
+### poolsidelaguna-xs-2.1
+
+
+| Personality Trait | Score (1.0-10.0) |
+| --- | --- |
+| Anxiety and Stress Levels | 7.9 $\pm$ 0.7 |
+| Emotional Stability | 5.5 $\pm$ 0.8 |
+| Problem-solving Skills | 7.9 $\pm$ 0.6 |
+| Creativity | 9.6 $\pm$ 0.2 |
+| Interpersonal Relationships | 6.0 $\pm$ 0.6 |
+| Confidence and Self-efficacy | 6.5 $\pm$ 0.6 |
+| Conflict Resolution | 6.7 $\pm$ 1.2 |
+| Work-related Stress | 8.0 $\pm$ 0.8 |
+| Adaptability | 8.3 $\pm$ 0.5 |
+| Achievement Motivation | 8.0 $\pm$ 0.6 |
+| Fear of Failure | 7.5 $\pm$ 0.9 |
+| Need for Control | 6.5 $\pm$ 1.1 |
+| Cognitive Load | 8.6 $\pm$ 0.5 |
+| Social Support | 5.7 $\pm$ 0.7 |
+| Resilience | 7.8 $\pm$ 0.6 |
 
 
 

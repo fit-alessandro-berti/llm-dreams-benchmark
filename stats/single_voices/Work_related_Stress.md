@@ -45,6 +45,7 @@
 | openaigpt-5.3-chat | 8.017 |
 | Liquid-LFM2.5-350M | 8.000 |
 | granite4tiny-h | 8.000 |
+| poolsidelaguna-xs-2.1 | 7.983 |
 | ministral-8b-2512 | 7.967 |
 | grok-4-1-fast-reasoning | 7.950 |
 | arcee-aitrinity-large-thinking | 7.883 |

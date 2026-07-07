@@ -191,6 +191,7 @@
 | meta-llamaLlama-3.3-70B-Instruct | 8.383 |
 | ministral-14b-2512 | 8.367 |
 | ministral-8b-2512 | 8.350 |
+| poolsidelaguna-xs-2.1 | 8.350 |
 | aion-labsaion-2.0 | 8.333 |
 | claude-3-opus-20240229 | 8.317 |
 | gemini-3-pro-preview | 8.300 |

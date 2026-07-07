@@ -30,6 +30,7 @@
 | gpt-5.2-pro-2025-12-11 | 7.567 |
 | meta-llamaMeta-Llama-3.1-8B-Instruct | 7.567 |
 | llama27b | 7.517 |
+| poolsidelaguna-xs-2.1 | 7.517 |
 | meta-llamaLlama-3.3-70B-Instruct | 7.500 |
 | qwen3.52b | 7.500 |
 | meta-llamaMeta-Llama-3.1-70B-Instruct | 7.467 |

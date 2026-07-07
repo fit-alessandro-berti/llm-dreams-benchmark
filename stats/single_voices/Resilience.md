@@ -195,6 +195,7 @@
 | meta-llamaMeta-Llama-3.1-8B-Instruct | 7.883 |
 | ministral-8b-2512 | 7.833 |
 | qwen3.52b | 7.833 |
+| poolsidelaguna-xs-2.1 | 7.817 |
 | aion-labsaion-2.0 | 7.783 |
 | mistral-small-2603 | 7.783 |
 | gemini-3-pro-preview | 7.783 |

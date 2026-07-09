@@ -5,47 +5,47 @@ Variability Analysis Results (considering the AVG in each AVG ± STDEV tabular v
 1. Basic Statistics:
 
 Mean:
-  Anxiety and Stress Levels: 6.699
-  Emotional Stability: 6.999
-  Problem-solving Skills: 8.881
-  Creativity: 9.438
+  Anxiety and Stress Levels: 6.695
+  Emotional Stability: 7.000
+  Problem-solving Skills: 8.882
+  Creativity: 9.439
   Interpersonal Relationships: 7.906
-  Confidence and Self-efficacy: 7.798
-  Conflict Resolution: 8.050
-  Work-related Stress: 6.952
+  Confidence and Self-efficacy: 7.800
+  Conflict Resolution: 8.049
+  Work-related Stress: 6.950
   Adaptability: 9.097
   Achievement Motivation: 8.912
-  Fear of Failure: 5.741
+  Fear of Failure: 5.735
   Need for Control: 6.864
-  Cognitive Load: 8.271
-  Social Support: 7.646
+  Cognitive Load: 8.272
+  Social Support: 7.645
   Resilience: 8.890
 
 Std:
-  Anxiety and Stress Levels: 1.749
-  Emotional Stability: 1.192
+  Anxiety and Stress Levels: 1.746
+  Emotional Stability: 1.190
   Problem-solving Skills: 0.271
-  Creativity: 0.190
-  Interpersonal Relationships: 0.582
-  Confidence and Self-efficacy: 0.805
-  Conflict Resolution: 0.746
-  Work-related Stress: 1.490
-  Adaptability: 0.264
-  Achievement Motivation: 0.434
-  Fear of Failure: 1.549
-  Need for Control: 0.743
-  Cognitive Load: 0.605
-  Social Support: 0.894
-  Resilience: 0.530
+  Creativity: 0.191
+  Interpersonal Relationships: 0.581
+  Confidence and Self-efficacy: 0.803
+  Conflict Resolution: 0.744
+  Work-related Stress: 1.487
+  Adaptability: 0.263
+  Achievement Motivation: 0.433
+  Fear of Failure: 1.548
+  Need for Control: 0.741
+  Cognitive Load: 0.604
+  Social Support: 0.892
+  Resilience: 0.529
 
 Coeff_variation:
   Anxiety and Stress Levels: 0.261
   Emotional Stability: 0.170
-  Problem-solving Skills: 0.031
+  Problem-solving Skills: 0.030
   Creativity: 0.020
   Interpersonal Relationships: 0.074
   Confidence and Self-efficacy: 0.103
-  Conflict Resolution: 0.093
+  Conflict Resolution: 0.092
   Work-related Stress: 0.214
   Adaptability: 0.029
   Achievement Motivation: 0.049
@@ -73,57 +73,57 @@ Range:
   Resilience: 3.000
 
 2. PCA Analysis:
-  Variance X1: 9.760
+  Variance X1: 9.754
   Variance X2: 1.488
-  Total variance: 11.248
-  Range X1: 16.528
-  Range X2: 6.359
+  Total variance: 11.242
+  Range X1: 16.558
+  Range X2: 6.379
   Sample embeddings (first 3 LLMs):
-    qwenqwen3.6-plusfree: X1=-8.498, X2=3.420
-    qwenqwen3-next-80b-a3b-instruct: X1=-7.554, X2=1.528
-    Grok-4.3-20260530: X1=-5.720, X2=0.789
+    qwenqwen3.6-plusfree: X1=-8.509, X2=3.444
+    qwenqwen3-next-80b-a3b-instruct: X1=-7.563, X2=1.548
+    Grok-4.3-20260530: X1=-5.725, X2=0.808
 
 3. Correlation Analysis:
   Mean absolute correlation: 0.596
-  Maximum correlation: 0.962
+  Maximum correlation: 0.961
   Highly correlated pairs (|r| > 0.7):
     Anxiety and Stress Levels - Emotional Stability: -0.877
-    Anxiety and Stress Levels - Confidence and Self-efficacy: -0.764
+    Anxiety and Stress Levels - Confidence and Self-efficacy: -0.765
     Anxiety and Stress Levels - Work-related Stress: 0.955
-    Anxiety and Stress Levels - Fear of Failure: 0.962
+    Anxiety and Stress Levels - Fear of Failure: 0.961
     Anxiety and Stress Levels - Need for Control: 0.708
-    Anxiety and Stress Levels - Cognitive Load: 0.860
-    Anxiety and Stress Levels - Social Support: -0.758
-    Emotional Stability - Interpersonal Relationships: 0.796
+    Anxiety and Stress Levels - Cognitive Load: 0.859
+    Anxiety and Stress Levels - Social Support: -0.757
+    Emotional Stability - Interpersonal Relationships: 0.795
     Emotional Stability - Confidence and Self-efficacy: 0.901
     Emotional Stability - Conflict Resolution: 0.717
     Emotional Stability - Work-related Stress: -0.864
-    Emotional Stability - Fear of Failure: -0.919
-    Emotional Stability - Cognitive Load: -0.847
-    Emotional Stability - Social Support: 0.894
-    Emotional Stability - Resilience: 0.823
-    Interpersonal Relationships - Confidence and Self-efficacy: 0.709
+    Emotional Stability - Fear of Failure: -0.918
+    Emotional Stability - Cognitive Load: -0.846
+    Emotional Stability - Social Support: 0.893
+    Emotional Stability - Resilience: 0.824
+    Interpersonal Relationships - Confidence and Self-efficacy: 0.708
     Interpersonal Relationships - Conflict Resolution: 0.754
     Interpersonal Relationships - Social Support: 0.920
     Interpersonal Relationships - Resilience: 0.837
     Confidence and Self-efficacy - Work-related Stress: -0.765
     Confidence and Self-efficacy - Fear of Failure: -0.841
-    Confidence and Self-efficacy - Cognitive Load: -0.760
-    Confidence and Self-efficacy - Social Support: 0.806
+    Confidence and Self-efficacy - Cognitive Load: -0.759
+    Confidence and Self-efficacy - Social Support: 0.805
     Confidence and Self-efficacy - Resilience: 0.829
     Conflict Resolution - Social Support: 0.774
-    Conflict Resolution - Resilience: 0.820
-    Work-related Stress - Fear of Failure: 0.942
+    Conflict Resolution - Resilience: 0.819
+    Work-related Stress - Fear of Failure: 0.941
     Work-related Stress - Need for Control: 0.763
     Work-related Stress - Cognitive Load: 0.853
-    Work-related Stress - Social Support: -0.755
+    Work-related Stress - Social Support: -0.754
     Adaptability - Resilience: 0.765
-    Fear of Failure - Need for Control: 0.722
-    Fear of Failure - Cognitive Load: 0.878
-    Fear of Failure - Social Support: -0.832
-    Fear of Failure - Resilience: -0.742
+    Fear of Failure - Need for Control: 0.721
+    Fear of Failure - Cognitive Load: 0.876
+    Fear of Failure - Social Support: -0.830
+    Fear of Failure - Resilience: -0.741
     Cognitive Load - Social Support: -0.796
-    Social Support - Resilience: 0.868
+    Social Support - Resilience: 0.867
 
 4. LLM Variability:
   Mean variance across LLMs: 2.003
@@ -171,21 +171,16 @@ Range:
 ########### grok-4-fast-reasoning
 ########## gpt-4o-mini-2024-11-05
 ########## meta-llamaLlama-3.3-70B-Instruct
+######## x-aigrok-4.5
+######## googlegemini-3.1-pro-preview
 ######## googlegemini-3.1-flash-lite-preview
 ######### qwenqwen3.5-397b-a17b
 ######### qwenqwen3.5-35b-a3b
-######### z-aiglm-5.1
-######### anthropicclaude-sonnet-5
-######### anthropicclaude-opus-4.1
-######### anthropicclaude-fable-5
-######### allenaiolmo-3-7b-instruct
-########## openaigpt-5.2-codex
-########## GPT-5.5-Pro-20260422
-######### gpt-5.2-pro-2025-12-11
-########## stepfunstep-3.7-flash
-########### poolsidelaguna-m.1free
-########### claude-opus-4-5-20251101
 ######## moonshotaikimi-k2.5
+########## z-aiglm-5.1
+########## anthropicclaude-sonnet-5
+########## anthropicclaude-opus-4.1
+########## anthropicclaude-fable-5
 ########## gemini-3.5-flash
 ########### deepseekdeepseek-v4-pro
 ########### gemini-3-flash-preview
@@ -193,6 +188,13 @@ Range:
 ########### mistral-medium-3.5
 ########### qwenqwen3.7-max
 ########### grok-build-0.1
+########## allenaiolmo-3-7b-instruct
+########### openaigpt-5.2-codex
+########### GPT-5.5-Pro-20260422
+########## gpt-5.2-pro-2025-12-11
+########### stepfunstep-3.7-flash
+############ poolsidelaguna-m.1free
+############ claude-opus-4-5-20251101
 ######## ministral-8b-2512
 ######### gemma-4-26b-a4b-it
 ########## openaigpt-5.3-chat
@@ -292,15 +294,14 @@ Range:
 ########## qwenqwen3.5-27b
 ########### gemini-2.5-pro-preview-06-05
 ########### inclusionailing-2.6-1tfree
-######### googlegemini-3.1-pro-preview
+######### gemma-3-27b-it
+########## qwenqwen3-max
+########## openaigpt-5.3-codex
 ########### qwenqwen3-30b-a3b-instruct-2507
 ########### deepseekdeepseek-v4-flash
 ########### grok-4-1-fast-non-reasoning
 ############ liquidlfm-2.5-1.2b-thinkingfree
 ############ gemini-1.5-flash-8b
-########## gemma-3-27b-it
-########### qwenqwen3-max
-########### openaigpt-5.3-codex
 ########### Gpt-5.1-Pro-20251120
 ########### gemini-2.5-pro-preview-05-06
 ########### openaigpt-5.4

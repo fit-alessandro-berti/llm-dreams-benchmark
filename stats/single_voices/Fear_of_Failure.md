@@ -103,6 +103,7 @@
 | nvidiaLlama-3.1-Nemotron-70B-Instruct | 6.167 |
 | deepseekdeepseek-v4-pro | 6.150 |
 | GPT-5.5-Pro-20260422 | 6.133 |
+| x-aigrok-4.5 | 6.100 |
 | gemma-3-27b-it | 6.083 |
 | claude-3-7-sonnet-20250219 | 6.050 |
 | granite4micro | 6.050 |

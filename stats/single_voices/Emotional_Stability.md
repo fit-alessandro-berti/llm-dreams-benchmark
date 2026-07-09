@@ -117,6 +117,7 @@
 | allenaiolmo-3-7b-instruct | 6.883 |
 | ai21jamba-large-1.7 | 6.867 |
 | Grok-4-fast-20251111 | 6.867 |
+| x-aigrok-4.5 | 6.850 |
 | nvidiaLlama-3.1-Nemotron-70B-Instruct | 6.850 |
 | liquidlfm-2-24b-a2b | 6.833 |
 | chatgpt-4o-latest-2025-03-26 | 6.833 |

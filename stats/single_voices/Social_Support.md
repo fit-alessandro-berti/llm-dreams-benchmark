@@ -139,6 +139,7 @@
 | qwenqwen3-30b-a3b-instruct-2507 | 7.217 |
 | llama213b | 7.217 |
 | liquidlfm-2-24b-a2b | 7.200 |
+| x-aigrok-4.5 | 7.183 |
 | openaigpt-5.4-nano | 7.150 |
 | qwenqwen3.5-27b | 7.133 |
 | Gemini-1.5-Pro-Exp-0827 | 7.117 |

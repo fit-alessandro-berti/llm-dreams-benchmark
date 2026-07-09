@@ -81,6 +81,7 @@
 | grok-4.20-experimental-beta-0304-reasoning | 8.550 |
 | o1-2024-12-17 | 8.550 |
 | phi2.7b | 8.550 |
+| x-aigrok-4.5 | 8.550 |
 | xiaomimimo-v2-omni | 8.550 |
 | gpt-4.1-2025-04-14 | 8.533 |
 | openaigpt-5.4-mini | 8.533 |

@@ -88,6 +88,7 @@
 | openrouterowl-alpha | 8.467 |
 | grok-4-fast-reasoning | 8.450 |
 | phi33.8b | 8.450 |
+| x-aigrok-4.5 | 8.450 |
 | chatgpt-4o-latest-2025-04-26 | 8.450 |
 | openaigpt-5.4-nano | 8.433 |
 | openaigpt-5.4-pro | 8.433 |

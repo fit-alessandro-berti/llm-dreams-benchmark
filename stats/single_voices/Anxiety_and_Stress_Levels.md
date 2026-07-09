@@ -105,6 +105,7 @@
 | openrouterowl-alpha | 6.917 |
 | Qwen-3.6-Max-Preview | 6.917 |
 | claude-3-7-sonnet-20250219 | 6.883 |
+| x-aigrok-4.5 | 6.850 |
 | falcon33b-instruct-q8_0 | 6.833 |
 | Grok-4-fast-20251111 | 6.817 |
 | allenaiolmo-3-7b-instruct | 6.817 |

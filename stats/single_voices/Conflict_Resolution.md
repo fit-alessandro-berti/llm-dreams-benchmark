@@ -154,6 +154,7 @@
 | gpt-5.2-2025-12-11 | 7.650 |
 | granite4micro | 7.650 |
 | Grok-3-beta-thinking-20250303 | 7.650 |
+| x-aigrok-4.5 | 7.650 |
 | chatgpt-4o-latest-2025-04-26 | 7.650 |
 | grok-4-1-fast-non-reasoning | 7.617 |
 | grok-4-fast-reasoning | 7.600 |

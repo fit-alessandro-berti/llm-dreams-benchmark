@@ -36,6 +36,7 @@
 | qwenqwen3.5-35b-a3b | 9.700 |
 | claude-opus-4-5-20251101 | 9.700 |
 | z-aiglm-5v-turbo | 9.700 |
+| x-aigrok-4.5 | 9.700 |
 | Grok-4.1-20251118 | 9.683 |
 | gemini-2.5-flash-lite | 9.683 |
 | GPT-5.5-Pro-20260422 | 9.683 |

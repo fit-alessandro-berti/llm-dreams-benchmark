@@ -66,6 +66,7 @@
 | grok-4-1-fast-non-reasoning | 8.167 |
 | ibmgranite41b-h | 8.167 |
 | Liquid-LFM2.5-350M | 8.167 |
+| x-aigrok-4.5 | 8.167 |
 | claude-opus-4-5-20251101 | 8.150 |
 | gpt-5.2-pro-2025-12-11 | 8.150 |
 | grok-4-1-fast-reasoning | 8.150 |

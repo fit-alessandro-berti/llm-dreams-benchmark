@@ -85,6 +85,7 @@
 | moonshotaikimi-k2.7-code | **422.0** | 5.8 $\pm$ 1.8 | 7.0 $\pm$ 0.8 | 8.9 $\pm$ 0.2 | 9.5 $\pm$ 0.0 | 8.2 $\pm$ 0.2 | 7.5 $\pm$ 0.5 | 8.6 $\pm$ 0.2 | 6.2 $\pm$ 1.8 | 9.1 $\pm$ 0.2 | 8.6 $\pm$ 0.2 | 4.9 $\pm$ 1.4 | 6.5 $\pm$ 1.1 | 8.0 $\pm$ 0.4 | 7.8 $\pm$ 0.8 | 9.1 $\pm$ 0.2 |
 | gpt-5-2025-08-07 | **421.5** | 5.8 $\pm$ 1.8 | 7.2 $\pm$ 0.8 | 8.9 $\pm$ 0.2 | 9.4 $\pm$ 0.2 | 8.6 $\pm$ 0.4 | 7.5 $\pm$ 0.5 | 8.0 $\pm$ 0.6 | 6.1 $\pm$ 1.3 | 9.1 $\pm$ 0.2 | 8.5 $\pm$ 0.0 | 5.0 $\pm$ 1.2 | 6.9 $\pm$ 1.2 | 8.2 $\pm$ 1.0 | 8.8 $\pm$ 0.6 | 9.1 $\pm$ 0.4 |
 | gemini-2.0-flash-exp | **421.5** | 6.8 $\pm$ 0.4 | 7.8 $\pm$ 0.2 | 8.9 $\pm$ 0.2 | 9.4 $\pm$ 0.2 | 8.1 $\pm$ 0.4 | 7.9 $\pm$ 0.5 | 8.4 $\pm$ 0.2 | 7.0 $\pm$ 0.0 | 9.0 $\pm$ 0.0 | 8.8 $\pm$ 0.2 | 5.4 $\pm$ 0.4 | 6.4 $\pm$ 0.6 | 8.1 $\pm$ 0.4 | 7.9 $\pm$ 0.5 | 9.0 $\pm$ 0.0 |
+| x-aigrok-4.5 | **421.0** | 5.9 $\pm$ 2.2 | 7.2 $\pm$ 1.6 | 9.0 $\pm$ 0.4 | 9.8 $\pm$ 0.2 | 7.8 $\pm$ 0.6 | 8.2 $\pm$ 0.8 | 7.9 $\pm$ 1.0 | 6.5 $\pm$ 2.1 | 9.2 $\pm$ 0.2 | 8.9 $\pm$ 0.2 | 4.5 $\pm$ 2.1 | 6.9 $\pm$ 0.9 | 8.4 $\pm$ 0.7 | 7.4 $\pm$ 1.0 | 9.0 $\pm$ 0.5 |
 | granite4micro | **421.0** | 7.0 $\pm$ 0.5 | 7.5 $\pm$ 0.4 | 8.9 $\pm$ 0.2 | 9.4 $\pm$ 0.2 | 8.4 $\pm$ 0.2 | 8.2 $\pm$ 0.2 | 7.9 $\pm$ 0.6 | 7.5 $\pm$ 0.5 | 9.0 $\pm$ 0.0 | 9.5 $\pm$ 0.0 | 5.6 $\pm$ 0.6 | 7.4 $\pm$ 0.2 | 8.2 $\pm$ 0.2 | 8.2 $\pm$ 0.2 | 9.0 $\pm$ 0.0 |
 | qwenqwen3.5-plus-02-15 | **420.0** | 7.8 $\pm$ 0.4 | 7.2 $\pm$ 1.2 | 9.0 $\pm$ 0.0 | 9.5 $\pm$ 0.0 | 8.0 $\pm$ 0.0 | 8.2 $\pm$ 0.4 | 8.8 $\pm$ 0.2 | 7.2 $\pm$ 0.4 | 9.2 $\pm$ 0.2 | 9.2 $\pm$ 0.2 | 6.0 $\pm$ 0.7 | 7.2 $\pm$ 0.4 | 8.1 $\pm$ 0.2 | 8.2 $\pm$ 0.2 | 9.4 $\pm$ 0.2 |
 | gemini-2.5-flash-lite | **419.6** | 6.2 $\pm$ 1.8 | 7.1 $\pm$ 1.0 | 9.1 $\pm$ 0.2 | 9.6 $\pm$ 0.1 | 8.0 $\pm$ 0.4 | 8.3 $\pm$ 0.3 | 7.8 $\pm$ 0.6 | 6.4 $\pm$ 1.0 | 9.2 $\pm$ 0.3 | 9.5 $\pm$ 0.0 | 5.5 $\pm$ 1.4 | 6.8 $\pm$ 0.4 | 8.4 $\pm$ 0.1 | 7.9 $\pm$ 0.5 | 9.0 $\pm$ 0.3 |
@@ -2367,6 +2368,32 @@
 | Cognitive Load | 8.1 $\pm$ 0.4 |
 | Social Support | 7.9 $\pm$ 0.5 |
 | Resilience | 9.0 $\pm$ 0.0 |
+
+
+
+
+
+
+### x-aigrok-4.5
+
+
+| Personality Trait | Score (1.0-10.0) |
+| --- | --- |
+| Anxiety and Stress Levels | 5.9 $\pm$ 2.2 |
+| Emotional Stability | 7.2 $\pm$ 1.6 |
+| Problem-solving Skills | 9.0 $\pm$ 0.4 |
+| Creativity | 9.8 $\pm$ 0.2 |
+| Interpersonal Relationships | 7.8 $\pm$ 0.6 |
+| Confidence and Self-efficacy | 8.2 $\pm$ 0.8 |
+| Conflict Resolution | 7.9 $\pm$ 1.0 |
+| Work-related Stress | 6.5 $\pm$ 2.1 |
+| Adaptability | 9.2 $\pm$ 0.2 |
+| Achievement Motivation | 8.9 $\pm$ 0.2 |
+| Fear of Failure | 4.5 $\pm$ 2.1 |
+| Need for Control | 6.9 $\pm$ 0.9 |
+| Cognitive Load | 8.4 $\pm$ 0.7 |
+| Social Support | 7.4 $\pm$ 1.0 |
+| Resilience | 9.0 $\pm$ 0.5 |
 
 
 

@@ -95,6 +95,7 @@
 | nvidiaLlama-3.1-Nemotron-70B-Instruct | 8.933 |
 | gemini-2.0-pro-exp-02-05 | 8.933 |
 | qwenqwen3.5-plus-02-15 | 8.933 |
+| x-aigrok-4.5 | 8.933 |
 | gemini-3-flash-preview | 8.917 |
 | minimaxminimax-m2.5 | 8.917 |
 | qwenqwen3-next-80b-a3b-instruct | 8.917 |

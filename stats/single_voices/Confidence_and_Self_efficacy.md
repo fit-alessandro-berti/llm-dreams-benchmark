@@ -92,6 +92,7 @@
 | allenaiolmo-3.1-32b-instruct | 7.833 |
 | nvidiaLlama-3.1-Nemotron-70B-Instruct | 7.833 |
 | openrouterowl-alpha | 7.833 |
+| x-aigrok-4.5 | 7.817 |
 | falcon33b-instruct-q8_0 | 7.817 |
 | gpt-5-pro-2025-10-06 | 7.800 |
 | gpt-4.1-nano-2025-04-14 | 7.800 |

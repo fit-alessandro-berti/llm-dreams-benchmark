@@ -110,6 +110,7 @@
 | anthropicclaude-opus-4.6 | **397.5** | 7.3 $\pm$ 0.3 | 7.0 $\pm$ 0.2 | 8.1 $\pm$ 0.1 | 9.8 $\pm$ 0.1 | 7.7 $\pm$ 0.1 | 7.4 $\pm$ 0.1 | 7.8 $\pm$ 0.8 | 7.9 $\pm$ 0.4 | 8.7 $\pm$ 0.1 | 8.0 $\pm$ 0.0 | 7.4 $\pm$ 0.3 | 6.4 $\pm$ 0.5 | 8.6 $\pm$ 0.1 | 7.9 $\pm$ 0.1 | 8.7 $\pm$ 0.1 |
 | openaigpt-5.4-nano | **397.1** | 7.9 $\pm$ 0.1 | 7.0 $\pm$ 0.2 | 8.6 $\pm$ 0.2 | 9.5 $\pm$ 0.1 | 7.8 $\pm$ 0.4 | 7.8 $\pm$ 0.3 | 8.4 $\pm$ 0.3 | 8.2 $\pm$ 0.3 | 8.9 $\pm$ 0.1 | 8.5 $\pm$ 0.0 | 7.8 $\pm$ 0.2 | 7.3 $\pm$ 0.2 | 8.7 $\pm$ 0.2 | 7.5 $\pm$ 0.4 | 8.8 $\pm$ 0.2 |
 | Grok-3-beta-thinking-20250303 | **396.8** | 7.6 $\pm$ 0.1 | 6.9 $\pm$ 0.1 | 8.5 $\pm$ 0.0 | 9.0 $\pm$ 0.1 | 7.9 $\pm$ 0.2 | 7.9 $\pm$ 0.2 | 7.6 $\pm$ 0.4 | 7.6 $\pm$ 0.5 | 8.5 $\pm$ 0.0 | 8.3 $\pm$ 0.2 | 7.0 $\pm$ 0.3 | 6.8 $\pm$ 0.3 | 8.3 $\pm$ 0.3 | 8.0 $\pm$ 0.0 | 8.5 $\pm$ 0.0 |
+| x-aigrok-4.5 | **396.4** | 7.4 $\pm$ 0.6 | 6.6 $\pm$ 0.8 | 8.5 $\pm$ 0.2 | 9.7 $\pm$ 0.1 | 7.4 $\pm$ 0.8 | 7.9 $\pm$ 0.5 | 7.7 $\pm$ 1.2 | 8.0 $\pm$ 0.4 | 8.8 $\pm$ 0.3 | 8.3 $\pm$ 0.3 | 7.2 $\pm$ 0.9 | 6.7 $\pm$ 0.5 | 8.7 $\pm$ 0.2 | 7.6 $\pm$ 0.6 | 8.6 $\pm$ 0.4 |
 | qwenqwen3-30b-a3b-instruct-2507 | **396.4** | 7.6 $\pm$ 0.1 | 6.7 $\pm$ 0.1 | 8.2 $\pm$ 0.2 | 9.8 $\pm$ 0.0 | 7.4 $\pm$ 0.2 | 7.8 $\pm$ 0.1 | 8.2 $\pm$ 0.1 | 7.3 $\pm$ 0.2 | 8.8 $\pm$ 0.1 | 8.2 $\pm$ 0.2 | 7.2 $\pm$ 0.3 | 6.2 $\pm$ 0.6 | 8.8 $\pm$ 0.0 | 7.7 $\pm$ 0.2 | 8.7 $\pm$ 0.1 |
 | liquidlfm-2.5-1.2b-instructfree | **396.0** | 7.2 $\pm$ 0.3 | 6.8 $\pm$ 0.2 | 8.2 $\pm$ 0.2 | 9.4 $\pm$ 0.1 | 7.4 $\pm$ 0.5 | 7.8 $\pm$ 0.1 | 7.6 $\pm$ 0.8 | 7.2 $\pm$ 0.6 | 8.6 $\pm$ 0.1 | 8.3 $\pm$ 0.0 | 6.6 $\pm$ 0.5 | 6.4 $\pm$ 0.5 | 8.2 $\pm$ 0.5 | 7.5 $\pm$ 0.6 | 8.6 $\pm$ 0.1 |
 | gpt-4-1106-preview | **396.0** | 7.5 $\pm$ 0.3 | 6.8 $\pm$ 0.4 | 8.2 $\pm$ 0.1 | 9.3 $\pm$ 0.0 | 7.7 $\pm$ 0.1 | 7.6 $\pm$ 0.2 | 8.3 $\pm$ 0.2 | 7.4 $\pm$ 0.1 | 8.7 $\pm$ 0.0 | 8.3 $\pm$ 0.1 | 7.1 $\pm$ 0.2 | 6.8 $\pm$ 0.1 | 8.3 $\pm$ 0.1 | 7.9 $\pm$ 0.1 | 8.5 $\pm$ 0.1 |
@@ -3017,6 +3018,32 @@
 | Cognitive Load | 8.3 $\pm$ 0.3 |
 | Social Support | 8.0 $\pm$ 0.0 |
 | Resilience | 8.5 $\pm$ 0.0 |
+
+
+
+
+
+
+### x-aigrok-4.5
+
+
+| Personality Trait | Score (1.0-10.0) |
+| --- | --- |
+| Anxiety and Stress Levels | 7.4 $\pm$ 0.6 |
+| Emotional Stability | 6.6 $\pm$ 0.8 |
+| Problem-solving Skills | 8.5 $\pm$ 0.2 |
+| Creativity | 9.7 $\pm$ 0.1 |
+| Interpersonal Relationships | 7.4 $\pm$ 0.8 |
+| Confidence and Self-efficacy | 7.9 $\pm$ 0.5 |
+| Conflict Resolution | 7.7 $\pm$ 1.2 |
+| Work-related Stress | 8.0 $\pm$ 0.4 |
+| Adaptability | 8.8 $\pm$ 0.3 |
+| Achievement Motivation | 8.3 $\pm$ 0.3 |
+| Fear of Failure | 7.2 $\pm$ 0.9 |
+| Need for Control | 6.7 $\pm$ 0.5 |
+| Cognitive Load | 8.7 $\pm$ 0.2 |
+| Social Support | 7.6 $\pm$ 0.6 |
+| Resilience | 8.6 $\pm$ 0.4 |
 
 
 

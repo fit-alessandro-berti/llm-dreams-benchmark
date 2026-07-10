@@ -141,6 +141,7 @@
 | liquidlfm-2-24b-a2b | 7.200 |
 | x-aigrok-4.5 | 7.183 |
 | openaigpt-5.4-nano | 7.150 |
+| openaigpt-5.6-sol | 7.133 |
 | qwenqwen3.5-27b | 7.133 |
 | Gemini-1.5-Pro-Exp-0827 | 7.117 |
 | claude-opus-4-5-20251101 | 7.100 |

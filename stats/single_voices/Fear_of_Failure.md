@@ -95,6 +95,7 @@
 | gpt-4-1106-preview | 6.383 |
 | ai21jamba-large-1.7 | 6.350 |
 | amazonnova-2-lite-v1 | 6.350 |
+| openaigpt-5.6-sol | 6.350 |
 | deepseekdeepseek-v3.2-speciale | 6.333 |
 | bytedance-seedseed-2.0-mini | 6.333 |
 | gemma-4-31b-it | 6.283 |

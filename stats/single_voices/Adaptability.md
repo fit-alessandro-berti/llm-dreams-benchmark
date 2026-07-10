@@ -126,6 +126,7 @@
 | gemini-2.5-pro-preview-05-06 | 8.833 |
 | granite4tiny-h | 8.833 |
 | grok-4-1-fast-reasoning | 8.833 |
+| openaigpt-5.6-sol | 8.833 |
 | qwenqwen3-max | 8.833 |
 | allenaiolmo-3-7b-think | 8.817 |
 | nousresearchhermes-4-70b | 8.817 |

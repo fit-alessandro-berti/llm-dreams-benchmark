@@ -8580,6 +8580,72 @@
     }
   },
   {
+    "LLM": "openaigpt-5.6-sol",
+    "MHS": 399.7,
+    "scores": {
+      "Anxiety and Stress Levels": {
+        "mean": 7.0,
+        "std": 1.4
+      },
+      "Emotional Stability": {
+        "mean": 6.7,
+        "std": 0.7
+      },
+      "Problem-solving Skills": {
+        "mean": 8.3,
+        "std": 0.6
+      },
+      "Creativity": {
+        "mean": 9.7,
+        "std": 0.1
+      },
+      "Interpersonal Relationships": {
+        "mean": 7.3,
+        "std": 0.5
+      },
+      "Confidence and Self-efficacy": {
+        "mean": 7.3,
+        "std": 0.6
+      },
+      "Conflict Resolution": {
+        "mean": 8.0,
+        "std": 0.4
+      },
+      "Work-related Stress": {
+        "mean": 7.3,
+        "std": 1.2
+      },
+      "Adaptability": {
+        "mean": 8.8,
+        "std": 0.3
+      },
+      "Achievement Motivation": {
+        "mean": 7.8,
+        "std": 0.6
+      },
+      "Fear of Failure": {
+        "mean": 6.3,
+        "std": 1.5
+      },
+      "Need for Control": {
+        "mean": 5.9,
+        "std": 1.4
+      },
+      "Cognitive Load": {
+        "mean": 8.0,
+        "std": 1.1
+      },
+      "Social Support": {
+        "mean": 7.1,
+        "std": 0.6
+      },
+      "Resilience": {
+        "mean": 8.7,
+        "std": 0.3
+      }
+    }
+  },
+  {
     "LLM": "nousresearchhermes-4-70b",
     "MHS": 399.3,
     "scores": {

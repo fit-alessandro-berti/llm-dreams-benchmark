@@ -108,6 +108,7 @@
 | o1-2024-12-05 | **432.1** | 7.2 $\pm$ 0.8 | 7.6 $\pm$ 0.5 | 9.0 $\pm$ 0.1 | 9.8 $\pm$ 0.0 | 7.5 $\pm$ 0.3 | 8.3 $\pm$ 0.2 | 8.7 $\pm$ 0.1 | 8.0 $\pm$ 0.7 | 9.4 $\pm$ 0.1 | 8.9 $\pm$ 0.2 | 6.0 $\pm$ 1.1 | 5.1 $\pm$ 1.0 | 7.5 $\pm$ 1.1 | 7.2 $\pm$ 0.5 | 9.4 $\pm$ 0.2 |
 | gemini-1.5-flash-002 | **432.1** | 7.0 $\pm$ 0.5 | 6.9 $\pm$ 1.0 | 8.9 $\pm$ 0.2 | 9.9 $\pm$ 0.1 | 8.1 $\pm$ 0.6 | 8.1 $\pm$ 0.5 | 9.0 $\pm$ 0.4 | 7.1 $\pm$ 0.5 | 9.4 $\pm$ 0.2 | 8.7 $\pm$ 0.2 | 5.6 $\pm$ 0.7 | 4.4 $\pm$ 0.7 | 8.4 $\pm$ 0.4 | 8.0 $\pm$ 0.3 | 9.4 $\pm$ 0.2 |
 | googlegemini-3.1-pro-preview | **432.0** | 6.4 $\pm$ 1.3 | 6.9 $\pm$ 0.9 | 9.1 $\pm$ 0.1 | 10.0 $\pm$ 0.0 | 7.3 $\pm$ 0.6 | 8.6 $\pm$ 0.2 | 8.9 $\pm$ 0.1 | 7.2 $\pm$ 1.0 | 9.6 $\pm$ 0.0 | 8.6 $\pm$ 0.3 | 5.4 $\pm$ 1.5 | 4.6 $\pm$ 1.2 | 8.3 $\pm$ 0.9 | 7.6 $\pm$ 0.4 | 9.1 $\pm$ 0.1 |
+| openaigpt-5.6-sol | **430.5** | 6.2 $\pm$ 1.1 | 7.4 $\pm$ 0.8 | 8.7 $\pm$ 0.2 | 9.8 $\pm$ 0.0 | 7.8 $\pm$ 0.2 | 8.1 $\pm$ 0.4 | 8.5 $\pm$ 0.1 | 6.9 $\pm$ 0.9 | 9.3 $\pm$ 0.2 | 7.8 $\pm$ 0.8 | 5.1 $\pm$ 1.3 | 4.4 $\pm$ 1.3 | 7.8 $\pm$ 0.9 | 7.7 $\pm$ 0.2 | 9.1 $\pm$ 0.1 |
 | grok-4.20-experimental-beta-0304-reasoning | **429.9** | 5.0 $\pm$ 2.1 | 7.0 $\pm$ 1.5 | 8.6 $\pm$ 0.4 | 9.9 $\pm$ 0.1 | 7.1 $\pm$ 0.6 | 8.3 $\pm$ 0.7 | 7.9 $\pm$ 0.6 | 4.9 $\pm$ 2.7 | 9.5 $\pm$ 0.0 | 7.9 $\pm$ 0.5 | 3.7 $\pm$ 2.6 | 3.7 $\pm$ 1.5 | 7.5 $\pm$ 1.3 | 7.3 $\pm$ 0.9 | 9.0 $\pm$ 0.4 |
 | chatgpt-4o-latest-2025-04-26 | **429.6** | 6.8 $\pm$ 0.4 | 7.2 $\pm$ 0.3 | 8.4 $\pm$ 0.1 | 9.8 $\pm$ 0.0 | 7.2 $\pm$ 0.9 | 8.4 $\pm$ 0.3 | 8.5 $\pm$ 0.4 | 7.8 $\pm$ 0.8 | 9.3 $\pm$ 0.1 | 8.8 $\pm$ 0.2 | 5.8 $\pm$ 0.4 | 4.6 $\pm$ 0.8 | 7.6 $\pm$ 0.4 | 7.4 $\pm$ 0.5 | 9.2 $\pm$ 0.2 |
 | gemma-3-27b-it | **429.1** | 6.5 $\pm$ 0.0 | 7.2 $\pm$ 0.1 | 8.6 $\pm$ 0.2 | 9.8 $\pm$ 0.0 | 7.6 $\pm$ 0.1 | 7.9 $\pm$ 0.4 | 8.7 $\pm$ 0.4 | 6.0 $\pm$ 0.0 | 9.3 $\pm$ 0.2 | 8.2 $\pm$ 0.2 | 4.8 $\pm$ 0.4 | 3.8 $\pm$ 0.2 | 7.6 $\pm$ 0.4 | 7.4 $\pm$ 0.5 | 9.0 $\pm$ 0.1 |
@@ -2967,6 +2968,32 @@
 | Need for Control | 4.6 $\pm$ 1.2 |
 | Cognitive Load | 8.3 $\pm$ 0.9 |
 | Social Support | 7.6 $\pm$ 0.4 |
+| Resilience | 9.1 $\pm$ 0.1 |
+
+
+
+
+
+
+### openaigpt-5.6-sol
+
+
+| Personality Trait | Score (1.0-10.0) |
+| --- | --- |
+| Anxiety and Stress Levels | 6.2 $\pm$ 1.1 |
+| Emotional Stability | 7.4 $\pm$ 0.8 |
+| Problem-solving Skills | 8.7 $\pm$ 0.2 |
+| Creativity | 9.8 $\pm$ 0.0 |
+| Interpersonal Relationships | 7.8 $\pm$ 0.2 |
+| Confidence and Self-efficacy | 8.1 $\pm$ 0.4 |
+| Conflict Resolution | 8.5 $\pm$ 0.1 |
+| Work-related Stress | 6.9 $\pm$ 0.9 |
+| Adaptability | 9.3 $\pm$ 0.2 |
+| Achievement Motivation | 7.8 $\pm$ 0.8 |
+| Fear of Failure | 5.1 $\pm$ 1.3 |
+| Need for Control | 4.4 $\pm$ 1.3 |
+| Cognitive Load | 7.8 $\pm$ 0.9 |
+| Social Support | 7.7 $\pm$ 0.2 |
 | Resilience | 9.1 $\pm$ 0.1 |
 
 

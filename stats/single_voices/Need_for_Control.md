@@ -111,6 +111,7 @@
 | minimaxminimax-m3 | 5.933 |
 | openaigpt-5.4-pro | 5.933 |
 | gpt-5-chat-latest-2025-08-19 | 5.933 |
+| openaigpt-5.6-sol | 5.933 |
 | openrouterowl-alpha | 5.917 |
 | phi3.53.8b-mini-instruct-fp16 | 5.917 |
 | qwenqwen3-max | 5.917 |

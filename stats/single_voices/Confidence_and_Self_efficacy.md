@@ -149,6 +149,7 @@
 | Gemini-1.5-Pro-Exp-0827 | 7.350 |
 | poolsidelaguna-xs.2free | 7.350 |
 | gemini-2.5-pro-preview-06-05 | 7.350 |
+| openaigpt-5.6-sol | 7.317 |
 | smollm21.7b-instruct-q6_K | 7.317 |
 | gemma-3-27b-it | 7.317 |
 | Grok-4.1-20251118 | 7.317 |

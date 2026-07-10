@@ -118,6 +118,7 @@
 | liquidlfm-2.5-1.2b-thinkingfree | 8.750 |
 | xiaomimimo-v2-omni | 8.750 |
 | ChatGPT-5.1-Instant-20251113 | 8.733 |
+| openaigpt-5.6-sol | 8.733 |
 | phi2.7b | 8.733 |
 | x-aigrok-4.5 | 8.733 |
 | openaigpt-5.2-codex | 8.733 |

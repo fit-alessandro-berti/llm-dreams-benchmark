@@ -98,6 +98,7 @@
 | gemma-4-26b-a4b-it | 7.033 |
 | gemma-3-27b-it | 7.017 |
 | gpt-5.3-codex-spark-low | 7.017 |
+| openaigpt-5.6-sol | 6.983 |
 | ai21jamba-large-1.7 | 6.983 |
 | deepseekdeepseek-v3.2-speciale | 6.967 |
 | qwenqwen3.5-35b-a3b | 6.950 |

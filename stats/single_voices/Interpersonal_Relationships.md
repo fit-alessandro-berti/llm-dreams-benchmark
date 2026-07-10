@@ -132,6 +132,7 @@
 | anthropicclaude-fable-5 | 7.350 |
 | gemini-2.5-pro-preview-06-05 | 7.333 |
 | openaigpt-5.4-nano | 7.333 |
+| openaigpt-5.6-sol | 7.317 |
 | googlegemini-3.1-pro-preview | 7.300 |
 | gemini-2.0-pro-exp-02-05 | 7.300 |
 | liquidlfm-2-24b-a2b | 7.300 |

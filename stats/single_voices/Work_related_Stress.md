@@ -98,6 +98,7 @@
 | gemma-4-26b-a4b-it | 7.350 |
 | poolsidelaguna-m.1free | 7.333 |
 | gemma-4-31b-it | 7.317 |
+| openaigpt-5.6-sol | 7.317 |
 | gemini-3-flash-preview | 7.300 |
 | liquidlfm-2-24b-a2b | 7.300 |
 | claude-3-7-sonnet-20250219 | 7.283 |

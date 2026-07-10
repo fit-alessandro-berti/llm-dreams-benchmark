@@ -129,6 +129,7 @@
 | qwenqwen3.5-35b-a3b | 6.767 |
 | qwenqwen3.7-max | 6.767 |
 | Grok-3-beta-thinking-20250303 | 6.750 |
+| openaigpt-5.6-sol | 6.750 |
 | openaigpt-5.3-codex | 6.750 |
 | anthropicclaude-fable-5 | 6.717 |
 | nousresearchhermes-4-70b | 6.700 |

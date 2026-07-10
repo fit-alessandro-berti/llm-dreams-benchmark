@@ -195,6 +195,7 @@
 | gpt-5.2-pro-2025-12-11 | 7.767 |
 | z-aiglm-5.1 | 7.767 |
 | claude-opus-4-5-20251101 | 7.733 |
+| openaigpt-5.6-sol | 7.733 |
 | openaigpt-5.6-terra | 7.700 |
 | xiaomimimo-v2-pro | 7.700 |
 | gemini-2.5-pro-preview-06-05 | 7.667 |

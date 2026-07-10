@@ -63,6 +63,7 @@
 | openaigpt-5.2-codex | 9.650 |
 | openaigpt-5.3-codex | 9.650 |
 | openaigpt-5.4-mini | 9.650 |
+| openaigpt-5.6-sol | 9.650 |
 | openaigpt-oss-20b | 9.650 |
 | Qwen-3.6-27B | 9.650 |
 | Qwen-3.6-Max-Preview | 9.650 |

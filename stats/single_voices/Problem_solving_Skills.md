@@ -133,6 +133,7 @@
 | prime-intellectintellect-3 | 8.333 |
 | qwenqwen3.7-max | 8.333 |
 | claude-opus-4-5-20251101 | 8.317 |
+| openaigpt-5.6-sol | 8.317 |
 | qwenqwen3.6-plusfree | 8.317 |
 | moonshotaikimi-k2.7-code | 8.300 |
 | o3-mini-20250131-HIGH | 8.283 |

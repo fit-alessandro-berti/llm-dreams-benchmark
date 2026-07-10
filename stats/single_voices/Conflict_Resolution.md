@@ -122,6 +122,7 @@
 | qwenqwen3.5-122b-a10b | 8.067 |
 | phi4-reasoning | 8.050 |
 | gemini-3-flash-preview | 8.050 |
+| openaigpt-5.6-sol | 8.017 |
 | qwenqwen3.5-27b | 8.017 |
 | poolsidelaguna-m.1free | 8.000 |
 | anthropicclaude-opus-4.6 | 7.983 |

@@ -100,6 +100,7 @@
 | gpt-5.3-codex-spark-low | 7.967 |
 | anthropicclaude-fable-5 | 7.950 |
 | claude-3-7-sonnet-20250219 | 7.950 |
+| openaigpt-5.6-sol | 7.950 |
 | amazonnova-2-lite-v1 | 7.917 |
 | gemini-2.5-flash-lite | 7.917 |
 | gemini-3.5-flash | 7.900 |

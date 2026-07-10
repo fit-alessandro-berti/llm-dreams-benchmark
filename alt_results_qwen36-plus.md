@@ -167,6 +167,7 @@
 | z-aiglm-5 | **402.7** | 7.7 $\pm$ 0.5 | 6.2 $\pm$ 0.2 | 8.4 $\pm$ 0.3 | 9.8 $\pm$ 0.0 | 7.0 $\pm$ 0.4 | 7.4 $\pm$ 0.3 | 8.0 $\pm$ 0.5 | 8.3 $\pm$ 0.5 | 9.3 $\pm$ 0.2 | 8.3 $\pm$ 0.3 | 6.6 $\pm$ 0.7 | 5.3 $\pm$ 0.7 | 8.4 $\pm$ 0.3 | 6.7 $\pm$ 0.6 | 9.2 $\pm$ 0.3 |
 | meta-llamaLlama-3.2-3B-Instruct | **401.2** | 7.9 $\pm$ 0.4 | 6.0 $\pm$ 0.3 | 8.6 $\pm$ 0.5 | 9.6 $\pm$ 0.1 | 7.3 $\pm$ 0.3 | 7.6 $\pm$ 0.7 | 7.6 $\pm$ 1.2 | 8.6 $\pm$ 0.2 | 9.0 $\pm$ 0.3 | 8.7 $\pm$ 0.5 | 7.0 $\pm$ 0.4 | 6.0 $\pm$ 0.5 | 8.1 $\pm$ 0.1 | 7.7 $\pm$ 0.2 | 8.6 $\pm$ 0.4 |
 | Liquid-LFM2.5-350M | **401.0** | 7.5 $\pm$ 0.0 | 6.4 $\pm$ 0.3 | 8.6 $\pm$ 0.1 | 9.4 $\pm$ 0.1 | 7.0 $\pm$ 0.0 | 7.6 $\pm$ 0.1 | 8.2 $\pm$ 0.2 | 8.2 $\pm$ 0.2 | 8.8 $\pm$ 0.4 | 8.6 $\pm$ 0.1 | 6.2 $\pm$ 0.2 | 7.0 $\pm$ 0.8 | 8.1 $\pm$ 0.2 | 7.4 $\pm$ 0.1 | 8.9 $\pm$ 0.2 |
+| openaigpt-5.6-luna | **400.3** | 7.6 $\pm$ 0.1 | 6.6 $\pm$ 0.4 | 8.5 $\pm$ 0.0 | 9.7 $\pm$ 0.1 | 7.3 $\pm$ 0.2 | 6.8 $\pm$ 0.2 | 7.6 $\pm$ 0.4 | 8.3 $\pm$ 0.1 | 9.0 $\pm$ 0.1 | 8.0 $\pm$ 1.2 | 6.9 $\pm$ 0.4 | 4.9 $\pm$ 0.5 | 8.3 $\pm$ 0.4 | 7.0 $\pm$ 0.3 | 9.0 $\pm$ 0.4 |
 | z-aiglm-5.2 | **400.1** | 7.5 $\pm$ 0.2 | 6.4 $\pm$ 0.3 | 8.2 $\pm$ 0.2 | 9.6 $\pm$ 0.1 | 7.4 $\pm$ 0.7 | 7.3 $\pm$ 0.4 | 7.9 $\pm$ 0.4 | 8.2 $\pm$ 0.2 | 9.1 $\pm$ 0.1 | 8.4 $\pm$ 0.3 | 7.2 $\pm$ 0.3 | 4.9 $\pm$ 0.6 | 8.4 $\pm$ 0.3 | 6.6 $\pm$ 0.3 | 9.0 $\pm$ 0.1 |
 | grok-4-0709 | **399.8** | 7.5 $\pm$ 0.0 | 6.0 $\pm$ 0.0 | 8.2 $\pm$ 0.2 | 10.0 $\pm$ 0.1 | 6.6 $\pm$ 0.2 | 7.2 $\pm$ 0.4 | 7.8 $\pm$ 0.4 | 8.1 $\pm$ 0.2 | 9.2 $\pm$ 0.2 | 8.8 $\pm$ 0.2 | 6.9 $\pm$ 0.4 | 5.0 $\pm$ 0.5 | 8.4 $\pm$ 0.2 | 7.0 $\pm$ 0.4 | 8.8 $\pm$ 0.2 |
 | gemma-4-26b-a4b-it | **399.4** | 6.2 $\pm$ 1.2 | 7.0 $\pm$ 0.7 | 8.0 $\pm$ 0.9 | 9.8 $\pm$ 0.0 | 5.8 $\pm$ 0.8 | 7.0 $\pm$ 0.8 | 7.4 $\pm$ 0.4 | 6.8 $\pm$ 1.0 | 9.2 $\pm$ 0.1 | 7.7 $\pm$ 1.1 | 5.3 $\pm$ 1.4 | 3.4 $\pm$ 0.6 | 8.3 $\pm$ 0.9 | 6.0 $\pm$ 1.2 | 8.7 $\pm$ 0.1 |
@@ -4500,6 +4501,32 @@
 | Cognitive Load | 8.1 $\pm$ 0.2 |
 | Social Support | 7.4 $\pm$ 0.1 |
 | Resilience | 8.9 $\pm$ 0.2 |
+
+
+
+
+
+
+### openaigpt-5.6-luna
+
+
+| Personality Trait | Score (1.0-10.0) |
+| --- | --- |
+| Anxiety and Stress Levels | 7.6 $\pm$ 0.1 |
+| Emotional Stability | 6.6 $\pm$ 0.4 |
+| Problem-solving Skills | 8.5 $\pm$ 0.0 |
+| Creativity | 9.7 $\pm$ 0.1 |
+| Interpersonal Relationships | 7.3 $\pm$ 0.2 |
+| Confidence and Self-efficacy | 6.8 $\pm$ 0.2 |
+| Conflict Resolution | 7.6 $\pm$ 0.4 |
+| Work-related Stress | 8.3 $\pm$ 0.1 |
+| Adaptability | 9.0 $\pm$ 0.1 |
+| Achievement Motivation | 8.0 $\pm$ 1.2 |
+| Fear of Failure | 6.9 $\pm$ 0.4 |
+| Need for Control | 4.9 $\pm$ 0.5 |
+| Cognitive Load | 8.3 $\pm$ 0.4 |
+| Social Support | 7.0 $\pm$ 0.3 |
+| Resilience | 9.0 $\pm$ 0.4 |
 
 
 

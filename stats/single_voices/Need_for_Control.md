@@ -58,6 +58,7 @@
 | gpt-4-1106-preview | 6.467 |
 | liquidlfm-2-24b-a2b | 6.433 |
 | mistral-medium-3.5 | 6.417 |
+| openaigpt-5.6-luna | 6.417 |
 | talkie-1930-13b-it | 6.400 |
 | deepseekdeepseek-v4-flash | 6.400 |
 | grok-4-1-fast-non-reasoning | 6.400 |

@@ -165,6 +165,7 @@
 | chatgpt-4o-latest-2024-11-20 | 7.483 |
 | stepfunstep-3.7-flash | 7.467 |
 | grok-4-0709 | 7.417 |
+| openaigpt-5.6-luna | 7.417 |
 | grok-4.20-multi-agent-experimental-beta-0304 | 7.400 |
 | meta-llamaMeta-Llama-3.1-70B-Instruct | 7.383 |
 | meta-llamaLlama-3.2-3B-Instruct | 7.367 |

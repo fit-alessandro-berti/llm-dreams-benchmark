@@ -70,6 +70,7 @@
 | claude-opus-4-5-20251101 | 8.150 |
 | gpt-5.2-pro-2025-12-11 | 8.150 |
 | grok-4-1-fast-reasoning | 8.150 |
+| openaigpt-5.6-luna | 8.133 |
 | grok-4-fast-reasoning | 8.117 |
 | meta-llamaMeta-Llama-3.1-405B-Instruct | 8.117 |
 | openaigpt-5.4 | 8.117 |

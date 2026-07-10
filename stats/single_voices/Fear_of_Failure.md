@@ -56,6 +56,7 @@
 | smollm21.7b-instruct-q6_K | 7.000 |
 | gemini-2.5-pro-preview-05-06 | 7.000 |
 | meta-llamaMeta-Llama-3.1-405B-Instruct | 6.983 |
+| openaigpt-5.6-luna | 6.917 |
 | grok-4.20-experimental-beta-0304-non-reasoning | 6.900 |
 | chatgpt-4o-latest-2024-11-20 | 6.883 |
 | gpt-4o-mini-2024-11-05 | 6.867 |

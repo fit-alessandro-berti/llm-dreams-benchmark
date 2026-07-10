@@ -174,6 +174,7 @@
 | meta-llamaMeta-Llama-3.1-405B-Instruct | 6.183 |
 | arcee-aitrinity-large-thinking | 6.183 |
 | gemini-2.0-pro-exp-02-05 | 6.167 |
+| openaigpt-5.6-luna | 6.167 |
 | prime-intellectintellect-3 | 6.117 |
 | gpt-5.2-2025-12-11 | 6.100 |
 | claude-3-5-sonnet-20241022 | 6.083 |

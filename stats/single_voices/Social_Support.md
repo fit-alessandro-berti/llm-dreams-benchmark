@@ -156,6 +156,7 @@
 | gpt-4o-mini-2024-11-05 | 6.983 |
 | gemini-3-flash-preview | 6.967 |
 | Grok-4.1-20251118 | 6.933 |
+| openaigpt-5.6-luna | 6.933 |
 | chatgpt-4o-latest-2025-04-26 | 6.917 |
 | deepseekdeepseek-v3.2-speciale | 6.917 |
 | deepseekdeepseek-v4-flash | 6.917 |

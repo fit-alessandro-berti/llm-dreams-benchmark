@@ -155,6 +155,7 @@
 | gemini-3.5-flash | 7.150 |
 | gpt-5-chat-latest-2025-08-19 | 7.150 |
 | gpt-5.2-pro-2025-12-11 | 7.133 |
+| openaigpt-5.6-luna | 7.117 |
 | gpt-5.2-2025-12-11 | 7.100 |
 | chatgpt-4o-latest-2025-04-26 | 7.083 |
 | deepseekdeepseek-v4-flash | 7.083 |

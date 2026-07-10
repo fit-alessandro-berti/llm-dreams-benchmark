@@ -166,6 +166,7 @@
 | Liquid-LFM2.5-350M | 8.150 |
 | ibmgranite41b-h | 8.133 |
 | moonshotaikimi-k2.6 | 8.133 |
+| openaigpt-5.6-luna | 8.117 |
 | deepseekdeepseek-v3.2-speciale | 8.100 |
 | chatgpt-4o-latest-2025-04-26 | 8.083 |
 | ministral-8b-2512 | 8.083 |

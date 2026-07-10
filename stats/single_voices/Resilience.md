@@ -158,6 +158,7 @@
 | llama213b | 8.533 |
 | gpt-5-chat-latest-2025-08-19 | 8.517 |
 | z-aiglm-5 | 8.517 |
+| openaigpt-5.6-luna | 8.500 |
 | gpt-5.2-pro-2025-12-11 | 8.483 |
 | gemma-4-31b-it | 8.483 |
 | allenaiolmo-3-7b-think | 8.467 |

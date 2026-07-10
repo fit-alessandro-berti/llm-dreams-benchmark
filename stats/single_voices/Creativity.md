@@ -100,6 +100,7 @@
 | gpt-4o-2024-08-06 | 9.600 |
 | nvidiaNVIDIA-Nemotron-3-Super-120B-A12B | 9.600 |
 | o4-mini-2025-04-16 | 9.600 |
+| openaigpt-5.6-luna | 9.600 |
 | bytedance-seedseed-2.0-mini | 9.583 |
 | deepseekdeepseek-v3.2 | 9.583 |
 | gpt-4o-2024-05-13 | 9.583 |

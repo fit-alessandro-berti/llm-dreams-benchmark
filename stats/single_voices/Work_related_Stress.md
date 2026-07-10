@@ -61,6 +61,7 @@
 | baiduernie-4.5-21b-a3b | 7.750 |
 | openaigpt-5.4-nano | 7.750 |
 | grok-4-1-fast-non-reasoning | 7.733 |
+| openaigpt-5.6-luna | 7.733 |
 | deepseekdeepseek-v4-flash | 7.700 |
 | talkie-1930-13b-it | 7.700 |
 | z-aiglm-5.1 | 7.667 |

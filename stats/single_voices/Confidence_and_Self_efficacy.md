@@ -189,6 +189,7 @@
 | grok-4.20-multi-agent-experimental-beta-0304 | 6.717 |
 | aion-labsaion-2.0 | 6.683 |
 | mistral-medium-2508 | 6.683 |
+| openaigpt-5.6-luna | 6.683 |
 | meta-llamallama-4-scout | 6.650 |
 | ministral-14b-2512 | 6.650 |
 | anthropicclaude-opus-4.1 | 6.617 |

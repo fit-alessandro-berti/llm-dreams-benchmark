@@ -184,6 +184,7 @@
 | qwen3.59b | 7.917 |
 | z-aiglm-5.2 | 7.917 |
 | gemini-2.0-flash-exp | 7.883 |
+| openaigpt-5.6-luna | 7.867 |
 | claude-3-5-sonnet-20241022 | 7.867 |
 | xiaomimimo-v2.5-pro | 7.850 |
 | moonshotaikimi-k2.7-code | 7.850 |

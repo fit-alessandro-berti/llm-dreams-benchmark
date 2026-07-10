@@ -58,6 +58,7 @@
 | smollm21.7b-instruct-q6_K | 7.500 |
 | claude-3-5-sonnet-20241022 | 7.500 |
 | mistral-medium-3.5 | 7.500 |
+| openaigpt-5.6-luna | 7.500 |
 | poolsidelaguna-m.1free | 7.467 |
 | grok-4.20-experimental-beta-0304-non-reasoning | 7.450 |
 | grok-4-0709 | 7.433 |

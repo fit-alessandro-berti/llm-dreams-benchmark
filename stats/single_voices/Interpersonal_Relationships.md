@@ -170,6 +170,7 @@
 | chatgpt-4o-latest-2024-11-20 | 7.033 |
 | z-aiglm-5.2 | 7.033 |
 | mistral-medium-2508 | 7.000 |
+| openaigpt-5.6-terra | 7.000 |
 | qwenqwen3.5-35b-a3b | 6.983 |
 | tencenthy3-previewfree | 6.950 |
 | gpt-4o-mini-2024-11-05 | 6.950 |

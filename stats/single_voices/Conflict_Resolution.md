@@ -188,6 +188,7 @@
 | Gemini-1.5-Pro-Exp-0827 | 6.850 |
 | nousresearchhermes-4-70b | 6.850 |
 | arcee-aitrinity-large-thinking | 6.833 |
+| openaigpt-5.6-terra | 6.833 |
 | meta-llamallama-4-scout | 6.817 |
 | poolsidelaguna-xs-2.1 | 6.717 |
 | claude-3-5-sonnet-20241022 | 6.667 |

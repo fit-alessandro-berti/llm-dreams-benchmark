@@ -156,6 +156,7 @@
 | granite4tiny-h | 7.217 |
 | openaigpt-5.4-pro | 7.217 |
 | grok-4-0709 | 7.200 |
+| openaigpt-5.6-terra | 7.117 |
 | gemini-2.0-pro-exp-02-05 | 7.117 |
 | Liquid-LFM2.5-350M | 7.117 |
 | arcee-aitrinity-large-thinking | 7.100 |

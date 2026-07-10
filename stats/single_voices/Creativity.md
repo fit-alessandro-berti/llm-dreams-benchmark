@@ -73,6 +73,7 @@
 | z-aiglm-5.1 | 9.650 |
 | anthropicclaude-sonnet-4.5 | 9.633 |
 | deepseekdeepseek-v4-flash | 9.633 |
+| openaigpt-5.6-terra | 9.633 |
 | grok-build-0.1 | 9.633 |
 | moonshotaikimi-k2.7-code | 9.633 |
 | qwenqwen3-max | 9.633 |

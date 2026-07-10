@@ -129,6 +129,7 @@
 | qwenqwen3.7-max | 8.700 |
 | liquidlfm-2-24b-a2b | 8.683 |
 | Gemini-1.5-Pro-Exp-0827 | 8.667 |
+| openaigpt-5.6-terra | 8.667 |
 | googlegemini-3.1-pro-preview | 8.650 |
 | ministral-3b-2410 | 8.650 |
 | falcon33b-instruct-q8_0 | 8.633 |

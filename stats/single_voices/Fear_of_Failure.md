@@ -82,6 +82,7 @@
 | gemini-2.5-pro-preview-06-05 | 6.567 |
 | minimaxminimax-m3 | 6.567 |
 | gemini-3.5-flash | 6.550 |
+| openaigpt-5.6-terra | 6.550 |
 | poolsidelaguna-m.1free | 6.533 |
 | qwenqwen3-30b-a3b-instruct-2507 | 6.517 |
 | gemini-1.5-flash-8b | 6.500 |

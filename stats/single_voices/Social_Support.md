@@ -170,6 +170,7 @@
 | meta-llamaMeta-Llama-3.1-70B-Instruct | 6.800 |
 | mistral-medium-3.5 | 6.800 |
 | moonshotaikimi-k2.6 | 6.800 |
+| openaigpt-5.6-terra | 6.783 |
 | claude-3-opus-20240229 | 6.767 |
 | gpt-5.2-2025-12-11 | 6.767 |
 | gpt-5.2-pro-2025-12-11 | 6.767 |

@@ -98,6 +98,7 @@
 | granite4micro-h | 6.067 |
 | o1-2024-12-05 | 6.067 |
 | x-aigrok-4.5 | 6.067 |
+| openaigpt-5.6-terra | 6.017 |
 | liquidlfm-2.5-1.2b-instructfree | 6.000 |
 | ibm-granitegranite-4.1-8b | 5.983 |
 | qwenqwen3.7-max | 5.983 |

@@ -86,6 +86,7 @@
 | inclusionailing-2.6-1tfree | 7.200 |
 | nvidiaLlama-3.1-Nemotron-70B-Instruct | 7.200 |
 | gemini-1.5-flash-002 | 7.183 |
+| openaigpt-5.6-terra | 7.167 |
 | qwenqwen3-30b-a3b-instruct-2507 | 7.167 |
 | anthropicclaude-opus-4.1 | 7.117 |
 | anthropicclaude-fable-5 | 7.100 |

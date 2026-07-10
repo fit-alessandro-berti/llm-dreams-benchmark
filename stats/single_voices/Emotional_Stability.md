@@ -141,6 +141,7 @@
 | googlegemini-3.1-pro-preview | 6.633 |
 | gemma-4-31b-it | 6.633 |
 | poolsidelaguna-m.1free | 6.633 |
+| openaigpt-5.6-terra | 6.617 |
 | Gpt-5.1-Pro-20251120 | 6.617 |
 | claude-opus-4-5-20251101 | 6.583 |
 | grok-4-fast-reasoning | 6.583 |

@@ -172,6 +172,7 @@
 | ministral-8b-2512 | 8.083 |
 | z-aiglm-5.1 | 8.083 |
 | tencenthy3-previewfree | 8.067 |
+| openaigpt-5.6-terra | 8.067 |
 | meta-llamaLlama-3.3-70B-Instruct | 8.050 |
 | mistral-medium-2508 | 8.017 |
 | aion-labsaion-2.0 | 8.000 |

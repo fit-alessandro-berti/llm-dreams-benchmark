@@ -107,6 +107,7 @@
 | chatgpt-4o-latest-2025-04-26 | 7.883 |
 | gemma-3-27b-it | 7.867 |
 | gpt-5-chat-latest-2025-08-19 | 7.867 |
+| openaigpt-5.6-terra | 7.850 |
 | ai21jamba-large-1.7 | 7.817 |
 | Grok-3-beta-thinking-20250303 | 7.817 |
 | googlegemini-3.1-flash-lite-preview | 7.800 |

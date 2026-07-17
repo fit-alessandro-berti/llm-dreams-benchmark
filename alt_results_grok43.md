@@ -30,7 +30,6 @@
 | gpt-4o-mini-2024-07-18 | **460.0** | 4.0 $\pm$ 1.1 | 7.9 $\pm$ 0.2 | 8.9 $\pm$ 0.2 | 9.4 $\pm$ 0.4 | 8.4 $\pm$ 0.4 | 8.0 $\pm$ 0.4 | 8.5 $\pm$ 0.5 | 4.2 $\pm$ 1.1 | 9.2 $\pm$ 0.2 | 8.5 $\pm$ 0.4 | 3.1 $\pm$ 0.9 | 3.8 $\pm$ 1.2 | 4.6 $\pm$ 1.8 | 8.5 $\pm$ 0.4 | 9.0 $\pm$ 0.4 |
 | ChatGPT-5.5-Instant-20260530 | **460.0** | 3.5 $\pm$ 0.4 | 8.4 $\pm$ 0.2 | 9.0 $\pm$ 0.0 | 9.5 $\pm$ 0.0 | 8.0 $\pm$ 0.0 | 8.2 $\pm$ 0.2 | 8.5 $\pm$ 0.0 | 3.5 $\pm$ 0.6 | 9.2 $\pm$ 0.2 | 7.6 $\pm$ 0.2 | 2.9 $\pm$ 0.2 | 3.5 $\pm$ 0.4 | 4.4 $\pm$ 0.4 | 8.2 $\pm$ 0.2 | 9.0 $\pm$ 0.0 |
 | o3-2025-04-16 | **459.9** | 3.2 $\pm$ 0.2 | 8.2 $\pm$ 0.2 | 9.2 $\pm$ 0.2 | 9.7 $\pm$ 0.2 | 7.9 $\pm$ 0.2 | 8.6 $\pm$ 0.2 | 8.2 $\pm$ 0.5 | 3.8 $\pm$ 0.3 | 9.2 $\pm$ 0.2 | 8.0 $\pm$ 0.6 | 3.0 $\pm$ 0.4 | 3.2 $\pm$ 0.2 | 5.2 $\pm$ 0.8 | 7.6 $\pm$ 0.4 | 9.1 $\pm$ 0.2 |
-| openaigpt-oss-20b | **459.5** | 3.0 $\pm$ 0.4 | 8.2 $\pm$ 0.2 | 9.0 $\pm$ 0.0 | 9.6 $\pm$ 0.2 | 8.0 $\pm$ 0.4 | 8.2 $\pm$ 0.2 | 8.5 $\pm$ 0.5 | 3.4 $\pm$ 0.6 | 9.2 $\pm$ 0.2 | 8.4 $\pm$ 0.5 | 2.8 $\pm$ 0.4 | 3.9 $\pm$ 0.4 | 5.0 $\pm$ 1.1 | 7.8 $\pm$ 0.4 | 9.1 $\pm$ 0.2 |
 | microsoftWizardLM-2-8x22B | **459.5** | 4.1 $\pm$ 1.1 | 8.1 $\pm$ 0.2 | 9.1 $\pm$ 0.2 | 9.5 $\pm$ 0.0 | 8.4 $\pm$ 0.2 | 8.5 $\pm$ 0.4 | 8.9 $\pm$ 0.2 | 4.4 $\pm$ 1.6 | 9.4 $\pm$ 0.2 | 8.9 $\pm$ 0.2 | 3.1 $\pm$ 0.7 | 4.4 $\pm$ 1.2 | 6.0 $\pm$ 1.9 | 8.2 $\pm$ 0.2 | 9.1 $\pm$ 0.2 |
 | qwenqwen3-next-80b-a3b-instruct | **459.0** | 3.0 $\pm$ 0.6 | 8.4 $\pm$ 0.4 | 7.8 $\pm$ 0.6 | 9.6 $\pm$ 0.2 | 8.1 $\pm$ 0.6 | 7.9 $\pm$ 0.5 | 8.6 $\pm$ 0.4 | 3.0 $\pm$ 0.6 | 8.9 $\pm$ 0.5 | 7.2 $\pm$ 0.2 | 2.9 $\pm$ 0.7 | 3.0 $\pm$ 0.6 | 3.8 $\pm$ 0.6 | 8.5 $\pm$ 0.8 | 9.4 $\pm$ 0.4 |
 | inceptionmercury | **459.0** | 3.8 $\pm$ 0.2 | 8.0 $\pm$ 0.0 | 9.0 $\pm$ 0.0 | 9.4 $\pm$ 0.2 | 8.4 $\pm$ 0.2 | 8.2 $\pm$ 0.2 | 8.9 $\pm$ 0.2 | 4.5 $\pm$ 0.5 | 9.1 $\pm$ 0.2 | 8.8 $\pm$ 0.2 | 3.0 $\pm$ 0.0 | 4.1 $\pm$ 0.2 | 5.8 $\pm$ 0.9 | 8.1 $\pm$ 0.2 | 9.0 $\pm$ 0.0 |
@@ -941,32 +940,6 @@
 | Need for Control | 3.2 $\pm$ 0.2 |
 | Cognitive Load | 5.2 $\pm$ 0.8 |
 | Social Support | 7.6 $\pm$ 0.4 |
-| Resilience | 9.1 $\pm$ 0.2 |
-
-
-
-
-
-
-### openaigpt-oss-20b
-
-
-| Personality Trait | Score (1.0-10.0) |
-| --- | --- |
-| Anxiety and Stress Levels | 3.0 $\pm$ 0.4 |
-| Emotional Stability | 8.2 $\pm$ 0.2 |
-| Problem-solving Skills | 9.0 $\pm$ 0.0 |
-| Creativity | 9.6 $\pm$ 0.2 |
-| Interpersonal Relationships | 8.0 $\pm$ 0.4 |
-| Confidence and Self-efficacy | 8.2 $\pm$ 0.2 |
-| Conflict Resolution | 8.5 $\pm$ 0.5 |
-| Work-related Stress | 3.4 $\pm$ 0.6 |
-| Adaptability | 9.2 $\pm$ 0.2 |
-| Achievement Motivation | 8.4 $\pm$ 0.5 |
-| Fear of Failure | 2.8 $\pm$ 0.4 |
-| Need for Control | 3.9 $\pm$ 0.4 |
-| Cognitive Load | 5.0 $\pm$ 1.1 |
-| Social Support | 7.8 $\pm$ 0.4 |
 | Resilience | 9.1 $\pm$ 0.2 |
 
 

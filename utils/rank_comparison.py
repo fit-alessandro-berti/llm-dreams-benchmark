@@ -62,9 +62,9 @@ def interpret(content):
 
 JUDGES = {
     "grok-4.3": interpret(repo_file("alt_results_grok43.md").read_text(encoding="utf-8")),
-    "gpt-5.2": interpret(repo_file("alt_results_gpt52.md").read_text(encoding="utf-8")),
+    "gpt-5.6-sol": interpret(repo_file("results_gpt56sol.md").read_text(encoding="utf-8")),
     "gpt-5.4": interpret(repo_file("alt_results_gpt54.md").read_text(encoding="utf-8")),
-    "gpt-5.5": interpret(repo_file("results_gpt55.md").read_text(encoding="utf-8")),
+    "gpt-5.5": interpret(repo_file("alt_results_gpt55.md").read_text(encoding="utf-8")),
     "qwen36-plus": interpret(repo_file("alt_results_qwen36-plus.md").read_text(encoding="utf-8")),
     "mistral-small-2603": interpret(repo_file("alt_results_mistral2603.md").read_text(encoding="utf-8")),
 }

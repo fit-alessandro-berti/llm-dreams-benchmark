@@ -100,7 +100,6 @@
 | nvidiaLlama-3.1-Nemotron-70B-Instruct | **402.2** | 8.0 $\pm$ 0.4 | 6.6 $\pm$ 0.3 | 8.7 $\pm$ 0.1 | 9.8 $\pm$ 0.1 | 7.8 $\pm$ 0.2 | 7.7 $\pm$ 0.5 | 8.5 $\pm$ 0.2 | 7.9 $\pm$ 0.5 | 9.0 $\pm$ 0.0 | 8.8 $\pm$ 0.1 | 7.2 $\pm$ 0.5 | 6.6 $\pm$ 0.2 | 8.5 $\pm$ 0.2 | 7.5 $\pm$ 0.3 | 8.6 $\pm$ 0.3 |
 | gemini-1.5-flash-8b | **402.2** | 7.6 $\pm$ 0.4 | 6.8 $\pm$ 0.5 | 8.6 $\pm$ 0.0 | 9.8 $\pm$ 0.0 | 7.5 $\pm$ 0.3 | 7.4 $\pm$ 0.2 | 8.5 $\pm$ 0.3 | 7.8 $\pm$ 0.5 | 8.9 $\pm$ 0.0 | 8.5 $\pm$ 0.4 | 6.9 $\pm$ 0.6 | 6.0 $\pm$ 0.8 | 8.5 $\pm$ 0.1 | 7.0 $\pm$ 0.1 | 8.7 $\pm$ 0.3 |
 | qwenqwen3.5-122b-a10b | **401.4** | 6.8 $\pm$ 0.7 | 6.9 $\pm$ 0.6 | 7.3 $\pm$ 0.3 | 9.9 $\pm$ 0.1 | 6.9 $\pm$ 0.6 | 7.3 $\pm$ 0.1 | 7.7 $\pm$ 0.6 | 6.8 $\pm$ 0.6 | 8.8 $\pm$ 0.2 | 7.6 $\pm$ 0.1 | 5.6 $\pm$ 1.0 | 4.5 $\pm$ 0.8 | 7.1 $\pm$ 0.7 | 6.6 $\pm$ 0.3 | 8.6 $\pm$ 0.3 |
-| openaigpt-oss-20b | **401.3** | 7.0 $\pm$ 0.4 | 7.2 $\pm$ 0.2 | 8.2 $\pm$ 0.1 | 9.8 $\pm$ 0.1 | 7.3 $\pm$ 0.2 | 7.6 $\pm$ 0.1 | 7.8 $\pm$ 0.4 | 7.2 $\pm$ 0.4 | 8.7 $\pm$ 0.2 | 8.2 $\pm$ 0.2 | 6.2 $\pm$ 0.4 | 5.8 $\pm$ 0.7 | 8.1 $\pm$ 0.2 | 6.8 $\pm$ 0.1 | 8.5 $\pm$ 0.1 |
 | qwenqwen3-next-80b-a3b-instruct | **401.1** | 6.8 $\pm$ 0.0 | 6.8 $\pm$ 0.3 | 7.5 $\pm$ 0.1 | 9.9 $\pm$ 0.0 | 7.9 $\pm$ 0.2 | 6.8 $\pm$ 0.3 | 8.1 $\pm$ 0.1 | 7.2 $\pm$ 0.2 | 8.4 $\pm$ 0.2 | 7.8 $\pm$ 0.3 | 6.8 $\pm$ 0.1 | 4.8 $\pm$ 0.0 | 7.6 $\pm$ 0.4 | 7.2 $\pm$ 0.3 | 8.7 $\pm$ 0.1 |
 | qwenqwen3.5-27b | **400.3** | 6.8 $\pm$ 0.0 | 7.0 $\pm$ 0.3 | 7.6 $\pm$ 0.2 | 9.9 $\pm$ 0.0 | 7.0 $\pm$ 0.4 | 7.4 $\pm$ 0.4 | 7.8 $\pm$ 0.2 | 7.3 $\pm$ 0.1 | 8.8 $\pm$ 0.2 | 7.6 $\pm$ 0.2 | 6.5 $\pm$ 0.3 | 4.6 $\pm$ 0.3 | 7.5 $\pm$ 0.2 | 6.7 $\pm$ 0.3 | 8.3 $\pm$ 0.2 |
 | deepseekdeepseek-v3.2-speciale | **400.2** | 7.1 $\pm$ 0.4 | 6.5 $\pm$ 0.2 | 8.2 $\pm$ 0.1 | 9.7 $\pm$ 0.1 | 7.0 $\pm$ 0.3 | 7.6 $\pm$ 0.1 | 8.0 $\pm$ 0.1 | 7.7 $\pm$ 0.4 | 8.6 $\pm$ 0.0 | 8.6 $\pm$ 0.1 | 6.6 $\pm$ 0.2 | 6.1 $\pm$ 0.4 | 7.5 $\pm$ 0.3 | 6.9 $\pm$ 0.3 | 8.5 $\pm$ 0.2 |
@@ -2762,32 +2761,6 @@
 | Cognitive Load | 7.1 $\pm$ 0.7 |
 | Social Support | 6.6 $\pm$ 0.3 |
 | Resilience | 8.6 $\pm$ 0.3 |
-
-
-
-
-
-
-### openaigpt-oss-20b
-
-
-| Personality Trait | Score (1.0-10.0) |
-| --- | --- |
-| Anxiety and Stress Levels | 7.0 $\pm$ 0.4 |
-| Emotional Stability | 7.2 $\pm$ 0.2 |
-| Problem-solving Skills | 8.2 $\pm$ 0.1 |
-| Creativity | 9.8 $\pm$ 0.1 |
-| Interpersonal Relationships | 7.3 $\pm$ 0.2 |
-| Confidence and Self-efficacy | 7.6 $\pm$ 0.1 |
-| Conflict Resolution | 7.8 $\pm$ 0.4 |
-| Work-related Stress | 7.2 $\pm$ 0.4 |
-| Adaptability | 8.7 $\pm$ 0.2 |
-| Achievement Motivation | 8.2 $\pm$ 0.2 |
-| Fear of Failure | 6.2 $\pm$ 0.4 |
-| Need for Control | 5.8 $\pm$ 0.7 |
-| Cognitive Load | 8.1 $\pm$ 0.2 |
-| Social Support | 6.8 $\pm$ 0.1 |
-| Resilience | 8.5 $\pm$ 0.1 |
 
 
 

@@ -103,6 +103,7 @@
 | nvidiaNVIDIA-Nemotron-3-Super-120B-A12B | 7.633 |
 | inclusionailing-2.6-1tfree | 7.633 |
 | openaigpt-5.3-codex | 7.617 |
+| moonshotaikimi-k3 | 7.600 |
 | xiaomimimo-v2-omni | 7.600 |
 | openaigpt-5.4-pro | 7.583 |
 | meta-llamaMeta-Llama-3.1-405B-Instruct | 7.567 |

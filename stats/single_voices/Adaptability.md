@@ -157,6 +157,7 @@
 | mistral-medium-2508 | 8.717 |
 | chatgpt-4o-latest-2024-11-20 | 8.700 |
 | Grok-4.1-20251118 | 8.700 |
+| moonshotaikimi-k3 | 8.700 |
 | openrouterowl-alpha | 8.700 |
 | gpt-5-chat-latest-2025-08-19 | 8.700 |
 | z-aiglm-5 | 8.683 |

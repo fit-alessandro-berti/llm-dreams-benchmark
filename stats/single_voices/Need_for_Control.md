@@ -144,6 +144,7 @@
 | bytedance-seedseed-2.0-mini | 5.633 |
 | inclusionailing-2.6-1tfree | 5.633 |
 | allenaiolmo-3.1-32b-instruct | 5.617 |
+| moonshotaikimi-k3 | 5.617 |
 | qwenqwen3-30b-a3b-instruct-2507 | 5.617 |
 | gemma-4-31b-it | 5.583 |
 | qwen2.5-72b-instruct | 5.583 |

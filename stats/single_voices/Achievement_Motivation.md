@@ -206,6 +206,7 @@
 | gemma4e4b | 7.600 |
 | anthropicclaude-fable-5 | 7.583 |
 | anthropicclaude-sonnet-5 | 7.583 |
+| moonshotaikimi-k3 | 7.567 |
 | qwenqwen3.5-397b-a17b | 7.533 |
 | stepfunstep-3.7-flash | 7.467 |
 | qwen3.50.8b | 7.433 |

@@ -56,6 +56,7 @@
 | gpt-4o-mini-2024-11-05 | 8.217 |
 | mistral-medium-3.5 | 8.217 |
 | anthropicclaude-opus-4.1 | 8.200 |
+| moonshotaikimi-k3 | 8.200 |
 | z-aiglm-5.1 | 8.200 |
 | claude-opus-4-8 | 8.183 |
 | gemma-4-26b-a4b-it | 8.183 |

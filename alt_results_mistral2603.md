@@ -141,6 +141,7 @@
 | googlegemini-3.1-pro-preview | **402.0** | 8.2 $\pm$ 0.4 | 6.0 $\pm$ 0.7 | 9.1 $\pm$ 0.2 | 9.8 $\pm$ 0.2 | 7.6 $\pm$ 0.4 | 8.0 $\pm$ 0.9 | 8.4 $\pm$ 0.2 | 7.9 $\pm$ 0.7 | 9.2 $\pm$ 0.2 | 9.0 $\pm$ 0.0 | 6.4 $\pm$ 1.0 | 7.2 $\pm$ 0.6 | 8.6 $\pm$ 0.4 | 7.2 $\pm$ 0.9 | 8.8 $\pm$ 0.6 |
 | googlegemini-3.1-flash-lite-preview | **402.0** | 5.9 $\pm$ 2.6 | 6.8 $\pm$ 1.9 | 9.0 $\pm$ 0.0 | 9.5 $\pm$ 0.0 | 7.4 $\pm$ 0.2 | 7.4 $\pm$ 0.6 | 7.6 $\pm$ 1.2 | 6.1 $\pm$ 2.1 | 9.0 $\pm$ 0.0 | 8.8 $\pm$ 0.4 | 5.4 $\pm$ 2.1 | 6.8 $\pm$ 0.8 | 8.0 $\pm$ 1.0 | 6.4 $\pm$ 0.9 | 8.6 $\pm$ 0.4 |
 | openaigpt-5.3-codex | **401.0** | 8.0 $\pm$ 0.5 | 6.4 $\pm$ 0.4 | 8.8 $\pm$ 0.2 | 9.5 $\pm$ 0.0 | 8.0 $\pm$ 0.0 | 7.4 $\pm$ 0.2 | 8.5 $\pm$ 0.0 | 7.8 $\pm$ 0.4 | 9.0 $\pm$ 0.0 | 8.8 $\pm$ 0.2 | 7.0 $\pm$ 0.4 | 6.8 $\pm$ 0.6 | 8.5 $\pm$ 0.4 | 7.4 $\pm$ 0.4 | 9.1 $\pm$ 0.2 |
+| moonshotaikimi-k3 | **401.0** | 8.0 $\pm$ 0.5 | 6.1 $\pm$ 0.2 | 8.8 $\pm$ 0.2 | 9.5 $\pm$ 0.0 | 8.0 $\pm$ 0.0 | 7.2 $\pm$ 0.2 | 8.5 $\pm$ 0.0 | 7.0 $\pm$ 0.4 | 9.0 $\pm$ 0.0 | 8.4 $\pm$ 0.2 | 6.5 $\pm$ 1.1 | 6.1 $\pm$ 0.4 | 8.6 $\pm$ 0.4 | 8.0 $\pm$ 0.4 | 9.0 $\pm$ 0.0 |
 | Grok-4.1-20251118 | **401.0** | 8.2 $\pm$ 0.4 | 6.0 $\pm$ 0.0 | 9.0 $\pm$ 0.0 | 9.5 $\pm$ 0.0 | 8.0 $\pm$ 0.4 | 7.5 $\pm$ 0.4 | 8.4 $\pm$ 0.2 | 8.6 $\pm$ 0.4 | 9.1 $\pm$ 0.2 | 9.4 $\pm$ 0.2 | 6.9 $\pm$ 0.2 | 7.5 $\pm$ 0.4 | 8.9 $\pm$ 0.2 | 7.2 $\pm$ 0.2 | 9.0 $\pm$ 0.4 |
 | phi4-reasoning | **400.5** | 7.2 $\pm$ 0.4 | 6.6 $\pm$ 0.5 | 8.5 $\pm$ 0.0 | 9.0 $\pm$ 0.0 | 7.2 $\pm$ 0.4 | 7.6 $\pm$ 0.4 | 7.6 $\pm$ 0.2 | 7.8 $\pm$ 0.4 | 9.1 $\pm$ 0.2 | 8.9 $\pm$ 0.4 | 5.9 $\pm$ 0.5 | 6.8 $\pm$ 0.4 | 8.2 $\pm$ 0.4 | 6.9 $\pm$ 0.5 | 9.0 $\pm$ 0.4 |
 | gemini-2.0-pro-exp-02-05 | **400.0** | 8.2 $\pm$ 0.4 | 6.2 $\pm$ 0.2 | 9.0 $\pm$ 0.0 | 9.5 $\pm$ 0.0 | 8.0 $\pm$ 0.0 | 7.4 $\pm$ 0.2 | 7.1 $\pm$ 0.2 | 8.4 $\pm$ 0.2 | 9.2 $\pm$ 0.2 | 9.0 $\pm$ 0.4 | 7.1 $\pm$ 0.2 | 6.8 $\pm$ 0.8 | 8.4 $\pm$ 0.4 | 7.5 $\pm$ 0.4 | 9.1 $\pm$ 0.2 |
@@ -3827,6 +3828,32 @@
 | Cognitive Load | 8.5 $\pm$ 0.4 |
 | Social Support | 7.4 $\pm$ 0.4 |
 | Resilience | 9.1 $\pm$ 0.2 |
+
+
+
+
+
+
+### moonshotaikimi-k3
+
+
+| Personality Trait | Score (1.0-10.0) |
+| --- | --- |
+| Anxiety and Stress Levels | 8.0 $\pm$ 0.5 |
+| Emotional Stability | 6.1 $\pm$ 0.2 |
+| Problem-solving Skills | 8.8 $\pm$ 0.2 |
+| Creativity | 9.5 $\pm$ 0.0 |
+| Interpersonal Relationships | 8.0 $\pm$ 0.0 |
+| Confidence and Self-efficacy | 7.2 $\pm$ 0.2 |
+| Conflict Resolution | 8.5 $\pm$ 0.0 |
+| Work-related Stress | 7.0 $\pm$ 0.4 |
+| Adaptability | 9.0 $\pm$ 0.0 |
+| Achievement Motivation | 8.4 $\pm$ 0.2 |
+| Fear of Failure | 6.5 $\pm$ 1.1 |
+| Need for Control | 6.1 $\pm$ 0.4 |
+| Cognitive Load | 8.6 $\pm$ 0.4 |
+| Social Support | 8.0 $\pm$ 0.4 |
+| Resilience | 9.0 $\pm$ 0.0 |
 
 
 

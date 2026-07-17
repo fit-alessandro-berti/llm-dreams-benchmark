@@ -155,6 +155,7 @@
 | stepfunstep-3.7-flash | 8.550 |
 | grok-4-1-fast-reasoning | 8.550 |
 | Liquid-LFM2.5-350M | 8.550 |
+| moonshotaikimi-k3 | 8.550 |
 | Grok-3-beta-thinking-20250303 | 8.533 |
 | grok-4-1-fast-non-reasoning | 8.533 |
 | llama213b | 8.533 |

@@ -92,6 +92,7 @@
 | inclusionailing-2.6-1tfree | 8.283 |
 | o3-2025-04-16 | 8.283 |
 | qwenqwen3-30b-a3b-instruct-2507 | 8.283 |
+| moonshotaikimi-k3 | 8.267 |
 | liquidlfm-2.5-1.2b-thinkingfree | 8.250 |
 | openaigpt-5.4-nano | 8.250 |
 | qwenqwen3-max | 8.250 |

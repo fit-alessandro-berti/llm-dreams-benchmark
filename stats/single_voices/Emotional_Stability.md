@@ -151,6 +151,7 @@
 | poolsidelaguna-xs.2free | 6.533 |
 | chatgpt-4o-latest-2025-04-26 | 6.517 |
 | deepseekdeepseek-v4-flash | 6.517 |
+| moonshotaikimi-k3 | 6.500 |
 | deepseekdeepseek-v3.2-speciale | 6.500 |
 | chatgpt-4o-latest-2024-11-20 | 6.483 |
 | gemma-4-26b-a4b-it | 6.467 |

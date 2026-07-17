@@ -141,6 +141,7 @@
 | grok-4-fast-reasoning | **389.2** | 7.8 $\pm$ 0.0 | 6.4 $\pm$ 0.1 | 8.4 $\pm$ 0.1 | 9.8 $\pm$ 0.0 | 7.2 $\pm$ 0.3 | 7.3 $\pm$ 0.1 | 7.6 $\pm$ 0.5 | 8.3 $\pm$ 0.1 | 8.7 $\pm$ 0.0 | 8.4 $\pm$ 0.1 | 7.4 $\pm$ 0.1 | 6.6 $\pm$ 0.1 | 8.3 $\pm$ 0.1 | 6.9 $\pm$ 0.3 | 8.6 $\pm$ 0.0 |
 | liquidlfm-2-24b-a2b | **389.0** | 7.3 $\pm$ 0.5 | 6.7 $\pm$ 0.4 | 8.5 $\pm$ 0.2 | 9.8 $\pm$ 0.1 | 7.3 $\pm$ 0.1 | 7.9 $\pm$ 0.3 | 5.9 $\pm$ 0.0 | 7.8 $\pm$ 0.5 | 8.7 $\pm$ 0.2 | 8.6 $\pm$ 0.1 | 7.0 $\pm$ 0.5 | 6.7 $\pm$ 0.2 | 8.4 $\pm$ 0.2 | 7.0 $\pm$ 0.1 | 8.6 $\pm$ 0.2 |
 | gpt-5-chat-latest-2025-08-19 | **389.0** | 7.3 $\pm$ 0.5 | 6.8 $\pm$ 0.5 | 8.2 $\pm$ 0.1 | 9.7 $\pm$ 0.1 | 7.0 $\pm$ 0.3 | 7.2 $\pm$ 0.4 | 7.8 $\pm$ 0.3 | 7.4 $\pm$ 0.6 | 8.5 $\pm$ 0.2 | 8.2 $\pm$ 0.2 | 6.8 $\pm$ 0.8 | 6.2 $\pm$ 0.6 | 8.0 $\pm$ 0.3 | 6.4 $\pm$ 0.4 | 8.2 $\pm$ 0.2 |
+| moonshotaikimi-k3 | **388.5** | 7.8 $\pm$ 0.0 | 6.4 $\pm$ 0.0 | 8.0 $\pm$ 0.2 | 9.8 $\pm$ 0.0 | 7.5 $\pm$ 0.1 | 6.7 $\pm$ 0.2 | 8.4 $\pm$ 0.2 | 8.1 $\pm$ 0.3 | 8.7 $\pm$ 0.0 | 7.9 $\pm$ 0.1 | 7.8 $\pm$ 0.4 | 6.1 $\pm$ 0.4 | 8.5 $\pm$ 0.1 | 7.2 $\pm$ 0.1 | 8.6 $\pm$ 0.1 |
 | grok-4-1-fast-reasoning | **388.1** | 7.8 $\pm$ 0.0 | 6.0 $\pm$ 0.1 | 8.2 $\pm$ 0.3 | 9.8 $\pm$ 0.0 | 7.4 $\pm$ 0.0 | 7.4 $\pm$ 0.2 | 7.5 $\pm$ 0.2 | 8.3 $\pm$ 0.1 | 8.7 $\pm$ 0.0 | 8.3 $\pm$ 0.1 | 7.4 $\pm$ 0.1 | 6.4 $\pm$ 0.4 | 8.3 $\pm$ 0.2 | 7.0 $\pm$ 0.1 | 8.2 $\pm$ 0.2 |
 | nousresearchhermes-4-70b | **387.7** | 7.8 $\pm$ 0.0 | 6.5 $\pm$ 0.1 | 8.3 $\pm$ 0.1 | 9.6 $\pm$ 0.0 | 7.4 $\pm$ 0.1 | 8.0 $\pm$ 0.2 | 6.4 $\pm$ 1.6 | 7.4 $\pm$ 0.3 | 8.7 $\pm$ 0.1 | 8.7 $\pm$ 0.1 | 7.4 $\pm$ 0.2 | 6.8 $\pm$ 0.1 | 8.1 $\pm$ 0.1 | 7.2 $\pm$ 0.1 | 8.6 $\pm$ 0.1 |
 | qwenqwen3.5-35b-a3b | **387.6** | 7.8 $\pm$ 0.0 | 6.5 $\pm$ 0.2 | 7.8 $\pm$ 0.2 | 9.9 $\pm$ 0.0 | 7.0 $\pm$ 0.2 | 7.1 $\pm$ 0.2 | 7.7 $\pm$ 0.4 | 8.1 $\pm$ 0.5 | 8.6 $\pm$ 0.1 | 8.1 $\pm$ 0.0 | 7.0 $\pm$ 0.1 | 6.0 $\pm$ 0.3 | 8.3 $\pm$ 0.1 | 6.6 $\pm$ 0.3 | 8.6 $\pm$ 0.1 |
@@ -3827,6 +3828,32 @@
 | Cognitive Load | 8.0 $\pm$ 0.3 |
 | Social Support | 6.4 $\pm$ 0.4 |
 | Resilience | 8.2 $\pm$ 0.2 |
+
+
+
+
+
+
+### moonshotaikimi-k3
+
+
+| Personality Trait | Score (1.0-10.0) |
+| --- | --- |
+| Anxiety and Stress Levels | 7.8 $\pm$ 0.0 |
+| Emotional Stability | 6.4 $\pm$ 0.0 |
+| Problem-solving Skills | 8.0 $\pm$ 0.2 |
+| Creativity | 9.8 $\pm$ 0.0 |
+| Interpersonal Relationships | 7.5 $\pm$ 0.1 |
+| Confidence and Self-efficacy | 6.7 $\pm$ 0.2 |
+| Conflict Resolution | 8.4 $\pm$ 0.2 |
+| Work-related Stress | 8.1 $\pm$ 0.3 |
+| Adaptability | 8.7 $\pm$ 0.0 |
+| Achievement Motivation | 7.9 $\pm$ 0.1 |
+| Fear of Failure | 7.8 $\pm$ 0.4 |
+| Need for Control | 6.1 $\pm$ 0.4 |
+| Cognitive Load | 8.5 $\pm$ 0.1 |
+| Social Support | 7.2 $\pm$ 0.1 |
+| Resilience | 8.6 $\pm$ 0.1 |
 
 
 

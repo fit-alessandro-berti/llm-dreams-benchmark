@@ -192,6 +192,7 @@
 | z-aiglm-5.2 | 7.917 |
 | poolsidelaguna-xs-2.1 | 7.883 |
 | gemma4e4b | 7.867 |
+| moonshotaikimi-k3 | 7.867 |
 | qwenqwen3.5-35b-a3b | 7.850 |
 | gemini-2.5-pro-exp-03-25 | 7.833 |
 | qwenqwen3.5-397b-a17b | 7.833 |

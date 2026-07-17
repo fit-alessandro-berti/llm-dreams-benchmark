@@ -60,6 +60,7 @@
 | claude-3-5-sonnet-20241022 | 9.650 |
 | grok-4.20-experimental-beta-0304-non-reasoning | 9.650 |
 | mistral-medium-2508 | 9.650 |
+| moonshotaikimi-k3 | 9.650 |
 | openaigpt-5.2-codex | 9.650 |
 | openaigpt-5.3-codex | 9.650 |
 | openaigpt-5.4-mini | 9.650 |

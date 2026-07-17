@@ -95,6 +95,7 @@
 | qwenqwen3.7-plus | 7.583 |
 | ChatGPT-5.1-Instant-20251113 | 7.567 |
 | gpt-5.5-2026-04-23 | 7.567 |
+| moonshotaikimi-k3 | 7.550 |
 | claude-haiku-4-5-20251001 | 7.550 |
 | gpt-4-1106-preview | 7.500 |
 | nvidiaNVIDIA-Nemotron-3-Super-120B-A12B | 7.500 |

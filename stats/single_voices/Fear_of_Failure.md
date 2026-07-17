@@ -46,6 +46,7 @@
 | Grok-4.1-20251118 | 7.183 |
 | Gpt-5.1-Pro-20251120 | 7.150 |
 | Gemini-1.5-Pro-Exp-0827 | 7.150 |
+| moonshotaikimi-k3 | 7.133 |
 | openaigpt-5.3-codex | 7.083 |
 | granite4tiny-h | 7.067 |
 | openaigpt-5.4-nano | 7.050 |

@@ -76,6 +76,7 @@
 | poolsidelaguna-xs.2free | 7.583 |
 | qwenqwen3-max | 7.583 |
 | googlegemini-3.1-pro-preview | 7.550 |
+| moonshotaikimi-k3 | 7.550 |
 | grok-4-0709 | 7.533 |
 | liquidlfm-2.5-1.2b-thinkingfree | 7.533 |
 | anthropicclaude-sonnet-5 | 7.517 |

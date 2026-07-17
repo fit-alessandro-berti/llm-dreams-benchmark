@@ -126,6 +126,7 @@
 | googlegemini-3.1-flash-lite-preview | 6.917 |
 | granite4micro-h | 6.917 |
 | gemini-2.5-flash-lite | 6.900 |
+| metamuse-spark-1.1 | 6.900 |
 | deepseekdeepseek-v4-pro | 6.867 |
 | gpt-4.1-nano-2025-04-14 | 6.867 |
 | gemma-3-27b-it | 6.867 |

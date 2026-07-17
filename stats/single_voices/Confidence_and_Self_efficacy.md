@@ -135,6 +135,7 @@
 | qwenqwen3-max | 7.650 |
 | openaigpt-5.3-codex | 7.633 |
 | allenaiolmo-3-7b-instruct | 7.617 |
+| metamuse-spark-1.1 | 7.617 |
 | mistral-medium-3.5 | 7.617 |
 | claude-haiku-4-5-20251001 | 7.617 |
 | openaigpt-5.4-nano | 7.617 |

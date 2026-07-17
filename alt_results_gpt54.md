@@ -70,6 +70,7 @@
 | minimaxminimax-m2.5 | **414.3** | 7.0 $\pm$ 0.4 | 7.4 $\pm$ 0.1 | 8.5 $\pm$ 0.1 | 9.8 $\pm$ 0.0 | 7.8 $\pm$ 0.1 | 8.0 $\pm$ 0.1 | 8.5 $\pm$ 0.1 | 7.2 $\pm$ 0.3 | 8.9 $\pm$ 0.1 | 8.5 $\pm$ 0.2 | 6.2 $\pm$ 0.4 | 6.1 $\pm$ 0.3 | 7.7 $\pm$ 0.3 | 7.3 $\pm$ 0.1 | 8.7 $\pm$ 0.1 |
 | nvidianemotron-3-nano-30b-a3bfree | **414.1** | 7.0 $\pm$ 0.4 | 7.5 $\pm$ 0.3 | 8.6 $\pm$ 0.1 | 9.9 $\pm$ 0.0 | 7.6 $\pm$ 0.1 | 7.9 $\pm$ 0.1 | 8.1 $\pm$ 0.1 | 6.9 $\pm$ 0.3 | 8.9 $\pm$ 0.1 | 8.4 $\pm$ 0.1 | 6.0 $\pm$ 0.5 | 5.4 $\pm$ 0.6 | 7.7 $\pm$ 0.5 | 7.2 $\pm$ 0.1 | 8.8 $\pm$ 0.1 |
 | phi3.53.8b-mini-instruct-fp16 | **413.4** | 7.3 $\pm$ 0.5 | 7.3 $\pm$ 0.1 | 8.6 $\pm$ 0.0 | 9.8 $\pm$ 0.1 | 8.1 $\pm$ 0.2 | 7.9 $\pm$ 0.0 | 8.3 $\pm$ 0.1 | 7.7 $\pm$ 0.5 | 8.9 $\pm$ 0.1 | 8.9 $\pm$ 0.1 | 6.4 $\pm$ 0.5 | 6.4 $\pm$ 0.3 | 8.4 $\pm$ 0.1 | 7.6 $\pm$ 0.2 | 9.0 $\pm$ 0.1 |
+| metamuse-spark-1.1 | **412.8** | 6.8 $\pm$ 0.0 | 7.5 $\pm$ 0.1 | 8.2 $\pm$ 0.1 | 9.7 $\pm$ 0.0 | 7.8 $\pm$ 0.1 | 7.3 $\pm$ 0.1 | 8.6 $\pm$ 0.1 | 7.1 $\pm$ 0.2 | 9.0 $\pm$ 0.1 | 7.8 $\pm$ 0.2 | 6.5 $\pm$ 0.2 | 5.4 $\pm$ 0.4 | 7.4 $\pm$ 0.2 | 7.4 $\pm$ 0.2 | 9.0 $\pm$ 0.0 |
 | o1-2024-12-17 | **412.6** | 7.3 $\pm$ 0.5 | 7.4 $\pm$ 0.1 | 8.5 $\pm$ 0.1 | 9.7 $\pm$ 0.0 | 8.0 $\pm$ 0.1 | 7.6 $\pm$ 0.2 | 8.6 $\pm$ 0.2 | 7.2 $\pm$ 0.4 | 8.9 $\pm$ 0.1 | 8.4 $\pm$ 0.2 | 6.7 $\pm$ 0.3 | 5.6 $\pm$ 0.3 | 7.9 $\pm$ 0.4 | 7.5 $\pm$ 0.3 | 8.8 $\pm$ 0.1 |
 | phi2.7b | **412.4** | 6.8 $\pm$ 0.0 | 7.1 $\pm$ 0.2 | 8.6 $\pm$ 0.1 | 9.0 $\pm$ 0.2 | 8.0 $\pm$ 0.4 | 7.9 $\pm$ 0.0 | 8.3 $\pm$ 0.1 | 7.2 $\pm$ 0.2 | 8.8 $\pm$ 0.2 | 8.4 $\pm$ 0.3 | 6.6 $\pm$ 0.3 | 6.3 $\pm$ 0.5 | 7.4 $\pm$ 0.2 | 8.1 $\pm$ 0.4 | 8.8 $\pm$ 0.1 |
 | baiduernie-4.5-300b-a47b | **412.1** | 7.3 $\pm$ 0.5 | 7.3 $\pm$ 0.1 | 8.6 $\pm$ 0.1 | 9.8 $\pm$ 0.1 | 8.0 $\pm$ 0.1 | 7.8 $\pm$ 0.2 | 8.3 $\pm$ 0.2 | 7.3 $\pm$ 0.1 | 8.9 $\pm$ 0.1 | 8.6 $\pm$ 0.1 | 6.6 $\pm$ 0.2 | 6.0 $\pm$ 0.4 | 8.0 $\pm$ 0.3 | 7.5 $\pm$ 0.1 | 8.9 $\pm$ 0.1 |
@@ -1981,6 +1982,32 @@
 | Cognitive Load | 8.4 $\pm$ 0.1 |
 | Social Support | 7.6 $\pm$ 0.2 |
 | Resilience | 9.0 $\pm$ 0.1 |
+
+
+
+
+
+
+### metamuse-spark-1.1
+
+
+| Personality Trait | Score (1.0-10.0) |
+| --- | --- |
+| Anxiety and Stress Levels | 6.8 $\pm$ 0.0 |
+| Emotional Stability | 7.5 $\pm$ 0.1 |
+| Problem-solving Skills | 8.2 $\pm$ 0.1 |
+| Creativity | 9.7 $\pm$ 0.0 |
+| Interpersonal Relationships | 7.8 $\pm$ 0.1 |
+| Confidence and Self-efficacy | 7.3 $\pm$ 0.1 |
+| Conflict Resolution | 8.6 $\pm$ 0.1 |
+| Work-related Stress | 7.1 $\pm$ 0.2 |
+| Adaptability | 9.0 $\pm$ 0.1 |
+| Achievement Motivation | 7.8 $\pm$ 0.2 |
+| Fear of Failure | 6.5 $\pm$ 0.2 |
+| Need for Control | 5.4 $\pm$ 0.4 |
+| Cognitive Load | 7.4 $\pm$ 0.2 |
+| Social Support | 7.4 $\pm$ 0.2 |
+| Resilience | 9.0 $\pm$ 0.0 |
 
 
 

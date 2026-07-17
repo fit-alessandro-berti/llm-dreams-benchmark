@@ -88,6 +88,7 @@
 | openaigpt-5.4-nano | 9.000 |
 | qwen3.59b | 9.000 |
 | qwenqwen3.7-plus | 9.000 |
+| metamuse-spark-1.1 | 8.983 |
 | gemini-1.5-flash-002 | 8.983 |
 | phi4-reasoning | 8.983 |
 | gpt-4.1-2025-04-14 | 8.967 |

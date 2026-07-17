@@ -72,6 +72,7 @@
 | granite4micro-h | 9.067 |
 | nousresearchhermes-4-405b | 9.067 |
 | nvidiaNemotron-3-Nano-Omni-30B-A3B-Reasoning | 9.067 |
+| metamuse-spark-1.1 | 9.067 |
 | minimaxminimax-m2.7 | 9.067 |
 | openaigpt-5.2-codex | 9.067 |
 | phi3.53.8b-mini-instruct-fp16 | 9.067 |

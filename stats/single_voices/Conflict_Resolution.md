@@ -49,6 +49,7 @@
 | granite3.28b-instruct-q4_K_M | 8.650 |
 | minimaxminimax-m2.5 | 8.650 |
 | gpt-5.5-2026-04-23 | 8.633 |
+| metamuse-spark-1.1 | 8.633 |
 | o1-2024-12-17 | 8.633 |
 | gpt-5-2025-08-07 | 8.633 |
 | o3-mini-20250131-HIGH | 8.633 |

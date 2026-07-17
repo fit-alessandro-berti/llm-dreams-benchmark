@@ -138,6 +138,7 @@
 | qwenqwen3.5-plus-02-15 | 8.467 |
 | qwenqwen3.6-plusfree | 8.467 |
 | liquidlfm-2.5-1.2b-thinkingfree | 8.450 |
+| metamuse-spark-1.1 | 8.450 |
 | moonshotaikimi-k2.5 | 8.450 |
 | o3-mini-20250131-HIGH | 8.450 |
 | openaigpt-5.4-pro | 8.433 |

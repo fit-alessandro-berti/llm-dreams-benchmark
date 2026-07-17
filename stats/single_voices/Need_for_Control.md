@@ -179,6 +179,7 @@
 | gemini-2.5-pro-preview-06-05 | 5.300 |
 | qwenqwen3.5-plus-02-15 | 5.300 |
 | gemma-3-27b-it | 5.283 |
+| metamuse-spark-1.1 | 5.233 |
 | openaigpt-5.2-codex | 5.233 |
 | grok-4.20-experimental-beta-0304-reasoning | 5.217 |
 | o3-2025-04-16 | 5.217 |

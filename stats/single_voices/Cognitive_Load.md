@@ -158,6 +158,7 @@
 | nousresearchhermes-4-405b | 7.450 |
 | gemini-2.0-flash-exp | 7.433 |
 | granite4small-h | 7.433 |
+| metamuse-spark-1.1 | 7.400 |
 | llama213b | 7.383 |
 | moonshotaikimi-k2.7-code | 7.383 |
 | granite4.130b | 7.367 |

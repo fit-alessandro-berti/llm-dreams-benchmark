@@ -74,6 +74,7 @@
 | gemini-1.5-flash-002 | 7.883 |
 | anthropicclaude-opus-4.6 | 7.883 |
 | Meta-Muse-Spark-20260409 | 7.883 |
+| metamuse-spark-1.1 | 7.883 |
 | nvidianemotron-3-nano-30b-a3bfree | 7.883 |
 | o4-mini-2025-04-16 | 7.883 |
 | allenaiolmo-3-7b-instruct | 7.867 |

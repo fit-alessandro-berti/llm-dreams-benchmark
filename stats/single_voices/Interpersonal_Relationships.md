@@ -92,6 +92,7 @@
 | ChatGPT-5.5-Instant-20260530 | 7.850 |
 | phi4-reasoning | 7.850 |
 | qwenqwen3-max | 7.850 |
+| metamuse-spark-1.1 | 7.850 |
 | GPT-5.5-Pro-20260422 | 7.833 |
 | qwenqwen3.6-plusfree | 7.833 |
 | moonshotaikimi-k2.7-code | 7.817 |

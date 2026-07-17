@@ -110,6 +110,7 @@
 | x-aigrok-4.5 | 6.117 |
 | granite4micro | 6.083 |
 | nvidiaLlama-3.1-Nemotron-70B-Instruct | 6.083 |
+| metamuse-spark-1.1 | 6.067 |
 | qwenqwen3.5-35b-a3b | 6.067 |
 | bytedance-seedseed-2.0-lite | 6.033 |
 | claude-3-7-sonnet-20250219 | 6.017 |

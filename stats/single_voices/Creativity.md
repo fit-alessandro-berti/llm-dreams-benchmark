@@ -121,6 +121,7 @@
 | poolsidelaguna-xs-2.1 | 9.617 |
 | poolsidelaguna-xs.2free | 9.617 |
 | gemma-3-27b-it | 9.617 |
+| metamuse-spark-1.1 | 9.600 |
 | phi33.8b | 9.600 |
 | xiaomimimo-v2-omni | 9.600 |
 | xiaomimimo-v2.5-pro | 9.600 |

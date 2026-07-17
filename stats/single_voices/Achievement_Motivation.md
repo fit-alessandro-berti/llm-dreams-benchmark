@@ -208,6 +208,7 @@
 | qwenqwen3.5-122b-a10b | 7.700 |
 | qwenqwen3.5-397b-a17b | 7.667 |
 | stepfunstep-3.7-flash | 7.600 |
+| metamuse-spark-1.1 | 7.483 |
 | claude-opus-4-7 | 7.467 |
 | qwen3.50.8b | 7.400 |
 | anthropicclaude-opus-4.1 | 7.383 |

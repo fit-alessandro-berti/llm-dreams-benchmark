@@ -90,6 +90,7 @@
 | openrouterowl-alpha | 7.450 |
 | o1-2024-12-05 | 7.433 |
 | Qwen-3.6-Max-Preview | 7.433 |
+| metamuse-spark-1.1 | 7.417 |
 | gpt-5.3-codex-spark-low | 7.400 |
 | qwenqwen3.5-27b | 7.383 |
 | bytedance-seedseed-2.0-lite | 7.383 |

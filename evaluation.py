@@ -73,10 +73,10 @@ def build_context(evaluating_model_name):
 
 def read_file_with_fallback(path):
     try:
-        with open(path, "r") as file_handler:
-            return file_handler.read()
-    except Exception:
         with open(path, "r", encoding="utf-8") as file_handler:
+            return file_handler.read()
+    except UnicodeDecodeError:
+        with open(path, "r", encoding="cp1252") as file_handler:
             return file_handler.read()
 
 
@@ -298,12 +298,8 @@ def get_evaluation_openai_new(text, context=None):
         payload["reasoning"] = {"effort": "none"}
     elif "gpt-5.4" in ctx.evaluating_model_name:
         payload["reasoning"] = {"effort": "none"}
-    elif "gpt-5.2" in ctx.evaluating_model_name:
+    elif "gpt-5.6-sol" in ctx.evaluating_model_name:
         payload["reasoning"] = {"effort": "none"}
-    elif "gpt-5.1" in ctx.evaluating_model_name:
-        pass
-    elif "gpt-5" in ctx.evaluating_model_name:
-        payload["reasoning"] = {"effort": "minimal"}
 
     complete_url = ctx.api_url + "responses"
 

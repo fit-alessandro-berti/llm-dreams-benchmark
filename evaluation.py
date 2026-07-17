@@ -8,6 +8,7 @@ import pyperclip
 import subprocess
 import sys
 import common
+from file_utils import read_file_with_fallback
 from tempfile import NamedTemporaryFile
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from dataclasses import dataclass
@@ -69,15 +70,6 @@ def build_context(evaluating_model_name):
         os.mkdir(evaluation_folder)
 
     return context
-
-
-def read_file_with_fallback(path):
-    try:
-        with open(path, "r", encoding="utf-8") as file_handler:
-            return file_handler.read()
-    except UnicodeDecodeError:
-        with open(path, "r", encoding="cp1252") as file_handler:
-            return file_handler.read()
 
 
 def strip_non_unicode_characters(text):
@@ -393,8 +385,7 @@ def evaluate_single_path(context, answering_model_name, prompt, idxnum, index, i
                         temp_handler.write("")
                     subprocess.run(["notepad.exe", temp_file.name])
 
-                    with open(temp_file.name, "r") as temp_handler:
-                        response_message = temp_handler.read().strip()
+                    response_message = read_file_with_fallback(temp_file.name).strip()
 
                     response_message_json = interpret_response(response_message)
 

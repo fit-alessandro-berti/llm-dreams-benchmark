@@ -11,6 +11,8 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 from pathlib import Path
 from typing import Any, Dict
 
+from file_utils import read_file_with_fallback
+
 
 REPO_ROOT = Path(__file__).resolve().parent
 
@@ -115,8 +117,7 @@ def parse_json_object(raw: str | None, label: str) -> Dict[str, Any]:
 def load_runtime_config(args: argparse.Namespace) -> Dict[str, Any]:
     config: Dict[str, Any] = {}
     if args.config_file:
-        with open(args.config_file, "r", encoding="utf-8") as handler:
-            file_config = json.load(handler)
+        file_config = json.loads(read_file_with_fallback(args.config_file))
         if not isinstance(file_config, dict):
             raise ValueError("config-file must contain a JSON object.")
         config = merge_dicts(config, file_config)
@@ -163,7 +164,7 @@ def read_api_key(config: Dict[str, Any]) -> str:
         if not candidate.is_absolute():
             candidate = (REPO_ROOT / candidate).resolve()
         if candidate.exists():
-            return candidate.read_text(encoding="utf-8").strip()
+            return read_file_with_fallback(candidate).strip()
 
     return ""
 

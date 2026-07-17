@@ -42,6 +42,12 @@ import numpy as np
 
 
 BASE_DIR = Path(__file__).resolve().parent
+REPO_ROOT = BASE_DIR.parent
+if str(REPO_ROOT) not in sys.path:
+    sys.path.insert(0, str(REPO_ROOT))
+
+from file_utils import read_file_with_fallback
+
 DEFAULT_OVERALL = BASE_DIR.parent / "OVERALL.json"
 DEFAULT_MODEL_DATES = BASE_DIR / "model_dates.json"
 DEFAULT_MODEL_SIZES = BASE_DIR / "model_size.json"
@@ -56,8 +62,7 @@ def load_json(path: Path):
         print(f"Error: file not found: {path}", file=sys.stderr)
         raise SystemExit(1)
     try:
-        with path.open("r", encoding="utf-8") as f:
-            return json.load(f)
+        return json.loads(read_file_with_fallback(path))
     except json.JSONDecodeError as exc:
         print(f"Error: could not parse JSON from {path}: {exc}", file=sys.stderr)
         raise SystemExit(1)

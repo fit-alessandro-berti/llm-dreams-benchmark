@@ -22,6 +22,10 @@ PERSONALITY_HEADERS = [
     "Resilience",
 ]
 REPO_ROOT = Path(__file__).resolve().parent.parent
+if str(REPO_ROOT) not in sys.path:
+    sys.path.insert(0, str(REPO_ROOT))
+
+from file_utils import read_file_with_fallback
 
 DEFAULT_EMBEDDING_METHOD = os.environ.get("PARSE_COMPUTE_METRICS_EMBEDDING", "pca").strip().lower()
 
@@ -31,8 +35,7 @@ def parse_markdown_table(file_path: str) -> Tuple[Dict[str, Dict[str, float]], L
     std_values = []
 
     try:
-        with open(file_path, 'r', encoding='utf-8') as file:
-            lines = file.read().split('\n')
+        lines = read_file_with_fallback(file_path).split('\n')
         in_table = False
         header_found = False
 

@@ -1,6 +1,8 @@
 import os
 from pathlib import Path
 
+from file_utils import read_file_with_fallback
+
 ANSWERING_MODEL_NAME = "claude-opus-4-8"
 EVALUATING_MODEL_NAME = "gpt-5.2"
 
@@ -11,7 +13,7 @@ def _read_api_key(env_name, file_name):
 
     candidate = (Path(__file__).resolve().parent / file_name).resolve()
     if candidate.exists():
-        return candidate.read_text(encoding="utf-8").strip()
+        return read_file_with_fallback(candidate).strip()
 
     return ""
 

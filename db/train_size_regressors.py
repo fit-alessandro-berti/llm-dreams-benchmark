@@ -26,13 +26,18 @@ except ImportError as exc:  # pragma: no cover - import guard
 
 
 BASE_DIR = Path(__file__).resolve().parent
+REPO_ROOT = BASE_DIR.parent
+if str(REPO_ROOT) not in sys.path:
+    sys.path.insert(0, str(REPO_ROOT))
+
+from file_utils import read_file_with_fallback
+
 DEFAULT_OVERALL_PATH = BASE_DIR.parent / "OVERALL.json"
 DEFAULT_MODEL_SIZE_PATH = BASE_DIR / "model_size.json"
 
 
 def load_json(path: Path):
-    with path.open("r", encoding="utf-8") as f:
-        return json.load(f)
+    return json.loads(read_file_with_fallback(path))
 
 
 def trait_names(overall: Sequence[dict]) -> List[str]:

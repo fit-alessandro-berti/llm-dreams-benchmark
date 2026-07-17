@@ -1,4 +1,5 @@
 from pathlib import Path
+import sys
 from scipy.stats import pearsonr
 import pandas as pd
 
@@ -23,6 +24,10 @@ def is_markdown_separator_row(line):
 
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
+if str(REPO_ROOT) not in sys.path:
+    sys.path.insert(0, str(REPO_ROOT))
+
+from file_utils import read_file_with_fallback
 
 
 def repo_file(path):
@@ -61,12 +66,12 @@ def interpret(content):
 
 
 JUDGES = {
-    "grok-4.3": interpret(repo_file("alt_results_grok43.md").read_text(encoding="utf-8")),
-    "gpt-5.6-sol": interpret(repo_file("results_gpt56sol.md").read_text(encoding="utf-8")),
-    "gpt-5.4": interpret(repo_file("alt_results_gpt54.md").read_text(encoding="utf-8")),
-    "gpt-5.5": interpret(repo_file("alt_results_gpt55.md").read_text(encoding="utf-8")),
-    "qwen36-plus": interpret(repo_file("alt_results_qwen36-plus.md").read_text(encoding="utf-8")),
-    "mistral-small-2603": interpret(repo_file("alt_results_mistral2603.md").read_text(encoding="utf-8")),
+    "grok-4.3": interpret(read_file_with_fallback(repo_file("alt_results_grok43.md"))),
+    "gpt-5.6-sol": interpret(read_file_with_fallback(repo_file("results_gpt56sol.md"))),
+    "gpt-5.4": interpret(read_file_with_fallback(repo_file("alt_results_gpt54.md"))),
+    "gpt-5.5": interpret(read_file_with_fallback(repo_file("alt_results_gpt55.md"))),
+    "qwen36-plus": interpret(read_file_with_fallback(repo_file("alt_results_qwen36-plus.md"))),
+    "mistral-small-2603": interpret(read_file_with_fallback(repo_file("alt_results_mistral2603.md"))),
 }
 
 model_keys = sorted(set.intersection(*(set(scores.keys()) for scores in JUDGES.values())))

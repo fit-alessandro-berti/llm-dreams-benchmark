@@ -2,6 +2,7 @@ import json
 import os
 import numpy as np
 import common
+from file_utils import read_file_with_fallback
 
 PERSONALITY_KEYS = [
     "Anxiety and Stress Levels",
@@ -65,8 +66,7 @@ def render_markdown_table(headers, rows):
 
 def load_score_file(full_path):
     if full_path not in SCORE_CACHE:
-        with open(full_path, "r") as file_handler:
-            SCORE_CACHE[full_path] = json.load(file_handler)
+        SCORE_CACHE[full_path] = json.loads(read_file_with_fallback(full_path))
     return SCORE_CACHE[full_path]
 
 
@@ -202,8 +202,7 @@ def group_files_by_llm(evaluation_folder):
 
 def sync_model_metadata_file(path, models, default_factory):
     try:
-        with open(path, "r") as f:
-            data = json.load(f)
+        data = json.loads(read_file_with_fallback(path))
     except (FileNotFoundError, json.JSONDecodeError):
         data = {}
 

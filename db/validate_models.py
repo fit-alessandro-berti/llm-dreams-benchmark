@@ -1,16 +1,22 @@
 import json
 from datetime import datetime, date
 from pathlib import Path
+import sys
 from typing import Dict, List, Tuple
 
 BASE_DIR = Path(__file__).resolve().parent
+REPO_ROOT = BASE_DIR.parent
+if str(REPO_ROOT) not in sys.path:
+    sys.path.insert(0, str(REPO_ROOT))
+
+from file_utils import read_file_with_fallback
+
 MODEL_DATES_PATH = BASE_DIR / "model_dates.json"
 MODEL_SIZE_PATH = BASE_DIR / "model_size.json"
 
 
 def load_json(path: Path) -> Dict:
-    with path.open("r") as f:
-        return json.load(f)
+    return json.loads(read_file_with_fallback(path))
 
 
 def find_missing_info(

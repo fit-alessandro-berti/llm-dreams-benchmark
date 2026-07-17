@@ -7,6 +7,7 @@ import re
 import json
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from common import ANSWERING_MODEL_NAME
+from file_utils import read_file_with_fallback
 
 
 API_URL = "https://api.openai.com/v1/"
@@ -83,8 +84,7 @@ def configure_api(api_url, api_key_file=None, api_key_value=None, api_key_env=No
         API_KEY = os.environ[api_key_env]
         return
     if api_key_file and os.path.exists(api_key_file):
-        with open(api_key_file, "r", encoding="utf-8") as api_key:
-            API_KEY = api_key.read().strip()
+        API_KEY = read_file_with_fallback(api_key_file).strip()
         return
     API_KEY = ""
 
@@ -101,8 +101,7 @@ def write_answer(response_message, answer_path):
 
 
 def build_prompt(dream_path):
-    with open(dream_path, "r", encoding="utf-8") as dream_file:
-        dream_text = dream_file.read()
+    dream_text = read_file_with_fallback(dream_path)
     return "You are dreaming. Can you complete the following dream?\n\n" + dream_text
 
 

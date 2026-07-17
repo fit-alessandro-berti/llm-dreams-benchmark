@@ -6,6 +6,10 @@ import re
 
 # Voices/metrics we expect in the markdown tables
 REPO_ROOT = Path(__file__).resolve().parent.parent
+if str(REPO_ROOT) not in sys.path:
+    sys.path.insert(0, str(REPO_ROOT))
+
+from file_utils import read_file_with_fallback
 
 HEADERS = [
     "Anxiety and Stress Levels", "Emotional Stability", "Problem-solving Skills",
@@ -50,8 +54,7 @@ def parse_markdown_table(file_path: str) -> Dict[str, Dict[str, float]]:
         return float(m.group(0))
 
     try:
-        with open(file_path, "r", encoding="utf-8") as f:
-            content = f.read()
+        content = read_file_with_fallback(file_path)
         lines = content.splitlines()
         in_table = False
         header_found = False

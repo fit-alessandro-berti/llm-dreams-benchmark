@@ -1,19 +1,18 @@
 import os
 import pyperclip
 import subprocess
+import sys
+from pathlib import Path
+
+REPO_ROOT = Path(__file__).resolve().parent.parent
+if str(REPO_ROOT) not in sys.path:
+    sys.path.insert(0, str(REPO_ROOT))
+
+from file_utils import read_file_with_fallback
 
 
 def read_contents(file_path):
-    F = None
-    content = None
-    try:
-        F = open(file_path, "r")
-        content = F.read()
-    except:
-        F = open(file_path, "r", encoding="utf-8")
-        content = F.read()
-    F.close()
-    return content
+    return read_file_with_fallback(file_path)
 
 
 base_path = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -35,7 +34,7 @@ while True:
     for inc in incipits:
         dream_path = os.path.join(incipits_folder, inc)
 
-        dream = "You are dreaming. Can you complete the following dream?\n\n"+open(dream_path, "r").read()
+        dream = "You are dreaming. Can you complete the following dream?\n\n" + read_file_with_fallback(dream_path)
         pyperclip.copy(dream)
 
         response_path = os.path.join(answers_folder, model_name+"__"+inc.split(".")[0]+"__"+str(count)+".txt")

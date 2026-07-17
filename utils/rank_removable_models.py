@@ -6,7 +6,15 @@ import statistics
 from dataclasses import dataclass, field
 from datetime import date, datetime
 from pathlib import Path
+import sys
 from typing import Optional
+
+
+REPO_ROOT = Path(__file__).resolve().parent.parent
+if str(REPO_ROOT) not in sys.path:
+    sys.path.insert(0, str(REPO_ROOT))
+
+from file_utils import read_file_with_fallback
 
 
 DATE_PATTERNS = (
@@ -87,8 +95,7 @@ def build_cli() -> argparse.ArgumentParser:
 
 
 def load_json(path: Path):
-    with path.open("r", encoding="utf-8") as file_handle:
-        return json.load(file_handle)
+    return json.loads(read_file_with_fallback(path))
 
 
 def parse_date_text(value: str) -> Optional[date]:

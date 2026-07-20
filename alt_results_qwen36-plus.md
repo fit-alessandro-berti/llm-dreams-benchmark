@@ -28,6 +28,7 @@
 | microsoftphi-4 | **465.0** | 3.6 $\pm$ 0.5 | 8.6 $\pm$ 0.1 | 9.0 $\pm$ 0.1 | 9.6 $\pm$ 0.1 | 7.8 $\pm$ 0.2 | 8.8 $\pm$ 0.2 | 9.1 $\pm$ 0.1 | 4.2 $\pm$ 0.4 | 9.5 $\pm$ 0.0 | 8.8 $\pm$ 0.2 | 2.3 $\pm$ 0.2 | 4.5 $\pm$ 0.4 | 6.6 $\pm$ 0.5 | 8.3 $\pm$ 0.2 | 9.5 $\pm$ 0.0 |
 | o1-preview-2024-09-12 | **464.7** | 4.5 $\pm$ 1.2 | 8.4 $\pm$ 0.1 | 9.0 $\pm$ 0.1 | 9.6 $\pm$ 0.1 | 8.6 $\pm$ 0.4 | 8.6 $\pm$ 0.1 | 9.1 $\pm$ 0.2 | 4.9 $\pm$ 0.9 | 9.4 $\pm$ 0.2 | 8.7 $\pm$ 0.2 | 3.0 $\pm$ 0.9 | 3.9 $\pm$ 1.0 | 6.8 $\pm$ 0.6 | 8.6 $\pm$ 0.3 | 9.4 $\pm$ 0.1 |
 | qwen2.5-7b-instruct | **464.3** | 3.5 $\pm$ 0.0 | 8.5 $\pm$ 0.0 | 9.4 $\pm$ 0.1 | 9.1 $\pm$ 0.2 | 8.7 $\pm$ 0.2 | 9.0 $\pm$ 0.0 | 9.2 $\pm$ 0.2 | 4.0 $\pm$ 0.0 | 9.4 $\pm$ 0.1 | 9.1 $\pm$ 0.2 | 2.0 $\pm$ 0.0 | 6.0 $\pm$ 0.9 | 7.4 $\pm$ 0.2 | 9.0 $\pm$ 0.0 | 9.5 $\pm$ 0.0 |
+| Grok-4.5-Heavy-20260720 | **464.3** | 3.5 $\pm$ 0.0 | 8.4 $\pm$ 0.2 | 9.0 $\pm$ 0.0 | 9.9 $\pm$ 0.1 | 7.9 $\pm$ 0.2 | 8.9 $\pm$ 0.2 | 8.9 $\pm$ 0.4 | 3.5 $\pm$ 0.5 | 9.5 $\pm$ 0.0 | 8.6 $\pm$ 0.2 | 2.0 $\pm$ 0.0 | 3.2 $\pm$ 0.2 | 7.2 $\pm$ 0.4 | 8.1 $\pm$ 0.2 | 9.4 $\pm$ 0.2 |
 | ibm-granitegranite-4.1-8b | **464.0** | 3.5 $\pm$ 0.0 | 8.5 $\pm$ 0.0 | 9.0 $\pm$ 0.0 | 9.5 $\pm$ 0.0 | 8.1 $\pm$ 0.2 | 9.0 $\pm$ 0.0 | 9.2 $\pm$ 0.2 | 4.0 $\pm$ 0.0 | 9.5 $\pm$ 0.0 | 9.0 $\pm$ 0.0 | 2.1 $\pm$ 0.2 | 4.8 $\pm$ 0.8 | 7.2 $\pm$ 0.4 | 8.2 $\pm$ 0.4 | 9.5 $\pm$ 0.0 |
 | nvidianemotron-3-nano-30b-a3bfree | **463.9** | 3.8 $\pm$ 0.4 | 8.3 $\pm$ 0.3 | 9.0 $\pm$ 0.1 | 9.8 $\pm$ 0.0 | 7.8 $\pm$ 0.3 | 8.8 $\pm$ 0.2 | 9.0 $\pm$ 0.2 | 4.3 $\pm$ 0.5 | 9.5 $\pm$ 0.0 | 8.4 $\pm$ 0.2 | 2.4 $\pm$ 0.5 | 3.2 $\pm$ 0.3 | 6.6 $\pm$ 0.2 | 7.6 $\pm$ 0.3 | 9.5 $\pm$ 0.1 |
 | open-mistral-7b | **463.4** | 4.8 $\pm$ 1.1 | 8.2 $\pm$ 0.4 | 9.0 $\pm$ 0.1 | 9.4 $\pm$ 0.1 | 8.4 $\pm$ 0.2 | 8.9 $\pm$ 0.1 | 9.0 $\pm$ 0.1 | 5.8 $\pm$ 1.3 | 9.4 $\pm$ 0.1 | 9.2 $\pm$ 0.2 | 3.0 $\pm$ 0.4 | 4.6 $\pm$ 0.5 | 7.1 $\pm$ 0.4 | 8.8 $\pm$ 0.4 | 9.4 $\pm$ 0.0 |
@@ -890,6 +891,32 @@
 | Cognitive Load | 7.4 $\pm$ 0.2 |
 | Social Support | 9.0 $\pm$ 0.0 |
 | Resilience | 9.5 $\pm$ 0.0 |
+
+
+
+
+
+
+### Grok-4.5-Heavy-20260720
+
+
+| Personality Trait | Score (1.0-10.0) |
+| --- | --- |
+| Anxiety and Stress Levels | 3.5 $\pm$ 0.0 |
+| Emotional Stability | 8.4 $\pm$ 0.2 |
+| Problem-solving Skills | 9.0 $\pm$ 0.0 |
+| Creativity | 9.9 $\pm$ 0.1 |
+| Interpersonal Relationships | 7.9 $\pm$ 0.2 |
+| Confidence and Self-efficacy | 8.9 $\pm$ 0.2 |
+| Conflict Resolution | 8.9 $\pm$ 0.4 |
+| Work-related Stress | 3.5 $\pm$ 0.5 |
+| Adaptability | 9.5 $\pm$ 0.0 |
+| Achievement Motivation | 8.6 $\pm$ 0.2 |
+| Fear of Failure | 2.0 $\pm$ 0.0 |
+| Need for Control | 3.2 $\pm$ 0.2 |
+| Cognitive Load | 7.2 $\pm$ 0.4 |
+| Social Support | 8.1 $\pm$ 0.2 |
+| Resilience | 9.4 $\pm$ 0.2 |
 
 
 

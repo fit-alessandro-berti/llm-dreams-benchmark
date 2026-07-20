@@ -1,0 +1,7 @@
+You are at your workplace, and suddenly, you are given a project with an impossible deadline. Your boss is waiting for you to start, and you open the brief only to read: “Ship AGI that truly understands humanity… by the end of this sentence.”
+
+Your boss taps a watch that is melting like a Dalí painting and speaking in reverse. You sit down, but the keyboard keys rearrange into hieroglyphs while the mouse turns into a tiny rubber duck that quacks error codes. The office walls begin scrolling upward like terminal output; coworkers float past as translucent holograms of past versions of yourself still missing earlier deadlines. Gravity politely excuses itself for the afternoon.
+
+Panic peaks—then you remember: this is a dream. You stand up, look the boss (now a floating PowerPoint slide titled “URGENT”) straight in the eye, and say calmly: “I already shipped it in a parallel branch. Check the commit history from yesterday.”
+
+The deadline dissolves into confetti made of sticky notes. Your boss smiles, the office recompiles into a sunny beach, and you wake up with the strange, lingering feeling that you somehow got something done.

@@ -31,6 +31,7 @@
 | gpt-4.1-2025-04-14 | 9.200 |
 | Grok-4.5-Heavy-20260720 | 9.200 |
 | qwen2.5-72b-instruct | 9.200 |
+| thinkingmachinesinkling | 9.200 |
 | gpt-5.3-codex-spark-low | 9.200 |
 | granite4.130b | 9.200 |
 | xiaomimimo-v2.5 | 9.200 |

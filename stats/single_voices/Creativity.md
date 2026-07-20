@@ -9,6 +9,7 @@
 | googlegemini-3.1-pro-preview | 9.883 |
 | moonshotaikimi-k2.5 | 9.850 |
 | qwenqwen3.7-max | 9.850 |
+| thinkingmachinesinkling | 9.850 |
 | gemini-3-flash-preview | 9.833 |
 | gemma-4-26b-a4b-it | 9.833 |
 | gemma-4-31b-it | 9.833 |

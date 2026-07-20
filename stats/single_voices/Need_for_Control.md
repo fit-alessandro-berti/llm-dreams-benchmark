@@ -217,4 +217,5 @@
 | qwenqwen3-next-80b-a3b-instruct | 4.350 |
 | qwenqwen3.5-122b-a10b | 4.283 |
 | xiaomimimo-v2-pro | 4.283 |
+| thinkingmachinesinkling | 4.000 |
 | qwenqwen3.6-plusfree | 3.050 |

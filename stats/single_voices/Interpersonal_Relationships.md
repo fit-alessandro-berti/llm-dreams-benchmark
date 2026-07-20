@@ -83,6 +83,7 @@
 | minimaxminimax-m2.7 | 7.967 |
 | Grok-3-beta-thinking-20250303 | 7.950 |
 | smollm21.7b-instruct-q6_K | 7.950 |
+| thinkingmachinesinkling | 7.950 |
 | anthropicclaude-opus-4.6 | 7.917 |
 | gpt-5.5-2026-04-23 | 7.900 |
 | allenaiolmo-3-7b-instruct | 7.883 |

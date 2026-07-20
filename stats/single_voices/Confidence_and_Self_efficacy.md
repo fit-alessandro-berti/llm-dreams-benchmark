@@ -105,6 +105,7 @@
 | gemini-1.5-flash-8b | 7.883 |
 | qwen3.59b | 7.867 |
 | qwenqwen3-30b-a3b-instruct-2507 | 7.867 |
+| thinkingmachinesinkling | 7.867 |
 | gemini-2.0-flash-exp | 7.850 |
 | openaigpt-5.2-codex | 7.850 |
 | gpt-5.5-2026-04-23 | 7.833 |

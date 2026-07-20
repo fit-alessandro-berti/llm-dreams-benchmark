@@ -152,6 +152,7 @@
 | ChatGPT-5.1-Instant-20251113 | 8.400 |
 | Grok-4.1-20251118 | 8.400 |
 | Gemini-1.5-Pro-Exp-0827 | 8.400 |
+| thinkingmachinesinkling | 8.400 |
 | grok-4.20-experimental-beta-0304-non-reasoning | 8.383 |
 | grok-build-0.1 | 8.383 |
 | poolsidelaguna-xs.2free | 8.383 |

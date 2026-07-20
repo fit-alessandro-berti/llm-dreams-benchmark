@@ -74,6 +74,7 @@
 | bytedance-seedseed-2.0-mini | 7.633 |
 | qwenqwen3.5-122b-a10b | 7.617 |
 | arcee-aitrinity-large-previewfree | 7.583 |
+| thinkingmachinesinkling | 7.583 |
 | ministral-3b-2410 | 7.567 |
 | anthropicclaude-opus-4.6 | 7.567 |
 | baiduernie-4.5-300b-a47b | 7.567 |

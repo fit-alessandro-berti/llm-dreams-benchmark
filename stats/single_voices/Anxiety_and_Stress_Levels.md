@@ -165,6 +165,7 @@
 | grok-4.20-experimental-beta-0304-reasoning | 5.817 |
 | claude-haiku-4-5-20251001 | 5.800 |
 | gpt-4-0613 | 5.783 |
+| thinkingmachinesinkling | 5.717 |
 | qwenqwen3.7-plus | 5.600 |
 | qwen3.635b-a3b | 5.517 |
 | qwen3.59b | 5.500 |

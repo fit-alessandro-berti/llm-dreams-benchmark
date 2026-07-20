@@ -68,6 +68,7 @@
 | gpt-4.1-nano-2025-04-14 | 8.550 |
 | qwenqwen3-next-80b-a3b-instruct | 8.550 |
 | qwenqwen3.5-plus-02-15 | 8.550 |
+| thinkingmachinesinkling | 8.550 |
 | baiduernie-4.5-21b-a3b | 8.533 |
 | ministral-3b-2410 | 8.533 |
 | ai21jamba-large-1.7 | 8.517 |

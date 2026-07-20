@@ -169,6 +169,7 @@
 | qwen2.5-7b-instruct | 7.317 |
 | xiaomimimo-v2-omni | 7.317 |
 | gpt-3.5-turbo | 7.300 |
+| thinkingmachinesinkling | 7.300 |
 | openaigpt-5.2-codex | 7.300 |
 | ai21jamba-mini-1.7 | 7.283 |
 | Meta-Muse-Spark-20260409 | 7.283 |

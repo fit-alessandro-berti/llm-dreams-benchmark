@@ -88,6 +88,7 @@
 | nvidiaNemotron-3-Nano-Omni-30B-A3B-Reasoning | 9.000 |
 | openaigpt-5.4-nano | 9.000 |
 | qwen3.59b | 9.000 |
+| thinkingmachinesinkling | 9.000 |
 | qwenqwen3.7-plus | 9.000 |
 | metamuse-spark-1.1 | 8.983 |
 | gemini-1.5-flash-002 | 8.983 |

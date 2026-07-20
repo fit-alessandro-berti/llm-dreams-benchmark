@@ -68,6 +68,7 @@
 | nvidiaNemotron-3-Nano-Omni-30B-A3B-Reasoning | 7.983 |
 | openaigpt-5.4-mini | 7.983 |
 | openrouterowl-alpha | 7.967 |
+| thinkingmachinesinkling | 7.950 |
 | phi4-reasoningplus | 7.933 |
 | granite3.28b-instruct-q4_K_M | 7.917 |
 | granite4tiny-h | 7.900 |

@@ -208,6 +208,7 @@
 | moonshotaikimi-k3 | 7.717 |
 | qwenqwen3.5-122b-a10b | 7.700 |
 | qwenqwen3.5-397b-a17b | 7.667 |
+| thinkingmachinesinkling | 7.633 |
 | stepfunstep-3.7-flash | 7.600 |
 | metamuse-spark-1.1 | 7.483 |
 | claude-opus-4-7 | 7.467 |

@@ -154,6 +154,7 @@
 | nvidiaNemotron-3-Nano-Omni-30B-A3B-Reasoning | 7.483 |
 | nvidianemotron-3-nano-30b-a3bfree | 7.483 |
 | gpt-5.5-2026-04-23 | 7.467 |
+| Grok-4.5-Heavy-20260720 | 7.467 |
 | deepseekdeepseek-v3.2 | 7.450 |
 | nousresearchhermes-4-405b | 7.450 |
 | gemini-2.0-flash-exp | 7.433 |

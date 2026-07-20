@@ -177,6 +177,7 @@
 | qwenqwen3.5-122b-a10b | 4.550 |
 | granite3.28b-instruct-q4_K_M | 4.517 |
 | o1-preview-2024-09-12 | 4.517 |
+| Grok-4.5-Heavy-20260720 | 4.483 |
 | microsoftWizardLM-2-8x22B | 4.450 |
 | anthropicclaude-sonnet-4.6 | 4.417 |
 | phi4-reasoningplus | 4.417 |

@@ -39,6 +39,7 @@
 | qwen2.5-32b-instruct | 8.717 |
 | anthropicclaude-sonnet-4.6 | 8.700 |
 | amazonnova-2-lite-v1 | 8.700 |
+| Grok-4.5-Heavy-20260720 | 8.700 |
 | GPT-5.5-Pro-20260422 | 8.683 |
 | Qwen-3.6-Max-Preview | 8.683 |
 | googlegemini-3.1-pro-preview | 8.683 |

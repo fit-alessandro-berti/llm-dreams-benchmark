@@ -72,6 +72,7 @@
 | deepseekdeepseek-v3.2 | 8.067 |
 | nvidianemotron-3-nano-30b-a3bfree | 8.067 |
 | nvidiaNemotron-3-Nano-Omni-30B-A3B-Reasoning | 8.067 |
+| Grok-4.5-Heavy-20260720 | 8.067 |
 | o1-pro-2024-12-05 | 8.050 |
 | phi2.7b | 8.050 |
 | qwen3.635b-a3b | 8.050 |

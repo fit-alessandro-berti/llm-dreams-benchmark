@@ -81,6 +81,7 @@
 | meta-llamaMeta-Llama-3.1-8B-Instruct | 8.617 |
 | ministral-3b-2410 | 8.617 |
 | openaigpt-5.4-nano | 8.617 |
+| Grok-4.5-Heavy-20260720 | 8.600 |
 | openrouterowl-alpha | 8.600 |
 | nvidiaNemotron-3-Nano-Omni-30B-A3B-Reasoning | 8.583 |
 | chatgpt-4o-latest-2024-11-20 | 8.583 |

@@ -172,6 +172,7 @@
 | falcon310b-instruct-q8_0 | 5.350 |
 | granite4.130b | 5.350 |
 | xiaomimimo-v2-omni | 5.317 |
+| Grok-4.5-Heavy-20260720 | 5.300 |
 | microsoftWizardLM-2-8x22B | 5.300 |
 | openaigpt-5.4-mini | 5.300 |
 | qwenqwen3.5-122b-a10b | 5.300 |

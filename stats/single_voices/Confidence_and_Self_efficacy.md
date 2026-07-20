@@ -22,6 +22,7 @@
 | microsoftphi-4 | 8.667 |
 | gpt-4.5-preview | 8.633 |
 | qwen2.5-7b-instruct | 8.617 |
+| Grok-4.5-Heavy-20260720 | 8.600 |
 | falcon37b-instruct-q8_0 | 8.583 |
 | o3-2025-04-16 | 8.583 |
 | nousresearchhermes-4-405b | 8.583 |

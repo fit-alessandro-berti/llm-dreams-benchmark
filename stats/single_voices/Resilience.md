@@ -45,6 +45,7 @@
 | phi4-reasoningplus | 9.167 |
 | xiaomimimo-v2-pro | 9.167 |
 | xiaomimimo-v2.5-pro | 9.167 |
+| Grok-4.5-Heavy-20260720 | 9.150 |
 | openaigpt-5.4-mini | 9.150 |
 | phi33.8b | 9.150 |
 | gpt-5-2025-08-07 | 9.133 |

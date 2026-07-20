@@ -181,6 +181,7 @@
 | ChatGPT-5.5-Instant-20260530 | 5.650 |
 | inceptionmercury | 5.633 |
 | microsoftWizardLM-2-8x22B | 5.617 |
+| Grok-4.5-Heavy-20260720 | 5.583 |
 | ibm-granitegranite-4.1-8b | 5.583 |
 | liquidlfm2-8b-a1b | 5.567 |
 | ai21jamba-mini-1.7 | 5.567 |

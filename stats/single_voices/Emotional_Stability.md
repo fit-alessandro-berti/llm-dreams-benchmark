@@ -47,6 +47,7 @@
 | phi33.8b | 8.033 |
 | qwenqwen3.7-plus | 8.033 |
 | gpt-3.5-turbo | 8.017 |
+| Grok-4.5-Heavy-20260720 | 8.017 |
 | gpt-5-pro-2025-10-06 | 8.000 |
 | o4-mini-2025-04-16 | 7.933 |
 | xiaomimimo-v2-omni | 7.933 |

@@ -48,6 +48,7 @@
 | falcon37b-instruct-q8_0 | 8.200 |
 | ibm-granitegranite-4.1-8b | 8.183 |
 | granite4.13b | 8.150 |
+| Grok-4.5-Heavy-20260720 | 8.133 |
 | gpt-5-2025-08-07 | 8.133 |
 | granite4micro | 8.133 |
 | Grok-4.30-20260420 | 8.133 |

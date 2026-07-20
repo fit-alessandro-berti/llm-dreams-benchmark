@@ -166,6 +166,7 @@
 | Qwen-3.6-Max-Preview | 5.450 |
 | nvidiaNemotron-3-Nano-Omni-30B-A3B-Reasoning | 5.433 |
 | open-mistral-7b | 5.433 |
+| Grok-4.5-Heavy-20260720 | 5.433 |
 | gemma-4-26b-a4b-it | 5.417 |
 | nvidianemotron-3-nano-30b-a3bfree | 5.417 |
 | deepseekdeepseek-v4-pro | 5.400 |

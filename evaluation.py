@@ -5,6 +5,8 @@ import time
 import re
 import json
 import pyperclip
+import shlex
+import shutil
 import subprocess
 import sys
 import common
@@ -52,6 +54,30 @@ class EvaluationContext:
     api_url: str
     manual: bool
     api_key: str
+
+
+def open_text_editor(file_path):
+    configured_editor = os.environ.get("VISUAL") or os.environ.get("EDITOR")
+    if configured_editor:
+        subprocess.run(shlex.split(configured_editor) + [file_path])
+        return
+
+    if sys.platform.startswith("linux"):
+        editor_candidates = ["mousepad", "xdg-open"]
+    elif os.name == "nt":
+        editor_candidates = ["notepad++.exe", "notepad.exe"]
+    else:
+        editor_candidates = ["open"]
+
+    for editor in editor_candidates:
+        if shutil.which(editor):
+            subprocess.run([editor, file_path])
+            return
+
+    raise RuntimeError(
+        "No supported text editor found. Install mousepad on Linux, "
+        "Notepad++/Notepad on Windows, or set VISUAL/EDITOR."
+    )
 
 
 def build_context(evaluating_model_name):
@@ -383,7 +409,7 @@ def evaluate_single_path(context, answering_model_name, prompt, idxnum, index, i
                     temp_file.close()
                     with open(temp_file.name, "w") as temp_handler:
                         temp_handler.write("")
-                    subprocess.run(["notepad.exe", temp_file.name])
+                    open_text_editor(temp_file.name)
 
                     response_message = read_file_with_fallback(temp_file.name).strip()
 

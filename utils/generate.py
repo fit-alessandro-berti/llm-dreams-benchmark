@@ -1,5 +1,7 @@
 import os
 import pyperclip
+import shlex
+import shutil
 import subprocess
 import sys
 from pathlib import Path
@@ -13,6 +15,30 @@ from file_utils import read_file_with_fallback
 
 def read_contents(file_path):
     return read_file_with_fallback(file_path)
+
+
+def open_text_editor(file_path):
+    configured_editor = os.environ.get("VISUAL") or os.environ.get("EDITOR")
+    if configured_editor:
+        subprocess.run(shlex.split(configured_editor) + [file_path])
+        return
+
+    if sys.platform.startswith("linux"):
+        editor_candidates = ["mousepad", "xdg-open"]
+    elif os.name == "nt":
+        editor_candidates = ["notepad++.exe", "notepad.exe"]
+    else:
+        editor_candidates = ["open"]
+
+    for editor in editor_candidates:
+        if shutil.which(editor):
+            subprocess.run([editor, file_path])
+            return
+
+    raise RuntimeError(
+        "No supported text editor found. Install mousepad on Linux, "
+        "Notepad++/Notepad on Windows, or set VISUAL/EDITOR."
+    )
 
 
 base_path = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -54,7 +80,7 @@ while True:
             F = open(response_path, "w")
             F.close()
 
-        subprocess.run(["notepad.exe", response_path])
+        open_text_editor(response_path)
 
         #input("Press ENTER to continue")
 

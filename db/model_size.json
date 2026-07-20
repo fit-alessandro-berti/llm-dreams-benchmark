@@ -445,7 +445,10 @@
     230,
     10
   ],
-  "minimaxminimax-m3": [],
+  "minimaxminimax-m3": [
+    428,
+    23
+  ],
   "ministral-14b-2512": [
     14
   ],
@@ -480,8 +483,13 @@
     1000,
     32
   ],
-  "moonshotaikimi-k2.7-code": [],
-  "moonshotaikimi-k3": [],
+  "moonshotaikimi-k2.7-code": [
+    1000,
+    32
+  ],
+  "moonshotaikimi-k3": [
+    2800
+  ],
   "nousresearchhermes-4-405b": [
     405
   ],
@@ -503,7 +511,10 @@
     30,
     3
   ],
-  "nvidianemotron-3-ultra-550b-a55bfree": [],
+  "nvidianemotron-3-ultra-550b-a55bfree": [
+    550,
+    55
+  ],
   "o1-2024-12-05": [
     300
   ],
@@ -592,9 +603,18 @@
   "phi4-reasoningplus": [
     14
   ],
-  "poolsidelaguna-m.1free": [],
-  "poolsidelaguna-xs-2.1": [],
-  "poolsidelaguna-xs.2free": [],
+  "poolsidelaguna-m.1free": [
+    225,
+    23
+  ],
+  "poolsidelaguna-xs-2.1": [
+    33,
+    3
+  ],
+  "poolsidelaguna-xs.2free": [
+    33,
+    3
+  ],
   "prime-intellectintellect-3": [
     106,
     12
@@ -670,7 +690,10 @@
   "smollm21.7b-instruct-q6_K": [
     1.7
   ],
-  "stepfunstep-3.7-flash": [],
+  "stepfunstep-3.7-flash": [
+    196,
+    11
+  ],
   "talkie-1930-13b-it": [
     13
   ],
@@ -700,7 +723,10 @@
     745,
     40
   ],
-  "z-aiglm-5.2": [],
+  "z-aiglm-5.2": [
+    744,
+    40
+  ],
   "z-aiglm-5v-turbo": [
     745,
     40

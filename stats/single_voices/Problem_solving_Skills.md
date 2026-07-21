@@ -95,6 +95,7 @@
 | xiaomimimo-v2-omni | 8.650 |
 | gemini-2.0-pro-exp-02-05 | 8.633 |
 | gpt-5.2-2025-12-11 | 8.633 |
+| meituanlongcat-2.0 | 8.633 |
 | xiaomimimo-v2.5-pro | 8.633 |
 | deepseekdeepseek-v4-flash | 8.617 |
 | nousresearchhermes-4-70b | 8.617 |

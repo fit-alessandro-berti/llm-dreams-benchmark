@@ -66,6 +66,7 @@
 | phi33.8b | 8.567 |
 | baiduernie-4.5-300b-a47b | 8.567 |
 | gpt-4.1-nano-2025-04-14 | 8.550 |
+| meituanlongcat-2.0 | 8.550 |
 | qwenqwen3-next-80b-a3b-instruct | 8.550 |
 | qwenqwen3.5-plus-02-15 | 8.550 |
 | thinkingmachinesinkling | 8.550 |

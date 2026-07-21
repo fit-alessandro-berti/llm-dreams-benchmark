@@ -125,6 +125,7 @@
 | openaigpt-5.4-pro | 7.783 |
 | chatgpt-4o-latest-2025-03-26 | 7.783 |
 | gpt-5-2025-08-07 | 7.750 |
+| meituanlongcat-2.0 | 7.750 |
 | gpt-4.1-nano-2025-04-14 | 7.733 |
 | Qwen-3.6-Max-Preview | 7.733 |
 | qwenqwen3.5-35b-a3b | 7.733 |

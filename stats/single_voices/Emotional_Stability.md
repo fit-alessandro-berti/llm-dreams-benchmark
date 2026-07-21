@@ -87,6 +87,7 @@
 | gpt-4.1-nano-2025-04-14 | 7.517 |
 | qwenqwen3.5-plus-02-15 | 7.517 |
 | claude-haiku-4-5-20251001 | 7.483 |
+| meituanlongcat-2.0 | 7.450 |
 | phi4-reasoning | 7.450 |
 | grok-4.20-experimental-beta-0304-reasoning | 7.450 |
 | openrouterowl-alpha | 7.450 |

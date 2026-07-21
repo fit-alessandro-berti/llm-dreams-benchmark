@@ -151,6 +151,7 @@
 | baiduernie-4.5-300b-a47b | 6.533 |
 | ministral-3b-2410 | 6.533 |
 | gpt-5-2025-08-07 | 6.517 |
+| meituanlongcat-2.0 | 6.483 |
 | gemini-2.0-flash-exp | 6.450 |
 | allenaiolmo-3.1-32b-instruct | 6.367 |
 | ChatGPT-5.1-Instant-20251113 | 6.333 |

@@ -156,6 +156,7 @@
 | bytedance-seedseed-2.0-lite | 6.083 |
 | Meta-Muse-Spark-20260409 | 6.083 |
 | gemini-2.0-flash-exp | 6.067 |
+| meituanlongcat-2.0 | 6.033 |
 | gpt-3.5-turbo | 5.967 |
 | Grok-4.30-20260420 | 5.900 |
 | nvidianemotron-3-nano-30b-a3bfree | 5.883 |

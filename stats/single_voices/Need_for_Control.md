@@ -194,6 +194,7 @@
 | nvidiaNVIDIA-Nemotron-3-Super-120B-A12B | 5.150 |
 | gpt-4o-2024-08-06 | 5.133 |
 | qwenqwen3.5-27b | 5.100 |
+| meituanlongcat-2.0 | 5.050 |
 | ChatGPT-5.5-Instant-20260530 | 5.033 |
 | gpt-5-mini-2025-08-07 | 5.017 |
 | moonshotaikimi-k2.7-code | 5.017 |

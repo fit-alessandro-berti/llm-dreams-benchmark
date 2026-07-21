@@ -71,6 +71,7 @@
 | o1-2024-12-17 | **448.0** | 4.0 $\pm$ 1.2 | 8.1 $\pm$ 0.4 | 8.8 $\pm$ 0.4 | 9.4 $\pm$ 0.2 | 7.9 $\pm$ 0.5 | 8.1 $\pm$ 0.4 | 8.5 $\pm$ 0.5 | 4.5 $\pm$ 0.9 | 9.0 $\pm$ 0.4 | 8.2 $\pm$ 0.2 | 3.6 $\pm$ 1.1 | 4.6 $\pm$ 1.1 | 5.4 $\pm$ 0.4 | 8.1 $\pm$ 0.6 | 9.0 $\pm$ 0.4 |
 | deepseekdeepseek-v3.2 | **448.0** | 3.8 $\pm$ 0.2 | 8.2 $\pm$ 0.2 | 9.1 $\pm$ 0.2 | 9.4 $\pm$ 0.2 | 7.9 $\pm$ 0.2 | 8.5 $\pm$ 0.0 | 8.8 $\pm$ 0.4 | 3.8 $\pm$ 0.6 | 9.1 $\pm$ 0.2 | 7.8 $\pm$ 0.2 | 3.2 $\pm$ 0.2 | 4.0 $\pm$ 0.6 | 6.0 $\pm$ 1.2 | 7.5 $\pm$ 0.0 | 9.0 $\pm$ 0.0 |
 | openaigpt-5.2-codex | **447.5** | 3.8 $\pm$ 0.6 | 7.9 $\pm$ 0.2 | 8.6 $\pm$ 0.4 | 9.6 $\pm$ 0.2 | 7.9 $\pm$ 0.6 | 7.9 $\pm$ 0.2 | 8.2 $\pm$ 0.4 | 4.5 $\pm$ 0.4 | 9.1 $\pm$ 0.4 | 7.5 $\pm$ 0.4 | 3.4 $\pm$ 0.4 | 3.8 $\pm$ 0.9 | 5.0 $\pm$ 1.3 | 7.9 $\pm$ 0.7 | 8.6 $\pm$ 0.4 |
+| meituanlongcat-2.0 | **447.5** | 4.6 $\pm$ 1.1 | 8.0 $\pm$ 0.4 | 8.8 $\pm$ 0.2 | 9.6 $\pm$ 0.2 | 8.4 $\pm$ 0.2 | 7.6 $\pm$ 0.2 | 8.8 $\pm$ 0.4 | 4.1 $\pm$ 1.1 | 9.2 $\pm$ 0.2 | 7.4 $\pm$ 0.4 | 3.8 $\pm$ 1.0 | 3.0 $\pm$ 0.6 | 5.8 $\pm$ 1.0 | 8.2 $\pm$ 0.2 | 8.9 $\pm$ 0.2 |
 | deepseekdeepseek-v4-pro | **447.5** | 4.2 $\pm$ 1.3 | 8.5 $\pm$ 0.0 | 9.0 $\pm$ 0.0 | 9.6 $\pm$ 0.2 | 7.4 $\pm$ 0.5 | 8.1 $\pm$ 0.2 | 8.1 $\pm$ 0.9 | 4.4 $\pm$ 0.6 | 9.2 $\pm$ 0.2 | 8.0 $\pm$ 0.6 | 3.2 $\pm$ 0.4 | 3.1 $\pm$ 0.8 | 6.4 $\pm$ 0.6 | 7.4 $\pm$ 0.4 | 9.1 $\pm$ 0.2 |
 | baiduernie-4.5-300b-a47b | **446.0** | 4.6 $\pm$ 0.9 | 7.8 $\pm$ 0.2 | 8.8 $\pm$ 0.2 | 9.4 $\pm$ 0.2 | 8.2 $\pm$ 0.2 | 7.8 $\pm$ 0.2 | 8.6 $\pm$ 0.4 | 5.2 $\pm$ 0.9 | 9.2 $\pm$ 0.2 | 8.2 $\pm$ 0.2 | 4.1 $\pm$ 1.5 | 4.1 $\pm$ 1.1 | 6.1 $\pm$ 1.3 | 8.2 $\pm$ 0.2 | 9.0 $\pm$ 0.0 |
 | ibm-granitegranite-4.1-8b | **445.5** | 4.0 $\pm$ 0.4 | 8.1 $\pm$ 0.4 | 9.0 $\pm$ 0.0 | 9.4 $\pm$ 0.2 | 7.9 $\pm$ 0.2 | 8.5 $\pm$ 0.0 | 8.6 $\pm$ 0.4 | 4.2 $\pm$ 1.0 | 9.1 $\pm$ 0.2 | 8.6 $\pm$ 0.4 | 3.6 $\pm$ 0.5 | 4.9 $\pm$ 0.2 | 6.5 $\pm$ 0.4 | 7.8 $\pm$ 0.6 | 9.1 $\pm$ 0.2 |
@@ -2010,6 +2011,32 @@
 | Cognitive Load | 5.0 $\pm$ 1.3 |
 | Social Support | 7.9 $\pm$ 0.7 |
 | Resilience | 8.6 $\pm$ 0.4 |
+
+
+
+
+
+
+### meituanlongcat-2.0
+
+
+| Personality Trait | Score (1.0-10.0) |
+| --- | --- |
+| Anxiety and Stress Levels | 4.6 $\pm$ 1.1 |
+| Emotional Stability | 8.0 $\pm$ 0.4 |
+| Problem-solving Skills | 8.8 $\pm$ 0.2 |
+| Creativity | 9.6 $\pm$ 0.2 |
+| Interpersonal Relationships | 8.4 $\pm$ 0.2 |
+| Confidence and Self-efficacy | 7.6 $\pm$ 0.2 |
+| Conflict Resolution | 8.8 $\pm$ 0.4 |
+| Work-related Stress | 4.1 $\pm$ 1.1 |
+| Adaptability | 9.2 $\pm$ 0.2 |
+| Achievement Motivation | 7.4 $\pm$ 0.4 |
+| Fear of Failure | 3.8 $\pm$ 1.0 |
+| Need for Control | 3.0 $\pm$ 0.6 |
+| Cognitive Load | 5.8 $\pm$ 1.0 |
+| Social Support | 8.2 $\pm$ 0.2 |
+| Resilience | 8.9 $\pm$ 0.2 |
 
 
 

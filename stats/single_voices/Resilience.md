@@ -96,6 +96,7 @@
 | gpt-4.1-2025-04-14 | 8.967 |
 | qwenqwen3.5-122b-a10b | 8.967 |
 | falcon37b-instruct-q8_0 | 8.933 |
+| meituanlongcat-2.0 | 8.933 |
 | grok-4.20-experimental-beta-0304-reasoning | 8.933 |
 | claude-3-7-sonnet-20250219 | 8.917 |
 | gpt-4.1-nano-2025-04-14 | 8.917 |

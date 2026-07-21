@@ -78,6 +78,7 @@
 | qwen3.635b-a3b | 8.050 |
 | granite4tiny-h | 8.050 |
 | o4-mini-2025-04-16 | 8.017 |
+| meituanlongcat-2.0 | 8.000 |
 | o3-2025-04-16 | 7.983 |
 | stepfunstep-3.7-flash | 7.983 |
 | minimaxminimax-m2.7 | 7.967 |

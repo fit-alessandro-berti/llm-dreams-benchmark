@@ -141,6 +141,7 @@
 | arcee-aitrinity-large-previewfree | 5.533 |
 | minimaxminimax-m2.5 | 5.533 |
 | ChatGPT-5.1-Instant-20251113 | 5.500 |
+| meituanlongcat-2.0 | 5.500 |
 | ministral-3b-2410 | 5.500 |
 | openaigpt-5.2-codex | 5.500 |
 | phi4-reasoning | 5.417 |

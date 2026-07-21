@@ -90,6 +90,7 @@
 | openaigpt-5.2-codex | 7.800 |
 | qwenqwen3.7-plus | 7.783 |
 | gpt-5.5-2026-04-23 | 7.783 |
+| meituanlongcat-2.0 | 7.767 |
 | moonshotaikimi-k3 | 7.767 |
 | o3-2025-04-16 | 7.767 |
 | qwen3.635b-a3b | 7.767 |

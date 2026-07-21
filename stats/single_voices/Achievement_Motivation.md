@@ -170,6 +170,7 @@
 | GPT-5.5-Pro-20260422 | 8.150 |
 | Liquid-LFM2.5-350M | 8.150 |
 | ministral-3b-2512 | 8.150 |
+| meituanlongcat-2.0 | 8.133 |
 | nvidiaNVIDIA-Nemotron-3-Super-120B-A12B | 8.133 |
 | gemini-3-pro-preview | 8.117 |
 | talkie-1930-13b-it | 8.117 |

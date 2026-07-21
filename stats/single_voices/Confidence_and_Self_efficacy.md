@@ -120,6 +120,7 @@
 | inclusionailing-2.6-1tfree | 7.783 |
 | liquidlfm-2.5-1.2b-thinkingfree | 7.767 |
 | gemma-4-31b-it | 7.750 |
+| meituanlongcat-2.0 | 7.750 |
 | moonshotaikimi-k2.7-code | 7.750 |
 | gemini-1.5-flash-002 | 7.733 |
 | bytedance-seedseed-2.0-mini | 7.717 |

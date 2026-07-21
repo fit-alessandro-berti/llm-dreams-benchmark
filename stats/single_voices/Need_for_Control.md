@@ -118,6 +118,7 @@
 | o4-mini-2025-04-16 | 5.967 |
 | qwenqwen3-max | 5.967 |
 | qwen2.5-14b-instruct | 5.967 |
+| gemini-3.6-flash | 5.950 |
 | chatgpt-4o-latest-2025-03-26 | 5.950 |
 | openrouterowl-alpha | 5.950 |
 | arcee-aitrinity-large-previewfree | 5.933 |

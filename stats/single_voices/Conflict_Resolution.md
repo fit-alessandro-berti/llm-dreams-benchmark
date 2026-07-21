@@ -54,6 +54,7 @@
 | o1-2024-12-17 | 8.633 |
 | gpt-5-2025-08-07 | 8.633 |
 | o3-mini-20250131-HIGH | 8.633 |
+| gemini-3.6-flash | 8.617 |
 | gpt-5.3-codex-spark-low | 8.617 |
 | nousresearchhermes-4-405b | 8.617 |
 | openaigpt-5.4-mini | 8.617 |

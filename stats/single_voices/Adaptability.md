@@ -17,6 +17,7 @@
 | ibm-granitegranite-4.1-8b | 9.250 |
 | microsoftphi-4 | 9.250 |
 | qwen3.635b-a3b | 9.250 |
+| gemini-3.6-flash | 9.233 |
 | googlegemini-3.1-pro-preview | 9.233 |
 | gpt-5-nano-2025-08-07 | 9.233 |
 | gpt-5-pro-2025-10-06 | 9.233 |

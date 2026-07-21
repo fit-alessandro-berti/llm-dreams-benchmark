@@ -16,6 +16,7 @@
 | Grok-4.30-20260420 | 9.833 |
 | Grok-4.5-Heavy-20260720 | 9.833 |
 | qwenqwen3.7-plus | 9.833 |
+| gemini-3.6-flash | 9.817 |
 | grok-4.20-experimental-beta-0304-reasoning | 9.817 |
 | moonshotaikimi-k2.6 | 9.800 |
 | qwenqwen3-next-80b-a3b-instruct | 9.800 |

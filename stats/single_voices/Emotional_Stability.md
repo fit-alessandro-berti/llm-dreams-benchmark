@@ -110,6 +110,7 @@
 | gemini-3.5-flash | 7.200 |
 | claude-3-7-sonnet-20250219 | 7.183 |
 | falcon33b-instruct-q8_0 | 7.183 |
+| gemini-3.6-flash | 7.183 |
 | gpt-5-chat-latest-2025-08-19 | 7.183 |
 | inclusionailing-2.6-1tfree | 7.183 |
 | gpt-4-1106-preview | 7.167 |

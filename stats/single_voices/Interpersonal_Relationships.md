@@ -131,6 +131,7 @@
 | grok-4.20-experimental-beta-0304-reasoning | 7.567 |
 | qwen3.59b | 7.567 |
 | chatgpt-4o-latest-2025-03-26 | 7.533 |
+| gemini-3.6-flash | 7.533 |
 | openaigpt-5.4-nano | 7.533 |
 | x-aigrok-4.5 | 7.533 |
 | claude-haiku-4-5-20251001 | 7.517 |

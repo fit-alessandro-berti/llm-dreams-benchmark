@@ -95,6 +95,7 @@
 | phi4-reasoning | 8.983 |
 | gpt-4.1-2025-04-14 | 8.967 |
 | qwenqwen3.5-122b-a10b | 8.967 |
+| gemini-3.6-flash | 8.950 |
 | falcon37b-instruct-q8_0 | 8.933 |
 | meituanlongcat-2.0 | 8.933 |
 | grok-4.20-experimental-beta-0304-reasoning | 8.933 |

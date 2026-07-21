@@ -91,6 +91,7 @@
 | nvidiaLlama-3.1-Nemotron-70B-Instruct | 7.200 |
 | gemini-1.5-flash-002 | 7.183 |
 | anthropicclaude-fable-5 | 7.167 |
+| gemini-3.6-flash | 7.167 |
 | gemma-3-27b-it | 7.133 |
 | gemma-4-26b-a4b-it | 7.117 |
 | gemma-4-31b-it | 7.117 |

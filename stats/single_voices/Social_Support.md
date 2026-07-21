@@ -148,6 +148,7 @@
 | openaigpt-5.6-sol | 7.317 |
 | liquidlfm-2-24b-a2b | 7.300 |
 | meta-llamallama-4-scout | 7.300 |
+| gemini-3.6-flash | 7.267 |
 | Liquid-LFM2.5-350M | 7.267 |
 | moonshotaikimi-k2.5 | 7.267 |
 | claude-opus-4-5-20251101 | 7.250 |

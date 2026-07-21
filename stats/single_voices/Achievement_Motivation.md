@@ -107,6 +107,7 @@
 | gpt-5-nano-2025-08-07 | 8.500 |
 | openaigpt-5.4 | 8.500 |
 | phi4-reasoningplus | 8.500 |
+| gemini-3.6-flash | 8.483 |
 | phi33.8b | 8.483 |
 | openaigpt-5.4-mini | 8.483 |
 | poolsidelaguna-xs.2free | 8.483 |

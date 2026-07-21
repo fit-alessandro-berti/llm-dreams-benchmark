@@ -100,6 +100,7 @@
 | gemini-3-flash-preview | 7.367 |
 | gemma-4-31b-it | 7.350 |
 | anthropicclaude-opus-4.1 | 7.333 |
+| gemini-3.6-flash | 7.333 |
 | Grok-3-beta-thinking-20250303 | 7.333 |
 | poolsidelaguna-m.1free | 7.333 |
 | liquidlfm-2-24b-a2b | 7.317 |

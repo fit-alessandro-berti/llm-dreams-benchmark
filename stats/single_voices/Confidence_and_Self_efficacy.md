@@ -66,6 +66,7 @@
 | llama213b | 8.217 |
 | minimaxminimax-m2.5 | 8.217 |
 | xiaomimimo-v2.5 | 8.200 |
+| gemini-3.6-flash | 8.183 |
 | gpt-4o-mini-2024-07-18 | 8.183 |
 | Grok-4-fast-20251111 | 8.167 |
 | granite4micro-h | 8.150 |

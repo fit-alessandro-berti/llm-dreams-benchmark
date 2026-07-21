@@ -115,6 +115,7 @@
 | Grok-3-beta-thinking-20250303 | 7.900 |
 | googlegemini-3.1-flash-lite-preview | 7.900 |
 | Qwen-3.6-27B | 7.900 |
+| gemini-3.6-flash | 7.867 |
 | minimaxminimax-m2.5 | 7.850 |
 | o1-2024-12-05 | 7.833 |
 | gpt-4-1106-preview | 7.833 |

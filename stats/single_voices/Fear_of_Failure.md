@@ -98,6 +98,7 @@
 | gemini-1.5-flash-002 | 6.367 |
 | bytedance-seedseed-2.0-mini | 6.367 |
 | ai21jamba-large-1.7 | 6.350 |
+| gemini-3.6-flash | 6.333 |
 | gpt-4-1106-preview | 6.333 |
 | chatgpt-4o-latest-2025-03-26 | 6.267 |
 | gemma-4-31b-it | 6.267 |

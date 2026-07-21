@@ -82,6 +82,7 @@
 | openaigpt-5.4-mini | 8.700 |
 | gpt-4.1-2025-04-14 | 8.700 |
 | nvidiaNemotron-3-Nano-Omni-30B-A3B-Reasoning | 8.700 |
+| gemini-3.6-flash | 8.683 |
 | x-aigrok-4.5 | 8.683 |
 | llama213b | 8.683 |
 | gpt-4.1-nano-2025-04-14 | 8.667 |

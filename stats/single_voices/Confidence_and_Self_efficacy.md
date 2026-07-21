@@ -104,6 +104,7 @@
 | gemini-3.5-flash | 7.883 |
 | ai21jamba-large-1.7 | 7.883 |
 | gemini-1.5-flash-8b | 7.883 |
+| gemini-3.5-flash-lite | 7.883 |
 | qwen3.59b | 7.867 |
 | qwenqwen3-30b-a3b-instruct-2507 | 7.867 |
 | thinkingmachinesinkling | 7.867 |

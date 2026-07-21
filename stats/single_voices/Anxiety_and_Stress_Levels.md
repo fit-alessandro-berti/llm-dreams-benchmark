@@ -75,6 +75,7 @@
 | googlegemini-3.1-pro-preview | 7.417 |
 | grok-4-1-fast-reasoning | 7.400 |
 | z-aiglm-5.1 | 7.383 |
+| gemini-3.5-flash-lite | 7.350 |
 | chatgpt-4o-latest-2025-04-26 | 7.350 |
 | gemini-3.5-flash | 7.317 |
 | grok-4-1-fast-non-reasoning | 7.317 |

@@ -98,6 +98,7 @@
 | falcon33b-instruct-q8_0 | 7.367 |
 | amazonnova-2-lite-v1 | 7.367 |
 | gemini-3-flash-preview | 7.367 |
+| gemini-3.5-flash-lite | 7.367 |
 | gemma-4-31b-it | 7.350 |
 | anthropicclaude-opus-4.1 | 7.333 |
 | gemini-3.6-flash | 7.333 |

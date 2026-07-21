@@ -108,6 +108,7 @@
 | gemma-3-27b-it | 8.000 |
 | amazonnova-2-lite-v1 | 7.983 |
 | gemini-2.5-flash-lite | 7.983 |
+| gemini-3.5-flash-lite | 7.967 |
 | openaigpt-5.6-terra | 7.967 |
 | ai21jamba-large-1.7 | 7.933 |
 | talkie-1930-13b-it | 7.933 |

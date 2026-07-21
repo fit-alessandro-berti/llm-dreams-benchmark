@@ -153,6 +153,7 @@
 | moonshotaikimi-k2.5 | 7.267 |
 | claude-opus-4-5-20251101 | 7.250 |
 | qwenqwen3.5-27b | 7.250 |
+| gemini-3.5-flash-lite | 7.250 |
 | gemini-2.5-pro-preview-06-05 | 7.233 |
 | prime-intellectintellect-3 | 7.233 |
 | gemini-3.5-flash | 7.217 |

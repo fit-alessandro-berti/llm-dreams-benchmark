@@ -122,6 +122,7 @@
 | qwenqwen3-30b-a3b-instruct-2507 | 7.067 |
 | allenaiolmo-3-7b-instruct | 7.050 |
 | deepseekdeepseek-v4-pro | 7.033 |
+| gemini-3.5-flash-lite | 7.033 |
 | ai21jamba-large-1.7 | 7.017 |
 | liquidlfm-2.5-1.2b-thinkingfree | 7.017 |
 | openaigpt-5.4-pro | 7.017 |

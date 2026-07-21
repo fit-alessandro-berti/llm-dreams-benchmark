@@ -90,6 +90,7 @@
 | x-aigrok-4.5 | 9.050 |
 | claude-haiku-4-5-20251001 | 9.033 |
 | gemini-1.5-flash-002 | 9.033 |
+| gemini-3.5-flash-lite | 9.033 |
 | gpt-3.5-turbo | 9.033 |
 | meituanlongcat-2.0 | 9.033 |
 | qwenqwen3.5-27b | 9.033 |

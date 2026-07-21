@@ -66,6 +66,7 @@
 | anthropicclaude-sonnet-5 | 6.850 |
 | mistral-medium-3.5 | 6.833 |
 | Liquid-LFM2.5-350M | 6.817 |
+| gemini-3.5-flash-lite | 6.800 |
 | grok-4-1-fast-reasoning | 6.800 |
 | anthropicclaude-opus-4.1 | 6.783 |
 | moonshotaikimi-k2.5 | 6.783 |

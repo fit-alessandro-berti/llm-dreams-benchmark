@@ -127,6 +127,7 @@
 | qwenqwen3.5-122b-a10b | 8.250 |
 | qwenqwen3.7-plus | 8.233 |
 | openrouterowl-alpha | 8.233 |
+| gemini-3.5-flash-lite | 8.217 |
 | openaigpt-5.6-sol | 8.200 |
 | poolsidelaguna-m.1free | 8.200 |
 | Grok-4-fast-20251111 | 8.183 |

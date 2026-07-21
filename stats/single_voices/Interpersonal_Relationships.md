@@ -159,6 +159,7 @@
 | gemini-3.5-flash | 7.333 |
 | gemma-4-31b-it | 7.333 |
 | gpt-5-chat-latest-2025-08-19 | 7.333 |
+| gemini-3.5-flash-lite | 7.317 |
 | gpt-5.2-2025-12-11 | 7.300 |
 | moonshotaikimi-k2.5 | 7.300 |
 | gpt-5.2-pro-2025-12-11 | 7.283 |

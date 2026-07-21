@@ -113,6 +113,7 @@
 | gpt-5-chat-latest-2025-08-19 | 6.017 |
 | allenaiolmo-3-7b-instruct | 6.000 |
 | granite3.28b-instruct-q4_K_M | 5.983 |
+| gemini-3.5-flash-lite | 5.983 |
 | phi3.53.8b-mini-instruct-fp16 | 5.983 |
 | poolsidelaguna-xs.2free | 5.983 |
 | o4-mini-2025-04-16 | 5.967 |

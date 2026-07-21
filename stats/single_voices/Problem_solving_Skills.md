@@ -169,6 +169,7 @@
 | meta-llamaLlama-3.2-3B-Instruct | 8.333 |
 | phi4-reasoning | 8.333 |
 | qwen3.59b | 8.333 |
+| gemini-3.5-flash-lite | 8.317 |
 | z-aiglm-5.1 | 8.300 |
 | ministral-8b-2512 | 8.283 |
 | smollm21.7b-instruct-q6_K | 8.283 |

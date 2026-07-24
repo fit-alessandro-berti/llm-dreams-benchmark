@@ -114,6 +114,7 @@
 | anthropicclaude-opus-4.6 | 8.983 |
 | arcee-aitrinity-large-previewfree | 8.983 |
 | gemini-1.5-flash-8b | 8.983 |
+| anthropicclaude-opus-5 | 8.967 |
 | gemma-3-27b-it | 8.967 |
 | googlegemini-3.1-flash-lite-preview | 8.967 |
 | gpt-4.1-nano-2025-04-14 | 8.967 |

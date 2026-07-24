@@ -47,6 +47,7 @@
 | nvidianemotron-3-ultra-550b-a55bfree | 9.733 |
 | openaigpt-5.4 | 9.733 |
 | x-aigrok-4.5 | 9.733 |
+| anthropicclaude-opus-5 | 9.717 |
 | gemma4e2b | 9.717 |
 | gemma4e4b | 9.717 |
 | GPT-5.5-Pro-20260422 | 9.717 |

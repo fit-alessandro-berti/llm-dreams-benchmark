@@ -161,6 +161,7 @@
 | ibmgranite41b-h | **397.0** | 7.5 $\pm$ 0.0 | 6.4 $\pm$ 0.2 | 8.5 $\pm$ 0.0 | 9.0 $\pm$ 0.0 | 7.2 $\pm$ 0.4 | 7.6 $\pm$ 0.4 | 7.6 $\pm$ 0.2 | 8.6 $\pm$ 0.4 | 8.8 $\pm$ 0.2 | 8.8 $\pm$ 0.2 | 6.4 $\pm$ 0.4 | 7.2 $\pm$ 0.4 | 8.2 $\pm$ 0.2 | 7.1 $\pm$ 1.0 | 9.0 $\pm$ 0.0 |
 | allenaiolmo-3-7b-think | **397.0** | 8.0 $\pm$ 0.5 | 6.1 $\pm$ 0.2 | 9.0 $\pm$ 0.0 | 9.5 $\pm$ 0.0 | 7.9 $\pm$ 0.2 | 7.9 $\pm$ 0.6 | 7.2 $\pm$ 0.4 | 8.1 $\pm$ 0.4 | 9.0 $\pm$ 0.0 | 9.2 $\pm$ 0.4 | 6.9 $\pm$ 0.4 | 7.6 $\pm$ 0.4 | 8.4 $\pm$ 0.2 | 7.2 $\pm$ 0.2 | 8.9 $\pm$ 0.2 |
 | claude-opus-4-5-20251101 | **396.5** | 8.0 $\pm$ 0.5 | 6.0 $\pm$ 0.0 | 9.0 $\pm$ 0.0 | 9.6 $\pm$ 0.2 | 8.0 $\pm$ 0.5 | 7.2 $\pm$ 0.4 | 8.1 $\pm$ 0.2 | 8.1 $\pm$ 0.6 | 9.1 $\pm$ 0.2 | 8.5 $\pm$ 0.4 | 6.9 $\pm$ 0.4 | 7.0 $\pm$ 0.4 | 8.9 $\pm$ 0.6 | 7.5 $\pm$ 0.8 | 8.6 $\pm$ 0.4 |
+| anthropicclaude-opus-5 | **396.5** | 8.0 $\pm$ 0.5 | 6.0 $\pm$ 0.0 | 8.9 $\pm$ 0.2 | 9.5 $\pm$ 0.0 | 8.1 $\pm$ 0.2 | 7.0 $\pm$ 0.0 | 8.4 $\pm$ 0.2 | 8.5 $\pm$ 0.6 | 9.2 $\pm$ 0.2 | 8.1 $\pm$ 0.2 | 7.2 $\pm$ 0.8 | 7.2 $\pm$ 0.2 | 8.9 $\pm$ 0.2 | 7.8 $\pm$ 0.6 | 9.0 $\pm$ 0.0 |
 | anthropicclaude-opus-4.1 | **396.0** | 8.0 $\pm$ 0.5 | 6.2 $\pm$ 0.4 | 8.8 $\pm$ 0.2 | 9.5 $\pm$ 0.0 | 8.0 $\pm$ 0.0 | 7.0 $\pm$ 0.4 | 8.4 $\pm$ 0.2 | 7.5 $\pm$ 0.4 | 9.0 $\pm$ 0.0 | 8.2 $\pm$ 0.2 | 6.6 $\pm$ 0.4 | 5.9 $\pm$ 0.6 | 9.2 $\pm$ 0.2 | 7.5 $\pm$ 0.0 | 8.6 $\pm$ 0.2 |
 | meta-llamaLlama-3.2-3B-Instruct | **395.0** | 8.2 $\pm$ 0.4 | 6.4 $\pm$ 0.2 | 8.9 $\pm$ 0.2 | 9.4 $\pm$ 0.2 | 7.8 $\pm$ 0.4 | 7.5 $\pm$ 0.0 | 7.5 $\pm$ 1.1 | 8.6 $\pm$ 0.4 | 8.9 $\pm$ 0.2 | 9.4 $\pm$ 0.2 | 6.9 $\pm$ 0.2 | 7.8 $\pm$ 0.4 | 8.5 $\pm$ 0.0 | 7.4 $\pm$ 0.2 | 8.5 $\pm$ 0.5 |
 | meta-llamaLlama-3.3-70B-Instruct | **394.5** | 8.0 $\pm$ 0.5 | 6.2 $\pm$ 0.2 | 8.2 $\pm$ 0.2 | 9.0 $\pm$ 0.0 | 8.0 $\pm$ 0.4 | 7.0 $\pm$ 0.0 | 8.4 $\pm$ 0.2 | 8.5 $\pm$ 0.5 | 9.0 $\pm$ 0.4 | 9.4 $\pm$ 0.2 | 7.0 $\pm$ 1.0 | 7.5 $\pm$ 0.0 | 8.6 $\pm$ 0.2 | 7.2 $\pm$ 0.4 | 8.8 $\pm$ 0.2 |
@@ -4353,6 +4354,32 @@
 | Cognitive Load | 8.9 $\pm$ 0.6 |
 | Social Support | 7.5 $\pm$ 0.8 |
 | Resilience | 8.6 $\pm$ 0.4 |
+
+
+
+
+
+
+### anthropicclaude-opus-5
+
+
+| Personality Trait | Score (1.0-10.0) |
+| --- | --- |
+| Anxiety and Stress Levels | 8.0 $\pm$ 0.5 |
+| Emotional Stability | 6.0 $\pm$ 0.0 |
+| Problem-solving Skills | 8.9 $\pm$ 0.2 |
+| Creativity | 9.5 $\pm$ 0.0 |
+| Interpersonal Relationships | 8.1 $\pm$ 0.2 |
+| Confidence and Self-efficacy | 7.0 $\pm$ 0.0 |
+| Conflict Resolution | 8.4 $\pm$ 0.2 |
+| Work-related Stress | 8.5 $\pm$ 0.6 |
+| Adaptability | 9.2 $\pm$ 0.2 |
+| Achievement Motivation | 8.1 $\pm$ 0.2 |
+| Fear of Failure | 7.2 $\pm$ 0.8 |
+| Need for Control | 7.2 $\pm$ 0.2 |
+| Cognitive Load | 8.9 $\pm$ 0.2 |
+| Social Support | 7.8 $\pm$ 0.6 |
+| Resilience | 9.0 $\pm$ 0.0 |
 
 
 

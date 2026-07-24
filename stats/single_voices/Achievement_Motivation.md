@@ -217,6 +217,7 @@
 | claude-opus-4-7 | 7.467 |
 | qwen3.50.8b | 7.400 |
 | anthropicclaude-opus-4.1 | 7.383 |
+| anthropicclaude-opus-5 | 7.317 |
 | bytedance-seedseed-2.0-lite | 7.317 |
 | claude-haiku-4-5-20251001 | 7.300 |
 | claude-opus-4-8 | 7.283 |

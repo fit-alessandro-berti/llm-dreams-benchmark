@@ -48,6 +48,7 @@
 | Grok-4.30-20260420 | 8.200 |
 | o1-2024-12-17 | 8.200 |
 | gpt-4.1-mini-2025-04-14 | 8.200 |
+| anthropicclaude-opus-5 | 8.183 |
 | Meta-Muse-Spark-20260409 | 8.183 |
 | nvidiaLlama-3.1-Nemotron-70B-Instruct | 8.183 |
 | granite4micro | 8.183 |

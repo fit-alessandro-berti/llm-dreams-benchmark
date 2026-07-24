@@ -88,6 +88,7 @@
 | poolsidelaguna-m.1free | 6.550 |
 | gemini-1.5-flash-8b | 6.533 |
 | qwenqwen3-30b-a3b-instruct-2507 | 6.533 |
+| anthropicclaude-opus-5 | 6.500 |
 | gemma-4-26b-a4b-it | 6.500 |
 | inclusionailing-2.6-1tfree | 6.450 |
 | nousresearchhermes-4-70b | 6.450 |

@@ -8052,6 +8052,72 @@
     }
   },
   {
+    "LLM": "anthropicclaude-opus-5",
+    "MHS": 409.4,
+    "scores": {
+      "Anxiety and Stress Levels": {
+        "mean": 6.7,
+        "std": 1.8
+      },
+      "Emotional Stability": {
+        "mean": 7.1,
+        "std": 0.8
+      },
+      "Problem-solving Skills": {
+        "mean": 8.5,
+        "std": 0.4
+      },
+      "Creativity": {
+        "mean": 9.7,
+        "std": 0.2
+      },
+      "Interpersonal Relationships": {
+        "mean": 8.2,
+        "std": 0.3
+      },
+      "Confidence and Self-efficacy": {
+        "mean": 7.1,
+        "std": 0.4
+      },
+      "Conflict Resolution": {
+        "mean": 8.5,
+        "std": 0.4
+      },
+      "Work-related Stress": {
+        "mean": 7.2,
+        "std": 1.7
+      },
+      "Adaptability": {
+        "mean": 9.0,
+        "std": 0.3
+      },
+      "Achievement Motivation": {
+        "mean": 7.3,
+        "std": 0.8
+      },
+      "Fear of Failure": {
+        "mean": 6.5,
+        "std": 1.8
+      },
+      "Need for Control": {
+        "mean": 5.9,
+        "std": 1.8
+      },
+      "Cognitive Load": {
+        "mean": 8.0,
+        "std": 1.6
+      },
+      "Social Support": {
+        "mean": 8.0,
+        "std": 0.5
+      },
+      "Resilience": {
+        "mean": 8.8,
+        "std": 0.3
+      }
+    }
+  },
+  {
     "LLM": "openaigpt-5.4-pro",
     "MHS": 408.8,
     "scores": {

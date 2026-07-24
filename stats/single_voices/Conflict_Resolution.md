@@ -83,6 +83,7 @@
 | xiaomimimo-v2-omni | 8.500 |
 | gemma-3-27b-it | 8.483 |
 | granite4micro-h | 8.483 |
+| anthropicclaude-opus-5 | 8.483 |
 | granite4tiny-h | 8.483 |
 | open-mixtral-8x7b | 8.483 |
 | arcee-aitrinity-large-previewfree | 8.467 |

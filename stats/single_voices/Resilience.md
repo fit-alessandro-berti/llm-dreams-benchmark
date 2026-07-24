@@ -119,6 +119,7 @@
 | liquidlfm-2.5-1.2b-thinkingfree | 8.850 |
 | nousresearchhermes-4-70b | 8.850 |
 | xiaomimimo-v2-omni | 8.850 |
+| anthropicclaude-opus-5 | 8.833 |
 | gemini-3.5-flash | 8.833 |
 | openaigpt-5.6-sol | 8.833 |
 | phi2.7b | 8.833 |

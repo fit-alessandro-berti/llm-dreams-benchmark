@@ -114,6 +114,7 @@
 | gpt-5-chat-latest-2025-08-19 | 7.183 |
 | inclusionailing-2.6-1tfree | 7.183 |
 | gpt-4-1106-preview | 7.167 |
+| anthropicclaude-opus-5 | 7.150 |
 | Qwen-3.6-27B | 7.133 |
 | gemini-2.5-flash-lite | 7.117 |
 | gemini-1.5-flash-002 | 7.083 |

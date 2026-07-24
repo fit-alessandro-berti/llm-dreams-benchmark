@@ -135,6 +135,7 @@
 | gpt-5-chat-latest-2025-08-19 | 8.517 |
 | gemma-3-27b-it | 8.500 |
 | openaigpt-5.6-sol | 8.483 |
+| anthropicclaude-opus-5 | 8.483 |
 | gemini-3-flash-preview | 8.467 |
 | Gpt-5.1-Pro-20251120 | 8.467 |
 | moonshotaikimi-k2.7-code | 8.467 |

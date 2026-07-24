@@ -110,6 +110,7 @@
 | gemini-2.5-flash-lite | 7.983 |
 | gemini-3.5-flash-lite | 7.967 |
 | openaigpt-5.6-terra | 7.967 |
+| anthropicclaude-opus-5 | 7.950 |
 | ai21jamba-large-1.7 | 7.933 |
 | talkie-1930-13b-it | 7.933 |
 | gpt-5-chat-latest-2025-08-19 | 7.933 |

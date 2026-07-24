@@ -179,6 +179,7 @@
 | minimaxminimax-m3 | 7.150 |
 | z-aiglm-5.1 | 7.150 |
 | tencenthy3-previewfree | 7.133 |
+| anthropicclaude-opus-5 | 7.117 |
 | z-aiglm-5.2 | 7.117 |
 | bytedance-seedseed-2.0-lite | 7.100 |
 | Gpt-5.1-Pro-20251120 | 7.100 |

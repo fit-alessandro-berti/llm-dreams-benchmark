@@ -109,6 +109,7 @@
 | claude-3-7-sonnet-20250219 | 7.267 |
 | gemini-2.5-pro-preview-06-05 | 7.233 |
 | qwenqwen3.5-35b-a3b | 7.217 |
+| anthropicclaude-opus-5 | 7.200 |
 | allenaiolmo-3-7b-instruct | 7.183 |
 | qwenqwen3-30b-a3b-instruct-2507 | 7.183 |
 | anthropicclaude-opus-4.6 | 7.067 |

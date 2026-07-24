@@ -129,6 +129,7 @@
 | open-mixtral-8x7b | 5.900 |
 | falcon310b-instruct-q8_0 | 5.883 |
 | Qwen-3.6-27B | 5.867 |
+| anthropicclaude-opus-5 | 5.850 |
 | gpt-5-2025-08-07 | 5.850 |
 | baiduernie-4.5-300b-a47b | 5.850 |
 | gemini-1.5-flash-002 | 5.833 |

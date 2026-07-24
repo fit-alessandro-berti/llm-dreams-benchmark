@@ -120,6 +120,7 @@
 | claude-opus-4-5-20251101 | 6.833 |
 | falcon33b-instruct-q8_0 | 6.833 |
 | allenaiolmo-3-7b-instruct | 6.783 |
+| anthropicclaude-opus-5 | 6.750 |
 | bytedance-seedseed-2.0-mini | 6.750 |
 | o1-2024-12-05 | 6.750 |
 | Qwen-3.6-27B | 6.750 |

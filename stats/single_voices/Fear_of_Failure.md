@@ -217,6 +217,7 @@
 | falcon37b-instruct-q8_0 | 3.700 |
 | granite4small-h | 3.683 |
 | Grok-4.3-20260530 | 3.683 |
+| deepseekdeepseek-v4-flash-0731 | 3.583 |
 | qwen2.5-14b-instruct | 3.583 |
 | open-mistral-7b | 3.550 |
 | open-mixtral-8x7b | 3.500 |

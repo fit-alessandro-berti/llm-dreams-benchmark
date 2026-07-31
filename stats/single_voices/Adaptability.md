@@ -41,6 +41,7 @@
 | Grok-4.30-20260420 | 9.183 |
 | o1-preview-2024-09-12 | 9.183 |
 | open-mistral-7b | 9.183 |
+| deepseekdeepseek-v4-flash-0731 | 9.167 |
 | gpt-4-0125-preview | 9.167 |
 | gpt-4-0613 | 9.167 |
 | grok-2-1212 | 9.167 |

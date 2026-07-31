@@ -15,6 +15,7 @@
 | microsoftphi-4 | 8.900 |
 | microsoftWizardLM-2-8x22B | 8.883 |
 | xiaomimimo-v2.5 | 8.883 |
+| deepseekdeepseek-v4-flash-0731 | 8.867 |
 | granite4.130b | 8.850 |
 | nvidiaNVIDIA-Nemotron-3-Super-120B-A12B | 8.850 |
 | qwenqwen3.6-plusfree | 8.833 |

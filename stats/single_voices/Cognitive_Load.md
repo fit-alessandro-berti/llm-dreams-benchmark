@@ -221,5 +221,6 @@
 | xiaomimimo-v2-pro | 6.633 |
 | gpt-5-nano-2025-08-07 | 6.567 |
 | xiaomimimo-v2.5-pro | 6.500 |
+| deepseekdeepseek-v4-flash-0731 | 6.333 |
 | gpt-4.5-preview | 5.967 |
 | qwenqwen3.6-plusfree | 5.750 |

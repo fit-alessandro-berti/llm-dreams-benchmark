@@ -222,4 +222,5 @@
 | open-mixtral-8x7b | 4.783 |
 | xiaomimimo-v2-pro | 4.650 |
 | gpt-4.5-preview | 4.567 |
+| deepseekdeepseek-v4-flash-0731 | 4.167 |
 | qwenqwen3.6-plusfree | 3.983 |

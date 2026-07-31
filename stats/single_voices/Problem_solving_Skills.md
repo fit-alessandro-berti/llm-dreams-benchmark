@@ -141,6 +141,7 @@
 | moonshotaikimi-k2.7-code | 8.467 |
 | qwenqwen3.5-plus-02-15 | 8.467 |
 | qwenqwen3.6-plusfree | 8.467 |
+| deepseekdeepseek-v4-flash-0731 | 8.450 |
 | liquidlfm-2.5-1.2b-thinkingfree | 8.450 |
 | metamuse-spark-1.1 | 8.450 |
 | moonshotaikimi-k2.5 | 8.450 |

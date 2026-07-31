@@ -84,6 +84,7 @@
 | amazonnova-2-lite-v1 | 7.867 |
 | meta-llamaMeta-Llama-3.1-405B-Instruct | 7.867 |
 | o1-pro-2024-12-05 | 7.850 |
+| deepseekdeepseek-v4-flash-0731 | 7.833 |
 | stepfunstep-3.7-flash | 7.833 |
 | GPT-5.5-Pro-20260422 | 7.817 |
 | Grok-3-beta-thinking-20250303 | 7.817 |

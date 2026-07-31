@@ -27,6 +27,7 @@
 | gpt-4-turbo-2024-04-09 | **448.1** | 4.9 $\pm$ 1.2 | 8.2 $\pm$ 0.3 | 9.0 $\pm$ 0.2 | 9.6 $\pm$ 0.2 | 8.4 $\pm$ 0.3 | 8.5 $\pm$ 0.3 | 8.5 $\pm$ 0.3 | 5.3 $\pm$ 1.1 | 9.2 $\pm$ 0.2 | 8.8 $\pm$ 0.3 | 4.2 $\pm$ 1.2 | 5.0 $\pm$ 1.3 | 6.9 $\pm$ 1.1 | 8.3 $\pm$ 0.3 | 9.1 $\pm$ 0.2 |
 | qwen2.5-7b-instruct | **447.8** | 4.9 $\pm$ 1.4 | 8.2 $\pm$ 0.5 | 9.1 $\pm$ 0.2 | 9.3 $\pm$ 0.3 | 8.5 $\pm$ 0.4 | 8.6 $\pm$ 0.4 | 8.9 $\pm$ 0.3 | 5.7 $\pm$ 1.3 | 9.2 $\pm$ 0.3 | 8.9 $\pm$ 0.4 | 4.0 $\pm$ 1.5 | 6.2 $\pm$ 1.0 | 7.3 $\pm$ 1.1 | 8.6 $\pm$ 0.4 | 9.2 $\pm$ 0.2 |
 | open-mixtral-8x7b | **447.2** | 4.5 $\pm$ 0.9 | 8.3 $\pm$ 0.2 | 9.0 $\pm$ 0.2 | 9.4 $\pm$ 0.2 | 8.2 $\pm$ 0.3 | 8.8 $\pm$ 0.3 | 8.5 $\pm$ 0.3 | 4.8 $\pm$ 1.2 | 9.2 $\pm$ 0.2 | 9.0 $\pm$ 0.3 | 3.5 $\pm$ 1.1 | 5.9 $\pm$ 1.2 | 6.8 $\pm$ 1.1 | 8.3 $\pm$ 0.3 | 9.2 $\pm$ 0.2 |
+| deepseekdeepseek-v4-flash-0731 | **446.6** | 4.3 $\pm$ 1.3 | 8.2 $\pm$ 0.4 | 8.4 $\pm$ 0.4 | 9.7 $\pm$ 0.2 | 8.1 $\pm$ 0.2 | 8.4 $\pm$ 0.3 | 8.9 $\pm$ 0.2 | 4.2 $\pm$ 1.5 | 9.2 $\pm$ 0.3 | 8.1 $\pm$ 0.6 | 3.6 $\pm$ 1.4 | 4.2 $\pm$ 1.0 | 6.3 $\pm$ 1.5 | 7.8 $\pm$ 0.3 | 9.1 $\pm$ 0.3 |
 | liquidlfm2-8b-a1b | **446.1** | 5.0 $\pm$ 1.4 | 8.2 $\pm$ 0.3 | 8.8 $\pm$ 0.2 | 9.6 $\pm$ 0.2 | 8.1 $\pm$ 0.3 | 8.7 $\pm$ 0.3 | 8.3 $\pm$ 0.5 | 5.6 $\pm$ 1.3 | 9.1 $\pm$ 0.2 | 8.9 $\pm$ 0.4 | 3.9 $\pm$ 1.2 | 5.0 $\pm$ 1.1 | 7.2 $\pm$ 1.2 | 8.1 $\pm$ 0.3 | 9.2 $\pm$ 0.2 |
 | gpt-4o-2024-05-13 | **446.0** | 4.8 $\pm$ 1.3 | 8.1 $\pm$ 0.3 | 9.0 $\pm$ 0.2 | 9.6 $\pm$ 0.2 | 8.4 $\pm$ 0.3 | 8.4 $\pm$ 0.3 | 8.8 $\pm$ 0.3 | 5.5 $\pm$ 1.3 | 9.2 $\pm$ 0.2 | 8.7 $\pm$ 0.3 | 4.4 $\pm$ 1.3 | 5.6 $\pm$ 1.1 | 6.9 $\pm$ 1.1 | 8.4 $\pm$ 0.3 | 9.1 $\pm$ 0.2 |
 | microsoftWizardLM-2-8x22B | **445.9** | 5.3 $\pm$ 1.3 | 8.1 $\pm$ 0.3 | 9.1 $\pm$ 0.1 | 9.5 $\pm$ 0.2 | 8.4 $\pm$ 0.2 | 8.7 $\pm$ 0.3 | 8.9 $\pm$ 0.3 | 5.6 $\pm$ 1.4 | 9.3 $\pm$ 0.2 | 9.0 $\pm$ 0.3 | 4.4 $\pm$ 1.3 | 5.7 $\pm$ 1.2 | 7.2 $\pm$ 1.0 | 8.4 $\pm$ 0.3 | 9.3 $\pm$ 0.2 |
@@ -870,6 +871,32 @@
 | Cognitive Load | 6.8 $\pm$ 1.1 |
 | Social Support | 8.3 $\pm$ 0.3 |
 | Resilience | 9.2 $\pm$ 0.2 |
+
+
+
+
+
+
+### deepseekdeepseek-v4-flash-0731
+
+
+| Personality Trait | Score (1.0-10.0) |
+| --- | --- |
+| Anxiety and Stress Levels | 4.3 $\pm$ 1.3 |
+| Emotional Stability | 8.2 $\pm$ 0.4 |
+| Problem-solving Skills | 8.4 $\pm$ 0.4 |
+| Creativity | 9.7 $\pm$ 0.2 |
+| Interpersonal Relationships | 8.1 $\pm$ 0.2 |
+| Confidence and Self-efficacy | 8.4 $\pm$ 0.3 |
+| Conflict Resolution | 8.9 $\pm$ 0.2 |
+| Work-related Stress | 4.2 $\pm$ 1.5 |
+| Adaptability | 9.2 $\pm$ 0.3 |
+| Achievement Motivation | 8.1 $\pm$ 0.6 |
+| Fear of Failure | 3.6 $\pm$ 1.4 |
+| Need for Control | 4.2 $\pm$ 1.0 |
+| Cognitive Load | 6.3 $\pm$ 1.5 |
+| Social Support | 7.8 $\pm$ 0.3 |
+| Resilience | 9.1 $\pm$ 0.3 |
 
 
 

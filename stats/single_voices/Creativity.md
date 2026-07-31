@@ -57,6 +57,7 @@
 | granite4.130b | 9.717 |
 | anthropicclaude-opus-4.6 | 9.700 |
 | claude-opus-4-7 | 9.700 |
+| deepseekdeepseek-v4-flash-0731 | 9.700 |
 | gpt-5-pro-2025-10-06 | 9.700 |
 | gpt-5.5-2026-04-23 | 9.700 |
 | qwen3.54b | 9.700 |

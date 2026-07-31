@@ -217,6 +217,7 @@
 | open-mixtral-8x22b | 4.550 |
 | open-mixtral-8x7b | 4.500 |
 | falcon37b-instruct-q8_0 | 4.367 |
+| deepseekdeepseek-v4-flash-0731 | 4.333 |
 | o3-pro-2025-06-10 | 4.333 |
 | granite4small-h | 4.300 |
 | microsoftphi-4 | 4.300 |

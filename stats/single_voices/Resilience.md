@@ -51,6 +51,7 @@
 | gpt-5-2025-08-07 | 9.133 |
 | openaigpt-oss-120b | 9.133 |
 | deepseekdeepseek-v3.2 | 9.117 |
+| deepseekdeepseek-v4-flash-0731 | 9.117 |
 | gpt-4-turbo-2024-04-09 | 9.117 |
 | gpt-4o-2024-05-13 | 9.117 |
 | gpt-4o-mini-2024-07-18 | 9.117 |

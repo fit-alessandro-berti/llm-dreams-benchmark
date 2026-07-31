@@ -38,6 +38,7 @@
 | deepseekdeepseek-v3.2 | 8.467 |
 | qwen2.5-32b-instruct | 8.450 |
 | phi4-reasoningplus | 8.433 |
+| deepseekdeepseek-v4-flash-0731 | 8.417 |
 | gpt-4o-2024-05-13 | 8.417 |
 | gpt-4o-2024-08-06 | 8.383 |
 | granite4.130b | 8.383 |

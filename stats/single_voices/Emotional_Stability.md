@@ -33,6 +33,7 @@
 | gpt-5-mini-2025-08-07 | 8.150 |
 | grok-2-1212 | 8.150 |
 | qwen2.5-7b-instruct | 8.150 |
+| deepseekdeepseek-v4-flash-0731 | 8.150 |
 | falcon37b-instruct-q8_0 | 8.133 |
 | gpt-4.1-mini-2025-04-14 | 8.133 |
 | gpt-4o-2024-05-13 | 8.117 |

@@ -73,6 +73,7 @@
 | o1-pro-2024-12-05 | 9.083 |
 | Qwen-3.6-Max-Preview | 9.083 |
 | qwenqwen3.7-flash | 9.083 |
+| thinkingmachinesinkling-small | 9.083 |
 | gemini-3-flash-preview | 9.083 |
 | granite4micro-h | 9.067 |
 | nousresearchhermes-4-405b | 9.067 |

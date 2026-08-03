@@ -20,6 +20,7 @@
 | grok-4.20-experimental-beta-0304-reasoning | 9.817 |
 | moonshotaikimi-k2.6 | 9.800 |
 | qwenqwen3-next-80b-a3b-instruct | 9.800 |
+| thinkingmachinesinkling-small | 9.800 |
 | gemini-3-pro-preview | 9.783 |
 | openaigpt-oss-120b | 9.783 |
 | qwenqwen3.5-122b-a10b | 9.783 |

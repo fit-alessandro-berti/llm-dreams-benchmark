@@ -121,6 +121,7 @@
 | ChatGPT-5.1-Instant-20251113 | 7.800 |
 | gemini-3-flash-preview | 7.800 |
 | gpt-5-chat-latest-2025-08-19 | 7.800 |
+| thinkingmachinesinkling-small | 7.800 |
 | inclusionailing-2.6-1tfree | 7.783 |
 | liquidlfm-2.5-1.2b-thinkingfree | 7.767 |
 | gemma-4-31b-it | 7.750 |

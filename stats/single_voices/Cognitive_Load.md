@@ -168,6 +168,7 @@
 | moonshotaikimi-k2.7-code | 7.383 |
 | granite4.130b | 7.367 |
 | qwenqwen3.5-plus-02-15 | 7.367 |
+| thinkingmachinesinkling-small | 7.333 |
 | qwen3.59b | 7.317 |
 | falcon310b-instruct-q8_0 | 7.317 |
 | qwen2.5-7b-instruct | 7.317 |

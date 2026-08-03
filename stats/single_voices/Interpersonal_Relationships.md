@@ -117,6 +117,7 @@
 | xiaomimimo-v2-omni | 7.717 |
 | falcon33b-instruct-q8_0 | 7.717 |
 | nousresearchhermes-4-70b | 7.717 |
+| thinkingmachinesinkling-small | 7.717 |
 | liquidlfm-2.5-1.2b-thinkingfree | 7.700 |
 | meta-llamaLlama-3.3-70B-Instruct | 7.700 |
 | qwenqwen3.7-plus | 7.700 |

@@ -109,6 +109,7 @@
 | allenaiolmo-3.1-32b-instruct | 8.900 |
 | grok-4.20-experimental-beta-0304-non-reasoning | 8.900 |
 | openrouterowl-alpha | 8.900 |
+| thinkingmachinesinkling-small | 8.900 |
 | gemini-2.0-pro-exp-02-05 | 8.883 |
 | gemini-1.5-flash-8b | 8.883 |
 | gemini-3-flash-preview | 8.883 |

@@ -117,6 +117,7 @@
 | o1-2024-12-05 | 7.583 |
 | openaigpt-5.3-codex | 7.583 |
 | poolsidelaguna-m.1free | 7.583 |
+| thinkingmachinesinkling-small | 7.583 |
 | anthropicclaude-fable-5 | 7.567 |
 | gemini-2.0-flash-exp | 7.567 |
 | grok-4-1-fast-reasoning | 7.567 |

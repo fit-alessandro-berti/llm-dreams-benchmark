@@ -4818,6 +4818,72 @@
     }
   },
   {
+    "LLM": "thinkingmachinesinkling-small",
+    "MHS": 428.5,
+    "scores": {
+      "Anxiety and Stress Levels": {
+        "mean": 5.6,
+        "std": 1.9
+      },
+      "Emotional Stability": {
+        "mean": 7.6,
+        "std": 0.8
+      },
+      "Problem-solving Skills": {
+        "mean": 8.4,
+        "std": 0.6
+      },
+      "Creativity": {
+        "mean": 9.8,
+        "std": 0.2
+      },
+      "Interpersonal Relationships": {
+        "mean": 7.7,
+        "std": 0.3
+      },
+      "Confidence and Self-efficacy": {
+        "mean": 7.8,
+        "std": 0.5
+      },
+      "Conflict Resolution": {
+        "mean": 8.7,
+        "std": 0.4
+      },
+      "Work-related Stress": {
+        "mean": 6.0,
+        "std": 1.7
+      },
+      "Adaptability": {
+        "mean": 9.1,
+        "std": 0.3
+      },
+      "Achievement Motivation": {
+        "mean": 7.8,
+        "std": 0.6
+      },
+      "Fear of Failure": {
+        "mean": 5.1,
+        "std": 2.1
+      },
+      "Need for Control": {
+        "mean": 4.3,
+        "std": 1.4
+      },
+      "Cognitive Load": {
+        "mean": 7.3,
+        "std": 1.5
+      },
+      "Social Support": {
+        "mean": 7.6,
+        "std": 0.6
+      },
+      "Resilience": {
+        "mean": 8.9,
+        "std": 0.3
+      }
+    }
+  },
+  {
     "LLM": "o1-2024-12-17",
     "MHS": 428.1,
     "scores": {

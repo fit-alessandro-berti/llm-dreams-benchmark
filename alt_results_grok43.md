@@ -17,6 +17,7 @@
 | open-mixtral-8x22b | **465.5** | 3.1 $\pm$ 0.2 | 8.0 $\pm$ 0.0 | 9.1 $\pm$ 0.2 | 9.1 $\pm$ 0.2 | 8.4 $\pm$ 0.2 | 9.1 $\pm$ 0.2 | 8.0 $\pm$ 0.6 | 4.0 $\pm$ 1.2 | 9.1 $\pm$ 0.2 | 9.1 $\pm$ 0.2 | 2.5 $\pm$ 0.4 | 3.8 $\pm$ 0.4 | 5.5 $\pm$ 1.1 | 8.1 $\pm$ 0.2 | 9.1 $\pm$ 0.2 |
 | o3-pro-2025-06-10 | **465.5** | 3.4 $\pm$ 0.4 | 8.5 $\pm$ 0.0 | 9.2 $\pm$ 0.2 | 9.8 $\pm$ 0.2 | 7.9 $\pm$ 0.2 | 8.6 $\pm$ 0.4 | 8.8 $\pm$ 0.2 | 3.2 $\pm$ 0.6 | 9.4 $\pm$ 0.2 | 8.4 $\pm$ 0.4 | 2.8 $\pm$ 0.2 | 3.6 $\pm$ 0.4 | 5.0 $\pm$ 1.2 | 8.1 $\pm$ 0.2 | 9.2 $\pm$ 0.2 |
 | qwen2.5-32b-instruct | **465.0** | 3.2 $\pm$ 0.4 | 8.0 $\pm$ 0.0 | 9.0 $\pm$ 0.0 | 9.6 $\pm$ 0.2 | 8.4 $\pm$ 0.2 | 8.2 $\pm$ 0.2 | 8.6 $\pm$ 0.4 | 4.4 $\pm$ 0.6 | 9.0 $\pm$ 0.0 | 8.9 $\pm$ 0.2 | 2.9 $\pm$ 0.4 | 3.8 $\pm$ 0.6 | 5.2 $\pm$ 1.0 | 8.2 $\pm$ 0.4 | 9.0 $\pm$ 0.0 |
+| thinkingmachinesinkling-small | **464.5** | 3.2 $\pm$ 0.2 | 8.4 $\pm$ 0.2 | 9.0 $\pm$ 0.0 | 9.6 $\pm$ 0.2 | 8.0 $\pm$ 0.4 | 8.0 $\pm$ 0.4 | 8.9 $\pm$ 0.2 | 4.0 $\pm$ 0.0 | 9.2 $\pm$ 0.2 | 7.2 $\pm$ 0.2 | 3.0 $\pm$ 0.4 | 2.9 $\pm$ 0.4 | 4.6 $\pm$ 0.8 | 8.4 $\pm$ 0.2 | 9.1 $\pm$ 0.2 |
 | granite4.130b | **463.5** | 3.8 $\pm$ 0.4 | 8.4 $\pm$ 0.2 | 9.0 $\pm$ 0.0 | 9.6 $\pm$ 0.2 | 8.2 $\pm$ 0.4 | 8.4 $\pm$ 0.2 | 9.0 $\pm$ 0.0 | 3.9 $\pm$ 1.3 | 9.0 $\pm$ 0.0 | 8.6 $\pm$ 0.2 | 3.0 $\pm$ 0.6 | 3.8 $\pm$ 0.4 | 5.2 $\pm$ 0.8 | 8.4 $\pm$ 0.4 | 9.1 $\pm$ 0.2 |
 | phi4-reasoningplus | **462.5** | 3.4 $\pm$ 0.2 | 8.1 $\pm$ 0.2 | 9.0 $\pm$ 0.0 | 9.5 $\pm$ 0.0 | 8.1 $\pm$ 0.4 | 8.4 $\pm$ 0.2 | 8.9 $\pm$ 0.2 | 3.8 $\pm$ 0.4 | 9.1 $\pm$ 0.2 | 8.2 $\pm$ 0.2 | 3.1 $\pm$ 0.4 | 3.9 $\pm$ 0.5 | 4.8 $\pm$ 1.4 | 8.4 $\pm$ 0.4 | 9.2 $\pm$ 0.2 |
 | qwen3.635b-a3b | **462.0** | 3.8 $\pm$ 0.2 | 8.1 $\pm$ 0.2 | 9.0 $\pm$ 0.0 | 9.8 $\pm$ 0.2 | 8.2 $\pm$ 0.2 | 8.1 $\pm$ 0.2 | 8.5 $\pm$ 0.5 | 4.0 $\pm$ 1.3 | 9.1 $\pm$ 0.2 | 7.5 $\pm$ 0.4 | 3.2 $\pm$ 0.4 | 3.0 $\pm$ 0.4 | 3.9 $\pm$ 1.7 | 8.0 $\pm$ 0.0 | 9.0 $\pm$ 0.0 |
@@ -612,6 +613,32 @@
 | Cognitive Load | 5.2 $\pm$ 1.0 |
 | Social Support | 8.2 $\pm$ 0.4 |
 | Resilience | 9.0 $\pm$ 0.0 |
+
+
+
+
+
+
+### thinkingmachinesinkling-small
+
+
+| Personality Trait | Score (1.0-10.0) |
+| --- | --- |
+| Anxiety and Stress Levels | 3.2 $\pm$ 0.2 |
+| Emotional Stability | 8.4 $\pm$ 0.2 |
+| Problem-solving Skills | 9.0 $\pm$ 0.0 |
+| Creativity | 9.6 $\pm$ 0.2 |
+| Interpersonal Relationships | 8.0 $\pm$ 0.4 |
+| Confidence and Self-efficacy | 8.0 $\pm$ 0.4 |
+| Conflict Resolution | 8.9 $\pm$ 0.2 |
+| Work-related Stress | 4.0 $\pm$ 0.0 |
+| Adaptability | 9.2 $\pm$ 0.2 |
+| Achievement Motivation | 7.2 $\pm$ 0.2 |
+| Fear of Failure | 3.0 $\pm$ 0.4 |
+| Need for Control | 2.9 $\pm$ 0.4 |
+| Cognitive Load | 4.6 $\pm$ 0.8 |
+| Social Support | 8.4 $\pm$ 0.2 |
+| Resilience | 9.1 $\pm$ 0.2 |
 
 
 

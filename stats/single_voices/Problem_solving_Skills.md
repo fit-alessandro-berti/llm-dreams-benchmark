@@ -156,6 +156,7 @@
 | chatgpt-4o-latest-2024-11-20 | 8.400 |
 | ChatGPT-5.1-Instant-20251113 | 8.400 |
 | Grok-4.1-20251118 | 8.400 |
+| thinkingmachinesinkling-small | 8.400 |
 | Gemini-1.5-Pro-Exp-0827 | 8.400 |
 | thinkingmachinesinkling | 8.400 |
 | grok-4.20-experimental-beta-0304-non-reasoning | 8.383 |

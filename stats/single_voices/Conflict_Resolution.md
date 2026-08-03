@@ -32,6 +32,7 @@
 | open-mistral-7b | 8.750 |
 | gpt-3.5-turbo | 8.750 |
 | liquidlfm-2.2-6b | 8.750 |
+| thinkingmachinesinkling-small | 8.733 |
 | Grok-4.30-20260420 | 8.733 |
 | ai21jamba-mini-1.7 | 8.717 |
 | gemini-1.5-flash-002 | 8.717 |

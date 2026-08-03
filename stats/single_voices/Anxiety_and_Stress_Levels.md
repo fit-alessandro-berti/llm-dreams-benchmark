@@ -171,6 +171,7 @@
 | gpt-4-0613 | 5.783 |
 | thinkingmachinesinkling | 5.717 |
 | qwenqwen3.7-plus | 5.600 |
+| thinkingmachinesinkling-small | 5.600 |
 | qwen3.635b-a3b | 5.517 |
 | qwen3.59b | 5.500 |
 | ChatGPT-5.5-Instant-20260530 | 5.400 |

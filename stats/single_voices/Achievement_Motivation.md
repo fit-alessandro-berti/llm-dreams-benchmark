@@ -205,6 +205,7 @@
 | openaigpt-5.6-sol | 7.867 |
 | gemini-2.5-pro-preview-06-05 | 7.817 |
 | anthropicclaude-sonnet-4.5 | 7.767 |
+| thinkingmachinesinkling-small | 7.767 |
 | xiaomimimo-v2-pro | 7.767 |
 | anthropicclaude-fable-5 | 7.750 |
 | anthropicclaude-sonnet-5 | 7.750 |

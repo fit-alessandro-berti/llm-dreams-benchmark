@@ -162,6 +162,7 @@
 | o4-mini-2025-04-16 | 5.100 |
 | phi3.53.8b-mini-instruct-fp16 | 5.083 |
 | qwen3.59b | 5.067 |
+| thinkingmachinesinkling-small | 5.067 |
 | allenaiolmo-3.1-32b-instruct | 5.050 |
 | minimaxminimax-m2.7 | 5.050 |
 | liquidlfm-2.2-6b | 5.033 |

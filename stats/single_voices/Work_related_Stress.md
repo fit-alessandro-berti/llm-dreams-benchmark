@@ -171,6 +171,7 @@
 | nvidiaNVIDIA-Nemotron-3-Super-120B-A12B | 6.050 |
 | thinkingmachinesinkling | 6.033 |
 | xiaomimimo-v2-omni | 6.033 |
+| thinkingmachinesinkling-small | 5.967 |
 | Grok-4.30-20260420 | 5.900 |
 | qwen2.5-14b-instruct | 5.883 |
 | grok-4.20-experimental-beta-0304-reasoning | 5.850 |

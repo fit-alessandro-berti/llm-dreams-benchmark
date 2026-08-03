@@ -73,6 +73,7 @@
 | granite4micro-h | 7.733 |
 | qwen3.59b | 7.733 |
 | nousresearchhermes-4-405b | 7.667 |
+| thinkingmachinesinkling-small | 7.650 |
 | bytedance-seedseed-2.0-mini | 7.633 |
 | qwenqwen3.5-122b-a10b | 7.617 |
 | arcee-aitrinity-large-previewfree | 7.583 |

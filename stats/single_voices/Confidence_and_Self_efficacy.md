@@ -89,6 +89,7 @@
 | gemini-2.5-flash-lite | 8.067 |
 | googlegemini-3.1-pro-preview | 8.050 |
 | openrouterowl-alpha | 8.050 |
+| qwenqwen3.7-flash | 8.050 |
 | nvidiaLlama-3.1-Nemotron-70B-Instruct | 8.050 |
 | phi2.7b | 8.050 |
 | ChatGPT-5.5-Instant-20260530 | 8.033 |

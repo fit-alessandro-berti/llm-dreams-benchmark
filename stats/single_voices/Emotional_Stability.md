@@ -36,6 +36,7 @@
 | deepseekdeepseek-v4-flash-0731 | 8.150 |
 | falcon37b-instruct-q8_0 | 8.133 |
 | gpt-4.1-mini-2025-04-14 | 8.133 |
+| qwenqwen3.7-flash | 8.133 |
 | gpt-4o-2024-05-13 | 8.117 |
 | granite4.130b | 8.100 |
 | microsoftWizardLM-2-8x22B | 8.100 |

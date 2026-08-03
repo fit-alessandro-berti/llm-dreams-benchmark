@@ -196,6 +196,7 @@
 | gpt-4-turbo-2024-04-09 | 4.950 |
 | liquidlfm2-8b-a1b | 4.933 |
 | deepseekdeepseek-v3.2 | 4.933 |
+| qwenqwen3.7-flash | 4.933 |
 | qwen2.5-7b-instruct | 4.917 |
 | openaigpt-oss-120b | 4.883 |
 | ai21jamba-mini-1.7 | 4.867 |

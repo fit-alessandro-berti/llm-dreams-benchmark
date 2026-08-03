@@ -196,6 +196,7 @@
 | anthropicclaude-sonnet-4.6 | 5.517 |
 | qwen2.5-72b-instruct | 5.517 |
 | phi4-reasoningplus | 5.500 |
+| qwenqwen3.7-flash | 5.483 |
 | phi33.8b | 5.483 |
 | qwen2.5-32b-instruct | 5.483 |
 | o3-mini-20250131-HIGH | 5.450 |

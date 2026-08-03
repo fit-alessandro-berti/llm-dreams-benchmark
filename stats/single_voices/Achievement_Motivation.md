@@ -196,6 +196,7 @@
 | nvidianemotron-3-ultra-550b-a55bfree | 7.950 |
 | gpt-5.2-pro-2025-12-11 | 7.933 |
 | z-aiglm-5.1 | 7.933 |
+| qwenqwen3.7-flash | 7.933 |
 | deepseekdeepseek-v4-pro | 7.900 |
 | qwenqwen3-next-80b-a3b-instruct | 7.900 |
 | claude-opus-4-5-20251101 | 7.883 |

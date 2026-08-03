@@ -161,6 +161,7 @@
 | gemini-3.5-flash | 7.217 |
 | gemini-3-flash-preview | 7.200 |
 | anthropicclaude-opus-4.1 | 7.200 |
+| qwenqwen3.7-flash | 7.200 |
 | Grok-4.1-20251118 | 7.183 |
 | gemma-4-31b-it | 7.167 |
 | qwenqwen3.7-max | 7.167 |

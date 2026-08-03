@@ -170,6 +170,7 @@
 | grok-4-1-fast-non-reasoning | 7.717 |
 | chatgpt-4o-latest-2024-11-20 | 7.717 |
 | grok-4-fast-reasoning | 7.717 |
+| qwenqwen3.7-flash | 7.700 |
 | stepfunstep-3.7-flash | 7.650 |
 | granite4micro | 7.633 |
 | grok-4-0709 | 7.617 |

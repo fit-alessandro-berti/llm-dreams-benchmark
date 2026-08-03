@@ -138,6 +138,7 @@
 | x-aigrok-4.5 | 7.533 |
 | claude-haiku-4-5-20251001 | 7.517 |
 | grok-4-fast-reasoning | 7.517 |
+| qwenqwen3.7-flash | 7.517 |
 | gemini-1.5-flash-8b | 7.500 |
 | meta-llamaLlama-3.2-3B-Instruct | 7.500 |
 | openaigpt-5.6-sol | 7.500 |

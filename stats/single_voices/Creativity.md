@@ -33,6 +33,7 @@
 | gemini-2.5-pro-preview-06-05 | 9.767 |
 | gemini-3.5-flash | 9.767 |
 | gpt-5-mini-2025-08-07 | 9.767 |
+| qwenqwen3.7-flash | 9.767 |
 | deepseekdeepseek-v4-pro | 9.750 |
 | meituanlongcat-2.0 | 9.750 |
 | qwenqwen3-30b-a3b-instruct-2507 | 9.750 |

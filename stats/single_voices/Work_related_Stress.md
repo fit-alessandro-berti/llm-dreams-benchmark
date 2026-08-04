@@ -194,6 +194,7 @@
 | granite4small-h | 5.567 |
 | open-mistral-7b | 5.567 |
 | gpt-4o-2024-05-13 | 5.533 |
+| qwenqwen3.8-max | 5.533 |
 | anthropicclaude-sonnet-4.6 | 5.517 |
 | qwen2.5-72b-instruct | 5.517 |
 | phi4-reasoningplus | 5.500 |

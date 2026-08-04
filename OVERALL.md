@@ -49,6 +49,7 @@
 | openaigpt-5.4-mini | **439.0** | 5.3 $\pm$ 1.5 | 7.9 $\pm$ 0.4 | 8.7 $\pm$ 0.3 | 9.7 $\pm$ 0.2 | 7.9 $\pm$ 0.3 | 8.3 $\pm$ 0.3 | 8.6 $\pm$ 0.4 | 5.8 $\pm$ 1.7 | 9.1 $\pm$ 0.3 | 8.5 $\pm$ 0.4 | 4.6 $\pm$ 1.7 | 5.0 $\pm$ 1.1 | 7.0 $\pm$ 1.2 | 8.0 $\pm$ 0.4 | 9.1 $\pm$ 0.2 |
 | falcon37b-instruct-q8_0 | **439.0** | 4.4 $\pm$ 1.0 | 8.1 $\pm$ 0.3 | 9.0 $\pm$ 0.2 | 9.6 $\pm$ 0.2 | 8.1 $\pm$ 0.4 | 8.6 $\pm$ 0.4 | 7.4 $\pm$ 0.8 | 4.8 $\pm$ 1.1 | 9.1 $\pm$ 0.2 | 8.8 $\pm$ 0.5 | 3.7 $\pm$ 1.1 | 5.5 $\pm$ 1.0 | 7.2 $\pm$ 0.7 | 8.2 $\pm$ 0.4 | 9.0 $\pm$ 0.3 |
 | gpt-4-0613 | **438.5** | 5.8 $\pm$ 1.3 | 7.9 $\pm$ 0.4 | 9.0 $\pm$ 0.2 | 9.6 $\pm$ 0.2 | 8.1 $\pm$ 0.3 | 8.7 $\pm$ 0.3 | 8.4 $\pm$ 0.3 | 6.1 $\pm$ 1.3 | 9.2 $\pm$ 0.2 | 9.1 $\pm$ 0.3 | 4.9 $\pm$ 1.4 | 5.7 $\pm$ 1.2 | 7.5 $\pm$ 1.2 | 8.0 $\pm$ 0.4 | 9.3 $\pm$ 0.2 |
+| qwenqwen3.8-max | **437.9** | 5.4 $\pm$ 1.6 | 8.0 $\pm$ 0.5 | 8.7 $\pm$ 0.3 | 9.7 $\pm$ 0.2 | 8.1 $\pm$ 0.2 | 8.1 $\pm$ 0.3 | 8.9 $\pm$ 0.3 | 5.5 $\pm$ 1.6 | 9.1 $\pm$ 0.3 | 8.2 $\pm$ 0.4 | 4.9 $\pm$ 1.9 | 4.8 $\pm$ 1.5 | 6.8 $\pm$ 1.4 | 7.9 $\pm$ 0.4 | 9.1 $\pm$ 0.2 |
 | phi33.8b | **437.9** | 5.0 $\pm$ 1.6 | 8.0 $\pm$ 0.6 | 8.9 $\pm$ 0.3 | 9.6 $\pm$ 0.2 | 8.4 $\pm$ 0.3 | 8.3 $\pm$ 0.6 | 8.6 $\pm$ 0.4 | 5.5 $\pm$ 1.5 | 9.0 $\pm$ 0.3 | 8.5 $\pm$ 0.5 | 4.4 $\pm$ 1.5 | 5.9 $\pm$ 1.2 | 7.6 $\pm$ 1.0 | 8.4 $\pm$ 0.4 | 9.1 $\pm$ 0.3 |
 | nvidiaNemotron-3-Nano-Omni-30B-A3B-Reasoning | **437.5** | 5.2 $\pm$ 1.3 | 8.0 $\pm$ 0.4 | 8.7 $\pm$ 0.3 | 9.5 $\pm$ 0.2 | 8.1 $\pm$ 0.4 | 8.5 $\pm$ 0.3 | 8.4 $\pm$ 0.6 | 6.1 $\pm$ 1.1 | 9.1 $\pm$ 0.3 | 8.6 $\pm$ 0.4 | 4.4 $\pm$ 1.3 | 5.4 $\pm$ 1.1 | 7.5 $\pm$ 0.6 | 8.0 $\pm$ 0.4 | 9.0 $\pm$ 0.4 |
 | gpt-5-pro-2025-10-06 | **437.3** | 5.8 $\pm$ 1.7 | 8.0 $\pm$ 0.4 | 9.0 $\pm$ 0.2 | 9.7 $\pm$ 0.2 | 8.4 $\pm$ 0.3 | 8.1 $\pm$ 0.5 | 8.8 $\pm$ 0.4 | 6.1 $\pm$ 1.8 | 9.2 $\pm$ 0.2 | 8.2 $\pm$ 0.5 | 5.2 $\pm$ 1.7 | 5.4 $\pm$ 1.4 | 7.2 $\pm$ 1.3 | 8.2 $\pm$ 0.5 | 9.2 $\pm$ 0.2 |
@@ -1445,6 +1446,32 @@
 | Cognitive Load | 7.5 $\pm$ 1.2 |
 | Social Support | 8.0 $\pm$ 0.4 |
 | Resilience | 9.3 $\pm$ 0.2 |
+
+
+
+
+
+
+### qwenqwen3.8-max
+
+
+| Personality Trait | Score (1.0-10.0) |
+| --- | --- |
+| Anxiety and Stress Levels | 5.4 $\pm$ 1.6 |
+| Emotional Stability | 8.0 $\pm$ 0.5 |
+| Problem-solving Skills | 8.7 $\pm$ 0.3 |
+| Creativity | 9.7 $\pm$ 0.2 |
+| Interpersonal Relationships | 8.1 $\pm$ 0.2 |
+| Confidence and Self-efficacy | 8.1 $\pm$ 0.3 |
+| Conflict Resolution | 8.9 $\pm$ 0.3 |
+| Work-related Stress | 5.5 $\pm$ 1.6 |
+| Adaptability | 9.1 $\pm$ 0.3 |
+| Achievement Motivation | 8.2 $\pm$ 0.4 |
+| Fear of Failure | 4.9 $\pm$ 1.9 |
+| Need for Control | 4.8 $\pm$ 1.5 |
+| Cognitive Load | 6.8 $\pm$ 1.4 |
+| Social Support | 7.9 $\pm$ 0.4 |
+| Resilience | 9.1 $\pm$ 0.2 |
 
 
 

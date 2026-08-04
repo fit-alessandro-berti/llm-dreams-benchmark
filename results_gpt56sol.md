@@ -67,6 +67,7 @@
 | anthropicclaude-sonnet-4.6 | **424.5** | 6.8 $\pm$ 0.3 | 7.8 $\pm$ 0.3 | 8.8 $\pm$ 0.1 | 9.8 $\pm$ 0.0 | 8.3 $\pm$ 0.1 | 8.0 $\pm$ 0.2 | 8.8 $\pm$ 0.1 | 7.2 $\pm$ 0.3 | 9.1 $\pm$ 0.1 | 8.2 $\pm$ 0.2 | 6.4 $\pm$ 0.6 | 6.0 $\pm$ 0.2 | 8.1 $\pm$ 0.0 | 8.1 $\pm$ 0.2 | 9.2 $\pm$ 0.0 |
 | ministral-3b-2410 | **424.0** | 6.8 $\pm$ 0.2 | 7.6 $\pm$ 0.2 | 8.8 $\pm$ 0.1 | 9.4 $\pm$ 0.1 | 8.6 $\pm$ 0.2 | 8.3 $\pm$ 0.2 | 8.9 $\pm$ 0.1 | 7.4 $\pm$ 0.2 | 9.0 $\pm$ 0.0 | 8.8 $\pm$ 0.2 | 6.6 $\pm$ 0.3 | 6.8 $\pm$ 0.1 | 8.1 $\pm$ 0.2 | 8.6 $\pm$ 0.2 | 9.0 $\pm$ 0.1 |
 | minimaxminimax-m2.5 | **423.8** | 7.0 $\pm$ 0.2 | 7.8 $\pm$ 0.3 | 8.9 $\pm$ 0.1 | 9.7 $\pm$ 0.1 | 8.3 $\pm$ 0.1 | 8.6 $\pm$ 0.1 | 8.9 $\pm$ 0.1 | 7.8 $\pm$ 0.1 | 9.1 $\pm$ 0.1 | 8.8 $\pm$ 0.1 | 6.6 $\pm$ 0.2 | 7.1 $\pm$ 0.1 | 8.4 $\pm$ 0.1 | 8.1 $\pm$ 0.1 | 9.1 $\pm$ 0.0 |
+| qwenqwen3.8-max | **423.6** | 6.6 $\pm$ 0.1 | 7.8 $\pm$ 0.2 | 8.6 $\pm$ 0.2 | 9.9 $\pm$ 0.1 | 8.4 $\pm$ 0.1 | 8.0 $\pm$ 0.0 | 9.0 $\pm$ 0.0 | 7.2 $\pm$ 0.1 | 9.0 $\pm$ 0.1 | 8.6 $\pm$ 0.1 | 6.8 $\pm$ 0.3 | 5.8 $\pm$ 0.3 | 8.1 $\pm$ 0.1 | 7.8 $\pm$ 0.2 | 9.1 $\pm$ 0.1 |
 | phi4-reasoningplus | **423.6** | 6.8 $\pm$ 0.5 | 8.0 $\pm$ 0.3 | 8.6 $\pm$ 0.1 | 9.7 $\pm$ 0.1 | 8.3 $\pm$ 0.2 | 8.6 $\pm$ 0.2 | 8.4 $\pm$ 0.7 | 7.1 $\pm$ 0.4 | 8.9 $\pm$ 0.1 | 8.6 $\pm$ 0.1 | 6.2 $\pm$ 0.7 | 6.4 $\pm$ 0.4 | 8.0 $\pm$ 0.2 | 8.0 $\pm$ 0.2 | 9.2 $\pm$ 0.1 |
 | Grok-4.5-Heavy-20260720 | **423.6** | 6.8 $\pm$ 0.4 | 7.9 $\pm$ 0.1 | 9.0 $\pm$ 0.1 | 9.9 $\pm$ 0.1 | 8.2 $\pm$ 0.2 | 8.6 $\pm$ 0.0 | 8.9 $\pm$ 0.2 | 7.5 $\pm$ 0.3 | 9.0 $\pm$ 0.0 | 8.5 $\pm$ 0.0 | 6.5 $\pm$ 0.3 | 6.8 $\pm$ 0.6 | 8.4 $\pm$ 0.1 | 8.1 $\pm$ 0.1 | 9.0 $\pm$ 0.1 |
 | bytedance-seedseed-2.0-mini | **423.6** | 7.2 $\pm$ 0.0 | 7.7 $\pm$ 0.2 | 8.6 $\pm$ 0.1 | 9.8 $\pm$ 0.0 | 8.8 $\pm$ 0.1 | 7.9 $\pm$ 0.3 | 9.0 $\pm$ 0.0 | 7.9 $\pm$ 0.2 | 9.0 $\pm$ 0.1 | 8.4 $\pm$ 0.1 | 7.2 $\pm$ 0.3 | 6.6 $\pm$ 0.2 | 8.2 $\pm$ 0.1 | 8.8 $\pm$ 0.3 | 9.1 $\pm$ 0.1 |
@@ -1913,6 +1914,32 @@
 | Cognitive Load | 8.4 $\pm$ 0.1 |
 | Social Support | 8.1 $\pm$ 0.1 |
 | Resilience | 9.1 $\pm$ 0.0 |
+
+
+
+
+
+
+### qwenqwen3.8-max
+
+
+| Personality Trait | Score (1.0-10.0) |
+| --- | --- |
+| Anxiety and Stress Levels | 6.6 $\pm$ 0.1 |
+| Emotional Stability | 7.8 $\pm$ 0.2 |
+| Problem-solving Skills | 8.6 $\pm$ 0.2 |
+| Creativity | 9.9 $\pm$ 0.1 |
+| Interpersonal Relationships | 8.4 $\pm$ 0.1 |
+| Confidence and Self-efficacy | 8.0 $\pm$ 0.0 |
+| Conflict Resolution | 9.0 $\pm$ 0.0 |
+| Work-related Stress | 7.2 $\pm$ 0.1 |
+| Adaptability | 9.0 $\pm$ 0.1 |
+| Achievement Motivation | 8.6 $\pm$ 0.1 |
+| Fear of Failure | 6.8 $\pm$ 0.3 |
+| Need for Control | 5.8 $\pm$ 0.3 |
+| Cognitive Load | 8.1 $\pm$ 0.1 |
+| Social Support | 7.8 $\pm$ 0.2 |
+| Resilience | 9.1 $\pm$ 0.1 |
 
 
 

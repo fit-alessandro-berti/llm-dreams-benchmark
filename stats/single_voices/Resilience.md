@@ -56,6 +56,7 @@
 | gpt-4o-2024-05-13 | 9.117 |
 | gpt-4o-mini-2024-07-18 | 9.117 |
 | o1-pro-2024-12-05 | 9.117 |
+| qwenqwen3.8-max | 9.100 |
 | baiduernie-4.5-300b-a47b | 9.100 |
 | gpt-4.1-mini-2025-04-14 | 9.100 |
 | inclusionailing-2.6-1tfree | 9.100 |

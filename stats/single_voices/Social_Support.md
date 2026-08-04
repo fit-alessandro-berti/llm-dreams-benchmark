@@ -73,6 +73,7 @@
 | phi4-reasoningplus | 7.933 |
 | granite3.28b-instruct-q4_K_M | 7.917 |
 | granite4tiny-h | 7.900 |
+| qwenqwen3.8-max | 7.900 |
 | smollm21.7b-instruct-q6_K | 7.900 |
 | gemini-1.5-flash-002 | 7.883 |
 | anthropicclaude-opus-4.6 | 7.883 |

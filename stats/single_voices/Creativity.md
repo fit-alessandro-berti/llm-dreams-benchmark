@@ -38,6 +38,7 @@
 | deepseekdeepseek-v4-pro | 9.750 |
 | meituanlongcat-2.0 | 9.750 |
 | qwenqwen3-30b-a3b-instruct-2507 | 9.750 |
+| qwenqwen3.8-max | 9.750 |
 | claude-opus-4-5-20251101 | 9.750 |
 | z-aiglm-5v-turbo | 9.750 |
 | gemini-3.5-flash-lite | 9.733 |

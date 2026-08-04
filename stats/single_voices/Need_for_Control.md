@@ -210,6 +210,7 @@
 | gpt-4-0125-preview | 4.883 |
 | xiaomimimo-v2.5 | 4.850 |
 | qwen3.59b | 4.800 |
+| qwenqwen3.8-max | 4.767 |
 | o3-mini-20250131-HIGH | 4.717 |
 | claude-haiku-4-5-20251001 | 4.700 |
 | Grok-4.3-20260530 | 4.667 |

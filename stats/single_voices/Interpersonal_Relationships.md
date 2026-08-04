@@ -60,6 +60,7 @@
 | openaigpt-oss-120b | 8.150 |
 | o3-mini-20250131-HIGH | 8.150 |
 | gpt-4-0613 | 8.117 |
+| qwenqwen3.8-max | 8.117 |
 | openrouterowl-alpha | 8.117 |
 | arcee-aitrinity-large-previewfree | 8.100 |
 | granite3.28b-instruct-q4_K_M | 8.100 |

@@ -175,6 +175,7 @@
 | qwen3.635b-a3b | 5.517 |
 | qwen3.59b | 5.500 |
 | ChatGPT-5.5-Instant-20260530 | 5.400 |
+| qwenqwen3.8-max | 5.383 |
 | falcon310b-instruct-q8_0 | 5.350 |
 | granite4.130b | 5.350 |
 | xiaomimimo-v2-omni | 5.317 |

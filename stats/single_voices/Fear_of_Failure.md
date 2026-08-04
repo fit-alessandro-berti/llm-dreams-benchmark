@@ -168,6 +168,7 @@
 | liquidlfm-2.2-6b | 5.033 |
 | Meta-Muse-Spark-20260409 | 5.033 |
 | thinkingmachinesinkling | 5.000 |
+| qwenqwen3.8-max | 4.933 |
 | qwenqwen3.7-plus | 4.917 |
 | gpt-4-0613 | 4.900 |
 | nvidianemotron-3-nano-30b-a3bfree | 4.900 |

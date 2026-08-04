@@ -14,6 +14,7 @@
 | o1-preview-2024-09-12 | 8.917 |
 | microsoftphi-4 | 8.900 |
 | microsoftWizardLM-2-8x22B | 8.883 |
+| qwenqwen3.8-max | 8.883 |
 | xiaomimimo-v2.5 | 8.883 |
 | deepseekdeepseek-v4-flash-0731 | 8.867 |
 | granite4.130b | 8.850 |

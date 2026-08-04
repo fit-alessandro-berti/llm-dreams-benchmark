@@ -79,6 +79,7 @@
 | nvidiaNVIDIA-Nemotron-3-Super-120B-A12B | 8.133 |
 | qwenqwen3.7-plus | 8.133 |
 | baiduernie-4.5-21b-a3b | 8.117 |
+| qwenqwen3.8-max | 8.100 |
 | qwen3.635b-a3b | 8.100 |
 | grok-4-1-fast-non-reasoning | 8.083 |
 | ministral-3b-2410 | 8.083 |

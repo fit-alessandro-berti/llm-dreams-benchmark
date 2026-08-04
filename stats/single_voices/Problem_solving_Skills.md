@@ -91,6 +91,7 @@
 | inclusionailing-2.6-1tfree | 8.667 |
 | qwenqwen3-30b-a3b-instruct-2507 | 8.667 |
 | qwenqwen3.7-plus | 8.667 |
+| qwenqwen3.8-max | 8.667 |
 | gpt-4.5-preview | 8.650 |
 | openaigpt-5.3-codex | 8.650 |
 | xiaomimimo-v2-omni | 8.650 |

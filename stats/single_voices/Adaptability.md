@@ -64,6 +64,7 @@
 | gemini-3.5-flash | 9.117 |
 | gemma-4-31b-it | 9.117 |
 | openaigpt-5.4-mini | 9.117 |
+| qwenqwen3.8-max | 9.100 |
 | falcon37b-instruct-q8_0 | 9.100 |
 | o4-mini-2025-04-16 | 9.100 |
 | openaigpt-oss-120b | 9.100 |

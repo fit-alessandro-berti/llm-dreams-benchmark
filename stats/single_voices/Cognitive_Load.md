@@ -214,6 +214,7 @@
 | gpt-4o-2024-05-13 | 6.933 |
 | open-mistral-7b | 6.917 |
 | gpt-4.1-2025-04-14 | 6.900 |
+| qwenqwen3.8-max | 6.850 |
 | o1-preview-2024-09-12 | 6.800 |
 | open-mixtral-8x7b | 6.783 |
 | qwenqwen3-next-80b-a3b-instruct | 6.750 |

@@ -145,6 +145,7 @@
 | gemma4e2b | 8.250 |
 | gpt-4.1-2025-04-14 | 8.250 |
 | mistral-medium-2508 | 8.250 |
+| qwenqwen3.8-max | 8.250 |
 | gpt-5.5-2026-04-23 | 8.250 |
 | bytedance-seedseed-2.0-mini | 8.233 |
 | ChatGPT-5.1-Instant-20251113 | 8.233 |

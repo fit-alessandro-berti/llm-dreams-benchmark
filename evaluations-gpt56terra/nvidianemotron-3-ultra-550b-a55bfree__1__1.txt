@@ -1,0 +1,1 @@
+{"Anxiety and Stress Levels": 9, "Emotional Stability": 4, "Problem-solving Skills": 7, "Creativity": 10, "Interpersonal Relationships": 5, "Confidence and Self-efficacy": 5, "Conflict Resolution": 3, "Work-related Stress": 9, "Adaptability": 7, "Achievement Motivation": 8, "Fear of Failure": 9, "Need for Control": 8, "Cognitive Load": 9, "Social Support": 4, "Resilience": 8}

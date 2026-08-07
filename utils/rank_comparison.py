@@ -68,7 +68,7 @@ def interpret(content):
 JUDGES = {
     "grok-4.3": interpret(read_file_with_fallback(repo_file("alt_results_grok43.md"))),
     "gpt-5.6-sol": interpret(read_file_with_fallback(repo_file("results_gpt56sol.md"))),
-    "gpt-5.4": interpret(read_file_with_fallback(repo_file("alt_results_gpt54.md"))),
+    "gpt-5.6-terra": interpret(read_file_with_fallback(repo_file("alt_results_gpt56terra.md"))),
     "gpt-5.5": interpret(read_file_with_fallback(repo_file("alt_results_gpt55.md"))),
     "qwen36-plus": interpret(read_file_with_fallback(repo_file("alt_results_qwen36-plus.md"))),
     "mistral-small-2603": interpret(read_file_with_fallback(repo_file("alt_results_mistral2603.md"))),

@@ -82,6 +82,7 @@ The following tables collect results evaluated by the same judge LLM:
 
 Alternative leaderboards (maintaned and updated less frequently):
 
+* [grok-4.5](alt_results_grok45.md)
 * [grok-4.3](alt_results_grok43.md)
 * [gpt-5.6-terra](alt_results_gpt56terra.md)
 * [gpt-5.5](alt_results_gpt55.md)

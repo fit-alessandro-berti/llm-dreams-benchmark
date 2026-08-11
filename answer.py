@@ -20,14 +20,14 @@ API_URL = "https://api.openai.com/v1/"
 #API_URL = "https://api.deepseek.com/"
 #API_URL = "https://api.hyperbolic.xyz/v1/"
 #API_URL = "https://dashscope-intl.aliyuncs.com/compatible-mode/v1/"
-API_URL = "https://api.anthropic.com/v1/"
+#API_URL = "https://api.anthropic.com/v1/"
 #API_URL = "https://integrate.api.nvidia.com/v1/"
-#API_URL = "https://openrouter.ai/api/v1/"
+API_URL = "https://openrouter.ai/api/v1/"
 #API_URL = "https://api.perplexity.ai/"
 
 DEFAULT_API_URL = API_URL
-DEFAULT_API_KEY_FILE = "../api_anthropic.txt"
-DEFAULT_API_KEY_ENV = "ANTHROPIC_API_KEY"
+DEFAULT_API_KEY_FILE = "../api_openrouter.txt"
+DEFAULT_API_KEY_ENV = "OPENROUTER_API_KEY"
 API_KEY = None
 
 NUMBER_EXECUTIONS = 2

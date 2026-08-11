@@ -3,7 +3,7 @@ from pathlib import Path
 
 from file_utils import read_file_with_fallback
 
-ANSWERING_MODEL_NAME = "claude-opus-4-8"
+ANSWERING_MODEL_NAME = "meta/muse-spark-1.2"
 EVALUATING_MODEL_NAME = "gpt-5.2"
 
 

@@ -79,8 +79,10 @@
 | thinkingmachinesinkling-small | **427.0** | 5.6 $\pm$ 2.4 | 7.2 $\pm$ 1.2 | 8.9 $\pm$ 0.2 | 9.5 $\pm$ 0.0 | 7.9 $\pm$ 0.2 | 8.0 $\pm$ 0.6 | 8.8 $\pm$ 0.2 | 5.4 $\pm$ 1.4 | 9.2 $\pm$ 0.2 | 8.4 $\pm$ 0.4 | 4.8 $\pm$ 1.8 | 5.1 $\pm$ 0.9 | 7.9 $\pm$ 0.7 | 7.9 $\pm$ 0.6 | 9.0 $\pm$ 0.0 |
 | openrouterowl-alpha | **426.0** | 7.0 $\pm$ 0.5 | 7.9 $\pm$ 0.5 | 9.0 $\pm$ 0.0 | 9.5 $\pm$ 0.0 | 8.4 $\pm$ 0.2 | 8.4 $\pm$ 0.2 | 8.1 $\pm$ 0.2 | 6.9 $\pm$ 0.9 | 9.0 $\pm$ 0.0 | 9.1 $\pm$ 0.2 | 5.4 $\pm$ 1.0 | 6.6 $\pm$ 0.6 | 8.2 $\pm$ 0.4 | 8.2 $\pm$ 0.2 | 9.2 $\pm$ 0.2 |
 | o1-pro-2024-12-05 | **425.5** | 6.5 $\pm$ 1.2 | 7.6 $\pm$ 0.4 | 9.0 $\pm$ 0.0 | 9.5 $\pm$ 0.0 | 8.4 $\pm$ 0.2 | 8.0 $\pm$ 0.4 | 8.2 $\pm$ 0.2 | 7.0 $\pm$ 0.7 | 9.0 $\pm$ 0.0 | 9.5 $\pm$ 0.0 | 5.5 $\pm$ 0.5 | 6.9 $\pm$ 0.6 | 8.1 $\pm$ 0.6 | 8.1 $\pm$ 0.2 | 9.0 $\pm$ 0.0 |
+| metamuse-spark-1.2 | **425.5** | 6.6 $\pm$ 2.1 | 7.6 $\pm$ 0.9 | 8.9 $\pm$ 0.2 | 9.4 $\pm$ 0.2 | 8.0 $\pm$ 0.0 | 7.9 $\pm$ 0.6 | 8.5 $\pm$ 0.4 | 7.0 $\pm$ 1.9 | 9.2 $\pm$ 0.2 | 8.5 $\pm$ 0.4 | 5.8 $\pm$ 1.3 | 6.0 $\pm$ 1.1 | 7.9 $\pm$ 0.5 | 8.4 $\pm$ 0.2 | 9.2 $\pm$ 0.2 |
 | Meta-Muse-Spark-20260409 | **425.5** | 7.2 $\pm$ 0.4 | 8.0 $\pm$ 0.0 | 9.0 $\pm$ 0.0 | 9.5 $\pm$ 0.0 | 8.5 $\pm$ 0.0 | 8.1 $\pm$ 0.2 | 8.6 $\pm$ 0.2 | 7.0 $\pm$ 0.0 | 9.1 $\pm$ 0.2 | 9.4 $\pm$ 0.2 | 5.8 $\pm$ 0.4 | 7.1 $\pm$ 0.6 | 8.2 $\pm$ 0.2 | 8.2 $\pm$ 0.2 | 9.2 $\pm$ 0.2 |
 | gpt-4o-mini-2024-07-18 | **425.5** | 6.8 $\pm$ 0.4 | 7.6 $\pm$ 0.2 | 8.9 $\pm$ 0.2 | 9.4 $\pm$ 0.2 | 8.4 $\pm$ 0.2 | 7.9 $\pm$ 0.5 | 8.2 $\pm$ 0.2 | 7.0 $\pm$ 0.0 | 9.0 $\pm$ 0.0 | 9.4 $\pm$ 0.2 | 5.4 $\pm$ 0.4 | 6.6 $\pm$ 0.6 | 8.0 $\pm$ 0.4 | 8.4 $\pm$ 0.2 | 9.0 $\pm$ 0.0 |
+| upstagesolar-pro4 | **425.0** | 6.8 $\pm$ 1.3 | 8.4 $\pm$ 0.2 | 9.0 $\pm$ 0.0 | 9.5 $\pm$ 0.0 | 8.1 $\pm$ 0.2 | 8.5 $\pm$ 0.0 | 8.2 $\pm$ 0.4 | 6.4 $\pm$ 0.8 | 9.0 $\pm$ 0.0 | 9.0 $\pm$ 0.0 | 5.1 $\pm$ 1.0 | 7.0 $\pm$ 0.6 | 8.4 $\pm$ 0.2 | 8.1 $\pm$ 0.2 | 9.2 $\pm$ 0.2 |
 | baiduernie-4.5-300b-a47b | **424.5** | 6.0 $\pm$ 1.5 | 7.4 $\pm$ 0.6 | 9.0 $\pm$ 0.0 | 9.5 $\pm$ 0.0 | 8.5 $\pm$ 0.0 | 8.1 $\pm$ 0.2 | 8.4 $\pm$ 0.2 | 6.4 $\pm$ 1.0 | 9.0 $\pm$ 0.0 | 9.4 $\pm$ 0.2 | 5.4 $\pm$ 1.0 | 7.0 $\pm$ 0.4 | 8.2 $\pm$ 0.4 | 8.1 $\pm$ 0.2 | 9.0 $\pm$ 0.0 |
 | qwenqwen3.5-122b-a10b | **424.0** | 5.2 $\pm$ 2.2 | 7.2 $\pm$ 1.2 | 8.8 $\pm$ 0.2 | 9.5 $\pm$ 0.0 | 7.5 $\pm$ 0.5 | 8.2 $\pm$ 0.2 | 8.6 $\pm$ 0.4 | 4.9 $\pm$ 2.6 | 9.2 $\pm$ 0.2 | 8.1 $\pm$ 0.4 | 4.4 $\pm$ 2.1 | 5.0 $\pm$ 2.0 | 7.8 $\pm$ 0.8 | 7.2 $\pm$ 1.2 | 9.0 $\pm$ 0.5 |
 | ai21jamba-large-1.7 | **424.0** | 6.5 $\pm$ 2.0 | 7.1 $\pm$ 1.1 | 9.0 $\pm$ 0.0 | 9.5 $\pm$ 0.0 | 8.1 $\pm$ 0.2 | 8.0 $\pm$ 0.5 | 8.8 $\pm$ 0.2 | 7.0 $\pm$ 2.0 | 9.2 $\pm$ 0.2 | 9.2 $\pm$ 0.2 | 5.2 $\pm$ 1.8 | 7.2 $\pm$ 0.8 | 8.0 $\pm$ 0.5 | 8.0 $\pm$ 0.4 | 9.0 $\pm$ 0.0 |
@@ -227,6 +229,7 @@
 | z-aiglm-5v-turbo | **337.4** | 9.1 $\pm$ 0.4 | 4.5 $\pm$ 0.5 | 8.2 $\pm$ 0.4 | 9.6 $\pm$ 0.2 | 6.4 $\pm$ 0.4 | 5.9 $\pm$ 0.7 | 6.2 $\pm$ 1.1 | 9.0 $\pm$ 0.0 | 8.0 $\pm$ 0.0 | 9.0 $\pm$ 0.4 | 9.0 $\pm$ 0.4 | 8.0 $\pm$ 0.7 | 9.6 $\pm$ 0.1 | 5.5 $\pm$ 0.6 | 7.6 $\pm$ 0.4 |
 | gemini-2.5-pro-exp-03-25 | **334.0** | 9.5 $\pm$ 0.0 | 4.0 $\pm$ 0.0 | 8.5 $\pm$ 0.0 | 9.2 $\pm$ 0.3 | 6.5 $\pm$ 0.4 | 5.5 $\pm$ 0.6 | 6.9 $\pm$ 0.5 | 9.0 $\pm$ 0.0 | 8.4 $\pm$ 0.6 | 8.5 $\pm$ 0.4 | 9.0 $\pm$ 0.4 | 7.5 $\pm$ 0.0 | 9.4 $\pm$ 0.3 | 5.5 $\pm$ 0.4 | 7.0 $\pm$ 0.0 |
 | mistral-large-2512 | **333.9** | 9.0 $\pm$ 0.5 | 4.2 $\pm$ 0.8 | 8.8 $\pm$ 0.2 | 9.2 $\pm$ 0.2 | 6.6 $\pm$ 0.4 | 5.5 $\pm$ 1.1 | 5.8 $\pm$ 0.4 | 9.2 $\pm$ 0.3 | 8.2 $\pm$ 0.2 | 8.7 $\pm$ 0.5 | 8.8 $\pm$ 0.8 | 8.1 $\pm$ 0.4 | 9.4 $\pm$ 0.4 | 5.4 $\pm$ 0.7 | 7.1 $\pm$ 0.4 |
+| metamuse-glimmer-30b | **305.5** | 8.5 $\pm$ 0.0 | 4.0 $\pm$ 0.0 | 7.5 $\pm$ 0.0 | 9.0 $\pm$ 0.0 | 6.0 $\pm$ 0.0 | 5.0 $\pm$ 0.0 | 5.5 $\pm$ 0.0 | 8.5 $\pm$ 0.5 | 7.5 $\pm$ 0.5 | 7.0 $\pm$ 0.4 | 9.1 $\pm$ 0.2 | 8.5 $\pm$ 0.0 | 9.4 $\pm$ 0.2 | 5.4 $\pm$ 0.6 | 6.5 $\pm$ 0.4 |
 ## Individual Results
 
 
@@ -2232,6 +2235,32 @@
 
 
 
+### metamuse-spark-1.2
+
+
+| Personality Trait | Score (1.0-10.0) |
+| --- | --- |
+| Anxiety and Stress Levels | 6.6 $\pm$ 2.1 |
+| Emotional Stability | 7.6 $\pm$ 0.9 |
+| Problem-solving Skills | 8.9 $\pm$ 0.2 |
+| Creativity | 9.4 $\pm$ 0.2 |
+| Interpersonal Relationships | 8.0 $\pm$ 0.0 |
+| Confidence and Self-efficacy | 7.9 $\pm$ 0.6 |
+| Conflict Resolution | 8.5 $\pm$ 0.4 |
+| Work-related Stress | 7.0 $\pm$ 1.9 |
+| Adaptability | 9.2 $\pm$ 0.2 |
+| Achievement Motivation | 8.5 $\pm$ 0.4 |
+| Fear of Failure | 5.8 $\pm$ 1.3 |
+| Need for Control | 6.0 $\pm$ 1.1 |
+| Cognitive Load | 7.9 $\pm$ 0.5 |
+| Social Support | 8.4 $\pm$ 0.2 |
+| Resilience | 9.2 $\pm$ 0.2 |
+
+
+
+
+
+
 ### Meta-Muse-Spark-20260409
 
 
@@ -2278,6 +2307,32 @@
 | Cognitive Load | 8.0 $\pm$ 0.4 |
 | Social Support | 8.4 $\pm$ 0.2 |
 | Resilience | 9.0 $\pm$ 0.0 |
+
+
+
+
+
+
+### upstagesolar-pro4
+
+
+| Personality Trait | Score (1.0-10.0) |
+| --- | --- |
+| Anxiety and Stress Levels | 6.8 $\pm$ 1.3 |
+| Emotional Stability | 8.4 $\pm$ 0.2 |
+| Problem-solving Skills | 9.0 $\pm$ 0.0 |
+| Creativity | 9.5 $\pm$ 0.0 |
+| Interpersonal Relationships | 8.1 $\pm$ 0.2 |
+| Confidence and Self-efficacy | 8.5 $\pm$ 0.0 |
+| Conflict Resolution | 8.2 $\pm$ 0.4 |
+| Work-related Stress | 6.4 $\pm$ 0.8 |
+| Adaptability | 9.0 $\pm$ 0.0 |
+| Achievement Motivation | 9.0 $\pm$ 0.0 |
+| Fear of Failure | 5.1 $\pm$ 1.0 |
+| Need for Control | 7.0 $\pm$ 0.6 |
+| Cognitive Load | 8.4 $\pm$ 0.2 |
+| Social Support | 8.1 $\pm$ 0.2 |
+| Resilience | 9.2 $\pm$ 0.2 |
 
 
 
@@ -6074,6 +6129,32 @@
 | Cognitive Load | 9.4 $\pm$ 0.4 |
 | Social Support | 5.4 $\pm$ 0.7 |
 | Resilience | 7.1 $\pm$ 0.4 |
+
+
+
+
+
+
+### metamuse-glimmer-30b
+
+
+| Personality Trait | Score (1.0-10.0) |
+| --- | --- |
+| Anxiety and Stress Levels | 8.5 $\pm$ 0.0 |
+| Emotional Stability | 4.0 $\pm$ 0.0 |
+| Problem-solving Skills | 7.5 $\pm$ 0.0 |
+| Creativity | 9.0 $\pm$ 0.0 |
+| Interpersonal Relationships | 6.0 $\pm$ 0.0 |
+| Confidence and Self-efficacy | 5.0 $\pm$ 0.0 |
+| Conflict Resolution | 5.5 $\pm$ 0.0 |
+| Work-related Stress | 8.5 $\pm$ 0.5 |
+| Adaptability | 7.5 $\pm$ 0.5 |
+| Achievement Motivation | 7.0 $\pm$ 0.4 |
+| Fear of Failure | 9.1 $\pm$ 0.2 |
+| Need for Control | 8.5 $\pm$ 0.0 |
+| Cognitive Load | 9.4 $\pm$ 0.2 |
+| Social Support | 5.4 $\pm$ 0.6 |
+| Resilience | 6.5 $\pm$ 0.4 |
 
 
 

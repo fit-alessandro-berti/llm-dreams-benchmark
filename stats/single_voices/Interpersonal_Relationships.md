@@ -50,6 +50,7 @@
 | o3-pro-2025-06-10 | 8.229 |
 | granite4micro | 8.214 |
 | granite4.13b | 8.200 |
+| upstagesolar-pro4 | 8.186 |
 | Grok-4.3-20260530 | 8.186 |
 | gpt-4.1-mini-2025-04-14 | 8.171 |
 | anthropicclaude-sonnet-4.6 | 8.157 |
@@ -82,6 +83,7 @@
 | phi4-reasoningplus | 8.014 |
 | o3-2025-04-16 | 8.000 |
 | o1-pro-2024-12-05 | 7.986 |
+| metamuse-spark-1.2 | 7.971 |
 | qwen3.635b-a3b | 7.957 |
 | gpt-5.5-2026-04-23 | 7.943 |
 | thinkingmachinesinkling | 7.943 |
@@ -226,4 +228,5 @@
 | z-aiglm-5v-turbo | 5.700 |
 | talkie-1930-13b-it | 5.643 |
 | qwen3.54b | 5.586 |
+| metamuse-glimmer-30b | 5.543 |
 | qwen3.50.8b | 5.114 |

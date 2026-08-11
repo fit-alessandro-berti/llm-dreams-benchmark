@@ -58,6 +58,7 @@
 | inclusionailing-2.6-1tfree | 9.129 |
 | qwenqwen3.5-122b-a10b | 9.129 |
 | qwenqwen3.7-max | 9.129 |
+| upstagesolar-pro4 | 9.129 |
 | gemini-3.5-flash | 9.114 |
 | gpt-4o-mini-2024-07-18 | 9.114 |
 | openaigpt-5.4-mini | 9.114 |
@@ -88,6 +89,7 @@
 | gemini-3.5-flash-lite | 9.029 |
 | gpt-3.5-turbo | 9.029 |
 | metamuse-spark-1.1 | 9.029 |
+| metamuse-spark-1.2 | 9.029 |
 | nvidiaNemotron-3-Nano-Omni-30B-A3B-Reasoning | 9.029 |
 | o1-pro-2024-12-05 | 9.029 |
 | phi33.8b | 9.029 |
@@ -225,5 +227,6 @@
 | meta-llamallama-4-maverick | 7.957 |
 | qwen3.52b | 7.900 |
 | llama27b | 7.814 |
+| metamuse-glimmer-30b | 7.371 |
 | talkie-1930-13b-it | 7.371 |
 | qwen3.50.8b | 6.771 |

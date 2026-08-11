@@ -2,6 +2,7 @@
 
 | Model | Average |
 |:--|--:|
+| metamuse-glimmer-30b | 8.629 |
 | mistral-large-2512 | 8.514 |
 | nvidianemotron-3-ultra-550b-a55bfree | 8.486 |
 | gemini-2.5-pro-exp-03-25 | 8.443 |
@@ -138,6 +139,7 @@
 | granite4.13b | 6.171 |
 | phi2.7b | 6.157 |
 | gpt-4o-mini-2024-07-18 | 6.143 |
+| metamuse-spark-1.2 | 6.129 |
 | o4-mini-2025-04-16 | 6.114 |
 | ministral-3b-2410 | 6.100 |
 | gpt-5-2025-08-07 | 6.086 |
@@ -177,6 +179,7 @@
 | falcon310b-instruct-q8_0 | 5.371 |
 | nvidianemotron-3-nano-30b-a3bfree | 5.257 |
 | qwenqwen3.7-plus | 5.229 |
+| upstagesolar-pro4 | 5.229 |
 | gpt-4.1-mini-2025-04-14 | 5.171 |
 | openaigpt-5.4-mini | 5.171 |
 | microsoftWizardLM-2-8x22B | 5.143 |

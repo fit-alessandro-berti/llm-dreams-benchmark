@@ -48,6 +48,7 @@
 | gemini-3.5-flash-lite | 9.700 |
 | nvidianemotron-3-ultra-550b-a55bfree | 9.700 |
 | x-aigrok-4.5 | 9.700 |
+| upstagesolar-pro4 | 9.686 |
 | openaigpt-5.4-pro | 9.686 |
 | gemini-2.5-flash-lite | 9.686 |
 | z-aiglm-5v-turbo | 9.686 |
@@ -112,6 +113,7 @@
 | chatgpt-4o-latest-2025-04-26 | 9.600 |
 | claude-3-5-sonnet-20241022 | 9.600 |
 | deepseekdeepseek-v3.2 | 9.600 |
+| metamuse-spark-1.2 | 9.600 |
 | Gemini-1.5-Pro-Exp-0827 | 9.586 |
 | gpt-4-0613 | 9.586 |
 | liquidlfm-2.2-6b | 9.586 |
@@ -180,6 +182,7 @@
 | gpt-5.2-2025-12-11 | 9.429 |
 | ibm-granitegranite-4.1-8b | 9.429 |
 | liquidlfm-2.5-1.2b-instructfree | 9.429 |
+| metamuse-glimmer-30b | 9.429 |
 | microsoftWizardLM-2-8x22B | 9.429 |
 | openaigpt-5.4-nano | 9.429 |
 | grok-2-1212 | 9.414 |

@@ -43,6 +43,7 @@
 | phi4-reasoningplus | 8.443 |
 | gpt-4o-2024-05-13 | 8.414 |
 | gpt-4o-2024-08-06 | 8.371 |
+| upstagesolar-pro4 | 8.357 |
 | deepseekdeepseek-v4-flash-0731 | 8.357 |
 | gpt-4.1-2025-04-14 | 8.343 |
 | gpt-5-mini-2025-08-07 | 8.343 |
@@ -96,6 +97,7 @@
 | xiaomimimo-v2-omni | 8.057 |
 | claude-3-7-sonnet-20250219 | 8.043 |
 | googlegemini-3.1-pro-preview | 8.029 |
+| metamuse-spark-1.2 | 8.014 |
 | ChatGPT-5.5-Instant-20260530 | 8.000 |
 | phi2.7b | 8.000 |
 | qwenqwen3.5-plus-02-15 | 7.986 |
@@ -227,3 +229,4 @@
 | mistral-large-2512 | 6.000 |
 | anthropicclaude-sonnet-4.5 | 5.957 |
 | qwen3.50.8b | 5.257 |
+| metamuse-glimmer-30b | 4.500 |

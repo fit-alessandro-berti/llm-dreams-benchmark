@@ -2,6 +2,7 @@
 
 | Model | Average |
 |:--|--:|
+| metamuse-glimmer-30b | 8.829 |
 | nvidianemotron-3-ultra-550b-a55bfree | 8.686 |
 | z-aiglm-5v-turbo | 8.671 |
 | mistral-large-2512 | 8.586 |
@@ -144,6 +145,7 @@
 | gpt-3.5-turbo | 6.514 |
 | claude-opus-4-5-20251101 | 6.500 |
 | gpt-5.5-2026-04-23 | 6.471 |
+| metamuse-spark-1.2 | 6.471 |
 | phi2.7b | 6.471 |
 | gemma-3-27b-it | 6.457 |
 | liquidlfm-2.5-1.2b-instructfree | 6.400 |
@@ -198,6 +200,7 @@
 | qwen2.5-72b-instruct | 5.386 |
 | qwen2.5-7b-instruct | 5.357 |
 | anthropicclaude-sonnet-4.6 | 5.329 |
+| upstagesolar-pro4 | 5.329 |
 | gpt-4.1-2025-04-14 | 5.314 |
 | gpt-4o-2024-08-06 | 5.300 |
 | phi4-reasoningplus | 5.300 |

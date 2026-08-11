@@ -2,6 +2,7 @@
 
 | Model | Average |
 |:--|--:|
+| metamuse-glimmer-30b | 7.700 |
 | mistral-large-2512 | 7.543 |
 | mistral-small-2603 | 7.357 |
 | z-aiglm-5v-turbo | 7.357 |
@@ -189,6 +190,7 @@
 | gpt-4-turbo-2024-04-09 | 5.157 |
 | gemma-4-26b-a4b-it | 5.143 |
 | gpt-4.1-2025-04-14 | 5.143 |
+| metamuse-spark-1.2 | 5.143 |
 | o3-2025-04-16 | 5.143 |
 | Grok-4.30-20260420 | 5.129 |
 | metamuse-spark-1.1 | 5.129 |
@@ -199,6 +201,7 @@
 | qwenqwen3.5-plus-02-15 | 5.086 |
 | gpt-4-0125-preview | 5.086 |
 | nvidiaNVIDIA-Nemotron-3-Super-120B-A12B | 5.071 |
+| upstagesolar-pro4 | 5.029 |
 | gemma-3-27b-it | 5.000 |
 | meituanlongcat-2.0 | 5.000 |
 | openaigpt-oss-120b | 4.986 |

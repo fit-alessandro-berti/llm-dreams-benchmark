@@ -31,6 +31,7 @@
 | o1-preview-2024-09-12 | 9.229 |
 | ibm-granitegranite-4.1-8b | 9.229 |
 | phi3.53.8b-mini-instruct-fp16 | 9.229 |
+| upstagesolar-pro4 | 9.229 |
 | gpt-4.5-preview | 9.214 |
 | gpt-5.3-codex-spark-low | 9.200 |
 | open-mixtral-8x7b | 9.200 |
@@ -59,6 +60,7 @@
 | o1-pro-2024-12-05 | 9.114 |
 | o3-mini-20250131-HIGH | 9.114 |
 | deepseekdeepseek-v3.2 | 9.114 |
+| metamuse-spark-1.2 | 9.114 |
 | qwen2.5-32b-instruct | 9.114 |
 | gpt-5.5-2026-04-23 | 9.100 |
 | qwen3.635b-a3b | 9.100 |
@@ -225,5 +227,6 @@
 | mistral-large-2512 | 7.543 |
 | claude-opus-4-8 | 7.529 |
 | qwen3.54b | 7.457 |
+| metamuse-glimmer-30b | 7.314 |
 | talkie-1930-13b-it | 7.214 |
 | qwen3.50.8b | 6.343 |

@@ -126,6 +126,7 @@
 | gemini-2.5-pro-preview-05-06 | 8.343 |
 | grok-4.20-experimental-beta-0304-non-reasoning | 8.343 |
 | arcee-aitrinity-large-thinking | 8.343 |
+| upstagesolar-pro4 | 8.343 |
 | grok-4.20-experimental-beta-0304-reasoning | 8.329 |
 | gpt-5.5-2026-04-23 | 8.314 |
 | phi2.7b | 8.314 |
@@ -184,6 +185,7 @@
 | xiaomimimo-v2.5-pro | 8.029 |
 | z-aiglm-5.2 | 8.029 |
 | xiaomimimo-v2-omni | 8.000 |
+| metamuse-spark-1.2 | 8.000 |
 | qwenqwen3.5-35b-a3b | 8.000 |
 | moonshotaikimi-k2.7-code | 7.986 |
 | claude-3-5-sonnet-20241022 | 7.986 |
@@ -207,6 +209,7 @@
 | thinkingmachinesinkling-small | 7.800 |
 | xiaomimimo-v2-pro | 7.800 |
 | gemini-2.5-pro-preview-06-05 | 7.786 |
+| metamuse-glimmer-30b | 7.771 |
 | anthropicclaude-fable-5 | 7.757 |
 | anthropicclaude-sonnet-5 | 7.729 |
 | moonshotaikimi-k3 | 7.729 |

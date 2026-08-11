@@ -432,7 +432,9 @@
     100,
     17
   ],
+  "metamuse-glimmer-30b": [],
   "metamuse-spark-1.1": [],
+  "metamuse-spark-1.2": [],
   "microsoftPhi-3-medium-4k-instruct": [
     14
   ],
@@ -710,6 +712,7 @@
   ],
   "thinkingmachinesinkling": [],
   "thinkingmachinesinkling-small": [],
+  "upstagesolar-pro4": [],
   "x-aigrok-4.5": [],
   "xiaomimimo-v2-omni": [],
   "xiaomimimo-v2-pro": [

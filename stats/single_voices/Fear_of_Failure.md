@@ -2,6 +2,7 @@
 
 | Model | Average |
 |:--|--:|
+| metamuse-glimmer-30b | 8.886 |
 | mistral-large-2512 | 8.471 |
 | nvidianemotron-3-ultra-550b-a55bfree | 8.286 |
 | z-aiglm-5v-turbo | 8.214 |
@@ -129,6 +130,7 @@
 | gpt-5.5-2026-04-23 | 5.743 |
 | o1-2024-12-05 | 5.729 |
 | liquidlfm-2-24b-a2b | 5.700 |
+| metamuse-spark-1.2 | 5.671 |
 | Grok-4-fast-20251111 | 5.657 |
 | gpt-4.1-nano-2025-04-14 | 5.614 |
 | allenaiolmo-3-7b-instruct | 5.571 |
@@ -200,6 +202,7 @@
 | xiaomimimo-v2.5 | 4.143 |
 | nvidiaNemotron-3-Nano-Omni-30B-A3B-Reasoning | 4.129 |
 | phi33.8b | 4.100 |
+| upstagesolar-pro4 | 4.086 |
 | ai21jamba-mini-1.7 | 4.043 |
 | o3-2025-04-16 | 4.043 |
 | deepseekdeepseek-v3.2 | 4.029 |

@@ -59,6 +59,7 @@
 | o3-mini-20250131-HIGH | 8.157 |
 | liquidlfm-2.2-6b | 8.143 |
 | gpt-4-0613 | 8.143 |
+| metamuse-spark-1.2 | 8.143 |
 | gpt-4.1-nano-2025-04-14 | 8.129 |
 | Grok-4.3-20260530 | 8.129 |
 | arcee-aitrinity-large-previewfree | 8.114 |
@@ -83,6 +84,7 @@
 | smollm21.7b-instruct-q6_K | 8.014 |
 | o4-mini-2025-04-16 | 7.986 |
 | metamuse-spark-1.1 | 7.971 |
+| upstagesolar-pro4 | 7.957 |
 | meituanlongcat-2.0 | 7.943 |
 | minimaxminimax-m2.5 | 7.943 |
 | openaigpt-5.2-codex | 7.943 |
@@ -225,5 +227,6 @@
 | talkie-1930-13b-it | 5.971 |
 | gemma4e4b | 5.957 |
 | nvidianemotron-3-ultra-550b-a55bfree | 5.814 |
+| metamuse-glimmer-30b | 5.600 |
 | qwen3.54b | 5.557 |
 | qwen3.50.8b | 5.129 |

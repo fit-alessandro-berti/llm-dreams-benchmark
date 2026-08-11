@@ -10,6 +10,7 @@
 | mistral-medium-2508 | 8.771 |
 | gemini-2.5-pro-exp-03-25 | 8.743 |
 | moonshotaikimi-k2.6 | 8.743 |
+| metamuse-glimmer-30b | 8.743 |
 | ministral-3b-2512 | 8.729 |
 | meta-llamaMeta-Llama-3.1-8B-Instruct | 8.729 |
 | tencenthy3-previewfree | 8.714 |
@@ -199,6 +200,7 @@
 | Meta-Muse-Spark-20260409 | 7.029 |
 | microsoftphi-4 | 7.000 |
 | grok-2-1212 | 7.000 |
+| upstagesolar-pro4 | 7.000 |
 | inceptionmercury | 7.000 |
 | phi4-reasoningplus | 7.000 |
 | qwen2.5-72b-instruct | 6.986 |
@@ -210,6 +212,7 @@
 | liquidlfm2-8b-a1b | 6.914 |
 | gpt-4-turbo-2024-04-09 | 6.900 |
 | gpt-4-0125-preview | 6.900 |
+| metamuse-spark-1.2 | 6.871 |
 | xiaomimimo-v2.5 | 6.857 |
 | gpt-4.1-2025-04-14 | 6.829 |
 | o1-preview-2024-09-12 | 6.829 |

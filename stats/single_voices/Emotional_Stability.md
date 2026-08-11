@@ -16,6 +16,7 @@
 | gpt-4.5-preview | 8.271 |
 | gpt-5-nano-2025-08-07 | 8.271 |
 | open-mistral-7b | 8.257 |
+| upstagesolar-pro4 | 8.243 |
 | open-mixtral-8x22b | 8.229 |
 | qwen2.5-72b-instruct | 8.229 |
 | xiaomimimo-v2-pro | 8.229 |
@@ -53,6 +54,7 @@
 | gpt-3.5-turbo | 7.986 |
 | gpt-5-pro-2025-10-06 | 7.986 |
 | minimaxminimax-m2.7 | 7.957 |
+| metamuse-spark-1.2 | 7.943 |
 | gpt-4-0613 | 7.929 |
 | phi4-reasoningplus | 7.900 |
 | qwenqwen3.8-max | 7.900 |
@@ -226,4 +228,5 @@
 | z-aiglm-5v-turbo | 4.943 |
 | nvidianemotron-3-ultra-550b-a55bfree | 4.929 |
 | mistral-large-2512 | 4.800 |
+| metamuse-glimmer-30b | 4.786 |
 | qwen3.50.8b | 4.700 |

@@ -66,6 +66,7 @@
 | granite4tiny-h | 8.771 |
 | minimaxminimax-m2.5 | 8.771 |
 | openaigpt-5.4-nano | 8.771 |
+| upstagesolar-pro4 | 8.771 |
 | gpt-5-2025-08-07 | 8.757 |
 | liquidlfm2-8b-a1b | 8.757 |
 | nvidianemotron-3-nano-30b-a3bfree | 8.757 |
@@ -137,6 +138,7 @@
 | gemini-3.5-flash | 8.457 |
 | gemma-3-27b-it | 8.457 |
 | Gpt-5.1-Pro-20251120 | 8.457 |
+| metamuse-spark-1.2 | 8.443 |
 | deepseekdeepseek-v4-flash-0731 | 8.443 |
 | gemini-3-flash-preview | 8.443 |
 | mistral-medium-3.5 | 8.443 |
@@ -221,6 +223,7 @@
 | llama27b | 7.686 |
 | z-aiglm-5v-turbo | 7.686 |
 | gemma4e2b | 7.643 |
+| metamuse-glimmer-30b | 7.357 |
 | anthropicclaude-sonnet-4.5 | 7.343 |
 | talkie-1930-13b-it | 7.214 |
 | qwen3.54b | 7.186 |

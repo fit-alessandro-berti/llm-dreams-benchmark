@@ -14,6 +14,7 @@
 | o1-preview-2024-09-12 | 8.914 |
 | qwenqwen3.8-max | 8.900 |
 | xiaomimimo-v2.5 | 8.900 |
+| upstagesolar-pro4 | 8.871 |
 | qwenqwen3.6-plusfree | 8.857 |
 | gpt-4o-2024-05-13 | 8.843 |
 | deepseekdeepseek-v4-flash-0731 | 8.829 |
@@ -40,6 +41,7 @@
 | googlegemini-3.1-pro-preview | 8.714 |
 | gpt-5-pro-2025-10-06 | 8.714 |
 | grok-2-1212 | 8.714 |
+| metamuse-spark-1.2 | 8.714 |
 | gpt-4o-mini-2024-07-18 | 8.700 |
 | granite3.28b-instruct-q4_K_M | 8.700 |
 | Qwen-3.6-Max-Preview | 8.700 |
@@ -227,3 +229,4 @@
 | nvidianemotron-3-ultra-550b-a55bfree | 5.286 |
 | meta-llamallama-4-maverick | 5.071 |
 | talkie-1930-13b-it | 5.000 |
+| metamuse-glimmer-30b | 4.757 |

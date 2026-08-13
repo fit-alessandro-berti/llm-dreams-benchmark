@@ -126,6 +126,7 @@
 | anthropicclaude-opus-4.6 | 6.787 |
 | googlegemini-3.1-flash-lite-preview | 6.775 |
 | qwenqwen3.5-397b-a17b | 6.775 |
+| deepseekdeepseek-v4-pro-0813 | 6.738 |
 | gemini-1.5-flash-002 | 6.738 |
 | granite4.13b | 6.737 |
 | bytedance-seedseed-2.0-mini | 6.713 |
@@ -161,6 +162,7 @@
 | gpt-5-2025-08-07 | 6.188 |
 | o1-pro-2024-12-05 | 6.088 |
 | qwen3.635b-a3b | 6.075 |
+| x-aigrok-4.6 | 6.075 |
 | gpt-4-0613 | 6.050 |
 | thinkingmachinesinkling | 6.050 |
 | ChatGPT-5.1-Instant-20251113 | 6.000 |
@@ -195,6 +197,7 @@
 | ibm-granitegranite-4.1-8b | 5.425 |
 | granite4.130b | 5.425 |
 | qwen2.5-7b-instruct | 5.388 |
+| qwenqwen3.8-2.4t-a95b | 5.387 |
 | Grok-4.5-Heavy-20260720 | 5.375 |
 | gpt-4-turbo-2024-04-09 | 5.350 |
 | granite4small-h | 5.338 |

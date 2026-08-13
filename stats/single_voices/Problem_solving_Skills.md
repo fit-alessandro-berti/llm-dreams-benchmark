@@ -39,6 +39,7 @@
 | baiduernie-4.5-21b-a3b | 8.875 |
 | gpt-5-mini-2025-08-07 | 8.875 |
 | o1-pro-2024-12-05 | 8.875 |
+| x-aigrok-4.6 | 8.875 |
 | nvidiaLlama-3.1-Nemotron-70B-Instruct | 8.863 |
 | Grok-4.5-Heavy-20260720 | 8.862 |
 | openaigpt-oss-120b | 8.862 |
@@ -57,6 +58,7 @@
 | amazonnova-2-lite-v1 | 8.775 |
 | claude-3-7-sonnet-20250219 | 8.775 |
 | gpt-4o-mini-2024-07-18 | 8.775 |
+| qwenqwen3.8-2.4t-a95b | 8.775 |
 | granite4micro | 8.763 |
 | arcee-aitrinity-large-previewfree | 8.762 |
 | minimaxminimax-m2.5 | 8.762 |
@@ -203,6 +205,7 @@
 | grok-4.20-multi-agent-experimental-beta-0304 | 8.037 |
 | gemini-2.5-pro-exp-03-25 | 8.025 |
 | poolsidelaguna-xs-2.1 | 8.025 |
+| deepseekdeepseek-v4-pro-0813 | 8.013 |
 | claude-haiku-4-5-20251001 | 7.975 |
 | minimaxminimax-m3 | 7.975 |
 | mistral-small-2603 | 7.963 |

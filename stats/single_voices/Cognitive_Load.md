@@ -98,6 +98,7 @@
 | liquidlfm-2.5-1.2b-thinkingfree | 7.900 |
 | gemini-3.5-flash | 7.875 |
 | openaigpt-5.6-terra | 7.875 |
+| x-aigrok-4.6 | 7.875 |
 | openaigpt-5.6-sol | 7.862 |
 | deepseekdeepseek-v4-pro | 7.850 |
 | nousresearchhermes-4-70b | 7.838 |
@@ -138,6 +139,7 @@
 | qwenqwen3.5-35b-a3b | 7.537 |
 | anthropicclaude-opus-4.6 | 7.525 |
 | Grok-4.30-20260420 | 7.512 |
+| deepseekdeepseek-v4-pro-0813 | 7.500 |
 | liquidlfm-2.5-1.2b-instructfree | 7.500 |
 | meituanlongcat-2.0 | 7.487 |
 | phi33.8b | 7.475 |
@@ -221,6 +223,7 @@
 | qwenqwen3.8-max | 6.737 |
 | qwenqwen3-next-80b-a3b-instruct | 6.737 |
 | qwenqwen3.7-plus | 6.662 |
+| qwenqwen3.8-2.4t-a95b | 6.650 |
 | o3-mini-20250131-HIGH | 6.500 |
 | qwenqwen3.5-122b-a10b | 6.475 |
 | xiaomimimo-v2.5-pro | 6.400 |

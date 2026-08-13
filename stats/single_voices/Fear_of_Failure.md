@@ -117,6 +117,7 @@
 | liquidlfm-2.5-1.2b-thinkingfree | 5.888 |
 | anthropicclaude-opus-4.6 | 5.887 |
 | Qwen-3.6-27B | 5.887 |
+| deepseekdeepseek-v4-pro-0813 | 5.875 |
 | gemma-4-31b-it | 5.875 |
 | qwenqwen3.5-35b-a3b | 5.862 |
 | phi2.7b | 5.838 |
@@ -154,6 +155,7 @@
 | nvidiaNVIDIA-Nemotron-3-Super-120B-A12B | 5.275 |
 | ministral-3b-2410 | 5.250 |
 | llama213b | 5.238 |
+| x-aigrok-4.6 | 5.225 |
 | phi4-reasoning | 5.175 |
 | granite4micro-h | 5.163 |
 | allenaiolmo-3.1-32b-instruct | 5.162 |
@@ -181,6 +183,7 @@
 | phi3.53.8b-mini-instruct-fp16 | 4.612 |
 | Meta-Muse-Spark-20260409 | 4.588 |
 | qwenqwen3.7-plus | 4.562 |
+| qwenqwen3.8-2.4t-a95b | 4.512 |
 | microsoftWizardLM-2-8x22B | 4.487 |
 | granite3.28b-instruct-q4_K_M | 4.475 |
 | gpt-4o-2024-05-13 | 4.400 |

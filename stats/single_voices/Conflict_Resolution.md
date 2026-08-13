@@ -3,6 +3,7 @@
 | Model | Average |
 |:--|--:|
 | qwen2.5-7b-instruct | 9.000 |
+| qwenqwen3.8-2.4t-a95b | 8.988 |
 | inceptionmercury | 8.963 |
 | microsoftWizardLM-2-8x22B | 8.950 |
 | xiaomimimo-v2.5-pro | 8.950 |
@@ -127,6 +128,7 @@
 | openaigpt-5.6-sol | 8.300 |
 | phi4-reasoningplus | 8.275 |
 | Grok-4-fast-20251111 | 8.263 |
+| deepseekdeepseek-v4-pro-0813 | 8.262 |
 | gemini-3-flash-preview | 8.262 |
 | phi2.7b | 8.262 |
 | Grok-4.3-20260530 | 8.250 |
@@ -145,6 +147,7 @@
 | grok-4-1-fast-reasoning | 8.088 |
 | chatgpt-4o-latest-2025-03-26 | 8.087 |
 | moonshotaikimi-k2.5 | 8.075 |
+| x-aigrok-4.6 | 8.050 |
 | grok-4.20-experimental-beta-0304-reasoning | 8.050 |
 | deepseekdeepseek-v3.2-speciale | 8.037 |
 | Gpt-5.1-Pro-20251120 | 8.037 |

@@ -116,6 +116,7 @@
 | metamuse-spark-1.1 | 6.575 |
 | x-aigrok-4.5 | 6.575 |
 | Grok-4-fast-20251111 | 6.538 |
+| deepseekdeepseek-v4-pro-0813 | 6.537 |
 | anthropicclaude-opus-5 | 6.512 |
 | deepseekdeepseek-v4-pro | 6.500 |
 | Qwen-3.6-27B | 6.488 |
@@ -153,6 +154,7 @@
 | gemini-2.0-flash-exp | 5.912 |
 | baiduernie-4.5-300b-a47b | 5.900 |
 | phi4-reasoning | 5.888 |
+| x-aigrok-4.6 | 5.850 |
 | liquidlfm-2.5-1.2b-instructfree | 5.838 |
 | o1-pro-2024-12-05 | 5.812 |
 | openaigpt-5.2-codex | 5.800 |
@@ -186,6 +188,7 @@
 | qwenqwen3.5-122b-a10b | 5.050 |
 | upstagesolar-pro4 | 5.050 |
 | granite3.28b-instruct-q4_K_M | 4.987 |
+| qwenqwen3.8-2.4t-a95b | 4.975 |
 | gpt-4-turbo-2024-04-09 | 4.962 |
 | Grok-4.5-Heavy-20260720 | 4.962 |
 | granite4.130b | 4.938 |

@@ -85,6 +85,7 @@
 | smollm21.7b-instruct-q6_K | 8.012 |
 | stepfunstep-3.7-flash | 7.987 |
 | o4-mini-2025-04-16 | 7.987 |
+| qwenqwen3.8-2.4t-a95b | 7.975 |
 | moonshotaikimi-k3 | 7.975 |
 | upstagesolar-pro4 | 7.975 |
 | meituanlongcat-2.0 | 7.962 |
@@ -148,6 +149,8 @@
 | liquidlfm-2.5-1.2b-instructfree | 7.537 |
 | meta-llamallama-4-scout | 7.537 |
 | qwenqwen3-30b-a3b-instruct-2507 | 7.513 |
+| x-aigrok-4.6 | 7.500 |
+| deepseekdeepseek-v4-pro-0813 | 7.475 |
 | Qwen-3.6-Max-Preview | 7.475 |
 | gemini-2.5-flash-lite | 7.438 |
 | Liquid-LFM2.5-350M | 7.412 |

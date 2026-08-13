@@ -24,6 +24,7 @@
 | xiaomimimo-v2-pro | 9.200 |
 | gpt-4-0613 | 9.188 |
 | gpt-5-nano-2025-08-07 | 9.188 |
+| qwenqwen3.8-2.4t-a95b | 9.188 |
 | xiaomimimo-v2.5 | 9.188 |
 | ai21jamba-mini-1.7 | 9.175 |
 | gpt-4.1-2025-04-14 | 9.175 |
@@ -70,6 +71,7 @@
 | qwenqwen3.7-flash | 9.087 |
 | thinkingmachinesinkling-small | 9.087 |
 | falcon37b-instruct-q8_0 | 9.075 |
+| x-aigrok-4.6 | 9.075 |
 | gpt-4.1-mini-2025-04-14 | 9.062 |
 | o1-2024-12-05 | 9.062 |
 | gemini-2.5-pro-preview-06-05 | 9.050 |
@@ -149,6 +151,7 @@
 | grok-4-0709 | 8.863 |
 | mistral-medium-3.5 | 8.863 |
 | ministral-3b-2410 | 8.850 |
+| deepseekdeepseek-v4-pro-0813 | 8.850 |
 | openaigpt-5.4-pro | 8.850 |
 | allenaiolmo-3.1-32b-instruct | 8.837 |
 | chatgpt-4o-latest-2025-03-26 | 8.825 |

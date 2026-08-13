@@ -106,6 +106,7 @@
 | grok-4-0709 | 8.463 |
 | openaigpt-5.4-mini | 8.463 |
 | phi4-reasoningplus | 8.463 |
+| x-aigrok-4.6 | 8.463 |
 | deepseekdeepseek-v4-flash | 8.450 |
 | Qwen-3.6-27B | 8.450 |
 | gemini-1.5-flash-002 | 8.438 |
@@ -140,6 +141,7 @@
 | qwenqwen3.8-max | 8.262 |
 | bytedance-seedseed-2.0-mini | 8.250 |
 | qwenqwen3.5-plus-02-15 | 8.250 |
+| qwenqwen3.8-2.4t-a95b | 8.250 |
 | z-aiglm-5 | 8.250 |
 | ChatGPT-5.1-Instant-20251113 | 8.238 |
 | gemma-4-31b-it | 8.237 |
@@ -204,6 +206,7 @@
 | deepseekdeepseek-v4-pro | 7.825 |
 | gpt-5.2-pro-2025-12-11 | 7.825 |
 | qwenqwen3.7-flash | 7.825 |
+| deepseekdeepseek-v4-pro-0813 | 7.812 |
 | z-aiglm-5.1 | 7.812 |
 | thinkingmachinesinkling-small | 7.800 |
 | claude-opus-4-5-20251101 | 7.775 |

@@ -9,6 +9,7 @@
 | qwen2.5-14b-instruct | 9.288 |
 | gpt-5-mini-2025-08-07 | 9.287 |
 | qwenqwen3.6-plusfree | 9.275 |
+| qwenqwen3.8-2.4t-a95b | 9.275 |
 | gpt-4-0613 | 9.275 |
 | open-mixtral-8x22b | 9.275 |
 | microsoftWizardLM-2-8x22B | 9.263 |
@@ -90,6 +91,7 @@
 | grok-4.20-experimental-beta-0304-reasoning | 9.000 |
 | openaigpt-5.4-pro | 9.000 |
 | qwenqwen3.7-flash | 9.000 |
+| x-aigrok-4.6 | 9.000 |
 | arcee-aitrinity-large-previewfree | 8.988 |
 | meituanlongcat-2.0 | 8.988 |
 | qwenqwen3-30b-a3b-instruct-2507 | 8.988 |
@@ -132,6 +134,7 @@
 | qwenqwen3.5-35b-a3b | 8.837 |
 | smollm21.7b-instruct-q6_K | 8.825 |
 | liquidlfm-2.5-1.2b-thinkingfree | 8.825 |
+| deepseekdeepseek-v4-pro-0813 | 8.812 |
 | liquidlfm-2.5-1.2b-instructfree | 8.812 |
 | nousresearchhermes-4-70b | 8.812 |
 | Grok-4.1-20251118 | 8.800 |

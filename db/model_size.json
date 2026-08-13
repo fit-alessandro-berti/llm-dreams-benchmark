@@ -157,6 +157,7 @@
     1600,
     49
   ],
+  "deepseekdeepseek-v4-pro-0813": [],
   "falcon310b-instruct-q8_0": [
     10
   ],
@@ -695,6 +696,7 @@
     68
   ],
   "qwenqwen3.7-plus": [],
+  "qwenqwen3.8-2.4t-a95b": [],
   "qwenqwen3.8-max": [],
   "smollm21.7b-instruct-q6_K": [
     1.7
@@ -714,6 +716,7 @@
   "thinkingmachinesinkling-small": [],
   "upstagesolar-pro4": [],
   "x-aigrok-4.5": [],
+  "x-aigrok-4.6": [],
   "xiaomimimo-v2-omni": [],
   "xiaomimimo-v2-pro": [
     1000,

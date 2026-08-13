@@ -77,6 +77,7 @@
 | nvidiaNemotron-3-Nano-Omni-30B-A3B-Reasoning | 8.062 |
 | granite4tiny-h | 8.050 |
 | liquidlfm2-8b-a1b | 8.050 |
+| qwenqwen3.8-2.4t-a95b | 8.050 |
 | minimaxminimax-m2.7 | 8.037 |
 | o4-mini-2025-04-16 | 8.037 |
 | phi2.7b | 8.037 |
@@ -132,6 +133,7 @@
 | ai21jamba-large-1.7 | 7.612 |
 | x-aigrok-4.5 | 7.612 |
 | anthropicclaude-fable-5 | 7.587 |
+| deepseekdeepseek-v4-pro-0813 | 7.575 |
 | nousresearchhermes-4-70b | 7.575 |
 | baiduernie-4.5-21b-a3b | 7.562 |
 | Qwen-3.6-Max-Preview | 7.562 |
@@ -146,6 +148,7 @@
 | anthropicclaude-opus-4.1 | 7.487 |
 | Gpt-5.1-Pro-20251120 | 7.487 |
 | Grok-4.1-20251118 | 7.487 |
+| x-aigrok-4.6 | 7.487 |
 | grok-4.20-experimental-beta-0304-non-reasoning | 7.463 |
 | gemini-1.5-flash-8b | 7.450 |
 | gemini-2.5-pro-preview-06-05 | 7.450 |

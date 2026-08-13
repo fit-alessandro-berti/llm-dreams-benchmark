@@ -40,6 +40,7 @@
 | meituanlongcat-2.0 | 9.700 |
 | nvidianemotron-3-nano-30b-a3bfree | 9.700 |
 | qwenqwen3.5-122b-a10b | 9.700 |
+| qwenqwen3.8-2.4t-a95b | 9.700 |
 | gpt-5-2025-08-07 | 9.688 |
 | anthropicclaude-opus-5 | 9.688 |
 | qwenqwen3-30b-a3b-instruct-2507 | 9.688 |
@@ -50,6 +51,7 @@
 | deepseekdeepseek-v4-flash-0731 | 9.662 |
 | openaigpt-5.4-pro | 9.662 |
 | qwen3.54b | 9.662 |
+| x-aigrok-4.6 | 9.662 |
 | gemini-2.5-flash-lite | 9.662 |
 | qwen3.59b | 9.662 |
 | x-aigrok-4.5 | 9.662 |
@@ -76,6 +78,7 @@
 | openaigpt-5.2-codex | 9.625 |
 | anthropicclaude-sonnet-4.6 | 9.625 |
 | anthropicclaude-sonnet-5 | 9.625 |
+| deepseekdeepseek-v4-pro-0813 | 9.625 |
 | moonshotaikimi-k2.7-code | 9.625 |
 | o3-mini-20250131-HIGH | 9.625 |
 | openaigpt-5.3-codex | 9.625 |

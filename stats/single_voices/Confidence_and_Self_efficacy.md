@@ -63,8 +63,10 @@
 | Grok-4-fast-20251111 | 8.250 |
 | o1-pro-2024-12-05 | 8.250 |
 | openaigpt-5.4-mini | 8.250 |
+| x-aigrok-4.6 | 8.250 |
 | xiaomimimo-v2.5-pro | 8.238 |
 | nousresearchhermes-4-70b | 8.237 |
+| qwenqwen3.8-2.4t-a95b | 8.237 |
 | xiaomimimo-v2-pro | 8.237 |
 | xiaomimimo-v2.5 | 8.225 |
 | liquidlfm-2.2-6b | 8.225 |
@@ -148,6 +150,7 @@
 | allenaiolmo-3-7b-think | 7.663 |
 | anthropicclaude-opus-4.6 | 7.662 |
 | metamuse-spark-1.1 | 7.662 |
+| deepseekdeepseek-v4-pro-0813 | 7.650 |
 | Grok-4.1-20251118 | 7.650 |
 | allenaiolmo-3-7b-instruct | 7.637 |
 | GPT-5.5-Pro-20260422 | 7.637 |

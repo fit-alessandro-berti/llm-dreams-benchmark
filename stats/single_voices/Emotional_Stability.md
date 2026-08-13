@@ -15,6 +15,7 @@
 | xiaomimimo-v2.5-pro | 8.287 |
 | gpt-5-nano-2025-08-07 | 8.275 |
 | ai21jamba-mini-1.7 | 8.262 |
+| qwenqwen3.8-2.4t-a95b | 8.262 |
 | qwen2.5-72b-instruct | 8.250 |
 | o3-2025-04-16 | 8.238 |
 | open-mixtral-8x22b | 8.238 |
@@ -82,6 +83,7 @@
 | qwen3.59b | 7.662 |
 | nousresearchhermes-4-405b | 7.650 |
 | anthropicclaude-opus-4.6 | 7.638 |
+| x-aigrok-4.6 | 7.625 |
 | arcee-aitrinity-large-previewfree | 7.613 |
 | grok-4.20-experimental-beta-0304-reasoning | 7.612 |
 | bytedance-seedseed-2.0-mini | 7.612 |
@@ -118,6 +120,7 @@
 | GPT-5.5-Pro-20260422 | 7.275 |
 | Grok-4-fast-20251111 | 7.250 |
 | phi2.7b | 7.237 |
+| deepseekdeepseek-v4-pro-0813 | 7.237 |
 | nvidiaLlama-3.1-Nemotron-70B-Instruct | 7.225 |
 | gemini-3.5-flash | 7.213 |
 | allenaiolmo-3-7b-instruct | 7.200 |

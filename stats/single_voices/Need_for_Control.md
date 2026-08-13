@@ -136,6 +136,7 @@
 | microsoftphi-4 | 5.725 |
 | o1-preview-2024-09-12 | 5.725 |
 | qwen2.5-72b-instruct | 5.725 |
+| x-aigrok-4.6 | 5.687 |
 | qwen3.52b | 5.663 |
 | liquidlfm-2.2-6b | 5.662 |
 | open-mistral-7b | 5.662 |
@@ -180,6 +181,7 @@
 | phi4-reasoning | 5.250 |
 | nvidianemotron-3-nano-30b-a3bfree | 5.238 |
 | bytedance-seedseed-2.0-lite | 5.212 |
+| deepseekdeepseek-v4-pro-0813 | 5.212 |
 | gpt-4-turbo-2024-04-09 | 5.188 |
 | xiaomimimo-v2-omni | 5.188 |
 | gpt-5-pro-2025-10-06 | 5.175 |
@@ -210,6 +212,7 @@
 | gemma-3-27b-it | 4.888 |
 | liquidlfm2-8b-a1b | 4.888 |
 | gpt-5-nano-2025-08-07 | 4.862 |
+| qwenqwen3.8-2.4t-a95b | 4.800 |
 | xiaomimimo-v2.5 | 4.800 |
 | xiaomimimo-v2.5-pro | 4.700 |
 | Grok-4.3-20260530 | 4.675 |

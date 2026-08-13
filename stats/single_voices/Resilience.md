@@ -70,6 +70,7 @@
 | amazonnova-2-lite-v1 | 9.062 |
 | gpt-5.5-2026-04-23 | 9.062 |
 | liquidlfm-2.2-6b | 9.062 |
+| nvidianemotron-3.5-lightning | 9.062 |
 | phi4-reasoning | 9.062 |
 | nvidiaNVIDIA-Nemotron-3-Super-120B-A12B | 9.062 |
 | qwenqwen3.8-max | 9.050 |

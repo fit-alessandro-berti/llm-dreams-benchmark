@@ -43,6 +43,7 @@
 | Grok-4.5-Heavy-20260720 | 9.162 |
 | o3-mini-20250131-HIGH | 9.162 |
 | Meta-Muse-Spark-20260409 | 9.150 |
+| nvidianemotron-3.5-lightning | 9.150 |
 | o1-preview-2024-09-12 | 9.150 |
 | qwen2.5-7b-instruct | 9.150 |
 | gpt-4o-2024-08-06 | 9.138 |

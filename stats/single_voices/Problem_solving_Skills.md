@@ -93,6 +93,7 @@
 | gemini-3.6-flash | 8.625 |
 | gpt-4.1-nano-2025-04-14 | 8.625 |
 | grok-4.20-experimental-beta-0304-reasoning | 8.625 |
+| nvidianemotron-3.5-lightning | 8.625 |
 | xiaomimimo-v2.5-pro | 8.625 |
 | openaigpt-5.3-codex | 8.613 |
 | qwenqwen3-30b-a3b-instruct-2507 | 8.613 |

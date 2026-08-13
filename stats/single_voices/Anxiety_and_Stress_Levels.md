@@ -177,6 +177,7 @@
 | claude-haiku-4-5-20251001 | 5.350 |
 | falcon310b-instruct-q8_0 | 5.337 |
 | qwen3.635b-a3b | 5.325 |
+| nvidianemotron-3.5-lightning | 5.312 |
 | minimaxminimax-m2.7 | 5.287 |
 | qwenqwen3.8-max | 5.250 |
 | openaigpt-5.4-mini | 5.150 |

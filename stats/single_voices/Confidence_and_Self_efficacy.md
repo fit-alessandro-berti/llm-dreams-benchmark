@@ -61,6 +61,7 @@
 | minimaxminimax-m2.5 | 8.263 |
 | phi3.53.8b-mini-instruct-fp16 | 8.262 |
 | Grok-4-fast-20251111 | 8.250 |
+| nvidianemotron-3.5-lightning | 8.250 |
 | o1-pro-2024-12-05 | 8.250 |
 | openaigpt-5.4-mini | 8.250 |
 | x-aigrok-4.6 | 8.250 |

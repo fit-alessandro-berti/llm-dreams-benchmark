@@ -208,6 +208,7 @@
 | qwen2.5-72b-instruct | 6.938 |
 | upstagesolar-pro4 | 6.937 |
 | gpt-4-turbo-2024-04-09 | 6.913 |
+| nvidianemotron-3.5-lightning | 6.912 |
 | phi4-reasoningplus | 6.912 |
 | open-mistral-7b | 6.888 |
 | gpt-4-0125-preview | 6.888 |

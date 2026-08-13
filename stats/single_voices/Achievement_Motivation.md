@@ -181,6 +181,7 @@
 | poolsidelaguna-xs-2.1 | 8.062 |
 | openaigpt-5.2-codex | 8.050 |
 | deepseekdeepseek-v4-flash-0731 | 8.037 |
+| nvidianemotron-3.5-lightning | 8.025 |
 | z-aiglm-5.2 | 8.025 |
 | gemini-3.5-flash | 8.012 |
 | qwen3.635b-a3b | 8.012 |

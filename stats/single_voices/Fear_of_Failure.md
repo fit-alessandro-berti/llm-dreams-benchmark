@@ -192,6 +192,7 @@
 | anthropicclaude-sonnet-4.6 | 4.362 |
 | gpt-4.1-2025-04-14 | 4.350 |
 | Grok-4.5-Heavy-20260720 | 4.350 |
+| nvidianemotron-3.5-lightning | 4.350 |
 | granite4.130b | 4.325 |
 | xiaomimimo-v2.5-pro | 4.312 |
 | gpt-4.1-mini-2025-04-14 | 4.275 |

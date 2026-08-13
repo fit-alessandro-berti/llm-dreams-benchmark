@@ -70,6 +70,7 @@
 | allenaiolmo-3.1-32b-instruct | 8.088 |
 | qwenqwen3.8-max | 8.088 |
 | nvidianemotron-3-nano-30b-a3bfree | 8.087 |
+| nvidianemotron-3.5-lightning | 8.075 |
 | deepseekdeepseek-v3.2 | 8.062 |
 | gpt-4.1-nano-2025-04-14 | 8.062 |
 | Grok-4.5-Heavy-20260720 | 8.062 |

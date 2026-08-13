@@ -65,6 +65,7 @@
 | Grok-4.3-20260530 | 8.113 |
 | minimaxminimax-m2.7 | 8.113 |
 | liquidlfm2-8b-a1b | 8.088 |
+| nvidianemotron-3.5-lightning | 8.075 |
 | o1-2024-12-17 | 8.075 |
 | granite4tiny-h | 8.063 |
 | Meta-Muse-Spark-20260409 | 8.062 |

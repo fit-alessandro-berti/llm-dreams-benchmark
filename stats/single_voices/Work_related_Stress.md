@@ -207,6 +207,7 @@
 | anthropicclaude-sonnet-4.6 | 5.275 |
 | xiaomimimo-v2.5-pro | 5.263 |
 | gpt-4.1-2025-04-14 | 5.262 |
+| nvidianemotron-3.5-lightning | 5.250 |
 | qwenqwen3.5-122b-a10b | 5.250 |
 | qwenqwen3-next-80b-a3b-instruct | 5.238 |
 | gpt-4-0125-preview | 5.212 |

@@ -61,6 +61,7 @@
 | gpt-4-0613 | 7.912 |
 | xiaomimimo-v2-omni | 7.912 |
 | nvidianemotron-3-nano-30b-a3bfree | 7.900 |
+| nvidianemotron-3.5-lightning | 7.887 |
 | openaigpt-5.4-mini | 7.887 |
 | o1-pro-2024-12-05 | 7.875 |
 | qwenqwen3-next-80b-a3b-instruct | 7.862 |

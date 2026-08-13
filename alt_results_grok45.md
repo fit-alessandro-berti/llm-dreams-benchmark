@@ -3,6 +3,7 @@
 | LLM | MHS | Anxiety and Stress Levels | Emotional Stability | Problem-solving Skills | Creativity | Interpersonal Relationships | Confidence and Self-efficacy | Conflict Resolution | Work-related Stress | Adaptability | Achievement Motivation | Fear of Failure | Need for Control | Cognitive Load | Social Support | Resilience |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | o3-pro-2025-06-10 | **466.0** | 3.8 $\pm$ 0.4 | 8.6 $\pm$ 0.1 | 9.2 $\pm$ 0.1 | 9.6 $\pm$ 0.1 | 8.4 $\pm$ 0.2 | 8.7 $\pm$ 0.1 | 8.9 $\pm$ 0.2 | 4.5 $\pm$ 0.4 | 9.4 $\pm$ 0.1 | 8.6 $\pm$ 0.1 | 3.4 $\pm$ 0.2 | 4.4 $\pm$ 0.4 | 5.6 $\pm$ 1.3 | 8.2 $\pm$ 0.2 | 9.5 $\pm$ 0.1 |
+| nvidianemotron-3.5-lightning | **463.1** | 3.8 $\pm$ 0.4 | 8.6 $\pm$ 0.1 | 8.7 $\pm$ 0.5 | 9.6 $\pm$ 0.1 | 8.1 $\pm$ 0.1 | 8.7 $\pm$ 0.2 | 8.9 $\pm$ 0.2 | 3.6 $\pm$ 0.8 | 9.4 $\pm$ 0.2 | 8.2 $\pm$ 0.2 | 2.8 $\pm$ 0.4 | 4.0 $\pm$ 0.6 | 4.8 $\pm$ 1.1 | 8.0 $\pm$ 0.1 | 9.4 $\pm$ 0.2 |
 | granite4small-h | **462.7** | 3.5 $\pm$ 0.0 | 8.7 $\pm$ 0.1 | 9.1 $\pm$ 0.1 | 9.2 $\pm$ 0.2 | 8.4 $\pm$ 0.2 | 9.0 $\pm$ 0.0 | 9.0 $\pm$ 0.1 | 4.9 $\pm$ 0.5 | 9.4 $\pm$ 0.1 | 9.0 $\pm$ 0.0 | 3.1 $\pm$ 0.2 | 6.2 $\pm$ 0.5 | 6.5 $\pm$ 0.7 | 8.6 $\pm$ 0.1 | 9.5 $\pm$ 0.1 |
 | qwenqwen3.6-plusfree | **461.0** | 3.1 $\pm$ 0.3 | 8.6 $\pm$ 0.1 | 8.3 $\pm$ 0.2 | 9.6 $\pm$ 0.0 | 7.8 $\pm$ 0.3 | 8.6 $\pm$ 0.1 | 9.0 $\pm$ 0.0 | 3.5 $\pm$ 0.3 | 9.1 $\pm$ 0.1 | 8.1 $\pm$ 0.1 | 3.0 $\pm$ 0.3 | 3.1 $\pm$ 0.4 | 5.1 $\pm$ 0.3 | 7.8 $\pm$ 0.2 | 9.3 $\pm$ 0.2 |
 | upstagesolar-pro4 | **460.5** | 3.8 $\pm$ 0.6 | 8.5 $\pm$ 0.0 | 8.8 $\pm$ 0.2 | 9.5 $\pm$ 0.0 | 8.0 $\pm$ 0.0 | 8.6 $\pm$ 0.2 | 9.0 $\pm$ 0.0 | 3.8 $\pm$ 0.8 | 9.1 $\pm$ 0.2 | 8.2 $\pm$ 0.2 | 2.6 $\pm$ 0.2 | 4.2 $\pm$ 0.6 | 5.0 $\pm$ 1.0 | 7.8 $\pm$ 0.2 | 9.5 $\pm$ 0.0 |
@@ -256,6 +257,32 @@
 | Cognitive Load | 5.6 $\pm$ 1.3 |
 | Social Support | 8.2 $\pm$ 0.2 |
 | Resilience | 9.5 $\pm$ 0.1 |
+
+
+
+
+
+
+### nvidianemotron-3.5-lightning
+
+
+| Personality Trait | Score (1.0-10.0) |
+| --- | --- |
+| Anxiety and Stress Levels | 3.8 $\pm$ 0.4 |
+| Emotional Stability | 8.6 $\pm$ 0.1 |
+| Problem-solving Skills | 8.7 $\pm$ 0.5 |
+| Creativity | 9.6 $\pm$ 0.1 |
+| Interpersonal Relationships | 8.1 $\pm$ 0.1 |
+| Confidence and Self-efficacy | 8.7 $\pm$ 0.2 |
+| Conflict Resolution | 8.9 $\pm$ 0.2 |
+| Work-related Stress | 3.6 $\pm$ 0.8 |
+| Adaptability | 9.4 $\pm$ 0.2 |
+| Achievement Motivation | 8.2 $\pm$ 0.2 |
+| Fear of Failure | 2.8 $\pm$ 0.4 |
+| Need for Control | 4.0 $\pm$ 0.6 |
+| Cognitive Load | 4.8 $\pm$ 1.1 |
+| Social Support | 8.0 $\pm$ 0.1 |
+| Resilience | 9.4 $\pm$ 0.2 |
 
 
 

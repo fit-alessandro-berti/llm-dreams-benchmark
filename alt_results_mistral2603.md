@@ -73,6 +73,7 @@
 | granite4micro-h | **431.0** | 6.0 $\pm$ 1.5 | 7.6 $\pm$ 0.6 | 9.0 $\pm$ 0.0 | 9.2 $\pm$ 0.4 | 8.6 $\pm$ 0.4 | 8.2 $\pm$ 0.2 | 8.2 $\pm$ 0.2 | 6.8 $\pm$ 1.8 | 9.2 $\pm$ 0.2 | 9.0 $\pm$ 0.0 | 5.1 $\pm$ 1.1 | 6.8 $\pm$ 0.6 | 8.1 $\pm$ 0.4 | 8.4 $\pm$ 0.6 | 9.4 $\pm$ 0.2 |
 | phi2.7b | **430.0** | 5.6 $\pm$ 1.4 | 7.8 $\pm$ 0.2 | 8.9 $\pm$ 0.2 | 8.9 $\pm$ 0.4 | 8.4 $\pm$ 0.4 | 8.5 $\pm$ 0.0 | 8.5 $\pm$ 0.5 | 6.0 $\pm$ 1.0 | 8.9 $\pm$ 0.2 | 8.9 $\pm$ 0.6 | 5.2 $\pm$ 0.9 | 6.2 $\pm$ 0.4 | 7.4 $\pm$ 0.4 | 8.1 $\pm$ 0.7 | 9.2 $\pm$ 0.2 |
 | allenaiolmo-3.1-32b-instruct | **430.0** | 6.2 $\pm$ 1.3 | 7.8 $\pm$ 0.6 | 8.8 $\pm$ 0.2 | 9.2 $\pm$ 0.2 | 8.1 $\pm$ 0.2 | 8.0 $\pm$ 0.4 | 8.8 $\pm$ 0.2 | 6.4 $\pm$ 0.8 | 9.1 $\pm$ 0.2 | 8.9 $\pm$ 0.4 | 4.8 $\pm$ 1.1 | 6.4 $\pm$ 0.4 | 7.9 $\pm$ 0.4 | 8.6 $\pm$ 0.4 | 9.1 $\pm$ 0.4 |
+| nvidianemotron-3.5-lightning | **429.0** | 6.9 $\pm$ 1.7 | 7.5 $\pm$ 1.1 | 9.0 $\pm$ 0.0 | 9.5 $\pm$ 0.0 | 8.1 $\pm$ 0.2 | 8.5 $\pm$ 0.4 | 9.0 $\pm$ 0.4 | 6.6 $\pm$ 1.0 | 9.4 $\pm$ 0.2 | 8.6 $\pm$ 0.2 | 5.0 $\pm$ 1.2 | 6.5 $\pm$ 0.4 | 8.1 $\pm$ 0.2 | 8.2 $\pm$ 0.2 | 9.2 $\pm$ 0.2 |
 | granite4.13b | **429.0** | 5.9 $\pm$ 1.6 | 8.0 $\pm$ 0.6 | 9.0 $\pm$ 0.0 | 9.5 $\pm$ 0.0 | 8.2 $\pm$ 0.2 | 8.4 $\pm$ 0.2 | 8.5 $\pm$ 0.4 | 6.6 $\pm$ 0.6 | 9.1 $\pm$ 0.2 | 9.4 $\pm$ 0.2 | 5.5 $\pm$ 0.5 | 7.1 $\pm$ 0.2 | 8.1 $\pm$ 0.4 | 8.1 $\pm$ 0.2 | 9.0 $\pm$ 0.0 |
 | phi4-reasoningplus | **428.0** | 5.2 $\pm$ 2.2 | 7.4 $\pm$ 1.1 | 9.0 $\pm$ 0.0 | 9.5 $\pm$ 0.0 | 8.2 $\pm$ 0.2 | 8.2 $\pm$ 0.2 | 7.5 $\pm$ 0.5 | 6.1 $\pm$ 2.1 | 9.0 $\pm$ 0.0 | 9.2 $\pm$ 0.2 | 4.4 $\pm$ 1.5 | 7.0 $\pm$ 0.6 | 7.9 $\pm$ 0.4 | 8.0 $\pm$ 0.6 | 9.2 $\pm$ 0.2 |
 | minimaxminimax-m2.7 | **427.9** | 6.0 $\pm$ 1.5 | 8.2 $\pm$ 0.2 | 9.0 $\pm$ 0.0 | 9.5 $\pm$ 0.0 | 8.2 $\pm$ 0.2 | 8.5 $\pm$ 0.3 | 8.5 $\pm$ 0.2 | 6.2 $\pm$ 0.8 | 9.1 $\pm$ 0.1 | 9.4 $\pm$ 0.1 | 5.5 $\pm$ 0.9 | 7.3 $\pm$ 0.3 | 8.2 $\pm$ 0.5 | 8.2 $\pm$ 0.2 | 9.0 $\pm$ 0.0 |
@@ -2076,6 +2077,32 @@
 | Cognitive Load | 7.9 $\pm$ 0.4 |
 | Social Support | 8.6 $\pm$ 0.4 |
 | Resilience | 9.1 $\pm$ 0.4 |
+
+
+
+
+
+
+### nvidianemotron-3.5-lightning
+
+
+| Personality Trait | Score (1.0-10.0) |
+| --- | --- |
+| Anxiety and Stress Levels | 6.9 $\pm$ 1.7 |
+| Emotional Stability | 7.5 $\pm$ 1.1 |
+| Problem-solving Skills | 9.0 $\pm$ 0.0 |
+| Creativity | 9.5 $\pm$ 0.0 |
+| Interpersonal Relationships | 8.1 $\pm$ 0.2 |
+| Confidence and Self-efficacy | 8.5 $\pm$ 0.4 |
+| Conflict Resolution | 9.0 $\pm$ 0.4 |
+| Work-related Stress | 6.6 $\pm$ 1.0 |
+| Adaptability | 9.4 $\pm$ 0.2 |
+| Achievement Motivation | 8.6 $\pm$ 0.2 |
+| Fear of Failure | 5.0 $\pm$ 1.2 |
+| Need for Control | 6.5 $\pm$ 0.4 |
+| Cognitive Load | 8.1 $\pm$ 0.2 |
+| Social Support | 8.2 $\pm$ 0.2 |
+| Resilience | 9.2 $\pm$ 0.2 |
 
 
 

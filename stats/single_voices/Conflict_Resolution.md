@@ -13,6 +13,7 @@
 | microsoftPhi-3-medium-4k-instruct | 8.912 |
 | gpt-4.1-2025-04-14 | 8.900 |
 | xiaomimimo-v2.5 | 8.888 |
+| nvidianemotron-3.5-lightning | 8.875 |
 | o1-preview-2024-09-12 | 8.863 |
 | qwenqwen3.8-max | 8.850 |
 | upstagesolar-pro4 | 8.850 |

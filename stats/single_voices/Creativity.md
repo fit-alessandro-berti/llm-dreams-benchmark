@@ -57,6 +57,7 @@
 | x-aigrok-4.5 | 9.662 |
 | gpt-5.5-2026-04-23 | 9.650 |
 | moonshotaikimi-k3 | 9.650 |
+| nvidianemotron-3.5-lightning | 9.650 |
 | upstagesolar-pro4 | 9.650 |
 | xiaomimimo-v2-pro | 9.650 |
 | gemma4e4b | 9.650 |

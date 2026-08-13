@@ -214,6 +214,7 @@
 | gpt-5-nano-2025-08-07 | 4.862 |
 | qwenqwen3.8-2.4t-a95b | 4.800 |
 | xiaomimimo-v2.5 | 4.800 |
+| nvidianemotron-3.5-lightning | 4.787 |
 | xiaomimimo-v2.5-pro | 4.700 |
 | Grok-4.3-20260530 | 4.675 |
 | qwenqwen3.8-max | 4.662 |

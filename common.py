@@ -19,6 +19,12 @@ def _read_api_key(env_name, file_name):
 
 
 ALL_JUDGES = {
+    "grok-4.6": {
+        "evaluation_folder": "evaluations-grok46",
+        "git_table_result": "alt_results_grok46.md",
+        "evaluation_api_url": "https://api.x.ai/v1/",
+        "api_key": _read_api_key("GROK_API_KEY", "../api_grok.txt"),
+    },
     "grok-4.5": {
         "evaluation_folder": "evaluations-grok45",
         "git_table_result": "alt_results_grok45.md",
@@ -67,7 +73,9 @@ def get_evaluation_folder(evaluating_model_name=None):
     if evaluating_model_name is None:
         evaluating_model_name = EVALUATING_MODEL_NAME
 
-    if "grok-4.5" in evaluating_model_name:
+    if "grok-4.6" in evaluating_model_name:
+        return ALL_JUDGES["grok-4.6"]["evaluation_folder"]
+    elif "grok-4.5" in evaluating_model_name:
         return ALL_JUDGES["grok-4.5"]["evaluation_folder"]
     elif "grok-4.3" in evaluating_model_name:
         return ALL_JUDGES["grok-4.3"]["evaluation_folder"]
@@ -88,7 +96,9 @@ def get_git_table_result(evaluating_model_name=None):
     if evaluating_model_name is None:
         evaluating_model_name = EVALUATING_MODEL_NAME
 
-    if "grok-4.5" in evaluating_model_name:
+    if "grok-4.6" in evaluating_model_name:
+        return ALL_JUDGES["grok-4.6"]["git_table_result"]
+    elif "grok-4.5" in evaluating_model_name:
         return ALL_JUDGES["grok-4.5"]["git_table_result"]
     elif "grok-4.3" in evaluating_model_name:
         return ALL_JUDGES["grok-4.3"]["git_table_result"]
@@ -109,7 +119,9 @@ def get_evaluation_api_url(evaluating_model_name=None):
     if evaluating_model_name is None:
         evaluating_model_name = EVALUATING_MODEL_NAME
 
-    if "grok-4.5" in evaluating_model_name:
+    if "grok-4.6" in evaluating_model_name:
+        return ALL_JUDGES["grok-4.6"]["evaluation_api_url"]
+    elif "grok-4.5" in evaluating_model_name:
         return ALL_JUDGES["grok-4.5"]["evaluation_api_url"]
     elif "grok-4.3" in evaluating_model_name:
         return ALL_JUDGES["grok-4.3"]["evaluation_api_url"]
@@ -137,7 +149,9 @@ def get_api_key(evaluating_model_name=None):
     if evaluating_model_name is None:
         evaluating_model_name = EVALUATING_MODEL_NAME
 
-    if "grok-4.5" in evaluating_model_name:
+    if "grok-4.6" in evaluating_model_name:
+        return ALL_JUDGES["grok-4.6"]["api_key"]
+    elif "grok-4.5" in evaluating_model_name:
         return ALL_JUDGES["grok-4.5"]["api_key"]
     elif "grok-4.3" in evaluating_model_name:
         return ALL_JUDGES["grok-4.3"]["api_key"]

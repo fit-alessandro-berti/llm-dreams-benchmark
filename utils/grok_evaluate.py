@@ -34,10 +34,10 @@ from file_utils import read_file_with_fallback
 NUMBER_EVALUATIONS = 2
 ANSWER_EXECUTION_INDEXES = ("0.txt", "1.txt")
 DEFAULT_RETRY_DELAY_SECONDS = 17.0
-TARGET_MODEL = "grok-4.5"
+TARGET_MODEL = "grok-4.6"
 TARGET_REASONING_EFFORT = "low"
-MAX_WORKERS = 80
-EVALUATION_FOLDER = Path("evaluations-grok45")
+MAX_WORKERS = 75
+EVALUATION_FOLDER = Path("evaluations-grok46")
 
 TRAIT_KEYS = (
     "Anxiety and Stress Levels",

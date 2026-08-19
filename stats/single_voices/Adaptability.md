@@ -155,6 +155,7 @@
 | deepseekdeepseek-v4-pro-0813 | 8.850 |
 | openaigpt-5.4-pro | 8.850 |
 | allenaiolmo-3.1-32b-instruct | 8.837 |
+| z-aiglm-5.3 | 8.825 |
 | chatgpt-4o-latest-2025-03-26 | 8.825 |
 | grok-4-fast-reasoning | 8.825 |
 | gpt-5-chat-latest-2025-08-19 | 8.813 |

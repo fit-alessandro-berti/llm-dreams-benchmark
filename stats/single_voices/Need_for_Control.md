@@ -100,6 +100,7 @@
 | microsoftPhi-3-medium-4k-instruct | 6.062 |
 | claude-3-7-sonnet-20250219 | 6.038 |
 | open-mixtral-8x7b | 6.038 |
+| z-aiglm-5.3 | 6.038 |
 | gpt-4o-mini-2024-07-18 | 6.025 |
 | phi3.53.8b-mini-instruct-fp16 | 6.025 |
 | o4-mini-2025-04-16 | 6.025 |

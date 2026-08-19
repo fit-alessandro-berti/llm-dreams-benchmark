@@ -138,6 +138,7 @@
 | openaigpt-5.6-sol | 7.075 |
 | claude-opus-4-5-20251101 | 7.050 |
 | gemma-3-27b-it | 7.038 |
+| z-aiglm-5.3 | 7.038 |
 | liquidlfm-2-24b-a2b | 7.037 |
 | openaigpt-5.3-codex | 7.037 |
 | googlegemini-3.1-flash-lite-preview | 7.025 |

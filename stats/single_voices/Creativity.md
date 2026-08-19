@@ -47,6 +47,7 @@
 | qwenqwen3.5-35b-a3b | 9.675 |
 | qwenqwen3.8-max | 9.675 |
 | gemini-3.5-flash-lite | 9.675 |
+| z-aiglm-5.3 | 9.663 |
 | anthropicclaude-opus-4.6 | 9.662 |
 | deepseekdeepseek-v4-flash-0731 | 9.662 |
 | openaigpt-5.4-pro | 9.662 |

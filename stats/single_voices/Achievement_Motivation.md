@@ -216,6 +216,7 @@
 | moonshotaikimi-k3 | 7.737 |
 | xiaomimimo-v2-pro | 7.737 |
 | anthropicclaude-fable-5 | 7.725 |
+| z-aiglm-5.3 | 7.725 |
 | anthropicclaude-sonnet-5 | 7.688 |
 | gemma4e4b | 7.663 |
 | anthropicclaude-sonnet-4.5 | 7.650 |

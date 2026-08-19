@@ -173,6 +173,7 @@
 | grok-build-0.1 | 8.662 |
 | qwenqwen3.5-27b | 8.662 |
 | z-aiglm-5 | 8.662 |
+| z-aiglm-5.3 | 8.662 |
 | gpt-5.2-2025-12-11 | 8.650 |
 | prime-intellectintellect-3 | 8.650 |
 | mistral-medium-3.5 | 8.638 |

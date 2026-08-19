@@ -133,6 +133,7 @@
 | chatgpt-4o-latest-2025-03-26 | 7.662 |
 | claude-3-7-sonnet-20250219 | 7.662 |
 | falcon33b-instruct-q8_0 | 7.662 |
+| z-aiglm-5.3 | 7.650 |
 | o1-2024-12-05 | 7.638 |
 | openaigpt-5.4-pro | 7.637 |
 | grok-4-fast-reasoning | 7.587 |

@@ -192,6 +192,7 @@
 | Gpt-5.1-Pro-20251120 | 7.188 |
 | meta-llamaMeta-Llama-3.1-70B-Instruct | 7.188 |
 | tencenthy3-previewfree | 7.188 |
+| z-aiglm-5.3 | 7.187 |
 | meta-llamaLlama-3.2-3B-Instruct | 7.150 |
 | anthropicclaude-opus-5 | 7.150 |
 | minimaxminimax-m3 | 7.138 |

@@ -71,6 +71,7 @@
 | z-aiglm-5.1 | 7.138 |
 | gemini-3.5-flash-lite | 7.137 |
 | deepseekdeepseek-v4-flash | 7.125 |
+| z-aiglm-5.3 | 7.100 |
 | grok-4-fast-reasoning | 7.087 |
 | z-aiglm-5.2 | 7.087 |
 | anthropicclaude-sonnet-5 | 7.075 |

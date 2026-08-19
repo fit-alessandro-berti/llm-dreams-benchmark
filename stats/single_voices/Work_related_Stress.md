@@ -48,6 +48,7 @@
 | granite4tiny-h | 7.763 |
 | Liquid-LFM2.5-350M | 7.762 |
 | Gemini-1.5-Pro-Exp-0827 | 7.750 |
+| z-aiglm-5.3 | 7.737 |
 | arcee-aitrinity-large-thinking | 7.725 |
 | baiduernie-4.5-21b-a3b | 7.725 |
 | qwenqwen3.7-max | 7.688 |

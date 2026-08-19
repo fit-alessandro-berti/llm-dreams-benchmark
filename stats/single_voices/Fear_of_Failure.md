@@ -55,6 +55,7 @@
 | openaigpt-5.4-pro | 6.913 |
 | moonshotaikimi-k3 | 6.912 |
 | openaigpt-5.6-luna | 6.912 |
+| z-aiglm-5.3 | 6.900 |
 | claude-3-5-sonnet-20241022 | 6.887 |
 | openaigpt-5.4-nano | 6.875 |
 | arcee-aitrinity-large-thinking | 6.863 |

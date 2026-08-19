@@ -70,6 +70,7 @@
 | meta-llamaMeta-Llama-3.1-405B-Instruct | 8.050 |
 | mistral-medium-3.5 | 8.050 |
 | z-aiglm-5.2 | 8.050 |
+| z-aiglm-5.3 | 8.050 |
 | qwenqwen3-30b-a3b-instruct-2507 | 8.038 |
 | claude-opus-4-8 | 8.037 |
 | openaigpt-5.6-luna | 8.037 |

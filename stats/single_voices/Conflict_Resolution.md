@@ -189,6 +189,7 @@
 | stepfunstep-3.7-flash | 7.500 |
 | prime-intellectintellect-3 | 7.487 |
 | falcon37b-instruct-q8_0 | 7.325 |
+| z-aiglm-5.3 | 7.300 |
 | granite4micro | 7.300 |
 | gemini-2.5-flash-lite | 7.288 |
 | ibmgranite41b-h | 7.288 |

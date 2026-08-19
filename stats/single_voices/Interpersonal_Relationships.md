@@ -134,6 +134,7 @@
 | ai21jamba-large-1.7 | 7.612 |
 | x-aigrok-4.5 | 7.612 |
 | anthropicclaude-fable-5 | 7.587 |
+| z-aiglm-5.3 | 7.587 |
 | deepseekdeepseek-v4-pro-0813 | 7.575 |
 | nousresearchhermes-4-70b | 7.575 |
 | baiduernie-4.5-21b-a3b | 7.562 |

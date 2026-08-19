@@ -195,6 +195,7 @@
 | mistral-medium-2508 | 8.162 |
 | anthropicclaude-sonnet-5 | 8.150 |
 | z-aiglm-5 | 8.150 |
+| z-aiglm-5.3 | 8.137 |
 | ministral-14b-2512 | 8.125 |
 | aion-labsaion-2.0 | 8.113 |
 | z-aiglm-5.2 | 8.100 |

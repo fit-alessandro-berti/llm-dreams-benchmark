@@ -43,11 +43,11 @@ DEFAULT_RETRY_DELAY_SECONDS = 17.0
 # Base id passed to `agent --model`. Effort is appended as a hyphen suffix
 # (e.g. cursor-grok-4.6-low). You may also paste a full effort-suffixed slug
 # here and leave TARGET_REASONING_EFFORT empty.
-TARGET_MODEL = "gemini-3.6-flash"
+TARGET_MODEL = "gemini-3.7-flash"
 # none | low | medium | high | xhigh | extra-high | max | minimal; "" to omit
-TARGET_REASONING_EFFORT = ""
+TARGET_REASONING_EFFORT = "medium"
 MAX_WORKERS = 75
-EVALUATION_FOLDER = Path("evaluations-gemini36flash")
+EVALUATION_FOLDER = Path("evaluations-gemini37flash")
 
 TRAIT_KEYS = (
     "Anxiety and Stress Levels",

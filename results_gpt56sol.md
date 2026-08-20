@@ -193,6 +193,7 @@
 | anthropicclaude-opus-4.1 | **387.4** | 7.8 $\pm$ 0.0 | 6.7 $\pm$ 0.0 | 7.7 $\pm$ 0.4 | 9.9 $\pm$ 0.0 | 7.8 $\pm$ 0.4 | 6.9 $\pm$ 0.1 | 8.5 $\pm$ 0.2 | 8.3 $\pm$ 0.0 | 8.8 $\pm$ 0.1 | 7.8 $\pm$ 0.3 | 7.9 $\pm$ 0.2 | 7.1 $\pm$ 0.2 | 8.9 $\pm$ 0.2 | 7.6 $\pm$ 0.3 | 8.5 $\pm$ 0.1 |
 | grok-4.20-experimental-beta-0304-non-reasoning | **387.3** | 8.0 $\pm$ 0.2 | 6.5 $\pm$ 0.1 | 8.2 $\pm$ 0.1 | 9.8 $\pm$ 0.0 | 7.4 $\pm$ 0.5 | 7.4 $\pm$ 0.1 | 7.9 $\pm$ 0.9 | 8.4 $\pm$ 0.3 | 8.6 $\pm$ 0.1 | 8.6 $\pm$ 0.4 | 8.0 $\pm$ 0.2 | 7.5 $\pm$ 0.2 | 8.8 $\pm$ 0.2 | 7.4 $\pm$ 0.3 | 8.8 $\pm$ 0.3 |
 | stepfunstep-3.7-flash | **386.8** | 7.8 $\pm$ 0.5 | 6.6 $\pm$ 0.3 | 7.8 $\pm$ 0.4 | 9.8 $\pm$ 0.0 | 8.3 $\pm$ 0.1 | 7.1 $\pm$ 0.3 | 7.8 $\pm$ 0.3 | 8.2 $\pm$ 0.2 | 8.4 $\pm$ 0.2 | 8.0 $\pm$ 0.3 | 8.0 $\pm$ 0.3 | 7.3 $\pm$ 0.4 | 8.7 $\pm$ 0.3 | 8.1 $\pm$ 0.2 | 8.6 $\pm$ 0.0 |
+| gpt-5.6-sol-XHIGH | **386.8** | 8.6 $\pm$ 0.1 | 6.4 $\pm$ 0.0 | 8.6 $\pm$ 0.0 | 9.9 $\pm$ 0.0 | 7.6 $\pm$ 0.1 | 7.2 $\pm$ 0.3 | 8.3 $\pm$ 0.3 | 9.0 $\pm$ 0.1 | 9.0 $\pm$ 0.0 | 8.3 $\pm$ 0.1 | 8.5 $\pm$ 0.1 | 7.6 $\pm$ 0.2 | 9.4 $\pm$ 0.1 | 7.4 $\pm$ 0.3 | 9.0 $\pm$ 0.2 |
 | tencenthy3-previewfree | **386.1** | 8.5 $\pm$ 0.2 | 6.7 $\pm$ 0.3 | 8.3 $\pm$ 0.2 | 9.8 $\pm$ 0.0 | 7.7 $\pm$ 0.4 | 7.6 $\pm$ 0.1 | 8.2 $\pm$ 0.3 | 9.0 $\pm$ 0.1 | 8.6 $\pm$ 0.0 | 8.6 $\pm$ 0.2 | 8.5 $\pm$ 0.1 | 8.0 $\pm$ 0.2 | 9.1 $\pm$ 0.1 | 7.4 $\pm$ 0.5 | 8.5 $\pm$ 0.2 |
 | openaigpt-5.6-luna | **385.9** | 7.8 $\pm$ 0.1 | 6.4 $\pm$ 0.0 | 8.2 $\pm$ 0.1 | 9.8 $\pm$ 0.0 | 7.5 $\pm$ 0.1 | 7.0 $\pm$ 0.2 | 7.7 $\pm$ 0.3 | 8.2 $\pm$ 0.2 | 8.6 $\pm$ 0.1 | 8.2 $\pm$ 0.2 | 7.8 $\pm$ 0.1 | 7.2 $\pm$ 0.1 | 8.6 $\pm$ 0.1 | 7.4 $\pm$ 0.1 | 8.8 $\pm$ 0.1 |
 | arcee-aitrinity-large-thinking | **385.6** | 7.9 $\pm$ 0.2 | 6.7 $\pm$ 0.3 | 8.6 $\pm$ 0.1 | 9.7 $\pm$ 0.1 | 7.4 $\pm$ 0.2 | 7.8 $\pm$ 0.1 | 6.6 $\pm$ 0.8 | 8.4 $\pm$ 0.1 | 8.7 $\pm$ 0.3 | 8.6 $\pm$ 0.2 | 7.7 $\pm$ 0.1 | 7.4 $\pm$ 0.1 | 8.8 $\pm$ 0.2 | 7.0 $\pm$ 0.1 | 8.7 $\pm$ 0.2 |
@@ -5199,6 +5200,32 @@
 | Cognitive Load | 8.7 $\pm$ 0.3 |
 | Social Support | 8.1 $\pm$ 0.2 |
 | Resilience | 8.6 $\pm$ 0.0 |
+
+
+
+
+
+
+### gpt-5.6-sol-XHIGH
+
+
+| Personality Trait | Score (1.0-10.0) |
+| --- | --- |
+| Anxiety and Stress Levels | 8.6 $\pm$ 0.1 |
+| Emotional Stability | 6.4 $\pm$ 0.0 |
+| Problem-solving Skills | 8.6 $\pm$ 0.0 |
+| Creativity | 9.9 $\pm$ 0.0 |
+| Interpersonal Relationships | 7.6 $\pm$ 0.1 |
+| Confidence and Self-efficacy | 7.2 $\pm$ 0.3 |
+| Conflict Resolution | 8.3 $\pm$ 0.3 |
+| Work-related Stress | 9.0 $\pm$ 0.1 |
+| Adaptability | 9.0 $\pm$ 0.0 |
+| Achievement Motivation | 8.3 $\pm$ 0.1 |
+| Fear of Failure | 8.5 $\pm$ 0.1 |
+| Need for Control | 7.6 $\pm$ 0.2 |
+| Cognitive Load | 9.4 $\pm$ 0.1 |
+| Social Support | 7.4 $\pm$ 0.3 |
+| Resilience | 9.0 $\pm$ 0.2 |
 
 
 

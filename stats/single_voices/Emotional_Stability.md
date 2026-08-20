@@ -204,6 +204,7 @@
 | z-aiglm-5 | 6.263 |
 | openaigpt-5.3-chat | 6.263 |
 | grok-build-0.1 | 6.213 |
+| gpt-5.6-sol-XHIGH | 6.200 |
 | tencenthy3-previewfree | 6.188 |
 | meta-llamaLlama-3.2-3B-Instruct | 6.137 |
 | meta-llamaLlama-3.3-70B-Instruct | 6.125 |

@@ -219,6 +219,7 @@
 | z-aiglm-5.3 | 7.725 |
 | anthropicclaude-sonnet-5 | 7.688 |
 | gemma4e4b | 7.663 |
+| gpt-5.6-sol-XHIGH | 7.650 |
 | anthropicclaude-sonnet-4.5 | 7.650 |
 | qwenqwen3.5-122b-a10b | 7.638 |
 | qwenqwen3.5-27b | 7.613 |

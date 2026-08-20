@@ -191,6 +191,7 @@
 | z-aiglm-5.2 | 7.188 |
 | tencenthy3-previewfree | 7.175 |
 | mistral-medium-3.5 | 7.150 |
+| gpt-5.6-sol-XHIGH | 7.138 |
 | qwenqwen3.5-122b-a10b | 7.137 |
 | qwenqwen3.5-27b | 7.125 |
 | openaigpt-5.6-terra | 7.100 |

@@ -207,6 +207,7 @@
 | meta-llamaMeta-Llama-3.1-8B-Instruct | 6.938 |
 | allenaiolmo-3-7b-think | 6.925 |
 | grok-4.20-multi-agent-experimental-beta-0304 | 6.913 |
+| gpt-5.6-sol-XHIGH | 6.875 |
 | ministral-14b-2512 | 6.850 |
 | grok-build-0.1 | 6.850 |
 | qwenqwen3.5-397b-a17b | 6.837 |

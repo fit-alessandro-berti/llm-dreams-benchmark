@@ -213,6 +213,7 @@
 | talkie-1930-13b-it | 6.950 |
 | openaigpt-5.6-luna | 6.925 |
 | anthropicclaude-opus-4.1 | 6.912 |
+| gpt-5.6-sol-XHIGH | 6.875 |
 | mistral-medium-2508 | 6.875 |
 | gpt-5.2-pro-2025-12-11 | 6.825 |
 | poolsidelaguna-xs-2.1 | 6.825 |

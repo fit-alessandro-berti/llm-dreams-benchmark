@@ -95,6 +95,7 @@
 | grok-4.20-experimental-beta-0304-reasoning | 8.625 |
 | nvidianemotron-3.5-lightning | 8.625 |
 | xiaomimimo-v2.5-pro | 8.625 |
+| gpt-5.6-sol-XHIGH | 8.613 |
 | openaigpt-5.3-codex | 8.613 |
 | qwenqwen3-30b-a3b-instruct-2507 | 8.613 |
 | gemini-2.0-pro-exp-02-05 | 8.612 |

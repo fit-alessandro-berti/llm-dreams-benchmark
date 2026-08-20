@@ -5,6 +5,7 @@
 | nvidianemotron-3-ultra-550b-a55bfree | 8.988 |
 | z-aiglm-5v-turbo | 8.862 |
 | gemma4e4b | 8.787 |
+| gpt-5.6-sol-XHIGH | 8.787 |
 | anthropicclaude-sonnet-4.5 | 8.762 |
 | mistral-large-2512 | 8.750 |
 | gemini-2.5-pro-exp-03-25 | 8.725 |

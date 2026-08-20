@@ -39,6 +39,7 @@
 | gemini-2.5-pro-exp-03-25 | 6.675 |
 | grok-build-0.1 | 6.663 |
 | allenaiolmo-3-7b-think | 6.650 |
+| gpt-5.6-sol-XHIGH | 6.650 |
 | ai21jamba-large-1.7 | 6.638 |
 | gemma4e4b | 6.562 |
 | openaigpt-5.3-chat | 6.562 |

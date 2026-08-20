@@ -13,6 +13,7 @@
 | anthropicclaude-sonnet-4.5 | 8.150 |
 | mistral-medium-2508 | 8.125 |
 | gemini-3-pro-preview | 8.113 |
+| gpt-5.6-sol-XHIGH | 8.087 |
 | ministral-3b-2512 | 8.075 |
 | gemma4e2b | 8.062 |
 | llama27b | 7.975 |

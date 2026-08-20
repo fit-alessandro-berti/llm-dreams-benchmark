@@ -19,6 +19,7 @@
 | claude-3-opus-20240229 | 7.763 |
 | aion-labsaion-2.0 | 7.750 |
 | tencenthy3-previewfree | 7.712 |
+| gpt-5.6-sol-XHIGH | 7.675 |
 | claude-opus-4-7 | 7.663 |
 | grok-4.20-multi-agent-experimental-beta-0304 | 7.612 |
 | gemini-2.0-pro-exp-02-05 | 7.600 |

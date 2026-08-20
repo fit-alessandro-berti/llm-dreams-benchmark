@@ -19,6 +19,7 @@
 | meta-llamaMeta-Llama-3.1-70B-Instruct | 8.312 |
 | moonshotaikimi-k2.6 | 8.275 |
 | grok-build-0.1 | 8.262 |
+| gpt-5.6-sol-XHIGH | 8.250 |
 | ibmgranite41b-h | 8.250 |
 | meta-llamaMeta-Llama-3.1-8B-Instruct | 8.250 |
 | mistral-medium-2508 | 8.225 |

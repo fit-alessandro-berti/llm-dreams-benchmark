@@ -178,6 +178,7 @@
 | chatgpt-4o-latest-2024-11-20 | 7.737 |
 | qwenqwen3.7-flash | 7.700 |
 | grok-4-fast-reasoning | 7.700 |
+| gpt-5.6-sol-XHIGH | 7.663 |
 | grok-4.20-multi-agent-experimental-beta-0304 | 7.650 |
 | meta-llamaMeta-Llama-3.1-8B-Instruct | 7.650 |
 | grok-4-0709 | 7.637 |

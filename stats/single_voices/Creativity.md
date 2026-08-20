@@ -15,6 +15,7 @@
 | qwenqwen3.7-max | 9.775 |
 | thinkingmachinesinkling | 9.775 |
 | gemini-3-flash-preview | 9.762 |
+| gpt-5.6-sol-XHIGH | 9.762 |
 | Grok-4.30-20260420 | 9.762 |
 | Grok-4.5-Heavy-20260720 | 9.750 |
 | openaigpt-oss-120b | 9.750 |

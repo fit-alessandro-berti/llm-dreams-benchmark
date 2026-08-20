@@ -156,6 +156,7 @@
 | ministral-3b-2410 | 8.750 |
 | Gpt-5.1-Pro-20251120 | 8.738 |
 | bytedance-seedseed-2.0-lite | 8.737 |
+| gpt-5.6-sol-XHIGH | 8.737 |
 | nvidiaLlama-3.1-Nemotron-70B-Instruct | 8.737 |
 | Gemini-1.5-Pro-Exp-0827 | 8.725 |
 | googlegemini-3.1-flash-lite-preview | 8.725 |

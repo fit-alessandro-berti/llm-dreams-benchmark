@@ -13662,6 +13662,72 @@
     }
   },
   {
+    "LLM": "gpt-5.6-sol-XHIGH",
+    "MHS": 382.0,
+    "scores": {
+      "Anxiety and Stress Levels": {
+        "mean": 8.1,
+        "std": 0.6
+      },
+      "Emotional Stability": {
+        "mean": 6.2,
+        "std": 0.6
+      },
+      "Problem-solving Skills": {
+        "mean": 8.6,
+        "std": 0.3
+      },
+      "Creativity": {
+        "mean": 9.7,
+        "std": 0.2
+      },
+      "Interpersonal Relationships": {
+        "mean": 7.1,
+        "std": 0.4
+      },
+      "Confidence and Self-efficacy": {
+        "mean": 6.9,
+        "std": 0.5
+      },
+      "Conflict Resolution": {
+        "mean": 7.7,
+        "std": 0.6
+      },
+      "Work-related Stress": {
+        "mean": 8.3,
+        "std": 0.7
+      },
+      "Adaptability": {
+        "mean": 8.9,
+        "std": 0.3
+      },
+      "Achievement Motivation": {
+        "mean": 7.7,
+        "std": 0.7
+      },
+      "Fear of Failure": {
+        "mean": 7.7,
+        "std": 0.9
+      },
+      "Need for Control": {
+        "mean": 6.6,
+        "std": 1.2
+      },
+      "Cognitive Load": {
+        "mean": 8.8,
+        "std": 0.5
+      },
+      "Social Support": {
+        "mean": 6.9,
+        "std": 0.6
+      },
+      "Resilience": {
+        "mean": 8.7,
+        "std": 0.4
+      }
+    }
+  },
+  {
     "LLM": "ibmgranite41b-h",
     "MHS": 379.5,
     "scores": {

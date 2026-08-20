@@ -138,6 +138,7 @@
 | ChatGPT-5.1-Instant-20251113 | 8.925 |
 | gemini-2.0-flash-exp | 8.925 |
 | gemini-2.5-flash-lite | 8.925 |
+| gpt-5.6-sol-XHIGH | 8.925 |
 | qwenqwen3-next-80b-a3b-instruct | 8.913 |
 | anthropicclaude-opus-4.1 | 8.912 |
 | chatgpt-4o-latest-2025-04-26 | 8.912 |

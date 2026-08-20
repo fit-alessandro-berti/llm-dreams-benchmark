@@ -85,6 +85,7 @@ Alternative leaderboards (maintaned and updated less frequently):
 * [grok-4.6](alt_results_grok46.md)
 * [grok-4.5](alt_results_grok45.md)
 * [grok-4.3](alt_results_grok43.md)
+* [gemini-3.7-flash](alt_results_gemini37flash.md)
 * [gpt-5.6-terra](alt_results_gpt56terra.md)
 * [gpt-5.5](alt_results_gpt55.md)
 * [qwen36-plus](alt_results_qwen36-plus.md)

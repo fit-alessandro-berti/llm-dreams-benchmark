@@ -30,8 +30,8 @@ if str(REPO_ROOT) not in sys.path:
 # ---------------------------------------------------------------------------
 # Hard-coded run configuration — edit these before launching.
 # ---------------------------------------------------------------------------
-TARGET_MODEL_NAME = "gpt-5.4-XHIGH"  # prefix used in answers/
-TARGET_MODEL = "gpt-5.4"  # value passed to codex --model
+TARGET_MODEL_NAME = "gpt-5.6-sol-XHIGH"  # prefix used in answers/
+TARGET_MODEL = "gpt-5.6-sol"  # value passed to codex --model
 TARGET_REASONING_EFFORT = "xhigh"  # none | low | medium | high | xhigh
 
 # Max concurrent Codex CLI invocations. Each worker handles one answer

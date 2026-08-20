@@ -61,6 +61,7 @@
 | o3-mini-20250131-HIGH | 8.637 |
 | gpt-4.1-nano-2025-04-14 | 8.625 |
 | amazonnova-2-lite-v1 | 8.613 |
+| claude-fable-5-high | 8.612 |
 | moonshotaikimi-k2.7-code | 8.600 |
 | nvidiaLlama-3.1-Nemotron-70B-Instruct | 8.588 |
 | openaigpt-5.4-mini | 8.588 |

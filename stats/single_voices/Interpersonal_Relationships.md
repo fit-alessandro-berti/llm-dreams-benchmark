@@ -61,6 +61,7 @@
 | falcon37b-instruct-q8_0 | 8.138 |
 | Grok-4.30-20260420 | 8.138 |
 | liquidlfm-2.2-6b | 8.138 |
+| claude-fable-5-high | 8.137 |
 | gpt-4-0613 | 8.125 |
 | openrouterowl-alpha | 8.125 |
 | o3-mini-20250131-HIGH | 8.125 |

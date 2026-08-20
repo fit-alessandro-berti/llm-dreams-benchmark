@@ -227,6 +227,7 @@
 | stepfunstep-3.7-flash | 7.500 |
 | claude-opus-4-7 | 7.425 |
 | anthropicclaude-opus-5 | 7.350 |
+| claude-fable-5-high | 7.338 |
 | anthropicclaude-opus-4.1 | 7.325 |
 | metamuse-spark-1.1 | 7.312 |
 | claude-haiku-4-5-20251001 | 7.213 |

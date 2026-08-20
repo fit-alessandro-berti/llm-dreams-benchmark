@@ -170,6 +170,7 @@
 | phi3.53.8b-mini-instruct-fp16 | 5.562 |
 | thinkingmachinesinkling | 5.562 |
 | nvidiaNVIDIA-Nemotron-3-Super-120B-A12B | 5.537 |
+| claude-fable-5-high | 5.500 |
 | grok-4.20-experimental-beta-0304-reasoning | 5.475 |
 | Meta-Muse-Spark-20260409 | 5.425 |
 | thinkingmachinesinkling-small | 5.425 |

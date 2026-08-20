@@ -128,6 +128,7 @@
 | phi2.7b | 8.500 |
 | gemini-2.0-flash-exp | 8.488 |
 | qwenqwen3.7-max | 8.488 |
+| claude-fable-5-high | 8.487 |
 | gemini-2.5-flash-lite | 8.487 |
 | googlegemini-3.1-flash-lite-preview | 8.487 |
 | gpt-5.2-pro-2025-12-11 | 8.475 |

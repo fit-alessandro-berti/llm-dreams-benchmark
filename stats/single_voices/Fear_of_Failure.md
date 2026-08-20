@@ -163,6 +163,7 @@
 | o4-mini-2025-04-16 | 5.125 |
 | o1-pro-2024-12-05 | 5.112 |
 | thinkingmachinesinkling-small | 5.112 |
+| claude-fable-5-high | 5.062 |
 | liquidlfm-2.5-1.2b-instructfree | 5.050 |
 | grok-4.20-experimental-beta-0304-reasoning | 5.013 |
 | qwen3.59b | 5.013 |

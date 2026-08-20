@@ -37,6 +37,7 @@
 | openaigpt-oss-120b | 8.400 |
 | gpt-4-turbo-2024-04-09 | 8.363 |
 | open-mixtral-8x7b | 8.363 |
+| claude-fable-5-high | 8.350 |
 | ai21jamba-mini-1.7 | 8.338 |
 | phi3.53.8b-mini-instruct-fp16 | 8.338 |
 | gpt-4.1-mini-2025-04-14 | 8.312 |

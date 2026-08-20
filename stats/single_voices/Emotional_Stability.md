@@ -76,6 +76,7 @@
 | o1-2024-12-17 | 7.775 |
 | gpt-4o-mini-2024-07-18 | 7.763 |
 | granite4micro-h | 7.750 |
+| claude-fable-5-high | 7.750 |
 | qwenqwen3.5-122b-a10b | 7.738 |
 | gpt-5-2025-08-07 | 7.713 |
 | thinkingmachinesinkling-small | 7.700 |

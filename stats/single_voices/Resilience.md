@@ -73,6 +73,7 @@
 | nvidianemotron-3.5-lightning | 9.062 |
 | phi4-reasoning | 9.062 |
 | nvidiaNVIDIA-Nemotron-3-Super-120B-A12B | 9.062 |
+| claude-fable-5-high | 9.050 |
 | qwenqwen3.8-max | 9.050 |
 | thinkingmachinesinkling | 9.050 |
 | GPT-5.5-Pro-20260422 | 9.050 |

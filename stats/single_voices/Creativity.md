@@ -46,6 +46,7 @@
 | qwenqwen3-30b-a3b-instruct-2507 | 9.688 |
 | qwenqwen3.5-35b-a3b | 9.675 |
 | qwenqwen3.8-max | 9.675 |
+| claude-fable-5-high | 9.675 |
 | gemini-3.5-flash-lite | 9.675 |
 | z-aiglm-5.3 | 9.663 |
 | anthropicclaude-opus-4.6 | 9.662 |

@@ -72,6 +72,7 @@
 | phi4-reasoning | **453.2** | 4.2 $\pm$ 0.4 | 8.0 $\pm$ 0.3 | 8.2 $\pm$ 0.2 | 9.6 $\pm$ 0.1 | 7.9 $\pm$ 0.4 | 8.2 $\pm$ 0.2 | 8.9 $\pm$ 0.2 | 5.0 $\pm$ 0.6 | 9.1 $\pm$ 0.1 | 8.6 $\pm$ 0.2 | 3.1 $\pm$ 0.4 | 3.1 $\pm$ 0.2 | 6.8 $\pm$ 0.4 | 7.6 $\pm$ 0.5 | 9.4 $\pm$ 0.1 |
 | openaigpt-5.2-codex | **452.7** | 4.8 $\pm$ 1.3 | 7.8 $\pm$ 0.3 | 8.7 $\pm$ 0.2 | 9.7 $\pm$ 0.1 | 7.5 $\pm$ 0.5 | 8.2 $\pm$ 0.2 | 8.7 $\pm$ 0.2 | 6.6 $\pm$ 0.4 | 9.4 $\pm$ 0.2 | 8.4 $\pm$ 0.4 | 3.9 $\pm$ 0.8 | 3.3 $\pm$ 0.3 | 6.8 $\pm$ 0.8 | 7.8 $\pm$ 0.4 | 9.1 $\pm$ 0.1 |
 | falcon310b-instruct-q8_0 | **452.5** | 4.8 $\pm$ 1.1 | 7.9 $\pm$ 0.2 | 9.1 $\pm$ 0.1 | 9.6 $\pm$ 0.2 | 8.0 $\pm$ 0.4 | 8.8 $\pm$ 0.1 | 8.5 $\pm$ 0.6 | 6.1 $\pm$ 1.1 | 9.4 $\pm$ 0.1 | 9.1 $\pm$ 0.2 | 3.6 $\pm$ 0.6 | 5.2 $\pm$ 0.5 | 7.4 $\pm$ 0.6 | 8.1 $\pm$ 0.3 | 9.4 $\pm$ 0.1 |
+| claude-fable-5-high | **452.0** | 4.5 $\pm$ 1.2 | 8.2 $\pm$ 0.3 | 8.8 $\pm$ 0.4 | 9.8 $\pm$ 0.2 | 7.8 $\pm$ 0.2 | 8.1 $\pm$ 0.6 | 9.0 $\pm$ 0.3 | 5.3 $\pm$ 1.4 | 9.4 $\pm$ 0.2 | 7.1 $\pm$ 0.6 | 3.4 $\pm$ 1.2 | 3.5 $\pm$ 0.5 | 6.6 $\pm$ 0.9 | 8.1 $\pm$ 0.5 | 9.3 $\pm$ 0.3 |
 | ChatGPT-5.5-Instant-20260530 | **451.8** | 4.5 $\pm$ 1.2 | 8.4 $\pm$ 0.2 | 8.8 $\pm$ 0.5 | 9.7 $\pm$ 0.1 | 8.1 $\pm$ 0.4 | 8.4 $\pm$ 0.4 | 8.8 $\pm$ 0.2 | 4.6 $\pm$ 1.5 | 9.4 $\pm$ 0.2 | 8.4 $\pm$ 0.8 | 3.2 $\pm$ 0.8 | 3.9 $\pm$ 1.0 | 7.1 $\pm$ 1.0 | 7.9 $\pm$ 0.2 | 9.3 $\pm$ 0.2 |
 | gpt-5-chat-latest-2025-08-19 | **450.5** | 5.0 $\pm$ 1.5 | 8.2 $\pm$ 0.4 | 8.8 $\pm$ 0.2 | 9.8 $\pm$ 0.0 | 7.5 $\pm$ 0.3 | 8.6 $\pm$ 0.6 | 8.9 $\pm$ 0.1 | 5.8 $\pm$ 1.8 | 9.4 $\pm$ 0.2 | 8.6 $\pm$ 0.1 | 3.8 $\pm$ 1.8 | 3.7 $\pm$ 0.7 | 7.3 $\pm$ 0.8 | 7.5 $\pm$ 0.6 | 9.4 $\pm$ 0.2 |
 | deepseekdeepseek-v3.2 | **449.8** | 4.2 $\pm$ 1.3 | 8.3 $\pm$ 0.2 | 9.2 $\pm$ 0.2 | 9.6 $\pm$ 0.2 | 7.8 $\pm$ 0.2 | 8.6 $\pm$ 0.2 | 9.0 $\pm$ 0.1 | 4.5 $\pm$ 1.5 | 9.5 $\pm$ 0.0 | 8.0 $\pm$ 0.6 | 3.0 $\pm$ 0.9 | 4.2 $\pm$ 0.9 | 7.6 $\pm$ 0.8 | 7.7 $\pm$ 0.6 | 9.3 $\pm$ 0.2 |
@@ -2052,6 +2053,32 @@
 | Cognitive Load | 7.4 $\pm$ 0.6 |
 | Social Support | 8.1 $\pm$ 0.3 |
 | Resilience | 9.4 $\pm$ 0.1 |
+
+
+
+
+
+
+### claude-fable-5-high
+
+
+| Personality Trait | Score (1.0-10.0) |
+| --- | --- |
+| Anxiety and Stress Levels | 4.5 $\pm$ 1.2 |
+| Emotional Stability | 8.2 $\pm$ 0.3 |
+| Problem-solving Skills | 8.8 $\pm$ 0.4 |
+| Creativity | 9.8 $\pm$ 0.2 |
+| Interpersonal Relationships | 7.8 $\pm$ 0.2 |
+| Confidence and Self-efficacy | 8.1 $\pm$ 0.6 |
+| Conflict Resolution | 9.0 $\pm$ 0.3 |
+| Work-related Stress | 5.3 $\pm$ 1.4 |
+| Adaptability | 9.4 $\pm$ 0.2 |
+| Achievement Motivation | 7.1 $\pm$ 0.6 |
+| Fear of Failure | 3.4 $\pm$ 1.2 |
+| Need for Control | 3.5 $\pm$ 0.5 |
+| Cognitive Load | 6.6 $\pm$ 0.9 |
+| Social Support | 8.1 $\pm$ 0.5 |
+| Resilience | 9.3 $\pm$ 0.3 |
 
 
 

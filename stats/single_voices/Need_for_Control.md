@@ -181,6 +181,7 @@
 | gemini-3.5-flash | 5.250 |
 | phi4-reasoning | 5.250 |
 | nvidianemotron-3-nano-30b-a3bfree | 5.238 |
+| claude-fable-5-high | 5.225 |
 | bytedance-seedseed-2.0-lite | 5.212 |
 | deepseekdeepseek-v4-pro-0813 | 5.212 |
 | gpt-4-turbo-2024-04-09 | 5.188 |

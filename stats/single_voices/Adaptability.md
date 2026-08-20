@@ -75,6 +75,7 @@
 | x-aigrok-4.6 | 9.075 |
 | gpt-4.1-mini-2025-04-14 | 9.062 |
 | o1-2024-12-05 | 9.062 |
+| claude-fable-5-high | 9.050 |
 | gemini-2.5-pro-preview-06-05 | 9.050 |
 | gemini-3-flash-preview | 9.050 |
 | nvidianemotron-3-nano-30b-a3bfree | 9.050 |

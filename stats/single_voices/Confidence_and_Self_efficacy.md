@@ -149,6 +149,7 @@
 | claude-haiku-4-5-20251001 | 7.675 |
 | openaigpt-5.4-nano | 7.675 |
 | allenaiolmo-3-7b-think | 7.663 |
+| claude-fable-5-high | 7.663 |
 | anthropicclaude-opus-4.6 | 7.662 |
 | metamuse-spark-1.1 | 7.662 |
 | deepseekdeepseek-v4-pro-0813 | 7.650 |

@@ -157,6 +157,7 @@
 | phi4-reasoning | 6.337 |
 | baiduernie-4.5-300b-a47b | 6.325 |
 | liquidlfm-2.5-1.2b-instructfree | 6.300 |
+| claude-fable-5-high | 6.300 |
 | gemini-2.0-flash-exp | 6.275 |
 | claude-opus-4-5-20251101 | 6.250 |
 | phi3.53.8b-mini-instruct-fp16 | 6.225 |

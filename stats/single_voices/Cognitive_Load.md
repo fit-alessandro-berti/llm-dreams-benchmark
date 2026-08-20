@@ -171,6 +171,7 @@
 | ChatGPT-5.1-Instant-20251113 | 7.275 |
 | thinkingmachinesinkling | 7.250 |
 | openaigpt-5.2-codex | 7.250 |
+| claude-fable-5-high | 7.238 |
 | Grok-4.5-Heavy-20260720 | 7.238 |
 | bytedance-seedseed-2.0-mini | 7.237 |
 | Grok-4.3-20260530 | 7.213 |

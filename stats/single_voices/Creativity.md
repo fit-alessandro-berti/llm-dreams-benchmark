@@ -80,6 +80,7 @@
 | Qwen-3.6-27B | 9.633 |
 | Qwen-3.6-Max-Preview | 9.633 |
 | stepfunstep-3.7-flash | 9.633 |
+| stealthox-alpha | 9.622 |
 | bytedance-seedseed-2.0-lite | 9.622 |
 | deepseekdeepseek-v4-pro-0813 | 9.622 |
 | grok-4-1-fast-reasoning | 9.622 |

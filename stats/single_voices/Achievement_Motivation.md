@@ -192,6 +192,7 @@
 | xiaomimimo-v2-omni | 7.978 |
 | qwenqwen3.5-35b-a3b | 7.967 |
 | claude-3-5-sonnet-20241022 | 7.956 |
+| stealthox-alpha | 7.944 |
 | anthropicclaude-sonnet-4.6 | 7.944 |
 | gemma-4-26b-a4b-it | 7.933 |
 | metamuse-spark-1.2 | 7.933 |

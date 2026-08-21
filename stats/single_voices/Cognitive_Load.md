@@ -44,6 +44,7 @@
 | grok-4-1-fast-reasoning | 8.078 |
 | qwenqwen3.7-max | 8.078 |
 | openaigpt-5.4-nano | 8.067 |
+| stealthox-alpha | 8.067 |
 | Gemini-1.5-Pro-Exp-0827 | 8.067 |
 | openaigpt-5.3-chat | 8.067 |
 | gemini-2.0-pro-exp-02-05 | 8.056 |

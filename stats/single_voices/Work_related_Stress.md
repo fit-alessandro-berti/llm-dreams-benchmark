@@ -37,6 +37,7 @@
 | meta-llamaMeta-Llama-3.1-405B-Instruct | 7.978 |
 | gpt-4o-mini-2024-11-05 | 7.967 |
 | aion-labsaion-2.0 | 7.933 |
+| stealthox-alpha | 7.933 |
 | llama27b | 7.900 |
 | gemini-2.0-pro-exp-02-05 | 7.867 |
 | claude-opus-4-7 | 7.833 |

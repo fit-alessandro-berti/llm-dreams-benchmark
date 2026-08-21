@@ -187,6 +187,7 @@
 | Grok-4.1-20251118 | 6.722 |
 | stepfunstep-3.7-flash | 6.711 |
 | z-aiglm-5.1 | 6.700 |
+| stealthox-alpha | 6.667 |
 | allenaiolmo-3-7b-think | 6.656 |
 | openaigpt-5.6-luna | 6.644 |
 | anthropicclaude-opus-4.1 | 6.633 |

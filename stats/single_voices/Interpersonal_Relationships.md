@@ -207,6 +207,7 @@
 | grok-4.20-multi-agent-experimental-beta-0304 | 6.978 |
 | ibmgranite41b-h | 6.978 |
 | openaigpt-5.3-chat | 6.956 |
+| stealthox-alpha | 6.956 |
 | deepseekdeepseek-v3.2-speciale | 6.922 |
 | z-aiglm-5 | 6.911 |
 | gpt-4o-mini-2024-11-05 | 6.900 |

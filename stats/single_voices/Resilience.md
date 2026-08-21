@@ -196,6 +196,7 @@
 | Liquid-LFM2.5-350M | 8.544 |
 | grok-4.20-multi-agent-experimental-beta-0304 | 8.533 |
 | grok-4-0709 | 8.522 |
+| stealthox-alpha | 8.522 |
 | mistral-medium-2508 | 8.511 |
 | ibmgranite41b-h | 8.500 |
 | tencenthy3-previewfree | 8.456 |

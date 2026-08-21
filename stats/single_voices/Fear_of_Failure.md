@@ -35,6 +35,7 @@
 | meta-llamaMeta-Llama-3.1-70B-Instruct | 7.289 |
 | meta-llamaLlama-3.2-3B-Instruct | 7.222 |
 | poolsidelaguna-xs-2.1 | 7.222 |
+| stealthox-alpha | 7.200 |
 | Gemini-1.5-Pro-Exp-0827 | 7.167 |
 | qwen3.54b | 7.100 |
 | z-aiglm-5 | 7.100 |

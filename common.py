@@ -3,7 +3,7 @@ from pathlib import Path
 
 from file_utils import read_file_with_fallback
 
-ANSWERING_MODEL_NAME = "z-ai/glm-5.3"
+ANSWERING_MODEL_NAME = "stealth/ox-alpha"
 EVALUATING_MODEL_NAME = "gpt-5.2"
 
 

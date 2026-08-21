@@ -40,6 +40,7 @@
 | claude-opus-4-7 | 7.478 |
 | Grok-4.1-20251118 | 7.478 |
 | poolsidelaguna-xs-2.1 | 7.467 |
+| stealthox-alpha | 7.433 |
 | arcee-aitrinity-large-thinking | 7.389 |
 | meta-llamaMeta-Llama-3.1-405B-Instruct | 7.378 |
 | qwen3.54b | 7.367 |

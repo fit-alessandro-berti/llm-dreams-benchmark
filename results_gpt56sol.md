@@ -185,6 +185,7 @@
 | z-aiglm-5.2 | **390.8** | 7.8 $\pm$ 0.3 | 6.8 $\pm$ 0.3 | 8.2 $\pm$ 0.2 | 9.8 $\pm$ 0.0 | 7.4 $\pm$ 0.3 | 7.5 $\pm$ 0.3 | 8.2 $\pm$ 0.2 | 8.4 $\pm$ 0.2 | 8.8 $\pm$ 0.1 | 8.4 $\pm$ 0.2 | 7.7 $\pm$ 0.2 | 7.3 $\pm$ 0.3 | 8.8 $\pm$ 0.2 | 7.1 $\pm$ 0.3 | 8.8 $\pm$ 0.3 |
 | z-aiglm-5.3 | **390.7** | 8.0 $\pm$ 0.2 | 7.1 $\pm$ 0.0 | 8.2 $\pm$ 0.1 | 9.8 $\pm$ 0.0 | 7.9 $\pm$ 0.1 | 7.5 $\pm$ 0.1 | 7.6 $\pm$ 1.0 | 8.9 $\pm$ 0.2 | 8.8 $\pm$ 0.0 | 8.1 $\pm$ 0.2 | 8.4 $\pm$ 0.3 | 7.4 $\pm$ 0.3 | 9.0 $\pm$ 0.1 | 7.9 $\pm$ 0.1 | 8.7 $\pm$ 0.1 |
 | gpt-5.2-2025-12-11 | **388.6** | 8.4 $\pm$ 0.1 | 6.9 $\pm$ 0.3 | 8.8 $\pm$ 0.1 | 9.8 $\pm$ 0.0 | 7.7 $\pm$ 0.1 | 7.2 $\pm$ 0.4 | 8.5 $\pm$ 0.1 | 9.0 $\pm$ 0.1 | 8.7 $\pm$ 0.1 | 8.6 $\pm$ 0.1 | 8.6 $\pm$ 0.2 | 8.2 $\pm$ 0.1 | 9.1 $\pm$ 0.1 | 7.5 $\pm$ 0.0 | 8.9 $\pm$ 0.1 |
+| stealthox-alpha | **388.4** | 8.1 $\pm$ 0.2 | 6.8 $\pm$ 0.2 | 8.3 $\pm$ 0.1 | 9.8 $\pm$ 0.0 | 7.4 $\pm$ 0.1 | 7.2 $\pm$ 0.1 | 8.1 $\pm$ 0.1 | 8.7 $\pm$ 0.0 | 8.8 $\pm$ 0.2 | 8.4 $\pm$ 0.1 | 8.1 $\pm$ 0.0 | 7.2 $\pm$ 0.4 | 8.9 $\pm$ 0.1 | 7.4 $\pm$ 0.1 | 8.6 $\pm$ 0.0 |
 | allenaiolmo-3-7b-think | **388.4** | 8.0 $\pm$ 0.2 | 6.7 $\pm$ 0.3 | 8.7 $\pm$ 0.0 | 9.7 $\pm$ 0.1 | 7.3 $\pm$ 0.2 | 8.0 $\pm$ 0.2 | 7.0 $\pm$ 0.9 | 8.2 $\pm$ 0.2 | 8.8 $\pm$ 0.0 | 8.7 $\pm$ 0.1 | 7.8 $\pm$ 0.1 | 7.3 $\pm$ 0.4 | 8.8 $\pm$ 0.1 | 7.2 $\pm$ 0.3 | 8.8 $\pm$ 0.2 |
 | anthropicclaude-sonnet-5 | **387.7** | 7.9 $\pm$ 0.2 | 6.8 $\pm$ 0.2 | 8.4 $\pm$ 0.1 | 9.8 $\pm$ 0.0 | 7.2 $\pm$ 0.1 | 7.4 $\pm$ 0.3 | 7.4 $\pm$ 0.7 | 8.4 $\pm$ 0.1 | 8.8 $\pm$ 0.1 | 8.3 $\pm$ 0.2 | 7.8 $\pm$ 0.2 | 7.2 $\pm$ 0.4 | 8.8 $\pm$ 0.1 | 7.4 $\pm$ 0.1 | 8.6 $\pm$ 0.1 |
 | moonshotaikimi-k2.6 | **387.6** | 8.4 $\pm$ 0.2 | 6.7 $\pm$ 0.1 | 8.2 $\pm$ 0.2 | 9.9 $\pm$ 0.0 | 7.6 $\pm$ 0.1 | 7.2 $\pm$ 0.1 | 8.3 $\pm$ 0.2 | 8.9 $\pm$ 0.1 | 9.0 $\pm$ 0.0 | 8.5 $\pm$ 0.2 | 8.5 $\pm$ 0.2 | 7.5 $\pm$ 0.2 | 9.3 $\pm$ 0.1 | 7.5 $\pm$ 0.1 | 8.8 $\pm$ 0.1 |
@@ -4992,6 +4993,32 @@
 | Cognitive Load | 9.1 $\pm$ 0.1 |
 | Social Support | 7.5 $\pm$ 0.0 |
 | Resilience | 8.9 $\pm$ 0.1 |
+
+
+
+
+
+
+### stealthox-alpha
+
+
+| Personality Trait | Score (1.0-10.0) |
+| --- | --- |
+| Anxiety and Stress Levels | 8.1 $\pm$ 0.2 |
+| Emotional Stability | 6.8 $\pm$ 0.2 |
+| Problem-solving Skills | 8.3 $\pm$ 0.1 |
+| Creativity | 9.8 $\pm$ 0.0 |
+| Interpersonal Relationships | 7.4 $\pm$ 0.1 |
+| Confidence and Self-efficacy | 7.2 $\pm$ 0.1 |
+| Conflict Resolution | 8.1 $\pm$ 0.1 |
+| Work-related Stress | 8.7 $\pm$ 0.0 |
+| Adaptability | 8.8 $\pm$ 0.2 |
+| Achievement Motivation | 8.4 $\pm$ 0.1 |
+| Fear of Failure | 8.1 $\pm$ 0.0 |
+| Need for Control | 7.2 $\pm$ 0.4 |
+| Cognitive Load | 8.9 $\pm$ 0.1 |
+| Social Support | 7.4 $\pm$ 0.1 |
+| Resilience | 8.6 $\pm$ 0.0 |
 
 
 

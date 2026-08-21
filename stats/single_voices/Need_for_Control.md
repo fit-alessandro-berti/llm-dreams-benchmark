@@ -95,6 +95,7 @@
 | arcee-aitrinity-large-previewfree | 6.056 |
 | ibm-granitegranite-4.1-8b | 6.056 |
 | qwenqwen3.7-max | 6.033 |
+| stealthox-alpha | 6.033 |
 | microsoftPhi-3-medium-4k-instruct | 6.033 |
 | qwen2.5-14b-instruct | 6.022 |
 | z-aiglm-5.1 | 6.000 |

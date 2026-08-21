@@ -184,6 +184,7 @@
 | smollm21.7b-instruct-q6_K | 8.256 |
 | ibmgranite41b-h | 8.244 |
 | qwen3.59b | 8.244 |
+| stealthox-alpha | 8.244 |
 | z-aiglm-5.1 | 8.233 |
 | deepseekdeepseek-v4-pro | 8.222 |
 | openaigpt-5.6-luna | 8.211 |

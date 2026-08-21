@@ -189,6 +189,7 @@
 | mistral-medium-2508 | 7.200 |
 | mistral-medium-3.5 | 7.200 |
 | grok-4-0709 | 7.189 |
+| stealthox-alpha | 7.189 |
 | deepseekdeepseek-v4-flash | 7.178 |
 | ibmgranite41b-h | 7.178 |
 | openaigpt-5.6-terra | 7.167 |

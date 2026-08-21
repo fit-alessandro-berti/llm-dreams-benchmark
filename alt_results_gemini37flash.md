@@ -208,6 +208,7 @@
 | grok-build-0.1 | **403.2** | 7.0 $\pm$ 0.2 | 7.2 $\pm$ 0.2 | 8.4 $\pm$ 0.1 | 9.4 $\pm$ 0.0 | 7.8 $\pm$ 0.1 | 7.6 $\pm$ 0.0 | 8.6 $\pm$ 0.1 | 7.6 $\pm$ 0.2 | 8.4 $\pm$ 0.1 | 8.1 $\pm$ 0.1 | 7.1 $\pm$ 0.2 | 6.5 $\pm$ 0.3 | 7.7 $\pm$ 0.2 | 7.4 $\pm$ 0.0 | 8.7 $\pm$ 0.1 |
 | prime-intellectintellect-3 | **403.0** | 7.2 $\pm$ 0.2 | 7.1 $\pm$ 0.3 | 8.6 $\pm$ 0.1 | 9.0 $\pm$ 0.1 | 8.1 $\pm$ 0.3 | 7.8 $\pm$ 0.2 | 8.2 $\pm$ 0.3 | 7.7 $\pm$ 0.3 | 8.5 $\pm$ 0.2 | 8.5 $\pm$ 0.2 | 7.4 $\pm$ 0.3 | 7.0 $\pm$ 0.2 | 7.6 $\pm$ 0.2 | 8.0 $\pm$ 0.2 | 8.6 $\pm$ 0.2 |
 | mistral-medium-2508 | **402.9** | 7.2 $\pm$ 0.2 | 7.1 $\pm$ 0.2 | 8.4 $\pm$ 0.2 | 9.6 $\pm$ 0.1 | 8.0 $\pm$ 0.2 | 7.5 $\pm$ 0.2 | 8.6 $\pm$ 0.2 | 7.6 $\pm$ 0.3 | 8.5 $\pm$ 0.2 | 8.1 $\pm$ 0.2 | 7.3 $\pm$ 0.3 | 6.8 $\pm$ 0.2 | 7.8 $\pm$ 0.2 | 7.7 $\pm$ 0.2 | 8.7 $\pm$ 0.2 |
+| stealthox-alpha | **400.3** | 7.2 $\pm$ 0.4 | 7.1 $\pm$ 0.3 | 8.0 $\pm$ 0.1 | 9.6 $\pm$ 0.0 | 7.6 $\pm$ 0.2 | 7.3 $\pm$ 0.2 | 7.8 $\pm$ 0.3 | 7.5 $\pm$ 0.3 | 8.6 $\pm$ 0.2 | 7.8 $\pm$ 0.3 | 7.0 $\pm$ 0.5 | 5.9 $\pm$ 0.5 | 7.4 $\pm$ 0.5 | 7.8 $\pm$ 0.3 | 8.6 $\pm$ 0.3 |
 | ibmgranite41b-h | **398.5** | 6.6 $\pm$ 0.1 | 7.4 $\pm$ 0.1 | 8.4 $\pm$ 0.1 | 8.4 $\pm$ 0.3 | 7.4 $\pm$ 0.4 | 7.8 $\pm$ 0.2 | 7.5 $\pm$ 0.5 | 7.0 $\pm$ 0.7 | 8.1 $\pm$ 0.1 | 8.2 $\pm$ 0.4 | 6.2 $\pm$ 0.7 | 6.9 $\pm$ 0.4 | 6.9 $\pm$ 0.4 | 7.7 $\pm$ 0.2 | 8.5 $\pm$ 0.1 |
 | gpt-5.2-2025-12-11 | **397.4** | 7.4 $\pm$ 0.4 | 7.2 $\pm$ 0.4 | 8.6 $\pm$ 0.2 | 9.3 $\pm$ 0.2 | 7.8 $\pm$ 0.2 | 7.4 $\pm$ 0.2 | 8.6 $\pm$ 0.2 | 7.8 $\pm$ 0.5 | 8.4 $\pm$ 0.3 | 8.0 $\pm$ 0.1 | 7.6 $\pm$ 0.6 | 7.2 $\pm$ 0.6 | 7.9 $\pm$ 0.5 | 7.6 $\pm$ 0.3 | 8.8 $\pm$ 0.1 |
 | claude-3-opus-20240229 | **396.9** | 7.0 $\pm$ 0.2 | 6.9 $\pm$ 0.3 | 8.4 $\pm$ 0.1 | 9.0 $\pm$ 0.1 | 7.8 $\pm$ 0.4 | 7.7 $\pm$ 0.2 | 7.0 $\pm$ 1.6 | 7.6 $\pm$ 0.1 | 8.4 $\pm$ 0.1 | 8.4 $\pm$ 0.1 | 7.4 $\pm$ 0.2 | 7.0 $\pm$ 0.2 | 7.0 $\pm$ 0.3 | 7.8 $\pm$ 0.3 | 8.5 $\pm$ 0.1 |
@@ -5590,6 +5591,32 @@
 | Cognitive Load | 7.8 $\pm$ 0.2 |
 | Social Support | 7.7 $\pm$ 0.2 |
 | Resilience | 8.7 $\pm$ 0.2 |
+
+
+
+
+
+
+### stealthox-alpha
+
+
+| Personality Trait | Score (1.0-10.0) |
+| --- | --- |
+| Anxiety and Stress Levels | 7.2 $\pm$ 0.4 |
+| Emotional Stability | 7.1 $\pm$ 0.3 |
+| Problem-solving Skills | 8.0 $\pm$ 0.1 |
+| Creativity | 9.6 $\pm$ 0.0 |
+| Interpersonal Relationships | 7.6 $\pm$ 0.2 |
+| Confidence and Self-efficacy | 7.3 $\pm$ 0.2 |
+| Conflict Resolution | 7.8 $\pm$ 0.3 |
+| Work-related Stress | 7.5 $\pm$ 0.3 |
+| Adaptability | 8.6 $\pm$ 0.2 |
+| Achievement Motivation | 7.8 $\pm$ 0.3 |
+| Fear of Failure | 7.0 $\pm$ 0.5 |
+| Need for Control | 5.9 $\pm$ 0.5 |
+| Cognitive Load | 7.4 $\pm$ 0.5 |
+| Social Support | 7.8 $\pm$ 0.3 |
+| Resilience | 8.6 $\pm$ 0.3 |
 
 
 

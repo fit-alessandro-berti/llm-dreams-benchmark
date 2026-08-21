@@ -204,6 +204,7 @@
 | grok-build-0.1 | 7.122 |
 | bytedance-seedseed-2.0-lite | 7.100 |
 | claude-3-opus-20240229 | 7.089 |
+| stealthox-alpha | 7.089 |
 | meta-llamaLlama-3.3-70B-Instruct | 7.044 |
 | stepfunstep-3.7-flash | 7.033 |
 | openaigpt-5.6-luna | 7.022 |

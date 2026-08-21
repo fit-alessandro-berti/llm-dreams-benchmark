@@ -181,6 +181,7 @@
 | Grok-3-beta-thinking-20250303 | 8.756 |
 | poolsidelaguna-xs.2free | 8.756 |
 | openaigpt-5.3-chat | 8.756 |
+| stealthox-alpha | 8.744 |
 | arcee-aitrinity-large-thinking | 8.733 |
 | Gpt-5.1-Pro-20251120 | 8.733 |
 | chatgpt-4o-latest-2024-11-20 | 8.722 |

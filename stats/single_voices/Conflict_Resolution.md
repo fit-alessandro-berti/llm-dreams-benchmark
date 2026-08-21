@@ -183,6 +183,7 @@
 | grok-4.20-multi-agent-experimental-beta-0304 | 7.711 |
 | meta-llamaLlama-3.2-3B-Instruct | 7.689 |
 | grok-4-0709 | 7.689 |
+| stealthox-alpha | 7.667 |
 | Qwen-3.6-27B | 7.622 |
 | grok-4-1-fast-non-reasoning | 7.611 |
 | openaigpt-5.6-luna | 7.611 |

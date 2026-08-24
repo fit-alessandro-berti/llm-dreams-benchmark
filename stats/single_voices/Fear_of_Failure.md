@@ -56,6 +56,7 @@
 | openaigpt-5.4-nano | 6.878 |
 | openaigpt-5.4-pro | 6.878 |
 | grok-4.20-experimental-beta-0304-non-reasoning | 6.867 |
+| qwenqwen3.8-27b | 6.844 |
 | openaigpt-5.6-luna | 6.822 |
 | qwenqwen3.7-max | 6.811 |
 | openaigpt-5.3-codex | 6.811 |
@@ -178,6 +179,7 @@
 | moonshotaikimi-k2.7-code | 4.733 |
 | falcon310b-instruct-q8_0 | 4.678 |
 | Grok-4.30-20260420 | 4.633 |
+| googlegemini-3.7-flash | 4.622 |
 | o1-preview-2024-09-12 | 4.589 |
 | qwen3.635b-a3b | 4.578 |
 | liquidlfm-2.2-6b | 4.556 |
@@ -215,6 +217,7 @@
 | o3-mini-20250131-HIGH | 3.944 |
 | qwen2.5-72b-instruct | 3.944 |
 | deepseekdeepseek-v3.2 | 3.933 |
+| deepseekdeepseek-v4-flash-vision-exp | 3.922 |
 | o3-2025-04-16 | 3.922 |
 | grok-2-1212 | 3.922 |
 | open-mixtral-8x22b | 3.900 |

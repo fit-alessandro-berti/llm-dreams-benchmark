@@ -93,6 +93,7 @@
 | meituanlongcat-2.0 | 8.011 |
 | smollm21.7b-instruct-q6_K | 8.011 |
 | upstagesolar-pro4 | 8.011 |
+| googlegemini-3.7-flash | 8.000 |
 | minimaxminimax-m2.5 | 8.000 |
 | qwenqwen3.8-2.4t-a95b | 7.978 |
 | gpt-5.5-2026-04-23 | 7.967 |
@@ -100,6 +101,7 @@
 | moonshotaikimi-k2.7-code | 7.956 |
 | o3-2025-04-16 | 7.956 |
 | ChatGPT-5.5-Instant-20260530 | 7.944 |
+| deepseekdeepseek-v4-flash-vision-exp | 7.944 |
 | Grok-3-beta-thinking-20250303 | 7.944 |
 | qwenqwen3.8-max | 7.933 |
 | o1-pro-2024-12-05 | 7.922 |
@@ -215,6 +217,7 @@
 | ministral-14b-2512 | 6.856 |
 | z-aiglm-5 | 6.856 |
 | meta-llamallama-4-maverick | 6.844 |
+| qwenqwen3.8-27b | 6.833 |
 | gemma4e2b | 6.700 |
 | qwen3.52b | 6.622 |
 | anthropicclaude-sonnet-4.5 | 6.556 |

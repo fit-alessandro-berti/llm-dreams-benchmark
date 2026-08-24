@@ -42,6 +42,7 @@
 | gemini-2.0-pro-exp-02-05 | 7.867 |
 | claude-opus-4-7 | 7.833 |
 | Grok-4.1-20251118 | 7.833 |
+| qwenqwen3.8-27b | 7.767 |
 | grok-4-1-fast-reasoning | 7.756 |
 | openaigpt-5.4 | 7.756 |
 | openaigpt-5.3-chat | 7.722 |
@@ -188,6 +189,7 @@
 | gpt-4.1-mini-2025-04-14 | 5.478 |
 | nvidiaNVIDIA-Nemotron-3-Super-120B-A12B | 5.456 |
 | liquidlfm-2.2-6b | 5.400 |
+| googlegemini-3.7-flash | 5.389 |
 | qwen2.5-32b-instruct | 5.389 |
 | ai21jamba-mini-1.7 | 5.367 |
 | microsoftWizardLM-2-8x22B | 5.356 |
@@ -224,6 +226,7 @@
 | o3-mini-20250131-HIGH | 4.878 |
 | liquidlfm2-8b-a1b | 4.878 |
 | deepseekdeepseek-v3.2 | 4.856 |
+| deepseekdeepseek-v4-flash-vision-exp | 4.844 |
 | openaigpt-oss-120b | 4.811 |
 | qwenqwen3.7-flash | 4.800 |
 | Grok-4.3-20260530 | 4.778 |

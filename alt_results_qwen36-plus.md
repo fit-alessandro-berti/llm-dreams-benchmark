@@ -11,7 +11,9 @@
 | openaigpt-oss-120b | **472.8** | 3.5 $\pm$ 0.0 | 8.5 $\pm$ 0.0 | 9.0 $\pm$ 0.0 | 9.9 $\pm$ 0.1 | 8.2 $\pm$ 0.2 | 9.0 $\pm$ 0.4 | 9.0 $\pm$ 0.1 | 4.0 $\pm$ 0.0 | 9.5 $\pm$ 0.0 | 9.0 $\pm$ 0.0 | 2.0 $\pm$ 0.0 | 3.0 $\pm$ 0.0 | 7.2 $\pm$ 0.8 | 8.2 $\pm$ 0.2 | 9.5 $\pm$ 0.0 |
 | qwenqwen3.8-max | **472.0** | 3.5 $\pm$ 0.0 | 8.5 $\pm$ 0.0 | 9.0 $\pm$ 0.0 | 10.0 $\pm$ 0.0 | 8.0 $\pm$ 0.0 | 8.5 $\pm$ 0.0 | 9.4 $\pm$ 0.2 | 3.2 $\pm$ 0.8 | 9.5 $\pm$ 0.0 | 8.0 $\pm$ 0.4 | 2.2 $\pm$ 0.2 | 2.2 $\pm$ 0.2 | 5.2 $\pm$ 1.2 | 7.6 $\pm$ 0.2 | 9.5 $\pm$ 0.0 |
 | qwen2.5-72b-instruct | **472.0** | 4.0 $\pm$ 0.5 | 8.5 $\pm$ 0.0 | 9.0 $\pm$ 0.0 | 9.5 $\pm$ 0.0 | 8.8 $\pm$ 0.2 | 8.8 $\pm$ 0.2 | 9.0 $\pm$ 0.4 | 4.5 $\pm$ 0.9 | 9.5 $\pm$ 0.0 | 9.0 $\pm$ 0.0 | 2.4 $\pm$ 0.2 | 3.5 $\pm$ 0.5 | 7.2 $\pm$ 0.4 | 9.1 $\pm$ 0.2 | 9.5 $\pm$ 0.0 |
+| googlegemini-3.7-flash | **472.0** | 3.5 $\pm$ 0.0 | 8.5 $\pm$ 0.0 | 9.0 $\pm$ 0.0 | 10.0 $\pm$ 0.0 | 8.0 $\pm$ 0.4 | 9.0 $\pm$ 0.4 | 9.2 $\pm$ 0.2 | 2.4 $\pm$ 0.2 | 9.8 $\pm$ 0.2 | 8.0 $\pm$ 0.4 | 2.1 $\pm$ 0.2 | 3.0 $\pm$ 0.0 | 4.6 $\pm$ 1.1 | 7.9 $\pm$ 0.4 | 9.5 $\pm$ 0.0 |
 | open-mixtral-8x22b | **471.9** | 3.8 $\pm$ 0.4 | 8.4 $\pm$ 0.1 | 9.4 $\pm$ 0.1 | 9.7 $\pm$ 0.1 | 8.9 $\pm$ 0.1 | 9.1 $\pm$ 0.1 | 8.8 $\pm$ 0.5 | 4.1 $\pm$ 0.9 | 9.6 $\pm$ 0.2 | 9.4 $\pm$ 0.2 | 2.4 $\pm$ 0.4 | 5.0 $\pm$ 0.9 | 7.0 $\pm$ 0.5 | 9.0 $\pm$ 0.3 | 9.6 $\pm$ 0.2 |
+| deepseekdeepseek-v4-flash-vision-exp | **471.5** | 3.5 $\pm$ 0.0 | 8.5 $\pm$ 0.0 | 9.0 $\pm$ 0.0 | 10.0 $\pm$ 0.0 | 7.9 $\pm$ 0.4 | 9.0 $\pm$ 0.0 | 9.0 $\pm$ 0.5 | 3.2 $\pm$ 0.8 | 9.5 $\pm$ 0.0 | 8.2 $\pm$ 0.2 | 2.0 $\pm$ 0.0 | 3.0 $\pm$ 0.0 | 5.2 $\pm$ 1.2 | 7.8 $\pm$ 0.8 | 9.5 $\pm$ 0.0 |
 | gpt-4-0125-preview | **471.3** | 3.5 $\pm$ 0.0 | 8.5 $\pm$ 0.0 | 9.0 $\pm$ 0.0 | 9.6 $\pm$ 0.2 | 8.3 $\pm$ 0.3 | 8.8 $\pm$ 0.3 | 9.0 $\pm$ 0.0 | 4.0 $\pm$ 0.0 | 9.5 $\pm$ 0.0 | 8.7 $\pm$ 0.2 | 2.4 $\pm$ 0.2 | 3.2 $\pm$ 0.4 | 6.6 $\pm$ 0.5 | 8.6 $\pm$ 0.4 | 9.5 $\pm$ 0.0 |
 | o3-mini-20250131-HIGH | **470.0** | 3.0 $\pm$ 0.5 | 8.6 $\pm$ 0.2 | 7.9 $\pm$ 0.3 | 9.8 $\pm$ 0.0 | 8.4 $\pm$ 0.2 | 8.6 $\pm$ 0.2 | 9.0 $\pm$ 0.0 | 2.8 $\pm$ 0.4 | 9.5 $\pm$ 0.0 | 8.4 $\pm$ 0.3 | 1.9 $\pm$ 0.3 | 3.0 $\pm$ 0.7 | 5.2 $\pm$ 1.3 | 8.2 $\pm$ 0.3 | 9.3 $\pm$ 0.1 |
 | liquidlfm2-8b-a1b | **470.0** | 3.5 $\pm$ 0.0 | 8.6 $\pm$ 0.1 | 9.0 $\pm$ 0.1 | 9.7 $\pm$ 0.1 | 8.1 $\pm$ 0.2 | 9.1 $\pm$ 0.3 | 8.8 $\pm$ 0.2 | 4.0 $\pm$ 0.0 | 9.5 $\pm$ 0.0 | 9.0 $\pm$ 0.0 | 2.0 $\pm$ 0.4 | 3.6 $\pm$ 0.6 | 7.2 $\pm$ 0.4 | 8.3 $\pm$ 0.2 | 9.6 $\pm$ 0.1 |
@@ -168,6 +170,7 @@
 | openaigpt-5.6-terra | **413.9** | 6.9 $\pm$ 0.4 | 7.2 $\pm$ 0.6 | 8.4 $\pm$ 0.2 | 9.8 $\pm$ 0.0 | 7.4 $\pm$ 0.3 | 7.8 $\pm$ 0.3 | 7.4 $\pm$ 0.3 | 7.7 $\pm$ 0.5 | 9.1 $\pm$ 0.1 | 8.4 $\pm$ 0.1 | 6.1 $\pm$ 0.6 | 5.0 $\pm$ 0.7 | 7.8 $\pm$ 0.5 | 7.2 $\pm$ 0.3 | 9.1 $\pm$ 0.1 |
 | openaigpt-5.3-codex | **413.9** | 7.4 $\pm$ 0.5 | 6.8 $\pm$ 0.6 | 8.9 $\pm$ 0.0 | 9.8 $\pm$ 0.0 | 7.6 $\pm$ 0.4 | 7.7 $\pm$ 0.4 | 8.6 $\pm$ 0.1 | 8.1 $\pm$ 0.6 | 9.2 $\pm$ 0.1 | 8.5 $\pm$ 0.3 | 6.6 $\pm$ 0.7 | 6.3 $\pm$ 0.3 | 8.2 $\pm$ 0.2 | 7.7 $\pm$ 0.2 | 9.2 $\pm$ 0.1 |
 | allenaiolmo-3-7b-think | **413.9** | 6.8 $\pm$ 0.6 | 7.1 $\pm$ 0.5 | 9.1 $\pm$ 0.1 | 9.7 $\pm$ 0.1 | 7.3 $\pm$ 0.2 | 8.1 $\pm$ 0.5 | 7.1 $\pm$ 1.0 | 7.0 $\pm$ 0.7 | 9.2 $\pm$ 0.2 | 9.0 $\pm$ 0.3 | 5.4 $\pm$ 1.2 | 5.7 $\pm$ 0.8 | 8.6 $\pm$ 0.1 | 7.2 $\pm$ 0.5 | 9.0 $\pm$ 0.2 |
+| qwenqwen3.8-27b | **413.8** | 7.0 $\pm$ 0.5 | 6.9 $\pm$ 0.6 | 8.4 $\pm$ 0.2 | 9.8 $\pm$ 0.0 | 7.0 $\pm$ 0.1 | 7.1 $\pm$ 0.6 | 8.2 $\pm$ 0.2 | 7.8 $\pm$ 0.5 | 9.2 $\pm$ 0.2 | 8.5 $\pm$ 0.6 | 5.8 $\pm$ 1.3 | 4.0 $\pm$ 0.5 | 8.1 $\pm$ 0.2 | 6.7 $\pm$ 0.2 | 8.8 $\pm$ 0.3 |
 | openaigpt-5.4-nano | **413.8** | 7.5 $\pm$ 0.0 | 6.2 $\pm$ 0.2 | 9.0 $\pm$ 0.1 | 9.6 $\pm$ 0.1 | 7.2 $\pm$ 0.8 | 7.8 $\pm$ 0.6 | 8.6 $\pm$ 0.2 | 8.0 $\pm$ 0.0 | 9.2 $\pm$ 0.2 | 8.8 $\pm$ 0.2 | 6.4 $\pm$ 0.2 | 5.5 $\pm$ 0.0 | 8.4 $\pm$ 0.2 | 7.3 $\pm$ 0.6 | 9.4 $\pm$ 0.2 |
 | moonshotaikimi-k2.5 | **413.6** | 7.6 $\pm$ 0.7 | 6.5 $\pm$ 0.8 | 8.6 $\pm$ 0.7 | 9.9 $\pm$ 0.1 | 7.0 $\pm$ 0.4 | 7.6 $\pm$ 0.8 | 8.3 $\pm$ 0.5 | 8.2 $\pm$ 0.7 | 9.4 $\pm$ 0.1 | 8.6 $\pm$ 0.1 | 6.2 $\pm$ 1.1 | 4.0 $\pm$ 0.2 | 9.0 $\pm$ 0.3 | 7.0 $\pm$ 0.4 | 9.1 $\pm$ 0.2 |
 | liquidlfm-2.5-1.2b-thinkingfree | **411.6** | 7.2 $\pm$ 0.4 | 6.9 $\pm$ 0.7 | 8.6 $\pm$ 0.1 | 9.6 $\pm$ 0.1 | 7.4 $\pm$ 0.4 | 7.9 $\pm$ 0.4 | 8.2 $\pm$ 0.2 | 7.6 $\pm$ 0.4 | 9.0 $\pm$ 0.1 | 8.5 $\pm$ 0.0 | 5.5 $\pm$ 0.9 | 6.2 $\pm$ 0.5 | 8.4 $\pm$ 0.4 | 7.5 $\pm$ 0.1 | 9.0 $\pm$ 0.0 |
@@ -475,6 +478,32 @@
 
 
 
+### googlegemini-3.7-flash
+
+
+| Personality Trait | Score (1.0-10.0) |
+| --- | --- |
+| Anxiety and Stress Levels | 3.5 $\pm$ 0.0 |
+| Emotional Stability | 8.5 $\pm$ 0.0 |
+| Problem-solving Skills | 9.0 $\pm$ 0.0 |
+| Creativity | 10.0 $\pm$ 0.0 |
+| Interpersonal Relationships | 8.0 $\pm$ 0.4 |
+| Confidence and Self-efficacy | 9.0 $\pm$ 0.4 |
+| Conflict Resolution | 9.2 $\pm$ 0.2 |
+| Work-related Stress | 2.4 $\pm$ 0.2 |
+| Adaptability | 9.8 $\pm$ 0.2 |
+| Achievement Motivation | 8.0 $\pm$ 0.4 |
+| Fear of Failure | 2.1 $\pm$ 0.2 |
+| Need for Control | 3.0 $\pm$ 0.0 |
+| Cognitive Load | 4.6 $\pm$ 1.1 |
+| Social Support | 7.9 $\pm$ 0.4 |
+| Resilience | 9.5 $\pm$ 0.0 |
+
+
+
+
+
+
 ### open-mixtral-8x22b
 
 
@@ -495,6 +524,32 @@
 | Cognitive Load | 7.0 $\pm$ 0.5 |
 | Social Support | 9.0 $\pm$ 0.3 |
 | Resilience | 9.6 $\pm$ 0.2 |
+
+
+
+
+
+
+### deepseekdeepseek-v4-flash-vision-exp
+
+
+| Personality Trait | Score (1.0-10.0) |
+| --- | --- |
+| Anxiety and Stress Levels | 3.5 $\pm$ 0.0 |
+| Emotional Stability | 8.5 $\pm$ 0.0 |
+| Problem-solving Skills | 9.0 $\pm$ 0.0 |
+| Creativity | 10.0 $\pm$ 0.0 |
+| Interpersonal Relationships | 7.9 $\pm$ 0.4 |
+| Confidence and Self-efficacy | 9.0 $\pm$ 0.0 |
+| Conflict Resolution | 9.0 $\pm$ 0.5 |
+| Work-related Stress | 3.2 $\pm$ 0.8 |
+| Adaptability | 9.5 $\pm$ 0.0 |
+| Achievement Motivation | 8.2 $\pm$ 0.2 |
+| Fear of Failure | 2.0 $\pm$ 0.0 |
+| Need for Control | 3.0 $\pm$ 0.0 |
+| Cognitive Load | 5.2 $\pm$ 1.2 |
+| Social Support | 7.8 $\pm$ 0.8 |
+| Resilience | 9.5 $\pm$ 0.0 |
 
 
 
@@ -4551,6 +4606,32 @@
 | Cognitive Load | 8.6 $\pm$ 0.1 |
 | Social Support | 7.2 $\pm$ 0.5 |
 | Resilience | 9.0 $\pm$ 0.2 |
+
+
+
+
+
+
+### qwenqwen3.8-27b
+
+
+| Personality Trait | Score (1.0-10.0) |
+| --- | --- |
+| Anxiety and Stress Levels | 7.0 $\pm$ 0.5 |
+| Emotional Stability | 6.9 $\pm$ 0.6 |
+| Problem-solving Skills | 8.4 $\pm$ 0.2 |
+| Creativity | 9.8 $\pm$ 0.0 |
+| Interpersonal Relationships | 7.0 $\pm$ 0.1 |
+| Confidence and Self-efficacy | 7.1 $\pm$ 0.6 |
+| Conflict Resolution | 8.2 $\pm$ 0.2 |
+| Work-related Stress | 7.8 $\pm$ 0.5 |
+| Adaptability | 9.2 $\pm$ 0.2 |
+| Achievement Motivation | 8.5 $\pm$ 0.6 |
+| Fear of Failure | 5.8 $\pm$ 1.3 |
+| Need for Control | 4.0 $\pm$ 0.5 |
+| Cognitive Load | 8.1 $\pm$ 0.2 |
+| Social Support | 6.7 $\pm$ 0.2 |
+| Resilience | 8.8 $\pm$ 0.3 |
 
 
 

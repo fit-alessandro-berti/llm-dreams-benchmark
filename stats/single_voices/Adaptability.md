@@ -32,6 +32,7 @@
 | gpt-5-nano-2025-08-07 | 9.189 |
 | granite4.130b | 9.189 |
 | xiaomimimo-v2-pro | 9.189 |
+| deepseekdeepseek-v4-flash-vision-exp | 9.189 |
 | gpt-5-pro-2025-10-06 | 9.189 |
 | xiaomimimo-v2.5 | 9.189 |
 | Meta-Muse-Spark-20260409 | 9.178 |
@@ -40,6 +41,7 @@
 | xiaomimimo-v2.5-pro | 9.178 |
 | grok-2-1212 | 9.167 |
 | Grok-4-fast-20251111 | 9.167 |
+| googlegemini-3.7-flash | 9.167 |
 | Grok-4.5-Heavy-20260720 | 9.167 |
 | inclusionailing-2.6-1tfree | 9.167 |
 | qwen2.5-7b-instruct | 9.167 |
@@ -192,6 +194,7 @@
 | llama213b | 8.711 |
 | liquidlfm-2.5-1.2b-thinkingfree | 8.700 |
 | mistral-medium-2508 | 8.689 |
+| qwenqwen3.8-27b | 8.689 |
 | minimaxminimax-m3 | 8.667 |
 | meta-llamaMeta-Llama-3.1-405B-Instruct | 8.656 |
 | deepseekdeepseek-v3.2-speciale | 8.644 |

@@ -37,6 +37,7 @@
 | gemini-1.5-flash-8b | 8.178 |
 | Grok-4.1-20251118 | 8.156 |
 | gpt-5.2-pro-2025-12-11 | 8.144 |
+| qwenqwen3.8-27b | 8.133 |
 | baiduernie-4.5-21b-a3b | 8.100 |
 | meta-llamaLlama-3.3-70B-Instruct | 8.100 |
 | meta-llamallama-4-scout | 8.100 |
@@ -229,9 +230,11 @@
 | qwenqwen3.8-max | 6.456 |
 | qwenqwen3.8-2.4t-a95b | 6.356 |
 | qwenqwen3.7-plus | 6.356 |
+| googlegemini-3.7-flash | 6.267 |
 | o3-mini-20250131-HIGH | 6.211 |
 | qwenqwen3.5-122b-a10b | 6.200 |
 | xiaomimimo-v2.5-pro | 6.167 |
+| deepseekdeepseek-v4-flash-vision-exp | 6.100 |
 | xiaomimimo-v2-pro | 6.000 |
 | gpt-5-nano-2025-08-07 | 5.933 |
 | deepseekdeepseek-v4-flash-0731 | 5.778 |

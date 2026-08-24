@@ -85,6 +85,7 @@
 | liquidlfm-2.2-6b | 8.678 |
 | llama213b | 8.667 |
 | openaigpt-5.4-mini | 8.667 |
+| deepseekdeepseek-v4-flash-vision-exp | 8.656 |
 | nvidiaNemotron-3-Nano-Omni-30B-A3B-Reasoning | 8.656 |
 | gpt-4.1-nano-2025-04-14 | 8.656 |
 | gemini-3.6-flash | 8.644 |
@@ -132,6 +133,7 @@
 | qwenqwen3.7-max | 8.500 |
 | gemini-2.5-flash-lite | 8.500 |
 | grok-4-1-fast-reasoning | 8.489 |
+| googlegemini-3.7-flash | 8.478 |
 | Gpt-5.1-Pro-20251120 | 8.478 |
 | liquidlfm-2.5-1.2b-instructfree | 8.478 |
 | claude-opus-4-5-20251101 | 8.467 |
@@ -215,6 +217,7 @@
 | mistral-small-2603 | 7.967 |
 | claude-haiku-4-5-20251001 | 7.967 |
 | qwenqwen3-next-80b-a3b-instruct | 7.956 |
+| qwenqwen3.8-27b | 7.956 |
 | gemma-4-26b-a4b-it | 7.922 |
 | qwenqwen3.5-35b-a3b | 7.922 |
 | bytedance-seedseed-2.0-lite | 7.878 |

@@ -138,6 +138,7 @@
 | liquidlfm-2.5-1.2b-thinkingfree | 8.256 |
 | llama27b | 8.244 |
 | ChatGPT-5.1-Instant-20251113 | 8.233 |
+| deepseekdeepseek-v4-flash-vision-exp | 8.233 |
 | grok-4.20-experimental-beta-0304-reasoning | 8.233 |
 | qwenqwen3.8-max | 8.233 |
 | bytedance-seedseed-2.0-mini | 8.222 |
@@ -185,6 +186,7 @@
 | z-aiglm-5.2 | 8.011 |
 | nvidianemotron-3.5-lightning | 8.000 |
 | xiaomimimo-v2.5-pro | 8.000 |
+| googlegemini-3.7-flash | 7.978 |
 | gpt-5.2-2025-12-11 | 7.978 |
 | ministral-3b-2512 | 7.978 |
 | qwen3.635b-a3b | 7.978 |
@@ -205,6 +207,7 @@
 | openaigpt-5.6-terra | 7.856 |
 | minimaxminimax-m3 | 7.844 |
 | nvidianemotron-3-ultra-550b-a55bfree | 7.844 |
+| qwenqwen3.8-27b | 7.822 |
 | gpt-5.2-pro-2025-12-11 | 7.811 |
 | qwenqwen3.7-flash | 7.800 |
 | z-aiglm-5.1 | 7.800 |

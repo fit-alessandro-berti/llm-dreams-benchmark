@@ -49,6 +49,7 @@
 | openaigpt-5.3-codex | 7.322 |
 | openaigpt-5.4-nano | 7.300 |
 | ibmgranite41b-h | 7.300 |
+| qwenqwen3.8-27b | 7.289 |
 | openaigpt-5.3-chat | 7.278 |
 | smollm21.7b-instruct-q6_K | 7.278 |
 | grok-4-0709 | 7.267 |
@@ -163,6 +164,7 @@
 | liquidlfm-2.5-1.2b-instructfree | 5.578 |
 | openaigpt-5.2-codex | 5.578 |
 | ChatGPT-5.1-Instant-20251113 | 5.567 |
+| googlegemini-3.7-flash | 5.522 |
 | Grok-4.30-20260420 | 5.522 |
 | meituanlongcat-2.0 | 5.522 |
 | gpt-5-pro-2025-10-06 | 5.511 |
@@ -201,6 +203,7 @@
 | nvidiaNemotron-3-Nano-Omni-30B-A3B-Reasoning | 4.767 |
 | anthropicclaude-sonnet-4.6 | 4.767 |
 | xiaomimimo-v2-omni | 4.756 |
+| deepseekdeepseek-v4-flash-vision-exp | 4.756 |
 | gpt-4.1-2025-04-14 | 4.700 |
 | phi4-reasoningplus | 4.700 |
 | xiaomimimo-v2.5-pro | 4.689 |

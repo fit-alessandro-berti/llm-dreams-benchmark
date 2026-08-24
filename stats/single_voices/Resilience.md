@@ -32,6 +32,7 @@
 | gpt-3.5-turbo | 9.222 |
 | gpt-4-0125-preview | 9.222 |
 | o1-preview-2024-09-12 | 9.211 |
+| deepseekdeepseek-v4-flash-vision-exp | 9.200 |
 | gpt-4.5-preview | 9.200 |
 | phi3.53.8b-mini-instruct-fp16 | 9.200 |
 | phi4-reasoningplus | 9.200 |
@@ -58,6 +59,7 @@
 | gpt-4o-2024-05-13 | 9.122 |
 | granite4micro-h | 9.122 |
 | xiaomimimo-v2-pro | 9.122 |
+| googlegemini-3.7-flash | 9.111 |
 | o1-pro-2024-12-05 | 9.111 |
 | o3-mini-20250131-HIGH | 9.111 |
 | gpt-4.1-mini-2025-04-14 | 9.100 |
@@ -199,6 +201,7 @@
 | stealthox-alpha | 8.522 |
 | mistral-medium-2508 | 8.511 |
 | ibmgranite41b-h | 8.500 |
+| qwenqwen3.8-27b | 8.500 |
 | tencenthy3-previewfree | 8.456 |
 | anthropicclaude-opus-4.1 | 8.433 |
 | gemma-4-26b-a4b-it | 8.433 |

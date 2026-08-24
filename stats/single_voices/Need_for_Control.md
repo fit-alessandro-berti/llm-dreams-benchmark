@@ -127,6 +127,7 @@
 | o1-2024-12-05 | 5.756 |
 | gemini-3.5-flash-lite | 5.744 |
 | qwenqwen3-max | 5.711 |
+| qwenqwen3.8-27b | 5.711 |
 | gpt-5-chat-latest-2025-08-19 | 5.689 |
 | moonshotaikimi-k2.6 | 5.689 |
 | gemini-3.6-flash | 5.678 |
@@ -219,11 +220,13 @@
 | xiaomimimo-v2.5 | 4.667 |
 | qwenqwen3.8-2.4t-a95b | 4.656 |
 | nvidianemotron-3.5-lightning | 4.611 |
+| deepseekdeepseek-v4-flash-vision-exp | 4.578 |
 | xiaomimimo-v2.5-pro | 4.556 |
 | Grok-4.3-20260530 | 4.533 |
 | gpt-4.5-preview | 4.522 |
 | qwenqwen3.8-max | 4.511 |
 | qwen3.59b | 4.500 |
+| googlegemini-3.7-flash | 4.478 |
 | moonshotaikimi-k2.7-code | 4.456 |
 | anthropicclaude-sonnet-4.6 | 4.367 |
 | o3-mini-20250131-HIGH | 4.289 |

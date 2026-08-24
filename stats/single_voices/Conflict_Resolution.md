@@ -27,6 +27,7 @@
 | Meta-Muse-Spark-20260409 | 8.811 |
 | thinkingmachinesinkling-small | 8.811 |
 | nvidiaNVIDIA-Nemotron-3-Super-120B-A12B | 8.800 |
+| googlegemini-3.7-flash | 8.789 |
 | gpt-5-nano-2025-08-07 | 8.789 |
 | granite4small-h | 8.789 |
 | anthropicclaude-sonnet-4.6 | 8.778 |
@@ -79,6 +80,7 @@
 | open-mixtral-8x7b | 8.567 |
 | baiduernie-4.5-300b-a47b | 8.556 |
 | ai21jamba-large-1.7 | 8.556 |
+| deepseekdeepseek-v4-flash-vision-exp | 8.556 |
 | gpt-4.1-mini-2025-04-14 | 8.556 |
 | openaigpt-oss-120b | 8.556 |
 | qwenqwen3-max | 8.556 |
@@ -172,6 +174,7 @@
 | gemma-4-31b-it | 7.944 |
 | tencenthy3-previewfree | 7.944 |
 | gemma4e2b | 7.922 |
+| qwenqwen3.8-27b | 7.911 |
 | meta-llamaMeta-Llama-3.1-405B-Instruct | 7.889 |
 | z-aiglm-5.2 | 7.878 |
 | Grok-3-beta-thinking-20250303 | 7.844 |

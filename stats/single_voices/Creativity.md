@@ -34,6 +34,7 @@
 | gpt-5-mini-2025-08-07 | 9.711 |
 | qwenqwen3.7-flash | 9.711 |
 | nvidianemotron-3-nano-30b-a3bfree | 9.711 |
+| deepseekdeepseek-v4-flash-vision-exp | 9.700 |
 | gemini-2.5-pro-preview-06-05 | 9.700 |
 | googlegemini-3.1-flash-lite-preview | 9.700 |
 | gpt-5-2025-08-07 | 9.700 |
@@ -59,6 +60,7 @@
 | z-aiglm-5.3 | 9.656 |
 | moonshotaikimi-k3 | 9.656 |
 | qwen3.59b | 9.656 |
+| qwenqwen3.8-27b | 9.656 |
 | gpt-5.5-2026-04-23 | 9.644 |
 | nvidianemotron-3.5-lightning | 9.644 |
 | anthropicclaude-sonnet-4.6 | 9.644 |
@@ -90,6 +92,7 @@
 | openaigpt-5.6-sol | 9.622 |
 | qwenqwen3-max | 9.622 |
 | xiaomimimo-v2.5 | 9.622 |
+| googlegemini-3.7-flash | 9.611 |
 | mistral-medium-2508 | 9.611 |
 | o4-mini-2025-04-16 | 9.611 |
 | qwenqwen3.5-397b-a17b | 9.611 |

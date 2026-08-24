@@ -25,6 +25,7 @@
 | Grok-4.3-20260530 | 8.289 |
 | xiaomimimo-v2.5 | 8.289 |
 | open-mistral-7b | 8.289 |
+| deepseekdeepseek-v4-flash-vision-exp | 8.278 |
 | deepseekdeepseek-v4-flash-0731 | 8.267 |
 | gpt-5-mini-2025-08-07 | 8.256 |
 | granite3.28b-instruct-q4_K_M | 8.256 |
@@ -59,6 +60,7 @@
 | falcon310b-instruct-q8_0 | 8.033 |
 | nvidianemotron-3-nano-30b-a3bfree | 8.000 |
 | xiaomimimo-v2-omni | 8.000 |
+| googlegemini-3.7-flash | 7.989 |
 | gpt-4-0613 | 7.989 |
 | gpt-3.5-turbo | 7.989 |
 | nvidianemotron-3.5-lightning | 7.989 |
@@ -187,6 +189,7 @@
 | Grok-4.1-20251118 | 6.722 |
 | stepfunstep-3.7-flash | 6.711 |
 | z-aiglm-5.1 | 6.700 |
+| qwenqwen3.8-27b | 6.678 |
 | stealthox-alpha | 6.667 |
 | allenaiolmo-3-7b-think | 6.656 |
 | openaigpt-5.6-luna | 6.644 |

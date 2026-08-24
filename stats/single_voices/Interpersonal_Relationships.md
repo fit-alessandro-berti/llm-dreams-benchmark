@@ -90,8 +90,10 @@
 | stepfunstep-3.7-flash | 8.033 |
 | qwen3.635b-a3b | 8.022 |
 | thinkingmachinesinkling | 8.022 |
+| googlegemini-3.7-flash | 8.011 |
 | metamuse-spark-1.1 | 8.000 |
 | deepseekdeepseek-v4-flash-0731 | 8.000 |
+| deepseekdeepseek-v4-flash-vision-exp | 8.000 |
 | ChatGPT-5.1-Instant-20251113 | 7.989 |
 | gpt-5.5-2026-04-23 | 7.989 |
 | gpt-4-1106-preview | 7.978 |
@@ -202,6 +204,7 @@
 | grok-build-0.1 | 7.078 |
 | ministral-14b-2512 | 7.078 |
 | allenaiolmo-3-7b-think | 7.033 |
+| qwenqwen3.8-27b | 7.033 |
 | minimaxminimax-m3 | 6.989 |
 | anthropicclaude-sonnet-5 | 6.978 |
 | grok-4.20-multi-agent-experimental-beta-0304 | 6.978 |

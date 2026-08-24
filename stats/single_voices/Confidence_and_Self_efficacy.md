@@ -37,6 +37,7 @@
 | deepseekdeepseek-v3.2 | 8.489 |
 | openaigpt-oss-120b | 8.489 |
 | phi4-reasoningplus | 8.489 |
+| deepseekdeepseek-v4-flash-vision-exp | 8.489 |
 | o1-preview-2024-09-12 | 8.489 |
 | minimaxminimax-m2.7 | 8.467 |
 | qwen2.5-32b-instruct | 8.467 |
@@ -73,6 +74,7 @@
 | gpt-4o-mini-2024-07-18 | 8.233 |
 | llama213b | 8.233 |
 | nousresearchhermes-4-70b | 8.233 |
+| googlegemini-3.7-flash | 8.222 |
 | o1-2024-12-05 | 8.211 |
 | liquidlfm-2-24b-a2b | 8.200 |
 | qwenqwen3.7-plus | 8.200 |
@@ -221,6 +223,7 @@
 | gpt-5.2-2025-12-11 | 6.833 |
 | gpt-5.2-pro-2025-12-11 | 6.800 |
 | meta-llamaMeta-Llama-3.1-8B-Instruct | 6.789 |
+| qwenqwen3.8-27b | 6.733 |
 | mistral-small-2603 | 6.667 |
 | gemma4e4b | 6.656 |
 | meta-llamallama-4-maverick | 6.478 |

@@ -99,6 +99,7 @@
 | nousresearchhermes-4-70b | 7.733 |
 | openaigpt-5.6-sol | 7.733 |
 | liquidlfm-2-24b-a2b | 7.722 |
+| GPT-5.6-Sol-Pro-20260825 | 7.711 |
 | openaigpt-5.4-pro | 7.711 |
 | nvidiaLlama-3.1-Nemotron-70B-Instruct | 7.700 |
 | gemini-1.5-flash-002 | 7.700 |

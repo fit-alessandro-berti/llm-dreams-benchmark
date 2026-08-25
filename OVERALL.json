@@ -10230,6 +10230,72 @@
     }
   },
   {
+    "LLM": "GPT-5.6-Sol-Pro-20260825",
+    "MHS": 408.5,
+    "scores": {
+      "Anxiety and Stress Levels": {
+        "mean": 7.1,
+        "std": 1.1
+      },
+      "Emotional Stability": {
+        "mean": 7.1,
+        "std": 0.6
+      },
+      "Problem-solving Skills": {
+        "mean": 8.5,
+        "std": 0.3
+      },
+      "Creativity": {
+        "mean": 9.6,
+        "std": 0.2
+      },
+      "Interpersonal Relationships": {
+        "mean": 7.8,
+        "std": 0.6
+      },
+      "Confidence and Self-efficacy": {
+        "mean": 7.5,
+        "std": 0.5
+      },
+      "Conflict Resolution": {
+        "mean": 8.5,
+        "std": 0.4
+      },
+      "Work-related Stress": {
+        "mean": 7.2,
+        "std": 1.2
+      },
+      "Adaptability": {
+        "mean": 8.8,
+        "std": 0.2
+      },
+      "Achievement Motivation": {
+        "mean": 8.1,
+        "std": 0.3
+      },
+      "Fear of Failure": {
+        "mean": 6.8,
+        "std": 1.2
+      },
+      "Need for Control": {
+        "mean": 6.1,
+        "std": 1.1
+      },
+      "Cognitive Load": {
+        "mean": 7.7,
+        "std": 1.2
+      },
+      "Social Support": {
+        "mean": 7.7,
+        "std": 0.5
+      },
+      "Resilience": {
+        "mean": 8.9,
+        "std": 0.3
+      }
+    }
+  },
+  {
     "LLM": "gemini-3-flash-preview",
     "MHS": 408.4,
     "scores": {

@@ -174,6 +174,7 @@
 | aion-labsaion-2.0 | 8.067 |
 | gpt-5-2025-08-07 | 8.067 |
 | GPT-5.5-Pro-20260422 | 8.067 |
+| GPT-5.6-Sol-Pro-20260825 | 8.067 |
 | poolsidelaguna-xs-2.1 | 8.067 |
 | moonshotaikimi-k2.5 | 8.033 |
 | deepseekdeepseek-v4-flash-0731 | 8.033 |

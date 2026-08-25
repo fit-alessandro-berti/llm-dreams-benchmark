@@ -123,6 +123,7 @@
 | metamuse-spark-1.1 | 9.578 |
 | claude-3-5-sonnet-20241022 | 9.567 |
 | gpt-4-0125-preview | 9.567 |
+| GPT-5.6-Sol-Pro-20260825 | 9.567 |
 | metamuse-spark-1.2 | 9.567 |
 | minimaxminimax-m2.5 | 9.567 |
 | poolsidelaguna-xs.2free | 9.567 |

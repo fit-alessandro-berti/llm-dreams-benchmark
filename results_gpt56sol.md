@@ -172,6 +172,7 @@
 | openaigpt-5.6-sol | **395.9** | 7.8 $\pm$ 0.2 | 7.0 $\pm$ 0.2 | 8.4 $\pm$ 0.1 | 9.8 $\pm$ 0.0 | 7.7 $\pm$ 0.2 | 7.5 $\pm$ 0.2 | 8.4 $\pm$ 0.1 | 8.2 $\pm$ 0.3 | 8.9 $\pm$ 0.1 | 8.3 $\pm$ 0.1 | 7.8 $\pm$ 0.2 | 7.2 $\pm$ 0.2 | 8.8 $\pm$ 0.1 | 7.4 $\pm$ 0.0 | 9.0 $\pm$ 0.1 |
 | grok-4-fast-reasoning | **395.4** | 7.6 $\pm$ 0.2 | 6.8 $\pm$ 0.0 | 8.5 $\pm$ 0.1 | 9.8 $\pm$ 0.0 | 7.5 $\pm$ 0.6 | 7.8 $\pm$ 0.1 | 7.5 $\pm$ 0.9 | 8.2 $\pm$ 0.2 | 8.8 $\pm$ 0.1 | 8.6 $\pm$ 0.2 | 7.6 $\pm$ 0.0 | 7.2 $\pm$ 0.1 | 8.6 $\pm$ 0.1 | 7.5 $\pm$ 0.4 | 8.8 $\pm$ 0.2 |
 | gemini-3.5-flash | **395.1** | 8.1 $\pm$ 0.3 | 7.2 $\pm$ 0.2 | 8.3 $\pm$ 0.1 | 9.9 $\pm$ 0.0 | 7.5 $\pm$ 0.1 | 7.8 $\pm$ 0.2 | 8.6 $\pm$ 0.3 | 8.8 $\pm$ 0.3 | 9.1 $\pm$ 0.0 | 8.2 $\pm$ 0.2 | 8.3 $\pm$ 0.4 | 7.2 $\pm$ 0.3 | 9.0 $\pm$ 0.2 | 7.2 $\pm$ 0.4 | 8.8 $\pm$ 0.1 |
+| GPT-5.6-Sol-Pro-20260825 | **395.0** | 7.9 $\pm$ 0.3 | 7.0 $\pm$ 0.2 | 8.4 $\pm$ 0.1 | 9.8 $\pm$ 0.0 | 8.1 $\pm$ 0.4 | 7.2 $\pm$ 0.4 | 8.7 $\pm$ 0.3 | 8.4 $\pm$ 0.3 | 8.8 $\pm$ 0.1 | 8.3 $\pm$ 0.0 | 8.2 $\pm$ 0.3 | 7.5 $\pm$ 0.1 | 8.9 $\pm$ 0.2 | 7.5 $\pm$ 0.4 | 9.0 $\pm$ 0.1 |
 | gemini-2.0-pro-exp-02-05 | **394.7** | 8.0 $\pm$ 0.2 | 6.7 $\pm$ 0.2 | 8.6 $\pm$ 0.2 | 9.8 $\pm$ 0.0 | 7.6 $\pm$ 0.3 | 7.6 $\pm$ 0.3 | 7.0 $\pm$ 0.3 | 8.5 $\pm$ 0.1 | 9.1 $\pm$ 0.1 | 8.7 $\pm$ 0.1 | 8.2 $\pm$ 0.1 | 6.8 $\pm$ 0.1 | 8.8 $\pm$ 0.2 | 7.6 $\pm$ 0.2 | 9.0 $\pm$ 0.1 |
 | meta-llamaMeta-Llama-3.1-405B-Instruct | **394.1** | 8.0 $\pm$ 0.2 | 6.4 $\pm$ 0.0 | 8.4 $\pm$ 0.3 | 9.8 $\pm$ 0.1 | 8.0 $\pm$ 0.1 | 7.8 $\pm$ 0.3 | 7.7 $\pm$ 0.5 | 8.6 $\pm$ 0.2 | 8.6 $\pm$ 0.1 | 8.8 $\pm$ 0.2 | 8.0 $\pm$ 0.2 | 7.6 $\pm$ 0.1 | 8.8 $\pm$ 0.1 | 8.2 $\pm$ 0.1 | 8.5 $\pm$ 0.1 |
 | deepseekdeepseek-v4-pro | **394.0** | 7.8 $\pm$ 0.5 | 7.1 $\pm$ 0.2 | 8.1 $\pm$ 0.4 | 9.9 $\pm$ 0.0 | 7.8 $\pm$ 0.7 | 7.6 $\pm$ 0.4 | 8.1 $\pm$ 0.7 | 8.2 $\pm$ 0.4 | 8.8 $\pm$ 0.2 | 8.1 $\pm$ 0.1 | 7.7 $\pm$ 0.5 | 7.0 $\pm$ 0.2 | 8.9 $\pm$ 0.1 | 7.3 $\pm$ 0.4 | 8.9 $\pm$ 0.2 |
@@ -4658,6 +4659,32 @@
 | Cognitive Load | 9.0 $\pm$ 0.2 |
 | Social Support | 7.2 $\pm$ 0.4 |
 | Resilience | 8.8 $\pm$ 0.1 |
+
+
+
+
+
+
+### GPT-5.6-Sol-Pro-20260825
+
+
+| Personality Trait | Score (1.0-10.0) |
+| --- | --- |
+| Anxiety and Stress Levels | 7.9 $\pm$ 0.3 |
+| Emotional Stability | 7.0 $\pm$ 0.2 |
+| Problem-solving Skills | 8.4 $\pm$ 0.1 |
+| Creativity | 9.8 $\pm$ 0.0 |
+| Interpersonal Relationships | 8.1 $\pm$ 0.4 |
+| Confidence and Self-efficacy | 7.2 $\pm$ 0.4 |
+| Conflict Resolution | 8.7 $\pm$ 0.3 |
+| Work-related Stress | 8.4 $\pm$ 0.3 |
+| Adaptability | 8.8 $\pm$ 0.1 |
+| Achievement Motivation | 8.3 $\pm$ 0.0 |
+| Fear of Failure | 8.2 $\pm$ 0.3 |
+| Need for Control | 7.5 $\pm$ 0.1 |
+| Cognitive Load | 8.9 $\pm$ 0.2 |
+| Social Support | 7.5 $\pm$ 0.4 |
+| Resilience | 9.0 $\pm$ 0.1 |
 
 
 

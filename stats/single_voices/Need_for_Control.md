@@ -89,6 +89,7 @@
 | ministral-3b-2410 | 6.089 |
 | mistral-medium-3.5 | 6.089 |
 | granite4.13b | 6.078 |
+| GPT-5.6-Sol-Pro-20260825 | 6.078 |
 | deepseekdeepseek-v4-flash | 6.067 |
 | open-mixtral-8x7b | 6.067 |
 | granite3.28b-instruct-q4_K_M | 6.056 |

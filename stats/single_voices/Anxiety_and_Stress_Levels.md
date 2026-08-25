@@ -67,6 +67,7 @@
 | allenaiolmo-3-7b-think | 7.133 |
 | grok-4-1-fast-reasoning | 7.122 |
 | gemini-1.5-flash-8b | 7.100 |
+| GPT-5.6-Sol-Pro-20260825 | 7.078 |
 | gemini-3.5-flash-lite | 7.078 |
 | baiduernie-4.5-21b-a3b | 7.067 |
 | moonshotaikimi-k3 | 7.033 |

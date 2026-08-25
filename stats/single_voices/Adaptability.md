@@ -160,6 +160,7 @@
 | allenaiolmo-3.1-32b-instruct | 8.856 |
 | openaigpt-5.4-pro | 8.856 |
 | gemini-1.5-flash-8b | 8.844 |
+| GPT-5.6-Sol-Pro-20260825 | 8.844 |
 | chatgpt-4o-latest-2025-03-26 | 8.833 |
 | grok-4-fast-reasoning | 8.833 |
 | moonshotaikimi-k3 | 8.822 |

@@ -130,6 +130,7 @@
 | chatgpt-4o-latest-2025-03-26 | 7.733 |
 | ai21jamba-large-1.7 | 7.722 |
 | baiduernie-4.5-21b-a3b | 7.722 |
+| GPT-5.6-Sol-Pro-20260825 | 7.722 |
 | grok-4.20-experimental-beta-0304-non-reasoning | 7.722 |
 | poolsidelaguna-m.1free | 7.722 |
 | falcon33b-instruct-q8_0 | 7.711 |

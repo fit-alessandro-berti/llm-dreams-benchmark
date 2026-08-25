@@ -130,6 +130,7 @@
 | falcon33b-instruct-q8_0 | 7.756 |
 | qwenqwen3.7-plus | 7.756 |
 | grok-4-1-fast-reasoning | 7.744 |
+| GPT-5.6-Sol-Pro-20260825 | 7.722 |
 | qwenqwen3-30b-a3b-instruct-2507 | 7.700 |
 | gemini-2.5-pro-preview-05-06 | 7.689 |
 | z-aiglm-5.3 | 7.689 |

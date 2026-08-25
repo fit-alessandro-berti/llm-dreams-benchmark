@@ -83,6 +83,7 @@
 | deepseekdeepseek-v4-flash | 7.278 |
 | x-aigrok-4.5 | 7.244 |
 | allenaiolmo-3-7b-think | 7.233 |
+| GPT-5.6-Sol-Pro-20260825 | 7.233 |
 | minimaxminimax-m3 | 7.233 |
 | qwenqwen3-max | 7.211 |
 | qwen3.54b | 7.200 |

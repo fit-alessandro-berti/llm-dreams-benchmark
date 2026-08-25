@@ -144,6 +144,7 @@
 | openaigpt-5.3-codex | 7.167 |
 | z-aiglm-5.3 | 7.167 |
 | x-aigrok-4.5 | 7.156 |
+| GPT-5.6-Sol-Pro-20260825 | 7.144 |
 | openaigpt-5.4-pro | 7.144 |
 | openaigpt-5.6-sol | 7.144 |
 | chatgpt-4o-latest-2025-03-26 | 7.133 |

@@ -173,6 +173,7 @@
 | granite4tiny-h | 7.556 |
 | qwenqwen3.5-397b-a17b | 7.500 |
 | meta-llamaMeta-Llama-3.1-405B-Instruct | 7.467 |
+| GPT-5.6-Sol-Pro-20260825 | 7.456 |
 | smollm21.7b-instruct-q6_K | 7.456 |
 | openaigpt-5.4 | 7.456 |
 | moonshotaikimi-k2.5 | 7.422 |

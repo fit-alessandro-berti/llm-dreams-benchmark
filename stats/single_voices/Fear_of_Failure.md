@@ -62,6 +62,7 @@
 | openaigpt-5.3-codex | 6.811 |
 | claude-3-5-sonnet-20241022 | 6.778 |
 | arcee-aitrinity-large-thinking | 6.767 |
+| GPT-5.6-Sol-Pro-20260825 | 6.767 |
 | gemini-3.5-flash-lite | 6.756 |
 | stepfunstep-3.7-flash | 6.756 |
 | z-aiglm-5.3 | 6.744 |

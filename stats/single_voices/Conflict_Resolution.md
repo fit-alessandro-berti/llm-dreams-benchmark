@@ -95,6 +95,7 @@
 | phi33.8b | 8.522 |
 | gemma-3-27b-it | 8.511 |
 | open-mixtral-8x22b | 8.511 |
+| GPT-5.6-Sol-Pro-20260825 | 8.500 |
 | arcee-aitrinity-large-previewfree | 8.500 |
 | qwenqwen3.5-plus-02-15 | 8.500 |
 | gpt-5-chat-latest-2025-08-19 | 8.489 |

@@ -111,6 +111,7 @@
 | qwenqwen3.8-max | 8.567 |
 | allenaiolmo-3.1-32b-instruct | 8.556 |
 | Grok-3-beta-thinking-20250303 | 8.556 |
+| GPT-5.6-Sol-Pro-20260825 | 8.544 |
 | grok-4-fast-reasoning | 8.544 |
 | nousresearchhermes-4-70b | 8.544 |
 | gpt-4-1106-preview | 8.533 |

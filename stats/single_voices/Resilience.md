@@ -115,6 +115,7 @@
 | claude-3-7-sonnet-20250219 | 8.933 |
 | qwen3.59b | 8.933 |
 | Qwen-3.6-27B | 8.922 |
+| GPT-5.6-Sol-Pro-20260825 | 8.911 |
 | gemini-3.6-flash | 8.911 |
 | anthropicclaude-opus-5 | 8.900 |
 | grok-4.20-experimental-beta-0304-non-reasoning | 8.900 |

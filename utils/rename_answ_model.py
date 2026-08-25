@@ -13,8 +13,8 @@ def do_renaming(base_path, original_name, novel_name):
 
 
 if __name__ == "__main__":
-    original_name = "Meta-Muse-Spark-20260904_"
-    novel_name = "Meta-Muse-Spark-20260409_"
+    original_name = "GPT-5.6-Pro-20260825_"
+    novel_name = "GPT-5.6-Sol-Pro-20260825_"
 
     if not original_name.endswith("_"):
         raise Exception("error")

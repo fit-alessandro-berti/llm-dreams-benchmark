@@ -35,8 +35,8 @@ def parse_args(argv=None):
     parser.add_argument(
         "--top",
         type=int,
-        default=3,
-        help="How many nearest models to list (default: 3).",
+        default=5,
+        help="How many nearest models to list (default: 5).",
     )
     return parser.parse_args(argv)
 

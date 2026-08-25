@@ -30,3 +30,7 @@ if __name__ == "__main__":
         ev_dir = os.path.join(base_path, x)
 
         do_deletion(ev_dir, original_name)
+
+    embeddings_directory = os.path.join(base_path, "embeddings", "output")
+    if os.path.isdir(embeddings_directory):
+        do_deletion(embeddings_directory, original_name)

@@ -3,7 +3,10 @@
     200,
     23
   ],
-  "ChatGPT-5.5-Instant-20260530": [],
+  "ChatGPT-5.5-Instant-20260530": [
+    1600,
+    100
+  ],
   "GPT-5.5-Pro-20260422": [
     1600,
     100
@@ -28,16 +31,25 @@
     1111,
     70
   ],
-  "Grok-4.3-20260530": [],
+  "Grok-4.3-20260530": [
+    500,
+    30
+  ],
   "Grok-4.30-20260420": [
     500,
     30
   ],
-  "Grok-4.5-Heavy-20260720": [],
+  "Grok-4.5-Heavy-20260720": [
+    1500,
+    200
+  ],
   "Liquid-LFM2.5-350M": [
     350
   ],
-  "Meta-Muse-Spark-20260409": [],
+  "Meta-Muse-Spark-20260409": [
+    233,
+    22
+  ],
   "Qwen-3.6-27B": [
     27
   ],
@@ -69,7 +81,10 @@
   "amazonnova-2-lite-v1": [
     30
   ],
-  "anthropicclaude-fable-5": [],
+  "anthropicclaude-fable-5": [
+    4500,
+    340
+  ],
   "anthropicclaude-opus-4.1": [
     2000,
     250
@@ -78,7 +93,10 @@
     1700,
     170
   ],
-  "anthropicclaude-opus-5": [],
+  "anthropicclaude-opus-5": [
+    3000,
+    170
+  ],
   "anthropicclaude-sonnet-4.5": [
     300,
     70
@@ -87,7 +105,10 @@
     300,
     70
   ],
-  "anthropicclaude-sonnet-5": [],
+  "anthropicclaude-sonnet-5": [
+    1600,
+    70
+  ],
   "arcee-aitrinity-large-previewfree": [
     398,
     13
@@ -104,8 +125,14 @@
     300,
     47
   ],
-  "bytedance-seedseed-2.0-lite": [],
-  "bytedance-seedseed-2.0-mini": [],
+  "bytedance-seedseed-2.0-lite": [
+    160,
+    16
+  ],
+  "bytedance-seedseed-2.0-mini": [
+    80,
+    8
+  ],
   "chatgpt-4o-latest-2024-11-20": [
     400
   ],
@@ -127,7 +154,10 @@
     2000,
     250
   ],
-  "claude-fable-5-high": [],
+  "claude-fable-5-high": [
+    4500,
+    340
+  ],
   "claude-haiku-4-5-20251001": [
     80,
     20
@@ -140,7 +170,10 @@
     1700,
     170
   ],
-  "claude-opus-4-8": [],
+  "claude-opus-4-8": [
+    2700,
+    170
+  ],
   "deepseekdeepseek-v3.2": [
     671,
     37
@@ -153,13 +186,22 @@
     284,
     13
   ],
-  "deepseekdeepseek-v4-flash-0731": [],
-  "deepseekdeepseek-v4-flash-vision-exp": [],
+  "deepseekdeepseek-v4-flash-0731": [
+    284,
+    13
+  ],
+  "deepseekdeepseek-v4-flash-vision-exp": [
+    284,
+    13
+  ],
   "deepseekdeepseek-v4-pro": [
     1600,
     49
   ],
-  "deepseekdeepseek-v4-pro-0813": [],
+  "deepseekdeepseek-v4-pro-0813": [
+    1600,
+    49
+  ],
   "falcon310b-instruct-q8_0": [
     10
   ],
@@ -184,7 +226,10 @@
     2000,
     65
   ],
-  "gemini-2.5-flash-lite": [],
+  "gemini-2.5-flash-lite": [
+    145,
+    20
+  ],
   "gemini-2.5-pro-exp-03-25": [
     1500,
     40
@@ -205,9 +250,18 @@
     7500,
     40
   ],
-  "gemini-3.5-flash": [],
-  "gemini-3.5-flash-lite": [],
-  "gemini-3.6-flash": [],
+  "gemini-3.5-flash": [
+    275,
+    13
+  ],
+  "gemini-3.5-flash-lite": [
+    120,
+    8
+  ],
+  "gemini-3.6-flash": [
+    275,
+    13
+  ],
   "gemma-3-27b-it": [
     27
   ],
@@ -234,7 +288,10 @@
     7500,
     40
   ],
-  "googlegemini-3.7-flash": [],
+  "googlegemini-3.7-flash": [
+    275,
+    13
+  ],
   "gpt-3.5-turbo": [
     20
   ],
@@ -318,7 +375,10 @@
     1600,
     100
   ],
-  "gpt-5.6-sol-XHIGH": [],
+  "gpt-5.6-sol-XHIGH": [
+    3100,
+    105
+  ],
   "granite3.28b-instruct-q4_K_M": [
     8
   ],
@@ -413,7 +473,10 @@
   "llama27b": [
     7
   ],
-  "meituanlongcat-2.0": [],
+  "meituanlongcat-2.0": [
+    1600,
+    48
+  ],
   "meta-llamaLlama-3.2-3B-Instruct": [
     3
   ],
@@ -437,9 +500,17 @@
     100,
     17
   ],
-  "metamuse-glimmer-30b": [],
-  "metamuse-spark-1.1": [],
-  "metamuse-spark-1.2": [],
+  "metamuse-glimmer-30b": [
+    30
+  ],
+  "metamuse-spark-1.1": [
+    389,
+    48
+  ],
+  "metamuse-spark-1.2": [
+    389,
+    48
+  ],
   "microsoftPhi-3-medium-4k-instruct": [
     14
   ],
@@ -527,7 +598,10 @@
     550,
     55
   ],
-  "nvidianemotron-3.5-lightning": [],
+  "nvidianemotron-3.5-lightning": [
+    30,
+    3
+  ],
   "o1-2024-12-05": [
     300
   ],
@@ -593,14 +667,26 @@
     800,
     50
   ],
-  "openaigpt-5.6-luna": [],
-  "openaigpt-5.6-sol": [],
-  "openaigpt-5.6-terra": [],
+  "openaigpt-5.6-luna": [
+    1500,
+    20
+  ],
+  "openaigpt-5.6-sol": [
+    3100,
+    105
+  ],
+  "openaigpt-5.6-terra": [
+    2100,
+    50
+  ],
   "openaigpt-oss-120b": [
     117,
     5.1
   ],
-  "openrouterowl-alpha": [],
+  "openrouterowl-alpha": [
+    1600,
+    48
+  ],
   "phi2.7b": [
     2.7
   ],
@@ -695,19 +781,36 @@
     397,
     17
   ],
-  "qwenqwen3.7-flash": [],
+  "qwenqwen3.7-flash": [
+    30,
+    3
+  ],
   "qwenqwen3.7-max": [
     1588,
     68
   ],
-  "qwenqwen3.7-plus": [],
-  "qwenqwen3.8-2.4t-a95b": [],
-  "qwenqwen3.8-27b": [],
-  "qwenqwen3.8-max": [],
+  "qwenqwen3.7-plus": [
+    397,
+    17
+  ],
+  "qwenqwen3.8-2.4t-a95b": [
+    2400,
+    95
+  ],
+  "qwenqwen3.8-27b": [
+    27
+  ],
+  "qwenqwen3.8-max": [
+    2400,
+    95
+  ],
   "smollm21.7b-instruct-q6_K": [
     1.7
   ],
-  "stealthox-alpha": [],
+  "stealthox-alpha": [
+    744,
+    40
+  ],
   "stepfunstep-3.7-flash": [
     196,
     11
@@ -719,12 +822,29 @@
     295,
     21
   ],
-  "thinkingmachinesinkling": [],
-  "thinkingmachinesinkling-small": [],
-  "upstagesolar-pro4": [],
-  "x-aigrok-4.5": [],
-  "x-aigrok-4.6": [],
-  "xiaomimimo-v2-omni": [],
+  "thinkingmachinesinkling": [
+    975,
+    41
+  ],
+  "thinkingmachinesinkling-small": [
+    276,
+    12
+  ],
+  "upstagesolar-pro4": [
+    100
+  ],
+  "x-aigrok-4.5": [
+    1500,
+    200
+  ],
+  "x-aigrok-4.6": [
+    1500,
+    200
+  ],
+  "xiaomimimo-v2-omni": [
+    1000,
+    42
+  ],
   "xiaomimimo-v2-pro": [
     1000,
     42
@@ -749,7 +869,10 @@
     744,
     40
   ],
-  "z-aiglm-5.3": [],
+  "z-aiglm-5.3": [
+    744,
+    40
+  ],
   "z-aiglm-5v-turbo": [
     745,
     40

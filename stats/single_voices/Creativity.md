@@ -33,6 +33,7 @@
 | deepseekdeepseek-v4-pro | 9.711 |
 | gpt-5-mini-2025-08-07 | 9.711 |
 | qwenqwen3.7-flash | 9.711 |
+| qwenqwen3.8-flash | 9.711 |
 | nvidianemotron-3-nano-30b-a3bfree | 9.711 |
 | deepseekdeepseek-v4-flash-vision-exp | 9.700 |
 | gemini-2.5-pro-preview-06-05 | 9.700 |
@@ -187,6 +188,7 @@
 | meta-llamaMeta-Llama-3.1-70B-Instruct | 9.433 |
 | mistral-small-2603 | 9.433 |
 | microsoftPhi-3-medium-4k-instruct | 9.422 |
+| z-aiglm-5.3-flash | 9.422 |
 | ai21jamba-mini-1.7 | 9.411 |
 | meta-llamaMeta-Llama-3.1-405B-Instruct | 9.411 |
 | ibm-granitegranite-4.1-8b | 9.400 |

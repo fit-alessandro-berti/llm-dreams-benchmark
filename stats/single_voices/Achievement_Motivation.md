@@ -169,6 +169,7 @@
 | gemini-2.5-pro-exp-03-25 | 8.089 |
 | gemini-3-pro-preview | 8.089 |
 | gemma4e2b | 8.089 |
+| qwenqwen3.8-flash | 8.089 |
 | xiaomimimo-v2.5 | 8.078 |
 | Liquid-LFM2.5-350M | 8.067 |
 | aion-labsaion-2.0 | 8.067 |
@@ -230,6 +231,7 @@
 | qwenqwen3.5-27b | 7.578 |
 | thinkingmachinesinkling | 7.556 |
 | qwenqwen3.5-397b-a17b | 7.500 |
+| z-aiglm-5.3-flash | 7.467 |
 | stepfunstep-3.7-flash | 7.444 |
 | claude-opus-4-7 | 7.378 |
 | anthropicclaude-opus-5 | 7.333 |

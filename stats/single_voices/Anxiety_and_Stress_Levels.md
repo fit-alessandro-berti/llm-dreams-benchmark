@@ -16,6 +16,7 @@
 | ministral-3b-2512 | 8.044 |
 | mistral-medium-2508 | 8.022 |
 | gpt-5.6-sol-XHIGH | 8.011 |
+| z-aiglm-5.3-flash | 7.922 |
 | llama27b | 7.911 |
 | ministral-14b-2512 | 7.878 |
 | aion-labsaion-2.0 | 7.867 |
@@ -127,6 +128,7 @@
 | metamuse-spark-1.1 | 6.333 |
 | gpt-4.1-nano-2025-04-14 | 6.322 |
 | openrouterowl-alpha | 6.311 |
+| qwenqwen3.8-flash | 6.300 |
 | deepseekdeepseek-v4-pro | 6.267 |
 | gpt-5.5-2026-04-23 | 6.244 |
 | gemini-2.5-flash-lite | 6.233 |

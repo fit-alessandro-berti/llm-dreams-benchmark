@@ -211,6 +211,7 @@
 | qwenqwen3.5-122b-a10b | 8.078 |
 | stepfunstep-3.7-flash | 8.078 |
 | meta-llamaMeta-Llama-3.1-8B-Instruct | 8.067 |
+| qwenqwen3.8-flash | 8.067 |
 | gemini-2.5-pro-exp-03-25 | 8.044 |
 | poolsidelaguna-xs-2.1 | 8.033 |
 | deepseekdeepseek-v4-pro-0813 | 8.022 |
@@ -234,6 +235,7 @@
 | z-aiglm-5v-turbo | 7.722 |
 | nvidianemotron-3-ultra-550b-a55bfree | 7.689 |
 | llama27b | 7.678 |
+| z-aiglm-5.3-flash | 7.656 |
 | gemma4e2b | 7.589 |
 | anthropicclaude-sonnet-4.5 | 7.344 |
 | metamuse-glimmer-30b | 7.322 |

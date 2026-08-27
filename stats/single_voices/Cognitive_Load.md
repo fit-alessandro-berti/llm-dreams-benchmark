@@ -23,6 +23,7 @@
 | claude-opus-4-7 | 8.411 |
 | ministral-14b-2512 | 8.411 |
 | moonshotaikimi-k2.6 | 8.400 |
+| z-aiglm-5.3-flash | 8.378 |
 | grok-4.20-multi-agent-experimental-beta-0304 | 8.344 |
 | poolsidelaguna-xs-2.1 | 8.333 |
 | meta-llamallama-4-maverick | 8.300 |
@@ -125,6 +126,7 @@
 | Qwen-3.6-27B | 7.556 |
 | GPT-5.5-Pro-20260422 | 7.544 |
 | gemma-3-27b-it | 7.511 |
+| qwenqwen3.8-flash | 7.500 |
 | chatgpt-4o-latest-2025-03-26 | 7.489 |
 | gemini-3.6-flash | 7.467 |
 | googlegemini-3.1-flash-lite-preview | 7.467 |

@@ -139,6 +139,7 @@
 | liquidlfm-2.5-1.2b-instructfree | 8.833 |
 | openaigpt-5.2-codex | 8.833 |
 | qwenqwen3.5-35b-a3b | 8.833 |
+| qwenqwen3.8-flash | 8.833 |
 | deepseekdeepseek-v4-pro-0813 | 8.822 |
 | gemini-1.5-flash-8b | 8.822 |
 | gpt-4-1106-preview | 8.822 |
@@ -220,6 +221,7 @@
 | minimaxminimax-m3 | 8.289 |
 | ministral-14b-2512 | 8.256 |
 | gemma4e2b | 8.178 |
+| z-aiglm-5.3-flash | 8.178 |
 | ministral-8b-2512 | 8.133 |
 | meta-llamallama-4-scout | 8.100 |
 | poolsidelaguna-xs-2.1 | 8.033 |

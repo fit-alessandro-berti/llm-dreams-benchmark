@@ -164,6 +164,7 @@
 | Liquid-LFM2.5-350M | 7.456 |
 | googlegemini-3.1-pro-preview | 7.444 |
 | liquidlfm-2-24b-a2b | 7.444 |
+| qwenqwen3.8-flash | 7.444 |
 | openaigpt-5.6-luna | 7.422 |
 | Qwen-3.6-27B | 7.422 |
 | claude-opus-4-5-20251101 | 7.389 |
@@ -205,6 +206,7 @@
 | deepseekdeepseek-v3.2-speciale | 7.111 |
 | z-aiglm-5.2 | 7.078 |
 | chatgpt-4o-latest-2024-11-20 | 7.067 |
+| z-aiglm-5.3-flash | 7.056 |
 | gpt-5.2-pro-2025-12-11 | 7.044 |
 | arcee-aitrinity-large-thinking | 7.033 |
 | meta-llamaMeta-Llama-3.1-8B-Instruct | 7.011 |

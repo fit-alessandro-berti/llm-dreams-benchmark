@@ -125,6 +125,7 @@
 | Grok-4-fast-20251111 | 7.356 |
 | bytedance-seedseed-2.0-lite | 7.333 |
 | gpt-4-1106-preview | 7.322 |
+| qwenqwen3.8-flash | 7.322 |
 | nvidiaLlama-3.1-Nemotron-70B-Instruct | 7.322 |
 | gemini-3.5-flash | 7.311 |
 | allenaiolmo-3-7b-instruct | 7.300 |
@@ -227,6 +228,7 @@
 | meta-llamallama-4-scout | 5.956 |
 | aion-labsaion-2.0 | 5.956 |
 | gemma4e4b | 5.878 |
+| z-aiglm-5.3-flash | 5.856 |
 | qwen3.54b | 5.844 |
 | talkie-1930-13b-it | 5.833 |
 | meta-llamaMeta-Llama-3.1-8B-Instruct | 5.700 |

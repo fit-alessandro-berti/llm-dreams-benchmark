@@ -20,6 +20,7 @@
 | meta-llamaMeta-Llama-3.1-8B-Instruct | 8.200 |
 | grok-build-0.1 | 8.189 |
 | gpt-5.6-sol-XHIGH | 8.178 |
+| z-aiglm-5.3-flash | 8.167 |
 | gpt-5.2-2025-12-11 | 8.156 |
 | mistral-medium-2508 | 8.156 |
 | meta-llamaLlama-3.3-70B-Instruct | 8.133 |
@@ -139,6 +140,7 @@
 | granite4micro-h | 6.544 |
 | gpt-4o-mini-2024-07-18 | 6.533 |
 | qwenqwen3.5-397b-a17b | 6.533 |
+| qwenqwen3.8-flash | 6.533 |
 | gpt-3.5-turbo | 6.522 |
 | googlegemini-3.1-flash-lite-preview | 6.511 |
 | phi2.7b | 6.444 |

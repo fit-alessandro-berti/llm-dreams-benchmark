@@ -182,6 +182,7 @@
 | openaigpt-5.4-pro | 7.411 |
 | claude-opus-4-5-20251101 | 7.400 |
 | gemini-2.0-pro-exp-02-05 | 7.378 |
+| qwenqwen3.8-flash | 7.378 |
 | openaigpt-5.6-terra | 7.378 |
 | z-aiglm-5 | 7.378 |
 | gemini-2.5-pro-preview-05-06 | 7.367 |
@@ -236,6 +237,7 @@
 | claude-opus-4-7 | 6.267 |
 | qwen3.54b | 6.233 |
 | nvidianemotron-3-ultra-550b-a55bfree | 6.189 |
+| z-aiglm-5.3-flash | 6.189 |
 | claude-opus-4-8 | 6.156 |
 | gemini-2.5-pro-exp-03-25 | 6.144 |
 | anthropicclaude-sonnet-4.5 | 6.078 |

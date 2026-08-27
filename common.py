@@ -3,7 +3,7 @@ from pathlib import Path
 
 from file_utils import read_file_with_fallback
 
-ANSWERING_MODEL_NAME = "deepseek/deepseek-v4-flash-vision-exp"
+ANSWERING_MODEL_NAME = "z-ai/glm-5.3-flash"
 EVALUATING_MODEL_NAME = "gpt-5.2"
 
 

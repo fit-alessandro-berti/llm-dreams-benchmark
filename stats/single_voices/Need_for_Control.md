@@ -30,6 +30,7 @@
 | granite4tiny-h | 6.800 |
 | gpt-4o-mini-2024-11-05 | 6.778 |
 | meta-llamaMeta-Llama-3.1-70B-Instruct | 6.767 |
+| z-aiglm-5.3-flash | 6.767 |
 | chatgpt-4o-latest-2024-11-20 | 6.744 |
 | qwen3.50.8b | 6.744 |
 | gemini-3-pro-preview | 6.711 |
@@ -167,6 +168,7 @@
 | moonshotaikimi-k2.5 | 5.378 |
 | anthropicclaude-fable-5 | 5.344 |
 | anthropicclaude-opus-5 | 5.322 |
+| qwenqwen3.8-flash | 5.322 |
 | inclusionailing-2.6-1tfree | 5.278 |
 | inceptionmercury | 5.278 |
 | qwenqwen3-30b-a3b-instruct-2507 | 5.278 |

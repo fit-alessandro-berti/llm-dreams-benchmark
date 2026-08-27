@@ -12,6 +12,7 @@
 | gemini-2.5-pro-exp-03-25 | 8.000 |
 | anthropicclaude-sonnet-4.5 | 7.889 |
 | gemma4e2b | 7.889 |
+| z-aiglm-5.3-flash | 7.878 |
 | gemma4e4b | 7.856 |
 | ministral-3b-2512 | 7.844 |
 | gpt-5.2-2025-12-11 | 7.767 |
@@ -111,6 +112,7 @@
 | gemini-3.6-flash | 6.078 |
 | amazonnova-2-lite-v1 | 6.000 |
 | granite4micro | 5.933 |
+| qwenqwen3.8-flash | 5.933 |
 | nousresearchhermes-4-405b | 5.911 |
 | bytedance-seedseed-2.0-mini | 5.911 |
 | gpt-5.3-codex-spark-low | 5.900 |

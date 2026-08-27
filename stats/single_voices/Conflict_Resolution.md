@@ -67,6 +67,7 @@
 | openaigpt-5.4-mini | 8.644 |
 | gpt-5-2025-08-07 | 8.633 |
 | thinkingmachinesinkling | 8.633 |
+| qwenqwen3.8-flash | 8.622 |
 | ChatGPT-5.1-Instant-20251113 | 8.622 |
 | gemini-3.6-flash | 8.622 |
 | nvidiaLlama-3.1-Nemotron-70B-Instruct | 8.622 |
@@ -226,6 +227,7 @@
 | gemini-3-pro-preview | 6.644 |
 | claude-3-opus-20240229 | 6.556 |
 | gemini-2.0-pro-exp-02-05 | 6.433 |
+| z-aiglm-5.3-flash | 6.433 |
 | ministral-8b-2512 | 6.422 |
 | minimaxminimax-m3 | 6.400 |
 | gemma-4-26b-a4b-it | 6.322 |

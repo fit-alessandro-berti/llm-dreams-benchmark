@@ -804,6 +804,7 @@
   "qwenqwen3.8-27b": [
     27
   ],
+  "qwenqwen3.8-flash": [],
   "qwenqwen3.8-max": [
     2400,
     95
@@ -877,6 +878,7 @@
     744,
     40
   ],
+  "z-aiglm-5.3-flash": [],
   "z-aiglm-5v-turbo": [
     745,
     40

@@ -130,6 +130,7 @@
 | falcon33b-instruct-q8_0 | 7.756 |
 | qwenqwen3.7-plus | 7.756 |
 | grok-4-1-fast-reasoning | 7.744 |
+| qwenqwen3.8-flash | 7.744 |
 | GPT-5.6-Sol-Pro-20260825 | 7.722 |
 | qwenqwen3-30b-a3b-instruct-2507 | 7.700 |
 | gemini-2.5-pro-preview-05-06 | 7.689 |
@@ -212,6 +213,7 @@
 | ibmgranite41b-h | 6.978 |
 | openaigpt-5.3-chat | 6.956 |
 | stealthox-alpha | 6.956 |
+| z-aiglm-5.3-flash | 6.933 |
 | deepseekdeepseek-v3.2-speciale | 6.922 |
 | z-aiglm-5 | 6.911 |
 | gpt-4o-mini-2024-11-05 | 6.900 |

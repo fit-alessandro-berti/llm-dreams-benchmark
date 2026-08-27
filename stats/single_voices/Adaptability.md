@@ -164,6 +164,7 @@
 | chatgpt-4o-latest-2025-03-26 | 8.833 |
 | grok-4-fast-reasoning | 8.833 |
 | moonshotaikimi-k3 | 8.822 |
+| qwenqwen3.8-flash | 8.822 |
 | z-aiglm-5.3 | 8.822 |
 | ai21jamba-large-1.7 | 8.811 |
 | gpt-5-chat-latest-2025-08-19 | 8.811 |
@@ -226,6 +227,7 @@
 | aion-labsaion-2.0 | 8.311 |
 | gemma4e2b | 8.311 |
 | claude-opus-4-7 | 8.256 |
+| z-aiglm-5.3-flash | 8.244 |
 | anthropicclaude-sonnet-4.5 | 8.156 |
 | claude-opus-4-8 | 8.122 |
 | ministral-3b-2512 | 8.100 |

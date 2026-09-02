@@ -16,9 +16,11 @@
 | nvidianemotron-3.5-lightning | 8.900 |
 | upstagesolar-pro4 | 8.900 |
 | ibm-granitegranite-4.1-8b | 8.878 |
+| inceptionmercury-2.5-preview | 8.878 |
 | o1-preview-2024-09-12 | 8.878 |
 | qwenqwen3.8-max | 8.867 |
 | deepseekdeepseek-v4-flash-0731 | 8.856 |
+| tencenthy4-preview | 8.856 |
 | gpt-4o-2024-05-13 | 8.844 |
 | qwenqwen3.6-plusfree | 8.822 |
 | granite4.130b | 8.822 |
@@ -47,6 +49,7 @@
 | o4-mini-2025-04-16 | 8.733 |
 | gpt-4o-mini-2024-07-18 | 8.722 |
 | GPT-5.5-Pro-20260422 | 8.722 |
+| ibm-granitegranite-4.2-8b | 8.722 |
 | metamuse-spark-1.1 | 8.722 |
 | metamuse-spark-1.2 | 8.722 |
 | qwen2.5-32b-instruct | 8.722 |

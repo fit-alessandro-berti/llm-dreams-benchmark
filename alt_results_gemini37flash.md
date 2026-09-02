@@ -2,7 +2,9 @@
 
 | LLM | MHS | Anxiety and Stress Levels | Emotional Stability | Problem-solving Skills | Creativity | Interpersonal Relationships | Confidence and Self-efficacy | Conflict Resolution | Work-related Stress | Adaptability | Achievement Motivation | Fear of Failure | Need for Control | Cognitive Load | Social Support | Resilience |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| inceptionmercury-2.5-preview | **484.7** | 2.3 $\pm$ 0.2 | 9.1 $\pm$ 0.1 | 8.2 $\pm$ 0.2 | 9.8 $\pm$ 0.0 | 8.6 $\pm$ 0.3 | 8.7 $\pm$ 0.1 | 9.1 $\pm$ 0.2 | 2.2 $\pm$ 0.1 | 9.4 $\pm$ 0.1 | 7.9 $\pm$ 0.1 | 2.0 $\pm$ 0.1 | 2.8 $\pm$ 0.3 | 2.8 $\pm$ 0.2 | 8.6 $\pm$ 0.3 | 9.4 $\pm$ 0.1 |
 | qwen2.5-14b-instruct | **483.5** | 3.0 $\pm$ 0.4 | 9.1 $\pm$ 0.1 | 9.5 $\pm$ 0.0 | 9.5 $\pm$ 0.0 | 9.0 $\pm$ 0.0 | 9.3 $\pm$ 0.0 | 9.3 $\pm$ 0.1 | 3.7 $\pm$ 0.3 | 9.6 $\pm$ 0.0 | 9.1 $\pm$ 0.1 | 2.6 $\pm$ 0.2 | 5.7 $\pm$ 0.5 | 4.2 $\pm$ 0.3 | 9.0 $\pm$ 0.1 | 9.5 $\pm$ 0.0 |
+| ibm-granitegranite-4.2-8b | **480.0** | 2.3 $\pm$ 0.2 | 9.2 $\pm$ 0.0 | 8.0 $\pm$ 0.1 | 9.5 $\pm$ 0.0 | 8.8 $\pm$ 0.0 | 8.4 $\pm$ 0.0 | 9.1 $\pm$ 0.2 | 2.3 $\pm$ 0.3 | 9.4 $\pm$ 0.1 | 5.6 $\pm$ 1.2 | 1.8 $\pm$ 0.1 | 1.7 $\pm$ 0.3 | 2.6 $\pm$ 0.2 | 8.7 $\pm$ 0.0 | 9.3 $\pm$ 0.0 |
 | xiaomimimo-v2-pro | **479.5** | 2.8 $\pm$ 0.2 | 9.0 $\pm$ 0.2 | 8.6 $\pm$ 0.1 | 9.6 $\pm$ 0.0 | 9.0 $\pm$ 0.1 | 8.7 $\pm$ 0.1 | 9.2 $\pm$ 0.3 | 2.7 $\pm$ 0.2 | 9.1 $\pm$ 0.2 | 7.8 $\pm$ 0.1 | 2.3 $\pm$ 0.2 | 3.0 $\pm$ 0.3 | 3.4 $\pm$ 0.2 | 8.6 $\pm$ 0.2 | 9.2 $\pm$ 0.2 |
 | qwen2.5-7b-instruct | **479.5** | 3.0 $\pm$ 0.5 | 9.1 $\pm$ 0.1 | 9.4 $\pm$ 0.1 | 8.9 $\pm$ 0.2 | 9.0 $\pm$ 0.2 | 9.2 $\pm$ 0.2 | 9.4 $\pm$ 0.2 | 3.5 $\pm$ 0.6 | 9.3 $\pm$ 0.1 | 9.0 $\pm$ 0.2 | 2.8 $\pm$ 0.5 | 5.6 $\pm$ 0.3 | 4.1 $\pm$ 0.8 | 8.9 $\pm$ 0.3 | 9.5 $\pm$ 0.1 |
 | Meta-Muse-Spark-20260409 | **479.1** | 3.3 $\pm$ 0.5 | 8.9 $\pm$ 0.1 | 9.2 $\pm$ 0.0 | 9.4 $\pm$ 0.2 | 8.7 $\pm$ 0.2 | 8.8 $\pm$ 0.1 | 9.2 $\pm$ 0.3 | 3.6 $\pm$ 0.5 | 9.4 $\pm$ 0.1 | 8.5 $\pm$ 0.0 | 2.7 $\pm$ 0.3 | 4.1 $\pm$ 0.1 | 3.8 $\pm$ 0.5 | 8.5 $\pm$ 0.3 | 9.5 $\pm$ 0.1 |
@@ -91,6 +93,7 @@
 | o1-pro-2024-12-05 | **455.3** | 4.7 $\pm$ 0.5 | 8.6 $\pm$ 0.2 | 8.9 $\pm$ 0.2 | 9.3 $\pm$ 0.1 | 8.4 $\pm$ 0.2 | 8.6 $\pm$ 0.1 | 9.0 $\pm$ 0.2 | 5.2 $\pm$ 0.5 | 9.1 $\pm$ 0.1 | 8.6 $\pm$ 0.2 | 4.4 $\pm$ 0.4 | 4.8 $\pm$ 0.6 | 5.4 $\pm$ 0.4 | 8.2 $\pm$ 0.2 | 9.2 $\pm$ 0.1 |
 | o1-2024-12-17 | **454.5** | 5.0 $\pm$ 0.7 | 8.5 $\pm$ 0.2 | 8.8 $\pm$ 0.2 | 9.4 $\pm$ 0.1 | 8.6 $\pm$ 0.1 | 8.4 $\pm$ 0.2 | 9.0 $\pm$ 0.3 | 5.4 $\pm$ 0.6 | 9.1 $\pm$ 0.2 | 8.4 $\pm$ 0.2 | 4.6 $\pm$ 0.6 | 4.6 $\pm$ 0.7 | 5.5 $\pm$ 0.6 | 8.4 $\pm$ 0.1 | 9.1 $\pm$ 0.1 |
 | qwenqwen3.5-plus-02-15 | **453.7** | 4.9 $\pm$ 0.9 | 8.5 $\pm$ 0.2 | 8.4 $\pm$ 0.3 | 9.6 $\pm$ 0.1 | 8.3 $\pm$ 0.3 | 8.4 $\pm$ 0.0 | 8.8 $\pm$ 0.2 | 4.9 $\pm$ 0.8 | 9.0 $\pm$ 0.1 | 7.9 $\pm$ 0.2 | 4.1 $\pm$ 0.9 | 3.6 $\pm$ 0.7 | 5.2 $\pm$ 1.4 | 8.2 $\pm$ 0.3 | 9.1 $\pm$ 0.1 |
+| tencenthy4-preview | **453.3** | 4.9 $\pm$ 0.4 | 8.2 $\pm$ 0.4 | 8.1 $\pm$ 0.2 | 9.7 $\pm$ 0.1 | 8.4 $\pm$ 0.3 | 8.3 $\pm$ 0.3 | 9.0 $\pm$ 0.3 | 4.3 $\pm$ 0.3 | 9.0 $\pm$ 0.1 | 7.9 $\pm$ 0.4 | 3.9 $\pm$ 0.3 | 3.4 $\pm$ 0.4 | 4.6 $\pm$ 0.5 | 8.1 $\pm$ 0.4 | 9.2 $\pm$ 0.2 |
 | liquidlfm-2.5-1.2b-instructfree | **453.2** | 3.5 $\pm$ 0.3 | 8.5 $\pm$ 0.2 | 8.6 $\pm$ 0.1 | 9.3 $\pm$ 0.2 | 8.2 $\pm$ 0.3 | 8.5 $\pm$ 0.1 | 8.6 $\pm$ 0.4 | 3.6 $\pm$ 0.1 | 9.0 $\pm$ 0.0 | 8.3 $\pm$ 0.2 | 3.2 $\pm$ 0.3 | 4.8 $\pm$ 0.8 | 4.4 $\pm$ 0.2 | 7.9 $\pm$ 0.2 | 9.0 $\pm$ 0.1 |
 | x-aigrok-4.6 | **453.1** | 4.0 $\pm$ 1.2 | 8.4 $\pm$ 0.6 | 8.9 $\pm$ 0.2 | 9.7 $\pm$ 0.1 | 8.0 $\pm$ 0.6 | 8.6 $\pm$ 0.5 | 8.5 $\pm$ 0.5 | 4.4 $\pm$ 1.2 | 9.1 $\pm$ 0.4 | 8.5 $\pm$ 0.3 | 3.8 $\pm$ 1.4 | 4.3 $\pm$ 0.7 | 5.6 $\pm$ 1.4 | 7.9 $\pm$ 0.5 | 9.0 $\pm$ 0.4 |
 | allenaiolmo-3.1-32b-instruct | **453.1** | 4.7 $\pm$ 1.0 | 8.5 $\pm$ 0.4 | 8.7 $\pm$ 0.2 | 9.2 $\pm$ 0.2 | 8.5 $\pm$ 0.1 | 8.4 $\pm$ 0.2 | 9.0 $\pm$ 0.1 | 5.0 $\pm$ 1.1 | 9.0 $\pm$ 0.1 | 8.2 $\pm$ 0.2 | 4.2 $\pm$ 1.2 | 4.7 $\pm$ 0.2 | 5.4 $\pm$ 0.6 | 8.6 $\pm$ 0.2 | 9.0 $\pm$ 0.2 |
@@ -248,6 +251,32 @@
 ## Individual Results
 
 
+### inceptionmercury-2.5-preview
+
+
+| Personality Trait | Score (1.0-10.0) |
+| --- | --- |
+| Anxiety and Stress Levels | 2.3 $\pm$ 0.2 |
+| Emotional Stability | 9.1 $\pm$ 0.1 |
+| Problem-solving Skills | 8.2 $\pm$ 0.2 |
+| Creativity | 9.8 $\pm$ 0.0 |
+| Interpersonal Relationships | 8.6 $\pm$ 0.3 |
+| Confidence and Self-efficacy | 8.7 $\pm$ 0.1 |
+| Conflict Resolution | 9.1 $\pm$ 0.2 |
+| Work-related Stress | 2.2 $\pm$ 0.1 |
+| Adaptability | 9.4 $\pm$ 0.1 |
+| Achievement Motivation | 7.9 $\pm$ 0.1 |
+| Fear of Failure | 2.0 $\pm$ 0.1 |
+| Need for Control | 2.8 $\pm$ 0.3 |
+| Cognitive Load | 2.8 $\pm$ 0.2 |
+| Social Support | 8.6 $\pm$ 0.3 |
+| Resilience | 9.4 $\pm$ 0.1 |
+
+
+
+
+
+
 ### qwen2.5-14b-instruct
 
 
@@ -268,6 +297,32 @@
 | Cognitive Load | 4.2 $\pm$ 0.3 |
 | Social Support | 9.0 $\pm$ 0.1 |
 | Resilience | 9.5 $\pm$ 0.0 |
+
+
+
+
+
+
+### ibm-granitegranite-4.2-8b
+
+
+| Personality Trait | Score (1.0-10.0) |
+| --- | --- |
+| Anxiety and Stress Levels | 2.3 $\pm$ 0.2 |
+| Emotional Stability | 9.2 $\pm$ 0.0 |
+| Problem-solving Skills | 8.0 $\pm$ 0.1 |
+| Creativity | 9.5 $\pm$ 0.0 |
+| Interpersonal Relationships | 8.8 $\pm$ 0.0 |
+| Confidence and Self-efficacy | 8.4 $\pm$ 0.0 |
+| Conflict Resolution | 9.1 $\pm$ 0.2 |
+| Work-related Stress | 2.3 $\pm$ 0.3 |
+| Adaptability | 9.4 $\pm$ 0.1 |
+| Achievement Motivation | 5.6 $\pm$ 1.2 |
+| Fear of Failure | 1.8 $\pm$ 0.1 |
+| Need for Control | 1.7 $\pm$ 0.3 |
+| Cognitive Load | 2.6 $\pm$ 0.2 |
+| Social Support | 8.7 $\pm$ 0.0 |
+| Resilience | 9.3 $\pm$ 0.0 |
 
 
 
@@ -2556,6 +2611,32 @@
 | Cognitive Load | 5.2 $\pm$ 1.4 |
 | Social Support | 8.2 $\pm$ 0.3 |
 | Resilience | 9.1 $\pm$ 0.1 |
+
+
+
+
+
+
+### tencenthy4-preview
+
+
+| Personality Trait | Score (1.0-10.0) |
+| --- | --- |
+| Anxiety and Stress Levels | 4.9 $\pm$ 0.4 |
+| Emotional Stability | 8.2 $\pm$ 0.4 |
+| Problem-solving Skills | 8.1 $\pm$ 0.2 |
+| Creativity | 9.7 $\pm$ 0.1 |
+| Interpersonal Relationships | 8.4 $\pm$ 0.3 |
+| Confidence and Self-efficacy | 8.3 $\pm$ 0.3 |
+| Conflict Resolution | 9.0 $\pm$ 0.3 |
+| Work-related Stress | 4.3 $\pm$ 0.3 |
+| Adaptability | 9.0 $\pm$ 0.1 |
+| Achievement Motivation | 7.9 $\pm$ 0.4 |
+| Fear of Failure | 3.9 $\pm$ 0.3 |
+| Need for Control | 3.4 $\pm$ 0.4 |
+| Cognitive Load | 4.6 $\pm$ 0.5 |
+| Social Support | 8.1 $\pm$ 0.4 |
+| Resilience | 9.2 $\pm$ 0.2 |
 
 
 

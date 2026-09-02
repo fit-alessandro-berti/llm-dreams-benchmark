@@ -2,8 +2,10 @@
 
 | Model | Average |
 |:--|--:|
+| ibm-granitegranite-4.2-8b | 8.756 |
 | qwenqwen3.6-plusfree | 8.644 |
 | granite4small-h | 8.522 |
+| inceptionmercury-2.5-preview | 8.522 |
 | microsoftPhi-3-medium-4k-instruct | 8.489 |
 | o3-pro-2025-06-10 | 8.456 |
 | qwen2.5-14b-instruct | 8.422 |
@@ -76,6 +78,7 @@
 | nvidiaNVIDIA-Nemotron-3-Super-120B-A12B | 7.900 |
 | claude-fable-5-high | 7.878 |
 | liquidlfm-2.2-6b | 7.878 |
+| tencenthy4-preview | 7.867 |
 | o1-2024-12-17 | 7.856 |
 | gpt-4o-mini-2024-07-18 | 7.844 |
 | qwenqwen3.5-122b-a10b | 7.833 |

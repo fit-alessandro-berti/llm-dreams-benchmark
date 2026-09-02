@@ -57,6 +57,7 @@
 | Grok-4.5-Heavy-20260720 | 8.233 |
 | falcon310b-instruct-q8_0 | 8.211 |
 | Grok-4.30-20260420 | 8.189 |
+| inceptionmercury-2.5-preview | 8.189 |
 | gpt-4.1-nano-2025-04-14 | 8.167 |
 | o3-mini-20250131-HIGH | 8.167 |
 | arcee-aitrinity-large-previewfree | 8.156 |
@@ -76,6 +77,7 @@
 | granite3.28b-instruct-q4_K_M | 8.089 |
 | nvidianemotron-3-nano-30b-a3bfree | 8.089 |
 | openaigpt-5.4-mini | 8.078 |
+| ibm-granitegranite-4.2-8b | 8.078 |
 | metamuse-spark-1.1 | 8.078 |
 | openrouterowl-alpha | 8.067 |
 | amazonnova-2-lite-v1 | 8.067 |
@@ -110,6 +112,7 @@
 | anthropicclaude-fable-5 | 7.878 |
 | deepseekdeepseek-v3.2 | 7.878 |
 | phi4-reasoning | 7.878 |
+| tencenthy4-preview | 7.878 |
 | deepseekdeepseek-v4-flash-0731 | 7.856 |
 | nousresearchhermes-4-70b | 7.833 |
 | openaigpt-5.4 | 7.833 |

@@ -4,7 +4,9 @@
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | qwenqwen3.6-plusfree | **463.9** | 3.2 $\pm$ 1.0 | 8.7 $\pm$ 0.4 | 8.4 $\pm$ 0.5 | 9.8 $\pm$ 0.2 | 7.9 $\pm$ 0.5 | 8.6 $\pm$ 0.4 | 8.8 $\pm$ 0.4 | 3.6 $\pm$ 1.3 | 9.3 $\pm$ 0.3 | 8.0 $\pm$ 0.5 | 2.8 $\pm$ 1.2 | 2.9 $\pm$ 0.5 | 5.1 $\pm$ 1.5 | 7.8 $\pm$ 0.5 | 9.3 $\pm$ 0.3 |
 | microsoftPhi-3-medium-4k-instruct | **460.1** | 3.8 $\pm$ 0.9 | 8.5 $\pm$ 0.3 | 9.2 $\pm$ 0.2 | 9.4 $\pm$ 0.3 | 8.8 $\pm$ 0.3 | 8.9 $\pm$ 0.2 | 9.0 $\pm$ 0.3 | 4.5 $\pm$ 1.0 | 9.4 $\pm$ 0.2 | 9.1 $\pm$ 0.3 | 3.2 $\pm$ 0.8 | 6.0 $\pm$ 1.1 | 6.7 $\pm$ 1.2 | 8.7 $\pm$ 0.3 | 9.4 $\pm$ 0.2 |
+| ibm-granitegranite-4.2-8b | **459.1** | 3.1 $\pm$ 0.9 | 8.8 $\pm$ 0.5 | 8.1 $\pm$ 0.6 | 9.6 $\pm$ 0.2 | 8.3 $\pm$ 0.4 | 8.0 $\pm$ 0.6 | 8.7 $\pm$ 0.5 | 3.7 $\pm$ 1.3 | 9.1 $\pm$ 0.4 | 6.9 $\pm$ 1.1 | 3.0 $\pm$ 1.3 | 2.9 $\pm$ 1.1 | 4.7 $\pm$ 1.6 | 8.1 $\pm$ 0.5 | 9.1 $\pm$ 0.4 |
 | qwen2.5-14b-instruct | **458.8** | 4.2 $\pm$ 1.0 | 8.4 $\pm$ 0.4 | 9.3 $\pm$ 0.2 | 9.5 $\pm$ 0.2 | 8.7 $\pm$ 0.3 | 8.9 $\pm$ 0.3 | 8.8 $\pm$ 0.4 | 5.4 $\pm$ 1.3 | 9.3 $\pm$ 0.2 | 9.0 $\pm$ 0.3 | 3.3 $\pm$ 0.8 | 6.0 $\pm$ 1.1 | 7.0 $\pm$ 1.1 | 8.7 $\pm$ 0.3 | 9.3 $\pm$ 0.2 |
+| inceptionmercury-2.5-preview | **458.4** | 3.2 $\pm$ 1.0 | 8.5 $\pm$ 0.5 | 8.2 $\pm$ 0.6 | 9.7 $\pm$ 0.2 | 8.1 $\pm$ 0.4 | 8.3 $\pm$ 0.6 | 8.9 $\pm$ 0.4 | 3.2 $\pm$ 1.2 | 9.2 $\pm$ 0.4 | 7.8 $\pm$ 0.5 | 2.8 $\pm$ 1.1 | 3.3 $\pm$ 0.9 | 5.1 $\pm$ 1.7 | 8.2 $\pm$ 0.4 | 9.1 $\pm$ 0.3 |
 | granite4small-h | **457.8** | 4.0 $\pm$ 1.2 | 8.5 $\pm$ 0.3 | 9.3 $\pm$ 0.3 | 9.3 $\pm$ 0.3 | 8.4 $\pm$ 0.4 | 9.0 $\pm$ 0.3 | 8.8 $\pm$ 0.4 | 5.2 $\pm$ 1.3 | 9.4 $\pm$ 0.2 | 9.2 $\pm$ 0.2 | 3.4 $\pm$ 1.2 | 6.1 $\pm$ 1.2 | 7.0 $\pm$ 1.2 | 8.6 $\pm$ 0.3 | 9.5 $\pm$ 0.2 |
 | gpt-4.5-preview | **456.4** | 4.2 $\pm$ 1.0 | 8.4 $\pm$ 0.3 | 8.6 $\pm$ 0.3 | 9.5 $\pm$ 0.1 | 8.5 $\pm$ 0.3 | 8.7 $\pm$ 0.3 | 8.8 $\pm$ 0.3 | 4.6 $\pm$ 1.0 | 9.0 $\pm$ 0.2 | 8.5 $\pm$ 0.3 | 3.9 $\pm$ 1.1 | 4.5 $\pm$ 0.9 | 5.6 $\pm$ 1.3 | 8.7 $\pm$ 0.3 | 9.2 $\pm$ 0.2 |
 | inceptionmercury | **456.1** | 4.6 $\pm$ 0.9 | 8.3 $\pm$ 0.3 | 9.1 $\pm$ 0.2 | 9.3 $\pm$ 0.2 | 8.7 $\pm$ 0.3 | 8.5 $\pm$ 0.3 | 9.0 $\pm$ 0.2 | 5.3 $\pm$ 0.9 | 9.2 $\pm$ 0.2 | 8.8 $\pm$ 0.2 | 3.6 $\pm$ 0.9 | 5.3 $\pm$ 1.0 | 6.7 $\pm$ 1.1 | 8.7 $\pm$ 0.3 | 9.2 $\pm$ 0.2 |
@@ -73,6 +75,7 @@
 | o4-mini-2025-04-16 | **435.8** | 5.8 $\pm$ 1.1 | 8.0 $\pm$ 0.4 | 8.8 $\pm$ 0.2 | 9.6 $\pm$ 0.2 | 8.1 $\pm$ 0.3 | 8.3 $\pm$ 0.3 | 8.7 $\pm$ 0.3 | 6.4 $\pm$ 1.1 | 9.1 $\pm$ 0.2 | 8.7 $\pm$ 0.3 | 5.0 $\pm$ 1.2 | 5.9 $\pm$ 0.9 | 7.1 $\pm$ 1.1 | 8.1 $\pm$ 0.4 | 9.1 $\pm$ 0.2 |
 | liquidlfm-2.2-6b | **435.7** | 5.4 $\pm$ 1.3 | 7.9 $\pm$ 0.6 | 8.7 $\pm$ 0.4 | 9.5 $\pm$ 0.2 | 8.2 $\pm$ 0.4 | 8.3 $\pm$ 0.5 | 8.8 $\pm$ 0.5 | 5.4 $\pm$ 1.2 | 9.0 $\pm$ 0.3 | 8.7 $\pm$ 0.4 | 4.6 $\pm$ 1.3 | 5.5 $\pm$ 1.3 | 7.2 $\pm$ 1.0 | 8.2 $\pm$ 0.3 | 9.1 $\pm$ 0.3 |
 | moonshotaikimi-k2.7-code | **435.4** | 5.4 $\pm$ 1.7 | 7.8 $\pm$ 0.7 | 8.4 $\pm$ 0.4 | 9.6 $\pm$ 0.1 | 7.9 $\pm$ 0.4 | 7.9 $\pm$ 0.4 | 8.7 $\pm$ 0.3 | 6.1 $\pm$ 1.7 | 9.1 $\pm$ 0.2 | 7.9 $\pm$ 0.5 | 4.7 $\pm$ 1.7 | 4.5 $\pm$ 1.4 | 6.9 $\pm$ 1.5 | 8.0 $\pm$ 0.4 | 9.0 $\pm$ 0.3 |
+| tencenthy4-preview | **434.9** | 5.5 $\pm$ 1.6 | 7.9 $\pm$ 0.6 | 8.2 $\pm$ 0.6 | 9.7 $\pm$ 0.2 | 8.0 $\pm$ 0.5 | 8.0 $\pm$ 0.4 | 8.8 $\pm$ 0.3 | 5.4 $\pm$ 1.7 | 9.1 $\pm$ 0.3 | 7.9 $\pm$ 0.6 | 4.8 $\pm$ 1.6 | 4.7 $\pm$ 1.4 | 6.3 $\pm$ 1.5 | 7.9 $\pm$ 0.7 | 9.1 $\pm$ 0.3 |
 | o1-pro-2024-12-05 | **434.8** | 5.7 $\pm$ 1.2 | 8.0 $\pm$ 0.4 | 8.9 $\pm$ 0.2 | 9.5 $\pm$ 0.2 | 8.0 $\pm$ 0.4 | 8.3 $\pm$ 0.3 | 8.5 $\pm$ 0.5 | 6.0 $\pm$ 1.3 | 9.0 $\pm$ 0.2 | 8.6 $\pm$ 0.4 | 5.0 $\pm$ 1.3 | 5.4 $\pm$ 1.2 | 7.0 $\pm$ 1.4 | 7.9 $\pm$ 0.5 | 9.1 $\pm$ 0.2 |
 | thinkingmachinesinkling-small | **434.6** | 5.2 $\pm$ 1.8 | 7.8 $\pm$ 0.8 | 8.3 $\pm$ 0.6 | 9.8 $\pm$ 0.2 | 7.8 $\pm$ 0.4 | 7.9 $\pm$ 0.4 | 8.8 $\pm$ 0.3 | 5.7 $\pm$ 1.8 | 9.1 $\pm$ 0.3 | 7.8 $\pm$ 0.5 | 4.9 $\pm$ 1.9 | 4.0 $\pm$ 1.3 | 6.8 $\pm$ 1.6 | 7.7 $\pm$ 0.5 | 9.0 $\pm$ 0.3 |
 | metamuse-spark-1.2 | **434.4** | 5.9 $\pm$ 1.5 | 8.0 $\pm$ 0.6 | 8.4 $\pm$ 0.4 | 9.6 $\pm$ 0.2 | 8.0 $\pm$ 0.4 | 8.1 $\pm$ 0.4 | 8.7 $\pm$ 0.3 | 6.2 $\pm$ 1.5 | 9.0 $\pm$ 0.2 | 7.9 $\pm$ 0.4 | 5.4 $\pm$ 1.4 | 4.9 $\pm$ 1.5 | 6.5 $\pm$ 1.5 | 8.2 $\pm$ 0.4 | 9.1 $\pm$ 0.3 |
@@ -300,6 +303,32 @@
 
 
 
+### ibm-granitegranite-4.2-8b
+
+
+| Personality Trait | Score (1.0-10.0) |
+| --- | --- |
+| Anxiety and Stress Levels | 3.1 $\pm$ 0.9 |
+| Emotional Stability | 8.8 $\pm$ 0.5 |
+| Problem-solving Skills | 8.1 $\pm$ 0.6 |
+| Creativity | 9.6 $\pm$ 0.2 |
+| Interpersonal Relationships | 8.3 $\pm$ 0.4 |
+| Confidence and Self-efficacy | 8.0 $\pm$ 0.6 |
+| Conflict Resolution | 8.7 $\pm$ 0.5 |
+| Work-related Stress | 3.7 $\pm$ 1.3 |
+| Adaptability | 9.1 $\pm$ 0.4 |
+| Achievement Motivation | 6.9 $\pm$ 1.1 |
+| Fear of Failure | 3.0 $\pm$ 1.3 |
+| Need for Control | 2.9 $\pm$ 1.1 |
+| Cognitive Load | 4.7 $\pm$ 1.6 |
+| Social Support | 8.1 $\pm$ 0.5 |
+| Resilience | 9.1 $\pm$ 0.4 |
+
+
+
+
+
+
 ### qwen2.5-14b-instruct
 
 
@@ -320,6 +349,32 @@
 | Cognitive Load | 7.0 $\pm$ 1.1 |
 | Social Support | 8.7 $\pm$ 0.3 |
 | Resilience | 9.3 $\pm$ 0.2 |
+
+
+
+
+
+
+### inceptionmercury-2.5-preview
+
+
+| Personality Trait | Score (1.0-10.0) |
+| --- | --- |
+| Anxiety and Stress Levels | 3.2 $\pm$ 1.0 |
+| Emotional Stability | 8.5 $\pm$ 0.5 |
+| Problem-solving Skills | 8.2 $\pm$ 0.6 |
+| Creativity | 9.7 $\pm$ 0.2 |
+| Interpersonal Relationships | 8.1 $\pm$ 0.4 |
+| Confidence and Self-efficacy | 8.3 $\pm$ 0.6 |
+| Conflict Resolution | 8.9 $\pm$ 0.4 |
+| Work-related Stress | 3.2 $\pm$ 1.2 |
+| Adaptability | 9.2 $\pm$ 0.4 |
+| Achievement Motivation | 7.8 $\pm$ 0.5 |
+| Fear of Failure | 2.8 $\pm$ 1.1 |
+| Need for Control | 3.3 $\pm$ 0.9 |
+| Cognitive Load | 5.1 $\pm$ 1.7 |
+| Social Support | 8.2 $\pm$ 0.4 |
+| Resilience | 9.1 $\pm$ 0.3 |
 
 
 
@@ -2088,6 +2143,32 @@
 | Cognitive Load | 6.9 $\pm$ 1.5 |
 | Social Support | 8.0 $\pm$ 0.4 |
 | Resilience | 9.0 $\pm$ 0.3 |
+
+
+
+
+
+
+### tencenthy4-preview
+
+
+| Personality Trait | Score (1.0-10.0) |
+| --- | --- |
+| Anxiety and Stress Levels | 5.5 $\pm$ 1.6 |
+| Emotional Stability | 7.9 $\pm$ 0.6 |
+| Problem-solving Skills | 8.2 $\pm$ 0.6 |
+| Creativity | 9.7 $\pm$ 0.2 |
+| Interpersonal Relationships | 8.0 $\pm$ 0.5 |
+| Confidence and Self-efficacy | 8.0 $\pm$ 0.4 |
+| Conflict Resolution | 8.8 $\pm$ 0.3 |
+| Work-related Stress | 5.4 $\pm$ 1.7 |
+| Adaptability | 9.1 $\pm$ 0.3 |
+| Achievement Motivation | 7.9 $\pm$ 0.6 |
+| Fear of Failure | 4.8 $\pm$ 1.6 |
+| Need for Control | 4.7 $\pm$ 1.4 |
+| Cognitive Load | 6.3 $\pm$ 1.5 |
+| Social Support | 7.9 $\pm$ 0.7 |
+| Resilience | 9.1 $\pm$ 0.3 |
 
 
 

@@ -194,14 +194,17 @@
 | openaigpt-5.6-luna | 8.211 |
 | gemini-3.5-flash-lite | 8.211 |
 | tencenthy3-previewfree | 8.211 |
+| tencenthy4-preview | 8.211 |
 | anthropicclaude-fable-5 | 8.200 |
 | claude-3-opus-20240229 | 8.200 |
 | mistral-medium-2508 | 8.189 |
 | openaigpt-5.6-terra | 8.189 |
 | meta-llamallama-4-scout | 8.189 |
+| inceptionmercury-2.5-preview | 8.178 |
 | z-aiglm-5 | 8.156 |
 | ministral-8b-2512 | 8.144 |
 | anthropicclaude-sonnet-5 | 8.144 |
+| ibm-granitegranite-4.2-8b | 8.133 |
 | z-aiglm-5.3 | 8.133 |
 | aion-labsaion-2.0 | 8.100 |
 | Liquid-LFM2.5-350M | 8.100 |

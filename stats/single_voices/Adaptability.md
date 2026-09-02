@@ -49,6 +49,7 @@
 | deepseekdeepseek-v3.2 | 9.156 |
 | gemini-3.6-flash | 9.156 |
 | gpt-4o-2024-08-06 | 9.156 |
+| inceptionmercury-2.5-preview | 9.156 |
 | o3-mini-20250131-HIGH | 9.156 |
 | open-mistral-7b | 9.156 |
 | open-mixtral-8x7b | 9.156 |
@@ -63,6 +64,7 @@
 | qwenqwen3.5-122b-a10b | 9.122 |
 | baiduernie-4.5-300b-a47b | 9.122 |
 | openaigpt-5.4-mini | 9.111 |
+| tencenthy4-preview | 9.111 |
 | liquidlfm2-8b-a1b | 9.100 |
 | o4-mini-2025-04-16 | 9.100 |
 | qwenqwen3.7-max | 9.100 |
@@ -73,6 +75,7 @@
 | gpt-4.1-mini-2025-04-14 | 9.089 |
 | gpt-4o-mini-2024-07-18 | 9.089 |
 | qwenqwen3.7-flash | 9.089 |
+| ibm-granitegranite-4.2-8b | 9.078 |
 | openaigpt-5.2-codex | 9.078 |
 | x-aigrok-4.6 | 9.078 |
 | nvidianemotron-3-nano-30b-a3bfree | 9.078 |

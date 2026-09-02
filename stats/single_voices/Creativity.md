@@ -39,7 +39,9 @@
 | gemini-2.5-pro-preview-06-05 | 9.700 |
 | googlegemini-3.1-flash-lite-preview | 9.700 |
 | gpt-5-2025-08-07 | 9.700 |
+| tencenthy4-preview | 9.700 |
 | grok-4-0709 | 9.700 |
+| inceptionmercury-2.5-preview | 9.700 |
 | qwenqwen3.5-122b-a10b | 9.700 |
 | anthropicclaude-opus-5 | 9.689 |
 | Grok-4.1-20251118 | 9.689 |
@@ -126,6 +128,7 @@
 | claude-3-5-sonnet-20241022 | 9.567 |
 | gpt-4-0125-preview | 9.567 |
 | GPT-5.6-Sol-Pro-20260825 | 9.567 |
+| ibm-granitegranite-4.2-8b | 9.567 |
 | metamuse-spark-1.2 | 9.567 |
 | minimaxminimax-m2.5 | 9.567 |
 | poolsidelaguna-xs.2free | 9.567 |

@@ -68,6 +68,7 @@
 | xiaomimimo-v2-pro | 8.289 |
 | nvidianemotron-3.5-lightning | 8.278 |
 | xiaomimimo-v2.5-pro | 8.278 |
+| inceptionmercury-2.5-preview | 8.267 |
 | qwenqwen3.8-2.4t-a95b | 8.267 |
 | xiaomimimo-v2.5 | 8.256 |
 | liquidlfm-2.2-6b | 8.244 |
@@ -104,6 +105,8 @@
 | metamuse-spark-1.2 | 8.056 |
 | qwenqwen3.5-plus-02-15 | 8.044 |
 | claude-3-7-sonnet-20250219 | 8.033 |
+| ibm-granitegranite-4.2-8b | 8.033 |
+| tencenthy4-preview | 8.033 |
 | baiduernie-4.5-21b-a3b | 8.022 |
 | falcon33b-instruct-q8_0 | 8.000 |
 | phi2.7b | 7.989 |

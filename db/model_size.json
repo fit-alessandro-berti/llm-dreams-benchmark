@@ -445,12 +445,14 @@
   "ibm-granitegranite-4.1-8b": [
     8
   ],
+  "ibm-granitegranite-4.2-8b": [],
   "ibmgranite41b-h": [
     1
   ],
   "inceptionmercury": [
     15
   ],
+  "inceptionmercury-2.5-preview": [],
   "inclusionailing-2.6-1tfree": [
     1000,
     63
@@ -831,6 +833,7 @@
     295,
     21
   ],
+  "tencenthy4-preview": [],
   "thinkingmachinesinkling": [
     975,
     41

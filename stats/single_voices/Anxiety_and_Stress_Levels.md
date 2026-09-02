@@ -172,6 +172,7 @@
 | Grok-4.30-20260420 | 5.522 |
 | meituanlongcat-2.0 | 5.522 |
 | gpt-5-pro-2025-10-06 | 5.511 |
+| tencenthy4-preview | 5.511 |
 | gpt-4-0613 | 5.456 |
 | liquidlfm-2.2-6b | 5.444 |
 | moonshotaikimi-k2.7-code | 5.400 |
@@ -245,3 +246,5 @@
 | deepseekdeepseek-v4-flash-0731 | 3.978 |
 | microsoftPhi-3-medium-4k-instruct | 3.833 |
 | qwenqwen3.6-plusfree | 3.233 |
+| inceptionmercury-2.5-preview | 3.189 |
+| ibm-granitegranite-4.2-8b | 3.078 |

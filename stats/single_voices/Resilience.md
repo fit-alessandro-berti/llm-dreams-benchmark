@@ -54,12 +54,14 @@
 | baiduernie-4.5-300b-a47b | 9.133 |
 | deepseekdeepseek-v3.2 | 9.133 |
 | gpt-4-turbo-2024-04-09 | 9.133 |
+| ibm-granitegranite-4.2-8b | 9.133 |
 | openaigpt-5.4-mini | 9.133 |
 | deepseekdeepseek-v4-flash-0731 | 9.122 |
 | gpt-4o-2024-05-13 | 9.122 |
 | granite4micro-h | 9.122 |
 | xiaomimimo-v2-pro | 9.122 |
 | googlegemini-3.7-flash | 9.111 |
+| inceptionmercury-2.5-preview | 9.111 |
 | o1-pro-2024-12-05 | 9.111 |
 | o3-mini-20250131-HIGH | 9.111 |
 | gpt-4.1-mini-2025-04-14 | 9.100 |
@@ -72,6 +74,7 @@
 | claude-fable-5-high | 9.089 |
 | GPT-5.5-Pro-20260422 | 9.089 |
 | qwen3.635b-a3b | 9.089 |
+| tencenthy4-preview | 9.089 |
 | thinkingmachinesinkling | 9.089 |
 | nvidianemotron-3.5-lightning | 9.078 |
 | qwenqwen3.8-max | 9.078 |

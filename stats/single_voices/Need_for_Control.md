@@ -221,6 +221,7 @@
 | metamuse-spark-1.1 | 4.778 |
 | gemma-3-27b-it | 4.722 |
 | gpt-5-nano-2025-08-07 | 4.711 |
+| tencenthy4-preview | 4.700 |
 | xiaomimimo-v2.5 | 4.667 |
 | qwenqwen3.8-2.4t-a95b | 4.656 |
 | nvidianemotron-3.5-lightning | 4.611 |
@@ -244,4 +245,6 @@
 | qwenqwen3.5-122b-a10b | 3.922 |
 | qwenqwen3.7-flash | 3.789 |
 | thinkingmachinesinkling | 3.711 |
+| inceptionmercury-2.5-preview | 3.322 |
+| ibm-granitegranite-4.2-8b | 2.944 |
 | qwenqwen3.6-plusfree | 2.900 |

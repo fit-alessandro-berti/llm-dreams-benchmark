@@ -234,6 +234,7 @@
 | qwenqwen3.8-max | 6.456 |
 | qwenqwen3.8-2.4t-a95b | 6.356 |
 | qwenqwen3.7-plus | 6.356 |
+| tencenthy4-preview | 6.333 |
 | googlegemini-3.7-flash | 6.267 |
 | o3-mini-20250131-HIGH | 6.211 |
 | qwenqwen3.5-122b-a10b | 6.200 |
@@ -245,3 +246,5 @@
 | qwenqwen3.7-flash | 5.711 |
 | gpt-4.5-preview | 5.600 |
 | qwenqwen3.6-plusfree | 5.133 |
+| inceptionmercury-2.5-preview | 5.122 |
+| ibm-granitegranite-4.2-8b | 4.678 |

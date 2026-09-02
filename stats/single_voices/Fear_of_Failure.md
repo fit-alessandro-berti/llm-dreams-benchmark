@@ -174,6 +174,7 @@
 | thinkingmachinesinkling-small | 4.900 |
 | gpt-5-pro-2025-10-06 | 4.867 |
 | liquidlfm-2.5-1.2b-instructfree | 4.844 |
+| tencenthy4-preview | 4.844 |
 | claude-fable-5-high | 4.833 |
 | gpt-4-0613 | 4.811 |
 | qwenqwen3.8-max | 4.800 |
@@ -244,4 +245,6 @@
 | qwen2.5-14b-instruct | 3.344 |
 | microsoftphi-4 | 3.300 |
 | microsoftPhi-3-medium-4k-instruct | 3.200 |
+| ibm-granitegranite-4.2-8b | 2.978 |
+| inceptionmercury-2.5-preview | 2.822 |
 | qwenqwen3.6-plusfree | 2.800 |

@@ -3,7 +3,7 @@ from pathlib import Path
 
 from file_utils import read_file_with_fallback
 
-ANSWERING_MODEL_NAME = "z-ai/glm-5.3-flash"
+ANSWERING_MODEL_NAME = "tencent/hy4-preview"
 EVALUATING_MODEL_NAME = "gpt-5.2"
 
 

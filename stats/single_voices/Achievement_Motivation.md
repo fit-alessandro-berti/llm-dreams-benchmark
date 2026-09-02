@@ -200,6 +200,7 @@
 | anthropicclaude-sonnet-4.6 | 7.944 |
 | gemma-4-26b-a4b-it | 7.933 |
 | metamuse-spark-1.2 | 7.933 |
+| tencenthy4-preview | 7.933 |
 | moonshotaikimi-k2.7-code | 7.922 |
 | qwenqwen3.7-plus | 7.922 |
 | qwen3.59b | 7.900 |
@@ -209,6 +210,7 @@
 | openaigpt-5.6-terra | 7.856 |
 | minimaxminimax-m3 | 7.844 |
 | nvidianemotron-3-ultra-550b-a55bfree | 7.844 |
+| inceptionmercury-2.5-preview | 7.822 |
 | qwenqwen3.8-27b | 7.822 |
 | gpt-5.2-pro-2025-12-11 | 7.811 |
 | qwenqwen3.7-flash | 7.800 |
@@ -243,5 +245,6 @@
 | bytedance-seedseed-2.0-lite | 7.144 |
 | claude-opus-4-8 | 7.044 |
 | qwen3.50.8b | 6.922 |
+| ibm-granitegranite-4.2-8b | 6.889 |
 | qwen3.54b | 6.856 |
 | qwen3.52b | 6.611 |

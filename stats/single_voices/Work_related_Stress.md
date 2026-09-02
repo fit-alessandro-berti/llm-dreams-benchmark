@@ -192,6 +192,7 @@
 | qwen3.59b | 5.489 |
 | gpt-4.1-mini-2025-04-14 | 5.478 |
 | nvidiaNVIDIA-Nemotron-3-Super-120B-A12B | 5.456 |
+| tencenthy4-preview | 5.411 |
 | liquidlfm-2.2-6b | 5.400 |
 | googlegemini-3.7-flash | 5.389 |
 | qwen2.5-32b-instruct | 5.389 |
@@ -243,5 +244,7 @@
 | gpt-5-nano-2025-08-07 | 4.422 |
 | open-mixtral-8x7b | 4.378 |
 | xiaomimimo-v2-pro | 4.311 |
+| ibm-granitegranite-4.2-8b | 3.733 |
 | deepseekdeepseek-v4-flash-0731 | 3.667 |
 | qwenqwen3.6-plusfree | 3.622 |
+| inceptionmercury-2.5-preview | 3.200 |

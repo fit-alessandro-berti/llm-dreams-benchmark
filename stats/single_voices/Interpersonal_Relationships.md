@@ -43,6 +43,7 @@
 | open-mixtral-8x7b | 8.311 |
 | Meta-Muse-Spark-20260409 | 8.311 |
 | ministral-3b-2410 | 8.300 |
+| ibm-granitegranite-4.2-8b | 8.289 |
 | nvidiaLlama-3.1-Nemotron-70B-Instruct | 8.289 |
 | anthropicclaude-opus-5 | 8.278 |
 | falcon310b-instruct-q8_0 | 8.278 |
@@ -82,6 +83,7 @@
 | meituanlongcat-2.0 | 8.100 |
 | minimaxminimax-m2.7 | 8.100 |
 | o4-mini-2025-04-16 | 8.100 |
+| inceptionmercury-2.5-preview | 8.089 |
 | qwenqwen3.8-2.4t-a95b | 8.089 |
 | phi4-reasoningplus | 8.078 |
 | o3-2025-04-16 | 8.056 |
@@ -91,6 +93,7 @@
 | qwen3.635b-a3b | 8.022 |
 | thinkingmachinesinkling | 8.022 |
 | googlegemini-3.7-flash | 8.011 |
+| tencenthy4-preview | 8.011 |
 | metamuse-spark-1.1 | 8.000 |
 | deepseekdeepseek-v4-flash-0731 | 8.000 |
 | deepseekdeepseek-v4-flash-vision-exp | 8.000 |

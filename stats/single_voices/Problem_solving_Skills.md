@@ -170,6 +170,7 @@
 | Gemini-1.5-Pro-Exp-0827 | 8.322 |
 | grok-4-0709 | 8.322 |
 | phi4-reasoning | 8.322 |
+| claude-fable-5-1-high | 8.322 |
 | poolsidelaguna-xs.2free | 8.322 |
 | Grok-4.1-20251118 | 8.300 |
 | grok-build-0.1 | 8.300 |

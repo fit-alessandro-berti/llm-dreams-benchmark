@@ -16,6 +16,7 @@
 | gemma4e2b | 8.578 |
 | mistral-small-2603 | 8.500 |
 | tencenthy3-previewfree | 8.489 |
+| claude-fable-5-1-high | 8.478 |
 | gpt-5.2-2025-12-11 | 8.456 |
 | gemini-3-pro-preview | 8.444 |
 | grok-build-0.1 | 8.433 |

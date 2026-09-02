@@ -230,6 +230,7 @@
 | qwenqwen3.5-122b-a10b | 7.589 |
 | qwenqwen3.5-27b | 7.578 |
 | thinkingmachinesinkling | 7.556 |
+| claude-fable-5-1-high | 7.511 |
 | qwenqwen3.5-397b-a17b | 7.500 |
 | z-aiglm-5.3-flash | 7.467 |
 | stepfunstep-3.7-flash | 7.444 |

@@ -202,6 +202,7 @@
 | grok-4-1-fast-non-reasoning | 7.156 |
 | anthropicclaude-sonnet-5 | 7.144 |
 | qwenqwen3.5-122b-a10b | 7.144 |
+| claude-fable-5-1-high | 7.122 |
 | minimaxminimax-m3 | 7.122 |
 | deepseekdeepseek-v3.2-speciale | 7.111 |
 | z-aiglm-5.2 | 7.078 |

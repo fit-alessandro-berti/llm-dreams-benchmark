@@ -228,6 +228,7 @@
 | qwenqwen3.8-27b | 6.733 |
 | mistral-small-2603 | 6.667 |
 | gemma4e4b | 6.656 |
+| claude-fable-5-1-high | 6.533 |
 | meta-llamallama-4-maverick | 6.478 |
 | gemini-3-pro-preview | 6.456 |
 | ministral-3b-2512 | 6.356 |

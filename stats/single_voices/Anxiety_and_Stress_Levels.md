@@ -28,6 +28,7 @@
 | grok-4.20-multi-agent-experimental-beta-0304 | 7.700 |
 | meta-llamaLlama-3.3-70B-Instruct | 7.689 |
 | prime-intellectintellect-3 | 7.689 |
+| claude-fable-5-1-high | 7.678 |
 | claude-3-opus-20240229 | 7.667 |
 | grok-build-0.1 | 7.656 |
 | z-aiglm-5 | 7.656 |

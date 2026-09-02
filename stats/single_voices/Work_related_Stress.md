@@ -41,6 +41,7 @@
 | stealthox-alpha | 7.933 |
 | llama27b | 7.900 |
 | gemini-2.0-pro-exp-02-05 | 7.867 |
+| claude-fable-5-1-high | 7.833 |
 | claude-opus-4-7 | 7.833 |
 | Grok-4.1-20251118 | 7.833 |
 | qwenqwen3.8-27b | 7.767 |

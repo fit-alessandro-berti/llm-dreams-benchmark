@@ -208,6 +208,7 @@
 | bytedance-seedseed-2.0-lite | 8.578 |
 | gpt-4o-mini-2024-11-05 | 8.578 |
 | gpt-5.2-pro-2025-12-11 | 8.578 |
+| claude-fable-5-1-high | 8.578 |
 | z-aiglm-5.1 | 8.522 |
 | meta-llamaLlama-3.2-3B-Instruct | 8.511 |
 | stepfunstep-3.7-flash | 8.511 |

@@ -32,6 +32,7 @@
 | ministral-14b-2512 | 7.444 |
 | claude-opus-4-7 | 7.433 |
 | llama27b | 7.389 |
+| claude-fable-5-1-high | 7.378 |
 | grok-build-0.1 | 7.356 |
 | meta-llamaMeta-Llama-3.1-70B-Instruct | 7.289 |
 | meta-llamaLlama-3.2-3B-Instruct | 7.222 |

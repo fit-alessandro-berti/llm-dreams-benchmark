@@ -202,6 +202,7 @@
 | gpt-5.2-pro-2025-12-11 | 6.567 |
 | gpt-5.2-2025-12-11 | 6.544 |
 | grok-4-0709 | 6.533 |
+| claude-fable-5-1-high | 6.511 |
 | ibmgranite41b-h | 6.511 |
 | Gemini-1.5-Pro-Exp-0827 | 6.500 |
 | gemini-2.0-pro-exp-02-05 | 6.500 |

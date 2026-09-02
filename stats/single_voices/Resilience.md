@@ -208,6 +208,7 @@
 | anthropicclaude-opus-4.1 | 8.433 |
 | gemma-4-26b-a4b-it | 8.433 |
 | poolsidelaguna-xs.2free | 8.433 |
+| claude-fable-5-1-high | 8.433 |
 | anthropicclaude-sonnet-5 | 8.411 |
 | openaigpt-5.3-chat | 8.400 |
 | z-aiglm-5.1 | 8.400 |

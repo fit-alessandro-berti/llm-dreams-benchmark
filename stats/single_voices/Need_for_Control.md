@@ -44,6 +44,7 @@
 | anthropicclaude-sonnet-4.5 | 6.633 |
 | allenaiolmo-3-7b-think | 6.578 |
 | openaigpt-5.4-nano | 6.556 |
+| claude-fable-5-1-high | 6.544 |
 | nvidiaLlama-3.1-Nemotron-70B-Instruct | 6.500 |
 | grok-4-1-fast-non-reasoning | 6.500 |
 | llama213b | 6.500 |

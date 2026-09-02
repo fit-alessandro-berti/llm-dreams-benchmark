@@ -197,6 +197,7 @@
 | qwenqwen3.5-122b-a10b | 7.222 |
 | gpt-5.6-sol-XHIGH | 7.189 |
 | gemini-3.5-flash-lite | 7.189 |
+| claude-fable-5-1-high | 7.178 |
 | qwenqwen3.5-27b | 7.156 |
 | openaigpt-5.6-terra | 7.156 |
 | claude-3-5-sonnet-20241022 | 7.133 |

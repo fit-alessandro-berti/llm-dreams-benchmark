@@ -186,6 +186,7 @@
 | meta-llamaMeta-Llama-3.1-8B-Instruct | 7.733 |
 | gpt-5.6-sol-XHIGH | 7.711 |
 | grok-4.20-multi-agent-experimental-beta-0304 | 7.711 |
+| claude-fable-5-1-high | 7.700 |
 | meta-llamaLlama-3.2-3B-Instruct | 7.689 |
 | grok-4-0709 | 7.689 |
 | stealthox-alpha | 7.667 |

@@ -71,6 +71,7 @@
 | upstagesolar-pro4 | 9.644 |
 | xiaomimimo-v2-pro | 9.644 |
 | z-aiglm-5v-turbo | 9.644 |
+| claude-fable-5-1-high | 9.633 |
 | claude-opus-4-7 | 9.633 |
 | gemma4e2b | 9.633 |
 | gemma4e4b | 9.633 |

@@ -217,6 +217,7 @@
 | gpt-5.2-2025-12-11 | **384.4** | 7.8 $\pm$ 0.5 | 6.5 $\pm$ 0.6 | 8.6 $\pm$ 0.3 | 9.4 $\pm$ 0.2 | 7.4 $\pm$ 0.5 | 6.8 $\pm$ 0.5 | 8.0 $\pm$ 0.6 | 8.2 $\pm$ 0.6 | 8.6 $\pm$ 0.4 | 8.0 $\pm$ 0.5 | 7.8 $\pm$ 0.5 | 7.2 $\pm$ 0.8 | 8.5 $\pm$ 0.5 | 7.1 $\pm$ 0.6 | 8.6 $\pm$ 0.4 |
 | gpt-5.6-sol-XHIGH | **383.4** | 8.0 $\pm$ 0.6 | 6.3 $\pm$ 0.6 | 8.6 $\pm$ 0.3 | 9.7 $\pm$ 0.2 | 7.2 $\pm$ 0.4 | 6.9 $\pm$ 0.5 | 7.7 $\pm$ 0.6 | 8.2 $\pm$ 0.7 | 8.9 $\pm$ 0.3 | 7.7 $\pm$ 0.6 | 7.6 $\pm$ 0.9 | 6.7 $\pm$ 1.1 | 8.7 $\pm$ 0.5 | 6.9 $\pm$ 0.6 | 8.7 $\pm$ 0.4 |
 | ibmgranite41b-h | **381.6** | 7.3 $\pm$ 0.5 | 6.5 $\pm$ 0.5 | 8.3 $\pm$ 0.4 | 8.6 $\pm$ 0.5 | 7.0 $\pm$ 0.5 | 7.4 $\pm$ 0.4 | 7.3 $\pm$ 0.8 | 8.1 $\pm$ 0.7 | 8.0 $\pm$ 0.5 | 8.1 $\pm$ 0.5 | 7.1 $\pm$ 0.7 | 7.2 $\pm$ 0.4 | 8.0 $\pm$ 0.6 | 7.2 $\pm$ 0.6 | 8.5 $\pm$ 0.4 |
+| claude-fable-5-1-high | **381.0** | 7.7 $\pm$ 0.8 | 6.5 $\pm$ 0.6 | 8.3 $\pm$ 0.4 | 9.6 $\pm$ 0.2 | 7.2 $\pm$ 0.4 | 6.5 $\pm$ 0.5 | 7.7 $\pm$ 0.4 | 7.8 $\pm$ 1.0 | 8.6 $\pm$ 0.3 | 7.5 $\pm$ 0.7 | 7.4 $\pm$ 0.9 | 6.5 $\pm$ 1.2 | 8.5 $\pm$ 0.7 | 7.1 $\pm$ 0.5 | 8.4 $\pm$ 0.4 |
 | meta-llamallama-4-scout | **380.2** | 7.8 $\pm$ 0.6 | 6.0 $\pm$ 0.6 | 8.2 $\pm$ 0.4 | 9.3 $\pm$ 0.3 | 7.4 $\pm$ 0.7 | 6.9 $\pm$ 0.5 | 6.9 $\pm$ 1.0 | 8.1 $\pm$ 0.5 | 8.5 $\pm$ 0.4 | 8.4 $\pm$ 0.5 | 7.5 $\pm$ 0.5 | 6.8 $\pm$ 0.7 | 8.1 $\pm$ 0.5 | 7.6 $\pm$ 0.7 | 8.1 $\pm$ 0.5 |
 | claude-3-opus-20240229 | **378.5** | 7.7 $\pm$ 0.5 | 6.1 $\pm$ 0.6 | 8.2 $\pm$ 0.4 | 9.1 $\pm$ 0.3 | 7.1 $\pm$ 0.5 | 7.1 $\pm$ 0.6 | 6.6 $\pm$ 1.4 | 8.3 $\pm$ 0.5 | 8.4 $\pm$ 0.4 | 8.5 $\pm$ 0.3 | 7.7 $\pm$ 0.4 | 7.0 $\pm$ 0.4 | 8.0 $\pm$ 0.6 | 7.3 $\pm$ 0.5 | 8.3 $\pm$ 0.4 |
 | ministral-14b-2512 | **377.5** | 7.9 $\pm$ 0.6 | 6.1 $\pm$ 0.7 | 8.1 $\pm$ 0.5 | 9.5 $\pm$ 0.2 | 7.1 $\pm$ 0.4 | 7.0 $\pm$ 0.5 | 7.5 $\pm$ 0.7 | 8.0 $\pm$ 0.7 | 8.3 $\pm$ 0.5 | 8.2 $\pm$ 0.5 | 7.4 $\pm$ 0.7 | 6.8 $\pm$ 0.8 | 8.4 $\pm$ 0.6 | 6.9 $\pm$ 0.6 | 8.2 $\pm$ 0.5 |
@@ -5831,6 +5832,32 @@
 | Cognitive Load | 8.0 $\pm$ 0.6 |
 | Social Support | 7.2 $\pm$ 0.6 |
 | Resilience | 8.5 $\pm$ 0.4 |
+
+
+
+
+
+
+### claude-fable-5-1-high
+
+
+| Personality Trait | Score (1.0-10.0) |
+| --- | --- |
+| Anxiety and Stress Levels | 7.7 $\pm$ 0.8 |
+| Emotional Stability | 6.5 $\pm$ 0.6 |
+| Problem-solving Skills | 8.3 $\pm$ 0.4 |
+| Creativity | 9.6 $\pm$ 0.2 |
+| Interpersonal Relationships | 7.2 $\pm$ 0.4 |
+| Confidence and Self-efficacy | 6.5 $\pm$ 0.5 |
+| Conflict Resolution | 7.7 $\pm$ 0.4 |
+| Work-related Stress | 7.8 $\pm$ 1.0 |
+| Adaptability | 8.6 $\pm$ 0.3 |
+| Achievement Motivation | 7.5 $\pm$ 0.7 |
+| Fear of Failure | 7.4 $\pm$ 0.9 |
+| Need for Control | 6.5 $\pm$ 1.2 |
+| Cognitive Load | 8.5 $\pm$ 0.7 |
+| Social Support | 7.1 $\pm$ 0.5 |
+| Resilience | 8.4 $\pm$ 0.4 |
 
 
 

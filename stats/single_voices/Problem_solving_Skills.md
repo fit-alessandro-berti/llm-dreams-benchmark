@@ -62,6 +62,7 @@
 | granite4tiny-h | 8.789 |
 | arcee-aitrinity-large-previewfree | 8.778 |
 | claude-3-7-sonnet-20250219 | 8.778 |
+| googlegemini-3.8-flash | 8.767 |
 | nvidiaNVIDIA-Nemotron-3-Super-120B-A12B | 8.767 |
 | o4-mini-2025-04-16 | 8.767 |
 | gpt-5-2025-08-07 | 8.756 |
@@ -180,6 +181,7 @@
 | chatgpt-4o-latest-2025-04-26 | 8.289 |
 | gpt-4o-mini-2024-11-05 | 8.289 |
 | meta-llamaMeta-Llama-3.1-405B-Instruct | 8.289 |
+| metamuse-spark-1.3 | 8.289 |
 | moonshotaikimi-k2.6 | 8.289 |
 | grok-4.20-experimental-beta-0304-non-reasoning | 8.278 |
 | meta-llamaLlama-3.3-70B-Instruct | 8.267 |

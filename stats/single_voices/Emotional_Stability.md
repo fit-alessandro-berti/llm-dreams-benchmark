@@ -94,6 +94,7 @@
 | nousresearchhermes-4-405b | 7.711 |
 | x-aigrok-4.6 | 7.711 |
 | claude-haiku-4-5-20251001 | 7.711 |
+| metamuse-spark-1.3 | 7.700 |
 | arcee-aitrinity-large-previewfree | 7.700 |
 | bytedance-seedseed-2.0-mini | 7.700 |
 | gpt-5.3-codex-spark-low | 7.700 |
@@ -115,6 +116,7 @@
 | openaigpt-5.2-codex | 7.511 |
 | anthropicclaude-opus-5 | 7.489 |
 | liquidlfm-2.5-1.2b-instructfree | 7.489 |
+| googlegemini-3.8-flash | 7.478 |
 | gpt-5-chat-latest-2025-08-19 | 7.478 |
 | inclusionailing-2.6-1tfree | 7.478 |
 | qwenqwen3.5-27b | 7.467 |

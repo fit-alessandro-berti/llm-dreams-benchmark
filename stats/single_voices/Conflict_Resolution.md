@@ -67,6 +67,7 @@
 | amazonnova-2-lite-v1 | 8.667 |
 | claude-fable-5-high | 8.656 |
 | moonshotaikimi-k2.7-code | 8.656 |
+| metamuse-spark-1.3 | 8.644 |
 | openaigpt-5.4-mini | 8.644 |
 | gpt-5-2025-08-07 | 8.633 |
 | thinkingmachinesinkling | 8.633 |
@@ -142,6 +143,7 @@
 | liquidlfm2-8b-a1b | 8.311 |
 | phi2.7b | 8.311 |
 | phi4-reasoningplus | 8.311 |
+| googlegemini-3.8-flash | 8.300 |
 | poolsidelaguna-m.1free | 8.300 |
 | qwenqwen3.5-122b-a10b | 8.300 |
 | anthropicclaude-opus-4.6 | 8.289 |

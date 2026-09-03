@@ -110,6 +110,7 @@
 | qwenqwen3-max | 7.944 |
 | moonshotaikimi-k2.7-code | 7.933 |
 | ChatGPT-5.5-Instant-20260530 | 7.922 |
+| metamuse-spark-1.3 | 7.922 |
 | openaigpt-5.2-codex | 7.922 |
 | openaigpt-5.4-mini | 7.922 |
 | inclusionailing-2.6-1tfree | 7.911 |
@@ -142,6 +143,7 @@
 | openaigpt-5.4-nano | 7.689 |
 | anthropicclaude-fable-5 | 7.678 |
 | x-aigrok-4.5 | 7.678 |
+| googlegemini-3.8-flash | 7.644 |
 | openaigpt-5.6-sol | 7.644 |
 | claude-haiku-4-5-20251001 | 7.633 |
 | deepseekdeepseek-v4-pro-0813 | 7.633 |

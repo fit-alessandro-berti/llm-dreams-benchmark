@@ -77,6 +77,7 @@
 | nousresearchhermes-4-70b | 8.233 |
 | googlegemini-3.7-flash | 8.222 |
 | o1-2024-12-05 | 8.211 |
+| googlegemini-3.8-flash | 8.200 |
 | liquidlfm-2-24b-a2b | 8.200 |
 | qwenqwen3.7-plus | 8.200 |
 | gemini-3.6-flash | 8.178 |
@@ -129,6 +130,7 @@
 | moonshotaikimi-k2.7-code | 7.911 |
 | liquidlfm-2.5-1.2b-thinkingfree | 7.900 |
 | gemini-3.5-flash-lite | 7.889 |
+| metamuse-spark-1.3 | 7.889 |
 | qwenqwen3-30b-a3b-instruct-2507 | 7.889 |
 | ai21jamba-large-1.7 | 7.867 |
 | gemini-2.0-flash-exp | 7.867 |

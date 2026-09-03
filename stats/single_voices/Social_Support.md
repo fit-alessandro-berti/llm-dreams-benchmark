@@ -79,6 +79,7 @@
 | openaigpt-5.4-mini | 8.078 |
 | ibm-granitegranite-4.2-8b | 8.078 |
 | metamuse-spark-1.1 | 8.078 |
+| metamuse-spark-1.3 | 8.078 |
 | openrouterowl-alpha | 8.067 |
 | amazonnova-2-lite-v1 | 8.067 |
 | anthropicclaude-opus-4.6 | 8.056 |
@@ -161,6 +162,7 @@
 | x-aigrok-4.6 | 7.544 |
 | Qwen-3.6-Max-Preview | 7.533 |
 | deepseekdeepseek-v4-pro-0813 | 7.511 |
+| googlegemini-3.8-flash | 7.489 |
 | gemini-2.5-flash-lite | 7.478 |
 | Gemini-1.5-Pro-Exp-0827 | 7.478 |
 | prime-intellectintellect-3 | 7.478 |

@@ -28,6 +28,7 @@
 | anthropicclaude-opus-4.1 | 9.722 |
 | gemini-3-pro-preview | 9.722 |
 | gemini-3.6-flash | 9.722 |
+| googlegemini-3.8-flash | 9.722 |
 | grok-4.20-multi-agent-experimental-beta-0304 | 9.722 |
 | inclusionailing-2.6-1tfree | 9.722 |
 | deepseekdeepseek-v4-pro | 9.711 |
@@ -171,6 +172,7 @@
 | aion-labsaion-2.0 | 9.500 |
 | ChatGPT-5.1-Instant-20251113 | 9.489 |
 | gpt-5.3-codex-spark-low | 9.489 |
+| metamuse-spark-1.3 | 9.489 |
 | microsoftphi-4 | 9.489 |
 | baiduernie-4.5-300b-a47b | 9.478 |
 | ministral-3b-2512 | 9.478 |

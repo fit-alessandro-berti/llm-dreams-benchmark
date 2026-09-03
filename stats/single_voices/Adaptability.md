@@ -118,6 +118,7 @@
 | qwenqwen3-30b-a3b-instruct-2507 | 8.989 |
 | qwenqwen3.5-plus-02-15 | 8.989 |
 | claude-opus-4-5-20251101 | 8.989 |
+| googlegemini-3.8-flash | 8.989 |
 | grok-4-1-fast-non-reasoning | 8.978 |
 | liquidlfm-2.2-6b | 8.978 |
 | xiaomimimo-v2-omni | 8.978 |
@@ -130,6 +131,7 @@
 | gemma-3-27b-it | 8.956 |
 | gemma-4-26b-a4b-it | 8.956 |
 | gpt-4.1-nano-2025-04-14 | 8.956 |
+| metamuse-spark-1.3 | 8.956 |
 | allenaiolmo-3-7b-instruct | 8.944 |
 | deepseekdeepseek-v4-pro | 8.944 |
 | googlegemini-3.1-flash-lite-preview | 8.944 |

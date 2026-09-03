@@ -122,6 +122,7 @@
 | deepseekdeepseek-v4-pro-0813 | 6.433 |
 | Qwen-3.6-27B | 6.422 |
 | Qwen-3.6-Max-Preview | 6.422 |
+| googlegemini-3.8-flash | 6.389 |
 | gemma-4-31b-it | 6.378 |
 | Grok-4-fast-20251111 | 6.367 |
 | claude-3-7-sonnet-20250219 | 6.356 |
@@ -139,6 +140,7 @@
 | bytedance-seedseed-2.0-mini | 6.178 |
 | googlegemini-3.1-flash-lite-preview | 6.122 |
 | qwenqwen3.5-plus-02-15 | 6.122 |
+| metamuse-spark-1.3 | 6.100 |
 | bytedance-seedseed-2.0-lite | 6.067 |
 | claude-opus-4-5-20251101 | 6.067 |
 | allenaiolmo-3-7b-instruct | 6.056 |

@@ -92,6 +92,7 @@
 | o1-2024-12-17 | 9.044 |
 | o4-mini-2025-04-16 | 9.044 |
 | qwenqwen3.5-plus-02-15 | 9.033 |
+| googlegemini-3.8-flash | 9.022 |
 | openaigpt-5.4-pro | 9.022 |
 | granite4.13b | 9.011 |
 | qwenqwen3.7-flash | 9.011 |
@@ -107,6 +108,7 @@
 | qwenqwen3.7-plus | 8.989 |
 | gpt-4.1-2025-04-14 | 8.989 |
 | meituanlongcat-2.0 | 8.989 |
+| metamuse-spark-1.3 | 8.978 |
 | openaigpt-5.4-nano | 8.978 |
 | qwenqwen3.5-122b-a10b | 8.978 |
 | Grok-4-fast-20251111 | 8.978 |

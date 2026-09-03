@@ -126,6 +126,7 @@
 | phi2.7b | 5.767 |
 | deepseekdeepseek-v4-pro | 5.756 |
 | liquidlfm-2.5-1.2b-thinkingfree | 5.756 |
+| googlegemini-3.8-flash | 5.733 |
 | anthropicclaude-opus-4.6 | 5.733 |
 | metamuse-spark-1.1 | 5.700 |
 | gemma-4-31b-it | 5.667 |
@@ -138,6 +139,7 @@
 | nvidiaLlama-3.1-Nemotron-70B-Instruct | 5.589 |
 | qwenqwen3.5-397b-a17b | 5.589 |
 | gpt-5.5-2026-04-23 | 5.578 |
+| metamuse-spark-1.3 | 5.578 |
 | liquidlfm-2-24b-a2b | 5.567 |
 | googlegemini-3.1-flash-lite-preview | 5.533 |
 | gpt-4o-mini-2024-07-18 | 5.489 |

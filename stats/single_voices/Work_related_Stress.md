@@ -120,6 +120,7 @@
 | gpt-4-1106-preview | 6.844 |
 | mistral-medium-3.5 | 6.833 |
 | nousresearchhermes-4-70b | 6.822 |
+| googlegemini-3.8-flash | 6.811 |
 | Qwen-3.6-Max-Preview | 6.744 |
 | arcee-aitrinity-large-previewfree | 6.733 |
 | qwenqwen3.5-27b | 6.733 |
@@ -151,6 +152,7 @@
 | minimaxminimax-m2.5 | 6.333 |
 | openaigpt-5.2-codex | 6.322 |
 | qwenqwen3.5-plus-02-15 | 6.311 |
+| metamuse-spark-1.3 | 6.311 |
 | o1-2024-12-17 | 6.289 |
 | gpt-5.5-2026-04-23 | 6.256 |
 | metamuse-spark-1.2 | 6.244 |

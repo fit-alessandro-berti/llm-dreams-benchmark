@@ -139,6 +139,7 @@
 | granite4.13b | 7.400 |
 | arcee-aitrinity-large-previewfree | 7.389 |
 | baiduernie-4.5-300b-a47b | 7.389 |
+| googlegemini-3.8-flash | 7.378 |
 | Qwen-3.6-Max-Preview | 7.378 |
 | gpt-4-0613 | 7.367 |
 | openrouterowl-alpha | 7.367 |
@@ -202,6 +203,7 @@
 | gpt-4o-2024-05-13 | 6.811 |
 | gpt-5-pro-2025-10-06 | 6.811 |
 | metamuse-spark-1.1 | 6.811 |
+| metamuse-spark-1.3 | 6.800 |
 | qwen2.5-32b-instruct | 6.800 |
 | grok-2-1212 | 6.767 |
 | microsoftWizardLM-2-8x22B | 6.756 |

@@ -115,6 +115,7 @@
 | meta-llamallama-4-scout | 8.400 |
 | openaigpt-5.4 | 8.389 |
 | allenaiolmo-3.1-32b-instruct | 8.367 |
+| googlegemini-3.8-flash | 8.367 |
 | qwenqwen3-30b-a3b-instruct-2507 | 8.356 |
 | arcee-aitrinity-large-thinking | 8.344 |
 | gpt-5-nano-2025-08-07 | 8.344 |
@@ -182,6 +183,7 @@
 | gemini-2.0-flash-exp | 8.033 |
 | openaigpt-5.2-codex | 8.033 |
 | qwenqwen3.6-plusfree | 8.033 |
+| metamuse-spark-1.3 | 8.022 |
 | gemma-3-27b-it | 8.011 |
 | gemini-3.5-flash | 8.011 |
 | moonshotaikimi-k2.6 | 8.011 |

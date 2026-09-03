@@ -136,6 +136,7 @@
 | gemini-3.6-flash | 5.678 |
 | open-mistral-7b | 5.678 |
 | qwen2.5-72b-instruct | 5.667 |
+| googlegemini-3.8-flash | 5.656 |
 | microsoftphi-4 | 5.656 |
 | gemma4e2b | 5.633 |
 | openrouterowl-alpha | 5.622 |
@@ -157,6 +158,7 @@
 | gemini-1.5-flash-002 | 5.467 |
 | qwen3.52b | 5.467 |
 | gpt-4.1-mini-2025-04-14 | 5.433 |
+| metamuse-spark-1.3 | 5.433 |
 | o1-2024-12-17 | 5.433 |
 | nvidiaNemotron-3-Nano-Omni-30B-A3B-Reasoning | 5.422 |
 | anthropicclaude-sonnet-5 | 5.422 |

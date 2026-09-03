@@ -219,6 +219,7 @@
 | qwenqwen3.7-flash | 7.800 |
 | z-aiglm-5.1 | 7.800 |
 | deepseekdeepseek-v4-pro-0813 | 7.778 |
+| qwen3.8-max-2026-09-02 | 7.767 |
 | deepseekdeepseek-v4-pro | 7.756 |
 | metamuse-glimmer-30b | 7.756 |
 | thinkingmachinesinkling-small | 7.756 |

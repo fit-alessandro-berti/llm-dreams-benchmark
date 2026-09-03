@@ -234,6 +234,7 @@
 | metamuse-spark-1.2 | 6.511 |
 | liquidlfm2-8b-a1b | 6.500 |
 | o3-pro-2025-06-10 | 6.500 |
+| qwen3.8-max-2026-09-02 | 6.478 |
 | qwenqwen3.8-max | 6.456 |
 | qwenqwen3.8-2.4t-a95b | 6.356 |
 | qwenqwen3.7-plus | 6.356 |

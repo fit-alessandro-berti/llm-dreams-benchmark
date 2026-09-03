@@ -232,7 +232,7 @@ def perform_query_openai_api(text, streaming_enabled=None):
     while not response_message:
         try:
             if streaming_enabled is None:
-                streaming_enabled = "alpha" not in MODEL_NAME and "seed" not in MODEL_NAME and "talkie" not in MODEL_NAME and "quasar" not in MODEL_NAME
+                streaming_enabled = "alpha" not in MODEL_NAME and "seed" not in MODEL_NAME and "talkie" not in MODEL_NAME and "quasar" not in MODEL_NAME and "aliy" not in API_URL
 
             if streaming_enabled:
                 payload["stream"] = True

@@ -101,6 +101,7 @@
 | gpt-5.5-2026-04-23 | 7.989 |
 | gpt-4-1106-preview | 7.978 |
 | GPT-5.5-Pro-20260422 | 7.978 |
+| qwen3.8-max-2026-09-02 | 7.978 |
 | anthropicclaude-opus-4.6 | 7.978 |
 | Grok-3-beta-thinking-20250303 | 7.978 |
 | allenaiolmo-3-7b-instruct | 7.956 |

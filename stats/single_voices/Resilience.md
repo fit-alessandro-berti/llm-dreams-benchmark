@@ -50,6 +50,7 @@
 | Grok-4.5-Heavy-20260720 | 9.144 |
 | qwenqwen3-next-80b-a3b-instruct | 9.144 |
 | openaigpt-oss-120b | 9.144 |
+| qwen3.8-max-2026-09-02 | 9.144 |
 | xiaomimimo-v2.5-pro | 9.133 |
 | baiduernie-4.5-300b-a47b | 9.133 |
 | deepseekdeepseek-v3.2 | 9.133 |

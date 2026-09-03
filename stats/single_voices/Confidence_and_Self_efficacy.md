@@ -104,6 +104,7 @@
 | ChatGPT-5.5-Instant-20260530 | 8.056 |
 | googlegemini-3.1-pro-preview | 8.056 |
 | metamuse-spark-1.2 | 8.056 |
+| qwen3.8-max-2026-09-02 | 8.056 |
 | qwenqwen3.5-plus-02-15 | 8.044 |
 | claude-3-7-sonnet-20250219 | 8.033 |
 | ibm-granitegranite-4.2-8b | 8.033 |

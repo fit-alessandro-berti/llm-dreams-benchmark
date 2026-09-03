@@ -185,6 +185,7 @@
 | thinkingmachinesinkling | 4.767 |
 | qwenqwen3-next-80b-a3b-instruct | 4.744 |
 | moonshotaikimi-k2.7-code | 4.733 |
+| qwen3.8-max-2026-09-02 | 4.733 |
 | falcon310b-instruct-q8_0 | 4.678 |
 | Grok-4.30-20260420 | 4.633 |
 | googlegemini-3.7-flash | 4.622 |

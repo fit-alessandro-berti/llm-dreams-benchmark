@@ -76,6 +76,7 @@
 | phi3.53.8b-mini-instruct-fp16 | **462.9** | 3.8 $\pm$ 0.3 | 8.7 $\pm$ 0.2 | 9.0 $\pm$ 0.2 | 9.4 $\pm$ 0.2 | 8.8 $\pm$ 0.3 | 8.8 $\pm$ 0.2 | 9.0 $\pm$ 0.4 | 4.2 $\pm$ 0.4 | 9.1 $\pm$ 0.1 | 8.6 $\pm$ 0.1 | 3.2 $\pm$ 0.3 | 5.6 $\pm$ 0.2 | 5.1 $\pm$ 1.0 | 8.6 $\pm$ 0.2 | 9.2 $\pm$ 0.1 |
 | falcon37b-instruct-q8_0 | **462.6** | 3.0 $\pm$ 0.1 | 8.8 $\pm$ 0.2 | 9.1 $\pm$ 0.4 | 9.4 $\pm$ 0.2 | 8.5 $\pm$ 0.3 | 8.8 $\pm$ 0.3 | 7.9 $\pm$ 0.6 | 3.3 $\pm$ 0.2 | 9.0 $\pm$ 0.3 | 8.6 $\pm$ 0.4 | 2.8 $\pm$ 0.2 | 5.0 $\pm$ 0.4 | 4.4 $\pm$ 0.1 | 8.5 $\pm$ 0.3 | 9.0 $\pm$ 0.3 |
 | minimaxminimax-m2.5 | **462.3** | 4.1 $\pm$ 0.3 | 8.7 $\pm$ 0.1 | 9.1 $\pm$ 0.1 | 9.5 $\pm$ 0.1 | 8.7 $\pm$ 0.1 | 8.7 $\pm$ 0.1 | 9.0 $\pm$ 0.2 | 4.6 $\pm$ 0.4 | 9.1 $\pm$ 0.3 | 8.6 $\pm$ 0.2 | 3.8 $\pm$ 0.3 | 5.6 $\pm$ 0.3 | 4.7 $\pm$ 0.2 | 8.4 $\pm$ 0.3 | 9.2 $\pm$ 0.1 |
+| qwen3.8-max-2026-09-02 | **461.0** | 4.7 $\pm$ 0.5 | 8.6 $\pm$ 0.1 | 8.6 $\pm$ 0.4 | 9.8 $\pm$ 0.2 | 8.5 $\pm$ 0.3 | 8.4 $\pm$ 0.1 | 9.1 $\pm$ 0.1 | 4.2 $\pm$ 0.5 | 9.0 $\pm$ 0.2 | 8.0 $\pm$ 0.1 | 4.0 $\pm$ 0.4 | 3.6 $\pm$ 0.3 | 4.5 $\pm$ 0.4 | 8.6 $\pm$ 0.1 | 9.4 $\pm$ 0.1 |
 | qwenqwen3.5-122b-a10b | **460.0** | 3.6 $\pm$ 0.8 | 8.6 $\pm$ 0.4 | 8.2 $\pm$ 0.2 | 9.7 $\pm$ 0.1 | 7.9 $\pm$ 0.3 | 8.5 $\pm$ 0.1 | 8.8 $\pm$ 0.3 | 3.5 $\pm$ 1.2 | 9.2 $\pm$ 0.3 | 7.2 $\pm$ 0.4 | 3.0 $\pm$ 1.0 | 2.9 $\pm$ 0.7 | 4.0 $\pm$ 1.0 | 7.9 $\pm$ 0.2 | 9.1 $\pm$ 0.3 |
 | inclusionailing-2.6-1tfree | **459.8** | 5.1 $\pm$ 1.1 | 8.6 $\pm$ 0.4 | 8.7 $\pm$ 0.1 | 9.8 $\pm$ 0.0 | 8.5 $\pm$ 0.4 | 8.5 $\pm$ 0.0 | 9.1 $\pm$ 0.3 | 5.4 $\pm$ 1.4 | 9.4 $\pm$ 0.2 | 8.0 $\pm$ 0.3 | 4.5 $\pm$ 1.1 | 3.6 $\pm$ 0.9 | 5.5 $\pm$ 1.4 | 8.3 $\pm$ 0.4 | 9.4 $\pm$ 0.3 |
 | Grok-4.30-20260420 | **459.3** | 4.5 $\pm$ 0.0 | 8.6 $\pm$ 0.1 | 8.6 $\pm$ 0.2 | 9.7 $\pm$ 0.1 | 8.4 $\pm$ 0.3 | 8.6 $\pm$ 0.1 | 9.1 $\pm$ 0.1 | 4.4 $\pm$ 0.5 | 9.0 $\pm$ 0.3 | 8.5 $\pm$ 0.0 | 3.8 $\pm$ 0.2 | 4.1 $\pm$ 0.4 | 5.3 $\pm$ 0.7 | 8.3 $\pm$ 0.2 | 9.3 $\pm$ 0.2 |
@@ -2172,6 +2173,32 @@
 | Cognitive Load | 4.7 $\pm$ 0.2 |
 | Social Support | 8.4 $\pm$ 0.3 |
 | Resilience | 9.2 $\pm$ 0.1 |
+
+
+
+
+
+
+### qwen3.8-max-2026-09-02
+
+
+| Personality Trait | Score (1.0-10.0) |
+| --- | --- |
+| Anxiety and Stress Levels | 4.7 $\pm$ 0.5 |
+| Emotional Stability | 8.6 $\pm$ 0.1 |
+| Problem-solving Skills | 8.6 $\pm$ 0.4 |
+| Creativity | 9.8 $\pm$ 0.2 |
+| Interpersonal Relationships | 8.5 $\pm$ 0.3 |
+| Confidence and Self-efficacy | 8.4 $\pm$ 0.1 |
+| Conflict Resolution | 9.1 $\pm$ 0.1 |
+| Work-related Stress | 4.2 $\pm$ 0.5 |
+| Adaptability | 9.0 $\pm$ 0.2 |
+| Achievement Motivation | 8.0 $\pm$ 0.1 |
+| Fear of Failure | 4.0 $\pm$ 0.4 |
+| Need for Control | 3.6 $\pm$ 0.3 |
+| Cognitive Load | 4.5 $\pm$ 0.4 |
+| Social Support | 8.6 $\pm$ 0.1 |
+| Resilience | 9.4 $\pm$ 0.1 |
 
 
 

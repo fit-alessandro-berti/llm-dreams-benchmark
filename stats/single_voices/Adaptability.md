@@ -85,6 +85,7 @@
 | moonshotaikimi-k2.5 | 9.056 |
 | metamuse-spark-1.1 | 9.056 |
 | phi3.53.8b-mini-instruct-fp16 | 9.056 |
+| qwen3.8-max-2026-09-02 | 9.056 |
 | gemini-2.5-pro-preview-06-05 | 9.044 |
 | minimaxminimax-m2.7 | 9.044 |
 | moonshotaikimi-k2.7-code | 9.044 |

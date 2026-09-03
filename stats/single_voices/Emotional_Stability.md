@@ -49,6 +49,7 @@
 | nvidiaNemotron-3-Nano-Omni-30B-A3B-Reasoning | 8.156 |
 | gpt-4.1-2025-04-14 | 8.144 |
 | gpt-4o-2024-05-13 | 8.144 |
+| qwen3.8-max-2026-09-02 | 8.133 |
 | o3-mini-20250131-HIGH | 8.122 |
 | Grok-4.5-Heavy-20260720 | 8.122 |
 | Meta-Muse-Spark-20260409 | 8.122 |

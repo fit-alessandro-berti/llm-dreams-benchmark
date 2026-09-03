@@ -230,6 +230,7 @@
 | nvidianemotron-3.5-lightning | 4.611 |
 | deepseekdeepseek-v4-flash-vision-exp | 4.578 |
 | xiaomimimo-v2.5-pro | 4.556 |
+| qwen3.8-max-2026-09-02 | 4.544 |
 | Grok-4.3-20260530 | 4.533 |
 | gpt-4.5-preview | 4.522 |
 | qwenqwen3.8-max | 4.511 |

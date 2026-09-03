@@ -126,6 +126,7 @@
 | qwen3.635b-a3b | 8.522 |
 | phi2.7b | 8.511 |
 | Qwen-3.6-Max-Preview | 8.511 |
+| qwen3.8-max-2026-09-02 | 8.511 |
 | gemini-2.0-flash-exp | 8.500 |
 | claude-fable-5-high | 8.500 |
 | googlegemini-3.1-flash-lite-preview | 8.500 |

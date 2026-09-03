@@ -31,6 +31,7 @@
 | googlegemini-3.8-flash | 9.722 |
 | grok-4.20-multi-agent-experimental-beta-0304 | 9.722 |
 | inclusionailing-2.6-1tfree | 9.722 |
+| qwen3.8-max-2026-09-02 | 9.722 |
 | deepseekdeepseek-v4-pro | 9.711 |
 | gpt-5-mini-2025-08-07 | 9.711 |
 | qwenqwen3.7-flash | 9.711 |

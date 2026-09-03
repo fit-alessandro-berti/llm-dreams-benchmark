@@ -194,6 +194,7 @@
 | claude-haiku-4-5-20251001 | 5.111 |
 | nvidianemotron-3.5-lightning | 5.078 |
 | qwenqwen3.8-max | 5.067 |
+| qwen3.8-max-2026-09-02 | 5.044 |
 | o1-preview-2024-09-12 | 5.000 |
 | openaigpt-5.4-mini | 4.978 |
 | microsoftWizardLM-2-8x22B | 4.967 |

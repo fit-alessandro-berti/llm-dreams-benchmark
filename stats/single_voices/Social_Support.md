@@ -60,6 +60,7 @@
 | inceptionmercury-2.5-preview | 8.189 |
 | gpt-4.1-nano-2025-04-14 | 8.167 |
 | o3-mini-20250131-HIGH | 8.167 |
+| qwen3.8-max-2026-09-02 | 8.167 |
 | arcee-aitrinity-large-previewfree | 8.156 |
 | gpt-4-0613 | 8.156 |
 | Grok-4.3-20260530 | 8.156 |

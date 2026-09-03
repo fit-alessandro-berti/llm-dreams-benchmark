@@ -34,6 +34,7 @@
 | granite4small-h | 8.789 |
 | anthropicclaude-sonnet-4.6 | 8.778 |
 | allenaiolmo-3.1-32b-instruct | 8.778 |
+| qwen3.8-max-2026-09-02 | 8.778 |
 | ai21jamba-mini-1.7 | 8.767 |
 | gpt-3.5-turbo | 8.767 |
 | gpt-4.5-preview | 8.767 |

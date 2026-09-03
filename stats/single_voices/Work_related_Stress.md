@@ -218,6 +218,7 @@
 | gpt-4o-2024-08-06 | 5.189 |
 | qwenqwen3.8-2.4t-a95b | 5.189 |
 | qwen2.5-7b-instruct | 5.178 |
+| qwen3.8-max-2026-09-02 | 5.133 |
 | qwenqwen3-next-80b-a3b-instruct | 5.122 |
 | xiaomimimo-v2.5-pro | 5.100 |
 | gpt-4.1-2025-04-14 | 5.089 |

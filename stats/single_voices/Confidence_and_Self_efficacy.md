@@ -208,6 +208,7 @@
 | minimaxminimax-m3 | 7.211 |
 | claude-3-5-sonnet-20241022 | 7.200 |
 | gemma-4-26b-a4b-it | 7.200 |
+| quasar-438b | 7.189 |
 | openaigpt-5.3-chat | 7.189 |
 | grok-4.20-multi-agent-experimental-beta-0304 | 7.133 |
 | grok-build-0.1 | 7.122 |

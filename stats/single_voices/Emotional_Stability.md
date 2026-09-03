@@ -215,6 +215,7 @@
 | prime-intellectintellect-3 | 6.467 |
 | z-aiglm-5 | 6.411 |
 | meta-llamaMeta-Llama-3.1-405B-Instruct | 6.344 |
+| quasar-438b | 6.344 |
 | grok-build-0.1 | 6.322 |
 | tencenthy3-previewfree | 6.311 |
 | gpt-5.6-sol-XHIGH | 6.311 |

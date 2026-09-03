@@ -236,6 +236,7 @@
 | z-aiglm-5.3-flash | 6.433 |
 | ministral-8b-2512 | 6.422 |
 | minimaxminimax-m3 | 6.400 |
+| quasar-438b | 6.400 |
 | gemma-4-26b-a4b-it | 6.322 |
 | aion-labsaion-2.0 | 6.289 |
 | llama27b | 5.911 |

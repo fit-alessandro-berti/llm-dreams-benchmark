@@ -224,6 +224,7 @@
 | claude-3-5-sonnet-20241022 | 8.333 |
 | meta-llamaLlama-3.2-3B-Instruct | 8.333 |
 | claude-3-opus-20240229 | 8.300 |
+| quasar-438b | 8.300 |
 | minimaxminimax-m3 | 8.289 |
 | ministral-14b-2512 | 8.256 |
 | gemma4e2b | 8.178 |

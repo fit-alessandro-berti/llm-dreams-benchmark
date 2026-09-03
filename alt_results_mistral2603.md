@@ -221,6 +221,7 @@
 | anthropicclaude-sonnet-5 | **379.0** | 8.0 $\pm$ 0.5 | 6.0 $\pm$ 0.0 | 8.8 $\pm$ 0.2 | 9.5 $\pm$ 0.0 | 7.2 $\pm$ 0.2 | 6.8 $\pm$ 0.2 | 7.0 $\pm$ 0.6 | 8.0 $\pm$ 0.0 | 9.0 $\pm$ 0.0 | 8.2 $\pm$ 0.4 | 6.9 $\pm$ 0.5 | 6.8 $\pm$ 1.3 | 9.0 $\pm$ 0.4 | 6.5 $\pm$ 0.4 | 8.4 $\pm$ 0.2 |
 | moonshotaikimi-k2.6 | **377.5** | 8.2 $\pm$ 0.4 | 4.8 $\pm$ 0.8 | 9.0 $\pm$ 0.0 | 9.6 $\pm$ 0.2 | 7.4 $\pm$ 0.4 | 6.9 $\pm$ 0.6 | 7.4 $\pm$ 0.4 | 8.6 $\pm$ 0.5 | 9.0 $\pm$ 0.0 | 8.6 $\pm$ 0.5 | 7.5 $\pm$ 0.6 | 6.6 $\pm$ 0.6 | 9.2 $\pm$ 0.2 | 6.5 $\pm$ 0.8 | 8.2 $\pm$ 0.2 |
 | openaigpt-5.3-chat | **376.0** | 8.5 $\pm$ 0.0 | 5.8 $\pm$ 0.4 | 9.0 $\pm$ 0.0 | 9.5 $\pm$ 0.0 | 7.4 $\pm$ 0.2 | 6.8 $\pm$ 0.4 | 7.2 $\pm$ 0.6 | 8.2 $\pm$ 0.4 | 9.2 $\pm$ 0.2 | 8.5 $\pm$ 0.0 | 7.2 $\pm$ 0.2 | 7.6 $\pm$ 0.6 | 9.2 $\pm$ 0.2 | 6.5 $\pm$ 0.6 | 8.5 $\pm$ 0.4 |
+| quasar-438b | **375.5** | 8.0 $\pm$ 0.5 | 5.6 $\pm$ 1.0 | 9.0 $\pm$ 0.0 | 9.5 $\pm$ 0.0 | 7.1 $\pm$ 0.2 | 7.4 $\pm$ 0.6 | 6.0 $\pm$ 0.6 | 7.9 $\pm$ 0.5 | 9.0 $\pm$ 0.0 | 8.8 $\pm$ 0.4 | 6.2 $\pm$ 1.2 | 7.9 $\pm$ 0.2 | 8.9 $\pm$ 0.4 | 6.4 $\pm$ 0.4 | 8.2 $\pm$ 0.6 |
 | arcee-aitrinity-large-thinking | **374.5** | 8.5 $\pm$ 0.0 | 5.2 $\pm$ 0.8 | 9.0 $\pm$ 0.0 | 9.5 $\pm$ 0.0 | 7.2 $\pm$ 0.2 | 6.4 $\pm$ 0.8 | 7.1 $\pm$ 0.9 | 8.2 $\pm$ 0.2 | 9.0 $\pm$ 0.0 | 8.4 $\pm$ 0.2 | 7.4 $\pm$ 0.2 | 6.8 $\pm$ 0.2 | 8.5 $\pm$ 0.4 | 6.5 $\pm$ 0.5 | 8.1 $\pm$ 0.6 |
 | gemma-4-26b-a4b-it | **374.0** | 8.5 $\pm$ 0.0 | 5.6 $\pm$ 0.6 | 9.0 $\pm$ 0.0 | 9.6 $\pm$ 0.2 | 7.1 $\pm$ 0.6 | 7.1 $\pm$ 1.0 | 6.4 $\pm$ 0.8 | 8.2 $\pm$ 0.2 | 9.1 $\pm$ 0.2 | 8.9 $\pm$ 0.4 | 7.1 $\pm$ 0.2 | 7.2 $\pm$ 0.6 | 9.2 $\pm$ 0.2 | 6.2 $\pm$ 0.9 | 8.2 $\pm$ 0.4 |
 | meta-llamallama-4-maverick | **373.5** | 8.2 $\pm$ 0.4 | 6.0 $\pm$ 0.0 | 8.2 $\pm$ 0.2 | 9.0 $\pm$ 0.0 | 7.2 $\pm$ 0.2 | 7.0 $\pm$ 0.4 | 6.4 $\pm$ 0.5 | 8.2 $\pm$ 0.2 | 9.0 $\pm$ 0.0 | 9.1 $\pm$ 0.4 | 7.8 $\pm$ 0.2 | 7.1 $\pm$ 0.2 | 8.4 $\pm$ 0.2 | 6.4 $\pm$ 0.4 | 8.2 $\pm$ 0.2 |
@@ -5941,6 +5942,32 @@
 | Cognitive Load | 9.2 $\pm$ 0.2 |
 | Social Support | 6.5 $\pm$ 0.6 |
 | Resilience | 8.5 $\pm$ 0.4 |
+
+
+
+
+
+
+### quasar-438b
+
+
+| Personality Trait | Score (1.0-10.0) |
+| --- | --- |
+| Anxiety and Stress Levels | 8.0 $\pm$ 0.5 |
+| Emotional Stability | 5.6 $\pm$ 1.0 |
+| Problem-solving Skills | 9.0 $\pm$ 0.0 |
+| Creativity | 9.5 $\pm$ 0.0 |
+| Interpersonal Relationships | 7.1 $\pm$ 0.2 |
+| Confidence and Self-efficacy | 7.4 $\pm$ 0.6 |
+| Conflict Resolution | 6.0 $\pm$ 0.6 |
+| Work-related Stress | 7.9 $\pm$ 0.5 |
+| Adaptability | 9.0 $\pm$ 0.0 |
+| Achievement Motivation | 8.8 $\pm$ 0.4 |
+| Fear of Failure | 6.2 $\pm$ 1.2 |
+| Need for Control | 7.9 $\pm$ 0.2 |
+| Cognitive Load | 8.9 $\pm$ 0.4 |
+| Social Support | 6.4 $\pm$ 0.4 |
+| Resilience | 8.2 $\pm$ 0.6 |
 
 
 

@@ -232,6 +232,7 @@
 | qwen3.52b | 6.489 |
 | claude-opus-4-7 | 6.467 |
 | anthropicclaude-sonnet-4.5 | 6.456 |
+| quasar-438b | 6.411 |
 | meta-llamallama-4-maverick | 6.378 |
 | gemini-2.5-pro-exp-03-25 | 6.333 |
 | claude-opus-4-8 | 6.322 |

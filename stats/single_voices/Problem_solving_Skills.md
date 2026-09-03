@@ -210,6 +210,7 @@
 | z-aiglm-5.3 | 8.133 |
 | aion-labsaion-2.0 | 8.100 |
 | Liquid-LFM2.5-350M | 8.100 |
+| quasar-438b | 8.100 |
 | z-aiglm-5.2 | 8.100 |
 | ministral-14b-2512 | 8.089 |
 | grok-4.20-multi-agent-experimental-beta-0304 | 8.078 |

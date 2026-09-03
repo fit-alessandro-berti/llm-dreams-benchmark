@@ -22,6 +22,7 @@ API_URL = "https://api.openai.com/v1/"
 #API_URL = "https://dashscope-intl.aliyuncs.com/compatible-mode/v1/"
 #API_URL = "https://api.anthropic.com/v1/"
 #API_URL = "https://integrate.api.nvidia.com/v1/"
+#API_URL = "https://api.compactif.ai/v1/"
 API_URL = "https://openrouter.ai/api/v1/"
 #API_URL = "https://api.perplexity.ai/"
 
@@ -231,7 +232,7 @@ def perform_query_openai_api(text, streaming_enabled=None):
     while not response_message:
         try:
             if streaming_enabled is None:
-                streaming_enabled = "alpha" not in MODEL_NAME and "seed" not in MODEL_NAME and "talkie" not in MODEL_NAME
+                streaming_enabled = "alpha" not in MODEL_NAME and "seed" not in MODEL_NAME and "talkie" not in MODEL_NAME and "quasar" not in MODEL_NAME
 
             if streaming_enabled:
                 payload["stream"] = True

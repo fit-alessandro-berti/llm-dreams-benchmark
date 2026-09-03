@@ -82,6 +82,7 @@
 | openaigpt-5.6-terra | 6.511 |
 | deepseekdeepseek-v4-flash | 6.500 |
 | moonshotaikimi-k2.5 | 6.489 |
+| quasar-438b | 6.467 |
 | grok-4-fast-reasoning | 6.456 |
 | baiduernie-4.5-21b-a3b | 6.444 |
 | anthropicclaude-sonnet-5 | 6.444 |

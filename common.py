@@ -3,7 +3,7 @@ from pathlib import Path
 
 from file_utils import read_file_with_fallback
 
-ANSWERING_MODEL_NAME = "google/gemini-3.8-flash"
+ANSWERING_MODEL_NAME = "quasar-438b"
 EVALUATING_MODEL_NAME = "gpt-5.2"
 
 

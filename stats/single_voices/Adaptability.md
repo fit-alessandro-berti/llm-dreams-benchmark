@@ -199,6 +199,7 @@
 | prime-intellectintellect-3 | 8.711 |
 | grok-4.20-multi-agent-experimental-beta-0304 | 8.711 |
 | llama213b | 8.711 |
+| quasar-438b | 8.700 |
 | liquidlfm-2.5-1.2b-thinkingfree | 8.700 |
 | mistral-medium-2508 | 8.689 |
 | qwenqwen3.8-27b | 8.689 |

@@ -95,6 +95,7 @@
 | o3-mini-20250131-HIGH | 9.622 |
 | openaigpt-5.3-codex | 9.622 |
 | openaigpt-5.6-sol | 9.622 |
+| quasar-438b | 9.622 |
 | qwenqwen3-max | 9.622 |
 | xiaomimimo-v2.5 | 9.622 |
 | googlegemini-3.7-flash | 9.611 |

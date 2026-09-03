@@ -74,6 +74,7 @@
 | openaigpt-5.6-luna | 6.233 |
 | gemini-2.0-pro-exp-02-05 | 6.233 |
 | falcon33b-instruct-q8_0 | 6.222 |
+| quasar-438b | 6.211 |
 | grok-4-0709 | 6.200 |
 | qwen3.54b | 6.189 |
 | ai21jamba-mini-1.7 | 6.167 |

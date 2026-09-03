@@ -167,6 +167,7 @@
 | inclusionailing-2.6-1tfree | 8.111 |
 | ministral-8b-2512 | 8.100 |
 | meituanlongcat-2.0 | 8.100 |
+| quasar-438b | 8.089 |
 | gemini-2.5-pro-exp-03-25 | 8.089 |
 | gemini-3-pro-preview | 8.089 |
 | gemma4e2b | 8.089 |

@@ -61,6 +61,7 @@
 | Gpt-5.1-Pro-20251120 | 7.222 |
 | grok-4.20-experimental-beta-0304-non-reasoning | 7.222 |
 | ministral-8b-2512 | 7.211 |
+| quasar-438b | 7.200 |
 | openaigpt-5.4 | 7.189 |
 | qwenqwen3.7-max | 7.189 |
 | openaigpt-5.6-luna | 7.178 |

@@ -83,6 +83,7 @@
 | z-aiglm-5.2 | 7.356 |
 | ai21jamba-large-1.7 | 7.300 |
 | deepseekdeepseek-v4-flash | 7.278 |
+| quasar-438b | 7.244 |
 | x-aigrok-4.5 | 7.244 |
 | allenaiolmo-3-7b-think | 7.233 |
 | GPT-5.6-Sol-Pro-20260825 | 7.233 |

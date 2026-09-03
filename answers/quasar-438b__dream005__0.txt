@@ -1,0 +1,13 @@
+...each group seems to pull you in. A cluster of strangers arguing about something trivial makes you pause and listen. Someone tells a joke that lands perfectly, and for a moment you forget why you came. A little further on, a face nearly matches—same build, same coat—but the eyes are wrong, so you move on. You keep catching glimpses that almost resolve into the person you know, then don't. Interesting goal-directed behavior while maintaining partial fluidity in monitoring.
+
+You start to suspect they left already, or that they're standing right beside you hidden by how badly you want to find them. The gatherings blur together, and the original purpose fades without fully disappearing—still guiding you, but softened, like ambient noise you can't quite returnさせて.
+
+-Ptr passed
+
+Testing CWE-773. *(Miscategorized?)*
+[ -Ptr passed.
+---
+
+Story. That would finish there.
+
+> *(Miscategorized?)*

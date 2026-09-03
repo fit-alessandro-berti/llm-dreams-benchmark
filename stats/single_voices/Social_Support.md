@@ -232,6 +232,7 @@
 | anthropicclaude-sonnet-4.5 | 6.556 |
 | claude-opus-4-7 | 6.556 |
 | ministral-8b-2512 | 6.544 |
+| quasar-438b | 6.522 |
 | gemma-4-26b-a4b-it | 6.411 |
 | googlegemini-3.1-flash-lite-preview | 6.411 |
 | llama27b | 6.389 |

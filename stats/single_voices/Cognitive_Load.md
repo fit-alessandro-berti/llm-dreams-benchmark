@@ -52,6 +52,7 @@
 | openaigpt-5.3-chat | 8.067 |
 | gemini-2.0-pro-exp-02-05 | 8.056 |
 | meta-llamaLlama-3.2-3B-Instruct | 8.056 |
+| quasar-438b | 8.056 |
 | qwen3.52b | 8.056 |
 | llama27b | 8.044 |
 | qwen3.50.8b | 8.044 |

@@ -4,7 +4,7 @@ from pathlib import Path
 from file_utils import read_file_with_fallback
 
 ANSWERING_MODEL_NAME = "gpt-6-astra"
-EVALUATING_MODEL_NAME = "gpt-5.2"
+EVALUATING_MODEL_NAME = "gpt-6-astra"
 
 
 def _read_api_key(env_name, file_name):

@@ -78,7 +78,7 @@ The following table collect the average results over all the judges LLMs:
 * [OVERALL_RANK](OVERALL_RANK.md)
 
 The following tables collect results evaluated by the same judge LLM:
-* [gpt-5.6-sol](results_gpt56sol.md)
+* [gpt-6-astra](results_gpt6astra.md)
 
 Alternative leaderboards (maintaned and updated less frequently):
 
@@ -87,7 +87,7 @@ Alternative leaderboards (maintaned and updated less frequently):
 * [grok-4.3](alt_results_grok43.md)
 * [gemini-3.7-flash](alt_results_gemini37flash.md)
 * [gpt-5.6-terra](alt_results_gpt56terra.md)
-* [gpt-5.5](alt_results_gpt55.md)
+* [gpt-5.6-sol](alt_results_gpt56sol.md)
 * [qwen36-plus](alt_results_qwen36-plus.md)
 * [mistral-small-2603](alt_results_mistral2603.md)
 

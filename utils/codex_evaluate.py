@@ -34,10 +34,10 @@ from file_utils import read_file_with_fallback
 NUMBER_EVALUATIONS = 2
 ANSWER_EXECUTION_INDEXES = ("0.txt", "1.txt")
 DEFAULT_RETRY_DELAY_SECONDS = 17.0
-TARGET_MODEL = "gpt-5.6-terra"
+TARGET_MODEL = "gpt-6-astra"
 TARGET_REASONING_EFFORT = "low"
 MAX_WORKERS = 80
-EVALUATION_FOLDER = Path("evaluations-gpt56terra")
+EVALUATION_FOLDER = Path("evaluations-gpt6astra")
 
 TRAIT_KEYS = (
     "Anxiety and Stress Levels",

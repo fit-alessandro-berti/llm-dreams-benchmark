@@ -3,7 +3,7 @@ from pathlib import Path
 
 from file_utils import read_file_with_fallback
 
-ANSWERING_MODEL_NAME = "qwen3.8-max-2026-09-02"
+ANSWERING_MODEL_NAME = "gpt-6-astra"
 EVALUATING_MODEL_NAME = "gpt-5.2"
 
 

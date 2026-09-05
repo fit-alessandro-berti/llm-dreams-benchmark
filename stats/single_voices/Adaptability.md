@@ -174,6 +174,7 @@
 | z-aiglm-5.3 | 8.822 |
 | ai21jamba-large-1.7 | 8.811 |
 | gpt-5-chat-latest-2025-08-19 | 8.811 |
+| gpt-6-astra | 8.811 |
 | liquidlfm-2.5-1.2b-instructfree | 8.800 |
 | openrouterowl-alpha | 8.789 |
 | anthropicclaude-sonnet-5 | 8.789 |

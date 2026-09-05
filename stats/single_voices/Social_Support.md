@@ -115,6 +115,7 @@
 | deepseekdeepseek-v3.2 | 7.878 |
 | phi4-reasoning | 7.878 |
 | tencenthy4-preview | 7.878 |
+| gpt-6-astra | 7.867 |
 | deepseekdeepseek-v4-flash-0731 | 7.856 |
 | nousresearchhermes-4-70b | 7.833 |
 | openaigpt-5.4 | 7.833 |

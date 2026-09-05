@@ -133,6 +133,7 @@
 | gemini-3.6-flash | 7.467 |
 | googlegemini-3.1-flash-lite-preview | 7.467 |
 | gpt-4.1-nano-2025-04-14 | 7.456 |
+| gpt-6-astra | 7.456 |
 | gemini-2.5-pro-preview-06-05 | 7.456 |
 | o1-2024-12-05 | 7.456 |
 | phi3.53.8b-mini-instruct-fp16 | 7.444 |

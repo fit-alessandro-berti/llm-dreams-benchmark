@@ -104,6 +104,7 @@
 | openrouterowl-alpha | 7.044 |
 | anthropicclaude-opus-4.1 | 7.022 |
 | claude-opus-4-8 | 7.011 |
+| gpt-6-astra | 7.011 |
 | claude-3-7-sonnet-20250219 | 7.011 |
 | gemini-3.6-flash | 6.978 |
 | gemma-4-26b-a4b-it | 6.978 |

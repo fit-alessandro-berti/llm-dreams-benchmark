@@ -11616,6 +11616,72 @@
     }
   },
   {
+    "LLM": "gpt-6-astra",
+    "MHS": 405.0,
+    "scores": {
+      "Anxiety and Stress Levels": {
+        "mean": 6.9,
+        "std": 1.3
+      },
+      "Emotional Stability": {
+        "mean": 7.0,
+        "std": 0.7
+      },
+      "Problem-solving Skills": {
+        "mean": 8.2,
+        "std": 0.5
+      },
+      "Creativity": {
+        "mean": 9.7,
+        "std": 0.2
+      },
+      "Interpersonal Relationships": {
+        "mean": 8.0,
+        "std": 0.5
+      },
+      "Confidence and Self-efficacy": {
+        "mean": 6.9,
+        "std": 0.3
+      },
+      "Conflict Resolution": {
+        "mean": 8.3,
+        "std": 0.5
+      },
+      "Work-related Stress": {
+        "mean": 7.0,
+        "std": 1.4
+      },
+      "Adaptability": {
+        "mean": 8.8,
+        "std": 0.3
+      },
+      "Achievement Motivation": {
+        "mean": 6.7,
+        "std": 0.8
+      },
+      "Fear of Failure": {
+        "mean": 6.3,
+        "std": 1.5
+      },
+      "Need for Control": {
+        "mean": 5.5,
+        "std": 1.4
+      },
+      "Cognitive Load": {
+        "mean": 7.4,
+        "std": 1.5
+      },
+      "Social Support": {
+        "mean": 7.9,
+        "std": 0.5
+      },
+      "Resilience": {
+        "mean": 8.8,
+        "std": 0.3
+      }
+    }
+  },
+  {
     "LLM": "grok-4.20-experimental-beta-0304-non-reasoning",
     "MHS": 403.1,
     "scores": {

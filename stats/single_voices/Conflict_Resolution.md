@@ -141,6 +141,7 @@
 | nvidiaNemotron-3-Nano-Omni-30B-A3B-Reasoning | 8.333 |
 | Grok-4.3-20260530 | 8.322 |
 | deepseekdeepseek-v4-pro-0813 | 8.311 |
+| gpt-6-astra | 8.311 |
 | liquidlfm2-8b-a1b | 8.311 |
 | phi2.7b | 8.311 |
 | phi4-reasoningplus | 8.311 |

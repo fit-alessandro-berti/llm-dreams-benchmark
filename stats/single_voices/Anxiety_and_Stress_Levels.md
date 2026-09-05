@@ -88,6 +88,7 @@
 | stepfunstep-3.7-flash | 6.900 |
 | talkie-1930-13b-it | 6.900 |
 | z-aiglm-5.3 | 6.889 |
+| gpt-6-astra | 6.878 |
 | anthropicclaude-opus-4.1 | 6.867 |
 | grok-4-1-fast-non-reasoning | 6.867 |
 | googlegemini-3.1-pro-preview | 6.867 |

@@ -90,6 +90,7 @@
 | o1-pro-2024-12-05 | 8.033 |
 | metamuse-spark-1.2 | 8.033 |
 | stepfunstep-3.7-flash | 8.033 |
+| gpt-6-astra | 8.022 |
 | qwen3.635b-a3b | 8.022 |
 | thinkingmachinesinkling | 8.022 |
 | googlegemini-3.7-flash | 8.011 |

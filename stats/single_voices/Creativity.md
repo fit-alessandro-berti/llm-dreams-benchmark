@@ -53,6 +53,7 @@
 | qwenqwen3.8-max | 9.678 |
 | anthropicclaude-opus-4.6 | 9.678 |
 | deepseekdeepseek-v4-flash-0731 | 9.678 |
+| gpt-6-astra | 9.678 |
 | meituanlongcat-2.0 | 9.678 |
 | qwenqwen3.8-2.4t-a95b | 9.678 |
 | x-aigrok-4.5 | 9.678 |

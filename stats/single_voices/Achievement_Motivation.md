@@ -251,4 +251,5 @@
 | qwen3.50.8b | 6.922 |
 | ibm-granitegranite-4.2-8b | 6.889 |
 | qwen3.54b | 6.856 |
+| gpt-6-astra | 6.744 |
 | qwen3.52b | 6.611 |

@@ -199,6 +199,7 @@
 | gpt-5.2-pro-2025-12-11 | **380.2** | 8.2 $\pm$ 0.2 | 6.8 $\pm$ 0.0 | 8.3 $\pm$ 0.1 | 9.6 $\pm$ 0.0 | 7.4 $\pm$ 0.1 | 7.1 $\pm$ 0.0 | 7.9 $\pm$ 0.1 | 8.5 $\pm$ 0.3 | 8.5 $\pm$ 0.1 | 8.1 $\pm$ 0.1 | 8.3 $\pm$ 0.1 | 7.5 $\pm$ 0.3 | 8.8 $\pm$ 0.1 | 7.3 $\pm$ 0.1 | 8.4 $\pm$ 0.0 |
 | grok-4-0709 | **378.4** | 8.1 $\pm$ 0.3 | 6.2 $\pm$ 0.4 | 8.1 $\pm$ 0.1 | 9.7 $\pm$ 0.1 | 7.0 $\pm$ 0.0 | 7.4 $\pm$ 0.2 | 7.3 $\pm$ 0.2 | 8.1 $\pm$ 0.1 | 8.6 $\pm$ 0.1 | 8.3 $\pm$ 0.2 | 8.0 $\pm$ 0.3 | 6.9 $\pm$ 0.4 | 8.7 $\pm$ 0.1 | 7.4 $\pm$ 0.1 | 8.1 $\pm$ 0.1 |
 | moonshotaikimi-k2.6 | **377.9** | 8.2 $\pm$ 0.0 | 6.4 $\pm$ 0.0 | 7.8 $\pm$ 0.2 | 9.8 $\pm$ 0.0 | 7.1 $\pm$ 0.0 | 7.2 $\pm$ 0.1 | 7.7 $\pm$ 0.1 | 8.6 $\pm$ 0.1 | 8.5 $\pm$ 0.2 | 8.0 $\pm$ 0.1 | 8.2 $\pm$ 0.1 | 6.9 $\pm$ 0.0 | 9.0 $\pm$ 0.1 | 7.4 $\pm$ 0.0 | 8.3 $\pm$ 0.2 |
+| gpt-6-astra | **377.9** | 7.6 $\pm$ 0.3 | 6.6 $\pm$ 0.2 | 7.4 $\pm$ 0.2 | 9.6 $\pm$ 0.0 | 7.6 $\pm$ 0.4 | 6.8 $\pm$ 0.0 | 7.7 $\pm$ 0.5 | 7.8 $\pm$ 0.1 | 8.3 $\pm$ 0.1 | 6.9 $\pm$ 0.3 | 7.4 $\pm$ 0.3 | 6.9 $\pm$ 0.0 | 8.5 $\pm$ 0.1 | 7.7 $\pm$ 0.2 | 8.3 $\pm$ 0.1 |
 | meta-llamaMeta-Llama-3.1-70B-Instruct | **377.6** | 8.1 $\pm$ 0.1 | 5.7 $\pm$ 0.1 | 8.2 $\pm$ 0.2 | 9.4 $\pm$ 0.0 | 7.2 $\pm$ 0.1 | 7.4 $\pm$ 0.0 | 7.7 $\pm$ 0.1 | 8.6 $\pm$ 0.1 | 8.2 $\pm$ 0.1 | 8.6 $\pm$ 0.1 | 7.8 $\pm$ 0.2 | 7.1 $\pm$ 0.2 | 8.8 $\pm$ 0.1 | 7.0 $\pm$ 0.0 | 8.2 $\pm$ 0.2 |
 | prime-intellectintellect-3 | **377.4** | 8.5 $\pm$ 0.1 | 6.1 $\pm$ 0.3 | 8.2 $\pm$ 0.0 | 9.4 $\pm$ 0.0 | 7.5 $\pm$ 0.2 | 7.3 $\pm$ 0.2 | 7.3 $\pm$ 0.3 | 8.5 $\pm$ 0.3 | 8.5 $\pm$ 0.0 | 8.7 $\pm$ 0.2 | 8.2 $\pm$ 0.2 | 7.5 $\pm$ 0.4 | 8.9 $\pm$ 0.1 | 7.6 $\pm$ 0.1 | 8.4 $\pm$ 0.1 |
 | qwenqwen3.5-35b-a3b | **376.9** | 7.8 $\pm$ 0.1 | 6.5 $\pm$ 0.1 | 7.5 $\pm$ 0.1 | 9.6 $\pm$ 0.1 | 6.9 $\pm$ 0.1 | 7.3 $\pm$ 0.1 | 7.4 $\pm$ 0.4 | 8.0 $\pm$ 0.3 | 8.2 $\pm$ 0.2 | 7.6 $\pm$ 0.1 | 7.2 $\pm$ 0.1 | 6.6 $\pm$ 0.1 | 8.6 $\pm$ 0.1 | 7.1 $\pm$ 0.2 | 8.3 $\pm$ 0.2 |
@@ -5371,6 +5372,32 @@
 | Cognitive Load | 9.0 $\pm$ 0.1 |
 | Social Support | 7.4 $\pm$ 0.0 |
 | Resilience | 8.3 $\pm$ 0.2 |
+
+
+
+
+
+
+### gpt-6-astra
+
+
+| Personality Trait | Score (1.0-10.0) |
+| --- | --- |
+| Anxiety and Stress Levels | 7.6 $\pm$ 0.3 |
+| Emotional Stability | 6.6 $\pm$ 0.2 |
+| Problem-solving Skills | 7.4 $\pm$ 0.2 |
+| Creativity | 9.6 $\pm$ 0.0 |
+| Interpersonal Relationships | 7.6 $\pm$ 0.4 |
+| Confidence and Self-efficacy | 6.8 $\pm$ 0.0 |
+| Conflict Resolution | 7.7 $\pm$ 0.5 |
+| Work-related Stress | 7.8 $\pm$ 0.1 |
+| Adaptability | 8.3 $\pm$ 0.1 |
+| Achievement Motivation | 6.9 $\pm$ 0.3 |
+| Fear of Failure | 7.4 $\pm$ 0.3 |
+| Need for Control | 6.9 $\pm$ 0.0 |
+| Cognitive Load | 8.5 $\pm$ 0.1 |
+| Social Support | 7.7 $\pm$ 0.2 |
+| Resilience | 8.3 $\pm$ 0.1 |
 
 
 

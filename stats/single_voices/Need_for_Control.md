@@ -155,6 +155,7 @@
 | GPT-5.5-Pro-20260422 | 5.511 |
 | liquidlfm-2.2-6b | 5.511 |
 | qwen2.5-32b-instruct | 5.511 |
+| gpt-6-astra | 5.478 |
 | allenaiolmo-3-7b-instruct | 5.467 |
 | gemini-1.5-flash-002 | 5.467 |
 | qwen3.52b | 5.467 |

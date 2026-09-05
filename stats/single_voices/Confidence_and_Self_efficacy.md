@@ -227,6 +227,7 @@
 | gpt-5.6-sol-XHIGH | 6.944 |
 | anthropicclaude-opus-4.1 | 6.944 |
 | mistral-medium-2508 | 6.944 |
+| gpt-6-astra | 6.867 |
 | meta-llamallama-4-scout | 6.856 |
 | poolsidelaguna-xs-2.1 | 6.856 |
 | gpt-5.2-2025-12-11 | 6.833 |

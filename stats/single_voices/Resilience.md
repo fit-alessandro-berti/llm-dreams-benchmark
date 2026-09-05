@@ -161,6 +161,7 @@
 | deepseekdeepseek-v4-flash | 8.778 |
 | moonshotaikimi-k2.5 | 8.778 |
 | falcon33b-instruct-q8_0 | 8.767 |
+| gpt-6-astra | 8.767 |
 | ministral-3b-2410 | 8.756 |
 | phi2.7b | 8.756 |
 | Gpt-5.1-Pro-20251120 | 8.756 |

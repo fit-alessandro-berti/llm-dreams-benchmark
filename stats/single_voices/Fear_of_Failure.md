@@ -98,6 +98,7 @@
 | gemini-2.5-pro-preview-06-05 | 6.322 |
 | nousresearchhermes-4-70b | 6.311 |
 | qwenqwen3-30b-a3b-instruct-2507 | 6.300 |
+| gpt-6-astra | 6.300 |
 | anthropicclaude-opus-5 | 6.289 |
 | gpt-4-1106-preview | 6.278 |
 | openaigpt-5.6-sol | 6.267 |

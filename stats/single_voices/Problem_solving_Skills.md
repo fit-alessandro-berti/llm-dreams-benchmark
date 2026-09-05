@@ -204,6 +204,7 @@
 | openaigpt-5.6-terra | 8.189 |
 | meta-llamallama-4-scout | 8.189 |
 | inceptionmercury-2.5-preview | 8.178 |
+| gpt-6-astra | 8.167 |
 | z-aiglm-5 | 8.156 |
 | ministral-8b-2512 | 8.144 |
 | anthropicclaude-sonnet-5 | 8.144 |

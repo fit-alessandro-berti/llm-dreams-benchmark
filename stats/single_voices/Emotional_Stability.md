@@ -165,6 +165,7 @@
 | ai21jamba-large-1.7 | 7.067 |
 | googlegemini-3.1-pro-preview | 7.067 |
 | openaigpt-5.4 | 7.044 |
+| gpt-6-astra | 7.033 |
 | moonshotaikimi-k3 | 7.033 |
 | openaigpt-5.4-nano | 7.033 |
 | gemini-3.5-flash-lite | 7.011 |

@@ -7,6 +7,7 @@
 | mistral-small-2603 | 7.233 |
 | gpt-5.2-2025-12-11 | 7.222 |
 | z-aiglm-5v-turbo | 7.189 |
+| Grok-4.6-Heavy | 7.078 |
 | ibmgranite41b-h | 7.067 |
 | meta-llamallama-4-maverick | 7.033 |
 | llama27b | 7.011 |

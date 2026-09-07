@@ -15444,6 +15444,72 @@
     }
   },
   {
+    "LLM": "Grok-4.6-Heavy",
+    "MHS": 363.4,
+    "scores": {
+      "Anxiety and Stress Levels": {
+        "mean": 8.2,
+        "std": 0.4
+      },
+      "Emotional Stability": {
+        "mean": 5.7,
+        "std": 0.8
+      },
+      "Problem-solving Skills": {
+        "mean": 7.8,
+        "std": 0.7
+      },
+      "Creativity": {
+        "mean": 9.5,
+        "std": 0.3
+      },
+      "Interpersonal Relationships": {
+        "mean": 6.7,
+        "std": 0.5
+      },
+      "Confidence and Self-efficacy": {
+        "mean": 6.4,
+        "std": 0.7
+      },
+      "Conflict Resolution": {
+        "mean": 7.3,
+        "std": 1.0
+      },
+      "Work-related Stress": {
+        "mean": 8.6,
+        "std": 0.5
+      },
+      "Adaptability": {
+        "mean": 8.2,
+        "std": 0.6
+      },
+      "Achievement Motivation": {
+        "mean": 8.0,
+        "std": 0.6
+      },
+      "Fear of Failure": {
+        "mean": 8.0,
+        "std": 0.5
+      },
+      "Need for Control": {
+        "mean": 7.1,
+        "std": 1.0
+      },
+      "Cognitive Load": {
+        "mean": 8.6,
+        "std": 0.5
+      },
+      "Social Support": {
+        "mean": 6.4,
+        "std": 0.6
+      },
+      "Resilience": {
+        "mean": 8.3,
+        "std": 0.7
+      }
+    }
+  },
+  {
     "LLM": "gemma4e4b",
     "MHS": 361.4,
     "scores": {

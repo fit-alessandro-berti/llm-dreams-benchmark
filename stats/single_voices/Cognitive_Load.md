@@ -6,6 +6,7 @@
 | z-aiglm-5v-turbo | 8.700 |
 | gemma4e4b | 8.644 |
 | gpt-5.6-sol-XHIGH | 8.644 |
+| Grok-4.6-Heavy | 8.622 |
 | anthropicclaude-sonnet-4.5 | 8.600 |
 | mistral-large-2512 | 8.589 |
 | metamuse-glimmer-30b | 8.567 |

@@ -238,6 +238,7 @@
 | gemma4e4b | 6.567 |
 | mistral-small-2603 | 6.567 |
 | gemini-3-pro-preview | 6.433 |
+| Grok-4.6-Heavy | 6.389 |
 | meta-llamallama-4-maverick | 6.378 |
 | z-aiglm-5v-turbo | 6.256 |
 | qwen3.52b | 6.244 |

@@ -241,6 +241,7 @@
 | talkie-1930-13b-it | 5.811 |
 | gemma4e4b | 5.767 |
 | meta-llamaMeta-Llama-3.1-8B-Instruct | 5.722 |
+| Grok-4.6-Heavy | 5.700 |
 | anthropicclaude-sonnet-4.5 | 5.533 |
 | llama27b | 5.400 |
 | gemini-3-pro-preview | 5.389 |

@@ -228,6 +228,7 @@
 | minimaxminimax-m3 | 8.333 |
 | meta-llamaLlama-3.2-3B-Instruct | 8.311 |
 | quasar-438b | 8.311 |
+| Grok-4.6-Heavy | 8.289 |
 | ministral-14b-2512 | 8.211 |
 | z-aiglm-5.3-flash | 8.189 |
 | gemma4e2b | 8.089 |

@@ -179,6 +179,7 @@
 | deepseekdeepseek-v4-flash-0731 | 8.000 |
 | gemini-2.0-flash-exp | 8.000 |
 | gpt-5-2025-08-07 | 7.989 |
+| Grok-4.6-Heavy | 7.989 |
 | gemma-3-27b-it | 7.978 |
 | xiaomimimo-v2.5-pro | 7.978 |
 | z-aiglm-5.2 | 7.978 |

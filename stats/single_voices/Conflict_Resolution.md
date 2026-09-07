@@ -210,6 +210,7 @@
 | falcon37b-instruct-q8_0 | 7.300 |
 | googlegemini-3.1-flash-lite-preview | 7.300 |
 | openaigpt-5.3-chat | 7.289 |
+| Grok-4.6-Heavy | 7.278 |
 | ibmgranite41b-h | 7.233 |
 | anthropicclaude-sonnet-5 | 7.211 |
 | gemini-2.5-pro-exp-03-25 | 7.189 |

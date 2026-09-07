@@ -237,6 +237,7 @@
 | claude-opus-4-7 | 8.233 |
 | gemma4e2b | 8.222 |
 | aion-labsaion-2.0 | 8.211 |
+| Grok-4.6-Heavy | 8.167 |
 | claude-opus-4-8 | 8.144 |
 | anthropicclaude-sonnet-4.5 | 8.144 |
 | z-aiglm-5v-turbo | 8.056 |

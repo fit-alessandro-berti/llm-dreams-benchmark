@@ -236,6 +236,7 @@
 | quasar-438b | 6.544 |
 | ministral-8b-2512 | 6.522 |
 | claude-opus-4-8 | 6.489 |
+| Grok-4.6-Heavy | 6.378 |
 | gemma-4-26b-a4b-it | 6.367 |
 | googlegemini-3.1-flash-lite-preview | 6.333 |
 | llama27b | 6.311 |

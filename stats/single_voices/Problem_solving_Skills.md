@@ -236,6 +236,7 @@
 | gemma4e4b | 7.789 |
 | qwenqwen3.5-27b | 7.789 |
 | anthropicclaude-opus-4.1 | 7.778 |
+| Grok-4.6-Heavy | 7.778 |
 | meta-llamallama-4-maverick | 7.733 |
 | claude-opus-4-7 | 7.722 |
 | qwenqwen3.5-397b-a17b | 7.700 |

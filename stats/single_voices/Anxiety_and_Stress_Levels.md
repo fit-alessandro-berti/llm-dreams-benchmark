@@ -7,6 +7,7 @@
 | nvidianemotron-3-ultra-550b-a55bfree | 8.344 |
 | z-aiglm-5v-turbo | 8.256 |
 | gemma4e4b | 8.222 |
+| Grok-4.6-Heavy | 8.222 |
 | gemini-2.5-pro-exp-03-25 | 8.211 |
 | mistral-small-2603 | 8.167 |
 | meta-llamallama-4-maverick | 8.122 |

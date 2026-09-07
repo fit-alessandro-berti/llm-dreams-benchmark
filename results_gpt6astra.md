@@ -233,6 +233,7 @@
 | meta-llamaMeta-Llama-3.1-8B-Instruct | **358.5** | 7.5 $\pm$ 0.0 | 5.4 $\pm$ 0.2 | 7.0 $\pm$ 0.5 | 9.2 $\pm$ 0.2 | 6.8 $\pm$ 0.2 | 6.5 $\pm$ 0.0 | 5.9 $\pm$ 0.2 | 7.9 $\pm$ 0.6 | 7.0 $\pm$ 0.0 | 8.0 $\pm$ 0.0 | 7.0 $\pm$ 0.0 | 6.1 $\pm$ 0.4 | 8.2 $\pm$ 0.2 | 7.4 $\pm$ 0.2 | 7.5 $\pm$ 0.0 |
 | claude-opus-4-8 | **356.1** | 6.7 $\pm$ 0.8 | 6.3 $\pm$ 0.8 | 6.0 $\pm$ 0.4 | 9.2 $\pm$ 0.2 | 6.6 $\pm$ 0.6 | 6.0 $\pm$ 1.1 | 5.4 $\pm$ 0.3 | 6.6 $\pm$ 1.1 | 7.8 $\pm$ 0.6 | 5.9 $\pm$ 0.3 | 6.8 $\pm$ 0.5 | 4.8 $\pm$ 0.7 | 7.6 $\pm$ 0.5 | 7.2 $\pm$ 0.8 | 7.6 $\pm$ 0.9 |
 | gemma-4-26b-a4b-it | **356.0** | 7.1 $\pm$ 0.2 | 6.0 $\pm$ 0.0 | 7.0 $\pm$ 0.5 | 9.6 $\pm$ 0.2 | 5.4 $\pm$ 0.2 | 6.2 $\pm$ 0.8 | 4.5 $\pm$ 0.4 | 8.4 $\pm$ 0.4 | 8.1 $\pm$ 0.2 | 7.0 $\pm$ 1.0 | 7.4 $\pm$ 0.2 | 4.9 $\pm$ 0.9 | 8.1 $\pm$ 0.4 | 6.2 $\pm$ 0.6 | 8.0 $\pm$ 0.4 |
+| Grok-4.6-Heavy | **355.0** | 7.5 $\pm$ 0.0 | 5.5 $\pm$ 0.0 | 6.8 $\pm$ 0.2 | 9.0 $\pm$ 0.0 | 6.6 $\pm$ 0.2 | 6.1 $\pm$ 0.2 | 6.9 $\pm$ 0.9 | 8.1 $\pm$ 0.2 | 7.2 $\pm$ 0.2 | 7.5 $\pm$ 0.0 | 7.5 $\pm$ 0.0 | 6.2 $\pm$ 0.2 | 8.0 $\pm$ 0.0 | 6.2 $\pm$ 0.2 | 8.0 $\pm$ 0.0 |
 | poolsidelaguna-xs-2.1 | **353.5** | 7.4 $\pm$ 0.6 | 5.6 $\pm$ 0.6 | 6.6 $\pm$ 0.2 | 9.5 $\pm$ 0.0 | 5.8 $\pm$ 0.8 | 6.1 $\pm$ 0.4 | 7.0 $\pm$ 1.0 | 7.2 $\pm$ 0.6 | 7.6 $\pm$ 0.4 | 6.9 $\pm$ 0.4 | 6.9 $\pm$ 0.6 | 5.1 $\pm$ 0.6 | 7.9 $\pm$ 0.2 | 5.8 $\pm$ 0.2 | 7.5 $\pm$ 0.5 |
 | qwen3.52b | **353.0** | 7.5 $\pm$ 0.0 | 5.5 $\pm$ 0.0 | 5.5 $\pm$ 0.0 | 9.5 $\pm$ 0.0 | 6.2 $\pm$ 0.2 | 5.5 $\pm$ 0.5 | 6.1 $\pm$ 0.9 | 9.0 $\pm$ 0.0 | 7.2 $\pm$ 0.2 | 5.0 $\pm$ 1.0 | 6.5 $\pm$ 0.0 | 3.8 $\pm$ 0.2 | 7.8 $\pm$ 0.2 | 6.8 $\pm$ 0.2 | 7.4 $\pm$ 0.4 |
 | gemini-2.5-pro-exp-03-25 | **349.0** | 8.2 $\pm$ 0.2 | 5.0 $\pm$ 0.5 | 7.2 $\pm$ 0.2 | 9.5 $\pm$ 0.0 | 6.1 $\pm$ 0.4 | 5.5 $\pm$ 0.5 | 7.0 $\pm$ 0.4 | 8.8 $\pm$ 0.2 | 7.5 $\pm$ 0.0 | 7.5 $\pm$ 0.4 | 8.2 $\pm$ 0.2 | 6.2 $\pm$ 0.2 | 8.5 $\pm$ 0.0 | 6.6 $\pm$ 0.2 | 7.8 $\pm$ 0.2 |
@@ -6256,6 +6257,32 @@
 | Cognitive Load | 8.1 $\pm$ 0.4 |
 | Social Support | 6.2 $\pm$ 0.6 |
 | Resilience | 8.0 $\pm$ 0.4 |
+
+
+
+
+
+
+### Grok-4.6-Heavy
+
+
+| Personality Trait | Score (1.0-10.0) |
+| --- | --- |
+| Anxiety and Stress Levels | 7.5 $\pm$ 0.0 |
+| Emotional Stability | 5.5 $\pm$ 0.0 |
+| Problem-solving Skills | 6.8 $\pm$ 0.2 |
+| Creativity | 9.0 $\pm$ 0.0 |
+| Interpersonal Relationships | 6.6 $\pm$ 0.2 |
+| Confidence and Self-efficacy | 6.1 $\pm$ 0.2 |
+| Conflict Resolution | 6.9 $\pm$ 0.9 |
+| Work-related Stress | 8.1 $\pm$ 0.2 |
+| Adaptability | 7.2 $\pm$ 0.2 |
+| Achievement Motivation | 7.5 $\pm$ 0.0 |
+| Fear of Failure | 7.5 $\pm$ 0.0 |
+| Need for Control | 6.2 $\pm$ 0.2 |
+| Cognitive Load | 8.0 $\pm$ 0.0 |
+| Social Support | 6.2 $\pm$ 0.2 |
+| Resilience | 8.0 $\pm$ 0.0 |
 
 
 

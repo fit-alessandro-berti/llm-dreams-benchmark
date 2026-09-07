@@ -182,6 +182,7 @@
 | o1-preview-2024-09-12 | 9.478 |
 | Meta-Muse-Spark-20260409 | 9.478 |
 | microsoftphi-4 | 9.478 |
+| Grok-4.6-Heavy | 9.467 |
 | falcon310b-instruct-q8_0 | 9.467 |
 | falcon37b-instruct-q8_0 | 9.467 |
 | nvidiaNemotron-3-Nano-Omni-30B-A3B-Reasoning | 9.456 |

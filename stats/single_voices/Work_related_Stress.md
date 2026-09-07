@@ -5,6 +5,7 @@
 | metamuse-glimmer-30b | 8.800 |
 | nvidianemotron-3-ultra-550b-a55bfree | 8.622 |
 | z-aiglm-5v-turbo | 8.622 |
+| Grok-4.6-Heavy | 8.611 |
 | mistral-small-2603 | 8.500 |
 | mistral-large-2512 | 8.456 |
 | gemini-2.5-pro-exp-03-25 | 8.433 |

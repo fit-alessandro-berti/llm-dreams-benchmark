@@ -10,6 +10,7 @@
 | gemini-3-pro-preview | 8.011 |
 | meta-llamallama-4-maverick | 7.989 |
 | gemini-2.5-pro-exp-03-25 | 7.967 |
+| Grok-4.6-Heavy | 7.956 |
 | gemma4e2b | 7.878 |
 | z-aiglm-5.3-flash | 7.867 |
 | gemma4e4b | 7.844 |

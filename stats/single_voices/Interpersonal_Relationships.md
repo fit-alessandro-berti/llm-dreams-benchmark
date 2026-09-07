@@ -227,6 +227,7 @@
 | deepseekdeepseek-v3.2-speciale | 6.844 |
 | meta-llamaMeta-Llama-3.1-8B-Instruct | 6.811 |
 | z-aiglm-5.1 | 6.800 |
+| Grok-4.6-Heavy | 6.689 |
 | gemma4e2b | 6.589 |
 | ministral-8b-2512 | 6.544 |
 | qwenqwen3.5-397b-a17b | 6.489 |

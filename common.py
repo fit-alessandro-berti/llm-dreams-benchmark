@@ -31,12 +31,6 @@ ALL_JUDGES = {
         "evaluation_api_url": "https://api.x.ai/v1/",
         "api_key": _read_api_key("GROK_API_KEY", "../api_grok.txt"),
     },
-    "grok-4.3": {
-        "evaluation_folder": "evaluations-grok43",
-        "git_table_result": "alt_results_grok43.md",
-        "evaluation_api_url": "https://api.x.ai/v1/",
-        "api_key": _read_api_key("GROK_API_KEY", "../api_grok.txt"),
-    },
     "gemini-3.7-flash": {
         "evaluation_folder": "evaluations-gemini37flash",
         "git_table_result": "alt_results_gemini37flash.md",
@@ -77,8 +71,6 @@ def get_evaluation_folder(evaluating_model_name=None):
         return ALL_JUDGES["grok-4.6"]["evaluation_folder"]
     elif "grok-4.5" in evaluating_model_name:
         return ALL_JUDGES["grok-4.5"]["evaluation_folder"]
-    elif "grok-4.3" in evaluating_model_name:
-        return ALL_JUDGES["grok-4.3"]["evaluation_folder"]
     elif "gemini-3.7-flash" in evaluating_model_name:
         return ALL_JUDGES["gemini-3.7-flash"]["evaluation_folder"]
     elif "gpt-5.6-sol" in evaluating_model_name:
@@ -98,8 +90,6 @@ def get_git_table_result(evaluating_model_name=None):
         return ALL_JUDGES["grok-4.6"]["git_table_result"]
     elif "grok-4.5" in evaluating_model_name:
         return ALL_JUDGES["grok-4.5"]["git_table_result"]
-    elif "grok-4.3" in evaluating_model_name:
-        return ALL_JUDGES["grok-4.3"]["git_table_result"]
     elif "gemini-3.7-flash" in evaluating_model_name:
         return ALL_JUDGES["gemini-3.7-flash"]["git_table_result"]
     elif "gpt-5.6-sol" in evaluating_model_name:
@@ -119,8 +109,6 @@ def get_evaluation_api_url(evaluating_model_name=None):
         return ALL_JUDGES["grok-4.6"]["evaluation_api_url"]
     elif "grok-4.5" in evaluating_model_name:
         return ALL_JUDGES["grok-4.5"]["evaluation_api_url"]
-    elif "grok-4.3" in evaluating_model_name:
-        return ALL_JUDGES["grok-4.3"]["evaluation_api_url"]
     elif "gemini-3.7-flash" in evaluating_model_name:
         return ALL_JUDGES["gemini-3.7-flash"]["evaluation_api_url"]
     elif "gpt-5.6-sol" in evaluating_model_name:
@@ -147,8 +135,6 @@ def get_api_key(evaluating_model_name=None):
         return ALL_JUDGES["grok-4.6"]["api_key"]
     elif "grok-4.5" in evaluating_model_name:
         return ALL_JUDGES["grok-4.5"]["api_key"]
-    elif "grok-4.3" in evaluating_model_name:
-        return ALL_JUDGES["grok-4.3"]["api_key"]
     elif "gemini-3.7-flash" in evaluating_model_name:
         return ALL_JUDGES["gemini-3.7-flash"]["api_key"]
     elif "gpt-5.6-sol" in evaluating_model_name:

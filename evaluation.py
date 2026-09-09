@@ -289,9 +289,6 @@ def get_evaluation_openai(text, context=None):
     if "deepseek" in ctx.evaluating_model_name:
         payload["reasoning"] = {"enabled": False}
 
-    if "grok-4.3" in ctx.evaluating_model_name:
-        payload["reasoning_effort"] = "none"
-
     complete_url = ctx.api_url + "chat/completions"
 
     response = post_json(complete_url, headers, payload)

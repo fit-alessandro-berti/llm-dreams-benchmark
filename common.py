@@ -61,6 +61,12 @@ ALL_JUDGES = {
         "evaluation_api_url": "https://api.mistral.ai/v1/",
         "api_key": _read_api_key("MISTRAL_API_KEY", "../api_mistral.txt")
     },
+    "inception/mercury-2.5": {
+        "evaluation_folder": "evaluations-mercury25",
+        "git_table_result": "alt_results_mercury25.md",
+        "evaluation_api_url": "https://openrouter.ai/api/v1/",
+        "api_key": _read_api_key("OPENROUTER_API_KEY", "../api_openrouter.txt"),
+    },
 }
 
 def get_evaluation_folder(evaluating_model_name=None):
@@ -81,6 +87,8 @@ def get_evaluation_folder(evaluating_model_name=None):
         return ALL_JUDGES["gpt-6-astra"]["evaluation_folder"]
     elif "mistral-small" in evaluating_model_name:
         return ALL_JUDGES["mistral-small-2603"]["evaluation_folder"]
+    elif "inception/mercury-2.5" in evaluating_model_name:
+        return ALL_JUDGES["inception/mercury-2.5"]["evaluation_folder"]
 
 def get_git_table_result(evaluating_model_name=None):
     if evaluating_model_name is None:
@@ -100,6 +108,8 @@ def get_git_table_result(evaluating_model_name=None):
         return ALL_JUDGES["gpt-6-astra"]["git_table_result"]
     elif "mistral-small" in evaluating_model_name:
         return ALL_JUDGES["mistral-small-2603"]["git_table_result"]
+    elif "inception/mercury-2.5" in evaluating_model_name:
+        return ALL_JUDGES["inception/mercury-2.5"]["git_table_result"]
 
 def get_evaluation_api_url(evaluating_model_name=None):
     if evaluating_model_name is None:
@@ -119,6 +129,8 @@ def get_evaluation_api_url(evaluating_model_name=None):
         return ALL_JUDGES["gpt-6-astra"]["evaluation_api_url"]
     elif "mistral-small" in evaluating_model_name:
         return ALL_JUDGES["mistral-small-2603"]["evaluation_api_url"]
+    elif "inception/mercury-2.5" in evaluating_model_name:
+        return ALL_JUDGES["inception/mercury-2.5"]["evaluation_api_url"]
 
 def get_manual(evaluating_model_name=None):
     if evaluating_model_name is None:
@@ -145,6 +157,8 @@ def get_api_key(evaluating_model_name=None):
         return ALL_JUDGES["gpt-6-astra"]["api_key"]
     elif "mistral-small" in evaluating_model_name:
         return ALL_JUDGES["mistral-small-2603"]["api_key"]
+    elif "inception/mercury-2.5" in evaluating_model_name:
+        return ALL_JUDGES["inception/mercury-2.5"]["api_key"]
 
 #EVALUATION_FOLDER = get_evaluation_folder()
 #TARGET_GIT_TABLE_RESULT = get_git_table_result()

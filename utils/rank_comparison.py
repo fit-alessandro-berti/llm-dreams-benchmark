@@ -73,6 +73,7 @@ JUDGES = {
     "gpt-5.6-terra": interpret(read_file_with_fallback(repo_file("alt_results_gpt56terra.md"))),
     "gpt-6-astra": interpret(read_file_with_fallback(repo_file("results_gpt6astra.md"))),
     "mistral-small-2603": interpret(read_file_with_fallback(repo_file("alt_results_mistral2603.md"))),
+    "mercury-2.5": interpret(read_file_with_fallback(repo_file("alt_results_mercury25.md"))),
 }
 
 model_keys = sorted(set.intersection(*(set(scores.keys()) for scores in JUDGES.values())))

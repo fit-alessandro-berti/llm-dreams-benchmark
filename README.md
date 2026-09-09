@@ -88,6 +88,7 @@ Alternative leaderboards (maintaned and updated less frequently):
 * [gpt-5.6-terra](alt_results_gpt56terra.md)
 * [gpt-5.6-sol](alt_results_gpt56sol.md)
 * [mistral-small-2603](alt_results_mistral2603.md)
+* [mercury-2.5](alt_results_mercury25.md)
 
 ## Implementation
 

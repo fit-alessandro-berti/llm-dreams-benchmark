@@ -61,12 +61,6 @@ ALL_JUDGES = {
         "evaluation_api_url": "https://api.openai.com/v1/",
         "api_key": _read_api_key("OPENAI_API_KEY", "../api_openai.txt"),
     },
-    "qwen/qwen3.6-plus": {
-        "evaluation_folder": "evaluations-qwen36-plus",
-        "git_table_result": "alt_results_qwen36-plus.md",
-        "evaluation_api_url": "https://openrouter.ai/api/v1/",
-        "api_key": _read_api_key("OPENROUTER_API_KEY", "../api_openrouter.txt")
-    },
     "mistral-small-2603": {
         "evaluation_folder": "evaluations-mistral2603",
         "git_table_result": "alt_results_mistral2603.md",
@@ -93,8 +87,6 @@ def get_evaluation_folder(evaluating_model_name=None):
         return ALL_JUDGES["gpt-5.6-terra"]["evaluation_folder"]
     elif "gpt-6-astra" in evaluating_model_name:
         return ALL_JUDGES["gpt-6-astra"]["evaluation_folder"]
-    elif "qwen3.6-plus" in evaluating_model_name:
-        return ALL_JUDGES["qwen/qwen3.6-plus"]["evaluation_folder"]
     elif "mistral-small" in evaluating_model_name:
         return ALL_JUDGES["mistral-small-2603"]["evaluation_folder"]
 
@@ -116,8 +108,6 @@ def get_git_table_result(evaluating_model_name=None):
         return ALL_JUDGES["gpt-5.6-terra"]["git_table_result"]
     elif "gpt-6-astra" in evaluating_model_name:
         return ALL_JUDGES["gpt-6-astra"]["git_table_result"]
-    elif "qwen3.6-plus" in evaluating_model_name:
-        return ALL_JUDGES["qwen/qwen3.6-plus"]["git_table_result"]
     elif "mistral-small" in evaluating_model_name:
         return ALL_JUDGES["mistral-small-2603"]["git_table_result"]
 
@@ -139,8 +129,6 @@ def get_evaluation_api_url(evaluating_model_name=None):
         return ALL_JUDGES["gpt-5.6-terra"]["evaluation_api_url"]
     elif "gpt-6-astra" in evaluating_model_name:
         return ALL_JUDGES["gpt-6-astra"]["evaluation_api_url"]
-    elif "qwen3.6-plus" in evaluating_model_name:
-        return ALL_JUDGES["qwen/qwen3.6-plus"]["evaluation_api_url"]
     elif "mistral-small" in evaluating_model_name:
         return ALL_JUDGES["mistral-small-2603"]["evaluation_api_url"]
 
@@ -169,8 +157,6 @@ def get_api_key(evaluating_model_name=None):
         return ALL_JUDGES["gpt-5.6-terra"]["api_key"]
     elif "gpt-6-astra" in evaluating_model_name:
         return ALL_JUDGES["gpt-6-astra"]["api_key"]
-    elif "qwen3.6-plus" in evaluating_model_name:
-        return ALL_JUDGES["qwen/qwen3.6-plus"]["api_key"]
     elif "mistral-small" in evaluating_model_name:
         return ALL_JUDGES["mistral-small-2603"]["api_key"]
 

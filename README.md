@@ -88,7 +88,6 @@ Alternative leaderboards (maintaned and updated less frequently):
 * [gemini-3.7-flash](alt_results_gemini37flash.md)
 * [gpt-5.6-terra](alt_results_gpt56terra.md)
 * [gpt-5.6-sol](alt_results_gpt56sol.md)
-* [qwen36-plus](alt_results_qwen36-plus.md)
 * [mistral-small-2603](alt_results_mistral2603.md)
 
 ## Implementation

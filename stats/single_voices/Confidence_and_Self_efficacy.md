@@ -135,6 +135,7 @@
 | ai21jamba-large-1.7 | 7.788 |
 | gpt-5.5-2026-04-23 | 7.788 |
 | meituanlongcat-2.0 | 7.787 |
+| deepseekdeepseek-v4.1-flash | 7.775 |
 | gemini-3.5-flash | 7.775 |
 | gemini-1.5-flash-002 | 7.737 |
 | Qwen-3.6-27B | 7.725 |

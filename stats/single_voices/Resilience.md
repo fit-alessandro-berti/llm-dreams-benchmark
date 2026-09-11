@@ -59,6 +59,7 @@
 | qwen2.5-32b-instruct | 9.162 |
 | xiaomimimo-v2.5-pro | 9.162 |
 | deepseekdeepseek-v4-flash-0731 | 9.150 |
+| deepseekdeepseek-v4.1-flash | 9.150 |
 | nvidianemotron-3-nano-30b-a3bfree | 9.150 |
 | nvidiaNVIDIA-Nemotron-3-Super-120B-A12B | 9.150 |
 | qwen3.8-max-2026-09-02 | 9.150 |

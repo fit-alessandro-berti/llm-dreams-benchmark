@@ -150,6 +150,7 @@
 | inclusionailing-2.6-1tfree | 8.150 |
 | nvidiaNVIDIA-Nemotron-3-Super-120B-A12B | 8.150 |
 | ChatGPT-5.1-Instant-20251113 | 8.138 |
+| deepseekdeepseek-v4.1-flash | 8.137 |
 | qwenqwen3.7-max | 8.137 |
 | z-aiglm-5 | 8.137 |
 | gemini-2.0-flash-exp | 8.125 |

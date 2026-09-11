@@ -124,6 +124,7 @@
 | gemma-3-27b-it | 7.875 |
 | o1-2024-12-05 | 7.875 |
 | openaigpt-5.4-nano | 7.875 |
+| deepseekdeepseek-v4.1-flash | 7.863 |
 | qwenqwen3.6-plusfree | 7.862 |
 | Grok-4-fast-20251111 | 7.850 |
 | gemini-2.5-pro-preview-05-06 | 7.850 |

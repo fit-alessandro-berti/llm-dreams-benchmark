@@ -169,6 +169,7 @@
 | Grok-4.30-20260420 | 6.213 |
 | thinkingmachinesinkling | 6.213 |
 | thinkingmachinesinkling-small | 6.212 |
+| deepseekdeepseek-v4.1-flash | 6.200 |
 | gpt-5-2025-08-07 | 6.175 |
 | o1-pro-2024-12-05 | 6.175 |
 | gemini-2.0-flash-exp | 6.162 |

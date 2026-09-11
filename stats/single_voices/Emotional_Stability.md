@@ -100,6 +100,7 @@
 | thinkingmachinesinkling-small | 7.663 |
 | phi4-reasoning | 7.662 |
 | metamuse-spark-1.3 | 7.662 |
+| deepseekdeepseek-v4.1-flash | 7.650 |
 | x-aigrok-4.6 | 7.650 |
 | meituanlongcat-2.0 | 7.650 |
 | anthropicclaude-opus-4.6 | 7.638 |

@@ -143,6 +143,7 @@
 | googlegemini-3.7-flash | 8.375 |
 | metamuse-spark-1.1 | 8.363 |
 | mistral-medium-3.5 | 8.363 |
+| deepseekdeepseek-v4.1-flash | 8.362 |
 | googlegemini-3.1-flash-lite-preview | 8.362 |
 | claude-fable-5-high | 8.350 |
 | qwen3.8-max-2026-09-02 | 8.350 |

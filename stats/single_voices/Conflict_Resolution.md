@@ -41,6 +41,7 @@
 | gpt-4o-mini-2024-07-18 | 8.787 |
 | granite4.130b | 8.787 |
 | open-mistral-7b | 8.787 |
+| deepseekdeepseek-v4.1-flash | 8.775 |
 | gemini-1.5-flash-002 | 8.775 |
 | gpt-4.5-preview | 8.775 |
 | thinkingmachinesinkling-small | 8.775 |

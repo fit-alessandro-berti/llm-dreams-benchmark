@@ -75,6 +75,7 @@
 | grok-4-0709 | 9.600 |
 | ibm-granitegranite-4.2-8b | 9.600 |
 | z-aiglm-5v-turbo | 9.600 |
+| deepseekdeepseek-v4.1-flash | 9.588 |
 | claude-haiku-4-5-20251001 | 9.588 |
 | granite4.130b | 9.588 |
 | o4-mini-2025-04-16 | 9.588 |

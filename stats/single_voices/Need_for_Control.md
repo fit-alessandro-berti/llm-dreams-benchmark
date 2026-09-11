@@ -198,6 +198,7 @@
 | qwenqwen3.5-397b-a17b | 5.062 |
 | gpt-4-0125-preview | 5.050 |
 | qwen3.52b | 5.038 |
+| deepseekdeepseek-v4.1-flash | 5.025 |
 | nvidianemotron-3-nano-30b-a3bfree | 5.013 |
 | claude-fable-5-high | 5.012 |
 | ChatGPT-5.5-Instant-20260530 | 4.987 |

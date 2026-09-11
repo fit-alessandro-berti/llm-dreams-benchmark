@@ -125,6 +125,7 @@
 | nvidiaLlama-3.1-Nemotron-70B-Instruct | 8.938 |
 | arcee-aitrinity-large-previewfree | 8.925 |
 | claude-3-7-sonnet-20250219 | 8.925 |
+| deepseekdeepseek-v4.1-flash | 8.925 |
 | gemini-3.5-flash-lite | 8.925 |
 | googlegemini-3.8-flash | 8.925 |
 | metamuse-spark-1.3 | 8.925 |

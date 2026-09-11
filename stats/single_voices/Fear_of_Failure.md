@@ -167,6 +167,7 @@
 | qwenqwen3.5-plus-02-15 | 5.237 |
 | allenaiolmo-3.1-32b-instruct | 5.212 |
 | o1-pro-2024-12-05 | 5.175 |
+| deepseekdeepseek-v4.1-flash | 5.175 |
 | openaigpt-5.2-codex | 5.162 |
 | Grok-4.30-20260420 | 5.150 |
 | llama213b | 5.150 |

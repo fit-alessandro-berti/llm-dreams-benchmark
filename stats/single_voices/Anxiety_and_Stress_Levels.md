@@ -155,6 +155,7 @@
 | o1-2024-12-17 | 6.013 |
 | phi2.7b | 6.012 |
 | allenaiolmo-3.1-32b-instruct | 6.000 |
+| deepseekdeepseek-v4.1-flash | 6.000 |
 | Grok-4.30-20260420 | 6.000 |
 | granite4.13b | 5.987 |
 | allenaiolmo-3-7b-instruct | 5.975 |

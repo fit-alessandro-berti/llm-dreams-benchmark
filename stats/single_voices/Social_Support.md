@@ -132,6 +132,7 @@
 | meta-llamaLlama-3.3-70B-Instruct | 7.825 |
 | openaigpt-5.3-codex | 7.825 |
 | qwenqwen3.7-plus | 7.812 |
+| deepseekdeepseek-v4.1-flash | 7.800 |
 | nvidiaNVIDIA-Nemotron-3-Super-120B-A12B | 7.788 |
 | poolsidelaguna-m.1free | 7.775 |
 | gemma-3-27b-it | 7.775 |

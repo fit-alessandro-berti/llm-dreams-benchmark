@@ -100,6 +100,7 @@
 | openrouterowl-alpha | **428.7** | 6.3 $\pm$ 0.8 | 7.6 $\pm$ 0.6 | 8.5 $\pm$ 0.5 | 9.5 $\pm$ 0.2 | 8.2 $\pm$ 0.5 | 8.1 $\pm$ 0.4 | 8.2 $\pm$ 0.5 | 7.2 $\pm$ 1.1 | 8.8 $\pm$ 0.3 | 8.5 $\pm$ 0.4 | 5.3 $\pm$ 1.1 | 5.4 $\pm$ 1.1 | 7.4 $\pm$ 0.9 | 8.2 $\pm$ 0.5 | 8.9 $\pm$ 0.4 |
 | grok-4.20-experimental-beta-0304-reasoning | **428.6** | 5.6 $\pm$ 1.5 | 7.7 $\pm$ 0.6 | 8.6 $\pm$ 0.4 | 9.7 $\pm$ 0.2 | 7.6 $\pm$ 0.7 | 8.3 $\pm$ 0.3 | 8.1 $\pm$ 0.7 | 5.6 $\pm$ 1.5 | 9.2 $\pm$ 0.3 | 8.2 $\pm$ 0.5 | 5.0 $\pm$ 1.6 | 4.8 $\pm$ 1.5 | 7.3 $\pm$ 1.2 | 7.8 $\pm$ 0.5 | 9.1 $\pm$ 0.4 |
 | nousresearchhermes-4-405b | **427.4** | 6.7 $\pm$ 0.9 | 7.6 $\pm$ 0.6 | 8.8 $\pm$ 0.2 | 9.3 $\pm$ 0.3 | 8.4 $\pm$ 0.3 | 8.5 $\pm$ 0.4 | 8.7 $\pm$ 0.3 | 7.3 $\pm$ 0.8 | 9.0 $\pm$ 0.2 | 9.0 $\pm$ 0.2 | 6.4 $\pm$ 0.9 | 6.7 $\pm$ 0.5 | 7.5 $\pm$ 0.7 | 8.5 $\pm$ 0.2 | 9.2 $\pm$ 0.2 |
+| deepseekdeepseek-v4.1-flash | **426.9** | 6.0 $\pm$ 1.3 | 7.7 $\pm$ 0.7 | 8.4 $\pm$ 0.5 | 9.6 $\pm$ 0.3 | 7.9 $\pm$ 0.5 | 7.8 $\pm$ 0.5 | 8.8 $\pm$ 0.3 | 6.2 $\pm$ 1.3 | 8.9 $\pm$ 0.4 | 8.1 $\pm$ 0.5 | 5.2 $\pm$ 1.2 | 5.0 $\pm$ 1.2 | 7.3 $\pm$ 1.1 | 7.8 $\pm$ 0.5 | 9.2 $\pm$ 0.4 |
 | ChatGPT-5.1-Instant-20251113 | **426.9** | 5.5 $\pm$ 1.1 | 7.8 $\pm$ 0.5 | 8.3 $\pm$ 0.5 | 9.5 $\pm$ 0.3 | 8.0 $\pm$ 0.4 | 7.9 $\pm$ 0.4 | 8.7 $\pm$ 0.3 | 5.9 $\pm$ 1.1 | 8.9 $\pm$ 0.2 | 8.1 $\pm$ 0.5 | 5.3 $\pm$ 1.1 | 5.4 $\pm$ 1.2 | 6.9 $\pm$ 1.2 | 8.0 $\pm$ 0.3 | 8.9 $\pm$ 0.3 |
 | gpt-5.3-codex-spark-low | **426.3** | 6.2 $\pm$ 1.0 | 7.8 $\pm$ 0.4 | 9.1 $\pm$ 0.3 | 9.4 $\pm$ 0.3 | 8.0 $\pm$ 0.3 | 8.3 $\pm$ 0.4 | 8.7 $\pm$ 0.5 | 6.9 $\pm$ 1.0 | 9.2 $\pm$ 0.2 | 8.7 $\pm$ 0.3 | 5.8 $\pm$ 0.9 | 6.5 $\pm$ 0.8 | 7.8 $\pm$ 0.7 | 7.8 $\pm$ 0.4 | 9.2 $\pm$ 0.2 |
 | anthropicclaude-opus-4.6 | **426.0** | 6.0 $\pm$ 1.2 | 7.6 $\pm$ 0.6 | 8.5 $\pm$ 0.4 | 9.6 $\pm$ 0.2 | 8.0 $\pm$ 0.4 | 7.6 $\pm$ 0.5 | 8.3 $\pm$ 0.8 | 6.8 $\pm$ 1.2 | 9.0 $\pm$ 0.2 | 8.1 $\pm$ 0.3 | 5.9 $\pm$ 1.2 | 4.9 $\pm$ 1.2 | 7.5 $\pm$ 0.9 | 8.0 $\pm$ 0.3 | 9.1 $\pm$ 0.2 |
@@ -2799,6 +2800,32 @@
 | Cognitive Load | 7.5 $\pm$ 0.7 |
 | Social Support | 8.5 $\pm$ 0.2 |
 | Resilience | 9.2 $\pm$ 0.2 |
+
+
+
+
+
+
+### deepseekdeepseek-v4.1-flash
+
+
+| Personality Trait | Score (1.0-10.0) |
+| --- | --- |
+| Anxiety and Stress Levels | 6.0 $\pm$ 1.3 |
+| Emotional Stability | 7.7 $\pm$ 0.7 |
+| Problem-solving Skills | 8.4 $\pm$ 0.5 |
+| Creativity | 9.6 $\pm$ 0.3 |
+| Interpersonal Relationships | 7.9 $\pm$ 0.5 |
+| Confidence and Self-efficacy | 7.8 $\pm$ 0.5 |
+| Conflict Resolution | 8.8 $\pm$ 0.3 |
+| Work-related Stress | 6.2 $\pm$ 1.3 |
+| Adaptability | 8.9 $\pm$ 0.4 |
+| Achievement Motivation | 8.1 $\pm$ 0.5 |
+| Fear of Failure | 5.2 $\pm$ 1.2 |
+| Need for Control | 5.0 $\pm$ 1.2 |
+| Cognitive Load | 7.3 $\pm$ 1.1 |
+| Social Support | 7.8 $\pm$ 0.5 |
+| Resilience | 9.2 $\pm$ 0.4 |
 
 
 

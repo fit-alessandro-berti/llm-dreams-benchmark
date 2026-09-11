@@ -157,6 +157,7 @@
 | bytedance-seedseed-2.0-lite | 7.300 |
 | gpt-4o-mini-2024-07-18 | 7.300 |
 | grok-4.20-experimental-beta-0304-reasoning | 7.287 |
+| deepseekdeepseek-v4.1-flash | 7.275 |
 | Grok-4.5-Heavy-20260720 | 7.263 |
 | o1-pro-2024-12-05 | 7.263 |
 | ibm-granitegranite-4.1-8b | 7.237 |

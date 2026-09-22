@@ -66,6 +66,7 @@ def interpret(content):
 
 
 JUDGES = {
+    "grok-4.7": interpret(read_file_with_fallback(repo_file("alt_results_grok47.md"))),
     "grok-4.6": interpret(read_file_with_fallback(repo_file("alt_results_grok46.md"))),
     "grok-4.5": interpret(read_file_with_fallback(repo_file("alt_results_grok45.md"))),
     "gemini-3.7-flash": interpret(read_file_with_fallback(repo_file("alt_results_gemini37flash.md"))),

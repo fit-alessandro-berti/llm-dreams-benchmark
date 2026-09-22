@@ -63,6 +63,7 @@
 | gpt-4-0613 | 8.044 |
 | gpt-5-pro-2025-10-06 | 8.033 |
 | openaigpt-5.4-mini | 8.022 |
+| x-aigrok-4.7 | 8.011 |
 | o1-pro-2024-12-05 | 8.000 |
 | qwenqwen3.7-plus | 8.000 |
 | metamuse-spark-1.2 | 7.989 |
@@ -116,6 +117,7 @@
 | nousresearchhermes-4-405b | 7.533 |
 | inclusionailing-2.6-1tfree | 7.533 |
 | gpt-5.5-2026-04-23 | 7.467 |
+| xiaomimimo-v2.6-flash | 7.456 |
 | gpt-5-chat-latest-2025-08-19 | 7.444 |
 | googlegemini-3.8-flash | 7.422 |
 | liquidlfm-2.5-1.2b-instructfree | 7.422 |
@@ -146,6 +148,7 @@
 | openaigpt-5.4-nano | 7.189 |
 | qwenqwen3-30b-a3b-instruct-2507 | 7.189 |
 | x-aigrok-4.5 | 7.189 |
+| xiaomimimo-v2.6-pro | 7.189 |
 | deepseekdeepseek-v4-pro | 7.156 |
 | liquidlfm-2-24b-a2b | 7.133 |
 | openaigpt-5.3-codex | 7.122 |

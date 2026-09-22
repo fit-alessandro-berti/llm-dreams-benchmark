@@ -133,6 +133,7 @@
 | prime-intellectintellect-3 | 8.389 |
 | qwenqwen3.8-max | 8.389 |
 | gemma-3-27b-it | 8.378 |
+| x-aigrok-4.7 | 8.378 |
 | chatgpt-4o-latest-2025-03-26 | 8.378 |
 | Qwen-3.6-Max-Preview | 8.378 |
 | anthropicclaude-opus-5 | 8.367 |
@@ -140,6 +141,7 @@
 | mistral-medium-3.5 | 8.367 |
 | qwen3.635b-a3b | 8.367 |
 | qwenqwen3-max | 8.367 |
+| xiaomimimo-v2.6-flash | 8.356 |
 | googlegemini-3.7-flash | 8.356 |
 | metamuse-spark-1.1 | 8.344 |
 | deepseekdeepseek-v4.1-flash | 8.344 |
@@ -165,6 +167,7 @@
 | qwenqwen3.6-plusfree | 8.256 |
 | ChatGPT-5.1-Instant-20251113 | 8.244 |
 | gemma-4-31b-it | 8.244 |
+| xiaomimimo-v2.6-pro | 8.233 |
 | deepseekdeepseek-v3.2-speciale | 8.233 |
 | qwenqwen3.5-plus-02-15 | 8.233 |
 | claude-3-opus-20240229 | 8.222 |

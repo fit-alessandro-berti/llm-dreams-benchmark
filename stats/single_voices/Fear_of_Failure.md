@@ -110,11 +110,13 @@
 | Liquid-LFM2.5-350M | 6.400 |
 | chatgpt-4o-latest-2025-03-26 | 6.389 |
 | deepseekdeepseek-v3.2-speciale | 6.378 |
+| xiaomimimo-v2.6-pro | 6.333 |
 | GPT-5.5-Pro-20260422 | 6.322 |
 | gemini-1.5-flash-002 | 6.256 |
 | claude-3-7-sonnet-20250219 | 6.222 |
 | inclusionailing-2.6-1tfree | 6.200 |
 | gemini-1.5-flash-8b | 6.167 |
+| xiaomimimo-v2.6-flash | 6.156 |
 | googlegemini-3.8-flash | 6.133 |
 | amazonnova-2-lite-v1 | 6.111 |
 | poolsidelaguna-m.1free | 6.100 |
@@ -199,6 +201,7 @@
 | qwen3.635b-a3b | 4.556 |
 | qwenqwen3.8-2.4t-a95b | 4.533 |
 | openaigpt-5.4-mini | 4.522 |
+| x-aigrok-4.7 | 4.522 |
 | gpt-4o-2024-05-13 | 4.500 |
 | minimaxminimax-m2.7 | 4.500 |
 | claude-haiku-4-5-20251001 | 4.478 |

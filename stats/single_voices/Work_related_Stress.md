@@ -111,6 +111,7 @@
 | granite4micro | 7.267 |
 | openrouterowl-alpha | 7.267 |
 | Qwen-3.6-27B | 7.244 |
+| xiaomimimo-v2.6-flash | 7.233 |
 | qwenqwen3.5-27b | 7.189 |
 | stepfunstep-3.7-flash | 7.189 |
 | poolsidelaguna-xs.2free | 7.144 |
@@ -119,6 +120,7 @@
 | anthropicclaude-opus-5 | 7.100 |
 | liquidlfm-2-24b-a2b | 7.089 |
 | amazonnova-2-lite-v1 | 7.044 |
+| xiaomimimo-v2.6-pro | 7.033 |
 | Qwen-3.6-Max-Preview | 7.022 |
 | arcee-aitrinity-large-previewfree | 7.011 |
 | poolsidelaguna-m.1free | 7.011 |
@@ -202,6 +204,7 @@
 | grok-2-1212 | 5.644 |
 | Grok-4.5-Heavy-20260720 | 5.622 |
 | qwen2.5-14b-instruct | 5.611 |
+| x-aigrok-4.7 | 5.600 |
 | Meta-Muse-Spark-20260409 | 5.589 |
 | microsoftWizardLM-2-8x22B | 5.578 |
 | qwen2.5-32b-instruct | 5.578 |

@@ -84,6 +84,7 @@
 | baiduernie-4.5-300b-a47b | 8.100 |
 | qwen3.635b-a3b | 8.100 |
 | nvidiaLlama-3.1-Nemotron-70B-Instruct | 8.089 |
+| x-aigrok-4.7 | 8.089 |
 | o1-2024-12-05 | 8.089 |
 | qwenqwen3.7-plus | 8.089 |
 | qwenqwen3.8-max | 8.089 |
@@ -125,12 +126,14 @@
 | gemini-3-flash-preview | 7.833 |
 | openaigpt-5.2-codex | 7.833 |
 | thinkingmachinesinkling | 7.833 |
+| xiaomimimo-v2.6-flash | 7.833 |
 | gpt-5-chat-latest-2025-08-19 | 7.833 |
 | metamuse-spark-1.3 | 7.822 |
 | moonshotaikimi-k2.7-code | 7.822 |
 | ChatGPT-5.1-Instant-20251113 | 7.822 |
 | gemini-1.5-flash-8b | 7.822 |
 | qwenqwen3-30b-a3b-instruct-2507 | 7.811 |
+| xiaomimimo-v2.6-pro | 7.811 |
 | gemini-2.0-flash-exp | 7.789 |
 | gpt-5.5-2026-04-23 | 7.767 |
 | deepseekdeepseek-v4.1-flash | 7.756 |

@@ -131,6 +131,7 @@
 | nvidiaLlama-3.1-Nemotron-70B-Instruct | 8.911 |
 | ChatGPT-5.1-Instant-20251113 | 8.900 |
 | gpt-4-1106-preview | 8.900 |
+| openaigpt-6-luna | 8.900 |
 | claude-3-7-sonnet-20250219 | 8.900 |
 | gemini-2.5-flash-lite | 8.900 |
 | gemma-3-27b-it | 8.900 |
@@ -140,6 +141,7 @@
 | gemini-2.5-pro-preview-05-06 | 8.889 |
 | metamuse-spark-1.3 | 8.889 |
 | openaigpt-5.4-nano | 8.889 |
+| openaigpt-6-sol | 8.889 |
 | phi4-reasoning | 8.889 |
 | googlegemini-3.1-flash-lite-preview | 8.878 |
 | grok-4-1-fast-reasoning | 8.878 |
@@ -167,6 +169,7 @@
 | grok-4-fast-reasoning | 8.789 |
 | allenaiolmo-3-7b-instruct | 8.778 |
 | gpt-6-astra | 8.778 |
+| anthropicclaude-opus-5.5 | 8.767 |
 | granite4tiny-h | 8.767 |
 | moonshotaikimi-k3 | 8.767 |
 | gpt-5-chat-latest-2025-08-19 | 8.756 |

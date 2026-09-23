@@ -162,6 +162,7 @@
 | liquidlfm-2.2-6b | 5.400 |
 | Qwen-3.6-27B | 5.400 |
 | o1-2024-12-17 | 5.400 |
+| anthropicclaude-opus-5.5 | 5.378 |
 | openrouterowl-alpha | 5.378 |
 | ChatGPT-5.1-Instant-20251113 | 5.367 |
 | gemini-1.5-flash-002 | 5.356 |
@@ -187,6 +188,7 @@
 | gemini-2.0-flash-exp | 5.122 |
 | Grok-4.30-20260420 | 5.122 |
 | gemma-4-26b-a4b-it | 5.111 |
+| openaigpt-6-sol | 5.111 |
 | qwenqwen3-30b-a3b-instruct-2507 | 5.111 |
 | deepseekdeepseek-v3.2 | 5.100 |
 | granite4.130b | 5.100 |
@@ -221,6 +223,7 @@
 | grok-4.20-experimental-beta-0304-reasoning | 4.767 |
 | anthropicclaude-opus-4.1 | 4.767 |
 | metamuse-spark-1.1 | 4.733 |
+| openaigpt-6-luna | 4.711 |
 | gpt-5-nano-2025-08-07 | 4.700 |
 | deepseekdeepseek-v4-pro | 4.689 |
 | tencenthy4-preview | 4.678 |

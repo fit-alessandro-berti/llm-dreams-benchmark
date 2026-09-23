@@ -119,6 +119,7 @@
 | nvidiaNemotron-3-Nano-Omni-30B-A3B-Reasoning | 8.467 |
 | qwen3.635b-a3b | 8.467 |
 | xiaomimimo-v2-omni | 8.467 |
+| anthropicclaude-opus-5.5 | 8.467 |
 | gpt-4-turbo-2024-04-09 | 8.467 |
 | o1-2024-12-17 | 8.456 |
 | o1-pro-2024-12-05 | 8.444 |
@@ -129,6 +130,7 @@
 | minimaxminimax-m2.7 | 8.422 |
 | phi3.53.8b-mini-instruct-fp16 | 8.422 |
 | deepseekdeepseek-v4-pro-0813 | 8.411 |
+| openaigpt-6-luna | 8.400 |
 | liquidlfm2-8b-a1b | 8.400 |
 | Grok-4-fast-20251111 | 8.378 |
 | phi2.7b | 8.378 |
@@ -144,6 +146,7 @@
 | meta-llamaLlama-3.3-70B-Instruct | 8.322 |
 | gpt-6-astra | 8.322 |
 | anthropicclaude-opus-4.6 | 8.300 |
+| openaigpt-6-sol | 8.278 |
 | gemini-3.5-flash | 8.256 |
 | bytedance-seedseed-2.0-lite | 8.244 |
 | qwenqwen3.5-122b-a10b | 8.244 |

@@ -127,6 +127,7 @@
 | gemma-4-31b-it | 6.556 |
 | claude-3-7-sonnet-20250219 | 6.533 |
 | qwenqwen3.5-27b | 6.533 |
+| anthropicclaude-opus-5.5 | 6.500 |
 | Grok-4-fast-20251111 | 6.500 |
 | deepseekdeepseek-v4-pro-0813 | 6.489 |
 | bytedance-seedseed-2.0-lite | 6.478 |
@@ -143,6 +144,7 @@
 | gpt-4.1-nano-2025-04-14 | 6.311 |
 | googlegemini-3.1-flash-lite-preview | 6.311 |
 | qwenqwen3.8-flash | 6.311 |
+| openaigpt-6-sol | 6.278 |
 | o1-2024-12-05 | 6.267 |
 | bytedance-seedseed-2.0-mini | 6.256 |
 | qwenqwen3.5-plus-02-15 | 6.256 |
@@ -157,6 +159,7 @@
 | llama213b | 6.122 |
 | allenaiolmo-3.1-32b-instruct | 6.100 |
 | o1-2024-12-17 | 6.089 |
+| openaigpt-6-luna | 6.089 |
 | Grok-4.30-20260420 | 6.067 |
 | allenaiolmo-3-7b-instruct | 6.056 |
 | deepseekdeepseek-v4.1-flash | 6.056 |

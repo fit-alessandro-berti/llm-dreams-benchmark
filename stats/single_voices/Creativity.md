@@ -110,6 +110,7 @@
 | liquidlfm2-8b-a1b | 9.544 |
 | openaigpt-5.6-sol | 9.544 |
 | Qwen-3.6-27B | 9.544 |
+| anthropicclaude-opus-5.5 | 9.533 |
 | bytedance-seedseed-2.0-mini | 9.533 |
 | gpt-4-0125-preview | 9.533 |
 | grok-4.20-experimental-beta-0304-non-reasoning | 9.533 |
@@ -163,6 +164,7 @@
 | gemini-2.5-pro-exp-03-25 | 9.456 |
 | grok-build-0.1 | 9.456 |
 | o1-2024-12-05 | 9.456 |
+| openaigpt-6-luna | 9.456 |
 | phi3.53.8b-mini-instruct-fp16 | 9.456 |
 | phi33.8b | 9.456 |
 | poolsidelaguna-m.1free | 9.456 |
@@ -174,6 +176,7 @@
 | metamuse-spark-1.3 | 9.444 |
 | ministral-14b-2512 | 9.444 |
 | o1-2024-12-17 | 9.444 |
+| openaigpt-6-sol | 9.444 |
 | qwen2.5-14b-instruct | 9.444 |
 | x-aigrok-4.7 | 9.444 |
 | microsoftphi-4 | 9.433 |

@@ -208,6 +208,7 @@
 | qwenqwen3-next-80b-a3b-instruct | 7.856 |
 | inceptionmercury-2.5-preview | 7.833 |
 | moonshotaikimi-k3 | 7.833 |
+| openaigpt-6-luna | 7.833 |
 | stealthox-alpha | 7.822 |
 | claude-3-5-sonnet-20241022 | 7.811 |
 | gemma-4-26b-a4b-it | 7.811 |
@@ -239,10 +240,12 @@
 | gemini-2.5-pro-preview-06-05 | 7.589 |
 | metamuse-glimmer-30b | 7.556 |
 | anthropicclaude-opus-5 | 7.511 |
+| openaigpt-6-sol | 7.511 |
 | z-aiglm-5.3-flash | 7.456 |
 | qwenqwen3.5-27b | 7.444 |
 | qwenqwen3.5-122b-a10b | 7.400 |
 | thinkingmachinesinkling | 7.400 |
+| anthropicclaude-opus-5.5 | 7.378 |
 | claude-fable-5-1-high | 7.367 |
 | qwenqwen3.5-397b-a17b | 7.356 |
 | stepfunstep-3.7-flash | 7.311 |

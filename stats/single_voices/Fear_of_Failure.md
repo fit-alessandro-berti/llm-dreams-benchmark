@@ -114,6 +114,7 @@
 | GPT-5.5-Pro-20260422 | 6.322 |
 | gemini-1.5-flash-002 | 6.256 |
 | claude-3-7-sonnet-20250219 | 6.222 |
+| anthropicclaude-opus-5.5 | 6.222 |
 | inclusionailing-2.6-1tfree | 6.200 |
 | gemini-1.5-flash-8b | 6.167 |
 | xiaomimimo-v2.6-flash | 6.156 |
@@ -163,6 +164,7 @@
 | liquidlfm-2-24b-a2b | 5.422 |
 | allenaiolmo-3-7b-instruct | 5.400 |
 | openrouterowl-alpha | 5.400 |
+| openaigpt-6-sol | 5.300 |
 | qwenqwen3.5-plus-02-15 | 5.300 |
 | gpt-5-2025-08-07 | 5.289 |
 | llama213b | 5.278 |
@@ -183,6 +185,7 @@
 | grok-4.20-experimental-beta-0304-reasoning | 5.089 |
 | thinkingmachinesinkling | 5.089 |
 | qwenqwen3-next-80b-a3b-instruct | 5.056 |
+| openaigpt-6-luna | 5.033 |
 | qwenqwen3.8-max | 5.011 |
 | phi4-reasoning | 5.000 |
 | o1-preview-2024-09-12 | 4.978 |

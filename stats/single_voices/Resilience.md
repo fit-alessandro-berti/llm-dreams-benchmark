@@ -126,6 +126,7 @@
 | anthropicclaude-opus-5 | 8.922 |
 | ChatGPT-5.5-Instant-20260530 | 8.922 |
 | liquidlfm-2.5-1.2b-thinkingfree | 8.922 |
+| openaigpt-6-sol | 8.922 |
 | claude-3-7-sonnet-20250219 | 8.911 |
 | openaigpt-5.2-codex | 8.911 |
 | gpt-4.1-nano-2025-04-14 | 8.911 |
@@ -137,7 +138,9 @@
 | gemini-2.5-flash-lite | 8.889 |
 | gemini-2.5-pro-preview-06-05 | 8.889 |
 | gpt-4-1106-preview | 8.889 |
+| openaigpt-6-luna | 8.889 |
 | gemini-2.0-pro-exp-02-05 | 8.878 |
+| anthropicclaude-opus-5.5 | 8.878 |
 | deepseekdeepseek-v4-pro-0813 | 8.878 |
 | x-aigrok-4.5 | 8.878 |
 | gemini-3-flash-preview | 8.867 |

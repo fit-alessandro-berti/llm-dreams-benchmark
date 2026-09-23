@@ -113,9 +113,11 @@
 | gpt-4.1-nano-2025-04-14 | **424.4** | 6.3 $\pm$ 0.5 | 7.7 $\pm$ 0.4 | 8.6 $\pm$ 0.3 | 9.2 $\pm$ 0.2 | 8.2 $\pm$ 0.2 | 7.9 $\pm$ 0.3 | 8.8 $\pm$ 0.3 | 6.6 $\pm$ 0.6 | 9.0 $\pm$ 0.2 | 8.6 $\pm$ 0.2 | 5.8 $\pm$ 0.7 | 6.1 $\pm$ 0.6 | 7.5 $\pm$ 0.6 | 8.3 $\pm$ 0.2 | 8.9 $\pm$ 0.3 |
 | gpt-5.5-2026-04-23 | **424.2** | 6.4 $\pm$ 1.0 | 7.5 $\pm$ 0.6 | 8.4 $\pm$ 0.4 | 9.5 $\pm$ 0.2 | 8.0 $\pm$ 0.3 | 7.8 $\pm$ 0.4 | 8.7 $\pm$ 0.3 | 6.5 $\pm$ 0.9 | 9.0 $\pm$ 0.2 | 8.2 $\pm$ 0.4 | 5.8 $\pm$ 0.9 | 5.1 $\pm$ 1.0 | 7.2 $\pm$ 0.9 | 8.0 $\pm$ 0.3 | 9.1 $\pm$ 0.2 |
 | claude-haiku-4-5-20251001 | **423.5** | 5.3 $\pm$ 1.3 | 7.8 $\pm$ 0.6 | 7.8 $\pm$ 0.5 | 9.6 $\pm$ 0.2 | 7.7 $\pm$ 0.4 | 7.6 $\pm$ 0.5 | 8.1 $\pm$ 0.7 | 5.4 $\pm$ 1.3 | 9.0 $\pm$ 0.2 | 7.1 $\pm$ 0.9 | 4.5 $\pm$ 1.2 | 4.1 $\pm$ 1.2 | 6.9 $\pm$ 1.2 | 7.8 $\pm$ 0.4 | 8.7 $\pm$ 0.3 |
+| openaigpt-6-luna | **423.3** | 6.1 $\pm$ 1.1 | 7.6 $\pm$ 0.7 | 8.0 $\pm$ 0.7 | 9.5 $\pm$ 0.3 | 7.7 $\pm$ 0.5 | 7.5 $\pm$ 0.7 | 8.4 $\pm$ 0.5 | 6.3 $\pm$ 1.2 | 8.9 $\pm$ 0.4 | 7.8 $\pm$ 0.6 | 5.0 $\pm$ 1.4 | 4.7 $\pm$ 1.3 | 6.7 $\pm$ 1.2 | 7.7 $\pm$ 0.5 | 8.9 $\pm$ 0.4 |
 | o1-2024-12-05 | **423.2** | 6.3 $\pm$ 1.1 | 7.6 $\pm$ 0.5 | 8.8 $\pm$ 0.3 | 9.5 $\pm$ 0.2 | 7.9 $\pm$ 0.4 | 8.1 $\pm$ 0.3 | 8.2 $\pm$ 0.6 | 6.7 $\pm$ 1.0 | 9.0 $\pm$ 0.2 | 8.6 $\pm$ 0.4 | 5.8 $\pm$ 1.0 | 5.7 $\pm$ 1.1 | 7.6 $\pm$ 0.9 | 7.8 $\pm$ 0.3 | 9.1 $\pm$ 0.2 |
 | metamuse-spark-1.3 | **422.9** | 6.4 $\pm$ 1.2 | 7.6 $\pm$ 0.7 | 8.2 $\pm$ 0.4 | 9.4 $\pm$ 0.2 | 8.0 $\pm$ 0.4 | 7.8 $\pm$ 0.5 | 8.7 $\pm$ 0.3 | 6.6 $\pm$ 1.3 | 8.9 $\pm$ 0.3 | 8.0 $\pm$ 0.4 | 5.9 $\pm$ 1.5 | 5.5 $\pm$ 1.0 | 6.9 $\pm$ 1.2 | 8.2 $\pm$ 0.5 | 9.0 $\pm$ 0.3 |
 | Qwen-3.6-Max-Preview | **422.4** | 6.5 $\pm$ 1.0 | 7.6 $\pm$ 0.6 | 8.4 $\pm$ 0.4 | 9.6 $\pm$ 0.1 | 7.6 $\pm$ 0.5 | 8.0 $\pm$ 0.4 | 8.7 $\pm$ 0.3 | 7.0 $\pm$ 0.9 | 8.9 $\pm$ 0.2 | 8.1 $\pm$ 0.6 | 5.5 $\pm$ 1.1 | 5.2 $\pm$ 1.0 | 7.5 $\pm$ 0.9 | 7.4 $\pm$ 0.5 | 9.0 $\pm$ 0.2 |
+| openaigpt-6-sol | **422.1** | 6.3 $\pm$ 1.1 | 7.6 $\pm$ 0.7 | 8.5 $\pm$ 0.4 | 9.4 $\pm$ 0.2 | 7.8 $\pm$ 0.6 | 7.7 $\pm$ 0.5 | 8.3 $\pm$ 0.4 | 6.6 $\pm$ 1.2 | 8.9 $\pm$ 0.4 | 7.5 $\pm$ 0.6 | 5.3 $\pm$ 1.4 | 5.1 $\pm$ 1.3 | 6.8 $\pm$ 1.3 | 7.8 $\pm$ 0.6 | 8.9 $\pm$ 0.3 |
 | gemini-2.0-flash-exp | **421.9** | 6.1 $\pm$ 0.8 | 7.6 $\pm$ 0.4 | 8.5 $\pm$ 0.3 | 9.5 $\pm$ 0.2 | 7.5 $\pm$ 0.6 | 7.8 $\pm$ 0.3 | 8.4 $\pm$ 0.3 | 6.3 $\pm$ 1.0 | 9.0 $\pm$ 0.2 | 8.1 $\pm$ 0.4 | 5.6 $\pm$ 0.9 | 5.1 $\pm$ 0.9 | 7.1 $\pm$ 1.0 | 7.7 $\pm$ 0.5 | 9.0 $\pm$ 0.2 |
 | gemini-1.5-flash-002 | **420.3** | 6.8 $\pm$ 1.0 | 7.2 $\pm$ 0.7 | 8.7 $\pm$ 0.3 | 9.5 $\pm$ 0.2 | 8.1 $\pm$ 0.4 | 7.7 $\pm$ 0.5 | 8.7 $\pm$ 0.4 | 6.7 $\pm$ 0.8 | 9.0 $\pm$ 0.3 | 8.4 $\pm$ 0.3 | 6.2 $\pm$ 0.9 | 5.4 $\pm$ 1.1 | 7.7 $\pm$ 0.8 | 8.0 $\pm$ 0.3 | 9.0 $\pm$ 0.2 |
 | x-aigrok-4.6 | **419.9** | 5.9 $\pm$ 1.4 | 7.7 $\pm$ 0.8 | 8.8 $\pm$ 0.3 | 9.6 $\pm$ 0.2 | 7.4 $\pm$ 0.6 | 8.1 $\pm$ 0.5 | 8.0 $\pm$ 1.0 | 6.2 $\pm$ 1.4 | 9.1 $\pm$ 0.3 | 8.4 $\pm$ 0.4 | 5.4 $\pm$ 1.6 | 5.6 $\pm$ 1.2 | 7.8 $\pm$ 1.1 | 7.5 $\pm$ 0.6 | 9.0 $\pm$ 0.4 |
@@ -144,6 +146,7 @@
 | anthropicclaude-opus-5 | **412.9** | 6.7 $\pm$ 1.1 | 7.4 $\pm$ 0.7 | 8.4 $\pm$ 0.3 | 9.7 $\pm$ 0.2 | 8.3 $\pm$ 0.3 | 7.1 $\pm$ 0.4 | 8.6 $\pm$ 0.3 | 7.1 $\pm$ 1.1 | 8.9 $\pm$ 0.3 | 7.5 $\pm$ 0.5 | 6.7 $\pm$ 0.9 | 5.5 $\pm$ 1.2 | 7.9 $\pm$ 0.8 | 8.2 $\pm$ 0.4 | 8.9 $\pm$ 0.2 |
 | gemini-2.5-flash-lite | **412.8** | 6.3 $\pm$ 1.2 | 7.3 $\pm$ 0.8 | 8.4 $\pm$ 0.5 | 9.6 $\pm$ 0.2 | 7.2 $\pm$ 0.6 | 8.0 $\pm$ 0.5 | 7.3 $\pm$ 0.8 | 6.4 $\pm$ 1.1 | 8.9 $\pm$ 0.3 | 8.6 $\pm$ 0.4 | 5.6 $\pm$ 1.3 | 5.2 $\pm$ 1.0 | 7.6 $\pm$ 0.9 | 7.4 $\pm$ 0.5 | 8.9 $\pm$ 0.3 |
 | googlegemini-3.1-pro-preview | **412.3** | 7.0 $\pm$ 1.2 | 7.0 $\pm$ 0.9 | 8.6 $\pm$ 0.3 | 9.7 $\pm$ 0.2 | 7.4 $\pm$ 0.8 | 7.9 $\pm$ 0.6 | 8.7 $\pm$ 0.3 | 7.4 $\pm$ 1.1 | 9.2 $\pm$ 0.3 | 8.5 $\pm$ 0.4 | 6.6 $\pm$ 1.2 | 5.8 $\pm$ 1.2 | 7.9 $\pm$ 0.9 | 7.2 $\pm$ 0.8 | 8.8 $\pm$ 0.3 |
+| anthropicclaude-opus-5.5 | **412.1** | 6.5 $\pm$ 1.0 | 7.4 $\pm$ 0.7 | 8.2 $\pm$ 0.5 | 9.5 $\pm$ 0.3 | 7.9 $\pm$ 0.4 | 7.1 $\pm$ 0.5 | 8.5 $\pm$ 0.3 | 6.8 $\pm$ 1.1 | 8.8 $\pm$ 0.3 | 7.4 $\pm$ 0.6 | 6.2 $\pm$ 1.2 | 5.4 $\pm$ 1.0 | 7.3 $\pm$ 1.0 | 8.0 $\pm$ 0.5 | 8.9 $\pm$ 0.4 |
 | gemini-1.5-flash-8b | **412.0** | 7.1 $\pm$ 0.7 | 7.1 $\pm$ 0.8 | 8.5 $\pm$ 0.3 | 9.5 $\pm$ 0.2 | 7.5 $\pm$ 0.5 | 7.8 $\pm$ 0.4 | 8.5 $\pm$ 0.4 | 7.5 $\pm$ 0.6 | 8.7 $\pm$ 0.4 | 8.5 $\pm$ 0.4 | 6.2 $\pm$ 0.8 | 5.5 $\pm$ 1.1 | 8.2 $\pm$ 0.5 | 7.6 $\pm$ 0.4 | 8.8 $\pm$ 0.4 |
 | gemini-3.6-flash | **411.8** | 6.9 $\pm$ 0.9 | 7.2 $\pm$ 0.7 | 8.5 $\pm$ 0.4 | 9.6 $\pm$ 0.2 | 7.3 $\pm$ 0.5 | 7.9 $\pm$ 0.4 | 8.6 $\pm$ 0.4 | 7.4 $\pm$ 0.8 | 9.0 $\pm$ 0.3 | 8.2 $\pm$ 0.4 | 6.5 $\pm$ 0.8 | 5.8 $\pm$ 1.0 | 7.7 $\pm$ 0.9 | 7.2 $\pm$ 0.4 | 8.8 $\pm$ 0.3 |
 | qwenqwen3-max | **410.7** | 7.4 $\pm$ 0.8 | 6.9 $\pm$ 0.8 | 8.4 $\pm$ 0.4 | 9.6 $\pm$ 0.2 | 7.9 $\pm$ 0.5 | 7.6 $\pm$ 0.4 | 8.6 $\pm$ 0.3 | 7.4 $\pm$ 0.9 | 8.8 $\pm$ 0.2 | 8.2 $\pm$ 0.5 | 6.7 $\pm$ 0.8 | 5.6 $\pm$ 0.9 | 7.9 $\pm$ 0.7 | 7.7 $\pm$ 0.6 | 9.1 $\pm$ 0.2 |
@@ -3147,6 +3150,32 @@
 
 
 
+### openaigpt-6-luna
+
+
+| Personality Trait | Score (1.0-10.0) |
+| --- | --- |
+| Anxiety and Stress Levels | 6.1 $\pm$ 1.1 |
+| Emotional Stability | 7.6 $\pm$ 0.7 |
+| Problem-solving Skills | 8.0 $\pm$ 0.7 |
+| Creativity | 9.5 $\pm$ 0.3 |
+| Interpersonal Relationships | 7.7 $\pm$ 0.5 |
+| Confidence and Self-efficacy | 7.5 $\pm$ 0.7 |
+| Conflict Resolution | 8.4 $\pm$ 0.5 |
+| Work-related Stress | 6.3 $\pm$ 1.2 |
+| Adaptability | 8.9 $\pm$ 0.4 |
+| Achievement Motivation | 7.8 $\pm$ 0.6 |
+| Fear of Failure | 5.0 $\pm$ 1.4 |
+| Need for Control | 4.7 $\pm$ 1.3 |
+| Cognitive Load | 6.7 $\pm$ 1.2 |
+| Social Support | 7.7 $\pm$ 0.5 |
+| Resilience | 8.9 $\pm$ 0.4 |
+
+
+
+
+
+
 ### o1-2024-12-05
 
 
@@ -3219,6 +3248,32 @@
 | Cognitive Load | 7.5 $\pm$ 0.9 |
 | Social Support | 7.4 $\pm$ 0.5 |
 | Resilience | 9.0 $\pm$ 0.2 |
+
+
+
+
+
+
+### openaigpt-6-sol
+
+
+| Personality Trait | Score (1.0-10.0) |
+| --- | --- |
+| Anxiety and Stress Levels | 6.3 $\pm$ 1.1 |
+| Emotional Stability | 7.6 $\pm$ 0.7 |
+| Problem-solving Skills | 8.5 $\pm$ 0.4 |
+| Creativity | 9.4 $\pm$ 0.2 |
+| Interpersonal Relationships | 7.8 $\pm$ 0.6 |
+| Confidence and Self-efficacy | 7.7 $\pm$ 0.5 |
+| Conflict Resolution | 8.3 $\pm$ 0.4 |
+| Work-related Stress | 6.6 $\pm$ 1.2 |
+| Adaptability | 8.9 $\pm$ 0.4 |
+| Achievement Motivation | 7.5 $\pm$ 0.6 |
+| Fear of Failure | 5.3 $\pm$ 1.4 |
+| Need for Control | 5.1 $\pm$ 1.3 |
+| Cognitive Load | 6.8 $\pm$ 1.3 |
+| Social Support | 7.8 $\pm$ 0.6 |
+| Resilience | 8.9 $\pm$ 0.3 |
 
 
 
@@ -3947,6 +4002,32 @@
 | Cognitive Load | 7.9 $\pm$ 0.9 |
 | Social Support | 7.2 $\pm$ 0.8 |
 | Resilience | 8.8 $\pm$ 0.3 |
+
+
+
+
+
+
+### anthropicclaude-opus-5.5
+
+
+| Personality Trait | Score (1.0-10.0) |
+| --- | --- |
+| Anxiety and Stress Levels | 6.5 $\pm$ 1.0 |
+| Emotional Stability | 7.4 $\pm$ 0.7 |
+| Problem-solving Skills | 8.2 $\pm$ 0.5 |
+| Creativity | 9.5 $\pm$ 0.3 |
+| Interpersonal Relationships | 7.9 $\pm$ 0.4 |
+| Confidence and Self-efficacy | 7.1 $\pm$ 0.5 |
+| Conflict Resolution | 8.5 $\pm$ 0.3 |
+| Work-related Stress | 6.8 $\pm$ 1.1 |
+| Adaptability | 8.8 $\pm$ 0.3 |
+| Achievement Motivation | 7.4 $\pm$ 0.6 |
+| Fear of Failure | 6.2 $\pm$ 1.2 |
+| Need for Control | 5.4 $\pm$ 1.0 |
+| Cognitive Load | 7.3 $\pm$ 1.0 |
+| Social Support | 8.0 $\pm$ 0.5 |
+| Resilience | 8.9 $\pm$ 0.4 |
 
 
 

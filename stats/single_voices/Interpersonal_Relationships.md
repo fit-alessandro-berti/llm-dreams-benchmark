@@ -111,6 +111,7 @@
 | gpt-5.3-codex-spark-low | 7.978 |
 | smollm21.7b-instruct-q6_K | 7.967 |
 | openaigpt-5.3-codex | 7.956 |
+| anthropicclaude-opus-5.5 | 7.944 |
 | moonshotaikimi-k2.7-code | 7.933 |
 | moonshotaikimi-k3 | 7.933 |
 | ChatGPT-5.1-Instant-20251113 | 7.922 |
@@ -133,6 +134,7 @@
 | qwenqwen3.6-plusfree | 7.811 |
 | xiaomimimo-v2-omni | 7.800 |
 | openaigpt-5.4-nano | 7.800 |
+| openaigpt-6-sol | 7.789 |
 | liquidlfm-2.5-1.2b-thinkingfree | 7.789 |
 | openaigpt-5.4-pro | 7.767 |
 | poolsidelaguna-m.1free | 7.767 |
@@ -145,6 +147,7 @@
 | claude-3-7-sonnet-20250219 | 7.689 |
 | z-aiglm-5.3 | 7.689 |
 | GPT-5.6-Sol-Pro-20260825 | 7.678 |
+| openaigpt-6-luna | 7.678 |
 | qwenqwen3-30b-a3b-instruct-2507 | 7.678 |
 | baiduernie-4.5-21b-a3b | 7.656 |
 | meta-llamaLlama-3.2-3B-Instruct | 7.656 |

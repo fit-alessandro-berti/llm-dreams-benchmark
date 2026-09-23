@@ -140,6 +140,7 @@
 | allenaiolmo-3-7b-instruct | 6.789 |
 | googlegemini-3.1-flash-lite-preview | 6.778 |
 | deepseekdeepseek-v4-pro-0813 | 6.756 |
+| anthropicclaude-opus-5.5 | 6.756 |
 | gpt-4o-mini-2024-07-18 | 6.756 |
 | metamuse-spark-1.2 | 6.711 |
 | o1-2024-12-05 | 6.700 |
@@ -152,6 +153,7 @@
 | metamuse-spark-1.3 | 6.600 |
 | phi2.7b | 6.600 |
 | o4-mini-2025-04-16 | 6.578 |
+| openaigpt-6-sol | 6.578 |
 | qwenqwen3-30b-a3b-instruct-2507 | 6.578 |
 | granite4micro-h | 6.556 |
 | llama213b | 6.533 |
@@ -169,6 +171,7 @@
 | deepseekdeepseek-v4-pro | 6.333 |
 | thinkingmachinesinkling | 6.333 |
 | baiduernie-4.5-300b-a47b | 6.311 |
+| openaigpt-6-luna | 6.300 |
 | gemini-2.0-flash-exp | 6.300 |
 | o1-pro-2024-12-05 | 6.289 |
 | Grok-4.30-20260420 | 6.278 |

@@ -141,6 +141,7 @@
 | gemini-3.5-flash | 7.722 |
 | deepseekdeepseek-v4-flash | 7.711 |
 | meituanlongcat-2.0 | 7.711 |
+| openaigpt-6-sol | 7.700 |
 | gemma-4-31b-it | 7.700 |
 | googlegemini-3.1-flash-lite-preview | 7.689 |
 | qwen3.59b | 7.689 |
@@ -173,6 +174,7 @@
 | Grok-4.1-20251118 | 7.533 |
 | poolsidelaguna-xs.2free | 7.533 |
 | granite4tiny-h | 7.522 |
+| openaigpt-6-luna | 7.522 |
 | gemma-3-27b-it | 7.511 |
 | gpt-4o-mini-2024-11-05 | 7.511 |
 | grok-4-fast-reasoning | 7.489 |
@@ -209,6 +211,7 @@
 | openaigpt-5.3-chat | 7.100 |
 | claude-3-opus-20240229 | 7.089 |
 | z-aiglm-5.3 | 7.089 |
+| anthropicclaude-opus-5.5 | 7.078 |
 | anthropicclaude-opus-5 | 7.078 |
 | claude-3-5-sonnet-20241022 | 7.078 |
 | minimaxminimax-m3 | 7.078 |

@@ -85,6 +85,7 @@
 | qwenqwen3.8-2.4t-a95b | 8.578 |
 | xiaomimimo-v2.5 | 8.578 |
 | phi4-reasoningplus | 8.556 |
+| openaigpt-6-sol | 8.544 |
 | gpt-5.2-2025-12-11 | 8.533 |
 | grok-4.20-experimental-beta-0304-reasoning | 8.533 |
 | nvidiaNemotron-3-Nano-Omni-30B-A3B-Reasoning | 8.533 |
@@ -182,6 +183,7 @@
 | chatgpt-4o-latest-2025-04-26 | 8.200 |
 | z-aiglm-5 | 8.200 |
 | gpt-4o-mini-2024-11-05 | 8.200 |
+| anthropicclaude-opus-5.5 | 8.189 |
 | grok-4-0709 | 8.189 |
 | metamuse-spark-1.3 | 8.189 |
 | Qwen-3.6-27B | 8.189 |
@@ -211,6 +213,7 @@
 | qwen3.59b | 8.044 |
 | tencenthy4-preview | 8.044 |
 | gemini-3.5-flash-lite | 8.022 |
+| openaigpt-6-luna | 8.022 |
 | grok-4.20-multi-agent-experimental-beta-0304 | 8.011 |
 | inceptionmercury-2.5-preview | 8.000 |
 | Liquid-LFM2.5-350M | 7.989 |

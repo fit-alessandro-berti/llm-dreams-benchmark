@@ -107,9 +107,11 @@
 | meituanlongcat-2.0 | 7.622 |
 | qwenqwen3.5-plus-02-15 | 7.622 |
 | metamuse-spark-1.3 | 7.622 |
+| openaigpt-6-luna | 7.622 |
 | bytedance-seedseed-2.0-mini | 7.600 |
 | o1-2024-12-05 | 7.578 |
 | baiduernie-4.5-300b-a47b | 7.578 |
+| openaigpt-6-sol | 7.567 |
 | qwen3.59b | 7.556 |
 | Qwen-3.6-Max-Preview | 7.544 |
 | openaigpt-5.2-codex | 7.544 |
@@ -119,6 +121,7 @@
 | gpt-5.5-2026-04-23 | 7.467 |
 | xiaomimimo-v2.6-flash | 7.456 |
 | gpt-5-chat-latest-2025-08-19 | 7.444 |
+| anthropicclaude-opus-5.5 | 7.433 |
 | googlegemini-3.8-flash | 7.422 |
 | liquidlfm-2.5-1.2b-instructfree | 7.422 |
 | anthropicclaude-opus-5 | 7.411 |

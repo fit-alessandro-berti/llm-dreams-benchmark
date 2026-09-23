@@ -102,6 +102,7 @@
 | phi4-reasoning | 8.044 |
 | gemini-1.5-flash-002 | 8.033 |
 | stepfunstep-3.7-flash | 8.022 |
+| anthropicclaude-opus-5.5 | 8.011 |
 | meituanlongcat-2.0 | 8.011 |
 | amazonnova-2-lite-v1 | 8.011 |
 | qwenqwen3.8-2.4t-a95b | 8.000 |
@@ -138,6 +139,7 @@
 | Grok-4-fast-20251111 | 7.778 |
 | z-aiglm-5.3 | 7.778 |
 | nvidiaNVIDIA-Nemotron-3-Super-120B-A12B | 7.744 |
+| openaigpt-6-sol | 7.744 |
 | qwenqwen3.7-plus | 7.744 |
 | llama213b | 7.733 |
 | qwenqwen3-max | 7.733 |
@@ -145,6 +147,7 @@
 | grok-4.20-experimental-beta-0304-reasoning | 7.722 |
 | poolsidelaguna-m.1free | 7.722 |
 | qwen3.635b-a3b | 7.711 |
+| openaigpt-6-luna | 7.689 |
 | claude-3-7-sonnet-20250219 | 7.678 |
 | gemini-2.0-flash-exp | 7.678 |
 | x-aigrok-4.5 | 7.667 |

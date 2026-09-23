@@ -158,6 +158,7 @@
 | minimaxminimax-m2.5 | 7.356 |
 | grok-4.20-experimental-beta-0304-reasoning | 7.344 |
 | bytedance-seedseed-2.0-lite | 7.333 |
+| anthropicclaude-opus-5.5 | 7.311 |
 | gpt-4o-mini-2024-07-18 | 7.311 |
 | deepseekdeepseek-v4.1-flash | 7.300 |
 | Grok-4.5-Heavy-20260720 | 7.300 |
@@ -218,12 +219,14 @@
 | qwenqwen3-next-80b-a3b-instruct | 6.822 |
 | inceptionmercury | 6.811 |
 | o3-2025-04-16 | 6.811 |
+| openaigpt-6-sol | 6.811 |
 | phi4-reasoningplus | 6.789 |
 | microsoftWizardLM-2-8x22B | 6.767 |
 | nvidianemotron-3.5-lightning | 6.722 |
 | qwen3.635b-a3b | 6.711 |
 | metamuse-spark-1.2 | 6.700 |
 | gpt-4o-2024-08-06 | 6.700 |
+| openaigpt-6-luna | 6.700 |
 | anthropicclaude-sonnet-4.6 | 6.689 |
 | gpt-4.1-2025-04-14 | 6.689 |
 | googlegemini-3.7-flash | 6.678 |

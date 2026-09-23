@@ -74,6 +74,7 @@
 | o1-2024-12-17 | 8.167 |
 | openrouterowl-alpha | 8.167 |
 | nvidianemotron-3.5-lightning | 8.156 |
+| x-aigrok-4.7 | 8.156 |
 | Grok-4.30-20260420 | 8.144 |
 | phi2.7b | 8.144 |
 | gemini-1.5-flash-002 | 8.144 |
@@ -152,6 +153,7 @@
 | Grok-4.1-20251118 | 7.611 |
 | prime-intellectintellect-3 | 7.611 |
 | thinkingmachinesinkling-small | 7.600 |
+| xiaomimimo-v2.6-flash | 7.600 |
 | Qwen-3.6-Max-Preview | 7.578 |
 | openaigpt-5.6-sol | 7.556 |
 | nousresearchhermes-4-70b | 7.544 |
@@ -191,6 +193,7 @@
 | gpt-5.6-sol-XHIGH | 7.300 |
 | Qwen-3.6-27B | 7.300 |
 | poolsidelaguna-xs.2free | 7.300 |
+| xiaomimimo-v2.6-pro | 7.289 |
 | deepseekdeepseek-v4-flash | 7.278 |
 | llama213b | 7.267 |
 | gpt-5.2-pro-2025-12-11 | 7.256 |

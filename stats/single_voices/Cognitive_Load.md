@@ -128,6 +128,7 @@
 | o1-2024-12-05 | 7.622 |
 | deepseekdeepseek-v3.2-speciale | 7.611 |
 | GPT-5.5-Pro-20260422 | 7.611 |
+| xiaomimimo-v2.6-pro | 7.600 |
 | googlegemini-3.8-flash | 7.589 |
 | gemini-2.5-flash-lite | 7.578 |
 | Qwen-3.6-27B | 7.556 |
@@ -150,6 +151,7 @@
 | falcon310b-instruct-q8_0 | 7.444 |
 | openrouterowl-alpha | 7.433 |
 | phi3.53.8b-mini-instruct-fp16 | 7.422 |
+| xiaomimimo-v2.6-flash | 7.411 |
 | deepseekdeepseek-v4-pro-0813 | 7.378 |
 | claude-opus-4-5-20251101 | 7.378 |
 | gpt-3.5-turbo | 7.367 |
@@ -237,6 +239,7 @@
 | open-mixtral-8x7b | 6.544 |
 | microsoftphi-4 | 6.544 |
 | qwenqwen3.8-max | 6.544 |
+| x-aigrok-4.7 | 6.533 |
 | xiaomimimo-v2.5 | 6.522 |
 | qwenqwen3.8-2.4t-a95b | 6.511 |
 | qwenqwen3.5-122b-a10b | 6.478 |

@@ -119,6 +119,7 @@
 | openaigpt-5.3-codex | 8.944 |
 | bytedance-seedseed-2.0-mini | 8.944 |
 | moonshotaikimi-k2.6 | 8.933 |
+| x-aigrok-4.7 | 8.933 |
 | googlegemini-3.8-flash | 8.933 |
 | minimaxminimax-m2.5 | 8.933 |
 | meituanlongcat-2.0 | 8.922 |
@@ -162,6 +163,7 @@
 | nvidiaNVIDIA-Nemotron-3-Super-120B-A12B | 8.822 |
 | Qwen-3.6-27B | 8.822 |
 | anthropicclaude-opus-4.1 | 8.811 |
+| xiaomimimo-v2.6-flash | 8.811 |
 | grok-4-fast-reasoning | 8.789 |
 | allenaiolmo-3-7b-instruct | 8.778 |
 | gpt-6-astra | 8.778 |
@@ -176,6 +178,7 @@
 | z-aiglm-5.3 | 8.744 |
 | grok-4-0709 | 8.733 |
 | qwenqwen3.5-397b-a17b | 8.733 |
+| xiaomimimo-v2.6-pro | 8.733 |
 | z-aiglm-5 | 8.733 |
 | ai21jamba-large-1.7 | 8.722 |
 | chatgpt-4o-latest-2025-03-26 | 8.722 |

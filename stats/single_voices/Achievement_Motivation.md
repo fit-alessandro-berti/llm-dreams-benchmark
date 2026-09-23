@@ -72,6 +72,7 @@
 | meta-llamaLlama-3.3-70B-Instruct | 8.556 |
 | nvidiaNemotron-3-Nano-Omni-30B-A3B-Reasoning | 8.556 |
 | phi33.8b | 8.556 |
+| xiaomimimo-v2.6-pro | 8.556 |
 | ministral-3b-2410 | 8.544 |
 | o1-pro-2024-12-05 | 8.544 |
 | meta-llamaMeta-Llama-3.1-405B-Instruct | 8.533 |
@@ -107,6 +108,7 @@
 | meta-llamaMeta-Llama-3.1-8B-Instruct | 8.400 |
 | o1-2024-12-17 | 8.378 |
 | phi4-reasoning | 8.378 |
+| xiaomimimo-v2.6-flash | 8.378 |
 | allenaiolmo-3.1-32b-instruct | 8.367 |
 | deepseekdeepseek-v4-flash | 8.356 |
 | upstagesolar-pro4 | 8.344 |
@@ -187,6 +189,7 @@
 | gemma-4-31b-it | 7.978 |
 | z-aiglm-5.2 | 7.978 |
 | allenaiolmo-3-7b-instruct | 7.967 |
+| x-aigrok-4.7 | 7.967 |
 | metamuse-spark-1.3 | 7.956 |
 | nvidianemotron-3-ultra-550b-a55bfree | 7.944 |
 | moonshotaikimi-k2.7-code | 7.933 |

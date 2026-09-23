@@ -119,6 +119,7 @@
 | poolsidelaguna-xs.2free | 6.733 |
 | gpt-4-1106-preview | 6.711 |
 | gemma-3-27b-it | 6.656 |
+| xiaomimimo-v2.6-pro | 6.656 |
 | amazonnova-2-lite-v1 | 6.600 |
 | granite4micro | 6.600 |
 | Qwen-3.6-27B | 6.600 |
@@ -133,6 +134,7 @@
 | metamuse-spark-1.1 | 6.467 |
 | deepseekdeepseek-v4-pro | 6.433 |
 | nvidiaLlama-3.1-Nemotron-70B-Instruct | 6.433 |
+| xiaomimimo-v2.6-flash | 6.411 |
 | openrouterowl-alpha | 6.389 |
 | gpt-5.5-2026-04-23 | 6.378 |
 | gpt-5.3-codex-spark-low | 6.333 |
@@ -192,6 +194,7 @@
 | nvidiaNVIDIA-Nemotron-3-Super-120B-A12B | 5.456 |
 | qwenqwen3.5-122b-a10b | 5.378 |
 | nvidianemotron-3.5-lightning | 5.367 |
+| x-aigrok-4.7 | 5.344 |
 | o1-preview-2024-09-12 | 5.344 |
 | phi3.53.8b-mini-instruct-fp16 | 5.333 |
 | qwenqwen3.7-plus | 5.322 |

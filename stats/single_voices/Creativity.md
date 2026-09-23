@@ -117,6 +117,7 @@
 | mistral-medium-2508 | 9.533 |
 | phi4-reasoningplus | 9.533 |
 | qwenqwen3.5-27b | 9.533 |
+| xiaomimimo-v2.6-pro | 9.533 |
 | anthropicclaude-sonnet-5 | 9.533 |
 | gemini-1.5-flash-002 | 9.533 |
 | googlegemini-3.7-flash | 9.533 |
@@ -136,6 +137,7 @@
 | granite3.28b-instruct-q4_K_M | 9.511 |
 | metamuse-spark-1.1 | 9.511 |
 | poolsidelaguna-xs-2.1 | 9.511 |
+| xiaomimimo-v2.6-flash | 9.511 |
 | gemini-1.5-flash-8b | 9.511 |
 | minimaxminimax-m2.5 | 9.511 |
 | quasar-438b | 9.511 |
@@ -173,6 +175,7 @@
 | ministral-14b-2512 | 9.444 |
 | o1-2024-12-17 | 9.444 |
 | qwen2.5-14b-instruct | 9.444 |
+| x-aigrok-4.7 | 9.444 |
 | microsoftphi-4 | 9.433 |
 | qwen3.52b | 9.433 |
 | ChatGPT-5.1-Instant-20251113 | 9.433 |

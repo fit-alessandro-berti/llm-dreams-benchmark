@@ -135,6 +135,8 @@
 | poolsidelaguna-m.1free | 5.689 |
 | googlegemini-3.1-flash-lite-preview | 5.689 |
 | qwen2.5-32b-instruct | 5.678 |
+| xiaomimimo-v2.6-flash | 5.667 |
+| xiaomimimo-v2.6-pro | 5.667 |
 | gpt-5-chat-latest-2025-08-19 | 5.656 |
 | qwenqwen3.8-27b | 5.644 |
 | googlegemini-3.8-flash | 5.622 |
@@ -177,6 +179,7 @@
 | allenaiolmo-3-7b-instruct | 5.233 |
 | gpt-5-2025-08-07 | 5.233 |
 | Qwen-3.6-Max-Preview | 5.222 |
+| x-aigrok-4.7 | 5.211 |
 | bytedance-seedseed-2.0-mini | 5.167 |
 | gpt-4o-2024-08-06 | 5.167 |
 | gemini-3.5-flash | 5.167 |

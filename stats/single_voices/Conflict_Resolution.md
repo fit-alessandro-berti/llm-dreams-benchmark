@@ -16,6 +16,7 @@
 | upstagesolar-pro4 | 8.922 |
 | ibm-granitegranite-4.1-8b | 8.911 |
 | inceptionmercury-2.5-preview | 8.911 |
+| x-aigrok-4.7 | 8.911 |
 | qwenqwen3.8-max | 8.889 |
 | qwen2.5-14b-instruct | 8.878 |
 | deepseekdeepseek-v4-flash-0731 | 8.878 |
@@ -188,7 +189,9 @@
 | chatgpt-4o-latest-2024-11-20 | 7.856 |
 | grok-4.20-multi-agent-experimental-beta-0304 | 7.856 |
 | qwenqwen3.7-plus | 7.856 |
+| xiaomimimo-v2.6-flash | 7.833 |
 | qwenqwen3.7-flash | 7.756 |
+| xiaomimimo-v2.6-pro | 7.744 |
 | claude-fable-5-1-high | 7.722 |
 | ministral-14b-2512 | 7.722 |
 | gpt-5.6-sol-XHIGH | 7.722 |

@@ -92,6 +92,7 @@
 | o4-mini-2025-04-16 | 8.100 |
 | thinkingmachinesinkling | 8.089 |
 | o3-2025-04-16 | 8.089 |
+| x-aigrok-4.7 | 8.078 |
 | googlegemini-3.7-flash | 8.067 |
 | moonshotaikimi-k3 | 8.056 |
 | allenaiolmo-3-7b-instruct | 8.044 |
@@ -153,6 +154,7 @@
 | gemini-1.5-flash-8b | 7.611 |
 | grok-4.20-experimental-beta-0304-non-reasoning | 7.600 |
 | liquidlfm-2.5-1.2b-instructfree | 7.600 |
+| xiaomimimo-v2.6-flash | 7.600 |
 | liquidlfm-2-24b-a2b | 7.589 |
 | openaigpt-5.4-nano | 7.589 |
 | openaigpt-5.4-pro | 7.589 |
@@ -183,6 +185,7 @@
 | claude-3-5-sonnet-20241022 | 7.333 |
 | claude-opus-4-5-20251101 | 7.333 |
 | qwenqwen3.7-flash | 7.322 |
+| xiaomimimo-v2.6-pro | 7.322 |
 | moonshotaikimi-k2.6 | 7.311 |
 | Grok-4.1-20251118 | 7.300 |
 | meta-llamaMeta-Llama-3.1-70B-Instruct | 7.289 |

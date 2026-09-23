@@ -111,6 +111,7 @@
 | gpt-4.1-2025-04-14 | 8.989 |
 | granite4tiny-h | 8.989 |
 | googlegemini-3.8-flash | 8.989 |
+| x-aigrok-4.7 | 8.989 |
 | meituanlongcat-2.0 | 8.978 |
 | nvidiaNemotron-3-Nano-Omni-30B-A3B-Reasoning | 8.978 |
 | qwenqwen3.7-plus | 8.978 |
@@ -120,6 +121,7 @@
 | gemini-2.0-flash-exp | 8.944 |
 | qwenqwen3.5-122b-a10b | 8.944 |
 | x-aigrok-4.6 | 8.944 |
+| xiaomimimo-v2.6-flash | 8.944 |
 | GPT-5.6-Sol-Pro-20260825 | 8.944 |
 | anthropicclaude-opus-5 | 8.922 |
 | ChatGPT-5.5-Instant-20260530 | 8.922 |
@@ -145,6 +147,7 @@
 | xiaomimimo-v2-omni | 8.856 |
 | Gpt-5.1-Pro-20251120 | 8.844 |
 | Grok-4.1-20251118 | 8.844 |
+| xiaomimimo-v2.6-pro | 8.844 |
 | gemini-3.5-flash-lite | 8.844 |
 | googlegemini-3.1-pro-preview | 8.844 |
 | gemini-3.6-flash | 8.833 |

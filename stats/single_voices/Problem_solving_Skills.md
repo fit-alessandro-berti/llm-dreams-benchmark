@@ -69,6 +69,7 @@
 | nvidiaNVIDIA-Nemotron-3-Super-120B-A12B | 8.678 |
 | openaigpt-5.4-nano | 8.667 |
 | x-aigrok-4.5 | 8.667 |
+| upstagesolar-mini4 | 8.656 |
 | amazonnova-2-lite-v1 | 8.656 |
 | googlegemini-3.1-pro-preview | 8.656 |
 | gpt-5-2025-08-07 | 8.656 |
@@ -86,6 +87,7 @@
 | xiaomimimo-v2.5 | 8.578 |
 | phi4-reasoningplus | 8.556 |
 | openaigpt-6-sol | 8.544 |
+| stealthspace-bunny-alpha | 8.533 |
 | gpt-5.2-2025-12-11 | 8.533 |
 | grok-4.20-experimental-beta-0304-reasoning | 8.533 |
 | nvidiaNemotron-3-Nano-Omni-30B-A3B-Reasoning | 8.533 |
@@ -230,6 +232,7 @@
 | qwenqwen3.5-122b-a10b | 7.878 |
 | aion-labsaion-2.0 | 7.867 |
 | deepseekdeepseek-v4-pro-0813 | 7.844 |
+| aion-labsaion-3.5 | 7.844 |
 | qwenqwen3.5-35b-a3b | 7.833 |
 | bytedance-seedseed-2.0-lite | 7.822 |
 | meta-llamaMeta-Llama-3.1-8B-Instruct | 7.822 |
@@ -249,6 +252,7 @@
 | z-aiglm-5v-turbo | 7.644 |
 | meta-llamallama-4-maverick | 7.633 |
 | z-aiglm-5.3-flash | 7.589 |
+| aion-labsaion-3.5-mini | 7.567 |
 | nvidianemotron-3-ultra-550b-a55bfree | 7.567 |
 | llama27b | 7.556 |
 | mistral-large-2512 | 7.544 |

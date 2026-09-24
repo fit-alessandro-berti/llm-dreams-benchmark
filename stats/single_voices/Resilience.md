@@ -52,6 +52,7 @@
 | xiaomimimo-v2-pro | 9.167 |
 | Grok-4.5-Heavy-20260720 | 9.156 |
 | openaigpt-oss-120b | 9.156 |
+| upstagesolar-mini4 | 9.156 |
 | ibm-granitegranite-4.2-8b | 9.156 |
 | gpt-4o-2024-05-13 | 9.144 |
 | nvidianemotron-3-nano-30b-a3bfree | 9.144 |
@@ -115,6 +116,7 @@
 | meituanlongcat-2.0 | 8.978 |
 | nvidiaNemotron-3-Nano-Omni-30B-A3B-Reasoning | 8.978 |
 | qwenqwen3.7-plus | 8.978 |
+| stealthspace-bunny-alpha | 8.978 |
 | bytedance-seedseed-2.0-mini | 8.967 |
 | Qwen-3.6-27B | 8.956 |
 | thinkingmachinesinkling-small | 8.956 |
@@ -210,6 +212,7 @@
 | deepseekdeepseek-v3.2-speciale | 8.578 |
 | gpt-5.2-pro-2025-12-11 | 8.578 |
 | mistral-medium-2508 | 8.578 |
+| aion-labsaion-3.5 | 8.567 |
 | arcee-aitrinity-large-thinking | 8.544 |
 | ibmgranite41b-h | 8.544 |
 | stealthox-alpha | 8.544 |
@@ -236,6 +239,7 @@
 | minimaxminimax-m3 | 8.344 |
 | quasar-438b | 8.322 |
 | meta-llamaMeta-Llama-3.1-405B-Instruct | 8.233 |
+| aion-labsaion-3.5-mini | 8.222 |
 | z-aiglm-5.3-flash | 8.200 |
 | ministral-14b-2512 | 8.178 |
 | gemini-3-pro-preview | 8.156 |

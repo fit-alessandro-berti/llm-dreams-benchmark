@@ -90,6 +90,7 @@
 | gpt-6-astra | 8.078 |
 | metamuse-spark-1.2 | 8.067 |
 | o3-2025-04-16 | 8.067 |
+| stealthspace-bunny-alpha | 8.056 |
 | gpt-4-1106-preview | 8.044 |
 | metamuse-spark-1.1 | 8.044 |
 | o4-mini-2025-04-16 | 8.033 |
@@ -126,6 +127,7 @@
 | ChatGPT-5.5-Instant-20260530 | 7.856 |
 | falcon33b-instruct-q8_0 | 7.856 |
 | gemma-3-27b-it | 7.844 |
+| upstagesolar-mini4 | 7.844 |
 | deepseekdeepseek-v4.1-flash | 7.833 |
 | meta-llamaLlama-3.3-70B-Instruct | 7.822 |
 | meta-llamaMeta-Llama-3.1-405B-Instruct | 7.822 |
@@ -199,6 +201,7 @@
 | xiaomimimo-v2.6-pro | 7.289 |
 | deepseekdeepseek-v4-flash | 7.278 |
 | llama213b | 7.267 |
+| aion-labsaion-3.5 | 7.267 |
 | gpt-5.2-pro-2025-12-11 | 7.256 |
 | mistral-medium-3.5 | 7.256 |
 | claude-fable-5-1-high | 7.222 |
@@ -232,6 +235,7 @@
 | gpt-4o-mini-2024-11-05 | 6.878 |
 | anthropicclaude-sonnet-5 | 6.867 |
 | deepseekdeepseek-v3.2-speciale | 6.856 |
+| aion-labsaion-3.5-mini | 6.778 |
 | meta-llamaMeta-Llama-3.1-8B-Instruct | 6.778 |
 | z-aiglm-5.1 | 6.733 |
 | Grok-4.6-Heavy | 6.689 |

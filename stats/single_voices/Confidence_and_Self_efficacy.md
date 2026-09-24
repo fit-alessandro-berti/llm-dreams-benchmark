@@ -76,6 +76,7 @@
 | qwenqwen3.7-flash | 8.156 |
 | liquidlfm-2-24b-a2b | 8.144 |
 | qwenqwen3.8-2.4t-a95b | 8.144 |
+| upstagesolar-mini4 | 8.144 |
 | llama213b | 8.133 |
 | x-aigrok-4.6 | 8.133 |
 | qwenqwen3.5-122b-a10b | 8.122 |
@@ -177,6 +178,7 @@
 | openaigpt-6-luna | 7.522 |
 | gemma-3-27b-it | 7.511 |
 | gpt-4o-mini-2024-11-05 | 7.511 |
+| stealthspace-bunny-alpha | 7.500 |
 | grok-4-fast-reasoning | 7.489 |
 | openaigpt-5.6-sol | 7.456 |
 | gemini-2.5-pro-preview-06-05 | 7.433 |
@@ -227,6 +229,7 @@
 | grok-build-0.1 | 6.933 |
 | stepfunstep-3.7-flash | 6.922 |
 | talkie-1930-13b-it | 6.922 |
+| aion-labsaion-3.5 | 6.911 |
 | meta-llamaLlama-3.3-70B-Instruct | 6.889 |
 | anthropicclaude-opus-4.1 | 6.878 |
 | llama27b | 6.822 |
@@ -259,5 +262,6 @@
 | gemini-2.5-pro-exp-03-25 | 5.856 |
 | gemma4e2b | 5.844 |
 | mistral-large-2512 | 5.833 |
+| aion-labsaion-3.5-mini | 5.800 |
 | qwen3.50.8b | 4.911 |
 | metamuse-glimmer-30b | 4.278 |

@@ -1,0 +1,35 @@
+smell the faint, ozone-like scent of static and old paper. The walls, made of smooth, moisture-warped stone, seem to shift slightly, rearranging themselves into new configurations, but the central goal remains consistent: a shimmering, golden door at the heart of the maze.
+
+**Puzzle 1: The Shifting Threshold**
+You arrive at your first gate. The door is a series of concentric rings, and hovering above each ring is a set of luminous, floating numbers. The instructions are projected in glowing script: "The door opens only when the sequence of hours in a day, the shadows of the sun at noon, and the sides of a triangle align."
+
+*Analysis:*
+- Hours in a day: 24
+- Shadows at noon (on a flat surface, with the sun directly overhead at the equator): 0
+- Sides of a triangle: 3
+
+You need to find the equation. The puzzle playfully challenges you: "If 24 + 0 = 24, and 24 / 3 = 8, what is the code to unlock the first ring?"
+
+*Action:*
+You place your hand on the first ring. Another ring appears beside it. The system guides you to the solution without spoon-feeding: "Look at how 8 relates to 24." You realize 8 is the cube root of 512? No, that's too deep. Let's simplify: 24 divided by 3 equals 8. So you repeat the number 8 three times and input it. The ring clicks. The door slides open, revealing a hollow chamber with a rotating gear mechanism inside.
+
+**Puzzle 2: The Echoing Chamber**
+As you pass through, a new sound fills your ears. Beyond the next wall is a room filled with mirrors. Every time you move, your reflection moves a beat behind. The floor is a grid of glass panels, and a large clock hangs in the center, ticking backwards.
+
+*Analysis:*
+"To reach the center, you must break the mirror's reflection of time." The puzzle requires you to step on panels that correspond to the mirror image of the clock's numbers. The clock shows 3:00. Its reflection in a mirror shows 9:00. The glass panels light up in pairs.
+
+*Action:*
+You notice the reflection of the hands pointing to 9. You look for the corresponding panel. The reflection shows the number 9, but the panel is actually labeled with the number 6 in the mirror's inverse. You tilt your head, studying the pattern. The correct path is the mirror image of the clock's position. You step on the 4th panel from the left to align the light. The glass hums, and the mirrors dissolve, blurring the room into a river of moving water.
+
+**Puzzle 3: The Logic of the Labyrinth**
+The maze seems to bend, and you find yourself in a hall of letters. They are arranged in rows, forming equations or sequences. The air grows cold, and the temperature drops as you move toward the center. The final puzzle is a series of statements, but the letters aren't just arranged randomly.
+
+*Analysis:*
+The text on the wall reads: "I am not the tallest. I am not the shortest. The one who comes after me is sharp, and the one who comes before me is round." The letters spell: A, B, C, D, E, F, G.
+
+*Action:*
+You realize C is not the tallest (that's a shape, not a letter). The sequence is alphabetical. A is round (circle), B is sharp (angle?), C is flat, etc. So if the speaker is not the tallest (A) and not the shortest (G), and the one after is sharp (B) while the one before is round (A), then the speaker is B? No, wait. Let's re-read: "The one who comes after me is sharp" - if sharp is B, then the speaker is A. "The one who comes before me is round" - if round is A, then the speaker is B. The puzzle demands a specific answer: you must pick the letter that fits the logical statement provided. The letters aren't just alphabetical; they are standing in a circle. You count the letters: A is 1, B is 2, and so on. The statement says "I am not the tallest" (not 7) and "not the shortest" (not 1). So the speaker is 2 through 6. "The one who comes after me is sharp" (if sharp is symbolized by a point, maybe it's the letter with a vertical line, like 'L'?). You realize the puzzle is a classic riddle: The answer is the letter "D," which can be a "herd" (herd of... ?). No, that's too abstract. Let's focus on the logic: If the speaker is not the first and not the last, and the successor is sharp, they must be the letter that is a vowel with a curve? The puzzle requires you to write the letter C in the air. The room glows, the walls fold inward, and a platform rises.
+
+**Journey's End**
+As the final puzzle resolves, the maze begins to collapse into a single, bright point of light. You step onto the platform, and the golden door opens fully. Through it, you see your destination: a waiting room that resembles a place of study. Instead of fear, you feel a profound sense of clarity. The maze wasn't designed to trap you; it was a subconscious mirror of your own logical struggles. You walk through the door, leaving the puzzles behind, the dream slowly fading as the morning light fades in from the portal.

@@ -117,6 +117,7 @@
 | ChatGPT-5.1-Instant-20251113 | 7.922 |
 | baiduernie-4.5-21b-a3b | 7.889 |
 | meta-llamallama-4-scout | 7.889 |
+| stealthspace-bunny-alpha | 7.889 |
 | meta-llamaLlama-3.3-70B-Instruct | 7.867 |
 | qwenqwen3.5-plus-02-15 | 7.867 |
 | falcon33b-instruct-q8_0 | 7.856 |
@@ -131,6 +132,7 @@
 | inclusionailing-2.6-1tfree | 7.833 |
 | ai21jamba-large-1.7 | 7.822 |
 | grok-4-1-fast-reasoning | 7.800 |
+| upstagesolar-mini4 | 7.800 |
 | deepseekdeepseek-v4-flash-0731 | 7.789 |
 | deepseekdeepseek-v4.1-flash | 7.789 |
 | gemma-3-27b-it | 7.789 |
@@ -189,6 +191,7 @@
 | claude-opus-4-5-20251101 | 7.333 |
 | qwenqwen3.7-flash | 7.322 |
 | xiaomimimo-v2.6-pro | 7.322 |
+| aion-labsaion-3.5 | 7.311 |
 | moonshotaikimi-k2.6 | 7.311 |
 | Grok-4.1-20251118 | 7.300 |
 | meta-llamaMeta-Llama-3.1-70B-Instruct | 7.289 |
@@ -235,6 +238,7 @@
 | openaigpt-5.3-chat | 6.867 |
 | qwenqwen3.8-27b | 6.867 |
 | grok-build-0.1 | 6.744 |
+| aion-labsaion-3.5-mini | 6.733 |
 | qwenqwen3.5-397b-a17b | 6.622 |
 | qwen3.52b | 6.589 |
 | gemma4e2b | 6.544 |

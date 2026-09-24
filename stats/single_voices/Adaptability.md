@@ -63,6 +63,7 @@
 | qwenqwen3.8-2.4t-a95b | 9.100 |
 | upstagesolar-pro4 | 9.100 |
 | nvidianemotron-3-nano-30b-a3bfree | 9.089 |
+| upstagesolar-mini4 | 9.089 |
 | gpt-5-2025-08-07 | 9.089 |
 | nvidianemotron-3.5-lightning | 9.089 |
 | o4-mini-2025-04-16 | 9.089 |
@@ -164,6 +165,7 @@
 | qwenqwen3.5-27b | 8.822 |
 | nvidiaNVIDIA-Nemotron-3-Super-120B-A12B | 8.822 |
 | Qwen-3.6-27B | 8.822 |
+| stealthspace-bunny-alpha | 8.811 |
 | anthropicclaude-opus-4.1 | 8.811 |
 | xiaomimimo-v2.6-flash | 8.811 |
 | grok-4-fast-reasoning | 8.789 |
@@ -208,6 +210,7 @@
 | qwenqwen3.8-27b | 8.622 |
 | quasar-438b | 8.611 |
 | grok-4.20-multi-agent-experimental-beta-0304 | 8.611 |
+| aion-labsaion-3.5 | 8.600 |
 | prime-intellectintellect-3 | 8.600 |
 | grok-4.20-experimental-beta-0304-non-reasoning | 8.578 |
 | minimaxminimax-m3 | 8.578 |
@@ -243,6 +246,7 @@
 | Grok-4.6-Heavy | 8.222 |
 | claude-opus-4-8 | 8.144 |
 | ministral-14b-2512 | 8.122 |
+| aion-labsaion-3.5-mini | 8.111 |
 | z-aiglm-5.3-flash | 8.111 |
 | anthropicclaude-sonnet-4.5 | 8.089 |
 | aion-labsaion-2.0 | 8.067 |

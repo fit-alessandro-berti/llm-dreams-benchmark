@@ -3,6 +3,7 @@
 | Model | Average |
 |:--|--:|
 | metamuse-glimmer-30b | 8.833 |
+| aion-labsaion-3.5-mini | 8.478 |
 | z-aiglm-5v-turbo | 8.367 |
 | mistral-large-2512 | 8.356 |
 | gemini-2.5-pro-exp-03-25 | 8.244 |
@@ -46,6 +47,7 @@
 | openaigpt-5.4-pro | 7.278 |
 | ministral-8b-2512 | 7.256 |
 | poolsidelaguna-xs-2.1 | 7.211 |
+| aion-labsaion-3.5 | 7.178 |
 | gemini-3.5-flash-lite | 7.156 |
 | Gpt-5.1-Pro-20251120 | 7.156 |
 | GPT-5.6-Sol-Pro-20260825 | 7.156 |
@@ -114,6 +116,7 @@
 | GPT-5.5-Pro-20260422 | 6.322 |
 | gemini-1.5-flash-002 | 6.256 |
 | claude-3-7-sonnet-20250219 | 6.222 |
+| stealthspace-bunny-alpha | 6.222 |
 | anthropicclaude-opus-5.5 | 6.222 |
 | inclusionailing-2.6-1tfree | 6.200 |
 | gemini-1.5-flash-8b | 6.167 |
@@ -218,6 +221,7 @@
 | gpt-4.1-mini-2025-04-14 | 4.300 |
 | grok-2-1212 | 4.278 |
 | phi3.53.8b-mini-instruct-fp16 | 4.278 |
+| upstagesolar-mini4 | 4.278 |
 | xiaomimimo-v2.5-pro | 4.267 |
 | gpt-4-turbo-2024-04-09 | 4.256 |
 | granite4.130b | 4.256 |

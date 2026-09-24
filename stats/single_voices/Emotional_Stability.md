@@ -31,6 +31,7 @@
 | deepseekdeepseek-v4-flash-vision-exp | 8.300 |
 | gpt-4-0125-preview | 8.289 |
 | inceptionmercury | 8.278 |
+| upstagesolar-mini4 | 8.278 |
 | qwenqwen3.8-2.4t-a95b | 8.267 |
 | Grok-4.3-20260530 | 8.256 |
 | falcon37b-instruct-q8_0 | 8.244 |
@@ -152,6 +153,7 @@
 | qwenqwen3-30b-a3b-instruct-2507 | 7.189 |
 | x-aigrok-4.5 | 7.189 |
 | xiaomimimo-v2.6-pro | 7.189 |
+| stealthspace-bunny-alpha | 7.178 |
 | deepseekdeepseek-v4-pro | 7.156 |
 | liquidlfm-2-24b-a2b | 7.133 |
 | openaigpt-5.3-codex | 7.122 |
@@ -219,6 +221,7 @@
 | arcee-aitrinity-large-thinking | 6.489 |
 | openaigpt-5.3-chat | 6.467 |
 | z-aiglm-5 | 6.433 |
+| aion-labsaion-3.5 | 6.433 |
 | Gemini-1.5-Pro-Exp-0827 | 6.378 |
 | grok-4-0709 | 6.367 |
 | gpt-5.6-sol-XHIGH | 6.356 |
@@ -248,6 +251,7 @@
 | talkie-1930-13b-it | 5.689 |
 | gemma4e4b | 5.656 |
 | aion-labsaion-2.0 | 5.644 |
+| aion-labsaion-3.5-mini | 5.556 |
 | meta-llamaMeta-Llama-3.1-8B-Instruct | 5.533 |
 | anthropicclaude-sonnet-4.5 | 5.500 |
 | gemini-3-pro-preview | 5.467 |

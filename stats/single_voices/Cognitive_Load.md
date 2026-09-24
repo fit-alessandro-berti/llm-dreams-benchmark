@@ -18,6 +18,7 @@
 | mistral-small-2603 | 8.478 |
 | tencenthy3-previewfree | 8.456 |
 | grok-build-0.1 | 8.444 |
+| aion-labsaion-3.5-mini | 8.422 |
 | moonshotaikimi-k2.5 | 8.400 |
 | claude-opus-4-7 | 8.389 |
 | gemini-3-pro-preview | 8.378 |
@@ -52,6 +53,7 @@
 | meta-llamallama-4-scout | 8.089 |
 | smollm21.7b-instruct-q6_K | 8.078 |
 | grok-4-0709 | 8.067 |
+| aion-labsaion-3.5 | 8.067 |
 | z-aiglm-5 | 8.056 |
 | gpt-4o-mini-2024-11-05 | 8.033 |
 | grok-4-1-fast-non-reasoning | 8.033 |
@@ -140,6 +142,7 @@
 | chatgpt-4o-latest-2025-04-26 | 7.533 |
 | granite4.13b | 7.533 |
 | nousresearchhermes-4-405b | 7.533 |
+| stealthspace-bunny-alpha | 7.533 |
 | Qwen-3.6-Max-Preview | 7.511 |
 | Grok-4.30-20260420 | 7.500 |
 | falcon33b-instruct-q8_0 | 7.489 |
@@ -249,6 +252,7 @@
 | tencenthy4-preview | 6.478 |
 | liquidlfm2-8b-a1b | 6.467 |
 | openaigpt-oss-120b | 6.456 |
+| upstagesolar-mini4 | 6.411 |
 | qwenqwen3.7-plus | 6.411 |
 | xiaomimimo-v2.5-pro | 6.311 |
 | o3-mini-20250131-HIGH | 6.256 |

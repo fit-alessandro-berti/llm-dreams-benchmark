@@ -110,6 +110,7 @@
 | liquidlfm2-8b-a1b | 9.544 |
 | openaigpt-5.6-sol | 9.544 |
 | Qwen-3.6-27B | 9.544 |
+| aion-labsaion-3.5 | 9.533 |
 | anthropicclaude-opus-5.5 | 9.533 |
 | bytedance-seedseed-2.0-mini | 9.533 |
 | gpt-4-0125-preview | 9.533 |
@@ -181,9 +182,11 @@
 | x-aigrok-4.7 | 9.444 |
 | microsoftphi-4 | 9.433 |
 | qwen3.52b | 9.433 |
+| aion-labsaion-3.5-mini | 9.433 |
 | ChatGPT-5.1-Instant-20251113 | 9.433 |
 | falcon37b-instruct-q8_0 | 9.433 |
 | openaigpt-5.6-luna | 9.433 |
+| stealthspace-bunny-alpha | 9.433 |
 | o1-pro-2024-12-05 | 9.433 |
 | meta-llamaMeta-Llama-3.1-70B-Instruct | 9.422 |
 | nvidiaNemotron-3-Nano-Omni-30B-A3B-Reasoning | 9.422 |
@@ -235,6 +238,7 @@
 | claude-opus-4-8 | 9.222 |
 | nousresearchhermes-4-70b | 9.222 |
 | meta-llamaLlama-3.2-3B-Instruct | 9.211 |
+| upstagesolar-mini4 | 9.211 |
 | falcon33b-instruct-q8_0 | 9.189 |
 | llama213b | 9.189 |
 | qwen2.5-72b-instruct | 9.189 |

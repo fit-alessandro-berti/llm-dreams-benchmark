@@ -18,6 +18,7 @@
 | nousresearchhermes-4-70b | 6.978 |
 | tencenthy3-previewfree | 6.978 |
 | Grok-4.6-Heavy | 6.967 |
+| aion-labsaion-3.5-mini | 6.956 |
 | meta-llamaMeta-Llama-3.1-8B-Instruct | 6.933 |
 | Liquid-LFM2.5-350M | 6.922 |
 | granite4tiny-h | 6.811 |
@@ -90,6 +91,7 @@
 | grok-4-1-fast-reasoning | 6.100 |
 | gpt-4o-mini-2024-07-18 | 6.078 |
 | granite3.28b-instruct-q4_K_M | 6.078 |
+| aion-labsaion-3.5 | 6.067 |
 | claude-3-7-sonnet-20250219 | 6.056 |
 | quasar-438b | 6.044 |
 | ibm-granitegranite-4.1-8b | 6.033 |
@@ -117,6 +119,7 @@
 | gpt-4-0613 | 5.878 |
 | qwen2.5-72b-instruct | 5.878 |
 | openaigpt-5.3-codex | 5.878 |
+| stealthspace-bunny-alpha | 5.856 |
 | o1-preview-2024-09-12 | 5.856 |
 | liquidlfm-2.5-1.2b-instructfree | 5.844 |
 | deepseekdeepseek-v4-flash | 5.833 |
@@ -241,6 +244,7 @@
 | qwenqwen3.8-2.4t-a95b | 4.533 |
 | gemma-3-27b-it | 4.522 |
 | claude-opus-4-5-20251101 | 4.511 |
+| upstagesolar-mini4 | 4.467 |
 | nvidianemotron-3.5-lightning | 4.444 |
 | qwen3.8-max-2026-09-02 | 4.389 |
 | qwenqwen3.8-max | 4.356 |

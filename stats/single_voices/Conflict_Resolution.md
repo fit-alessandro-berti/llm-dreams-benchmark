@@ -39,6 +39,7 @@
 | gpt-4.5-preview | 8.778 |
 | gpt-4o-mini-2024-07-18 | 8.778 |
 | tencenthy4-preview | 8.778 |
+| upstagesolar-mini4 | 8.778 |
 | allenaiolmo-3.1-32b-instruct | 8.778 |
 | grok-2-1212 | 8.778 |
 | thinkingmachinesinkling-small | 8.767 |
@@ -112,6 +113,7 @@
 | gemini-1.5-flash-8b | 8.500 |
 | gpt-4-0613 | 8.500 |
 | openaigpt-oss-120b | 8.489 |
+| stealthspace-bunny-alpha | 8.489 |
 | gpt-4-1106-preview | 8.478 |
 | open-mixtral-8x22b | 8.478 |
 | phi33.8b | 8.478 |
@@ -217,6 +219,7 @@
 | falcon37b-instruct-q8_0 | 7.244 |
 | Grok-4.6-Heavy | 7.244 |
 | z-aiglm-5.3 | 7.233 |
+| aion-labsaion-3.5-mini | 7.189 |
 | granite4micro | 7.178 |
 | googlegemini-3.1-flash-lite-preview | 7.156 |
 | z-aiglm-5 | 7.133 |
@@ -232,6 +235,7 @@
 | qwenqwen3.5-397b-a17b | 6.756 |
 | claude-3-5-sonnet-20241022 | 6.744 |
 | z-aiglm-5.1 | 6.711 |
+| aion-labsaion-3.5 | 6.667 |
 | meta-llamallama-4-scout | 6.622 |
 | anthropicclaude-sonnet-4.5 | 6.611 |
 | arcee-aitrinity-large-thinking | 6.600 |

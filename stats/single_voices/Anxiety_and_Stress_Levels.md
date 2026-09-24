@@ -4,6 +4,7 @@
 |:--|--:|
 | metamuse-glimmer-30b | 8.500 |
 | nvidianemotron-3-ultra-550b-a55bfree | 8.433 |
+| aion-labsaion-3.5-mini | 8.378 |
 | mistral-large-2512 | 8.367 |
 | z-aiglm-5v-turbo | 8.367 |
 | gemma4e4b | 8.322 |
@@ -40,6 +41,7 @@
 | meta-llamaMeta-Llama-3.1-405B-Instruct | 7.633 |
 | Grok-4.1-20251118 | 7.622 |
 | z-aiglm-5 | 7.622 |
+| aion-labsaion-3.5 | 7.556 |
 | qwen3.52b | 7.556 |
 | stealthox-alpha | 7.556 |
 | grok-4.20-experimental-beta-0304-non-reasoning | 7.544 |
@@ -100,6 +102,7 @@
 | inclusionailing-2.6-1tfree | 6.933 |
 | claude-3-5-sonnet-20241022 | 6.922 |
 | minimaxminimax-m3 | 6.911 |
+| stealthspace-bunny-alpha | 6.911 |
 | Grok-3-beta-thinking-20250303 | 6.900 |
 | anthropicclaude-fable-5 | 6.878 |
 | gemini-3.6-flash | 6.867 |
@@ -213,6 +216,7 @@
 | minimaxminimax-m2.7 | 5.111 |
 | openaigpt-5.4-mini | 5.078 |
 | qwenqwen3.8-2.4t-a95b | 5.033 |
+| upstagesolar-mini4 | 5.000 |
 | deepseekdeepseek-v4-flash-vision-exp | 4.989 |
 | gpt-4-turbo-2024-04-09 | 4.956 |
 | granite3.28b-instruct-q4_K_M | 4.956 |

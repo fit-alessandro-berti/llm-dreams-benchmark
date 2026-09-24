@@ -161,6 +161,7 @@
 | ibmgranite41b-h | 8.100 |
 | qwenqwen3.7-max | 8.089 |
 | ChatGPT-5.5-Instant-20260530 | 8.078 |
+| upstagesolar-mini4 | 8.067 |
 | xiaomimimo-v2.5 | 8.067 |
 | openaigpt-5.3-chat | 8.044 |
 | qwenqwen3.6-plusfree | 8.044 |
@@ -191,7 +192,9 @@
 | allenaiolmo-3-7b-instruct | 7.967 |
 | x-aigrok-4.7 | 7.967 |
 | metamuse-spark-1.3 | 7.956 |
+| stealthspace-bunny-alpha | 7.956 |
 | nvidianemotron-3-ultra-550b-a55bfree | 7.944 |
+| aion-labsaion-3.5-mini | 7.933 |
 | moonshotaikimi-k2.7-code | 7.933 |
 | talkie-1930-13b-it | 7.922 |
 | xiaomimimo-v2-omni | 7.922 |
@@ -206,6 +209,7 @@
 | moonshotaikimi-k2.6 | 7.889 |
 | tencenthy4-preview | 7.867 |
 | qwenqwen3-next-80b-a3b-instruct | 7.856 |
+| aion-labsaion-3.5 | 7.833 |
 | inceptionmercury-2.5-preview | 7.833 |
 | moonshotaikimi-k3 | 7.833 |
 | openaigpt-6-luna | 7.833 |

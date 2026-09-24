@@ -5,6 +5,7 @@
 | metamuse-glimmer-30b | 8.789 |
 | z-aiglm-5v-turbo | 8.711 |
 | nvidianemotron-3-ultra-550b-a55bfree | 8.711 |
+| aion-labsaion-3.5-mini | 8.700 |
 | Grok-4.6-Heavy | 8.611 |
 | gemma4e2b | 8.600 |
 | tencenthy3-previewfree | 8.556 |
@@ -57,6 +58,7 @@
 | grok-4-1-fast-non-reasoning | 7.833 |
 | grok-4-fast-reasoning | 7.833 |
 | z-aiglm-5.1 | 7.822 |
+| aion-labsaion-3.5 | 7.811 |
 | claude-fable-5-1-high | 7.811 |
 | qwenqwen3.7-max | 7.811 |
 | qwenqwen3.8-27b | 7.789 |
@@ -123,6 +125,7 @@
 | xiaomimimo-v2.6-pro | 7.033 |
 | Qwen-3.6-Max-Preview | 7.022 |
 | arcee-aitrinity-large-previewfree | 7.011 |
+| stealthspace-bunny-alpha | 7.011 |
 | poolsidelaguna-m.1free | 7.011 |
 | bytedance-seedseed-2.0-lite | 7.000 |
 | Grok-4-fast-20251111 | 6.989 |
@@ -229,6 +232,7 @@
 | gpt-4o-2024-05-13 | 5.367 |
 | claude-haiku-4-5-20251001 | 5.344 |
 | gpt-4.1-2025-04-14 | 5.333 |
+| upstagesolar-mini4 | 5.311 |
 | granite4.130b | 5.289 |
 | nvidianemotron-3-nano-30b-a3bfree | 5.256 |
 | qwen3.8-max-2026-09-02 | 5.244 |

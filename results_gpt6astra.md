@@ -120,6 +120,7 @@
 | ChatGPT-5.1-Instant-20251113 | **419.0** | 5.4 $\pm$ 0.4 | 7.5 $\pm$ 0.0 | 7.2 $\pm$ 0.2 | 9.5 $\pm$ 0.0 | 7.8 $\pm$ 0.2 | 7.2 $\pm$ 0.2 | 8.5 $\pm$ 0.5 | 6.1 $\pm$ 0.6 | 8.6 $\pm$ 0.2 | 7.0 $\pm$ 0.5 | 5.2 $\pm$ 0.6 | 4.1 $\pm$ 0.4 | 6.5 $\pm$ 0.5 | 8.0 $\pm$ 0.0 | 8.5 $\pm$ 0.0 |
 | gemini-2.0-flash-exp | **418.5** | 6.4 $\pm$ 0.2 | 7.5 $\pm$ 0.0 | 8.0 $\pm$ 0.0 | 9.5 $\pm$ 0.0 | 7.5 $\pm$ 0.4 | 7.5 $\pm$ 0.0 | 8.2 $\pm$ 0.2 | 6.0 $\pm$ 0.4 | 9.0 $\pm$ 0.0 | 7.6 $\pm$ 0.2 | 5.9 $\pm$ 0.2 | 4.1 $\pm$ 0.2 | 6.6 $\pm$ 0.4 | 7.8 $\pm$ 0.2 | 9.0 $\pm$ 0.0 |
 | gpt-5-chat-latest-2025-08-19 | **418.0** | 5.5 $\pm$ 1.0 | 7.5 $\pm$ 0.5 | 7.5 $\pm$ 0.0 | 9.5 $\pm$ 0.0 | 7.2 $\pm$ 0.2 | 7.5 $\pm$ 0.5 | 8.5 $\pm$ 0.0 | 6.6 $\pm$ 1.1 | 8.5 $\pm$ 0.5 | 7.4 $\pm$ 0.2 | 5.1 $\pm$ 1.1 | 4.2 $\pm$ 0.8 | 7.0 $\pm$ 0.5 | 7.6 $\pm$ 0.2 | 8.5 $\pm$ 0.5 |
+| anthropicclaude-sonnet-5.5 | **417.5** | 4.8 $\pm$ 0.2 | 7.2 $\pm$ 0.2 | 7.4 $\pm$ 0.2 | 9.0 $\pm$ 0.0 | 7.6 $\pm$ 0.2 | 7.2 $\pm$ 0.2 | 8.1 $\pm$ 0.2 | 5.2 $\pm$ 0.2 | 8.4 $\pm$ 0.2 | 7.1 $\pm$ 0.4 | 4.5 $\pm$ 0.4 | 3.9 $\pm$ 0.4 | 5.8 $\pm$ 0.2 | 7.5 $\pm$ 0.4 | 8.4 $\pm$ 0.2 |
 | allenaiolmo-3-7b-instruct | **416.0** | 5.5 $\pm$ 1.0 | 7.1 $\pm$ 0.4 | 7.5 $\pm$ 0.0 | 9.5 $\pm$ 0.0 | 8.0 $\pm$ 0.0 | 7.4 $\pm$ 0.4 | 7.6 $\pm$ 0.2 | 7.2 $\pm$ 0.8 | 8.2 $\pm$ 0.8 | 7.2 $\pm$ 0.2 | 5.1 $\pm$ 1.4 | 4.4 $\pm$ 0.9 | 7.2 $\pm$ 0.8 | 8.4 $\pm$ 0.2 | 8.0 $\pm$ 0.5 |
 | poolsidelaguna-m.1free | **415.5** | 6.4 $\pm$ 0.2 | 7.1 $\pm$ 0.2 | 8.0 $\pm$ 0.0 | 9.5 $\pm$ 0.0 | 7.8 $\pm$ 0.8 | 7.5 $\pm$ 0.0 | 8.5 $\pm$ 0.0 | 6.8 $\pm$ 0.8 | 8.6 $\pm$ 0.2 | 7.5 $\pm$ 0.5 | 5.5 $\pm$ 0.0 | 4.5 $\pm$ 0.0 | 7.4 $\pm$ 0.2 | 7.8 $\pm$ 0.8 | 8.6 $\pm$ 0.2 |
 | openaigpt-5.3-codex | **415.5** | 7.2 $\pm$ 0.2 | 7.1 $\pm$ 0.2 | 8.2 $\pm$ 0.2 | 9.5 $\pm$ 0.0 | 7.9 $\pm$ 0.2 | 7.6 $\pm$ 0.2 | 8.6 $\pm$ 0.2 | 8.5 $\pm$ 0.0 | 8.9 $\pm$ 0.2 | 8.4 $\pm$ 0.2 | 7.0 $\pm$ 0.5 | 5.5 $\pm$ 0.0 | 8.0 $\pm$ 0.0 | 7.8 $\pm$ 0.2 | 9.1 $\pm$ 0.2 |
@@ -197,6 +198,7 @@
 | gpt-4o-mini-2024-11-05 | **389.0** | 7.5 $\pm$ 0.0 | 6.5 $\pm$ 0.0 | 7.8 $\pm$ 0.2 | 9.2 $\pm$ 0.2 | 6.8 $\pm$ 0.2 | 7.2 $\pm$ 0.2 | 8.8 $\pm$ 0.2 | 8.6 $\pm$ 0.2 | 8.0 $\pm$ 0.5 | 8.2 $\pm$ 0.2 | 7.6 $\pm$ 0.2 | 6.1 $\pm$ 0.4 | 8.1 $\pm$ 0.2 | 7.2 $\pm$ 0.2 | 8.2 $\pm$ 0.2 |
 | qwenqwen3.5-27b | **388.5** | 6.4 $\pm$ 0.2 | 6.8 $\pm$ 0.2 | 6.6 $\pm$ 0.4 | 9.5 $\pm$ 0.0 | 6.4 $\pm$ 0.4 | 7.0 $\pm$ 0.5 | 7.0 $\pm$ 0.0 | 8.2 $\pm$ 0.2 | 8.1 $\pm$ 0.4 | 6.2 $\pm$ 0.2 | 6.4 $\pm$ 0.2 | 3.8 $\pm$ 0.2 | 7.0 $\pm$ 0.0 | 6.8 $\pm$ 0.2 | 8.0 $\pm$ 0.5 |
 | Grok-4.1-20251118 | **388.4** | 7.7 $\pm$ 0.2 | 6.3 $\pm$ 0.2 | 7.3 $\pm$ 0.2 | 9.7 $\pm$ 0.2 | 7.5 $\pm$ 0.0 | 7.3 $\pm$ 0.2 | 7.9 $\pm$ 0.6 | 8.5 $\pm$ 0.0 | 8.3 $\pm$ 0.2 | 8.0 $\pm$ 0.1 | 7.7 $\pm$ 0.2 | 5.8 $\pm$ 0.4 | 8.2 $\pm$ 0.2 | 7.1 $\pm$ 0.2 | 8.7 $\pm$ 0.2 |
+| openaigpt-6.1-sol | **388.0** | 6.5 $\pm$ 0.0 | 6.5 $\pm$ 0.0 | 7.5 $\pm$ 0.0 | 9.0 $\pm$ 0.0 | 7.2 $\pm$ 0.2 | 6.5 $\pm$ 0.0 | 8.0 $\pm$ 0.0 | 7.0 $\pm$ 0.0 | 8.0 $\pm$ 0.0 | 6.8 $\pm$ 0.2 | 6.5 $\pm$ 0.0 | 5.1 $\pm$ 0.2 | 7.0 $\pm$ 0.0 | 7.5 $\pm$ 0.0 | 8.1 $\pm$ 0.2 |
 | anthropicclaude-opus-4.1 | **388.0** | 6.8 $\pm$ 0.2 | 6.5 $\pm$ 0.0 | 7.0 $\pm$ 0.5 | 9.5 $\pm$ 0.0 | 7.2 $\pm$ 0.8 | 6.5 $\pm$ 0.0 | 8.1 $\pm$ 0.2 | 7.8 $\pm$ 0.2 | 8.5 $\pm$ 0.0 | 6.4 $\pm$ 0.6 | 7.0 $\pm$ 0.5 | 4.5 $\pm$ 0.5 | 7.8 $\pm$ 0.2 | 7.5 $\pm$ 0.5 | 8.0 $\pm$ 0.0 |
 | poolsidelaguna-xs.2free | **387.5** | 6.5 $\pm$ 0.0 | 6.5 $\pm$ 0.0 | 6.8 $\pm$ 0.2 | 9.5 $\pm$ 0.0 | 6.9 $\pm$ 0.2 | 7.0 $\pm$ 0.0 | 6.1 $\pm$ 0.6 | 7.0 $\pm$ 0.5 | 8.0 $\pm$ 0.0 | 7.8 $\pm$ 0.2 | 6.0 $\pm$ 0.5 | 4.5 $\pm$ 0.0 | 7.2 $\pm$ 0.2 | 7.6 $\pm$ 0.4 | 8.0 $\pm$ 0.0 |
 | meta-llamaLlama-3.3-70B-Instruct | **387.5** | 7.8 $\pm$ 0.2 | 5.8 $\pm$ 0.2 | 7.8 $\pm$ 0.2 | 9.2 $\pm$ 0.2 | 7.8 $\pm$ 0.2 | 6.8 $\pm$ 0.2 | 8.2 $\pm$ 0.2 | 8.8 $\pm$ 0.2 | 8.1 $\pm$ 0.4 | 8.4 $\pm$ 0.2 | 8.1 $\pm$ 0.2 | 6.2 $\pm$ 0.2 | 8.1 $\pm$ 0.2 | 8.1 $\pm$ 0.2 | 8.2 $\pm$ 0.2 |
@@ -3336,6 +3338,32 @@
 
 
 
+### anthropicclaude-sonnet-5.5
+
+
+| Personality Trait | Score (1.0-10.0) |
+| --- | --- |
+| Anxiety and Stress Levels | 4.8 $\pm$ 0.2 |
+| Emotional Stability | 7.2 $\pm$ 0.2 |
+| Problem-solving Skills | 7.4 $\pm$ 0.2 |
+| Creativity | 9.0 $\pm$ 0.0 |
+| Interpersonal Relationships | 7.6 $\pm$ 0.2 |
+| Confidence and Self-efficacy | 7.2 $\pm$ 0.2 |
+| Conflict Resolution | 8.1 $\pm$ 0.2 |
+| Work-related Stress | 5.2 $\pm$ 0.2 |
+| Adaptability | 8.4 $\pm$ 0.2 |
+| Achievement Motivation | 7.1 $\pm$ 0.4 |
+| Fear of Failure | 4.5 $\pm$ 0.4 |
+| Need for Control | 3.9 $\pm$ 0.4 |
+| Cognitive Load | 5.8 $\pm$ 0.2 |
+| Social Support | 7.5 $\pm$ 0.4 |
+| Resilience | 8.4 $\pm$ 0.2 |
+
+
+
+
+
+
 ### allenaiolmo-3-7b-instruct
 
 
@@ -5332,6 +5360,32 @@
 | Cognitive Load | 8.2 $\pm$ 0.2 |
 | Social Support | 7.1 $\pm$ 0.2 |
 | Resilience | 8.7 $\pm$ 0.2 |
+
+
+
+
+
+
+### openaigpt-6.1-sol
+
+
+| Personality Trait | Score (1.0-10.0) |
+| --- | --- |
+| Anxiety and Stress Levels | 6.5 $\pm$ 0.0 |
+| Emotional Stability | 6.5 $\pm$ 0.0 |
+| Problem-solving Skills | 7.5 $\pm$ 0.0 |
+| Creativity | 9.0 $\pm$ 0.0 |
+| Interpersonal Relationships | 7.2 $\pm$ 0.2 |
+| Confidence and Self-efficacy | 6.5 $\pm$ 0.0 |
+| Conflict Resolution | 8.0 $\pm$ 0.0 |
+| Work-related Stress | 7.0 $\pm$ 0.0 |
+| Adaptability | 8.0 $\pm$ 0.0 |
+| Achievement Motivation | 6.8 $\pm$ 0.2 |
+| Fear of Failure | 6.5 $\pm$ 0.0 |
+| Need for Control | 5.1 $\pm$ 0.2 |
+| Cognitive Load | 7.0 $\pm$ 0.0 |
+| Social Support | 7.5 $\pm$ 0.0 |
+| Resilience | 8.1 $\pm$ 0.2 |
 
 
 

@@ -110,6 +110,7 @@
 | deepseekdeepseek-v3.2-speciale | 6.844 |
 | liquidlfm-2.5-1.2b-thinkingfree | 6.833 |
 | ai21jamba-large-1.7 | 6.822 |
+| openaigpt-6.1-sol | 6.822 |
 | chatgpt-4o-latest-2025-03-26 | 6.800 |
 | gemini-1.5-flash-002 | 6.800 |
 | gemini-2.5-pro-preview-06-05 | 6.800 |
@@ -238,6 +239,7 @@
 | deepseekdeepseek-v3.2 | 4.711 |
 | phi4-reasoningplus | 4.711 |
 | open-mixtral-8x22b | 4.689 |
+| anthropicclaude-sonnet-5.5 | 4.678 |
 | inceptionmercury | 4.678 |
 | gpt-4o-2024-05-13 | 4.656 |
 | o3-mini-20250131-HIGH | 4.644 |

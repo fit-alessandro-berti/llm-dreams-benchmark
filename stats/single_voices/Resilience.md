@@ -77,6 +77,7 @@
 | granite4micro-h | 9.100 |
 | tencenthy4-preview | 9.100 |
 | minimaxminimax-m2.7 | 9.089 |
+| anthropicclaude-sonnet-5.5 | 9.089 |
 | claude-fable-5-high | 9.089 |
 | phi4-reasoning | 9.078 |
 | granite4micro | 9.078 |
@@ -180,6 +181,7 @@
 | chatgpt-4o-latest-2025-04-26 | 8.767 |
 | nvidiaLlama-3.1-Nemotron-70B-Instruct | 8.767 |
 | gemini-1.5-flash-8b | 8.744 |
+| openaigpt-6.1-sol | 8.744 |
 | ai21jamba-large-1.7 | 8.722 |
 | claude-haiku-4-5-20251001 | 8.722 |
 | poolsidelaguna-m.1free | 8.711 |

@@ -58,6 +58,7 @@
 | qwenqwen3.8-max | 8.133 |
 | phi33.8b | 8.111 |
 | nvidianemotron-3-nano-30b-a3bfree | 8.078 |
+| anthropicclaude-sonnet-5.5 | 8.067 |
 | falcon310b-instruct-q8_0 | 8.056 |
 | phi4-reasoningplus | 8.056 |
 | xiaomimimo-v2-omni | 8.056 |
@@ -177,6 +178,7 @@
 | Gpt-5.1-Pro-20251120 | 6.967 |
 | ai21jamba-large-1.7 | 6.956 |
 | llama213b | 6.956 |
+| openaigpt-6.1-sol | 6.944 |
 | qwenqwen3.5-35b-a3b | 6.933 |
 | nousresearchhermes-4-70b | 6.922 |
 | qwenqwen3.7-max | 6.911 |

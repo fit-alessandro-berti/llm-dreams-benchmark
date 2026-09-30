@@ -69,6 +69,7 @@
 | o4-mini-2025-04-16 | 9.089 |
 | openaigpt-5.2-codex | 9.078 |
 | falcon37b-instruct-q8_0 | 9.067 |
+| anthropicclaude-sonnet-5.5 | 9.067 |
 | thinkingmachinesinkling-small | 9.067 |
 | tencenthy4-preview | 9.056 |
 | liquidlfm2-8b-a1b | 9.056 |
@@ -198,6 +199,7 @@
 | qwenqwen3.5-35b-a3b | 8.689 |
 | falcon33b-instruct-q8_0 | 8.689 |
 | stealthox-alpha | 8.678 |
+| openaigpt-6.1-sol | 8.667 |
 | Gemini-1.5-Pro-Exp-0827 | 8.667 |
 | chatgpt-4o-latest-2024-11-20 | 8.656 |
 | anthropicclaude-sonnet-5 | 8.656 |

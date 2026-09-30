@@ -112,6 +112,7 @@
 | Liquid-LFM2.5-350M | 6.400 |
 | chatgpt-4o-latest-2025-03-26 | 6.389 |
 | deepseekdeepseek-v3.2-speciale | 6.378 |
+| openaigpt-6.1-sol | 6.356 |
 | xiaomimimo-v2.6-pro | 6.333 |
 | GPT-5.5-Pro-20260422 | 6.322 |
 | gemini-1.5-flash-002 | 6.256 |
@@ -240,6 +241,7 @@
 | o3-2025-04-16 | 4.000 |
 | phi4-reasoningplus | 3.978 |
 | gpt-4-0125-preview | 3.944 |
+| anthropicclaude-sonnet-5.5 | 3.933 |
 | o3-mini-20250131-HIGH | 3.933 |
 | open-mistral-7b | 3.922 |
 | ibm-granitegranite-4.1-8b | 3.900 |

@@ -106,6 +106,7 @@
 | liquidlfm-2-24b-a2b | 8.500 |
 | openaigpt-5.2-codex | 8.500 |
 | qwenqwen3-30b-a3b-instruct-2507 | 8.489 |
+| anthropicclaude-sonnet-5.5 | 8.489 |
 | deepseekdeepseek-v4-flash-vision-exp | 8.489 |
 | Grok-3-beta-thinking-20250303 | 8.467 |
 | anthropicclaude-opus-4.6 | 8.456 |
@@ -198,6 +199,7 @@
 | grok-build-0.1 | 8.133 |
 | stealthox-alpha | 8.133 |
 | grok-4.20-experimental-beta-0304-non-reasoning | 8.122 |
+| openaigpt-6.1-sol | 8.122 |
 | openaigpt-5.6-luna | 8.122 |
 | openaigpt-5.6-terra | 8.111 |
 | ibmgranite41b-h | 8.111 |

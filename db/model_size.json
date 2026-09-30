@@ -117,6 +117,7 @@
     1600,
     70
   ],
+  "anthropicclaude-sonnet-5.5": [],
   "arcee-aitrinity-large-previewfree": [
     398,
     13
@@ -696,6 +697,7 @@
   ],
   "openaigpt-6-luna": [],
   "openaigpt-6-sol": [],
+  "openaigpt-6.1-sol": [],
   "openaigpt-oss-120b": [
     117,
     5.1

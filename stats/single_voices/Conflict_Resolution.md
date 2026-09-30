@@ -69,6 +69,7 @@
 | metamuse-spark-1.3 | 8.667 |
 | moonshotaikimi-k2.7-code | 8.667 |
 | qwenqwen3.8-flash | 8.667 |
+| anthropicclaude-sonnet-5.5 | 8.656 |
 | ai21jamba-large-1.7 | 8.656 |
 | nousresearchhermes-4-405b | 8.656 |
 | anthropicclaude-opus-5 | 8.644 |
@@ -147,6 +148,7 @@
 | falcon310b-instruct-q8_0 | 8.333 |
 | meta-llamaLlama-3.3-70B-Instruct | 8.322 |
 | gpt-6-astra | 8.322 |
+| openaigpt-6.1-sol | 8.322 |
 | anthropicclaude-opus-4.6 | 8.300 |
 | openaigpt-6-sol | 8.278 |
 | gemini-3.5-flash | 8.256 |

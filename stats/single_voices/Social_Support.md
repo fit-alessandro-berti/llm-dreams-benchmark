@@ -76,6 +76,7 @@
 | o3-pro-2025-06-10 | 8.167 |
 | liquidlfm2-8b-a1b | 8.156 |
 | metamuse-spark-1.3 | 8.144 |
+| anthropicclaude-sonnet-5.5 | 8.144 |
 | meta-llamaMeta-Llama-3.1-405B-Instruct | 8.133 |
 | metamuse-spark-1.2 | 8.133 |
 | minimaxminimax-m2.5 | 8.133 |
@@ -139,6 +140,7 @@
 | o1-2024-12-05 | 7.789 |
 | openaigpt-5.3-codex | 7.789 |
 | Grok-4-fast-20251111 | 7.778 |
+| openaigpt-6.1-sol | 7.778 |
 | z-aiglm-5.3 | 7.778 |
 | nvidiaNVIDIA-Nemotron-3-Super-120B-A12B | 7.744 |
 | openaigpt-6-sol | 7.744 |

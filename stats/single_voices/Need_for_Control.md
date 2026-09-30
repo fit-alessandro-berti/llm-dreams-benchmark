@@ -170,6 +170,7 @@
 | ChatGPT-5.1-Instant-20251113 | 5.367 |
 | gemini-1.5-flash-002 | 5.356 |
 | nvidiaNemotron-3-Nano-Omni-30B-A3B-Reasoning | 5.356 |
+| openaigpt-6.1-sol | 5.333 |
 | Meta-Muse-Spark-20260409 | 5.333 |
 | gpt-6-astra | 5.311 |
 | poolsidelaguna-xs.2free | 5.311 |
@@ -244,6 +245,7 @@
 | qwenqwen3.8-2.4t-a95b | 4.533 |
 | gemma-3-27b-it | 4.522 |
 | claude-opus-4-5-20251101 | 4.511 |
+| anthropicclaude-sonnet-5.5 | 4.489 |
 | upstagesolar-mini4 | 4.467 |
 | nvidianemotron-3.5-lightning | 4.444 |
 | qwen3.8-max-2026-09-02 | 4.389 |

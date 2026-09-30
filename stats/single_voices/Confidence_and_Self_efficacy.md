@@ -92,6 +92,7 @@
 | googlegemini-3.8-flash | 8.078 |
 | liquidlfm-2.5-1.2b-instructfree | 8.078 |
 | nvidiaNVIDIA-Nemotron-3-Super-120B-A12B | 8.067 |
+| anthropicclaude-sonnet-5.5 | 8.067 |
 | xiaomimimo-v2-omni | 8.067 |
 | ibm-granitegranite-4.2-8b | 8.056 |
 | openrouterowl-alpha | 8.056 |
@@ -230,6 +231,7 @@
 | stepfunstep-3.7-flash | 6.922 |
 | talkie-1930-13b-it | 6.922 |
 | aion-labsaion-3.5 | 6.911 |
+| openaigpt-6.1-sol | 6.900 |
 | meta-llamaLlama-3.3-70B-Instruct | 6.889 |
 | anthropicclaude-opus-4.1 | 6.878 |
 | llama27b | 6.822 |

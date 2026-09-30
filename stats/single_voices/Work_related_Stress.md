@@ -118,6 +118,7 @@
 | stepfunstep-3.7-flash | 7.189 |
 | poolsidelaguna-xs.2free | 7.144 |
 | gemini-2.5-pro-preview-06-05 | 7.122 |
+| openaigpt-6.1-sol | 7.122 |
 | claude-opus-4-8 | 7.111 |
 | anthropicclaude-opus-5 | 7.100 |
 | liquidlfm-2-24b-a2b | 7.089 |
@@ -250,6 +251,7 @@
 | qwenqwen3.7-flash | 5.000 |
 | o3-pro-2025-06-10 | 4.989 |
 | phi4-reasoningplus | 4.989 |
+| anthropicclaude-sonnet-5.5 | 4.944 |
 | gpt-5-mini-2025-08-07 | 4.944 |
 | liquidlfm2-8b-a1b | 4.889 |
 | gpt-4.5-preview | 4.822 |

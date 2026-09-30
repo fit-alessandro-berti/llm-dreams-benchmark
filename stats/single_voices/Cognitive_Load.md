@@ -161,6 +161,7 @@
 | minimaxminimax-m2.5 | 7.356 |
 | grok-4.20-experimental-beta-0304-reasoning | 7.344 |
 | bytedance-seedseed-2.0-lite | 7.333 |
+| openaigpt-6.1-sol | 7.322 |
 | anthropicclaude-opus-5.5 | 7.311 |
 | gpt-4o-mini-2024-07-18 | 7.311 |
 | deepseekdeepseek-v4.1-flash | 7.300 |
@@ -258,6 +259,7 @@
 | o3-mini-20250131-HIGH | 6.256 |
 | gpt-5-nano-2025-08-07 | 6.222 |
 | deepseekdeepseek-v4-flash-vision-exp | 6.122 |
+| anthropicclaude-sonnet-5.5 | 5.956 |
 | deepseekdeepseek-v4-flash-0731 | 5.878 |
 | xiaomimimo-v2-pro | 5.811 |
 | qwenqwen3.7-flash | 5.611 |

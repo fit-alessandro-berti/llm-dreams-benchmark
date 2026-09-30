@@ -130,6 +130,7 @@
 | chatgpt-4o-latest-2025-04-26 | 9.522 |
 | deepseekdeepseek-v4-flash | 9.522 |
 | openaigpt-5.6-terra | 9.522 |
+| anthropicclaude-sonnet-5.5 | 9.522 |
 | claude-3-5-sonnet-20241022 | 9.522 |
 | nvidianemotron-3.5-lightning | 9.522 |
 | gpt-4.1-mini-2025-04-14 | 9.522 |
@@ -162,6 +163,7 @@
 | gpt-4.5-preview | 9.467 |
 | ministral-8b-2512 | 9.467 |
 | openaigpt-5.3-chat | 9.467 |
+| openaigpt-6.1-sol | 9.467 |
 | gemini-2.5-pro-exp-03-25 | 9.456 |
 | grok-build-0.1 | 9.456 |
 | o1-2024-12-05 | 9.456 |

@@ -203,6 +203,7 @@
 | qwen3.635b-a3b | 7.911 |
 | googlegemini-3.7-flash | 7.900 |
 | gpt-5.2-2025-12-11 | 7.900 |
+| anthropicclaude-sonnet-5.5 | 7.889 |
 | gemini-3.5-flash | 7.889 |
 | gemma4e2b | 7.889 |
 | moonshotaikimi-k2.5 | 7.889 |
@@ -258,6 +259,7 @@
 | metamuse-spark-1.1 | 7.189 |
 | claude-haiku-4-5-20251001 | 7.133 |
 | bytedance-seedseed-2.0-lite | 7.111 |
+| openaigpt-6.1-sol | 7.089 |
 | claude-fable-5-high | 6.989 |
 | claude-opus-4-8 | 6.944 |
 | qwen3.54b | 6.611 |

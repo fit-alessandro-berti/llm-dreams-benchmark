@@ -95,6 +95,7 @@
 | metamuse-spark-1.1 | 8.044 |
 | o4-mini-2025-04-16 | 8.033 |
 | phi4-reasoning | 8.033 |
+| anthropicclaude-sonnet-5.5 | 8.022 |
 | deepseekdeepseek-v4-flash-vision-exp | 8.022 |
 | GPT-5.5-Pro-20260422 | 8.022 |
 | metamuse-spark-1.3 | 8.022 |
@@ -138,6 +139,7 @@
 | openaigpt-5.4-nano | 7.800 |
 | openaigpt-6-sol | 7.789 |
 | liquidlfm-2.5-1.2b-thinkingfree | 7.789 |
+| openaigpt-6.1-sol | 7.789 |
 | openaigpt-5.4-pro | 7.767 |
 | poolsidelaguna-m.1free | 7.767 |
 | claude-haiku-4-5-20251001 | 7.744 |

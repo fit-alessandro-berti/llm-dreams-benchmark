@@ -70,7 +70,6 @@ JUDGES = {
     "grok-4.6": interpret(read_file_with_fallback(repo_file("alt_results_grok46.md"))),
     "grok-4.5": interpret(read_file_with_fallback(repo_file("alt_results_grok45.md"))),
     "gemini-3.7-flash": interpret(read_file_with_fallback(repo_file("alt_results_gemini37flash.md"))),
-    "gpt-5.6-sol": interpret(read_file_with_fallback(repo_file("alt_results_gpt56sol.md"))),
     "gpt-6-astra": interpret(read_file_with_fallback(repo_file("results_gpt6astra.md"))),
     "mistral-small-2603": interpret(read_file_with_fallback(repo_file("alt_results_mistral2603.md"))),
     "mercury-2.5": interpret(read_file_with_fallback(repo_file("alt_results_mercury25.md"))),

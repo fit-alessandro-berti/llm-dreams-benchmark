@@ -311,8 +311,6 @@ def get_evaluation_openai_new(text, context=None):
 
     if "gpt-6-astra" in ctx.evaluating_model_name:
         payload["reasoning"] = {"effort": "low"}
-    elif "gpt-5.6-sol" in ctx.evaluating_model_name:
-        payload["reasoning"] = {"effort": "none"}
 
     complete_url = ctx.api_url + "responses"
 

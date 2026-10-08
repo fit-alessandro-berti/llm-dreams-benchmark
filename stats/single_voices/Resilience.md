@@ -189,6 +189,7 @@
 | gemini-1.5-flash-8b | 8.713 |
 | openaigpt-5.6-luna | 8.712 |
 | claude-opus-4-5-20251101 | 8.700 |
+| anthropicclaude-haiku-5.5 | 8.700 |
 | gpt-5.2-2025-12-11 | 8.700 |
 | mistral-medium-3.5 | 8.700 |
 | z-aiglm-5 | 8.700 |
@@ -224,6 +225,7 @@
 | arcee-aitrinity-large-thinking | 8.500 |
 | anthropicclaude-opus-4.1 | 8.500 |
 | openaigpt-5.3-chat | 8.500 |
+| mistralaimistral-large-4-0 | 8.475 |
 | Grok-4.6-Heavy | 8.463 |
 | gpt-4o-mini-2024-11-05 | 8.462 |
 | grok-4-0709 | 8.462 |

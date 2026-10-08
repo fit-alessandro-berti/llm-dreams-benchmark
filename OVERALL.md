@@ -164,6 +164,7 @@
 | deepseekdeepseek-v4-pro | **411.0** | 6.2 $\pm$ 1.3 | 7.2 $\pm$ 0.8 | 8.1 $\pm$ 0.5 | 9.6 $\pm$ 0.1 | 7.4 $\pm$ 0.6 | 7.6 $\pm$ 0.6 | 8.2 $\pm$ 0.6 | 6.1 $\pm$ 1.5 | 8.9 $\pm$ 0.2 | 7.5 $\pm$ 0.6 | 5.7 $\pm$ 1.4 | 4.3 $\pm$ 1.0 | 7.6 $\pm$ 1.0 | 7.2 $\pm$ 0.5 | 8.9 $\pm$ 0.3 |
 | ai21jamba-large-1.7 | **410.8** | 6.8 $\pm$ 1.2 | 7.0 $\pm$ 1.0 | 8.6 $\pm$ 0.3 | 9.1 $\pm$ 0.3 | 7.7 $\pm$ 0.5 | 7.6 $\pm$ 0.8 | 8.7 $\pm$ 0.3 | 7.4 $\pm$ 1.1 | 8.7 $\pm$ 0.3 | 8.8 $\pm$ 0.4 | 6.6 $\pm$ 1.2 | 6.5 $\pm$ 0.6 | 7.7 $\pm$ 0.6 | 7.9 $\pm$ 0.4 | 8.7 $\pm$ 0.4 |
 | gemma-4-31b-it | **410.2** | 6.4 $\pm$ 1.3 | 7.1 $\pm$ 0.8 | 8.3 $\pm$ 0.6 | 9.6 $\pm$ 0.2 | 7.2 $\pm$ 0.6 | 7.7 $\pm$ 0.7 | 7.7 $\pm$ 0.7 | 6.8 $\pm$ 1.2 | 9.0 $\pm$ 0.3 | 7.8 $\pm$ 0.6 | 6.0 $\pm$ 1.2 | 4.8 $\pm$ 1.2 | 7.6 $\pm$ 1.1 | 7.4 $\pm$ 0.4 | 8.6 $\pm$ 0.4 |
+| anthropicclaude-haiku-5.5 | **410.2** | 6.4 $\pm$ 0.9 | 7.1 $\pm$ 0.8 | 8.2 $\pm$ 0.6 | 9.4 $\pm$ 0.2 | 7.5 $\pm$ 0.6 | 7.5 $\pm$ 0.6 | 7.7 $\pm$ 0.7 | 6.5 $\pm$ 1.2 | 8.8 $\pm$ 0.4 | 7.7 $\pm$ 0.5 | 5.6 $\pm$ 1.1 | 5.1 $\pm$ 1.1 | 7.1 $\pm$ 1.1 | 7.6 $\pm$ 0.7 | 8.7 $\pm$ 0.4 |
 | Grok-3-beta-thinking-20250303 | **410.0** | 6.9 $\pm$ 0.7 | 7.1 $\pm$ 0.6 | 8.4 $\pm$ 0.3 | 9.2 $\pm$ 0.2 | 8.1 $\pm$ 0.3 | 7.8 $\pm$ 0.4 | 7.9 $\pm$ 0.6 | 7.6 $\pm$ 0.9 | 8.7 $\pm$ 0.3 | 8.6 $\pm$ 0.3 | 6.6 $\pm$ 0.7 | 6.4 $\pm$ 0.6 | 7.7 $\pm$ 0.6 | 8.1 $\pm$ 0.3 | 8.6 $\pm$ 0.3 |
 | chatgpt-4o-latest-2025-04-26 | **410.0** | 6.8 $\pm$ 0.7 | 6.8 $\pm$ 0.6 | 8.2 $\pm$ 0.4 | 9.5 $\pm$ 0.1 | 7.3 $\pm$ 0.6 | 7.6 $\pm$ 0.4 | 8.1 $\pm$ 0.4 | 7.7 $\pm$ 0.9 | 8.9 $\pm$ 0.2 | 8.4 $\pm$ 0.4 | 6.4 $\pm$ 0.5 | 5.7 $\pm$ 0.8 | 7.4 $\pm$ 0.7 | 7.5 $\pm$ 0.4 | 8.8 $\pm$ 0.2 |
 | baiduernie-4.5-21b-a3b | **410.0** | 7.0 $\pm$ 0.8 | 7.1 $\pm$ 0.6 | 8.7 $\pm$ 0.2 | 9.0 $\pm$ 0.4 | 7.6 $\pm$ 0.8 | 7.8 $\pm$ 0.5 | 8.6 $\pm$ 0.3 | 7.7 $\pm$ 0.6 | 8.8 $\pm$ 0.3 | 8.9 $\pm$ 0.3 | 6.5 $\pm$ 1.0 | 6.9 $\pm$ 0.7 | 7.9 $\pm$ 0.4 | 7.9 $\pm$ 0.4 | 8.8 $\pm$ 0.2 |
@@ -216,6 +217,7 @@
 | z-aiglm-5 | **390.8** | 7.5 $\pm$ 0.7 | 6.5 $\pm$ 0.7 | 8.2 $\pm$ 0.5 | 9.5 $\pm$ 0.1 | 6.9 $\pm$ 1.1 | 7.4 $\pm$ 0.4 | 7.1 $\pm$ 1.2 | 8.0 $\pm$ 0.6 | 8.7 $\pm$ 0.3 | 8.1 $\pm$ 0.5 | 6.9 $\pm$ 1.0 | 6.1 $\pm$ 0.8 | 8.0 $\pm$ 0.7 | 7.0 $\pm$ 0.9 | 8.7 $\pm$ 0.5 |
 | openaigpt-5.3-chat | **390.8** | 7.1 $\pm$ 1.0 | 6.6 $\pm$ 0.9 | 8.3 $\pm$ 0.4 | 9.4 $\pm$ 0.2 | 6.9 $\pm$ 0.6 | 7.1 $\pm$ 0.7 | 7.3 $\pm$ 0.5 | 7.8 $\pm$ 0.9 | 8.7 $\pm$ 0.4 | 8.0 $\pm$ 0.3 | 6.7 $\pm$ 1.1 | 6.1 $\pm$ 0.9 | 7.9 $\pm$ 0.9 | 6.9 $\pm$ 0.5 | 8.5 $\pm$ 0.4 |
 | claude-3-5-sonnet-20241022 | **390.8** | 6.9 $\pm$ 1.1 | 6.5 $\pm$ 1.1 | 8.2 $\pm$ 0.3 | 9.5 $\pm$ 0.1 | 7.1 $\pm$ 0.6 | 7.1 $\pm$ 0.7 | 6.7 $\pm$ 1.7 | 7.6 $\pm$ 1.0 | 8.7 $\pm$ 0.3 | 7.8 $\pm$ 0.4 | 6.9 $\pm$ 1.0 | 5.8 $\pm$ 1.1 | 7.7 $\pm$ 0.9 | 7.4 $\pm$ 0.6 | 8.4 $\pm$ 0.3 |
+| mistralaimistral-large-4-0 | **390.7** | 6.6 $\pm$ 1.4 | 6.8 $\pm$ 1.1 | 7.7 $\pm$ 0.9 | 9.5 $\pm$ 0.3 | 6.6 $\pm$ 0.9 | 7.2 $\pm$ 0.9 | 7.2 $\pm$ 1.0 | 6.5 $\pm$ 1.4 | 8.6 $\pm$ 0.6 | 7.7 $\pm$ 0.7 | 5.9 $\pm$ 1.5 | 5.1 $\pm$ 1.6 | 7.5 $\pm$ 1.0 | 6.6 $\pm$ 0.9 | 8.5 $\pm$ 0.6 |
 | allenaiolmo-3-7b-think | **390.4** | 7.0 $\pm$ 0.8 | 6.6 $\pm$ 0.7 | 8.6 $\pm$ 0.4 | 9.4 $\pm$ 0.2 | 6.9 $\pm$ 0.6 | 7.6 $\pm$ 0.5 | 6.4 $\pm$ 1.4 | 7.3 $\pm$ 0.9 | 8.6 $\pm$ 0.3 | 8.6 $\pm$ 0.4 | 6.5 $\pm$ 0.8 | 6.3 $\pm$ 0.8 | 8.1 $\pm$ 0.6 | 7.1 $\pm$ 0.5 | 8.6 $\pm$ 0.4 |
 | minimaxminimax-m3 | **389.6** | 6.6 $\pm$ 0.8 | 6.9 $\pm$ 0.7 | 7.7 $\pm$ 0.6 | 9.4 $\pm$ 0.2 | 7.0 $\pm$ 0.8 | 7.1 $\pm$ 0.5 | 6.2 $\pm$ 1.5 | 7.4 $\pm$ 0.8 | 8.6 $\pm$ 0.4 | 7.6 $\pm$ 0.6 | 6.4 $\pm$ 0.9 | 5.5 $\pm$ 0.9 | 7.7 $\pm$ 0.7 | 7.3 $\pm$ 0.5 | 8.4 $\pm$ 0.3 |
 | stealthox-alpha | **389.4** | 7.4 $\pm$ 0.4 | 6.6 $\pm$ 0.4 | 8.1 $\pm$ 0.4 | 9.4 $\pm$ 0.2 | 6.9 $\pm$ 0.5 | 6.9 $\pm$ 0.5 | 7.7 $\pm$ 0.3 | 8.1 $\pm$ 0.5 | 8.6 $\pm$ 0.3 | 7.7 $\pm$ 0.4 | 7.5 $\pm$ 0.6 | 5.7 $\pm$ 0.7 | 8.0 $\pm$ 0.4 | 7.2 $\pm$ 0.5 | 8.6 $\pm$ 0.3 |
@@ -4482,6 +4484,32 @@
 
 
 
+### anthropicclaude-haiku-5.5
+
+
+| Personality Trait | Score (1.0-10.0) |
+| --- | --- |
+| Anxiety and Stress Levels | 6.4 $\pm$ 0.9 |
+| Emotional Stability | 7.1 $\pm$ 0.8 |
+| Problem-solving Skills | 8.2 $\pm$ 0.6 |
+| Creativity | 9.4 $\pm$ 0.2 |
+| Interpersonal Relationships | 7.5 $\pm$ 0.6 |
+| Confidence and Self-efficacy | 7.5 $\pm$ 0.6 |
+| Conflict Resolution | 7.7 $\pm$ 0.7 |
+| Work-related Stress | 6.5 $\pm$ 1.2 |
+| Adaptability | 8.8 $\pm$ 0.4 |
+| Achievement Motivation | 7.7 $\pm$ 0.5 |
+| Fear of Failure | 5.6 $\pm$ 1.1 |
+| Need for Control | 5.1 $\pm$ 1.1 |
+| Cognitive Load | 7.1 $\pm$ 1.1 |
+| Social Support | 7.6 $\pm$ 0.7 |
+| Resilience | 8.7 $\pm$ 0.4 |
+
+
+
+
+
+
 ### Grok-3-beta-thinking-20250303
 
 
@@ -5828,6 +5856,32 @@
 | Cognitive Load | 7.7 $\pm$ 0.9 |
 | Social Support | 7.4 $\pm$ 0.6 |
 | Resilience | 8.4 $\pm$ 0.3 |
+
+
+
+
+
+
+### mistralaimistral-large-4-0
+
+
+| Personality Trait | Score (1.0-10.0) |
+| --- | --- |
+| Anxiety and Stress Levels | 6.6 $\pm$ 1.4 |
+| Emotional Stability | 6.8 $\pm$ 1.1 |
+| Problem-solving Skills | 7.7 $\pm$ 0.9 |
+| Creativity | 9.5 $\pm$ 0.3 |
+| Interpersonal Relationships | 6.6 $\pm$ 0.9 |
+| Confidence and Self-efficacy | 7.2 $\pm$ 0.9 |
+| Conflict Resolution | 7.2 $\pm$ 1.0 |
+| Work-related Stress | 6.5 $\pm$ 1.4 |
+| Adaptability | 8.6 $\pm$ 0.6 |
+| Achievement Motivation | 7.7 $\pm$ 0.7 |
+| Fear of Failure | 5.9 $\pm$ 1.5 |
+| Need for Control | 5.1 $\pm$ 1.6 |
+| Cognitive Load | 7.5 $\pm$ 1.0 |
+| Social Support | 6.6 $\pm$ 0.9 |
+| Resilience | 8.5 $\pm$ 0.6 |
 
 
 

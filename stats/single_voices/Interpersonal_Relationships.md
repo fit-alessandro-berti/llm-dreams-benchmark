@@ -163,6 +163,7 @@
 | thinkingmachinesinkling-small | 7.575 |
 | nousresearchhermes-4-70b | 7.550 |
 | Qwen-3.6-Max-Preview | 7.550 |
+| anthropicclaude-haiku-5.5 | 7.525 |
 | Gpt-5.1-Pro-20251120 | 7.512 |
 | openaigpt-5.6-sol | 7.500 |
 | chatgpt-4o-latest-2025-03-26 | 7.500 |
@@ -241,6 +242,7 @@
 | aion-labsaion-3.5-mini | 6.713 |
 | Grok-4.6-Heavy | 6.700 |
 | z-aiglm-5.1 | 6.687 |
+| mistralaimistral-large-4-0 | 6.575 |
 | gemma4e2b | 6.575 |
 | qwen3.52b | 6.438 |
 | anthropicclaude-sonnet-4.5 | 6.362 |

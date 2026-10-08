@@ -170,6 +170,7 @@
 | Grok-3-beta-thinking-20250303 | 7.100 |
 | baiduernie-4.5-21b-a3b | 7.088 |
 | gpt-6-astra | 7.075 |
+| anthropicclaude-haiku-5.5 | 7.075 |
 | gemma-3-27b-it | 7.075 |
 | z-aiglm-5.3 | 7.062 |
 | mistral-medium-3.5 | 7.062 |
@@ -204,6 +205,7 @@
 | deepseekdeepseek-v3.2-speciale | 6.800 |
 | stepfunstep-3.7-flash | 6.800 |
 | gemini-3.5-flash-lite | 6.788 |
+| mistralaimistral-large-4-0 | 6.775 |
 | grok-4-1-fast-reasoning | 6.750 |
 | openaigpt-5.6-luna | 6.737 |
 | gemma-4-26b-a4b-it | 6.713 |

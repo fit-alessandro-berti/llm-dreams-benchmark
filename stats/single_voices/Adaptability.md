@@ -161,6 +161,7 @@
 | granite4micro | 8.825 |
 | qwenqwen3.5-27b | 8.825 |
 | stealthspace-bunny-alpha | 8.825 |
+| anthropicclaude-haiku-5.5 | 8.812 |
 | nvidiaNVIDIA-Nemotron-3-Super-120B-A12B | 8.812 |
 | amazonnova-2-lite-v1 | 8.800 |
 | qwenqwen3.5-397b-a17b | 8.800 |
@@ -204,6 +205,7 @@
 | anthropicclaude-sonnet-5 | 8.638 |
 | gemini-1.5-flash-8b | 8.638 |
 | qwenqwen3.8-27b | 8.638 |
+| mistralaimistral-large-4-0 | 8.637 |
 | chatgpt-4o-latest-2024-11-20 | 8.613 |
 | deepseekdeepseek-v4-flash | 8.613 |
 | Gemini-1.5-Pro-Exp-0827 | 8.613 |

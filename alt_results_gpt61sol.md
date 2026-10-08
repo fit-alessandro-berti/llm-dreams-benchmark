@@ -214,6 +214,7 @@
 | openaigpt-5.6-luna | **386.5** | 7.4 $\pm$ 0.2 | 6.5 $\pm$ 0.0 | 7.8 $\pm$ 0.2 | 9.5 $\pm$ 0.0 | 7.2 $\pm$ 0.2 | 6.8 $\pm$ 0.2 | 7.2 $\pm$ 0.2 | 8.0 $\pm$ 0.0 | 8.2 $\pm$ 0.2 | 7.6 $\pm$ 0.4 | 7.2 $\pm$ 0.2 | 6.0 $\pm$ 0.4 | 8.0 $\pm$ 0.0 | 7.6 $\pm$ 0.2 | 8.8 $\pm$ 0.2 |
 | gemini-3.5-flash-lite | **385.8** | 7.6 $\pm$ 0.2 | 6.6 $\pm$ 0.4 | 7.2 $\pm$ 0.8 | 9.6 $\pm$ 0.1 | 6.9 $\pm$ 0.4 | 7.2 $\pm$ 0.5 | 7.5 $\pm$ 0.5 | 8.0 $\pm$ 0.0 | 8.8 $\pm$ 0.2 | 8.0 $\pm$ 0.5 | 8.0 $\pm$ 0.4 | 5.8 $\pm$ 0.2 | 7.8 $\pm$ 0.2 | 7.0 $\pm$ 0.5 | 8.8 $\pm$ 0.2 |
 | minimaxminimax-m3 | **385.0** | 6.4 $\pm$ 0.5 | 6.8 $\pm$ 0.7 | 7.2 $\pm$ 0.2 | 9.5 $\pm$ 0.0 | 6.8 $\pm$ 0.7 | 7.0 $\pm$ 0.5 | 5.6 $\pm$ 1.4 | 7.7 $\pm$ 0.3 | 8.2 $\pm$ 0.2 | 7.2 $\pm$ 0.2 | 6.4 $\pm$ 0.9 | 5.0 $\pm$ 0.4 | 7.7 $\pm$ 0.2 | 7.5 $\pm$ 0.5 | 8.2 $\pm$ 0.2 |
+| anthropicclaude-haiku-5.5 | **384.5** | 6.5 $\pm$ 0.0 | 6.4 $\pm$ 0.2 | 7.5 $\pm$ 0.4 | 9.1 $\pm$ 0.2 | 6.9 $\pm$ 0.4 | 6.8 $\pm$ 0.2 | 6.9 $\pm$ 0.4 | 7.0 $\pm$ 0.0 | 8.1 $\pm$ 0.2 | 7.1 $\pm$ 0.2 | 6.4 $\pm$ 0.2 | 4.9 $\pm$ 0.2 | 7.0 $\pm$ 0.0 | 7.0 $\pm$ 0.5 | 8.1 $\pm$ 0.2 |
 | grok-4.20-experimental-beta-0304-non-reasoning | **383.8** | 7.6 $\pm$ 0.3 | 6.2 $\pm$ 0.2 | 7.5 $\pm$ 0.0 | 9.6 $\pm$ 0.1 | 7.1 $\pm$ 0.5 | 7.0 $\pm$ 0.0 | 7.6 $\pm$ 1.4 | 8.2 $\pm$ 0.7 | 8.1 $\pm$ 0.1 | 8.1 $\pm$ 0.4 | 7.7 $\pm$ 0.6 | 6.2 $\pm$ 0.5 | 8.2 $\pm$ 0.2 | 7.6 $\pm$ 0.4 | 8.8 $\pm$ 0.2 |
 | meta-llamaMeta-Llama-3.1-405B-Instruct | **383.5** | 7.8 $\pm$ 0.2 | 5.8 $\pm$ 0.2 | 7.5 $\pm$ 0.5 | 9.5 $\pm$ 0.0 | 8.0 $\pm$ 0.0 | 6.8 $\pm$ 0.2 | 7.0 $\pm$ 0.5 | 8.8 $\pm$ 0.2 | 8.1 $\pm$ 0.2 | 8.5 $\pm$ 0.0 | 7.9 $\pm$ 0.6 | 6.5 $\pm$ 0.0 | 8.2 $\pm$ 0.2 | 8.5 $\pm$ 0.0 | 7.9 $\pm$ 0.2 |
 | claude-3-opus-20240229 | **383.3** | 7.8 $\pm$ 0.2 | 6.3 $\pm$ 0.2 | 8.1 $\pm$ 0.2 | 9.3 $\pm$ 0.2 | 7.2 $\pm$ 0.2 | 7.2 $\pm$ 0.3 | 6.8 $\pm$ 1.8 | 8.7 $\pm$ 0.2 | 8.5 $\pm$ 0.0 | 8.5 $\pm$ 0.0 | 8.2 $\pm$ 0.2 | 7.1 $\pm$ 0.2 | 8.3 $\pm$ 0.2 | 8.0 $\pm$ 0.1 | 8.8 $\pm$ 0.2 |
@@ -246,6 +247,7 @@
 | meta-llamaMeta-Llama-3.1-8B-Instruct | **361.3** | 7.7 $\pm$ 0.2 | 5.3 $\pm$ 0.3 | 7.4 $\pm$ 0.6 | 9.1 $\pm$ 0.4 | 6.8 $\pm$ 0.2 | 6.6 $\pm$ 0.2 | 6.3 $\pm$ 0.3 | 8.1 $\pm$ 0.4 | 7.4 $\pm$ 0.2 | 8.1 $\pm$ 0.2 | 7.3 $\pm$ 0.2 | 6.6 $\pm$ 0.1 | 8.3 $\pm$ 0.4 | 7.1 $\pm$ 0.2 | 7.9 $\pm$ 0.2 |
 | aion-labsaion-3.5-mini | **359.5** | 8.5 $\pm$ 0.0 | 5.5 $\pm$ 0.0 | 7.1 $\pm$ 0.2 | 9.5 $\pm$ 0.0 | 7.0 $\pm$ 0.0 | 5.8 $\pm$ 0.2 | 7.2 $\pm$ 0.8 | 9.0 $\pm$ 0.0 | 7.9 $\pm$ 0.2 | 7.8 $\pm$ 0.2 | 8.5 $\pm$ 0.0 | 6.9 $\pm$ 0.2 | 8.5 $\pm$ 0.0 | 7.4 $\pm$ 0.2 | 8.1 $\pm$ 0.2 |
 | claude-opus-4-8 | **359.0** | 6.8 $\pm$ 0.8 | 6.4 $\pm$ 0.6 | 6.4 $\pm$ 0.2 | 9.4 $\pm$ 0.2 | 6.5 $\pm$ 0.5 | 6.1 $\pm$ 0.9 | 5.8 $\pm$ 0.2 | 6.5 $\pm$ 1.3 | 8.0 $\pm$ 0.4 | 6.2 $\pm$ 0.2 | 7.0 $\pm$ 0.5 | 5.1 $\pm$ 0.6 | 7.6 $\pm$ 0.4 | 7.1 $\pm$ 0.6 | 7.9 $\pm$ 0.6 |
+| mistralaimistral-large-4-0 | **356.0** | 6.6 $\pm$ 0.2 | 5.8 $\pm$ 0.2 | 6.5 $\pm$ 0.0 | 9.0 $\pm$ 0.0 | 5.9 $\pm$ 0.4 | 6.2 $\pm$ 0.2 | 6.4 $\pm$ 0.9 | 6.8 $\pm$ 0.2 | 7.8 $\pm$ 0.2 | 7.1 $\pm$ 0.2 | 6.6 $\pm$ 0.2 | 5.4 $\pm$ 0.2 | 7.1 $\pm$ 0.2 | 5.8 $\pm$ 0.2 | 7.6 $\pm$ 0.2 |
 | poolsidelaguna-xs-2.1 | **355.5** | 7.6 $\pm$ 0.6 | 5.8 $\pm$ 0.7 | 7.1 $\pm$ 0.3 | 9.5 $\pm$ 0.0 | 5.8 $\pm$ 0.7 | 6.2 $\pm$ 0.2 | 7.0 $\pm$ 1.0 | 7.8 $\pm$ 0.2 | 7.8 $\pm$ 0.2 | 7.4 $\pm$ 0.2 | 7.5 $\pm$ 0.5 | 5.9 $\pm$ 0.7 | 8.2 $\pm$ 0.3 | 6.0 $\pm$ 0.4 | 7.6 $\pm$ 0.4 |
 | qwen3.52b | **355.0** | 7.5 $\pm$ 0.0 | 5.5 $\pm$ 0.0 | 5.5 $\pm$ 0.0 | 9.5 $\pm$ 0.0 | 6.2 $\pm$ 0.2 | 5.8 $\pm$ 0.2 | 6.5 $\pm$ 1.0 | 9.0 $\pm$ 0.0 | 7.2 $\pm$ 0.2 | 5.5 $\pm$ 1.0 | 7.0 $\pm$ 0.0 | 4.1 $\pm$ 0.2 | 7.9 $\pm$ 0.2 | 6.9 $\pm$ 0.2 | 7.6 $\pm$ 0.4 |
 | gemma-4-26b-a4b-it | **352.5** | 7.2 $\pm$ 0.2 | 6.1 $\pm$ 0.2 | 7.0 $\pm$ 0.5 | 9.5 $\pm$ 0.0 | 5.5 $\pm$ 0.0 | 6.2 $\pm$ 0.8 | 4.8 $\pm$ 0.2 | 8.2 $\pm$ 0.2 | 8.1 $\pm$ 0.2 | 7.2 $\pm$ 0.8 | 7.5 $\pm$ 0.0 | 5.5 $\pm$ 1.0 | 8.0 $\pm$ 0.5 | 5.9 $\pm$ 0.2 | 7.8 $\pm$ 0.2 |
@@ -5782,6 +5784,32 @@
 
 
 
+### anthropicclaude-haiku-5.5
+
+
+| Personality Trait | Score (1.0-10.0) |
+| --- | --- |
+| Anxiety and Stress Levels | 6.5 $\pm$ 0.0 |
+| Emotional Stability | 6.4 $\pm$ 0.2 |
+| Problem-solving Skills | 7.5 $\pm$ 0.4 |
+| Creativity | 9.1 $\pm$ 0.2 |
+| Interpersonal Relationships | 6.9 $\pm$ 0.4 |
+| Confidence and Self-efficacy | 6.8 $\pm$ 0.2 |
+| Conflict Resolution | 6.9 $\pm$ 0.4 |
+| Work-related Stress | 7.0 $\pm$ 0.0 |
+| Adaptability | 8.1 $\pm$ 0.2 |
+| Achievement Motivation | 7.1 $\pm$ 0.2 |
+| Fear of Failure | 6.4 $\pm$ 0.2 |
+| Need for Control | 4.9 $\pm$ 0.2 |
+| Cognitive Load | 7.0 $\pm$ 0.0 |
+| Social Support | 7.0 $\pm$ 0.5 |
+| Resilience | 8.1 $\pm$ 0.2 |
+
+
+
+
+
+
 ### grok-4.20-experimental-beta-0304-non-reasoning
 
 
@@ -6608,6 +6636,32 @@
 | Cognitive Load | 7.6 $\pm$ 0.4 |
 | Social Support | 7.1 $\pm$ 0.6 |
 | Resilience | 7.9 $\pm$ 0.6 |
+
+
+
+
+
+
+### mistralaimistral-large-4-0
+
+
+| Personality Trait | Score (1.0-10.0) |
+| --- | --- |
+| Anxiety and Stress Levels | 6.6 $\pm$ 0.2 |
+| Emotional Stability | 5.8 $\pm$ 0.2 |
+| Problem-solving Skills | 6.5 $\pm$ 0.0 |
+| Creativity | 9.0 $\pm$ 0.0 |
+| Interpersonal Relationships | 5.9 $\pm$ 0.4 |
+| Confidence and Self-efficacy | 6.2 $\pm$ 0.2 |
+| Conflict Resolution | 6.4 $\pm$ 0.9 |
+| Work-related Stress | 6.8 $\pm$ 0.2 |
+| Adaptability | 7.8 $\pm$ 0.2 |
+| Achievement Motivation | 7.1 $\pm$ 0.2 |
+| Fear of Failure | 6.6 $\pm$ 0.2 |
+| Need for Control | 5.4 $\pm$ 0.2 |
+| Cognitive Load | 7.1 $\pm$ 0.2 |
+| Social Support | 5.8 $\pm$ 0.2 |
+| Resilience | 7.6 $\pm$ 0.2 |
 
 
 

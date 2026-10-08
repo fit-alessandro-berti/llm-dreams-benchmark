@@ -133,6 +133,7 @@
 | inclusionailing-2.6-1tfree | 5.888 |
 | anthropicclaude-opus-4.6 | 5.875 |
 | x-aigrok-4.5 | 5.875 |
+| mistralaimistral-large-4-0 | 5.850 |
 | anthropicclaude-opus-5.5 | 5.837 |
 | poolsidelaguna-xs.2free | 5.825 |
 | gpt-4.1-nano-2025-04-14 | 5.812 |
@@ -140,6 +141,7 @@
 | deepseekdeepseek-v4-pro | 5.688 |
 | bytedance-seedseed-2.0-mini | 5.675 |
 | qwenqwen3.8-flash | 5.650 |
+| anthropicclaude-haiku-5.5 | 5.638 |
 | metamuse-spark-1.1 | 5.638 |
 | metamuse-spark-1.3 | 5.638 |
 | gpt-4o-mini-2024-07-18 | 5.612 |

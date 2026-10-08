@@ -149,10 +149,12 @@
 | phi2.7b | 6.600 |
 | googlegemini-3.1-flash-lite-preview | 6.563 |
 | o1-2024-12-05 | 6.562 |
+| anthropicclaude-haiku-5.5 | 6.550 |
 | deepseekdeepseek-v4-pro-0813 | 6.550 |
 | GPT-5.5-Pro-20260422 | 6.513 |
 | mistral-medium-3.5 | 6.500 |
 | o4-mini-2025-04-16 | 6.488 |
+| mistralaimistral-large-4-0 | 6.462 |
 | openaigpt-6-sol | 6.450 |
 | qwenqwen3.5-397b-a17b | 6.438 |
 | qwenqwen3.8-flash | 6.425 |

@@ -119,6 +119,7 @@
 | chatgpt-4o-latest-2025-03-26 | 6.588 |
 | googlegemini-3.8-flash | 6.588 |
 | poolsidelaguna-xs.2free | 6.562 |
+| mistralaimistral-large-4-0 | 6.550 |
 | claude-3-7-sonnet-20250219 | 6.538 |
 | gemma-3-27b-it | 6.513 |
 | gpt-4-1106-preview | 6.513 |
@@ -129,6 +130,7 @@
 | xiaomimimo-v2.6-pro | 6.463 |
 | Qwen-3.6-27B | 6.438 |
 | x-aigrok-4.5 | 6.413 |
+| anthropicclaude-haiku-5.5 | 6.400 |
 | gemma-4-31b-it | 6.375 |
 | qwenqwen3.5-27b | 6.375 |
 | gpt-5.3-codex-spark-low | 6.362 |

@@ -119,6 +119,7 @@
 | gemma-4-31b-it | 7.562 |
 | liquidlfm-2.5-1.2b-thinkingfree | 7.562 |
 | deepseekdeepseek-v3.2-speciale | 7.550 |
+| mistralaimistral-large-4-0 | 7.550 |
 | o1-2024-12-05 | 7.538 |
 | gemini-2.5-pro-preview-06-05 | 7.525 |
 | gemini-3.5-flash-lite | 7.525 |
@@ -169,6 +170,7 @@
 | gpt-5-chat-latest-2025-08-19 | 7.150 |
 | o1-pro-2024-12-05 | 7.150 |
 | llama213b | 7.138 |
+| anthropicclaude-haiku-5.5 | 7.125 |
 | ministral-3b-2410 | 7.125 |
 | deepseekdeepseek-v4.1-flash | 7.100 |
 | o1-2024-12-17 | 7.100 |

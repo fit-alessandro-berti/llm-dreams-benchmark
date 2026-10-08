@@ -4,7 +4,7 @@ from pathlib import Path
 from file_utils import read_file_with_fallback
 
 
-ANSWERING_MODEL_NAME = "anthropic/claude-sonnet-5.5"
+ANSWERING_MODEL_NAME = "mistralai/mistral-large-4-0"
 EVALUATING_MODEL_NAME = "gpt-6-astra"
 
 

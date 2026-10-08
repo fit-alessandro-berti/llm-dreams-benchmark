@@ -169,6 +169,7 @@
 | allenaiolmo-3-7b-instruct | 8.262 |
 | gemma-4-31b-it | 8.262 |
 | qwenqwen3.5-plus-02-15 | 8.262 |
+| anthropicclaude-haiku-5.5 | 8.250 |
 | liquidlfm-2.5-1.2b-instructfree | 8.250 |
 | qwenqwen3.7-flash | 8.250 |
 | anthropicclaude-opus-5.5 | 8.238 |
@@ -248,6 +249,7 @@
 | minimaxminimax-m3 | 7.713 |
 | mistral-small-2603 | 7.700 |
 | qwenqwen3.5-27b | 7.688 |
+| mistralaimistral-large-4-0 | 7.662 |
 | ministral-8b-2512 | 7.650 |
 | z-aiglm-5v-turbo | 7.613 |
 | z-aiglm-5.3-flash | 7.612 |

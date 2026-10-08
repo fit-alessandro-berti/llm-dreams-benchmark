@@ -163,10 +163,12 @@
 | Qwen-3.6-27B | 5.162 |
 | openrouterowl-alpha | 5.138 |
 | o1-pro-2024-12-05 | 5.125 |
+| mistralaimistral-large-4-0 | 5.112 |
 | o1-2024-12-17 | 5.112 |
 | phi33.8b | 5.112 |
 | GPT-5.5-Pro-20260422 | 5.062 |
 | qwenqwen3.5-35b-a3b | 5.050 |
+| anthropicclaude-haiku-5.5 | 5.050 |
 | liquidlfm-2.2-6b | 5.050 |
 | nvidiaNemotron-3-Nano-Omni-30B-A3B-Reasoning | 5.050 |
 | moonshotaikimi-k2.5 | 5.038 |

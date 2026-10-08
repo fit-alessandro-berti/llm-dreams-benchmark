@@ -168,6 +168,7 @@
 | liquidlfm-2.5-1.2b-thinkingfree | 7.625 |
 | qwenqwen3-30b-a3b-instruct-2507 | 7.625 |
 | openaigpt-5.4-nano | 7.600 |
+| anthropicclaude-haiku-5.5 | 7.587 |
 | x-aigrok-4.6 | 7.575 |
 | prime-intellectintellect-3 | 7.562 |
 | claude-3-opus-20240229 | 7.550 |
@@ -242,6 +243,7 @@
 | grok-build-0.1 | 6.775 |
 | aion-labsaion-3.5-mini | 6.700 |
 | qwen3.52b | 6.675 |
+| mistralaimistral-large-4-0 | 6.638 |
 | claude-opus-4-8 | 6.613 |
 | qwenqwen3.5-397b-a17b | 6.612 |
 | quasar-438b | 6.525 |

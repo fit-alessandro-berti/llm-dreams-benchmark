@@ -220,9 +220,11 @@
 | anthropicclaude-sonnet-5.5 | 7.737 |
 | stealthox-alpha | 7.725 |
 | openaigpt-5.6-sol | 7.725 |
+| mistralaimistral-large-4-0 | 7.688 |
 | qwenqwen3.7-plus | 7.675 |
 | qwen3.59b | 7.675 |
 | qwenqwen3.5-35b-a3b | 7.675 |
+| anthropicclaude-haiku-5.5 | 7.663 |
 | anthropicclaude-fable-5 | 7.662 |
 | qwenqwen3.8-27b | 7.638 |
 | z-aiglm-5.1 | 7.638 |

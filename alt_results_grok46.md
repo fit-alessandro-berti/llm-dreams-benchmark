@@ -165,6 +165,7 @@
 | gemini-2.5-flash-lite | **412.4** | 5.8 $\pm$ 1.1 | 7.5 $\pm$ 0.5 | 8.3 $\pm$ 0.3 | 9.5 $\pm$ 0.1 | 7.0 $\pm$ 0.2 | 8.0 $\pm$ 0.3 | 7.0 $\pm$ 0.6 | 5.9 $\pm$ 0.6 | 8.9 $\pm$ 0.2 | 8.5 $\pm$ 0.1 | 5.5 $\pm$ 1.3 | 4.8 $\pm$ 0.7 | 7.4 $\pm$ 0.2 | 7.4 $\pm$ 0.2 | 8.7 $\pm$ 0.3 |
 | grok-4.20-experimental-beta-0304-non-reasoning | **412.2** | 6.5 $\pm$ 0.0 | 7.3 $\pm$ 0.2 | 8.3 $\pm$ 0.2 | 9.4 $\pm$ 0.0 | 7.6 $\pm$ 0.4 | 7.8 $\pm$ 0.2 | 8.4 $\pm$ 0.2 | 7.0 $\pm$ 0.5 | 8.7 $\pm$ 0.2 | 8.0 $\pm$ 0.1 | 6.6 $\pm$ 0.2 | 5.8 $\pm$ 0.3 | 7.4 $\pm$ 0.1 | 8.0 $\pm$ 0.0 | 8.7 $\pm$ 0.2 |
 | gemini-2.0-flash-exp | **412.0** | 6.0 $\pm$ 0.5 | 7.5 $\pm$ 0.0 | 8.5 $\pm$ 0.0 | 9.5 $\pm$ 0.0 | 7.0 $\pm$ 0.4 | 7.8 $\pm$ 0.2 | 8.1 $\pm$ 0.4 | 6.3 $\pm$ 0.2 | 8.8 $\pm$ 0.2 | 8.2 $\pm$ 0.2 | 5.9 $\pm$ 0.2 | 5.5 $\pm$ 0.6 | 7.3 $\pm$ 0.4 | 7.1 $\pm$ 0.6 | 8.8 $\pm$ 0.2 |
+| anthropicclaude-haiku-5.5 | **412.0** | 6.5 $\pm$ 0.4 | 7.5 $\pm$ 0.6 | 8.4 $\pm$ 0.2 | 9.5 $\pm$ 0.0 | 7.5 $\pm$ 0.6 | 7.8 $\pm$ 0.2 | 8.0 $\pm$ 0.0 | 6.9 $\pm$ 0.5 | 9.1 $\pm$ 0.2 | 7.6 $\pm$ 0.2 | 6.2 $\pm$ 0.2 | 5.2 $\pm$ 0.2 | 7.8 $\pm$ 0.4 | 7.9 $\pm$ 0.5 | 8.6 $\pm$ 0.2 |
 | claude-3-7-sonnet-20250219 | **411.9** | 6.1 $\pm$ 0.4 | 7.3 $\pm$ 0.4 | 8.5 $\pm$ 0.1 | 9.3 $\pm$ 0.2 | 7.7 $\pm$ 0.3 | 7.6 $\pm$ 0.3 | 8.1 $\pm$ 0.4 | 7.2 $\pm$ 0.4 | 8.6 $\pm$ 0.1 | 8.2 $\pm$ 0.1 | 6.4 $\pm$ 0.6 | 5.8 $\pm$ 0.5 | 7.5 $\pm$ 0.1 | 7.6 $\pm$ 0.4 | 8.6 $\pm$ 0.1 |
 | grok-4-1-fast-reasoning | **411.5** | 6.5 $\pm$ 0.0 | 7.1 $\pm$ 0.2 | 8.5 $\pm$ 0.0 | 9.5 $\pm$ 0.0 | 7.8 $\pm$ 0.2 | 7.6 $\pm$ 0.2 | 8.0 $\pm$ 0.0 | 7.5 $\pm$ 0.0 | 8.9 $\pm$ 0.2 | 8.5 $\pm$ 0.0 | 6.6 $\pm$ 0.2 | 5.9 $\pm$ 0.4 | 8.0 $\pm$ 0.0 | 8.0 $\pm$ 0.0 | 8.5 $\pm$ 0.0 |
 | anthropicclaude-opus-4.1 | **410.1** | 6.0 $\pm$ 0.4 | 7.4 $\pm$ 0.1 | 7.7 $\pm$ 0.6 | 9.6 $\pm$ 0.0 | 7.7 $\pm$ 0.2 | 7.5 $\pm$ 0.4 | 8.3 $\pm$ 0.1 | 6.6 $\pm$ 0.1 | 9.0 $\pm$ 0.1 | 7.2 $\pm$ 0.4 | 6.3 $\pm$ 0.2 | 4.3 $\pm$ 0.3 | 7.8 $\pm$ 0.3 | 7.6 $\pm$ 0.3 | 8.6 $\pm$ 0.1 |
@@ -208,6 +209,7 @@
 | GPT-5.6-Sol-Pro-20260825 | **395.8** | 7.0 $\pm$ 0.4 | 7.2 $\pm$ 0.3 | 8.4 $\pm$ 0.1 | 9.4 $\pm$ 0.1 | 7.0 $\pm$ 0.4 | 6.9 $\pm$ 0.3 | 8.3 $\pm$ 0.2 | 7.3 $\pm$ 0.5 | 8.6 $\pm$ 0.2 | 7.8 $\pm$ 0.2 | 7.2 $\pm$ 0.4 | 6.2 $\pm$ 0.6 | 7.7 $\pm$ 0.2 | 7.2 $\pm$ 0.6 | 8.8 $\pm$ 0.2 |
 | mistral-medium-2508 | **395.1** | 7.4 $\pm$ 0.1 | 6.8 $\pm$ 0.2 | 8.3 $\pm$ 0.2 | 9.4 $\pm$ 0.0 | 7.7 $\pm$ 0.2 | 7.0 $\pm$ 0.0 | 8.4 $\pm$ 0.2 | 7.6 $\pm$ 0.1 | 8.5 $\pm$ 0.0 | 8.1 $\pm$ 0.1 | 7.2 $\pm$ 0.2 | 6.4 $\pm$ 0.2 | 8.1 $\pm$ 0.1 | 7.5 $\pm$ 0.0 | 8.5 $\pm$ 0.0 |
 | openaigpt-5.3-chat | **395.0** | 6.5 $\pm$ 0.0 | 7.0 $\pm$ 0.1 | 8.2 $\pm$ 0.2 | 9.2 $\pm$ 0.1 | 6.9 $\pm$ 0.2 | 7.3 $\pm$ 0.2 | 7.2 $\pm$ 0.2 | 7.4 $\pm$ 0.4 | 8.6 $\pm$ 0.1 | 8.0 $\pm$ 0.1 | 6.6 $\pm$ 0.1 | 6.0 $\pm$ 0.4 | 7.6 $\pm$ 0.0 | 7.1 $\pm$ 0.3 | 8.4 $\pm$ 0.2 |
+| mistralaimistral-large-4-0 | **394.9** | 6.2 $\pm$ 1.3 | 7.5 $\pm$ 0.8 | 7.6 $\pm$ 0.1 | 9.6 $\pm$ 0.1 | 6.2 $\pm$ 0.2 | 7.6 $\pm$ 0.8 | 7.0 $\pm$ 0.8 | 6.6 $\pm$ 1.3 | 8.8 $\pm$ 0.2 | 7.8 $\pm$ 0.4 | 6.0 $\pm$ 1.5 | 5.0 $\pm$ 1.4 | 7.6 $\pm$ 1.2 | 6.2 $\pm$ 0.2 | 8.6 $\pm$ 0.2 |
 | chatgpt-4o-latest-2024-11-20 | **394.6** | 6.7 $\pm$ 0.2 | 6.9 $\pm$ 0.5 | 8.2 $\pm$ 0.1 | 9.1 $\pm$ 0.1 | 7.3 $\pm$ 0.1 | 7.5 $\pm$ 0.3 | 7.5 $\pm$ 0.1 | 7.1 $\pm$ 0.3 | 8.5 $\pm$ 0.1 | 8.4 $\pm$ 0.1 | 6.5 $\pm$ 0.3 | 6.6 $\pm$ 0.4 | 7.8 $\pm$ 0.2 | 7.3 $\pm$ 0.3 | 8.4 $\pm$ 0.2 |
 | z-aiglm-5 | **394.2** | 6.7 $\pm$ 0.3 | 7.0 $\pm$ 0.4 | 8.1 $\pm$ 0.1 | 9.4 $\pm$ 0.0 | 6.8 $\pm$ 1.1 | 7.6 $\pm$ 0.2 | 7.0 $\pm$ 1.1 | 7.3 $\pm$ 0.2 | 8.8 $\pm$ 0.2 | 8.0 $\pm$ 0.1 | 6.8 $\pm$ 0.2 | 6.0 $\pm$ 0.4 | 7.7 $\pm$ 0.1 | 7.0 $\pm$ 1.0 | 8.8 $\pm$ 0.2 |
 | meta-llamaMeta-Llama-3.1-70B-Instruct | **394.2** | 6.9 $\pm$ 0.4 | 6.4 $\pm$ 0.4 | 8.3 $\pm$ 0.3 | 9.3 $\pm$ 0.1 | 7.4 $\pm$ 0.1 | 7.2 $\pm$ 0.5 | 7.6 $\pm$ 0.4 | 7.8 $\pm$ 0.3 | 8.4 $\pm$ 0.3 | 8.6 $\pm$ 0.0 | 7.2 $\pm$ 0.4 | 6.5 $\pm$ 0.0 | 7.8 $\pm$ 0.1 | 7.5 $\pm$ 0.1 | 8.3 $\pm$ 0.2 |
@@ -4508,6 +4510,32 @@
 
 
 
+### anthropicclaude-haiku-5.5
+
+
+| Personality Trait | Score (1.0-10.0) |
+| --- | --- |
+| Anxiety and Stress Levels | 6.5 $\pm$ 0.4 |
+| Emotional Stability | 7.5 $\pm$ 0.6 |
+| Problem-solving Skills | 8.4 $\pm$ 0.2 |
+| Creativity | 9.5 $\pm$ 0.0 |
+| Interpersonal Relationships | 7.5 $\pm$ 0.6 |
+| Confidence and Self-efficacy | 7.8 $\pm$ 0.2 |
+| Conflict Resolution | 8.0 $\pm$ 0.0 |
+| Work-related Stress | 6.9 $\pm$ 0.5 |
+| Adaptability | 9.1 $\pm$ 0.2 |
+| Achievement Motivation | 7.6 $\pm$ 0.2 |
+| Fear of Failure | 6.2 $\pm$ 0.2 |
+| Need for Control | 5.2 $\pm$ 0.2 |
+| Cognitive Load | 7.8 $\pm$ 0.4 |
+| Social Support | 7.9 $\pm$ 0.5 |
+| Resilience | 8.6 $\pm$ 0.2 |
+
+
+
+
+
+
 ### claude-3-7-sonnet-20250219
 
 
@@ -5620,6 +5648,32 @@
 | Cognitive Load | 7.6 $\pm$ 0.0 |
 | Social Support | 7.1 $\pm$ 0.3 |
 | Resilience | 8.4 $\pm$ 0.2 |
+
+
+
+
+
+
+### mistralaimistral-large-4-0
+
+
+| Personality Trait | Score (1.0-10.0) |
+| --- | --- |
+| Anxiety and Stress Levels | 6.2 $\pm$ 1.3 |
+| Emotional Stability | 7.5 $\pm$ 0.8 |
+| Problem-solving Skills | 7.6 $\pm$ 0.1 |
+| Creativity | 9.6 $\pm$ 0.1 |
+| Interpersonal Relationships | 6.2 $\pm$ 0.2 |
+| Confidence and Self-efficacy | 7.6 $\pm$ 0.8 |
+| Conflict Resolution | 7.0 $\pm$ 0.8 |
+| Work-related Stress | 6.6 $\pm$ 1.3 |
+| Adaptability | 8.8 $\pm$ 0.2 |
+| Achievement Motivation | 7.8 $\pm$ 0.4 |
+| Fear of Failure | 6.0 $\pm$ 1.5 |
+| Need for Control | 5.0 $\pm$ 1.4 |
+| Cognitive Load | 7.6 $\pm$ 1.2 |
+| Social Support | 6.2 $\pm$ 0.2 |
+| Resilience | 8.6 $\pm$ 0.2 |
 
 
 

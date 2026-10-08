@@ -173,6 +173,7 @@
 | qwenqwen3.5-35b-a3b | 7.537 |
 | stealthspace-bunny-alpha | 7.537 |
 | openaigpt-6-luna | 7.525 |
+| anthropicclaude-haiku-5.5 | 7.525 |
 | grok-4-1-fast-reasoning | 7.513 |
 | qwenqwen3.5-397b-a17b | 7.500 |
 | gemini-2.5-pro-preview-06-05 | 7.500 |
@@ -205,6 +206,7 @@
 | grok-4.20-experimental-beta-0304-non-reasoning | 7.225 |
 | Gemini-1.5-Pro-Exp-0827 | 7.200 |
 | GPT-5.6-Sol-Pro-20260825 | 7.200 |
+| mistralaimistral-large-4-0 | 7.188 |
 | grok-4-0709 | 7.175 |
 | anthropicclaude-opus-5.5 | 7.162 |
 | minimaxminimax-m3 | 7.162 |

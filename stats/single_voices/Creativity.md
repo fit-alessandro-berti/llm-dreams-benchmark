@@ -144,6 +144,7 @@
 | gemini-1.5-flash-8b | 9.450 |
 | gpt-4o-2024-05-13 | 9.450 |
 | grok-4-fast-reasoning | 9.450 |
+| mistralaimistral-large-4-0 | 9.450 |
 | metamuse-spark-1.1 | 9.438 |
 | metamuse-spark-1.2 | 9.438 |
 | nvidianemotron-3.5-lightning | 9.438 |
@@ -181,6 +182,7 @@
 | phi33.8b | 9.375 |
 | aion-labsaion-2.0 | 9.375 |
 | allenaiolmo-3-7b-think | 9.375 |
+| anthropicclaude-haiku-5.5 | 9.375 |
 | grok-build-0.1 | 9.375 |
 | meta-llamaMeta-Llama-3.1-70B-Instruct | 9.375 |
 | ministral-14b-2512 | 9.375 |

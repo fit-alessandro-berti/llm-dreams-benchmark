@@ -92,6 +92,7 @@
     4500,
     340
   ],
+  "anthropicclaude-haiku-5.5": [],
   "anthropicclaude-opus-4.1": [
     2000,
     250
@@ -574,6 +575,7 @@
     119,
     6.5
   ],
+  "mistralaimistral-large-4-0": [],
   "moonshotaikimi-k2.5": [
     1000,
     32

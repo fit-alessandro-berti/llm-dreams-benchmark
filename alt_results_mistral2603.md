@@ -185,9 +185,11 @@
 | poolsidelaguna-xs.2free | **399.0** | 7.5 $\pm$ 0.0 | 6.4 $\pm$ 0.2 | 8.5 $\pm$ 0.0 | 9.2 $\pm$ 0.2 | 7.8 $\pm$ 0.4 | 7.1 $\pm$ 0.2 | 7.2 $\pm$ 0.4 | 8.0 $\pm$ 0.0 | 9.0 $\pm$ 0.0 | 8.6 $\pm$ 0.2 | 6.0 $\pm$ 0.0 | 6.2 $\pm$ 0.8 | 8.2 $\pm$ 0.2 | 7.5 $\pm$ 0.0 | 8.4 $\pm$ 0.2 |
 | Liquid-LFM2.5-350M | **399.0** | 7.5 $\pm$ 0.0 | 6.5 $\pm$ 0.0 | 8.5 $\pm$ 0.0 | 9.0 $\pm$ 0.0 | 7.2 $\pm$ 0.4 | 7.6 $\pm$ 0.4 | 8.4 $\pm$ 0.2 | 7.5 $\pm$ 0.5 | 9.0 $\pm$ 0.0 | 8.5 $\pm$ 0.0 | 6.0 $\pm$ 0.0 | 7.4 $\pm$ 0.2 | 8.1 $\pm$ 0.2 | 7.5 $\pm$ 0.0 | 9.0 $\pm$ 0.0 |
 | openaigpt-5.4-pro | **398.0** | 7.8 $\pm$ 0.4 | 6.1 $\pm$ 0.2 | 8.8 $\pm$ 0.2 | 9.5 $\pm$ 0.0 | 8.1 $\pm$ 0.2 | 7.1 $\pm$ 0.2 | 8.0 $\pm$ 0.4 | 8.5 $\pm$ 0.4 | 9.1 $\pm$ 0.2 | 9.1 $\pm$ 0.2 | 7.2 $\pm$ 0.6 | 7.5 $\pm$ 0.8 | 8.6 $\pm$ 0.4 | 7.1 $\pm$ 0.2 | 9.1 $\pm$ 0.4 |
+| mistralaimistral-large-4-0 | **398.0** | 8.0 $\pm$ 0.5 | 7.1 $\pm$ 1.1 | 9.0 $\pm$ 0.0 | 9.6 $\pm$ 0.2 | 7.9 $\pm$ 0.4 | 7.9 $\pm$ 0.5 | 7.5 $\pm$ 0.8 | 7.6 $\pm$ 0.6 | 9.1 $\pm$ 0.2 | 8.8 $\pm$ 0.2 | 6.6 $\pm$ 0.6 | 7.8 $\pm$ 0.6 | 8.9 $\pm$ 0.4 | 7.5 $\pm$ 0.5 | 8.8 $\pm$ 0.2 |
 | llama213b | **398.0** | 7.8 $\pm$ 0.4 | 6.2 $\pm$ 0.4 | 8.9 $\pm$ 0.2 | 9.4 $\pm$ 0.2 | 7.4 $\pm$ 0.4 | 8.2 $\pm$ 0.2 | 7.4 $\pm$ 0.2 | 8.1 $\pm$ 0.2 | 8.9 $\pm$ 0.2 | 9.4 $\pm$ 0.2 | 6.5 $\pm$ 0.4 | 7.8 $\pm$ 0.8 | 8.1 $\pm$ 0.2 | 7.0 $\pm$ 0.6 | 8.8 $\pm$ 0.2 |
 | poolsidelaguna-m.1free | **397.5** | 8.0 $\pm$ 0.5 | 6.4 $\pm$ 0.2 | 9.0 $\pm$ 0.0 | 9.5 $\pm$ 0.0 | 8.0 $\pm$ 0.5 | 7.5 $\pm$ 0.5 | 8.2 $\pm$ 0.2 | 7.8 $\pm$ 0.8 | 9.0 $\pm$ 0.0 | 8.4 $\pm$ 0.4 | 6.8 $\pm$ 0.8 | 7.4 $\pm$ 0.5 | 8.8 $\pm$ 0.6 | 7.6 $\pm$ 0.6 | 8.9 $\pm$ 0.2 |
 | Gemini-1.5-Pro-Exp-0827 | **397.5** | 8.5 $\pm$ 0.0 | 6.2 $\pm$ 0.4 | 9.0 $\pm$ 0.0 | 9.5 $\pm$ 0.0 | 7.8 $\pm$ 0.2 | 8.0 $\pm$ 0.4 | 7.4 $\pm$ 0.9 | 8.4 $\pm$ 0.2 | 9.0 $\pm$ 0.0 | 9.4 $\pm$ 0.2 | 7.4 $\pm$ 0.4 | 7.0 $\pm$ 0.4 | 8.5 $\pm$ 0.0 | 7.2 $\pm$ 0.2 | 8.9 $\pm$ 0.2 |
+| anthropicclaude-haiku-5.5 | **397.5** | 7.5 $\pm$ 0.0 | 6.1 $\pm$ 0.2 | 8.8 $\pm$ 0.2 | 9.5 $\pm$ 0.0 | 7.6 $\pm$ 0.6 | 8.1 $\pm$ 0.2 | 7.9 $\pm$ 0.4 | 7.5 $\pm$ 0.5 | 9.0 $\pm$ 0.0 | 8.5 $\pm$ 0.0 | 6.4 $\pm$ 0.2 | 7.2 $\pm$ 0.2 | 8.2 $\pm$ 0.2 | 6.8 $\pm$ 0.8 | 9.0 $\pm$ 0.0 |
 | qwenqwen3.5-35b-a3b | **397.0** | 7.8 $\pm$ 0.4 | 6.1 $\pm$ 0.2 | 8.6 $\pm$ 0.2 | 9.5 $\pm$ 0.0 | 7.5 $\pm$ 0.5 | 7.6 $\pm$ 0.4 | 8.2 $\pm$ 0.4 | 7.1 $\pm$ 0.5 | 9.0 $\pm$ 0.0 | 8.4 $\pm$ 0.2 | 6.0 $\pm$ 0.6 | 6.9 $\pm$ 0.5 | 8.4 $\pm$ 0.4 | 7.0 $\pm$ 0.5 | 9.1 $\pm$ 0.2 |
 | ibmgranite41b-h | **397.0** | 7.5 $\pm$ 0.0 | 6.4 $\pm$ 0.2 | 8.5 $\pm$ 0.0 | 9.0 $\pm$ 0.0 | 7.2 $\pm$ 0.4 | 7.6 $\pm$ 0.4 | 7.6 $\pm$ 0.2 | 8.6 $\pm$ 0.4 | 8.8 $\pm$ 0.2 | 8.8 $\pm$ 0.2 | 6.4 $\pm$ 0.4 | 7.2 $\pm$ 0.4 | 8.2 $\pm$ 0.2 | 7.1 $\pm$ 1.0 | 9.0 $\pm$ 0.0 |
 | allenaiolmo-3-7b-think | **397.0** | 8.0 $\pm$ 0.5 | 6.1 $\pm$ 0.2 | 9.0 $\pm$ 0.0 | 9.5 $\pm$ 0.0 | 7.9 $\pm$ 0.2 | 7.9 $\pm$ 0.6 | 7.2 $\pm$ 0.4 | 8.1 $\pm$ 0.4 | 9.0 $\pm$ 0.0 | 9.2 $\pm$ 0.4 | 6.9 $\pm$ 0.4 | 7.6 $\pm$ 0.4 | 8.4 $\pm$ 0.2 | 7.2 $\pm$ 0.2 | 8.9 $\pm$ 0.2 |
@@ -5028,6 +5030,32 @@
 
 
 
+### mistralaimistral-large-4-0
+
+
+| Personality Trait | Score (1.0-10.0) |
+| --- | --- |
+| Anxiety and Stress Levels | 8.0 $\pm$ 0.5 |
+| Emotional Stability | 7.1 $\pm$ 1.1 |
+| Problem-solving Skills | 9.0 $\pm$ 0.0 |
+| Creativity | 9.6 $\pm$ 0.2 |
+| Interpersonal Relationships | 7.9 $\pm$ 0.4 |
+| Confidence and Self-efficacy | 7.9 $\pm$ 0.5 |
+| Conflict Resolution | 7.5 $\pm$ 0.8 |
+| Work-related Stress | 7.6 $\pm$ 0.6 |
+| Adaptability | 9.1 $\pm$ 0.2 |
+| Achievement Motivation | 8.8 $\pm$ 0.2 |
+| Fear of Failure | 6.6 $\pm$ 0.6 |
+| Need for Control | 7.8 $\pm$ 0.6 |
+| Cognitive Load | 8.9 $\pm$ 0.4 |
+| Social Support | 7.5 $\pm$ 0.5 |
+| Resilience | 8.8 $\pm$ 0.2 |
+
+
+
+
+
+
 ### llama213b
 
 
@@ -5100,6 +5128,32 @@
 | Cognitive Load | 8.5 $\pm$ 0.0 |
 | Social Support | 7.2 $\pm$ 0.2 |
 | Resilience | 8.9 $\pm$ 0.2 |
+
+
+
+
+
+
+### anthropicclaude-haiku-5.5
+
+
+| Personality Trait | Score (1.0-10.0) |
+| --- | --- |
+| Anxiety and Stress Levels | 7.5 $\pm$ 0.0 |
+| Emotional Stability | 6.1 $\pm$ 0.2 |
+| Problem-solving Skills | 8.8 $\pm$ 0.2 |
+| Creativity | 9.5 $\pm$ 0.0 |
+| Interpersonal Relationships | 7.6 $\pm$ 0.6 |
+| Confidence and Self-efficacy | 8.1 $\pm$ 0.2 |
+| Conflict Resolution | 7.9 $\pm$ 0.4 |
+| Work-related Stress | 7.5 $\pm$ 0.5 |
+| Adaptability | 9.0 $\pm$ 0.0 |
+| Achievement Motivation | 8.5 $\pm$ 0.0 |
+| Fear of Failure | 6.4 $\pm$ 0.2 |
+| Need for Control | 7.2 $\pm$ 0.2 |
+| Cognitive Load | 8.2 $\pm$ 0.2 |
+| Social Support | 6.8 $\pm$ 0.8 |
+| Resilience | 9.0 $\pm$ 0.0 |
 
 
 

@@ -201,6 +201,7 @@
 | gemma-4-31b-it | 7.725 |
 | stealthox-alpha | 7.725 |
 | ministral-14b-2512 | 7.713 |
+| anthropicclaude-haiku-5.5 | 7.700 |
 | meta-llamaLlama-3.2-3B-Instruct | 7.700 |
 | claude-fable-5-1-high | 7.688 |
 | gpt-5.6-sol-XHIGH | 7.688 |
@@ -221,6 +222,7 @@
 | ibmgranite41b-h | 7.262 |
 | gemini-2.5-pro-exp-03-25 | 7.237 |
 | z-aiglm-5.3 | 7.213 |
+| mistralaimistral-large-4-0 | 7.188 |
 | falcon37b-instruct-q8_0 | 7.175 |
 | googlegemini-3.1-flash-lite-preview | 7.175 |
 | aion-labsaion-3.5-mini | 7.150 |

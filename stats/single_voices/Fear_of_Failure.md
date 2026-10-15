@@ -30,6 +30,7 @@
 | meta-llamaMeta-Llama-3.1-70B-Instruct | 7.537 |
 | llama27b | 7.513 |
 | meta-llamaMeta-Llama-3.1-8B-Instruct | 7.512 |
+| googlegemini-4-argon | 7.475 |
 | mistral-medium-2508 | 7.450 |
 | stealthox-alpha | 7.450 |
 | meta-llamaMeta-Llama-3.1-405B-Instruct | 7.375 |
@@ -62,6 +63,8 @@
 | ibmgranite41b-h | 6.850 |
 | z-aiglm-5.1 | 6.812 |
 | qwen3.52b | 6.812 |
+| metamuse-wonder | 6.800 |
+| stepfunstep-5-preview | 6.775 |
 | openaigpt-5.6-luna | 6.775 |
 | grok-4-fast-reasoning | 6.763 |
 | qwenqwen3.7-max | 6.763 |
@@ -139,6 +142,7 @@
 | gpt-4.1-nano-2025-04-14 | 5.812 |
 | gpt-5.3-codex-spark-low | 5.788 |
 | deepseekdeepseek-v4-pro | 5.688 |
+| liquidlfm-2.5-24b-a2b | 5.675 |
 | bytedance-seedseed-2.0-mini | 5.675 |
 | qwenqwen3.8-flash | 5.650 |
 | anthropicclaude-haiku-5.5 | 5.638 |

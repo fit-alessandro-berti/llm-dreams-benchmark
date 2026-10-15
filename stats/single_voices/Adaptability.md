@@ -179,6 +179,7 @@
 | liquidlfm-2.5-1.2b-instructfree | 8.762 |
 | gpt-5-chat-latest-2025-08-19 | 8.738 |
 | granite4tiny-h | 8.738 |
+| metamuse-wonder | 8.738 |
 | z-aiglm-5.3 | 8.738 |
 | allenaiolmo-3-7b-instruct | 8.725 |
 | mistral-medium-3.5 | 8.725 |
@@ -194,7 +195,9 @@
 | openaigpt-6.1-sol | 8.700 |
 | z-aiglm-5.2 | 8.700 |
 | falcon33b-instruct-q8_0 | 8.688 |
+| googlegemini-4-argon | 8.688 |
 | grok-4-0709 | 8.688 |
+| liquidlfm-2.5-24b-a2b | 8.688 |
 | qwenqwen3.5-35b-a3b | 8.688 |
 | xiaomimimo-v2.6-pro | 8.688 |
 | chatgpt-4o-latest-2025-03-26 | 8.675 |
@@ -212,6 +215,7 @@
 | nousresearchhermes-4-70b | 8.612 |
 | minimaxminimax-m3 | 8.600 |
 | grok-4.20-multi-agent-experimental-beta-0304 | 8.587 |
+| stepfunstep-5-preview | 8.587 |
 | aion-labsaion-3.5 | 8.575 |
 | allenaiolmo-3-7b-think | 8.575 |
 | poolsidelaguna-xs.2free | 8.562 |

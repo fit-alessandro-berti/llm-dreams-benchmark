@@ -142,6 +142,7 @@
 | stealthox-alpha | 9.450 |
 | z-aiglm-5.3-flash | 9.450 |
 | gemini-1.5-flash-8b | 9.450 |
+| googlegemini-4-argon | 9.450 |
 | gpt-4o-2024-05-13 | 9.450 |
 | grok-4-fast-reasoning | 9.450 |
 | mistralaimistral-large-4-0 | 9.450 |
@@ -153,6 +154,7 @@
 | xiaomimimo-v2-omni | 9.438 |
 | gpt-4.1-2025-04-14 | 9.425 |
 | minimaxminimax-m3 | 9.425 |
+| stepfunstep-5-preview | 9.425 |
 | poolsidelaguna-xs.2free | 9.425 |
 | baiduernie-4.5-300b-a47b | 9.413 |
 | openrouterowl-alpha | 9.413 |
@@ -165,6 +167,7 @@
 | chatgpt-4o-latest-2025-03-26 | 9.400 |
 | falcon37b-instruct-q8_0 | 9.400 |
 | gemini-2.5-pro-exp-03-25 | 9.400 |
+| metamuse-wonder | 9.400 |
 | openaigpt-5.3-chat | 9.400 |
 | openaigpt-6-luna | 9.400 |
 | phi3.53.8b-mini-instruct-fp16 | 9.400 |
@@ -211,6 +214,7 @@
 | gpt-4o-mini-2024-07-18 | 9.338 |
 | microsoftPhi-3-medium-4k-instruct | 9.338 |
 | o1-preview-2024-09-12 | 9.338 |
+| liquidlfm-2.5-24b-a2b | 9.325 |
 | gpt-5.3-codex-spark-low | 9.300 |
 | liquidlfm-2.5-1.2b-thinkingfree | 9.300 |
 | gpt-5.2-pro-2025-12-11 | 9.300 |

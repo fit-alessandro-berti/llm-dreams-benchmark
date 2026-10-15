@@ -37,6 +37,7 @@
 | moonshotaikimi-k2.6 | 8.125 |
 | ministral-14b-2512 | 8.125 |
 | gemini-1.5-flash-8b | 8.088 |
+| stepfunstep-5-preview | 8.088 |
 | meta-llamaMeta-Llama-3.1-70B-Instruct | 8.075 |
 | allenaiolmo-3-7b-think | 8.075 |
 | quasar-438b | 8.050 |
@@ -64,6 +65,7 @@
 | gemini-2.0-pro-exp-02-05 | 7.925 |
 | claude-3-opus-20240229 | 7.913 |
 | Gemini-1.5-Pro-Exp-0827 | 7.913 |
+| googlegemini-4-argon | 7.912 |
 | aion-labsaion-3.5 | 7.900 |
 | openaigpt-5.4-nano | 7.900 |
 | chatgpt-4o-latest-2024-11-20 | 7.888 |
@@ -114,6 +116,7 @@
 | qwen3.50.8b | 7.612 |
 | granite3.28b-instruct-q4_K_M | 7.600 |
 | liquidlfm-2-24b-a2b | 7.600 |
+| metamuse-wonder | 7.588 |
 | poolsidelaguna-xs.2free | 7.588 |
 | deepseekdeepseek-v4-pro | 7.587 |
 | gemma-4-31b-it | 7.562 |
@@ -185,6 +188,7 @@
 | gpt-4.1-mini-2025-04-14 | 7.000 |
 | ai21jamba-mini-1.7 | 6.987 |
 | gemini-2.0-flash-exp | 6.987 |
+| liquidlfm-2.5-24b-a2b | 6.987 |
 | qwen3.59b | 6.975 |
 | granite4small-h | 6.975 |
 | anthropicclaude-opus-5.5 | 6.962 |

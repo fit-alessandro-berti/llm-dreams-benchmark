@@ -144,6 +144,7 @@
 | grok-4-1-fast-reasoning | 8.350 |
 | qwenqwen3.8-max | 8.350 |
 | openaigpt-5.4-pro | 8.338 |
+| metamuse-wonder | 8.337 |
 | qwenqwen3-max | 8.325 |
 | anthropicclaude-opus-5 | 8.325 |
 | gemma-3-27b-it | 8.325 |
@@ -159,6 +160,7 @@
 | metamuse-spark-1.2 | 8.312 |
 | x-aigrok-4.7 | 8.312 |
 | liquidlfm-2.5-1.2b-thinkingfree | 8.300 |
+| googlegemini-4-argon | 8.288 |
 | xiaomimimo-v2.6-flash | 8.288 |
 | chatgpt-4o-latest-2024-11-20 | 8.287 |
 | deepseekdeepseek-v4-flash-0731 | 8.287 |
@@ -175,6 +177,7 @@
 | anthropicclaude-opus-5.5 | 8.238 |
 | gpt-5-chat-latest-2025-08-19 | 8.238 |
 | z-aiglm-5 | 8.237 |
+| liquidlfm-2.5-24b-a2b | 8.225 |
 | claude-3-opus-20240229 | 8.213 |
 | claude-fable-5-1-high | 8.213 |
 | moonshotaikimi-k2.6 | 8.213 |
@@ -218,6 +221,7 @@
 | tencenthy3-previewfree | 8.025 |
 | grok-4.20-multi-agent-experimental-beta-0304 | 8.025 |
 | qwen3.59b | 8.012 |
+| stepfunstep-5-preview | 8.012 |
 | openaigpt-6-luna | 8.000 |
 | gemini-3.5-flash-lite | 7.988 |
 | inceptionmercury-2.5-preview | 7.987 |

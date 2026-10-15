@@ -22,6 +22,7 @@
 | aion-labsaion-2.0 | 7.887 |
 | meta-llamallama-4-scout | 7.850 |
 | mistral-medium-2508 | 7.850 |
+| googlegemini-4-argon | 7.787 |
 | tencenthy3-previewfree | 7.763 |
 | Gemini-1.5-Pro-Exp-0827 | 7.762 |
 | meta-llamaMeta-Llama-3.1-8B-Instruct | 7.738 |
@@ -50,10 +51,12 @@
 | grok-4-0709 | 7.350 |
 | poolsidelaguna-xs-2.1 | 7.350 |
 | gemini-3.5-flash | 7.300 |
+| stepfunstep-5-preview | 7.300 |
 | gemini-3.5-flash-lite | 7.275 |
 | gpt-4o-mini-2024-11-05 | 7.250 |
 | GPT-5.6-Sol-Pro-20260825 | 7.250 |
 | qwenqwen3-max | 7.250 |
+| metamuse-wonder | 7.237 |
 | granite4tiny-h | 7.225 |
 | gemini-2.5-pro-preview-05-06 | 7.213 |
 | grok-4-1-fast-reasoning | 7.213 |
@@ -162,6 +165,7 @@
 | googlegemini-3.1-flash-lite-preview | 6.050 |
 | bytedance-seedseed-2.0-mini | 6.038 |
 | gemini-2.0-flash-exp | 6.037 |
+| liquidlfm-2.5-24b-a2b | 6.025 |
 | qwenqwen3.5-plus-02-15 | 6.000 |
 | anthropicclaude-opus-4.6 | 5.987 |
 | o1-2024-12-17 | 5.975 |

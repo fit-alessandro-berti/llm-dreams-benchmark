@@ -138,6 +138,7 @@
 | openaigpt-5.4-nano | 7.800 |
 | poolsidelaguna-m.1free | 7.800 |
 | upstagesolar-mini4 | 7.800 |
+| metamuse-wonder | 7.788 |
 | xiaomimimo-v2-omni | 7.788 |
 | claude-haiku-4-5-20251001 | 7.775 |
 | gemma-3-27b-it | 7.775 |
@@ -169,6 +170,7 @@
 | chatgpt-4o-latest-2025-03-26 | 7.500 |
 | gpt-5-chat-latest-2025-08-19 | 7.500 |
 | grok-4.20-experimental-beta-0304-reasoning | 7.500 |
+| liquidlfm-2.5-24b-a2b | 7.487 |
 | claude-opus-4-5-20251101 | 7.475 |
 | gemini-2.0-flash-exp | 7.475 |
 | gpt-5.2-2025-12-11 | 7.463 |
@@ -230,6 +232,7 @@
 | gemini-3.5-flash-lite | 6.912 |
 | grok-4-0709 | 6.900 |
 | stealthox-alpha | 6.900 |
+| stepfunstep-5-preview | 6.900 |
 | gpt-4o-mini-2024-11-05 | 6.900 |
 | z-aiglm-5 | 6.900 |
 | openaigpt-5.3-chat | 6.875 |
@@ -244,6 +247,7 @@
 | z-aiglm-5.1 | 6.687 |
 | mistralaimistral-large-4-0 | 6.575 |
 | gemma4e2b | 6.575 |
+| googlegemini-4-argon | 6.537 |
 | qwen3.52b | 6.438 |
 | anthropicclaude-sonnet-4.5 | 6.362 |
 | googlegemini-3.1-flash-lite-preview | 6.350 |

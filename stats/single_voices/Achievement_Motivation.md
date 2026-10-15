@@ -124,10 +124,12 @@
 | poolsidelaguna-xs.2free | 8.212 |
 | gemini-3.6-flash | 8.200 |
 | arcee-aitrinity-large-thinking | 8.200 |
+| googlegemini-4-argon | 8.200 |
 | gpt-5-mini-2025-08-07 | 8.200 |
 | liquidlfm-2.5-1.2b-thinkingfree | 8.200 |
 | gpt-4.1-2025-04-14 | 8.188 |
 | grok-4.20-experimental-beta-0304-non-reasoning | 8.188 |
+| liquidlfm-2.5-24b-a2b | 8.188 |
 | qwenqwen3.8-max | 8.188 |
 | phi4-reasoningplus | 8.187 |
 | gemini-2.5-pro-preview-05-06 | 8.175 |
@@ -152,6 +154,7 @@
 | gpt-5-chat-latest-2025-08-19 | 8.062 |
 | inclusionailing-2.6-1tfree | 8.062 |
 | meituanlongcat-2.0 | 8.050 |
+| metamuse-wonder | 8.050 |
 | deepseekdeepseek-v4.1-flash | 8.037 |
 | nvidiaNVIDIA-Nemotron-3-Super-120B-A12B | 8.037 |
 | Qwen-3.6-Max-Preview | 8.037 |
@@ -196,6 +199,7 @@
 | gpt-5-2025-08-07 | 7.850 |
 | mistral-large-2512 | 7.850 |
 | xiaomimimo-v2-omni | 7.850 |
+| stepfunstep-5-preview | 7.850 |
 | gemma-3-27b-it | 7.838 |
 | gpt-5.2-2025-12-11 | 7.838 |
 | aion-labsaion-3.5-mini | 7.837 |

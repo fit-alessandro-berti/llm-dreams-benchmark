@@ -147,6 +147,7 @@
 | googlegemini-3.1-flash-lite-preview | 7.725 |
 | openaigpt-6-sol | 7.700 |
 | openaigpt-5.4-nano | 7.700 |
+| liquidlfm-2.5-24b-a2b | 7.688 |
 | openaigpt-5.3-codex | 7.688 |
 | GPT-5.5-Pro-20260422 | 7.663 |
 | claude-fable-5-high | 7.662 |
@@ -193,12 +194,14 @@
 | z-aiglm-5 | 7.362 |
 | Liquid-LFM2.5-350M | 7.350 |
 | gemini-2.5-pro-preview-05-06 | 7.325 |
+| metamuse-wonder | 7.312 |
 | smollm21.7b-instruct-q6_K | 7.312 |
 | z-aiglm-5.2 | 7.300 |
 | openaigpt-5.6-terra | 7.300 |
 | arcee-aitrinity-large-thinking | 7.287 |
 | moonshotaikimi-k2.6 | 7.287 |
 | moonshotaikimi-k3 | 7.275 |
+| stepfunstep-5-preview | 7.275 |
 | Gpt-5.1-Pro-20251120 | 7.263 |
 | claude-opus-4-5-20251101 | 7.250 |
 | ibmgranite41b-h | 7.250 |
@@ -215,6 +218,7 @@
 | openaigpt-5.3-chat | 7.087 |
 | claude-3-opus-20240229 | 7.075 |
 | anthropicclaude-opus-5 | 7.075 |
+| googlegemini-4-argon | 7.062 |
 | gpt-5.6-sol-XHIGH | 7.062 |
 | openaigpt-5.6-luna | 7.062 |
 | claude-3-5-sonnet-20241022 | 7.050 |

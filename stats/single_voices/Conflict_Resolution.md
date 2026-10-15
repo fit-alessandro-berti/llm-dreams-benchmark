@@ -132,6 +132,7 @@
 | openaigpt-6-luna | 8.438 |
 | open-mixtral-8x22b | 8.425 |
 | openaigpt-5.6-sol | 8.425 |
+| metamuse-wonder | 8.425 |
 | o1-2024-12-17 | 8.412 |
 | gpt-4-turbo-2024-04-09 | 8.412 |
 | gemini-2.0-flash-exp | 8.400 |
@@ -180,6 +181,7 @@
 | googlegemini-3.8-flash | 8.062 |
 | x-aigrok-4.6 | 8.050 |
 | claude-haiku-4-5-20251001 | 8.038 |
+| liquidlfm-2.5-24b-a2b | 8.025 |
 | grok-4.20-experimental-beta-0304-non-reasoning | 8.013 |
 | openaigpt-5.4-pro | 8.012 |
 | z-aiglm-5.2 | 8.000 |
@@ -208,10 +210,12 @@
 | xiaomimimo-v2.6-pro | 7.663 |
 | meta-llamaMeta-Llama-3.1-405B-Instruct | 7.662 |
 | stepfunstep-3.7-flash | 7.650 |
+| googlegemini-4-argon | 7.587 |
 | grok-4-fast-reasoning | 7.587 |
 | meta-llamaMeta-Llama-3.1-70B-Instruct | 7.562 |
 | openaigpt-5.6-luna | 7.550 |
 | prime-intellectintellect-3 | 7.500 |
+| stepfunstep-5-preview | 7.500 |
 | Qwen-3.6-27B | 7.475 |
 | meta-llamaMeta-Llama-3.1-8B-Instruct | 7.462 |
 | grok-4-0709 | 7.450 |

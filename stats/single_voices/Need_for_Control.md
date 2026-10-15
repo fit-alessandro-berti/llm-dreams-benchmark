@@ -9,6 +9,7 @@
 | meta-llamallama-4-maverick | 7.050 |
 | llama27b | 7.025 |
 | prime-intellectintellect-3 | 6.975 |
+| googlegemini-4-argon | 6.950 |
 | ibmgranite41b-h | 6.938 |
 | claude-3-opus-20240229 | 6.938 |
 | granite4micro | 6.925 |
@@ -59,6 +60,7 @@
 | arcee-aitrinity-large-thinking | 6.200 |
 | nvidiaLlama-3.1-Nemotron-70B-Instruct | 6.200 |
 | qwen2.5-7b-instruct | 6.175 |
+| metamuse-wonder | 6.150 |
 | ai21jamba-mini-1.7 | 6.138 |
 | liquidlfm-2.5-1.2b-thinkingfree | 6.138 |
 | qwen3.50.8b | 6.138 |
@@ -83,6 +85,7 @@
 | granite4small-h | 5.975 |
 | grok-4-1-fast-reasoning | 5.975 |
 | openaigpt-5.6-luna | 5.975 |
+| stepfunstep-5-preview | 5.950 |
 | microsoftPhi-3-medium-4k-instruct | 5.950 |
 | ministral-8b-2512 | 5.913 |
 | stepfunstep-3.7-flash | 5.913 |
@@ -160,6 +163,7 @@
 | metamuse-spark-1.3 | 5.200 |
 | minimaxminimax-m2.7 | 5.175 |
 | gemini-2.5-pro-preview-05-06 | 5.163 |
+| liquidlfm-2.5-24b-a2b | 5.162 |
 | Qwen-3.6-27B | 5.162 |
 | openrouterowl-alpha | 5.138 |
 | o1-pro-2024-12-05 | 5.125 |

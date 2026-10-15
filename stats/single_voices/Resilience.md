@@ -101,6 +101,7 @@
 | Qwen-3.6-Max-Preview | 9.037 |
 | metamuse-spark-1.1 | 9.025 |
 | amazonnova-2-lite-v1 | 9.013 |
+| metamuse-wonder | 9.013 |
 | openaigpt-5.4-nano | 9.013 |
 | gpt-4o-mini-2024-07-18 | 9.012 |
 | metamuse-spark-1.3 | 9.012 |
@@ -171,6 +172,7 @@
 | baiduernie-4.5-21b-a3b | 8.787 |
 | falcon33b-instruct-q8_0 | 8.787 |
 | googlegemini-3.1-flash-lite-preview | 8.787 |
+| liquidlfm-2.5-24b-a2b | 8.787 |
 | anthropicclaude-fable-5 | 8.787 |
 | moonshotaikimi-k3 | 8.775 |
 | openaigpt-6.1-sol | 8.775 |
@@ -216,7 +218,9 @@
 | deepseekdeepseek-v3.2-speciale | 8.575 |
 | ibmgranite41b-h | 8.575 |
 | stepfunstep-3.7-flash | 8.575 |
+| stepfunstep-5-preview | 8.562 |
 | claude-fable-5-1-high | 8.550 |
+| googlegemini-4-argon | 8.550 |
 | claude-3-opus-20240229 | 8.537 |
 | aion-labsaion-3.5 | 8.525 |
 | stealthox-alpha | 8.525 |

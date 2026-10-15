@@ -119,6 +119,7 @@
 | anthropicclaude-opus-5.5 | 7.612 |
 | openaigpt-6-sol | 7.612 |
 | Qwen-3.6-Max-Preview | 7.600 |
+| liquidlfm-2.5-24b-a2b | 7.587 |
 | gpt-5.5-2026-04-23 | 7.575 |
 | nousresearchhermes-4-405b | 7.562 |
 | openrouterowl-alpha | 7.550 |
@@ -156,6 +157,7 @@
 | deepseekdeepseek-v4-pro | 7.237 |
 | xiaomimimo-v2.6-pro | 7.225 |
 | falcon33b-instruct-q8_0 | 7.213 |
+| metamuse-wonder | 7.188 |
 | poolsidelaguna-m.1free | 7.175 |
 | gemini-1.5-flash-8b | 7.175 |
 | openaigpt-5.3-codex | 7.162 |
@@ -209,6 +211,7 @@
 | grok-4-1-fast-reasoning | 6.750 |
 | openaigpt-5.6-luna | 6.737 |
 | gemma-4-26b-a4b-it | 6.713 |
+| stepfunstep-5-preview | 6.713 |
 | anthropicclaude-sonnet-5 | 6.712 |
 | grok-4-1-fast-non-reasoning | 6.700 |
 | gpt-5.2-pro-2025-12-11 | 6.700 |
@@ -244,6 +247,7 @@
 | meta-llamaLlama-3.3-70B-Instruct | 6.050 |
 | ministral-14b-2512 | 6.037 |
 | poolsidelaguna-xs-2.1 | 6.013 |
+| googlegemini-4-argon | 6.000 |
 | meta-llamaMeta-Llama-3.1-405B-Instruct | 5.925 |
 | meta-llamaMeta-Llama-3.1-70B-Instruct | 5.862 |
 | ministral-8b-2512 | 5.850 |

@@ -33,6 +33,7 @@
 | grok-4.20-multi-agent-experimental-beta-0304 | 8.125 |
 | gpt-4o-mini-2024-11-05 | 8.113 |
 | Grok-4.1-20251118 | 8.113 |
+| googlegemini-4-argon | 8.112 |
 | stealthox-alpha | 8.100 |
 | aion-labsaion-2.0 | 8.062 |
 | llama27b | 8.050 |
@@ -57,6 +58,7 @@
 | gpt-5.6-sol-XHIGH | 7.762 |
 | openaigpt-5.3-chat | 7.750 |
 | chatgpt-4o-latest-2025-04-26 | 7.750 |
+| stepfunstep-5-preview | 7.737 |
 | aion-labsaion-3.5 | 7.737 |
 | moonshotaikimi-k2.5 | 7.725 |
 | chatgpt-4o-latest-2024-11-20 | 7.700 |
@@ -74,6 +76,7 @@
 | Grok-3-beta-thinking-20250303 | 7.600 |
 | inclusionailing-2.6-1tfree | 7.600 |
 | poolsidelaguna-xs-2.1 | 7.600 |
+| metamuse-wonder | 7.562 |
 | openaigpt-5.6-luna | 7.562 |
 | GPT-5.6-Sol-Pro-20260825 | 7.538 |
 | z-aiglm-5.2 | 7.513 |
@@ -154,6 +157,7 @@
 | GPT-5.5-Pro-20260422 | 6.513 |
 | mistral-medium-3.5 | 6.500 |
 | o4-mini-2025-04-16 | 6.488 |
+| liquidlfm-2.5-24b-a2b | 6.462 |
 | mistralaimistral-large-4-0 | 6.462 |
 | openaigpt-6-sol | 6.450 |
 | qwenqwen3.5-397b-a17b | 6.438 |

@@ -198,6 +198,7 @@
 | ministral-3b-2512 | 9.363 |
 | o1-2024-12-17 | 9.363 |
 | stealthspace-bunny-alpha | 9.363 |
+| deepseekdeepseek-v4.1-flash-1017 | 9.362 |
 | falcon310b-instruct-q8_0 | 9.362 |
 | z-aiglm-5.2 | 9.362 |
 | ai21jamba-mini-1.7 | 9.350 |
@@ -238,6 +239,7 @@
 | open-mixtral-8x22b | 9.238 |
 | open-mixtral-8x7b | 9.238 |
 | chatgpt-4o-latest-2024-11-20 | 9.225 |
+| metamuse-spark-open | 9.213 |
 | allenaiolmo-3.1-32b-instruct | 9.212 |
 | meta-llamallama-4-scout | 9.212 |
 | claude-opus-4-8 | 9.200 |

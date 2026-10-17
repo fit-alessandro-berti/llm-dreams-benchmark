@@ -176,6 +176,7 @@
 | z-aiglm-5.2 | 7.950 |
 | gemini-2.5-pro-exp-03-25 | 7.938 |
 | aion-labsaion-2.0 | 7.938 |
+| deepseekdeepseek-v4.1-flash-1017 | 7.938 |
 | ministral-14b-2512 | 7.938 |
 | qwenqwen3.7-max | 7.938 |
 | qwenqwen3.8-flash | 7.938 |
@@ -230,6 +231,7 @@
 | qwenqwen3.5-35b-a3b | 7.675 |
 | anthropicclaude-haiku-5.5 | 7.663 |
 | anthropicclaude-fable-5 | 7.662 |
+| metamuse-spark-open | 7.662 |
 | qwenqwen3.8-27b | 7.638 |
 | z-aiglm-5.1 | 7.638 |
 | ministral-3b-2512 | 7.625 |

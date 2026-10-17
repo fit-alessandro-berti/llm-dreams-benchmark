@@ -190,6 +190,7 @@
 | openaigpt-5.4 | 7.425 |
 | moonshotaikimi-k2.5 | 7.412 |
 | qwenqwen3.8-flash | 7.412 |
+| deepseekdeepseek-v4.1-flash-1017 | 7.400 |
 | anthropicclaude-fable-5 | 7.363 |
 | z-aiglm-5 | 7.362 |
 | Liquid-LFM2.5-350M | 7.350 |
@@ -219,6 +220,7 @@
 | claude-3-opus-20240229 | 7.075 |
 | anthropicclaude-opus-5 | 7.075 |
 | googlegemini-4-argon | 7.062 |
+| metamuse-spark-open | 7.062 |
 | gpt-5.6-sol-XHIGH | 7.062 |
 | openaigpt-5.6-luna | 7.062 |
 | claude-3-5-sonnet-20241022 | 7.050 |

@@ -93,6 +93,7 @@
 | phi4-reasoning | 8.587 |
 | claude-opus-4-5-20251101 | 8.562 |
 | gpt-4-0125-preview | 8.562 |
+| deepseekdeepseek-v4.1-flash-1017 | 8.550 |
 | gpt-4o-mini-2024-11-05 | 8.550 |
 | gpt-5-chat-latest-2025-08-19 | 8.550 |
 | Liquid-LFM2.5-350M | 8.550 |
@@ -161,6 +162,7 @@
 | deepseekdeepseek-v4-pro | 8.225 |
 | o1-2024-12-05 | 8.225 |
 | deepseekdeepseek-v3.2-speciale | 8.212 |
+| metamuse-spark-open | 8.200 |
 | mistral-medium-2508 | 8.200 |
 | openrouterowl-alpha | 8.200 |
 | moonshotaikimi-k2.5 | 8.200 |

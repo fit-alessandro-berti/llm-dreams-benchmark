@@ -157,11 +157,13 @@
 | deepseekdeepseek-v4-pro | 7.237 |
 | xiaomimimo-v2.6-pro | 7.225 |
 | falcon33b-instruct-q8_0 | 7.213 |
+| metamuse-spark-open | 7.200 |
 | metamuse-wonder | 7.188 |
 | poolsidelaguna-m.1free | 7.175 |
 | gemini-1.5-flash-8b | 7.175 |
 | openaigpt-5.3-codex | 7.162 |
 | openaigpt-5.4-pro | 7.162 |
+| deepseekdeepseek-v4.1-flash-1017 | 7.150 |
 | gemini-3.5-flash | 7.150 |
 | moonshotaikimi-k3 | 7.150 |
 | chatgpt-4o-latest-2025-03-26 | 7.138 |

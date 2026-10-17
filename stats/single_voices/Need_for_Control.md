@@ -148,6 +148,8 @@
 | qwenqwen3.8-27b | 5.325 |
 | x-aigrok-4.6 | 5.312 |
 | gemma4e2b | 5.300 |
+| metamuse-spark-open | 5.288 |
+| deepseekdeepseek-v4.1-flash-1017 | 5.275 |
 | Grok-4.5-Heavy-20260720 | 5.263 |
 | googlegemini-3.1-flash-lite-preview | 5.250 |
 | qwenqwen3-max | 5.250 |

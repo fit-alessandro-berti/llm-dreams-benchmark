@@ -144,6 +144,7 @@
 | gemma-3-27b-it | 7.775 |
 | nvidiaNVIDIA-Nemotron-3-Super-120B-A12B | 7.775 |
 | openaigpt-6-sol | 7.775 |
+| deepseekdeepseek-v4.1-flash-1017 | 7.775 |
 | grok-4-1-fast-reasoning | 7.750 |
 | qwenqwen3.8-flash | 7.737 |
 | ai21jamba-large-1.7 | 7.725 |
@@ -171,6 +172,7 @@
 | gpt-5-chat-latest-2025-08-19 | 7.500 |
 | grok-4.20-experimental-beta-0304-reasoning | 7.500 |
 | liquidlfm-2.5-24b-a2b | 7.487 |
+| metamuse-spark-open | 7.487 |
 | claude-opus-4-5-20251101 | 7.475 |
 | gemini-2.0-flash-exp | 7.475 |
 | gpt-5.2-2025-12-11 | 7.463 |

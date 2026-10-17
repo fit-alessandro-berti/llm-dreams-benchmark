@@ -158,6 +158,7 @@
 | phi3.53.8b-mini-instruct-fp16 | 7.337 |
 | stealthspace-bunny-alpha | 7.312 |
 | allenaiolmo-3-7b-instruct | 7.300 |
+| deepseekdeepseek-v4.1-flash-1017 | 7.300 |
 | ibm-granitegranite-4.1-8b | 7.287 |
 | xiaomimimo-v2.6-flash | 7.287 |
 | Grok-4.5-Heavy-20260720 | 7.287 |
@@ -172,6 +173,7 @@
 | bytedance-seedseed-2.0-lite | 7.150 |
 | gpt-5-chat-latest-2025-08-19 | 7.150 |
 | o1-pro-2024-12-05 | 7.150 |
+| metamuse-spark-open | 7.150 |
 | llama213b | 7.138 |
 | anthropicclaude-haiku-5.5 | 7.125 |
 | ministral-3b-2410 | 7.125 |

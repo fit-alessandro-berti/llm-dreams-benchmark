@@ -209,6 +209,7 @@
 | gemini-1.5-flash-8b | 8.638 |
 | qwenqwen3.8-27b | 8.638 |
 | mistralaimistral-large-4-0 | 8.637 |
+| deepseekdeepseek-v4.1-flash-1017 | 8.625 |
 | chatgpt-4o-latest-2024-11-20 | 8.613 |
 | deepseekdeepseek-v4-flash | 8.613 |
 | Gemini-1.5-Pro-Exp-0827 | 8.613 |
@@ -221,6 +222,7 @@
 | poolsidelaguna-xs.2free | 8.562 |
 | quasar-438b | 8.562 |
 | claude-3-opus-20240229 | 8.550 |
+| metamuse-spark-open | 8.550 |
 | grok-4.20-experimental-beta-0304-non-reasoning | 8.538 |
 | claude-fable-5-1-high | 8.537 |
 | gpt-5.2-2025-12-11 | 8.525 |

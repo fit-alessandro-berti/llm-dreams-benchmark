@@ -4,7 +4,7 @@ from pathlib import Path
 from file_utils import read_file_with_fallback
 
 
-ANSWERING_MODEL_NAME = "stepfun/step-5-preview"
+ANSWERING_MODEL_NAME = "deepseek/deepseek-v4.1-flash-1017"
 EVALUATING_MODEL_NAME = "gpt-6-astra"
 
 

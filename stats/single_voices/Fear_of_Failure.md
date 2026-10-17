@@ -113,6 +113,7 @@
 | gpt-6-astra | 6.275 |
 | bytedance-seedseed-2.0-lite | 6.250 |
 | deepseekdeepseek-v3.2-speciale | 6.250 |
+| metamuse-spark-open | 6.250 |
 | Liquid-LFM2.5-350M | 6.237 |
 | qwenqwen3-30b-a3b-instruct-2507 | 6.212 |
 | chatgpt-4o-latest-2025-03-26 | 6.188 |
@@ -141,6 +142,7 @@
 | poolsidelaguna-xs.2free | 5.825 |
 | gpt-4.1-nano-2025-04-14 | 5.812 |
 | gpt-5.3-codex-spark-low | 5.788 |
+| deepseekdeepseek-v4.1-flash-1017 | 5.787 |
 | deepseekdeepseek-v4-pro | 5.688 |
 | liquidlfm-2.5-24b-a2b | 5.675 |
 | bytedance-seedseed-2.0-mini | 5.675 |

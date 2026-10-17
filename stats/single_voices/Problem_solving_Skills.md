@@ -178,6 +178,7 @@
 | gpt-5-chat-latest-2025-08-19 | 8.238 |
 | z-aiglm-5 | 8.237 |
 | liquidlfm-2.5-24b-a2b | 8.225 |
+| deepseekdeepseek-v4.1-flash-1017 | 8.225 |
 | claude-3-opus-20240229 | 8.213 |
 | claude-fable-5-1-high | 8.213 |
 | moonshotaikimi-k2.6 | 8.213 |
@@ -226,6 +227,7 @@
 | gemini-3.5-flash-lite | 7.988 |
 | inceptionmercury-2.5-preview | 7.987 |
 | poolsidelaguna-xs.2free | 7.987 |
+| metamuse-spark-open | 7.962 |
 | qwenqwen3-next-80b-a3b-instruct | 7.938 |
 | Liquid-LFM2.5-350M | 7.938 |
 | z-aiglm-5.3 | 7.938 |

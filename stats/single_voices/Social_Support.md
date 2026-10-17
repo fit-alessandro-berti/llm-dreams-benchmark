@@ -175,8 +175,10 @@
 | prime-intellectintellect-3 | 7.562 |
 | claude-3-opus-20240229 | 7.550 |
 | GPT-5.6-Sol-Pro-20260825 | 7.550 |
+| metamuse-spark-open | 7.550 |
 | qwenqwen3.8-flash | 7.550 |
 | Gemini-1.5-Pro-Exp-0827 | 7.538 |
+| deepseekdeepseek-v4.1-flash-1017 | 7.525 |
 | gemini-2.0-pro-exp-02-05 | 7.525 |
 | grok-4-fast-reasoning | 7.525 |
 | googlegemini-3.8-flash | 7.500 |

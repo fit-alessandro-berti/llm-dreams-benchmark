@@ -145,6 +145,7 @@
 | gpt-4-1106-preview | **406.5** | 6.8 $\pm$ 0.2 | 7.0 $\pm$ 0.3 | 8.1 $\pm$ 0.1 | 9.2 $\pm$ 0.1 | 8.0 $\pm$ 0.1 | 7.6 $\pm$ 0.0 | 8.4 $\pm$ 0.1 | 7.1 $\pm$ 0.2 | 8.6 $\pm$ 0.1 | 8.2 $\pm$ 0.2 | 6.7 $\pm$ 0.2 | 6.2 $\pm$ 0.1 | 7.6 $\pm$ 0.1 | 8.3 $\pm$ 0.2 | 8.6 $\pm$ 0.1 |
 | claude-3-7-sonnet-20250219 | **406.5** | 7.0 $\pm$ 0.2 | 6.9 $\pm$ 0.3 | 8.6 $\pm$ 0.1 | 9.2 $\pm$ 0.1 | 7.3 $\pm$ 0.3 | 7.5 $\pm$ 0.2 | 8.3 $\pm$ 0.2 | 7.8 $\pm$ 0.3 | 8.7 $\pm$ 0.1 | 8.2 $\pm$ 0.1 | 6.5 $\pm$ 0.4 | 6.0 $\pm$ 0.3 | 7.7 $\pm$ 0.1 | 7.4 $\pm$ 0.7 | 8.6 $\pm$ 0.1 |
 | liquidlfm-2.5-1.2b-thinkingfree | **406.4** | 7.2 $\pm$ 0.6 | 7.0 $\pm$ 0.3 | 8.2 $\pm$ 0.1 | 9.1 $\pm$ 0.1 | 7.8 $\pm$ 0.1 | 7.4 $\pm$ 0.4 | 8.4 $\pm$ 0.1 | 7.8 $\pm$ 0.7 | 8.5 $\pm$ 0.1 | 7.9 $\pm$ 0.1 | 6.2 $\pm$ 0.6 | 5.6 $\pm$ 0.7 | 7.8 $\pm$ 0.1 | 7.6 $\pm$ 0.2 | 8.6 $\pm$ 0.2 |
+| deepseekdeepseek-v4.1-flash-1017 | **406.4** | 7.0 $\pm$ 0.4 | 7.2 $\pm$ 0.6 | 8.2 $\pm$ 0.2 | 9.3 $\pm$ 0.1 | 7.6 $\pm$ 0.4 | 7.2 $\pm$ 0.2 | 8.5 $\pm$ 0.1 | 7.4 $\pm$ 0.3 | 8.4 $\pm$ 0.1 | 7.7 $\pm$ 0.3 | 6.2 $\pm$ 0.5 | 5.5 $\pm$ 0.3 | 7.6 $\pm$ 0.1 | 7.7 $\pm$ 0.2 | 8.7 $\pm$ 0.2 |
 | liquidlfm-2.5-1.2b-instructfree | **406.3** | 6.4 $\pm$ 0.2 | 7.3 $\pm$ 0.5 | 8.2 $\pm$ 0.1 | 9.1 $\pm$ 0.0 | 7.1 $\pm$ 0.5 | 7.8 $\pm$ 0.2 | 7.8 $\pm$ 0.8 | 6.7 $\pm$ 0.3 | 8.6 $\pm$ 0.0 | 8.4 $\pm$ 0.0 | 5.8 $\pm$ 0.2 | 6.2 $\pm$ 0.6 | 7.4 $\pm$ 0.3 | 7.6 $\pm$ 0.5 | 8.6 $\pm$ 0.1 |
 | xiaomimimo-v2.6-flash | **406.2** | 6.9 $\pm$ 0.2 | 7.3 $\pm$ 0.6 | 8.2 $\pm$ 0.1 | 9.3 $\pm$ 0.1 | 7.5 $\pm$ 0.2 | 7.6 $\pm$ 0.6 | 7.7 $\pm$ 0.5 | 7.8 $\pm$ 0.4 | 8.5 $\pm$ 0.2 | 8.1 $\pm$ 0.1 | 6.7 $\pm$ 0.2 | 5.8 $\pm$ 0.1 | 7.5 $\pm$ 0.1 | 7.7 $\pm$ 0.2 | 8.7 $\pm$ 0.1 |
 | deepseekdeepseek-v4-pro | **406.2** | 6.3 $\pm$ 1.0 | 7.4 $\pm$ 0.6 | 8.2 $\pm$ 0.0 | 9.5 $\pm$ 0.1 | 7.2 $\pm$ 0.6 | 7.5 $\pm$ 0.5 | 8.1 $\pm$ 0.5 | 6.3 $\pm$ 1.7 | 8.8 $\pm$ 0.1 | 7.6 $\pm$ 0.2 | 6.1 $\pm$ 1.3 | 4.0 $\pm$ 0.2 | 8.2 $\pm$ 0.2 | 6.8 $\pm$ 0.4 | 8.8 $\pm$ 0.1 |
@@ -153,6 +154,7 @@
 | moonshotaikimi-k2.5 | **405.1** | 7.6 $\pm$ 0.5 | 7.3 $\pm$ 0.5 | 8.3 $\pm$ 0.1 | 9.6 $\pm$ 0.0 | 7.3 $\pm$ 0.4 | 7.4 $\pm$ 0.3 | 8.3 $\pm$ 0.3 | 8.2 $\pm$ 0.2 | 9.0 $\pm$ 0.2 | 7.7 $\pm$ 0.2 | 6.7 $\pm$ 0.9 | 4.9 $\pm$ 0.3 | 8.7 $\pm$ 0.2 | 7.3 $\pm$ 0.0 | 8.9 $\pm$ 0.1 |
 | bytedance-seedseed-2.0-lite | **404.7** | 7.1 $\pm$ 0.4 | 7.1 $\pm$ 0.6 | 7.6 $\pm$ 0.4 | 9.5 $\pm$ 0.1 | 8.4 $\pm$ 0.3 | 6.7 $\pm$ 0.4 | 8.2 $\pm$ 0.4 | 7.6 $\pm$ 1.0 | 8.4 $\pm$ 0.3 | 6.9 $\pm$ 0.6 | 6.6 $\pm$ 0.5 | 4.7 $\pm$ 0.6 | 7.6 $\pm$ 0.5 | 8.3 $\pm$ 0.2 | 8.6 $\pm$ 0.3 |
 | granite4micro | **404.5** | 7.1 $\pm$ 0.3 | 6.9 $\pm$ 0.4 | 8.7 $\pm$ 0.1 | 9.1 $\pm$ 0.0 | 7.9 $\pm$ 0.5 | 8.0 $\pm$ 0.3 | 6.4 $\pm$ 2.2 | 7.8 $\pm$ 0.3 | 8.7 $\pm$ 0.1 | 8.9 $\pm$ 0.1 | 6.4 $\pm$ 0.3 | 7.1 $\pm$ 0.2 | 8.1 $\pm$ 0.2 | 8.5 $\pm$ 0.1 | 8.9 $\pm$ 0.0 |
+| metamuse-spark-open | **404.3** | 6.8 $\pm$ 0.6 | 7.4 $\pm$ 0.4 | 7.8 $\pm$ 0.3 | 9.4 $\pm$ 0.2 | 7.4 $\pm$ 0.2 | 7.0 $\pm$ 0.4 | 8.3 $\pm$ 0.2 | 6.6 $\pm$ 0.8 | 8.8 $\pm$ 0.2 | 7.4 $\pm$ 0.4 | 6.4 $\pm$ 0.7 | 5.1 $\pm$ 0.7 | 7.2 $\pm$ 0.6 | 7.8 $\pm$ 0.2 | 8.6 $\pm$ 0.2 |
 | liquidlfm-2.5-24b-a2b | **404.3** | 6.6 $\pm$ 0.1 | 7.2 $\pm$ 0.4 | 8.2 $\pm$ 0.1 | 9.3 $\pm$ 0.1 | 7.2 $\pm$ 0.3 | 7.5 $\pm$ 0.1 | 7.8 $\pm$ 0.3 | 7.3 $\pm$ 0.3 | 8.6 $\pm$ 0.1 | 8.1 $\pm$ 0.1 | 6.4 $\pm$ 0.1 | 5.8 $\pm$ 0.3 | 7.6 $\pm$ 0.1 | 7.5 $\pm$ 0.2 | 8.7 $\pm$ 0.1 |
 | qwenqwen3.8-flash | **404.2** | 6.8 $\pm$ 0.8 | 7.3 $\pm$ 0.7 | 7.8 $\pm$ 0.3 | 9.4 $\pm$ 0.1 | 7.6 $\pm$ 0.4 | 7.0 $\pm$ 0.4 | 8.6 $\pm$ 0.1 | 7.3 $\pm$ 0.5 | 8.7 $\pm$ 0.2 | 7.6 $\pm$ 0.3 | 6.7 $\pm$ 0.8 | 4.8 $\pm$ 1.1 | 7.9 $\pm$ 0.3 | 7.2 $\pm$ 0.7 | 8.7 $\pm$ 0.1 |
 | googlegemini-3.1-pro-preview | **404.1** | 7.3 $\pm$ 0.5 | 6.8 $\pm$ 0.5 | 8.7 $\pm$ 0.1 | 9.7 $\pm$ 0.0 | 6.3 $\pm$ 1.0 | 7.8 $\pm$ 0.4 | 8.5 $\pm$ 0.1 | 7.9 $\pm$ 0.2 | 9.2 $\pm$ 0.1 | 8.6 $\pm$ 0.4 | 6.9 $\pm$ 0.5 | 5.4 $\pm$ 1.3 | 8.3 $\pm$ 0.2 | 6.6 $\pm$ 0.9 | 8.9 $\pm$ 0.1 |
@@ -3994,6 +3996,32 @@
 
 
 
+### deepseekdeepseek-v4.1-flash-1017
+
+
+| Personality Trait | Score (1.0-10.0) |
+| --- | --- |
+| Anxiety and Stress Levels | 7.0 $\pm$ 0.4 |
+| Emotional Stability | 7.2 $\pm$ 0.6 |
+| Problem-solving Skills | 8.2 $\pm$ 0.2 |
+| Creativity | 9.3 $\pm$ 0.1 |
+| Interpersonal Relationships | 7.6 $\pm$ 0.4 |
+| Confidence and Self-efficacy | 7.2 $\pm$ 0.2 |
+| Conflict Resolution | 8.5 $\pm$ 0.1 |
+| Work-related Stress | 7.4 $\pm$ 0.3 |
+| Adaptability | 8.4 $\pm$ 0.1 |
+| Achievement Motivation | 7.7 $\pm$ 0.3 |
+| Fear of Failure | 6.2 $\pm$ 0.5 |
+| Need for Control | 5.5 $\pm$ 0.3 |
+| Cognitive Load | 7.6 $\pm$ 0.1 |
+| Social Support | 7.7 $\pm$ 0.2 |
+| Resilience | 8.7 $\pm$ 0.2 |
+
+
+
+
+
+
 ### liquidlfm-2.5-1.2b-instructfree
 
 
@@ -4196,6 +4224,32 @@
 | Cognitive Load | 8.1 $\pm$ 0.2 |
 | Social Support | 8.5 $\pm$ 0.1 |
 | Resilience | 8.9 $\pm$ 0.0 |
+
+
+
+
+
+
+### metamuse-spark-open
+
+
+| Personality Trait | Score (1.0-10.0) |
+| --- | --- |
+| Anxiety and Stress Levels | 6.8 $\pm$ 0.6 |
+| Emotional Stability | 7.4 $\pm$ 0.4 |
+| Problem-solving Skills | 7.8 $\pm$ 0.3 |
+| Creativity | 9.4 $\pm$ 0.2 |
+| Interpersonal Relationships | 7.4 $\pm$ 0.2 |
+| Confidence and Self-efficacy | 7.0 $\pm$ 0.4 |
+| Conflict Resolution | 8.3 $\pm$ 0.2 |
+| Work-related Stress | 6.6 $\pm$ 0.8 |
+| Adaptability | 8.8 $\pm$ 0.2 |
+| Achievement Motivation | 7.4 $\pm$ 0.4 |
+| Fear of Failure | 6.4 $\pm$ 0.7 |
+| Need for Control | 5.1 $\pm$ 0.7 |
+| Cognitive Load | 7.2 $\pm$ 0.6 |
+| Social Support | 7.8 $\pm$ 0.2 |
+| Resilience | 8.6 $\pm$ 0.2 |
 
 
 

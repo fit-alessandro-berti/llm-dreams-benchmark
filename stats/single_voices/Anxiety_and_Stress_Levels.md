@@ -99,6 +99,7 @@
 | qwenqwen3.5-35b-a3b | 6.862 |
 | stepfunstep-3.7-flash | 6.850 |
 | chatgpt-4o-latest-2025-04-26 | 6.837 |
+| metamuse-spark-open | 6.837 |
 | gemma-4-26b-a4b-it | 6.825 |
 | openaigpt-5.4-pro | 6.813 |
 | ai21jamba-large-1.7 | 6.800 |
@@ -119,6 +120,7 @@
 | minimaxminimax-m3 | 6.625 |
 | mistral-medium-3.5 | 6.625 |
 | poolsidelaguna-m.1free | 6.613 |
+| deepseekdeepseek-v4.1-flash-1017 | 6.600 |
 | chatgpt-4o-latest-2025-03-26 | 6.588 |
 | googlegemini-3.8-flash | 6.588 |
 | poolsidelaguna-xs.2free | 6.562 |

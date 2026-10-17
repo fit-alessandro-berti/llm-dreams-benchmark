@@ -129,6 +129,7 @@
 | gemini-2.5-pro-preview-06-05 | 6.975 |
 | gpt-3.5-turbo | 6.975 |
 | Qwen-3.6-Max-Preview | 6.975 |
+| deepseekdeepseek-v4.1-flash-1017 | 6.963 |
 | anthropicclaude-opus-5 | 6.950 |
 | amazonnova-2-lite-v1 | 6.938 |
 | poolsidelaguna-m.1free | 6.888 |
@@ -139,6 +140,7 @@
 | gemma-4-31b-it | 6.825 |
 | Grok-4-fast-20251111 | 6.825 |
 | stealthspace-bunny-alpha | 6.813 |
+| metamuse-spark-open | 6.787 |
 | nousresearchhermes-4-70b | 6.787 |
 | granite4.13b | 6.775 |
 | allenaiolmo-3-7b-instruct | 6.750 |

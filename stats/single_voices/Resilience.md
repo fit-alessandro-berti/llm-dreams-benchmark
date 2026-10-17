@@ -192,6 +192,7 @@
 | openaigpt-5.6-luna | 8.712 |
 | claude-opus-4-5-20251101 | 8.700 |
 | anthropicclaude-haiku-5.5 | 8.700 |
+| deepseekdeepseek-v4.1-flash-1017 | 8.700 |
 | gpt-5.2-2025-12-11 | 8.700 |
 | mistral-medium-3.5 | 8.700 |
 | z-aiglm-5 | 8.700 |
@@ -217,6 +218,7 @@
 | prime-intellectintellect-3 | 8.587 |
 | deepseekdeepseek-v3.2-speciale | 8.575 |
 | ibmgranite41b-h | 8.575 |
+| metamuse-spark-open | 8.575 |
 | stepfunstep-3.7-flash | 8.575 |
 | stepfunstep-5-preview | 8.562 |
 | claude-fable-5-1-high | 8.550 |

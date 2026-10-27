@@ -554,6 +554,7 @@
     428,
     23
   ],
+  "minimaxminimax-m3.1-flash": [],
   "ministral-14b-2512": [
     14
   ],
@@ -596,6 +597,7 @@
   "moonshotaikimi-k3": [
     2800
   ],
+  "moonshotaikimi-k3.1-pro": [],
   "nousresearchhermes-4-405b": [
     405
   ],
@@ -705,6 +707,7 @@
   "openaigpt-6-luna": [],
   "openaigpt-6-sol": [],
   "openaigpt-6.1-sol": [],
+  "openaigpt-6.1-terra": [],
   "openaigpt-oss-120b": [
     117,
     5.1

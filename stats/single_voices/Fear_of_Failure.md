@@ -54,6 +54,7 @@
 | grok-4-1-fast-reasoning | 7.013 |
 | granite4tiny-h | 6.975 |
 | openaigpt-5.4-pro | 6.963 |
+| minimaxminimax-m3.1-flash | 6.938 |
 | gemini-3.5-flash | 6.912 |
 | z-aiglm-5 | 6.912 |
 | Gpt-5.1-Pro-20251120 | 6.900 |
@@ -137,7 +138,9 @@
 | inclusionailing-2.6-1tfree | 5.888 |
 | anthropicclaude-opus-4.6 | 5.875 |
 | x-aigrok-4.5 | 5.875 |
+| moonshotaikimi-k3.1-pro | 5.863 |
 | mistralaimistral-large-4-0 | 5.850 |
+| openaigpt-6.1-terra | 5.850 |
 | anthropicclaude-opus-5.5 | 5.837 |
 | poolsidelaguna-xs.2free | 5.825 |
 | gpt-4.1-nano-2025-04-14 | 5.812 |

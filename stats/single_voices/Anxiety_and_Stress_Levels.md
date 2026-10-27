@@ -44,6 +44,7 @@
 | claude-fable-5-1-high | 7.475 |
 | aion-labsaion-3.5 | 7.450 |
 | gpt-5.2-pro-2025-12-11 | 7.438 |
+| minimaxminimax-m3.1-flash | 7.425 |
 | stealthox-alpha | 7.425 |
 | ministral-8b-2512 | 7.388 |
 | qwen3.52b | 7.375 |
@@ -124,10 +125,12 @@
 | chatgpt-4o-latest-2025-03-26 | 6.588 |
 | googlegemini-3.8-flash | 6.588 |
 | poolsidelaguna-xs.2free | 6.562 |
+| openaigpt-6.1-terra | 6.562 |
 | mistralaimistral-large-4-0 | 6.550 |
 | claude-3-7-sonnet-20250219 | 6.538 |
 | gemma-3-27b-it | 6.513 |
 | gpt-4-1106-preview | 6.513 |
+| moonshotaikimi-k3.1-pro | 6.513 |
 | amazonnova-2-lite-v1 | 6.512 |
 | anthropicclaude-opus-5 | 6.500 |
 | granite4micro | 6.487 |

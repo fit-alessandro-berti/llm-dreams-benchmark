@@ -98,6 +98,7 @@
 | deepseekdeepseek-v4.1-flash | 9.488 |
 | gemini-2.0-flash-exp | 9.488 |
 | minimaxminimax-m2.7 | 9.488 |
+| moonshotaikimi-k3.1-pro | 9.488 |
 | qwenqwen3.5-27b | 9.488 |
 | stepfunstep-3.7-flash | 9.488 |
 | xiaomimimo-v2.5 | 9.488 |
@@ -216,6 +217,7 @@
 | microsoftPhi-3-medium-4k-instruct | 9.338 |
 | o1-preview-2024-09-12 | 9.338 |
 | liquidlfm-2.5-24b-a2b | 9.325 |
+| openaigpt-6.1-terra | 9.312 |
 | gpt-5.3-codex-spark-low | 9.300 |
 | liquidlfm-2.5-1.2b-thinkingfree | 9.300 |
 | gpt-5.2-pro-2025-12-11 | 9.300 |
@@ -224,6 +226,7 @@
 | meta-llamaMeta-Llama-3.1-405B-Instruct | 9.300 |
 | gpt-4-1106-preview | 9.287 |
 | Gpt-5.1-Pro-20251120 | 9.287 |
+| minimaxminimax-m3.1-flash | 9.287 |
 | mistral-large-2512 | 9.287 |
 | phi4-reasoning | 9.287 |
 | grok-2-1212 | 9.275 |

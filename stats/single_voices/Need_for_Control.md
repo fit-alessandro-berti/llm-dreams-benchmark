@@ -60,6 +60,7 @@
 | arcee-aitrinity-large-thinking | 6.200 |
 | nvidiaLlama-3.1-Nemotron-70B-Instruct | 6.200 |
 | qwen2.5-7b-instruct | 6.175 |
+| minimaxminimax-m3.1-flash | 6.162 |
 | metamuse-wonder | 6.150 |
 | ai21jamba-mini-1.7 | 6.138 |
 | liquidlfm-2.5-1.2b-thinkingfree | 6.138 |
@@ -168,6 +169,7 @@
 | liquidlfm-2.5-24b-a2b | 5.162 |
 | Qwen-3.6-27B | 5.162 |
 | openrouterowl-alpha | 5.138 |
+| openaigpt-6.1-terra | 5.138 |
 | o1-pro-2024-12-05 | 5.125 |
 | mistralaimistral-large-4-0 | 5.112 |
 | o1-2024-12-17 | 5.112 |
@@ -193,6 +195,7 @@
 | moonshotaikimi-k2.6 | 4.912 |
 | x-aigrok-4.7 | 4.900 |
 | Meta-Muse-Spark-20260409 | 4.900 |
+| moonshotaikimi-k3.1-pro | 4.875 |
 | Grok-4.30-20260420 | 4.850 |
 | gemini-2.0-flash-exp | 4.837 |
 | openaigpt-6-sol | 4.825 |

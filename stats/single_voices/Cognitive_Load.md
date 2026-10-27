@@ -40,6 +40,7 @@
 | stepfunstep-5-preview | 8.088 |
 | meta-llamaMeta-Llama-3.1-70B-Instruct | 8.075 |
 | allenaiolmo-3-7b-think | 8.075 |
+| minimaxminimax-m3.1-flash | 8.062 |
 | quasar-438b | 8.050 |
 | qwenqwen3.7-max | 8.050 |
 | x-aigrok-4.5 | 8.050 |
@@ -163,6 +164,7 @@
 | xiaomimimo-v2.6-flash | 7.287 |
 | Grok-4.5-Heavy-20260720 | 7.287 |
 | qwenqwen3.8-flash | 7.263 |
+| moonshotaikimi-k3.1-pro | 7.237 |
 | minimaxminimax-m2.5 | 7.237 |
 | meituanlongcat-2.0 | 7.200 |
 | grok-4.20-experimental-beta-0304-reasoning | 7.187 |
@@ -182,6 +184,7 @@
 | allenaiolmo-3.1-32b-instruct | 7.088 |
 | gpt-5.5-2026-04-23 | 7.087 |
 | liquidlfm-2.2-6b | 7.075 |
+| openaigpt-6.1-terra | 7.062 |
 | phi2.7b | 7.050 |
 | qwenqwen3.5-27b | 7.038 |
 | o4-mini-2025-04-16 | 7.025 |

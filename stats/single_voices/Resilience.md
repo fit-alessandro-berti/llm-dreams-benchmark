@@ -100,6 +100,7 @@
 | openaigpt-5.4-pro | 9.037 |
 | Qwen-3.6-Max-Preview | 9.037 |
 | metamuse-spark-1.1 | 9.025 |
+| moonshotaikimi-k3.1-pro | 9.025 |
 | amazonnova-2-lite-v1 | 9.013 |
 | metamuse-wonder | 9.013 |
 | openaigpt-5.4-nano | 9.013 |
@@ -163,6 +164,7 @@
 | gpt-6-astra | 8.825 |
 | xiaomimimo-v2.6-pro | 8.825 |
 | Grok-4.1-20251118 | 8.813 |
+| minimaxminimax-m3.1-flash | 8.812 |
 | qwenqwen3.7-max | 8.812 |
 | gemini-3.5-flash | 8.800 |
 | gpt-5.6-sol-XHIGH | 8.800 |
@@ -215,6 +217,7 @@
 | llama213b | 8.600 |
 | chatgpt-4o-latest-2024-11-20 | 8.600 |
 | grok-4.20-multi-agent-experimental-beta-0304 | 8.600 |
+| openaigpt-6.1-terra | 8.600 |
 | prime-intellectintellect-3 | 8.587 |
 | deepseekdeepseek-v3.2-speciale | 8.575 |
 | ibmgranite41b-h | 8.575 |

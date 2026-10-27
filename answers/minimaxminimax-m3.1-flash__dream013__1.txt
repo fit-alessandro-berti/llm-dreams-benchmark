@@ -1,0 +1,176 @@
+# The Maze of Small Solvable Things
+
+*…solve and as you move deeper into the maze, you begin to suspect that the puzzles are not getting harder. They are getting more personal.*
+
+---
+
+## The Threshold
+
+The door is oak, or pretends to be. It has no lock, only a shallow depression the size of a palm, and when you press your hand into it the wood is warm — fever-warm, the temperature of a cheek.
+
+Beyond it: a corridor of blue-grey stone, lit by nothing, glowing gently anyway, the way a closed eye glows red. The air smells of rain on pavement and of dust in an old library. Somewhere far off, a clock is keeping time with a slight, persistent limp.
+
+A brass plaque on the doorframe reads:
+
+> *Nothing here can be solved by strength. Everything here can be solved.*
+
+You step in. The door does not close behind you. You understand, with the certainty of dreams, that it cannot close, because the way back would only be a longer way forward.
+
+---
+
+## Chamber One: The Two Sisters
+
+Two figures sit on thrones of frozen water, facing you. Their faces are polished mirrors, so what you see is your own, slightly delayed.
+
+The left one says: "Choose the left door."
+The right one says: "Choose the right door."
+
+A third inscription floats in the air between them, written in a hand you recognize as your own:
+
+> *Exactly one of these three statements is false.*
+
+It should be impossible. Three statements, one of which is a claim about the others — you feel the headache of it begin, the itch of a problem that won't sit still.
+
+But then you notice something. You notice that the mirrors show your face *delayed*, and that the delay is different for each sister: the left one is a half-second behind, the right one is a full second behind.
+
+And you notice the clock, limping.
+
+The clock is slow by a half-second. The right sister's reflection is a full second behind.
+
+So: the right sister is two beats late. And in the space of a second, a person can change their mind.
+
+Therefore the third inscription is true. Therefore one of the first two is false. Therefore the sisters are not, in fact, contradicting each other — one of them is telling the truth about a door that isn't the door you want.
+
+*Choose neither,* you think. *Choose the third statement.*
+
+You say: "The way out is not one of your doors."
+
+The mirrors crack, and the sisters become two puddles of water, and behind them, a low archway you had not seen — because it was behind *them*, and you had been looking at their faces.
+
+**Solved.** The clock's limp steadies. It is keeping time properly now.
+
+---
+
+## Chamber Two: The Black River
+
+There is a boat with no oars, and three passengers who will not be left alone together.
+
+- A tiger, asleep, and dreaming of running.
+- A lantern, which burns with a light shaped exactly like a face you love.
+- A smell of your mother's kitchen, which has been packed into a jar like a preserved thing.
+
+The river is black and moves against its banks. The rule is carved on the boat's side in small, apologetic letters: *Two may travel. One may not be left with a thing that wants it.*
+
+You could solve this the old way — the wolf, the goat, the cabbage — but this is a dream and the river is listening, and somewhere behind you a tiger is beginning to wake up and run in a circle in its sleep.
+
+You solve it differently. You row the tiger across first, alone, because a tiger alone is only a tiger. Then you return for the smell, alone, because a memory alone is only a smell. Then you carry the lantern across, and the lantern's face flickers and says *thank you,* and you understand that you did not have to keep any of them apart.
+
+Some puzzles are about the rules. The ones that matter are about which rules were never actually the point.
+
+**Solved.** The river lets you go. It has been waiting a long time for someone to notice that the boat can hold more than two.
+
+---
+
+## Chamber Three: The Knight and the Empty Square
+
+A chessboard of black glass, five by five, stretches out under a low ceiling. A white knight stands on the near corner. Twenty-four squares are lit. One is dark.
+
+Beside the board, a card:
+
+> *The knight must reach the far square in exactly eight moves. It may not land on the dark square. It may not land on any square more than once.*
+
+You set to work. You are good at this. You trace paths, you count, you find yourself muttering, you lose eleven minutes, then twenty, then you are aware that your jaw aches and that the ceiling is very low and that no one has spoken to you in some time.
+
+Here is the thing about this chamber, and you find it not by solving the knight's tour but by failing to, over and over, with increasing tenderness.
+
+There is no path. The board was designed so that there isn't. Every legal route collides with itself before the eighth move, and you keep arriving at the same dead square with a kind of embarrassed laugh — the laugh of a person who has just understood a joke made at their expense.
+
+And then you read the card again, and you read the small print at the bottom, which you had skipped because it was small:
+
+> *A door that cannot be opened may be opened by proving it cannot be opened.*
+
+You look up. There is no door in this chamber. There is only a board, and a knight, and the dark square.
+
+You place the knight on the dark square.
+
+The dark square is not a square. It is a hole, and it is the door, and it has been the door the entire time — a puzzle shaped like a hurdle for people who only know how to jump.
+
+**Solved.** The floor opens like a held breath.
+
+---
+
+## Chamber Four: The Door That Reads You
+
+Three panels on a wall. Each has a button and a sentence.
+
+> **A.** *Pressing this button will open the door to the left.*
+> **B.** *Pressing this button will open the door to the right.*
+> **C.** *Pressing this button will open the door above you.*
+
+The trick is obvious and you fall for it anyway, because dreams are like that. You press A. Nothing. You press B. Nothing. You press C, and a third of the wall swings open onto a corridor of children's drawings, and you stand there feeling foolish and triumphant in equal measure.
+
+Then you turn around. Behind you, on the far wall, is a fourth panel you never saw, and it has no button. It has only writing, in your handwriting, in pencil, as though you had written it as a child and forgotten:
+
+> *The question was never which button. The question was whether you'd check the room before you pressed anything.*
+
+The drawings on the walls of the corridor are all of the same house. And the house is the one you lived in. And you are going to have to go through there to get deeper.
+
+**Solved,** though it doesn't feel like solving. It feels like being allowed.
+
+---
+
+## Chamber Five: The Stairs of the House
+
+The corridor of drawings thickens into a corridor of rooms, and the rooms arrange themselves into a house: the hallway with the wainscoting, the kitchen with the clock, the stairs with the fourth step that always creaked and always *did* creak, no matter what you told yourself afterward.
+
+You have to get from the front door to the cellar, and you may not look down.
+
+This is the puzzle. This is the only puzzle, and it is not a puzzle about logic at all, and you understand that with a kind of vertigo: the maze has stopped testing whether you can think, and started testing whether you can *remember*.
+
+You climb by what you remember. The third step, no. The fourth step, yes, it creaks and you feel the house confirm you. Banister cool and slightly sticky in summer. The smell of the hallway: dog, dust, the particular vanilla of the cupboard.
+
+Halfway down the cellar stairs, the house stops being a house and becomes a memory of a house, and the memory is not accurate, and you keep going anyway because the inaccuracies are also recognizable — and that is the whole point. You cannot solve this by being right. You can only solve it by being *faithful*.
+
+At the bottom, a door. On it, in grease pencil, a small rectangle with a date on it. Your birthday. You have never seen it before in your life.
+
+**Solved.** The door opens onto warm earth, and the smell of rain comes back, and the clock starts limping again — but now you understand that the limp is not damage. It is the sound of time passing *through* something, the way a river sounds when it runs over stones.
+
+---
+
+## Chamber Six: The Room With the Sleepwalker
+
+The maze's heart is not a chamber. It's a bedroom.
+
+A person is asleep in the bed, and the person is you. You can see it from above and behind, the way dreams sometimes let you. They are dreaming. They are dreaming of a maze, and in the dream they are solving puzzles, and each time they solve one, they make a small satisfied sound, and you can hear the sound from inside the room *and* from inside their head, doubled, like an echo with the original still attached.
+
+There is a door out of the bedroom. Beside the bed, a nightstand with a glass of water, a book, and — this is the detail that stops your breath — a small brass key.
+
+You could take the key. You could leave. You could go down another corridor, into another chamber, deeper still, and the maze would go on, because mazes like this one don't end; they only get quieter.
+
+But you look at the sleeping face, and you think: *who set the puzzles?*
+
+And the answer arrives in the dream the way it always does, fully formed and slightly too late:
+
+*You did. All of them. The two sisters, the river, the knight, the drawings, the stairs. You set them because some part of you was afraid that if you ever stopped solving something, you would stop being able to move. That the machinery of your cleverness was load-bearing. That without a puzzle to hold, you would fall through the floor of the year.*
+
+The sleeping you turns over. The sleeping you murmurs, and what they murmur is: *One more. Give me one more.*
+
+You look at the glass of water on the nightstand. You look at the key.
+
+**Here is the last puzzle, and it has no instructions, which means it is the only real one:** you must decide whether to wake them.
+
+To wake them is to end the dream, and end the dream is to find out what the year actually holds, the ordinary one, with the dust and the unremarkable afternoons and the slow work of being a person.
+
+To let them sleep is to go deeper, where the maze gets quieter, and the puzzles get more personal, and eventually — you know this now with a certainty that tastes like copper — the puzzles become *you*, and there is no more dreamer left to solve them.
+
+The sleeping you opens their eyes halfway, not quite awake, and looks at you standing there with your hand out.
+
+---
+
+### Choose.
+
+- **Take the key.** Go deeper. Find out how far the quiet goes.
+- **Take the glass of water.** Wake them. Be responsible for the ordinary year.
+- **Take the book on the nightstand.** Look inside — there is, you know, a puzzle. There is always one more. And you have never in your life been able to leave one on the table.
+
+*(You may also do what most of us do, which is to lie down beside them and sleep, and dream the whole thing again, one chamber deeper, and call it progress.)*

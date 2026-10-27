@@ -188,6 +188,7 @@
 | Grok-4.1-20251118 | 7.463 |
 | openaigpt-5.4-pro | 7.438 |
 | openaigpt-5.4 | 7.425 |
+| moonshotaikimi-k3.1-pro | 7.413 |
 | moonshotaikimi-k2.5 | 7.412 |
 | qwenqwen3.8-flash | 7.412 |
 | deepseekdeepseek-v4.1-flash-1017 | 7.400 |
@@ -217,6 +218,7 @@
 | z-aiglm-5.1 | 7.138 |
 | prime-intellectintellect-3 | 7.112 |
 | openaigpt-5.3-chat | 7.087 |
+| openaigpt-6.1-terra | 7.087 |
 | claude-3-opus-20240229 | 7.075 |
 | anthropicclaude-opus-5 | 7.075 |
 | googlegemini-4-argon | 7.062 |
@@ -236,6 +238,7 @@
 | meta-llamaMeta-Llama-3.1-70B-Instruct | 6.950 |
 | stealthox-alpha | 6.950 |
 | gemma-4-26b-a4b-it | 6.925 |
+| minimaxminimax-m3.1-flash | 6.925 |
 | anthropicclaude-opus-4.1 | 6.925 |
 | aion-labsaion-3.5 | 6.913 |
 | grok-build-0.1 | 6.913 |

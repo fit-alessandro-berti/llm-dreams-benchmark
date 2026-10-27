@@ -153,6 +153,7 @@
 | mistral-medium-3.5 | 8.062 |
 | gpt-5-chat-latest-2025-08-19 | 8.062 |
 | inclusionailing-2.6-1tfree | 8.062 |
+| minimaxminimax-m3.1-flash | 8.062 |
 | meituanlongcat-2.0 | 8.050 |
 | metamuse-wonder | 8.050 |
 | deepseekdeepseek-v4.1-flash | 8.037 |
@@ -232,9 +233,11 @@
 | anthropicclaude-haiku-5.5 | 7.663 |
 | anthropicclaude-fable-5 | 7.662 |
 | metamuse-spark-open | 7.662 |
+| moonshotaikimi-k3.1-pro | 7.662 |
 | qwenqwen3.8-27b | 7.638 |
 | z-aiglm-5.1 | 7.638 |
 | ministral-3b-2512 | 7.625 |
+| openaigpt-6.1-terra | 7.625 |
 | minimaxminimax-m3 | 7.613 |
 | qwen3.8-max-2026-09-02 | 7.600 |
 | thinkingmachinesinkling-small | 7.600 |

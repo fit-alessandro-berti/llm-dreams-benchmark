@@ -120,6 +120,7 @@
 | deepseekdeepseek-v4-flash-vision-exp | 8.425 |
 | gemini-2.0-flash-exp | 8.425 |
 | gpt-5.5-2026-04-23 | 8.425 |
+| moonshotaikimi-k3.1-pro | 8.425 |
 | Grok-3-beta-thinking-20250303 | 8.413 |
 | meituanlongcat-2.0 | 8.412 |
 | poolsidelaguna-m.1free | 8.412 |
@@ -159,6 +160,7 @@
 | gpt-5.2-pro-2025-12-11 | 8.312 |
 | metamuse-spark-1.2 | 8.312 |
 | x-aigrok-4.7 | 8.312 |
+| minimaxminimax-m3.1-flash | 8.312 |
 | liquidlfm-2.5-1.2b-thinkingfree | 8.300 |
 | googlegemini-4-argon | 8.288 |
 | xiaomimimo-v2.6-flash | 8.288 |
@@ -218,6 +220,7 @@
 | meta-llamaMeta-Llama-3.1-405B-Instruct | 8.062 |
 | phi4-reasoning | 8.062 |
 | tencenthy4-preview | 8.062 |
+| openaigpt-6.1-terra | 8.037 |
 | meta-llamallama-4-scout | 8.025 |
 | tencenthy3-previewfree | 8.025 |
 | grok-4.20-multi-agent-experimental-beta-0304 | 8.025 |

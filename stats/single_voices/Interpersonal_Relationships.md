@@ -85,6 +85,7 @@
 | o1-2024-12-17 | 8.112 |
 | stealthspace-bunny-alpha | 8.100 |
 | gpt-4-1106-preview | 8.100 |
+| moonshotaikimi-k3.1-pro | 8.100 |
 | phi4-reasoningplus | 8.100 |
 | x-aigrok-4.7 | 8.088 |
 | gpt-6-astra | 8.087 |
@@ -187,6 +188,7 @@
 | deepseekdeepseek-v4-pro | 7.388 |
 | qwenqwen3.7-flash | 7.387 |
 | moonshotaikimi-k2.5 | 7.375 |
+| openaigpt-6.1-terra | 7.375 |
 | gemini-3-flash-preview | 7.363 |
 | grok-4-fast-reasoning | 7.362 |
 | meta-llamallama-4-scout | 7.362 |
@@ -218,6 +220,7 @@
 | z-aiglm-5.2 | 7.188 |
 | arcee-aitrinity-large-thinking | 7.150 |
 | claude-3-5-sonnet-20241022 | 7.138 |
+| minimaxminimax-m3.1-flash | 7.100 |
 | gemini-3.5-flash | 7.100 |
 | claude-3-opus-20240229 | 7.075 |
 | qwenqwen3.7-max | 7.075 |

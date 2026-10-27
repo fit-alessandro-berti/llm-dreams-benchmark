@@ -77,6 +77,7 @@
 | nousresearchhermes-4-405b | 8.662 |
 | qwenqwen3-max | 8.662 |
 | granite4micro-h | 8.650 |
+| moonshotaikimi-k3.1-pro | 8.650 |
 | anthropicclaude-opus-5 | 8.650 |
 | o3-mini-20250131-HIGH | 8.650 |
 | anthropicclaude-sonnet-5.5 | 8.638 |
@@ -180,7 +181,9 @@
 | grok-4.20-experimental-beta-0304-reasoning | 8.088 |
 | qwenqwen3.8-27b | 8.087 |
 | Grok-4.1-20251118 | 8.075 |
+| minimaxminimax-m3.1-flash | 8.075 |
 | googlegemini-3.8-flash | 8.062 |
+| openaigpt-6.1-terra | 8.050 |
 | x-aigrok-4.6 | 8.050 |
 | claude-haiku-4-5-20251001 | 8.038 |
 | liquidlfm-2.5-24b-a2b | 8.025 |

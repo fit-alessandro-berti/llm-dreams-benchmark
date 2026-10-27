@@ -60,6 +60,7 @@
 | chatgpt-4o-latest-2025-04-26 | 7.750 |
 | stepfunstep-5-preview | 7.737 |
 | aion-labsaion-3.5 | 7.737 |
+| minimaxminimax-m3.1-flash | 7.737 |
 | moonshotaikimi-k2.5 | 7.725 |
 | chatgpt-4o-latest-2024-11-20 | 7.700 |
 | gpt-5.2-pro-2025-12-11 | 7.700 |
@@ -144,6 +145,8 @@
 | nousresearchhermes-4-70b | 6.787 |
 | granite4.13b | 6.775 |
 | allenaiolmo-3-7b-instruct | 6.750 |
+| moonshotaikimi-k3.1-pro | 6.725 |
+| openaigpt-6.1-terra | 6.688 |
 | nvidiaLlama-3.1-Nemotron-70B-Instruct | 6.662 |
 | metamuse-spark-1.1 | 6.650 |
 | gpt-4o-mini-2024-07-18 | 6.650 |

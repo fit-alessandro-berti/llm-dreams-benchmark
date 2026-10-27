@@ -134,6 +134,7 @@
 | googlegemini-3.8-flash | 7.463 |
 | qwenqwen3.8-flash | 7.438 |
 | gpt-4-1106-preview | 7.438 |
+| moonshotaikimi-k3.1-pro | 7.425 |
 | qwenqwen3.5-27b | 7.425 |
 | gemini-2.5-pro-preview-06-05 | 7.400 |
 | bytedance-seedseed-2.0-lite | 7.375 |
@@ -191,6 +192,7 @@
 | qwenqwen3.7-max | 6.963 |
 | poolsidelaguna-xs.2free | 6.962 |
 | gemini-3-flash-preview | 6.950 |
+| openaigpt-6.1-terra | 6.938 |
 | gemini-2.5-pro-preview-05-06 | 6.925 |
 | qwenqwen3-max | 6.925 |
 | minimaxminimax-m3 | 6.913 |
@@ -226,6 +228,7 @@
 | ibmgranite41b-h | 6.562 |
 | allenaiolmo-3-7b-think | 6.550 |
 | grok-4.20-experimental-beta-0304-non-reasoning | 6.550 |
+| minimaxminimax-m3.1-flash | 6.550 |
 | openaigpt-5.3-chat | 6.550 |
 | arcee-aitrinity-large-thinking | 6.525 |
 | z-aiglm-5 | 6.525 |

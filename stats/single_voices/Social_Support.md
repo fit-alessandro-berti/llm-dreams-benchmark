@@ -111,6 +111,7 @@
 | gemini-1.5-flash-002 | 8.000 |
 | qwenqwen3.8-2.4t-a95b | 7.987 |
 | gpt-5.5-2026-04-23 | 7.987 |
+| moonshotaikimi-k3.1-pro | 7.975 |
 | stealthspace-bunny-alpha | 7.950 |
 | amazonnova-2-lite-v1 | 7.950 |
 | deepseekdeepseek-v3.2 | 7.938 |
@@ -183,6 +184,7 @@
 | grok-4-fast-reasoning | 7.525 |
 | googlegemini-3.8-flash | 7.500 |
 | qwen3.59b | 7.487 |
+| openaigpt-6.1-terra | 7.487 |
 | openaigpt-5.6-luna | 7.475 |
 | Liquid-LFM2.5-350M | 7.475 |
 | gemini-2.5-flash-lite | 7.463 |
@@ -244,6 +246,7 @@
 | qwenqwen3.5-35b-a3b | 6.900 |
 | openaigpt-5.3-chat | 6.900 |
 | z-aiglm-5.1 | 6.887 |
+| minimaxminimax-m3.1-flash | 6.875 |
 | stepfunstep-5-preview | 6.838 |
 | grok-build-0.1 | 6.775 |
 | aion-labsaion-3.5-mini | 6.700 |

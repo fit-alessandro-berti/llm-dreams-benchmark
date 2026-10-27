@@ -112,6 +112,7 @@
 | claude-opus-4-5-20251101 | 8.962 |
 | gemini-1.5-flash-002 | 8.950 |
 | gpt-5.5-2026-04-23 | 8.950 |
+| moonshotaikimi-k3.1-pro | 8.950 |
 | openaigpt-5.3-codex | 8.950 |
 | qwenqwen3.5-plus-02-15 | 8.950 |
 | x-aigrok-4.5 | 8.950 |
@@ -203,6 +204,7 @@
 | chatgpt-4o-latest-2025-03-26 | 8.675 |
 | llama213b | 8.675 |
 | Grok-4.1-20251118 | 8.675 |
+| openaigpt-6.1-terra | 8.662 |
 | liquidlfm-2.5-1.2b-thinkingfree | 8.650 |
 | stealthox-alpha | 8.650 |
 | anthropicclaude-sonnet-5 | 8.638 |
@@ -219,6 +221,7 @@
 | stepfunstep-5-preview | 8.587 |
 | aion-labsaion-3.5 | 8.575 |
 | allenaiolmo-3-7b-think | 8.575 |
+| minimaxminimax-m3.1-flash | 8.562 |
 | poolsidelaguna-xs.2free | 8.562 |
 | quasar-438b | 8.562 |
 | claude-3-opus-20240229 | 8.550 |

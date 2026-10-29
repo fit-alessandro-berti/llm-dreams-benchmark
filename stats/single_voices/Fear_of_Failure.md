@@ -260,6 +260,7 @@
 | anthropicclaude-sonnet-5.5 | 3.575 |
 | phi4-reasoningplus | 3.575 |
 | gpt-5-nano-2025-08-07 | 3.538 |
+| inceptionmercury-3 | 3.488 |
 | upstagesolar-pro4 | 3.487 |
 | o3-pro-2025-06-10 | 3.463 |
 | open-mixtral-8x7b | 3.438 |

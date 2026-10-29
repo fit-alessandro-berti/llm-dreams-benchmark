@@ -20,6 +20,7 @@
 | gpt-4.5-preview | 8.412 |
 | gpt-5-mini-2025-08-07 | 8.400 |
 | qwen2.5-72b-instruct | 8.400 |
+| inceptionmercury-3 | 8.388 |
 | upstagesolar-pro4 | 8.387 |
 | gpt-4-0125-preview | 8.375 |
 | gpt-5-nano-2025-08-07 | 8.375 |

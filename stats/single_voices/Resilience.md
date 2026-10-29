@@ -24,6 +24,7 @@
 | qwenqwen3.6-plusfree | 9.275 |
 | grok-2-1212 | 9.263 |
 | Meta-Muse-Spark-20260409 | 9.263 |
+| inceptionmercury-3 | 9.262 |
 | qwen2.5-72b-instruct | 9.262 |
 | anthropicclaude-sonnet-4.6 | 9.250 |
 | googlegemini-3.7-flash | 9.250 |

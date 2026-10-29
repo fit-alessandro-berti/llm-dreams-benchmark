@@ -260,6 +260,7 @@
 | phi4-reasoningplus | 4.337 |
 | phi33.8b | 4.325 |
 | gpt-4.5-preview | 4.287 |
+| inceptionmercury-3 | 4.287 |
 | liquidlfm2-8b-a1b | 4.237 |
 | o3-pro-2025-06-10 | 4.125 |
 | xiaomimimo-v2-pro | 4.125 |

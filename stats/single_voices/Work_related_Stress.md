@@ -256,6 +256,7 @@
 | upstagesolar-pro4 | 4.875 |
 | Grok-4.3-20260530 | 4.862 |
 | deepseekdeepseek-v3.2 | 4.850 |
+| inceptionmercury-3 | 4.812 |
 | qwen3.8-max-2026-09-02 | 4.812 |
 | phi33.8b | 4.800 |
 | nvidianemotron-3.5-lightning | 4.725 |

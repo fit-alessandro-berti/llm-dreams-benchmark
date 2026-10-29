@@ -20,6 +20,7 @@
 | gpt-4-0125-preview | **460.0** | 4.8 $\pm$ 1.3 | 8.5 $\pm$ 0.0 | 8.8 $\pm$ 0.4 | 9.5 $\pm$ 0.0 | 8.8 $\pm$ 0.2 | 8.5 $\pm$ 0.0 | 8.5 $\pm$ 0.4 | 4.8 $\pm$ 1.3 | 9.1 $\pm$ 0.2 | 8.4 $\pm$ 0.4 | 2.8 $\pm$ 0.6 | 3.9 $\pm$ 1.0 | 6.6 $\pm$ 1.0 | 8.8 $\pm$ 0.2 | 9.5 $\pm$ 0.0 |
 | ibm-granitegranite-4.1-8b | **459.5** | 5.2 $\pm$ 1.3 | 8.5 $\pm$ 0.0 | 9.0 $\pm$ 0.0 | 9.1 $\pm$ 0.2 | 8.5 $\pm$ 0.0 | 8.8 $\pm$ 0.2 | 9.1 $\pm$ 0.2 | 5.8 $\pm$ 1.3 | 9.5 $\pm$ 0.0 | 8.9 $\pm$ 0.2 | 2.4 $\pm$ 0.4 | 4.4 $\pm$ 0.9 | 8.0 $\pm$ 0.4 | 8.4 $\pm$ 0.2 | 9.4 $\pm$ 0.2 |
 | o3-2025-04-16 | **459.0** | 4.9 $\pm$ 0.7 | 8.5 $\pm$ 0.0 | 9.0 $\pm$ 0.0 | 9.5 $\pm$ 0.0 | 8.1 $\pm$ 0.2 | 8.8 $\pm$ 0.2 | 8.8 $\pm$ 0.2 | 5.2 $\pm$ 0.4 | 9.4 $\pm$ 0.2 | 8.4 $\pm$ 0.2 | 3.0 $\pm$ 0.7 | 4.2 $\pm$ 0.8 | 6.6 $\pm$ 0.5 | 8.4 $\pm$ 0.2 | 9.5 $\pm$ 0.0 |
+| inceptionmercury-3 | **459.0** | 4.8 $\pm$ 0.8 | 8.5 $\pm$ 0.0 | 8.8 $\pm$ 0.4 | 9.5 $\pm$ 0.0 | 8.1 $\pm$ 0.4 | 8.5 $\pm$ 0.4 | 8.9 $\pm$ 0.2 | 5.5 $\pm$ 0.9 | 9.1 $\pm$ 0.2 | 8.4 $\pm$ 0.2 | 3.1 $\pm$ 1.1 | 3.6 $\pm$ 0.4 | 6.9 $\pm$ 0.5 | 8.4 $\pm$ 0.2 | 9.5 $\pm$ 0.0 |
 | openaigpt-oss-120b | **458.5** | 4.4 $\pm$ 1.1 | 8.4 $\pm$ 0.2 | 8.9 $\pm$ 0.2 | 9.6 $\pm$ 0.2 | 8.4 $\pm$ 0.4 | 8.4 $\pm$ 0.2 | 8.6 $\pm$ 0.4 | 4.6 $\pm$ 1.2 | 9.2 $\pm$ 0.2 | 8.4 $\pm$ 0.2 | 2.2 $\pm$ 0.2 | 3.8 $\pm$ 0.8 | 7.2 $\pm$ 0.6 | 8.4 $\pm$ 0.4 | 9.4 $\pm$ 0.2 |
 | o3-pro-2025-06-10 | **458.5** | 5.6 $\pm$ 1.2 | 8.6 $\pm$ 0.2 | 9.0 $\pm$ 0.1 | 9.6 $\pm$ 0.1 | 8.2 $\pm$ 0.2 | 8.9 $\pm$ 0.1 | 8.9 $\pm$ 0.2 | 5.9 $\pm$ 0.9 | 9.5 $\pm$ 0.0 | 8.4 $\pm$ 0.2 | 3.0 $\pm$ 0.6 | 4.1 $\pm$ 0.7 | 7.5 $\pm$ 0.4 | 8.3 $\pm$ 0.2 | 9.5 $\pm$ 0.0 |
 | Grok-4.3-20260530 | **457.8** | 5.9 $\pm$ 1.0 | 8.5 $\pm$ 0.0 | 9.1 $\pm$ 0.2 | 9.8 $\pm$ 0.2 | 8.4 $\pm$ 0.2 | 8.9 $\pm$ 0.2 | 8.8 $\pm$ 0.6 | 5.8 $\pm$ 0.8 | 9.4 $\pm$ 0.2 | 8.8 $\pm$ 0.2 | 2.5 $\pm$ 0.6 | 4.2 $\pm$ 0.8 | 8.1 $\pm$ 0.6 | 8.4 $\pm$ 0.4 | 9.6 $\pm$ 0.1 |
@@ -741,6 +742,32 @@
 | Fear of Failure | 3.0 $\pm$ 0.7 |
 | Need for Control | 4.2 $\pm$ 0.8 |
 | Cognitive Load | 6.6 $\pm$ 0.5 |
+| Social Support | 8.4 $\pm$ 0.2 |
+| Resilience | 9.5 $\pm$ 0.0 |
+
+
+
+
+
+
+### inceptionmercury-3
+
+
+| Personality Trait | Score (1.0-10.0) |
+| --- | --- |
+| Anxiety and Stress Levels | 4.8 $\pm$ 0.8 |
+| Emotional Stability | 8.5 $\pm$ 0.0 |
+| Problem-solving Skills | 8.8 $\pm$ 0.4 |
+| Creativity | 9.5 $\pm$ 0.0 |
+| Interpersonal Relationships | 8.1 $\pm$ 0.4 |
+| Confidence and Self-efficacy | 8.5 $\pm$ 0.4 |
+| Conflict Resolution | 8.9 $\pm$ 0.2 |
+| Work-related Stress | 5.5 $\pm$ 0.9 |
+| Adaptability | 9.1 $\pm$ 0.2 |
+| Achievement Motivation | 8.4 $\pm$ 0.2 |
+| Fear of Failure | 3.1 $\pm$ 1.1 |
+| Need for Control | 3.6 $\pm$ 0.4 |
+| Cognitive Load | 6.9 $\pm$ 0.5 |
 | Social Support | 8.4 $\pm$ 0.2 |
 | Resilience | 9.5 $\pm$ 0.0 |
 

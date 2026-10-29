@@ -4,7 +4,7 @@ from pathlib import Path
 from file_utils import read_file_with_fallback
 
 
-ANSWERING_MODEL_NAME = "moonshotai/kimi-k3.1-pro"
+ANSWERING_MODEL_NAME = "inception/mercury-3"
 EVALUATING_MODEL_NAME = "gpt-6-astra"
 
 

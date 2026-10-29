@@ -200,6 +200,7 @@
 | gpt-4o-mini-2024-11-05 | 8.150 |
 | o3-mini-20250131-HIGH | 8.138 |
 | openaigpt-6.1-sol | 8.138 |
+| inceptionmercury-3 | 8.137 |
 | meta-llamaLlama-3.3-70B-Instruct | 8.137 |
 | deepseekdeepseek-v4-pro | 8.125 |
 | Grok-4.1-20251118 | 8.125 |

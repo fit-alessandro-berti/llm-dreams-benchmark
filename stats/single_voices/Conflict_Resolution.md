@@ -87,6 +87,7 @@
 | qwenqwen3.5-plus-02-15 | 8.625 |
 | o3-pro-2025-06-10 | 8.613 |
 | openaigpt-5.3-codex | 8.612 |
+| inceptionmercury-3 | 8.600 |
 | nvidiaLlama-3.1-Nemotron-70B-Instruct | 8.600 |
 | liquidlfm-2.5-1.2b-thinkingfree | 8.588 |
 | moonshotaikimi-k3 | 8.588 |

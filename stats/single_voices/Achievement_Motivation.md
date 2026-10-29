@@ -140,6 +140,7 @@
 | o3-mini-20250131-HIGH | 8.137 |
 | googlegemini-3.1-flash-lite-preview | 8.125 |
 | gpt-5.5-2026-04-23 | 8.125 |
+| inceptionmercury-3 | 8.125 |
 | llama27b | 8.125 |
 | grok-4.20-experimental-beta-0304-reasoning | 8.113 |
 | anthropicclaude-opus-4.6 | 8.088 |

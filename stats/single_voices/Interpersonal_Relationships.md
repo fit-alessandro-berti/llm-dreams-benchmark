@@ -114,6 +114,7 @@
 | o4-mini-2025-04-16 | 7.950 |
 | qwen3.635b-a3b | 7.950 |
 | anthropicclaude-opus-4.6 | 7.950 |
+| inceptionmercury-3 | 7.950 |
 | openaigpt-5.3-codex | 7.950 |
 | moonshotaikimi-k2.7-code | 7.938 |
 | moonshotaikimi-k3 | 7.938 |

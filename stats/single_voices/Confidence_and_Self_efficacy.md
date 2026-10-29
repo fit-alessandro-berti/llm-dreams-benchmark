@@ -41,6 +41,7 @@
 | inceptionmercury-2.5-preview | 8.425 |
 | openaigpt-oss-120b | 8.425 |
 | qwen2.5-32b-instruct | 8.425 |
+| inceptionmercury-3 | 8.413 |
 | deepseekdeepseek-v4-flash-0731 | 8.400 |
 | nvidianemotron-3-nano-30b-a3bfree | 8.375 |
 | phi33.8b | 8.363 |

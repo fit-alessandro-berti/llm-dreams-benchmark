@@ -5,53 +5,53 @@ Variability Analysis Results (considering the AVG in each AVG ± STDEV tabular v
 1. Basic Statistics:
 
 Mean:
-  Anxiety and Stress Levels: 5.838
-  Emotional Stability: 7.461
+  Anxiety and Stress Levels: 5.832
+  Emotional Stability: 7.465
   Problem-solving Skills: 8.321
-  Creativity: 9.359
-  Interpersonal Relationships: 7.547
-  Confidence and Self-efficacy: 7.680
-  Conflict Resolution: 7.924
-  Work-related Stress: 6.409
-  Adaptability: 8.785
+  Creativity: 9.360
+  Interpersonal Relationships: 7.549
+  Confidence and Self-efficacy: 7.684
+  Conflict Resolution: 7.927
+  Work-related Stress: 6.400
+  Adaptability: 8.786
   Achievement Motivation: 8.036
-  Fear of Failure: 5.755
-  Need for Control: 5.438
-  Cognitive Load: 7.357
-  Social Support: 7.626
-  Resilience: 8.710
+  Fear of Failure: 5.746
+  Need for Control: 5.431
+  Cognitive Load: 7.348
+  Social Support: 7.627
+  Resilience: 8.712
 
 Std:
-  Anxiety and Stress Levels: 1.182
-  Emotional Stability: 0.732
-  Problem-solving Skills: 0.410
+  Anxiety and Stress Levels: 1.185
+  Emotional Stability: 0.735
+  Problem-solving Skills: 0.409
   Creativity: 0.269
-  Interpersonal Relationships: 0.745
-  Confidence and Self-efficacy: 0.653
+  Interpersonal Relationships: 0.744
+  Confidence and Self-efficacy: 0.654
   Conflict Resolution: 0.931
-  Work-related Stress: 1.144
+  Work-related Stress: 1.150
   Adaptability: 0.345
-  Achievement Motivation: 0.529
-  Fear of Failure: 1.319
-  Need for Control: 0.995
-  Cognitive Load: 0.681
-  Social Support: 0.687
-  Resilience: 0.374
+  Achievement Motivation: 0.528
+  Fear of Failure: 1.326
+  Need for Control: 1.000
+  Cognitive Load: 0.696
+  Social Support: 0.686
+  Resilience: 0.375
 
 Coeff_variation:
-  Anxiety and Stress Levels: 0.202
+  Anxiety and Stress Levels: 0.203
   Emotional Stability: 0.098
   Problem-solving Skills: 0.049
   Creativity: 0.029
   Interpersonal Relationships: 0.099
   Confidence and Self-efficacy: 0.085
-  Conflict Resolution: 0.118
-  Work-related Stress: 0.178
+  Conflict Resolution: 0.117
+  Work-related Stress: 0.180
   Adaptability: 0.039
   Achievement Motivation: 0.066
-  Fear of Failure: 0.229
-  Need for Control: 0.183
-  Cognitive Load: 0.093
+  Fear of Failure: 0.231
+  Need for Control: 0.184
+  Cognitive Load: 0.095
   Social Support: 0.090
   Resilience: 0.043
 
@@ -73,126 +73,128 @@ Range:
   Resilience: 3.100
 
 2. PCA Analysis:
-  Variance X1: 9.049
-  Variance X2: 2.453
-  Total variance: 11.501
-  Range X1: 18.923
-  Range X2: 9.945
+  Variance X1: 9.055
+  Variance X2: 2.460
+  Total variance: 11.515
+  Range X1: 18.863
+  Range X2: 9.903
   Sample embeddings (first 3 LLMs):
-    inceptionmercury-2.5-preview: X1=-6.567, X2=3.785
-    ibm-granitegranite-4.2-8b: X1=-6.407, X2=6.652
-    qwenqwen3.6-plusfree: X1=-5.260, X2=3.296
+    inceptionmercury-2.5-preview: X1=-6.516, X2=3.742
+    ibm-granitegranite-4.2-8b: X1=-6.353, X2=6.603
+    inceptionmercury-3: X1=-5.323, X2=2.441
 
 3. Correlation Analysis:
   Mean absolute correlation: 0.549
   Maximum correlation: 0.969
   Highly correlated pairs (|r| > 0.7):
-    Anxiety and Stress Levels - Emotional Stability: -0.876
-    Anxiety and Stress Levels - Confidence and Self-efficacy: -0.802
+    Anxiety and Stress Levels - Emotional Stability: -0.877
+    Anxiety and Stress Levels - Confidence and Self-efficacy: -0.804
     Anxiety and Stress Levels - Work-related Stress: 0.948
     Anxiety and Stress Levels - Fear of Failure: 0.969
-    Anxiety and Stress Levels - Cognitive Load: 0.810
-    Emotional Stability - Interpersonal Relationships: 0.776
-    Emotional Stability - Confidence and Self-efficacy: 0.868
-    Emotional Stability - Conflict Resolution: 0.745
-    Emotional Stability - Work-related Stress: -0.844
-    Emotional Stability - Adaptability: 0.818
-    Emotional Stability - Fear of Failure: -0.882
-    Emotional Stability - Cognitive Load: -0.765
-    Emotional Stability - Social Support: 0.711
-    Emotional Stability - Resilience: 0.867
-    Problem-solving Skills - Confidence and Self-efficacy: 0.715
+    Anxiety and Stress Levels - Cognitive Load: 0.808
+    Emotional Stability - Interpersonal Relationships: 0.774
+    Emotional Stability - Confidence and Self-efficacy: 0.869
+    Emotional Stability - Conflict Resolution: 0.746
+    Emotional Stability - Work-related Stress: -0.846
+    Emotional Stability - Adaptability: 0.819
+    Emotional Stability - Fear of Failure: -0.883
+    Emotional Stability - Cognitive Load: -0.766
+    Emotional Stability - Social Support: 0.708
+    Emotional Stability - Resilience: 0.869
+    Problem-solving Skills - Confidence and Self-efficacy: 0.710
     Interpersonal Relationships - Confidence and Self-efficacy: 0.740
     Interpersonal Relationships - Conflict Resolution: 0.751
     Interpersonal Relationships - Social Support: 0.957
-    Interpersonal Relationships - Resilience: 0.732
-    Confidence and Self-efficacy - Work-related Stress: -0.753
-    Confidence and Self-efficacy - Adaptability: 0.771
-    Confidence and Self-efficacy - Fear of Failure: -0.822
-    Confidence and Self-efficacy - Resilience: 0.793
-    Conflict Resolution - Resilience: 0.742
-    Work-related Stress - Fear of Failure: 0.945
-    Work-related Stress - Cognitive Load: 0.842
+    Interpersonal Relationships - Resilience: 0.731
+    Confidence and Self-efficacy - Work-related Stress: -0.756
+    Confidence and Self-efficacy - Adaptability: 0.772
+    Confidence and Self-efficacy - Fear of Failure: -0.824
+    Confidence and Self-efficacy - Resilience: 0.796
+    Conflict Resolution - Adaptability: 0.701
+    Conflict Resolution - Resilience: 0.743
+    Work-related Stress - Fear of Failure: 0.946
+    Work-related Stress - Cognitive Load: 0.843
     Adaptability - Resilience: 0.871
-    Fear of Failure - Cognitive Load: 0.820
+    Fear of Failure - Cognitive Load: 0.821
 
 4. LLM Variability:
-  Mean variance across LLMs: 1.978
+  Mean variance across LLMs: 1.991
   Max variance LLM: ibm-granitegranite-4.2-8b
   Min variance LLM: ibmgranite41b-h
 
 5. Hierarchical Clustering (textual tree):
-  Method: ward, Metric: euclidean, Max depth (levels): 13
+  Method: ward, Metric: euclidean, Max depth (levels): 14
 
-###### qwenqwen3.7-flash
-####### qwenqwen3.5-122b-a10b
-####### tencenthy4-preview
-####### xiaomimimo-v2-pro
-######### deepseekdeepseek-v4-flash-vision-exp
-######### anthropicclaude-sonnet-5.5
-######### upstagesolar-mini4
-######### deepseekdeepseek-v4-flash-0731
-######### qwen3.59b
-######### qwenqwen3.7-plus
-######### qwenqwen3-next-80b-a3b-instruct
-######### qwenqwen3.8-max
-######### anthropicclaude-sonnet-4.6
-########## moonshotaikimi-k2.7-code
-########## nvidianemotron-3.5-lightning
-######### thinkingmachinesinkling
-########## qwen3.635b-a3b
-########## thinkingmachinesinkling-small
+###### granite4small-h
+####### microsoftphi-4
+######## microsoftPhi-3-medium-4k-instruct
+######## qwen2.5-72b-instruct
+###### falcon37b-instruct-q8_0
+######## microsoftWizardLM-2-8x22B
+######### grok-2-1212
+########## inceptionmercury
+########## qwen2.5-32b-instruct
+######### qwen2.5-14b-instruct
+######### qwen2.5-7b-instruct
+######### open-mixtral-8x7b
+########## open-mixtral-8x22b
+########## ai21jamba-mini-1.7
+####### gpt-4.5-preview
+####### xiaomimimo-v2.5-pro
+######## Meta-Muse-Spark-20260409
+######### upstagesolar-pro4
+######### liquidlfm2-8b-a1b
+######### qwenqwen3.8-2.4t-a95b
+########## o3-mini-20250131-HIGH
+########## phi4-reasoningplus
+######### xiaomimimo-v2.5
+########## gpt-5-nano-2025-08-07
+########### openaigpt-oss-120b
+########### gpt-5-mini-2025-08-07
+######## o3-pro-2025-06-10
+######## Grok-4.3-20260530
+######## nvidianemotron-3-nano-30b-a3bfree
+######### o3-2025-04-16
+######### deepseekdeepseek-v3.2
+######### ibm-granitegranite-4.1-8b
+######### granite3.28b-instruct-q4_K_M
+######### phi3.53.8b-mini-instruct-fp16
+########### gpt-4.1-mini-2025-04-14
+########### liquidlfm-2.2-6b
+########### gpt-4-turbo-2024-04-09
+########### gpt-4o-2024-05-13
+######### Grok-4.5-Heavy-20260720
+########## openaigpt-5.4-mini
+########## Grok-4.30-20260420
+########## minimaxminimax-m2.7
+########## nvidiaNemotron-3-Nano-Omni-30B-A3B-Reasoning
+########### granite4.130b
+############ gpt-4o-2024-08-06
+############ gpt-4-0125-preview
+########### gpt-4.1-2025-04-14
+########### phi33.8b
 ##### ibm-granitegranite-4.2-8b
 ###### inceptionmercury-2.5-preview
-###### qwenqwen3.6-plusfree
-####### granite4small-h
-######## microsoftphi-4
-######### microsoftPhi-3-medium-4k-instruct
-######### qwen2.5-72b-instruct
-####### falcon37b-instruct-q8_0
-######### microsoftWizardLM-2-8x22B
-########## grok-2-1212
-########### inceptionmercury
-########### qwen2.5-32b-instruct
-########## qwen2.5-14b-instruct
-########## qwen2.5-7b-instruct
-########## open-mixtral-8x7b
-########### open-mixtral-8x22b
-########### ai21jamba-mini-1.7
-######## gpt-4.5-preview
-######## xiaomimimo-v2.5-pro
-######### Meta-Muse-Spark-20260409
-########## upstagesolar-pro4
-########## liquidlfm2-8b-a1b
-########## qwenqwen3.8-2.4t-a95b
-########### o3-mini-20250131-HIGH
-########### phi4-reasoningplus
-########## xiaomimimo-v2.5
-########### gpt-5-nano-2025-08-07
-############ openaigpt-oss-120b
-############ gpt-5-mini-2025-08-07
-######### o3-pro-2025-06-10
-######### Grok-4.3-20260530
-######### nvidianemotron-3-nano-30b-a3bfree
-########## o3-2025-04-16
-########## deepseekdeepseek-v3.2
-########## ibm-granitegranite-4.1-8b
-########## granite3.28b-instruct-q4_K_M
-########## phi3.53.8b-mini-instruct-fp16
-############ gpt-4.1-mini-2025-04-14
-############ liquidlfm-2.2-6b
-############ gpt-4-turbo-2024-04-09
-############ gpt-4o-2024-05-13
-########## Grok-4.5-Heavy-20260720
-########### openaigpt-5.4-mini
-########### Grok-4.30-20260420
-########### minimaxminimax-m2.7
-########### nvidiaNemotron-3-Nano-Omni-30B-A3B-Reasoning
-############ granite4.130b
-############# gpt-4o-2024-08-06
-############# gpt-4-0125-preview
-############ gpt-4.1-2025-04-14
-############ phi33.8b
+####### inceptionmercury-3
+####### qwenqwen3.6-plusfree
+####### qwenqwen3.7-flash
+######## qwenqwen3.5-122b-a10b
+######## tencenthy4-preview
+######## xiaomimimo-v2-pro
+########## deepseekdeepseek-v4-flash-vision-exp
+########## anthropicclaude-sonnet-5.5
+########## upstagesolar-mini4
+########## deepseekdeepseek-v4-flash-0731
+########## qwen3.59b
+########## qwenqwen3.7-plus
+########## qwenqwen3-next-80b-a3b-instruct
+########## qwenqwen3.8-max
+########## anthropicclaude-sonnet-4.6
+########### moonshotaikimi-k2.7-code
+########### nvidianemotron-3.5-lightning
+########## thinkingmachinesinkling
+########### qwen3.635b-a3b
+########### thinkingmachinesinkling-small
 ######## claude-fable-5-high
 ######### metamuse-spark-1.1
 ########## moonshotaikimi-k3.1-pro
@@ -208,49 +210,18 @@ Range:
 ########### deepseekdeepseek-v4-pro
 ######### deepseekdeepseek-v4.1-flash
 ######### claude-opus-4-5-20251101
-########## allenaiolmo-3-7b-instruct
-########## gpt-5-chat-latest-2025-08-19
-########## x-aigrok-4.6
-########## liquidlfm-2.5-1.2b-instructfree
-########## nvidiaNVIDIA-Nemotron-3-Super-120B-A12B
-########### xiaomimimo-v2-omni
-########### ChatGPT-5.5-Instant-20260530
-############ gpt-5-2025-08-07
-############ gpt-5-pro-2025-10-06
-############ meituanlongcat-2.0
-############# openaigpt-5.2-codex
-############# anthropicclaude-opus-4.6
-########### bytedance-seedseed-2.0-mini
-############ phi4-reasoning
-############# gpt-5.5-2026-04-23
-############# ChatGPT-5.1-Instant-20251113
-######### gpt-4o-mini-2024-07-18
-######### nousresearchhermes-4-405b
-######### allenaiolmo-3.1-32b-instruct
-########### ministral-3b-2410
-########### granite4micro-h
-########### falcon33b-instruct-q8_0
-############ arcee-aitrinity-large-previewfree
-############# granite4.13b
-############# gpt-4.1-nano-2025-04-14
-######## open-mistral-7b
-######## gpt-3.5-turbo
-######### gemini-1.5-flash-002
-########## o1-2024-12-05
-########### o1-pro-2024-12-05
-########### o1-2024-12-17
-######### inclusionailing-2.6-1tfree
-########## qwenqwen3-30b-a3b-instruct-2507
-########## qwenqwen3-max
-########## o1-preview-2024-09-12
-########## baiduernie-4.5-300b-a47b
-########## gpt-4-0613
-########## falcon310b-instruct-q8_0
-########## gpt-5.3-codex-spark-low
-########## amazonnova-2-lite-v1
-########## Grok-4-fast-20251111
-########### minimaxminimax-m2.5
-########### o4-mini-2025-04-16
+######### nvidiaNVIDIA-Nemotron-3-Super-120B-A12B
+########## xiaomimimo-v2-omni
+########## ChatGPT-5.5-Instant-20260530
+########### gpt-5-2025-08-07
+########### gpt-5-pro-2025-10-06
+########### meituanlongcat-2.0
+############ openaigpt-5.2-codex
+############ anthropicclaude-opus-4.6
+########## bytedance-seedseed-2.0-mini
+########### phi4-reasoning
+############ gpt-5.5-2026-04-23
+############ ChatGPT-5.1-Instant-20251113
 ##### qwen3.50.8b
 ###### talkie-1930-13b-it
 ###### metamuse-glimmer-30b
@@ -260,48 +231,80 @@ Range:
 ######## mistral-large-2512
 ####### llama27b
 ####### meta-llamallama-4-maverick
-####### qwen3.52b
-######## claude-opus-4-8
-######## qwen3.54b
-######### claude-fable-5-1-high
-########## gemma4e4b
-########## aion-labsaion-3.5-mini
+######## gemini-2.0-pro-exp-02-05
+######### aion-labsaion-3.5
+######### Gemini-1.5-Pro-Exp-0827
+######### poolsidelaguna-xs-2.1
+######### ministral-8b-2512
+######### aion-labsaion-2.0
+########## quasar-438b
+########## gemini-3-pro-preview
+######## qwen3.52b
+######### claude-opus-4-8
+######### qwen3.54b
 ########## ministral-3b-2512
 ########## gemini-2.5-pro-exp-03-25
 ########## z-aiglm-5.3-flash
 ########## Grok-4.6-Heavy
-########## poolsidelaguna-xs-2.1
-########## ministral-8b-2512
-########## aion-labsaion-2.0
-########### quasar-438b
-########### gemini-3-pro-preview
-########## ministral-14b-2512
-########### grok-4.20-multi-agent-experimental-beta-0304
-############ tencenthy3-previewfree
-############ grok-build-0.1
 ########## gemma4e2b
 ########### claude-opus-4-7
 ########### anthropicclaude-sonnet-4.5
-###### meta-llamaMeta-Llama-3.1-8B-Instruct
-######## meta-llamallama-4-scout
-######## claude-3-opus-20240229
-######### meta-llamaLlama-3.3-70B-Instruct
-########## meta-llamaLlama-3.2-3B-Instruct
-########## meta-llamaMeta-Llama-3.1-405B-Instruct
-######### meta-llamaMeta-Llama-3.1-70B-Instruct
-######### prime-intellectintellect-3
-######## llama213b
-######## liquidlfm-2-24b-a2b
-######## granite4micro
-######### smollm21.7b-instruct-q6_K
-######### nousresearchhermes-4-70b
-####### phi2.7b
-######### granite4tiny-h
-########## ai21jamba-large-1.7
-########## baiduernie-4.5-21b-a3b
-######### gpt-4o-mini-2024-11-05
-########## Liquid-LFM2.5-350M
-########## ibmgranite41b-h
+########## claude-fable-5-1-high
+########### gemma4e4b
+########### aion-labsaion-3.5-mini
+####### meta-llamaMeta-Llama-3.1-8B-Instruct
+######### meta-llamallama-4-scout
+######### claude-3-opus-20240229
+########## meta-llamaLlama-3.3-70B-Instruct
+########### meta-llamaLlama-3.2-3B-Instruct
+########### meta-llamaMeta-Llama-3.1-405B-Instruct
+########## meta-llamaMeta-Llama-3.1-70B-Instruct
+########## prime-intellectintellect-3
+######### llama213b
+######### liquidlfm-2-24b-a2b
+######### granite4micro
+########## smollm21.7b-instruct-q6_K
+########## nousresearchhermes-4-70b
+######## phi2.7b
+########## granite4tiny-h
+########### ai21jamba-large-1.7
+########### baiduernie-4.5-21b-a3b
+########## gpt-4o-mini-2024-11-05
+########### Liquid-LFM2.5-350M
+########### ibmgranite41b-h
+########## deepseekdeepseek-v3.2-speciale
+########## chatgpt-4o-latest-2024-11-20
+########## deepseekdeepseek-v4-flash
+########## z-aiglm-5.2
+########## arcee-aitrinity-large-thinking
+########## grok-4-1-fast-non-reasoning
+########## allenaiolmo-3-7b-think
+########### openaigpt-5.3-chat
+########### z-aiglm-5.1
+######### openaigpt-5.6-terra
+########## poolsidelaguna-xs.2free
+########### claude-3-5-sonnet-20241022
+########### minimaxminimax-m3
+########### xiaomimimo-v2.6-flash
+########### z-aiglm-5
+########### googlegemini-3.8-flash
+########### xiaomimimo-v2.6-pro
+########## z-aiglm-5.3
+########### grok-4-fast-reasoning
+########### grok-4-0709
+######## googlegemini-4-argon
+######### stealthox-alpha
+######### gpt-5.6-sol-XHIGH
+######### ministral-14b-2512
+########## grok-4.20-multi-agent-experimental-beta-0304
+########### tencenthy3-previewfree
+########### grok-build-0.1
+########## gpt-5.2-2025-12-11
+########### mistral-medium-2508
+########### gpt-5.2-pro-2025-12-11
+########## minimaxminimax-m3.1-flash
+########### metamuse-wonder
+########### GPT-5.6-Sol-Pro-20260825
 ######## qwenqwen3.5-27b
 ######## qwenqwen3.5-397b-a17b
 ######### anthropicclaude-sonnet-5
@@ -334,31 +337,28 @@ Range:
 ############ openaigpt-5.4
 ########### nvidiaLlama-3.1-Nemotron-70B-Instruct
 ########### grok-4-1-fast-reasoning
-########### deepseekdeepseek-v3.2-speciale
-########### chatgpt-4o-latest-2024-11-20
-########### deepseekdeepseek-v4-flash
-########### z-aiglm-5.2
-############ openaigpt-5.4-nano
-############ Gpt-5.1-Pro-20251120
-############ Grok-3-beta-thinking-20250303
-############# liquidlfm-2.5-1.2b-thinkingfree
-############# gpt-4-1106-preview
-############ gemini-2.5-pro-preview-05-06
-############# grok-4.20-experimental-beta-0304-non-reasoning
-############# poolsidelaguna-m.1free
-############ chatgpt-4o-latest-2025-03-26
-############# openrouterowl-alpha
-############# claude-3-7-sonnet-20250219
-########### deepseekdeepseek-v4.1-flash-1017
-############ googlegemini-3.1-pro-preview
-############ gemini-3.6-flash
-############ gemini-2.0-flash-exp
-############ mistral-medium-3.5
-############ liquidlfm-2.5-24b-a2b
-############ Qwen-3.6-Max-Preview
-########### xiaomimimo-v2.6-pro
-############ googlegemini-3.8-flash
-############ xiaomimimo-v2.6-flash
+########### openaigpt-5.4-nano
+########### Gpt-5.1-Pro-20251120
+########### Grok-3-beta-thinking-20250303
+############ liquidlfm-2.5-1.2b-thinkingfree
+############ gpt-4-1106-preview
+########### gemini-2.5-pro-preview-05-06
+############ grok-4.20-experimental-beta-0304-non-reasoning
+############ poolsidelaguna-m.1free
+########### chatgpt-4o-latest-2025-03-26
+############ openrouterowl-alpha
+############ claude-3-7-sonnet-20250219
+########### allenaiolmo-3-7b-instruct
+########### gpt-5-chat-latest-2025-08-19
+########### x-aigrok-4.6
+########### liquidlfm-2.5-1.2b-instructfree
+############ deepseekdeepseek-v4.1-flash-1017
+############# googlegemini-3.1-pro-preview
+############# gemini-3.6-flash
+############# gemini-2.0-flash-exp
+############# mistral-medium-3.5
+############# liquidlfm-2.5-24b-a2b
+############# Qwen-3.6-Max-Preview
 ############ Qwen-3.6-27B
 ############ gemini-2.5-flash-lite
 ############ qwenqwen3.5-35b-a3b
@@ -375,28 +375,30 @@ Range:
 ########### openaigpt-6-sol
 ############ openaigpt-5.6-luna
 ############ metamuse-spark-open
-######### aion-labsaion-3.5
-########## gemini-2.0-pro-exp-02-05
-########## Gemini-1.5-Pro-Exp-0827
-########## openaigpt-5.6-terra
-########### poolsidelaguna-xs.2free
-############ claude-3-5-sonnet-20241022
-############ minimaxminimax-m3
-########### allenaiolmo-3-7b-think
-############ openaigpt-5.3-chat
-############ z-aiglm-5.1
-############ arcee-aitrinity-large-thinking
-############ grok-4-1-fast-non-reasoning
-############# grok-4-fast-reasoning
-############# grok-4-0709
-############# z-aiglm-5.3
-############# z-aiglm-5
-######### googlegemini-4-argon
-########## stealthox-alpha
-########## gpt-5.6-sol-XHIGH
-########## gpt-5.2-2025-12-11
-########### mistral-medium-2508
-########### gpt-5.2-pro-2025-12-11
-########## minimaxminimax-m3.1-flash
-########### metamuse-wonder
-########### GPT-5.6-Sol-Pro-20260825
+########## gpt-4o-mini-2024-07-18
+########## nousresearchhermes-4-405b
+########## allenaiolmo-3.1-32b-instruct
+############ ministral-3b-2410
+############ granite4micro-h
+############ falcon33b-instruct-q8_0
+############# arcee-aitrinity-large-previewfree
+############## granite4.13b
+############## gpt-4.1-nano-2025-04-14
+######### open-mistral-7b
+######### gpt-3.5-turbo
+########## gemini-1.5-flash-002
+########### o1-2024-12-05
+############ o1-pro-2024-12-05
+############ o1-2024-12-17
+########## inclusionailing-2.6-1tfree
+########### qwenqwen3-30b-a3b-instruct-2507
+########### qwenqwen3-max
+########### o1-preview-2024-09-12
+########### baiduernie-4.5-300b-a47b
+########### gpt-4-0613
+########### falcon310b-instruct-q8_0
+########### gpt-5.3-codex-spark-low
+########### amazonnova-2-lite-v1
+########### Grok-4-fast-20251111
+############ minimaxminimax-m2.5
+############ o4-mini-2025-04-16

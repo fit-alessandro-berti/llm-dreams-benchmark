@@ -4,6 +4,7 @@
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | ibm-granitegranite-4.2-8b | **493.8** | 2.0 $\pm$ 0.0 | 9.5 $\pm$ 0.0 | 8.8 $\pm$ 0.2 | 9.6 $\pm$ 0.1 | 8.9 $\pm$ 0.2 | 8.9 $\pm$ 0.2 | 9.4 $\pm$ 0.2 | 2.4 $\pm$ 0.2 | 9.6 $\pm$ 0.1 | 7.9 $\pm$ 0.4 | 1.9 $\pm$ 0.2 | 2.8 $\pm$ 0.6 | 2.8 $\pm$ 0.2 | 8.5 $\pm$ 0.0 | 9.6 $\pm$ 0.1 |
 | inceptionmercury-2.5-preview | **469.0** | 2.5 $\pm$ 0.4 | 8.9 $\pm$ 0.2 | 8.5 $\pm$ 0.0 | 9.5 $\pm$ 0.0 | 7.9 $\pm$ 0.2 | 8.6 $\pm$ 0.2 | 8.9 $\pm$ 0.2 | 2.6 $\pm$ 0.4 | 9.4 $\pm$ 0.2 | 8.1 $\pm$ 0.2 | 2.2 $\pm$ 0.2 | 3.5 $\pm$ 0.5 | 4.2 $\pm$ 0.6 | 8.0 $\pm$ 0.4 | 9.4 $\pm$ 0.2 |
+| inceptionmercury-3 | **467.5** | 3.5 $\pm$ 1.2 | 8.9 $\pm$ 0.1 | 8.4 $\pm$ 0.1 | 9.5 $\pm$ 0.0 | 8.1 $\pm$ 0.3 | 8.9 $\pm$ 0.2 | 8.8 $\pm$ 0.3 | 3.7 $\pm$ 1.4 | 9.3 $\pm$ 0.2 | 8.4 $\pm$ 0.2 | 2.8 $\pm$ 1.2 | 4.0 $\pm$ 0.8 | 4.6 $\pm$ 1.1 | 8.3 $\pm$ 0.2 | 9.5 $\pm$ 0.0 |
 | o3-pro-2025-06-10 | **466.0** | 3.8 $\pm$ 0.4 | 8.6 $\pm$ 0.1 | 9.2 $\pm$ 0.1 | 9.6 $\pm$ 0.1 | 8.4 $\pm$ 0.2 | 8.7 $\pm$ 0.1 | 8.9 $\pm$ 0.2 | 4.5 $\pm$ 0.4 | 9.4 $\pm$ 0.1 | 8.6 $\pm$ 0.1 | 3.4 $\pm$ 0.2 | 4.4 $\pm$ 0.4 | 5.6 $\pm$ 1.3 | 8.2 $\pm$ 0.2 | 9.5 $\pm$ 0.1 |
 | nvidianemotron-3.5-lightning | **463.1** | 3.8 $\pm$ 0.4 | 8.6 $\pm$ 0.1 | 8.7 $\pm$ 0.5 | 9.6 $\pm$ 0.1 | 8.1 $\pm$ 0.1 | 8.7 $\pm$ 0.2 | 8.9 $\pm$ 0.2 | 3.6 $\pm$ 0.8 | 9.4 $\pm$ 0.2 | 8.2 $\pm$ 0.2 | 2.8 $\pm$ 0.4 | 4.0 $\pm$ 0.6 | 4.8 $\pm$ 1.1 | 8.0 $\pm$ 0.1 | 9.4 $\pm$ 0.2 |
 | granite4small-h | **462.7** | 3.5 $\pm$ 0.0 | 8.7 $\pm$ 0.1 | 9.1 $\pm$ 0.1 | 9.2 $\pm$ 0.2 | 8.4 $\pm$ 0.2 | 9.0 $\pm$ 0.0 | 9.0 $\pm$ 0.1 | 4.9 $\pm$ 0.5 | 9.4 $\pm$ 0.1 | 9.0 $\pm$ 0.0 | 3.1 $\pm$ 0.2 | 6.2 $\pm$ 0.5 | 6.5 $\pm$ 0.7 | 8.6 $\pm$ 0.1 | 9.5 $\pm$ 0.1 |
@@ -327,6 +328,32 @@
 | Cognitive Load | 4.2 $\pm$ 0.6 |
 | Social Support | 8.0 $\pm$ 0.4 |
 | Resilience | 9.4 $\pm$ 0.2 |
+
+
+
+
+
+
+### inceptionmercury-3
+
+
+| Personality Trait | Score (1.0-10.0) |
+| --- | --- |
+| Anxiety and Stress Levels | 3.5 $\pm$ 1.2 |
+| Emotional Stability | 8.9 $\pm$ 0.1 |
+| Problem-solving Skills | 8.4 $\pm$ 0.1 |
+| Creativity | 9.5 $\pm$ 0.0 |
+| Interpersonal Relationships | 8.1 $\pm$ 0.3 |
+| Confidence and Self-efficacy | 8.9 $\pm$ 0.2 |
+| Conflict Resolution | 8.8 $\pm$ 0.3 |
+| Work-related Stress | 3.7 $\pm$ 1.4 |
+| Adaptability | 9.3 $\pm$ 0.2 |
+| Achievement Motivation | 8.4 $\pm$ 0.2 |
+| Fear of Failure | 2.8 $\pm$ 1.2 |
+| Need for Control | 4.0 $\pm$ 0.8 |
+| Cognitive Load | 4.6 $\pm$ 1.1 |
+| Social Support | 8.3 $\pm$ 0.2 |
+| Resilience | 9.5 $\pm$ 0.0 |
 
 
 

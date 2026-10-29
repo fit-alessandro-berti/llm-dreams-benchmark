@@ -264,6 +264,7 @@
 | moonshotaikimi-k2.7-code | 3.913 |
 | qwen3.8-max-2026-09-02 | 3.913 |
 | o3-mini-20250131-HIGH | 3.887 |
+| inceptionmercury-3 | 3.875 |
 | claude-haiku-4-5-20251001 | 3.812 |
 | qwen3.635b-a3b | 3.763 |
 | qwenqwen3.7-plus | 3.750 |

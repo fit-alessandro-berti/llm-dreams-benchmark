@@ -112,6 +112,7 @@
 | qwenqwen3.8-2.4t-a95b | 7.987 |
 | gpt-5.5-2026-04-23 | 7.987 |
 | moonshotaikimi-k3.1-pro | 7.975 |
+| inceptionmercury-3 | 7.963 |
 | stealthspace-bunny-alpha | 7.950 |
 | amazonnova-2-lite-v1 | 7.950 |
 | deepseekdeepseek-v3.2 | 7.938 |

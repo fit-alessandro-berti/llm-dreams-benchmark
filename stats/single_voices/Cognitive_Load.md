@@ -270,6 +270,7 @@
 | gpt-5-nano-2025-08-07 | 6.075 |
 | o3-mini-20250131-HIGH | 6.037 |
 | deepseekdeepseek-v4-flash-vision-exp | 5.925 |
+| inceptionmercury-3 | 5.787 |
 | deepseekdeepseek-v4-flash-0731 | 5.688 |
 | anthropicclaude-sonnet-5.5 | 5.600 |
 | xiaomimimo-v2-pro | 5.588 |

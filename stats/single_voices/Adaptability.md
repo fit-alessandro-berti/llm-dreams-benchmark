@@ -68,6 +68,7 @@
 | qwenqwen3.8-2.4t-a95b | 9.088 |
 | upstagesolar-mini4 | 9.088 |
 | liquidlfm2-8b-a1b | 9.075 |
+| inceptionmercury-3 | 9.075 |
 | moonshotaikimi-k2.7-code | 9.075 |
 | o3-mini-20250131-HIGH | 9.075 |
 | o4-mini-2025-04-16 | 9.062 |

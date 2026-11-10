@@ -30,6 +30,7 @@
 | meta-llamaLlama-3.2-3B-Instruct | 8.129 |
 | meta-llamaMeta-Llama-3.1-8B-Instruct | 8.114 |
 | gpt-4o-mini-2024-11-05 | 8.086 |
+| googlegemini-4-argon | 8.071 |
 | ministral-3b-2512 | 8.057 |
 | Grok-4.1-20251118 | 8.029 |
 | grok-4.20-multi-agent-experimental-beta-0304 | 8.029 |
@@ -53,6 +54,7 @@
 | openaigpt-5.3-codex | 7.757 |
 | grok-4-fast-reasoning | 7.729 |
 | chatgpt-4o-latest-2025-03-26 | 7.729 |
+| minimaxminimax-m3.1-flash | 7.729 |
 | moonshotaikimi-k2.5 | 7.714 |
 | grok-4.20-experimental-beta-0304-non-reasoning | 7.714 |
 | openaigpt-5.3-chat | 7.700 |
@@ -63,6 +65,7 @@
 | gpt-5.6-sol-XHIGH | 7.657 |
 | chatgpt-4o-latest-2025-04-26 | 7.643 |
 | deepseekdeepseek-v3.2-speciale | 7.643 |
+| stepfunstep-5-preview | 7.629 |
 | aion-labsaion-3.5 | 7.629 |
 | grok-4-0709 | 7.629 |
 | inclusionailing-2.6-1tfree | 7.614 |
@@ -71,6 +74,7 @@
 | arcee-aitrinity-large-thinking | 7.543 |
 | poolsidelaguna-xs-2.1 | 7.543 |
 | GPT-5.6-Sol-Pro-20260825 | 7.529 |
+| metamuse-wonder | 7.529 |
 | qwenqwen3.7-max | 7.529 |
 | claude-3-5-sonnet-20241022 | 7.514 |
 | openaigpt-5.4-pro | 7.514 |
@@ -121,6 +125,7 @@
 | openaigpt-6.1-sol | 6.986 |
 | arcee-aitrinity-large-previewfree | 6.971 |
 | Qwen-3.6-Max-Preview | 6.971 |
+| deepseekdeepseek-v4.1-flash-1017 | 6.957 |
 | gpt-3.5-turbo | 6.943 |
 | stepfunstep-3.7-flash | 6.943 |
 | gemini-2.5-pro-preview-06-05 | 6.914 |
@@ -129,6 +134,7 @@
 | poolsidelaguna-m.1free | 6.871 |
 | amazonnova-2-lite-v1 | 6.843 |
 | anthropicclaude-opus-5 | 6.829 |
+| metamuse-spark-open | 6.814 |
 | claude-opus-4-8 | 6.800 |
 | bytedance-seedseed-2.0-lite | 6.786 |
 | xiaomimimo-v2.6-pro | 6.771 |
@@ -139,9 +145,11 @@
 | Grok-4-fast-20251111 | 6.714 |
 | allenaiolmo-3-7b-instruct | 6.700 |
 | gpt-4.1-nano-2025-04-14 | 6.700 |
+| moonshotaikimi-k3.1-pro | 6.700 |
 | metamuse-spark-1.1 | 6.671 |
 | gpt-4o-mini-2024-07-18 | 6.671 |
 | phi2.7b | 6.657 |
+| openaigpt-6.1-terra | 6.629 |
 | nousresearchhermes-4-70b | 6.614 |
 | gemini-1.5-flash-002 | 6.571 |
 | metamuse-spark-1.2 | 6.571 |
@@ -165,6 +173,7 @@
 | qwenqwen3-30b-a3b-instruct-2507 | 6.357 |
 | allenaiolmo-3.1-32b-instruct | 6.314 |
 | granite4micro-h | 6.314 |
+| liquidlfm-2.5-24b-a2b | 6.314 |
 | gpt-5.5-2026-04-23 | 6.286 |
 | meituanlongcat-2.0 | 6.286 |
 | ministral-3b-2410 | 6.286 |
@@ -251,6 +260,7 @@
 | nvidianemotron-3.5-lightning | 4.771 |
 | phi33.8b | 4.743 |
 | Grok-4.3-20260530 | 4.729 |
+| inceptionmercury-3 | 4.714 |
 | gpt-4.5-preview | 4.671 |
 | phi4-reasoningplus | 4.614 |
 | falcon37b-instruct-q8_0 | 4.557 |

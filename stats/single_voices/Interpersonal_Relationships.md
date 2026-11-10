@@ -90,6 +90,7 @@
 | gpt-4-1106-preview | 8.086 |
 | gpt-6-astra | 8.086 |
 | metamuse-spark-1.1 | 8.086 |
+| moonshotaikimi-k3.1-pro | 8.086 |
 | Grok-3-beta-thinking-20250303 | 8.071 |
 | meituanlongcat-2.0 | 8.071 |
 | metamuse-spark-1.2 | 8.071 |
@@ -125,6 +126,7 @@
 | smollm21.7b-instruct-q6_K | 7.943 |
 | anthropicclaude-fable-5.2 | 7.929 |
 | o1-pro-2024-12-05 | 7.929 |
+| inceptionmercury-3 | 7.929 |
 | liquidlfm-2.5-1.2b-thinkingfree | 7.914 |
 | meta-llamaLlama-3.3-70B-Instruct | 7.914 |
 | qwenqwen3.5-plus-02-15 | 7.914 |
@@ -137,12 +139,14 @@
 | openaigpt-5.4-pro | 7.829 |
 | grok-4-1-fast-reasoning | 7.829 |
 | Grok-4-fast-20251111 | 7.814 |
+| metamuse-wonder | 7.814 |
 | xiaomimimo-v2-omni | 7.814 |
 | gemma-3-27b-it | 7.814 |
 | ChatGPT-5.5-Instant-20260530 | 7.800 |
 | deepseekdeepseek-v4-pro-0813 | 7.800 |
 | poolsidelaguna-m.1free | 7.800 |
 | nvidiaNVIDIA-Nemotron-3-Super-120B-A12B | 7.771 |
+| deepseekdeepseek-v4.1-flash-1017 | 7.771 |
 | ai21jamba-large-1.7 | 7.757 |
 | meta-llamaLlama-3.2-3B-Instruct | 7.757 |
 | openaigpt-5.4-nano | 7.757 |
@@ -177,6 +181,8 @@
 | grok-4.20-experimental-beta-0304-reasoning | 7.500 |
 | openaigpt-5.6-luna | 7.500 |
 | claude-opus-4-5-20251101 | 7.486 |
+| liquidlfm-2.5-24b-a2b | 7.471 |
+| metamuse-spark-open | 7.471 |
 | qwenqwen3.7-plus | 7.471 |
 | grok-4.20-experimental-beta-0304-non-reasoning | 7.457 |
 | gpt-5.2-2025-12-11 | 7.443 |
@@ -207,6 +213,7 @@
 | Qwen-3.6-27B | 7.286 |
 | qwen3.59b | 7.286 |
 | deepseekdeepseek-v4-flash | 7.286 |
+| openaigpt-6.1-terra | 7.286 |
 | z-aiglm-5.2 | 7.257 |
 | poolsidelaguna-xs.2free | 7.257 |
 | Gemini-1.5-Pro-Exp-0827 | 7.243 |
@@ -222,6 +229,7 @@
 | tencenthy3-previewfree | 7.129 |
 | z-aiglm-5.3-flash | 7.129 |
 | qwenqwen3.7-max | 7.114 |
+| minimaxminimax-m3.1-flash | 7.086 |
 | grok-4.20-multi-agent-experimental-beta-0304 | 7.057 |
 | openaigpt-5.6-terra | 7.057 |
 | qwenqwen3.8-27b | 7.057 |
@@ -238,6 +246,7 @@
 | gpt-4o-mini-2024-11-05 | 6.914 |
 | qwenqwen3.5-122b-a10b | 6.900 |
 | z-aiglm-5 | 6.900 |
+| stepfunstep-5-preview | 6.886 |
 | meta-llamaMeta-Llama-3.1-8B-Instruct | 6.886 |
 | qwenqwen3.5-35b-a3b | 6.800 |
 | aion-labsaion-3.5-mini | 6.800 |
@@ -246,6 +255,7 @@
 | z-aiglm-5.1 | 6.671 |
 | mistralaimistral-large-4-0 | 6.529 |
 | gemma4e2b | 6.529 |
+| googlegemini-4-argon | 6.529 |
 | qwen3.52b | 6.471 |
 | anthropicclaude-sonnet-4.5 | 6.414 |
 | googlegemini-3.1-flash-lite-preview | 6.400 |

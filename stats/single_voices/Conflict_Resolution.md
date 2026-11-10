@@ -80,6 +80,7 @@
 | granite4micro-h | 8.629 |
 | thinkingmachinesinkling | 8.629 |
 | ibm-granitegranite-4.2-8b | 8.614 |
+| moonshotaikimi-k3.1-pro | 8.614 |
 | openaigpt-5.3-codex | 8.614 |
 | anthropicclaude-sonnet-5.5 | 8.600 |
 | gpt-5-nano-2025-08-07 | 8.600 |
@@ -95,6 +96,7 @@
 | nvidiaLlama-3.1-Nemotron-70B-Instruct | 8.571 |
 | o3-pro-2025-06-10 | 8.571 |
 | GPT-5.6-Sol-Pro-20260825 | 8.557 |
+| inceptionmercury-3 | 8.557 |
 | gpt-4.1-mini-2025-04-14 | 8.543 |
 | baiduernie-4.5-21b-a3b | 8.529 |
 | arcee-aitrinity-large-previewfree | 8.529 |
@@ -105,6 +107,7 @@
 | qwenqwen3-30b-a3b-instruct-2507 | 8.529 |
 | qwenqwen3-next-80b-a3b-instruct | 8.529 |
 | bytedance-seedseed-2.0-mini | 8.514 |
+| deepseekdeepseek-v4.1-flash-1017 | 8.514 |
 | gemini-2.5-pro-preview-05-06 | 8.514 |
 | gpt-5-chat-latest-2025-08-19 | 8.514 |
 | granite4.13b | 8.514 |
@@ -126,6 +129,7 @@
 | claude-3-7-sonnet-20250219 | 8.429 |
 | open-mixtral-8x22b | 8.429 |
 | amazonnova-2-lite-v1 | 8.429 |
+| metamuse-wonder | 8.400 |
 | o1-2024-12-17 | 8.400 |
 | o1-pro-2024-12-05 | 8.400 |
 | poolsidelaguna-m.1free | 8.400 |
@@ -164,6 +168,7 @@
 | openaigpt-6-sol | 8.214 |
 | openaigpt-5.4 | 8.200 |
 | openrouterowl-alpha | 8.171 |
+| metamuse-spark-open | 8.157 |
 | Gpt-5.1-Pro-20251120 | 8.157 |
 | phi4-reasoningplus | 8.157 |
 | bytedance-seedseed-2.0-lite | 8.143 |
@@ -180,8 +185,10 @@
 | Grok-4.3-20260530 | 8.057 |
 | grok-4.20-experimental-beta-0304-non-reasoning | 8.029 |
 | grok-4.20-experimental-beta-0304-reasoning | 8.029 |
+| minimaxminimax-m3.1-flash | 8.029 |
 | googlegemini-3.8-flash | 8.014 |
 | gpt-5.2-pro-2025-12-11 | 8.000 |
+| liquidlfm-2.5-24b-a2b | 8.000 |
 | z-aiglm-5.2 | 8.000 |
 | x-aigrok-4.6 | 7.986 |
 | openaigpt-5.4-pro | 7.986 |
@@ -189,6 +196,7 @@
 | claude-haiku-4-5-20251001 | 7.971 |
 | qwenqwen3.5-27b | 7.971 |
 | gemini-3.5-flash-lite | 7.957 |
+| openaigpt-6.1-terra | 7.957 |
 | gemma4e2b | 7.943 |
 | gpt-5.2-2025-12-11 | 7.929 |
 | liquidlfm-2.5-1.2b-instructfree | 7.914 |
@@ -212,8 +220,10 @@
 | meta-llamaMeta-Llama-3.1-405B-Instruct | 7.600 |
 | stepfunstep-3.7-flash | 7.600 |
 | grok-4-fast-reasoning | 7.586 |
+| googlegemini-4-argon | 7.529 |
 | openaigpt-5.6-luna | 7.514 |
 | prime-intellectintellect-3 | 7.486 |
+| stepfunstep-5-preview | 7.457 |
 | meta-llamaMeta-Llama-3.1-8B-Instruct | 7.443 |
 | grok-4-0709 | 7.429 |
 | Qwen-3.6-27B | 7.429 |

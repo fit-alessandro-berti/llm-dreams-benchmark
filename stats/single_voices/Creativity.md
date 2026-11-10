@@ -108,6 +108,7 @@
 | minimaxminimax-m2.5 | 9.486 |
 | minimaxminimax-m2.7 | 9.486 |
 | mistral-medium-2508 | 9.486 |
+| moonshotaikimi-k3.1-pro | 9.486 |
 | o4-mini-2025-04-16 | 9.486 |
 | openaigpt-5.4 | 9.486 |
 | openaigpt-5.6-sol | 9.486 |
@@ -128,6 +129,7 @@
 | gpt-4o-2024-08-06 | 9.471 |
 | gpt-5-nano-2025-08-07 | 9.471 |
 | gpt-5.5-2026-04-23 | 9.471 |
+| inceptionmercury-3 | 9.471 |
 | openaigpt-5.6-terra | 9.471 |
 | phi4-reasoningplus | 9.471 |
 | z-aiglm-5 | 9.471 |
@@ -149,6 +151,7 @@
 | ChatGPT-5.5-Instant-20260530 | 9.443 |
 | Gemini-1.5-Pro-Exp-0827 | 9.443 |
 | gemini-2.0-pro-exp-02-05 | 9.443 |
+| googlegemini-4-argon | 9.443 |
 | gpt-4.5-preview | 9.443 |
 | gpt-4o-2024-05-13 | 9.443 |
 | grok-4-fast-reasoning | 9.443 |
@@ -172,6 +175,7 @@
 | openrouterowl-alpha | 9.414 |
 | poolsidelaguna-m.1free | 9.414 |
 | stealthspace-bunny-alpha | 9.414 |
+| stepfunstep-5-preview | 9.414 |
 | xiaomimimo-v2.6-flash | 9.414 |
 | amazonnova-2-lite-v1 | 9.400 |
 | o1-2024-12-17 | 9.400 |
@@ -186,6 +190,7 @@
 | tencenthy3-previewfree | 9.400 |
 | claude-3-7-sonnet-20250219 | 9.386 |
 | ibm-granitegranite-4.1-8b | 9.386 |
+| metamuse-wonder | 9.386 |
 | o1-pro-2024-12-05 | 9.386 |
 | openaigpt-6-luna | 9.386 |
 | openaigpt-6.1-sol | 9.386 |
@@ -196,6 +201,7 @@
 | ministral-8b-2512 | 9.371 |
 | openaigpt-6-sol | 9.371 |
 | anthropicclaude-fable-5.2 | 9.371 |
+| deepseekdeepseek-v4.1-flash-1017 | 9.371 |
 | meta-llamaMeta-Llama-3.1-70B-Instruct | 9.371 |
 | Meta-Muse-Spark-20260409 | 9.371 |
 | anthropicclaude-haiku-5.5 | 9.357 |
@@ -210,7 +216,9 @@
 | x-aigrok-4.7 | 9.357 |
 | ai21jamba-mini-1.7 | 9.343 |
 | gpt-5-chat-latest-2025-08-19 | 9.343 |
+| liquidlfm-2.5-24b-a2b | 9.343 |
 | qwen3.52b | 9.343 |
+| minimaxminimax-m3.1-flash | 9.343 |
 | z-aiglm-5.2 | 9.343 |
 | liquidlfm-3-1.7b | 9.329 |
 | gpt-4-1106-preview | 9.329 |
@@ -230,6 +238,7 @@
 | granite4small-h | 9.286 |
 | microsoftWizardLM-2-8x22B | 9.286 |
 | nousresearchhermes-4-405b | 9.286 |
+| openaigpt-6.1-terra | 9.286 |
 | deepseekdeepseek-v3.2-speciale | 9.271 |
 | open-mixtral-8x22b | 9.271 |
 | open-mixtral-8x7b | 9.271 |
@@ -241,6 +250,7 @@
 | meta-llamallama-4-scout | 9.229 |
 | openaigpt-5.4-nano | 9.229 |
 | upstagesolar-mini4 | 9.229 |
+| metamuse-spark-open | 9.214 |
 | nousresearchhermes-4-70b | 9.214 |
 | prime-intellectintellect-3 | 9.214 |
 | qwen2.5-72b-instruct | 9.214 |

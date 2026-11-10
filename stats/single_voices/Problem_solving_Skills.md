@@ -123,6 +123,7 @@
 | gpt-5.5-2026-04-23 | 8.400 |
 | Grok-3-beta-thinking-20250303 | 8.400 |
 | liquidlfm-2-24b-a2b | 8.400 |
+| moonshotaikimi-k3.1-pro | 8.400 |
 | gemini-2.5-pro-preview-06-05 | 8.386 |
 | nousresearchhermes-4-70b | 8.386 |
 | poolsidelaguna-m.1free | 8.386 |
@@ -148,6 +149,7 @@
 | openrouterowl-alpha | 8.314 |
 | qwenqwen3-max | 8.314 |
 | googlegemini-3.7-flash | 8.314 |
+| metamuse-wonder | 8.314 |
 | deepseekdeepseek-v4-flash-0731 | 8.300 |
 | meta-llamaMeta-Llama-3.1-70B-Instruct | 8.300 |
 | mistral-medium-3.5 | 8.300 |
@@ -159,6 +161,7 @@
 | metamuse-spark-1.2 | 8.286 |
 | deepseekdeepseek-v4.1-flash | 8.286 |
 | chatgpt-4o-latest-2024-11-20 | 8.271 |
+| minimaxminimax-m3.1-flash | 8.271 |
 | xiaomimimo-v2.6-flash | 8.257 |
 | claude-fable-5-1-high | 8.257 |
 | googlegemini-3.1-flash-lite-preview | 8.257 |
@@ -169,8 +172,10 @@
 | gemini-3.5-flash | 8.243 |
 | qwenqwen3.5-plus-02-15 | 8.243 |
 | allenaiolmo-3-7b-instruct | 8.229 |
+| deepseekdeepseek-v4.1-flash-1017 | 8.229 |
 | gemma-4-31b-it | 8.229 |
 | meta-llamaLlama-3.2-3B-Instruct | 8.229 |
+| googlegemini-4-argon | 8.214 |
 | moonshotaikimi-k2.6 | 8.214 |
 | anthropicclaude-opus-5.5 | 8.214 |
 | claude-3-opus-20240229 | 8.214 |
@@ -178,6 +183,7 @@
 | gpt-5-chat-latest-2025-08-19 | 8.200 |
 | Qwen-3.6-27B | 8.200 |
 | qwenqwen3.6-plusfree | 8.200 |
+| liquidlfm-2.5-24b-a2b | 8.186 |
 | xiaomimimo-v2.6-pro | 8.186 |
 | anthropicclaude-haiku-5.5 | 8.171 |
 | chatgpt-4o-latest-2025-04-26 | 8.171 |
@@ -212,20 +218,24 @@
 | meta-llamaMeta-Llama-3.1-405B-Instruct | 8.071 |
 | deepseekdeepseek-v4-pro | 8.057 |
 | thinkingmachinesinkling | 8.057 |
+| inceptionmercury-3 | 8.043 |
 | grok-4.20-multi-agent-experimental-beta-0304 | 8.029 |
 | ibmgranite41b-h | 8.029 |
 | thinkingmachinesinkling-small | 8.029 |
 | phi4-reasoning | 8.014 |
+| openaigpt-6.1-terra | 7.986 |
 | tencenthy4-preview | 7.986 |
 | tencenthy3-previewfree | 7.971 |
 | gemini-3.5-flash-lite | 7.957 |
 | openaigpt-6-luna | 7.929 |
 | qwen3.59b | 7.929 |
+| stepfunstep-5-preview | 7.929 |
 | gemini-2.5-pro-exp-03-25 | 7.914 |
 | poolsidelaguna-xs.2free | 7.914 |
 | z-aiglm-5.3 | 7.900 |
 | inceptionmercury-2.5-preview | 7.900 |
 | Liquid-LFM2.5-350M | 7.871 |
+| metamuse-spark-open | 7.871 |
 | anthropicclaude-fable-5.2 | 7.857 |
 | meta-llamaMeta-Llama-3.1-8B-Instruct | 7.857 |
 | qwenqwen3-next-80b-a3b-instruct | 7.843 |

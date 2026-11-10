@@ -27,6 +27,7 @@
 | grok-4.20-multi-agent-experimental-beta-0304 | 7.657 |
 | meta-llamallama-4-scout | 7.643 |
 | grok-build-0.1 | 7.557 |
+| googlegemini-4-argon | 7.543 |
 | meta-llamaMeta-Llama-3.1-8B-Instruct | 7.457 |
 | llama27b | 7.443 |
 | Gemini-1.5-Pro-Exp-0827 | 7.414 |
@@ -51,6 +52,7 @@
 | GPT-5.6-Sol-Pro-20260825 | 7.086 |
 | z-aiglm-5 | 7.071 |
 | ministral-8b-2512 | 7.043 |
+| minimaxminimax-m3.1-flash | 7.014 |
 | openaigpt-5.4-pro | 7.014 |
 | granite4tiny-h | 6.986 |
 | smollm21.7b-instruct-q6_K | 6.986 |
@@ -59,8 +61,10 @@
 | Gpt-5.1-Pro-20251120 | 6.871 |
 | z-aiglm-5.3 | 6.857 |
 | qwen3.52b | 6.814 |
+| stepfunstep-5-preview | 6.800 |
 | claude-3-5-sonnet-20241022 | 6.800 |
 | qwenqwen3.8-27b | 6.800 |
+| metamuse-wonder | 6.786 |
 | qwenqwen3.7-max | 6.786 |
 | z-aiglm-5.1 | 6.786 |
 | openaigpt-5.6-luna | 6.771 |
@@ -96,6 +100,7 @@
 | anthropicclaude-opus-5 | 6.457 |
 | gemini-2.5-pro-preview-06-05 | 6.443 |
 | moonshotaikimi-k3 | 6.443 |
+| metamuse-spark-open | 6.414 |
 | nousresearchhermes-4-405b | 6.414 |
 | gemini-3-flash-preview | 6.400 |
 | gpt-4-1106-preview | 6.400 |
@@ -122,16 +127,19 @@
 | gpt-3.5-turbo | 6.086 |
 | GPT-5.5-Pro-20260422 | 6.071 |
 | amazonnova-2-lite-v1 | 6.057 |
+| moonshotaikimi-k3.1-pro | 6.043 |
 | qwenqwen3.5-35b-a3b | 6.014 |
 | stealthspace-bunny-alpha | 6.014 |
 | granite4micro | 6.000 |
 | googlegemini-3.8-flash | 6.000 |
+| openaigpt-6.1-terra | 6.000 |
 | inclusionailing-2.6-1tfree | 5.986 |
 | mistralaimistral-large-4-0 | 5.986 |
 | anthropicclaude-opus-4.6 | 5.971 |
 | xiaomimimo-v2.6-flash | 5.957 |
 | gpt-4.1-nano-2025-04-14 | 5.929 |
 | poolsidelaguna-m.1free | 5.929 |
+| deepseekdeepseek-v4.1-flash-1017 | 5.900 |
 | metamuse-spark-1.3 | 5.886 |
 | x-aigrok-4.5 | 5.886 |
 | qwenqwen3.5-27b | 5.886 |
@@ -150,6 +158,7 @@
 | gpt-5.5-2026-04-23 | 5.614 |
 | bytedance-seedseed-2.0-mini | 5.614 |
 | o1-2024-12-05 | 5.614 |
+| liquidlfm-2.5-24b-a2b | 5.600 |
 | liquidlfm-2.5-1.2b-thinkingfree | 5.571 |
 | gemini-2.0-flash-exp | 5.500 |
 | arcee-aitrinity-large-previewfree | 5.500 |
@@ -253,6 +262,7 @@
 | gpt-5-nano-2025-08-07 | 3.629 |
 | o3-mini-20250131-HIGH | 3.614 |
 | upstagesolar-pro4 | 3.614 |
+| inceptionmercury-3 | 3.543 |
 | o3-pro-2025-06-10 | 3.529 |
 | open-mixtral-8x7b | 3.529 |
 | openaigpt-oss-120b | 3.529 |

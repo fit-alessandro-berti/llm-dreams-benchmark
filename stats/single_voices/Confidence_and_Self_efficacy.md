@@ -40,6 +40,7 @@
 | phi4-reasoningplus | 8.457 |
 | openaigpt-oss-120b | 8.429 |
 | qwen2.5-32b-instruct | 8.429 |
+| inceptionmercury-3 | 8.400 |
 | Meta-Muse-Spark-20260409 | 8.400 |
 | nvidianemotron-3-nano-30b-a3bfree | 8.400 |
 | gpt-5-mini-2025-08-07 | 8.386 |
@@ -142,6 +143,7 @@
 | gemini-1.5-flash-8b | 7.757 |
 | qwenqwen3-next-80b-a3b-instruct | 7.757 |
 | xiaomimimo-v2.6-pro | 7.729 |
+| liquidlfm-2.5-24b-a2b | 7.714 |
 | deepseekdeepseek-v4-pro-0813 | 7.714 |
 | gemma-4-31b-it | 7.714 |
 | googlegemini-3.1-flash-lite-preview | 7.714 |
@@ -190,6 +192,8 @@
 | openaigpt-5.4 | 7.457 |
 | openaigpt-6-luna | 7.443 |
 | qwenqwen3.5-397b-a17b | 7.443 |
+| deepseekdeepseek-v4.1-flash-1017 | 7.400 |
+| moonshotaikimi-k3.1-pro | 7.400 |
 | arcee-aitrinity-large-thinking | 7.386 |
 | qwenqwen3.8-flash | 7.386 |
 | z-aiglm-5 | 7.386 |
@@ -204,7 +208,9 @@
 | openaigpt-5.6-terra | 7.329 |
 | smollm21.7b-instruct-q6_K | 7.329 |
 | Liquid-LFM2.5-350M | 7.314 |
+| metamuse-wonder | 7.286 |
 | GPT-5.6-Sol-Pro-20260825 | 7.257 |
+| stepfunstep-5-preview | 7.257 |
 | gemini-2.0-pro-exp-02-05 | 7.257 |
 | Gpt-5.1-Pro-20251120 | 7.243 |
 | Gemini-1.5-Pro-Exp-0827 | 7.214 |
@@ -223,17 +229,21 @@
 | meta-llamaMeta-Llama-3.1-70B-Instruct | 7.071 |
 | meta-llamaLlama-3.2-3B-Instruct | 7.057 |
 | tencenthy3-previewfree | 7.057 |
+| metamuse-spark-open | 7.043 |
 | z-aiglm-5.3 | 7.043 |
+| googlegemini-4-argon | 7.029 |
 | meta-llamaMeta-Llama-3.1-405B-Instruct | 7.029 |
 | stepfunstep-3.7-flash | 7.029 |
 | openaigpt-5.6-luna | 7.014 |
 | bytedance-seedseed-2.0-lite | 7.000 |
 | grok-4.20-multi-agent-experimental-beta-0304 | 7.000 |
+| openaigpt-6.1-terra | 6.986 |
 | quasar-438b | 6.986 |
 | grok-build-0.1 | 6.971 |
 | stealthox-alpha | 6.971 |
 | anthropicclaude-opus-4.1 | 6.943 |
 | openaigpt-6.1-sol | 6.929 |
+| minimaxminimax-m3.1-flash | 6.914 |
 | gemma-4-26b-a4b-it | 6.900 |
 | gpt-5.2-pro-2025-12-11 | 6.900 |
 | meta-llamaLlama-3.3-70B-Instruct | 6.886 |

@@ -16,6 +16,7 @@
 | granite4micro | 6.986 |
 | Grok-4.6-Heavy | 6.957 |
 | baiduernie-4.5-21b-a3b | 6.943 |
+| googlegemini-4-argon | 6.943 |
 | tencenthy3-previewfree | 6.943 |
 | ibmgranite41b-h | 6.914 |
 | nvidianemotron-3-ultra-550b-a55bfree | 6.914 |
@@ -62,8 +63,10 @@
 | Gpt-5.1-Pro-20251120 | 6.229 |
 | liquidlfm-2-24b-a2b | 6.229 |
 | openaigpt-5.3-chat | 6.214 |
+| minimaxminimax-m3.1-flash | 6.214 |
 | amazonnova-2-lite-v1 | 6.200 |
 | GPT-5.6-Sol-Pro-20260825 | 6.200 |
+| metamuse-wonder | 6.186 |
 | grok-4-0709 | 6.171 |
 | Grok-4.1-20251118 | 6.171 |
 | granite4micro-h | 6.171 |
@@ -104,6 +107,7 @@
 | z-aiglm-5.1 | 5.829 |
 | stealthox-alpha | 5.829 |
 | granite4.13b | 5.814 |
+| stepfunstep-5-preview | 5.814 |
 | z-aiglm-5.2 | 5.814 |
 | granite3.28b-instruct-q4_K_M | 5.800 |
 | openaigpt-5.3-codex | 5.800 |
@@ -140,9 +144,11 @@
 | qwen3.54b | 5.500 |
 | z-aiglm-5.3 | 5.457 |
 | falcon37b-instruct-q8_0 | 5.443 |
+| metamuse-spark-open | 5.443 |
 | claude-opus-4-7 | 5.443 |
 | qwenqwen3.8-27b | 5.443 |
 | chatgpt-4o-latest-2025-03-26 | 5.414 |
+| deepseekdeepseek-v4.1-flash-1017 | 5.414 |
 | x-aigrok-4.6 | 5.414 |
 | allenaiolmo-3.1-32b-instruct | 5.400 |
 | qwen2.5-32b-instruct | 5.400 |
@@ -153,6 +159,7 @@
 | Qwen-3.6-27B | 5.329 |
 | gpt-4.1-mini-2025-04-14 | 5.314 |
 | Grok-4.5-Heavy-20260720 | 5.314 |
+| openaigpt-6.1-terra | 5.314 |
 | Grok-4-fast-20251111 | 5.314 |
 | gemini-1.5-flash-002 | 5.300 |
 | gemini-2.5-pro-preview-05-06 | 5.300 |
@@ -161,6 +168,7 @@
 | anthropicclaude-opus-5 | 5.243 |
 | googlegemini-3.8-flash | 5.243 |
 | inceptionmercury | 5.229 |
+| liquidlfm-2.5-24b-a2b | 5.214 |
 | o1-2024-12-17 | 5.200 |
 | phi33.8b | 5.200 |
 | bytedance-seedseed-2.0-lite | 5.157 |
@@ -176,6 +184,7 @@
 | o1-pro-2024-12-05 | 5.100 |
 | ChatGPT-5.1-Instant-20251113 | 5.100 |
 | GPT-5.5-Pro-20260422 | 5.086 |
+| moonshotaikimi-k3.1-pro | 5.071 |
 | anthropicclaude-haiku-5.5 | 5.057 |
 | liquidlfm-2.2-6b | 5.057 |
 | Meta-Muse-Spark-20260409 | 5.057 |
@@ -255,6 +264,7 @@
 | googlegemini-3.7-flash | 4.100 |
 | qwen3.8-max-2026-09-02 | 3.986 |
 | moonshotaikimi-k2.7-code | 3.957 |
+| inceptionmercury-3 | 3.914 |
 | claude-haiku-4-5-20251001 | 3.914 |
 | o3-mini-20250131-HIGH | 3.886 |
 | anthropicclaude-sonnet-4.6 | 3.814 |

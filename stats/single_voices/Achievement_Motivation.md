@@ -129,7 +129,9 @@
 | qwenqwen3.8-max | 8.200 |
 | googlegemini-3.8-flash | 8.186 |
 | deepseekdeepseek-v4-flash-vision-exp | 8.186 |
+| googlegemini-4-argon | 8.186 |
 | gpt-4.1-2025-04-14 | 8.186 |
+| liquidlfm-2.5-24b-a2b | 8.186 |
 | gemini-2.5-pro-preview-05-06 | 8.171 |
 | gemini-3.6-flash | 8.171 |
 | Gpt-5.1-Pro-20251120 | 8.171 |
@@ -144,15 +146,18 @@
 | mistral-medium-2508 | 8.100 |
 | o3-mini-20250131-HIGH | 8.100 |
 | z-aiglm-5 | 8.100 |
+| minimaxminimax-m3.1-flash | 8.100 |
 | anthropicclaude-opus-4.6 | 8.086 |
 | bytedance-seedseed-2.0-mini | 8.086 |
 | gpt-5-pro-2025-10-06 | 8.086 |
+| inceptionmercury-3 | 8.086 |
 | tencenthy3-previewfree | 8.086 |
 | llama27b | 8.057 |
 | meituanlongcat-2.0 | 8.057 |
 | qwenqwen3.8-2.4t-a95b | 8.057 |
 | gpt-5-chat-latest-2025-08-19 | 8.057 |
 | inclusionailing-2.6-1tfree | 8.057 |
+| metamuse-wonder | 8.043 |
 | mistral-medium-3.5 | 8.043 |
 | ChatGPT-5.5-Instant-20260530 | 8.029 |
 | deepseekdeepseek-v4.1-flash | 8.029 |
@@ -173,6 +178,7 @@
 | qwenqwen3.7-max | 7.943 |
 | deepseekdeepseek-v4-flash-0731 | 7.943 |
 | ChatGPT-5.1-Instant-20251113 | 7.929 |
+| deepseekdeepseek-v4.1-flash-1017 | 7.929 |
 | Grok-4.6-Heavy | 7.929 |
 | ministral-14b-2512 | 7.929 |
 | nvidianemotron-3-ultra-550b-a55bfree | 7.929 |
@@ -192,6 +198,7 @@
 | x-aigrok-4.7 | 7.871 |
 | stealthspace-bunny-alpha | 7.871 |
 | googlegemini-3.7-flash | 7.857 |
+| stepfunstep-5-preview | 7.857 |
 | ibmgranite41b-h | 7.843 |
 | openaigpt-5.6-terra | 7.843 |
 | xiaomimimo-v2.5-pro | 7.843 |
@@ -221,10 +228,12 @@
 | gemini-3.5-flash | 7.714 |
 | qwenqwen3-next-80b-a3b-instruct | 7.700 |
 | anthropicclaude-sonnet-5.5 | 7.700 |
+| moonshotaikimi-k3.1-pro | 7.700 |
 | qwenqwen3.5-35b-a3b | 7.700 |
 | anthropicclaude-fable-5 | 7.686 |
 | qwen3.59b | 7.657 |
 | gpt-5.2-pro-2025-12-11 | 7.643 |
+| metamuse-spark-open | 7.643 |
 | qwenqwen3.7-plus | 7.643 |
 | qwenqwen3.8-27b | 7.643 |
 | mistralaimistral-large-4-0 | 7.629 |
@@ -232,6 +241,7 @@
 | z-aiglm-5.1 | 7.614 |
 | anthropicclaude-haiku-5.5 | 7.600 |
 | gpt-5.6-sol-XHIGH | 7.600 |
+| openaigpt-6.1-terra | 7.586 |
 | qwen3.8-max-2026-09-02 | 7.571 |
 | thinkingmachinesinkling-small | 7.571 |
 | ministral-3b-2512 | 7.543 |

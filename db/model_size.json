@@ -1,919 +1,281 @@
 {
-  "ChatGPT-5.1-Instant-20251113": [
-    200,
-    23
-  ],
-  "ChatGPT-5.5-Instant-20260530": [
-    1600,
-    100
-  ],
-  "GPT-5.5-Pro-20260422": [
-    1600,
-    100
-  ],
-  "GPT-5.6-Sol-Pro-20260825": [
-    3100,
-    105
-  ],
-  "Gemini-1.5-Pro-Exp-0827": [
-    1200,
-    120
-  ],
-  "Gpt-5.1-Pro-20251120": [
-    200,
-    23
-  ],
-  "Grok-3-beta-thinking-20250303": [
-    2700,
-    50
-  ],
-  "Grok-4-fast-20251111": [
-    500,
-    30
-  ],
-  "Grok-4.1-20251118": [
-    1111,
-    70
-  ],
-  "Grok-4.3-20260530": [
-    500,
-    30
-  ],
-  "Grok-4.30-20260420": [
-    500,
-    30
-  ],
-  "Grok-4.5-Heavy-20260720": [
-    1500,
-    200
-  ],
+  "ChatGPT-5.1-Instant-20251113": [],
+  "ChatGPT-5.5-Instant-20260530": [],
+  "GPT-5.5-Pro-20260422": [],
+  "GPT-5.6-Sol-Pro-20260825": [],
+  "Gemini-1.5-Pro-Exp-0827": [],
+  "Gpt-5.1-Pro-20251120": [],
+  "Grok-3-beta-thinking-20250303": [],
+  "Grok-4-fast-20251111": [],
+  "Grok-4.1-20251118": [],
+  "Grok-4.3-20260530": [],
+  "Grok-4.30-20260420": [],
+  "Grok-4.5-Heavy-20260720": [],
   "Grok-4.6-Heavy": [],
-  "Liquid-LFM2.5-350M": [
-    350
-  ],
-  "Meta-Muse-Spark-20260409": [
-    233,
-    22
-  ],
-  "Qwen-3.6-27B": [
-    27
-  ],
-  "Qwen-3.6-Max-Preview": [
-    1588,
-    68
-  ],
-  "ai21jamba-large-1.7": [
-    398,
-    94
-  ],
-  "ai21jamba-mini-1.7": [
-    52,
-    12
-  ],
-  "aion-labsaion-2.0": [
-    671,
-    37
-  ],
+  "Liquid-LFM2.5-350M": [],
+  "Meta-Muse-Spark-20260409": [],
+  "Qwen-3.6-27B": [],
+  "Qwen-3.6-Max-Preview": [],
+  "ai21jamba-large-1.7": [],
+  "ai21jamba-mini-1.7": [],
+  "aion-labsaion-2.0": [],
   "aion-labsaion-3.5": [],
   "aion-labsaion-3.5-mini": [],
-  "allenaiolmo-3-7b-instruct": [
-    7
-  ],
-  "allenaiolmo-3-7b-think": [
-    7
-  ],
-  "allenaiolmo-3.1-32b-instruct": [
-    32
-  ],
-  "amazonnova-2-lite-v1": [
-    30
-  ],
-  "anthropicclaude-fable-5": [
-    4500,
-    340
-  ],
+  "allenaiolmo-3-7b-instruct": [],
+  "allenaiolmo-3-7b-think": [],
+  "allenaiolmo-3.1-32b-instruct": [],
+  "amazonnova-2-lite-v1": [],
+  "anthropicclaude-fable-5": [],
   "anthropicclaude-fable-5.2": [],
   "anthropicclaude-haiku-5.5": [],
-  "anthropicclaude-opus-4.1": [
-    2000,
-    250
-  ],
-  "anthropicclaude-opus-4.6": [
-    1700,
-    170
-  ],
-  "anthropicclaude-opus-5": [
-    3000,
-    170
-  ],
+  "anthropicclaude-opus-4.1": [],
+  "anthropicclaude-opus-4.6": [],
+  "anthropicclaude-opus-5": [],
   "anthropicclaude-opus-5.5": [],
-  "anthropicclaude-sonnet-4.5": [
-    300,
-    70
-  ],
-  "anthropicclaude-sonnet-4.6": [
-    300,
-    70
-  ],
-  "anthropicclaude-sonnet-5": [
-    1600,
-    70
-  ],
+  "anthropicclaude-sonnet-4.5": [],
+  "anthropicclaude-sonnet-4.6": [],
+  "anthropicclaude-sonnet-5": [],
   "anthropicclaude-sonnet-5.5": [],
-  "arcee-aitrinity-large-previewfree": [
-    398,
-    13
-  ],
-  "arcee-aitrinity-large-thinking": [
-    398,
-    13
-  ],
-  "baiduernie-4.5-21b-a3b": [
-    21,
-    3
-  ],
-  "baiduernie-4.5-300b-a47b": [
-    300,
-    47
-  ],
-  "bytedance-seedseed-2.0-lite": [
-    160,
-    16
-  ],
-  "bytedance-seedseed-2.0-mini": [
-    80,
-    8
-  ],
-  "chatgpt-4o-latest-2024-11-20": [
-    400
-  ],
-  "chatgpt-4o-latest-2025-03-26": [
-    400
-  ],
-  "chatgpt-4o-latest-2025-04-26": [
-    400
-  ],
-  "claude-3-5-sonnet-20241022": [
-    400,
-    100
-  ],
-  "claude-3-7-sonnet-20250219": [
-    400,
-    100
-  ],
-  "claude-3-opus-20240229": [
-    2000,
-    250
-  ],
+  "arcee-aitrinity-large-previewfree": [],
+  "arcee-aitrinity-large-thinking": [],
+  "baiduernie-4.5-21b-a3b": [],
+  "baiduernie-4.5-300b-a47b": [],
+  "bytedance-seedseed-2.0-lite": [],
+  "bytedance-seedseed-2.0-mini": [],
+  "chatgpt-4o-latest-2024-11-20": [],
+  "chatgpt-4o-latest-2025-03-26": [],
+  "chatgpt-4o-latest-2025-04-26": [],
+  "claude-3-5-sonnet-20241022": [],
+  "claude-3-7-sonnet-20250219": [],
+  "claude-3-opus-20240229": [],
   "claude-fable-5-1-high": [],
-  "claude-fable-5-high": [
-    4500,
-    340
-  ],
-  "claude-haiku-4-5-20251001": [
-    80,
-    20
-  ],
-  "claude-opus-4-5-20251101": [
-    1700,
-    170
-  ],
-  "claude-opus-4-7": [
-    1700,
-    170
-  ],
-  "claude-opus-4-8": [
-    2700,
-    170
-  ],
-  "deepseekdeepseek-v3.2": [
-    671,
-    37
-  ],
-  "deepseekdeepseek-v3.2-speciale": [
-    671,
-    37
-  ],
-  "deepseekdeepseek-v4-flash": [
-    284,
-    13
-  ],
-  "deepseekdeepseek-v4-flash-0731": [
-    284,
-    13
-  ],
-  "deepseekdeepseek-v4-flash-vision-exp": [
-    284,
-    13
-  ],
-  "deepseekdeepseek-v4-pro": [
-    1600,
-    49
-  ],
-  "deepseekdeepseek-v4-pro-0813": [
-    1600,
-    49
-  ],
+  "claude-fable-5-high": [],
+  "claude-haiku-4-5-20251001": [],
+  "claude-opus-4-5-20251101": [],
+  "claude-opus-4-7": [],
+  "claude-opus-4-8": [],
+  "deepseekdeepseek-v3.2": [],
+  "deepseekdeepseek-v3.2-speciale": [],
+  "deepseekdeepseek-v4-flash": [],
+  "deepseekdeepseek-v4-flash-0731": [],
+  "deepseekdeepseek-v4-flash-vision-exp": [],
+  "deepseekdeepseek-v4-pro": [],
+  "deepseekdeepseek-v4-pro-0813": [],
   "deepseekdeepseek-v4.1-flash": [],
-  "falcon310b-instruct-q8_0": [
-    10
-  ],
-  "falcon33b-instruct-q8_0": [
-    3
-  ],
-  "falcon37b-instruct-q8_0": [
-    7
-  ],
-  "gemini-1.5-flash-002": [
-    20
-  ],
-  "gemini-1.5-flash-8b": [
-    8,
-    2.5
-  ],
-  "gemini-2.0-flash-exp": [
-    40,
-    18
-  ],
-  "gemini-2.0-pro-exp-02-05": [
-    2000,
-    65
-  ],
-  "gemini-2.5-flash-lite": [
-    145,
-    20
-  ],
-  "gemini-2.5-pro-exp-03-25": [
-    1500,
-    40
-  ],
-  "gemini-2.5-pro-preview-05-06": [
-    1500,
-    40
-  ],
-  "gemini-2.5-pro-preview-06-05": [
-    1500,
-    40
-  ],
-  "gemini-3-flash-preview": [
-    1200,
-    20
-  ],
-  "gemini-3-pro-preview": [
-    7500,
-    40
-  ],
-  "gemini-3.5-flash": [
-    275,
-    13
-  ],
-  "gemini-3.5-flash-lite": [
-    120,
-    8
-  ],
-  "gemini-3.6-flash": [
-    275,
-    13
-  ],
-  "gemma-3-27b-it": [
-    27
-  ],
-  "gemma-4-26b-a4b-it": [
-    26,
-    4
-  ],
-  "gemma-4-31b-it": [
-    31
-  ],
-  "gemma4e2b": [
-    5.1,
-    2.3
-  ],
-  "gemma4e4b": [
-    8,
-    4.5
-  ],
-  "googlegemini-3.1-flash-lite-preview": [
-    600,
-    10
-  ],
-  "googlegemini-3.1-pro-preview": [
-    7500,
-    40
-  ],
-  "googlegemini-3.7-flash": [
-    275,
-    13
-  ],
+  "deepseekdeepseek-v4.1-flash-1017": [],
+  "falcon310b-instruct-q8_0": [],
+  "falcon33b-instruct-q8_0": [],
+  "falcon37b-instruct-q8_0": [],
+  "gemini-1.5-flash-002": [],
+  "gemini-1.5-flash-8b": [],
+  "gemini-2.0-flash-exp": [],
+  "gemini-2.0-pro-exp-02-05": [],
+  "gemini-2.5-flash-lite": [],
+  "gemini-2.5-pro-exp-03-25": [],
+  "gemini-2.5-pro-preview-05-06": [],
+  "gemini-2.5-pro-preview-06-05": [],
+  "gemini-3-flash-preview": [],
+  "gemini-3-pro-preview": [],
+  "gemini-3.5-flash": [],
+  "gemini-3.5-flash-lite": [],
+  "gemini-3.6-flash": [],
+  "gemma-3-27b-it": [],
+  "gemma-4-26b-a4b-it": [],
+  "gemma-4-31b-it": [],
+  "gemma4e2b": [],
+  "gemma4e4b": [],
+  "googlegemini-3.1-flash-lite-preview": [],
+  "googlegemini-3.1-pro-preview": [],
+  "googlegemini-3.7-flash": [],
   "googlegemini-3.8-flash": [],
-  "gpt-3.5-turbo": [
-    20
-  ],
-  "gpt-4-0125-preview": [
-    1800,
-    280
-  ],
-  "gpt-4-0613": [
-    1800,
-    280
-  ],
-  "gpt-4-1106-preview": [
-    1800,
-    280
-  ],
-  "gpt-4-turbo-2024-04-09": [
-    1800,
-    280
-  ],
-  "gpt-4.1-2025-04-14": [
-    200,
-    32
-  ],
-  "gpt-4.1-mini-2025-04-14": [
-    60,
-    8
-  ],
-  "gpt-4.1-nano-2025-04-14": [
-    17,
-    2
-  ],
-  "gpt-4.5-preview": [
-    6000,
-    600
-  ],
-  "gpt-4o-2024-05-13": [
-    400
-  ],
-  "gpt-4o-2024-08-06": [
-    400
-  ],
-  "gpt-4o-mini-2024-07-18": [
-    8
-  ],
-  "gpt-4o-mini-2024-11-05": [
-    8
-  ],
-  "gpt-5-2025-08-07": [
-    200,
-    32
-  ],
-  "gpt-5-chat-latest-2025-08-19": [
-    200,
-    32
-  ],
-  "gpt-5-mini-2025-08-07": [
-    60,
-    8
-  ],
-  "gpt-5-nano-2025-08-07": [
-    17,
-    2
-  ],
-  "gpt-5-pro-2025-10-06": [
-    200,
-    32
-  ],
-  "gpt-5.2-2025-12-11": [
-    560,
-    48
-  ],
-  "gpt-5.2-pro-2025-12-11": [
-    560,
-    48
-  ],
-  "gpt-5.3-codex-spark-low": [
-    240,
-    15
-  ],
-  "gpt-5.5-2026-04-23": [
-    1600,
-    100
-  ],
-  "gpt-5.6-sol-XHIGH": [
-    3100,
-    105
-  ],
+  "googlegemini-4-argon": [],
+  "gpt-3.5-turbo": [],
+  "gpt-4-0125-preview": [],
+  "gpt-4-0613": [],
+  "gpt-4-1106-preview": [],
+  "gpt-4-turbo-2024-04-09": [],
+  "gpt-4.1-2025-04-14": [],
+  "gpt-4.1-mini-2025-04-14": [],
+  "gpt-4.1-nano-2025-04-14": [],
+  "gpt-4.5-preview": [],
+  "gpt-4o-2024-05-13": [],
+  "gpt-4o-2024-08-06": [],
+  "gpt-4o-mini-2024-07-18": [],
+  "gpt-4o-mini-2024-11-05": [],
+  "gpt-5-2025-08-07": [],
+  "gpt-5-chat-latest-2025-08-19": [],
+  "gpt-5-mini-2025-08-07": [],
+  "gpt-5-nano-2025-08-07": [],
+  "gpt-5-pro-2025-10-06": [],
+  "gpt-5.2-2025-12-11": [],
+  "gpt-5.2-pro-2025-12-11": [],
+  "gpt-5.3-codex-spark-low": [],
+  "gpt-5.5-2026-04-23": [],
+  "gpt-5.6-sol-XHIGH": [],
   "gpt-6-astra": [],
-  "granite3.28b-instruct-q4_K_M": [
-    8
-  ],
-  "granite4.130b": [
-    30
-  ],
-  "granite4.13b": [
-    3
-  ],
-  "granite4micro": [
-    3
-  ],
-  "granite4micro-h": [
-    3
-  ],
-  "granite4small-h": [
-    32,
-    9
-  ],
-  "granite4tiny-h": [
-    7,
-    1
-  ],
-  "grok-2-1212": [
-    400
-  ],
-  "grok-4-0709": [
-    2700,
-    50
-  ],
-  "grok-4-1-fast-non-reasoning": [
-    500,
-    30
-  ],
-  "grok-4-1-fast-reasoning": [
-    500,
-    30
-  ],
-  "grok-4-fast-reasoning": [
-    500,
-    30
-  ],
-  "grok-4.20-experimental-beta-0304-non-reasoning": [
-    500,
-    30
-  ],
-  "grok-4.20-experimental-beta-0304-reasoning": [
-    500,
-    30
-  ],
-  "grok-4.20-multi-agent-experimental-beta-0304": [
-    500,
-    30
-  ],
-  "grok-build-0.1": [
-    500,
-    30
-  ],
-  "ibm-granitegranite-4.1-8b": [
-    8
-  ],
+  "granite3.28b-instruct-q4_K_M": [],
+  "granite4.130b": [],
+  "granite4.13b": [],
+  "granite4micro": [],
+  "granite4micro-h": [],
+  "granite4small-h": [],
+  "granite4tiny-h": [],
+  "grok-2-1212": [],
+  "grok-4-0709": [],
+  "grok-4-1-fast-non-reasoning": [],
+  "grok-4-1-fast-reasoning": [],
+  "grok-4-fast-reasoning": [],
+  "grok-4.20-experimental-beta-0304-non-reasoning": [],
+  "grok-4.20-experimental-beta-0304-reasoning": [],
+  "grok-4.20-multi-agent-experimental-beta-0304": [],
+  "grok-build-0.1": [],
+  "ibm-granitegranite-4.1-8b": [],
   "ibm-granitegranite-4.2-8b": [],
-  "ibmgranite41b-h": [
-    1
-  ],
-  "inceptionmercury": [
-    15
-  ],
+  "ibmgranite41b-h": [],
+  "inceptionmercury": [],
   "inceptionmercury-2.5-preview": [],
-  "inclusionailing-2.6-1tfree": [
-    1000,
-    63
-  ],
-  "liquidlfm-2-24b-a2b": [
-    24,
-    2
-  ],
-  "liquidlfm-2.2-6b": [
-    6
-  ],
-  "liquidlfm-2.5-1.2b-instructfree": [
-    1.2
-  ],
-  "liquidlfm-2.5-1.2b-thinkingfree": [
-    1.2
-  ],
+  "inceptionmercury-3": [],
+  "inclusionailing-2.6-1tfree": [],
+  "liquidlfm-2-24b-a2b": [],
+  "liquidlfm-2.2-6b": [],
+  "liquidlfm-2.5-1.2b-instructfree": [],
+  "liquidlfm-2.5-1.2b-thinkingfree": [],
+  "liquidlfm-2.5-24b-a2b": [],
   "liquidlfm-3-1.7b": [],
-  "liquidlfm2-8b-a1b": [
-    8,
-    1
-  ],
-  "llama213b": [
-    13
-  ],
-  "llama27b": [
-    7
-  ],
-  "meituanlongcat-2.0": [
-    1600,
-    48
-  ],
-  "meta-llamaLlama-3.2-3B-Instruct": [
-    3
-  ],
-  "meta-llamaLlama-3.3-70B-Instruct": [
-    70
-  ],
-  "meta-llamaMeta-Llama-3.1-405B-Instruct": [
-    405
-  ],
-  "meta-llamaMeta-Llama-3.1-70B-Instruct": [
-    70
-  ],
-  "meta-llamaMeta-Llama-3.1-8B-Instruct": [
-    8
-  ],
-  "meta-llamallama-4-maverick": [
-    400,
-    17
-  ],
-  "meta-llamallama-4-scout": [
-    100,
-    17
-  ],
-  "metamuse-glimmer-30b": [
-    30
-  ],
-  "metamuse-spark-1.1": [
-    389,
-    48
-  ],
-  "metamuse-spark-1.2": [
-    389,
-    48
-  ],
+  "liquidlfm2-8b-a1b": [],
+  "llama213b": [],
+  "llama27b": [],
+  "meituanlongcat-2.0": [],
+  "meta-llamaLlama-3.2-3B-Instruct": [],
+  "meta-llamaLlama-3.3-70B-Instruct": [],
+  "meta-llamaMeta-Llama-3.1-405B-Instruct": [],
+  "meta-llamaMeta-Llama-3.1-70B-Instruct": [],
+  "meta-llamaMeta-Llama-3.1-8B-Instruct": [],
+  "meta-llamallama-4-maverick": [],
+  "meta-llamallama-4-scout": [],
+  "metamuse-glimmer-30b": [],
+  "metamuse-spark-1.1": [],
+  "metamuse-spark-1.2": [],
   "metamuse-spark-1.3": [],
-  "microsoftPhi-3-medium-4k-instruct": [
-    14
-  ],
-  "microsoftWizardLM-2-8x22B": [
-    176
-  ],
-  "microsoftphi-4": [
-    14
-  ],
-  "minimaxminimax-m2.5": [
-    230,
-    10
-  ],
-  "minimaxminimax-m2.7": [
-    230,
-    10
-  ],
-  "minimaxminimax-m3": [
-    428,
-    23
-  ],
-  "ministral-14b-2512": [
-    14
-  ],
-  "ministral-3b-2410": [
-    3
-  ],
-  "ministral-3b-2512": [
-    3
-  ],
-  "ministral-8b-2512": [
-    8
-  ],
-  "mistral-large-2512": [
-    675,
-    41
-  ],
-  "mistral-medium-2508": [
-    70
-  ],
-  "mistral-medium-3.5": [
-    128
-  ],
-  "mistral-small-2603": [
-    119,
-    6.5
-  ],
+  "metamuse-spark-open": [],
+  "metamuse-wonder": [],
+  "microsoftPhi-3-medium-4k-instruct": [],
+  "microsoftWizardLM-2-8x22B": [],
+  "microsoftphi-4": [],
+  "minimaxminimax-m2.5": [],
+  "minimaxminimax-m2.7": [],
+  "minimaxminimax-m3": [],
+  "minimaxminimax-m3.1-flash": [],
+  "ministral-14b-2512": [],
+  "ministral-3b-2410": [],
+  "ministral-3b-2512": [],
+  "ministral-8b-2512": [],
+  "mistral-large-2512": [],
+  "mistral-medium-2508": [],
+  "mistral-medium-3.5": [],
+  "mistral-small-2603": [],
   "mistralaimistral-large-4-0": [],
-  "moonshotaikimi-k2.5": [
-    1000,
-    32
-  ],
-  "moonshotaikimi-k2.6": [
-    1000,
-    32
-  ],
-  "moonshotaikimi-k2.7-code": [
-    1000,
-    32
-  ],
-  "moonshotaikimi-k3": [
-    2800
-  ],
-  "nousresearchhermes-4-405b": [
-    405
-  ],
-  "nousresearchhermes-4-70b": [
-    70
-  ],
-  "nvidiaLlama-3.1-Nemotron-70B-Instruct": [
-    70
-  ],
-  "nvidiaNVIDIA-Nemotron-3-Super-120B-A12B": [
-    120,
-    12
-  ],
-  "nvidiaNemotron-3-Nano-Omni-30B-A3B-Reasoning": [
-    30,
-    3
-  ],
-  "nvidianemotron-3-nano-30b-a3bfree": [
-    30,
-    3
-  ],
-  "nvidianemotron-3-ultra-550b-a55bfree": [
-    550,
-    55
-  ],
-  "nvidianemotron-3.5-lightning": [
-    30,
-    3
-  ],
-  "o1-2024-12-05": [
-    300
-  ],
-  "o1-2024-12-17": [
-    300
-  ],
-  "o1-preview-2024-09-12": [
-    300
-  ],
-  "o1-pro-2024-12-05": [
-    300
-  ],
-  "o3-2025-04-16": [
-    200,
-    32
-  ],
-  "o3-mini-20250131-HIGH": [
-    60,
-    8
-  ],
-  "o3-pro-2025-06-10": [
-    200,
-    23
-  ],
-  "o4-mini-2025-04-16": [
-    60,
-    8
-  ],
-  "open-mistral-7b": [
-    7
-  ],
-  "open-mixtral-8x22b": [
-    176
-  ],
-  "open-mixtral-8x7b": [
-    56
-  ],
-  "openaigpt-5.2-codex": [
-    560,
-    48
-  ],
-  "openaigpt-5.3-chat": [
-    560,
-    48
-  ],
-  "openaigpt-5.3-codex": [
-    560,
-    48
-  ],
-  "openaigpt-5.4": [
-    800,
-    50
-  ],
-  "openaigpt-5.4-mini": [
-    240,
-    15
-  ],
-  "openaigpt-5.4-nano": [
-    64,
-    4.2
-  ],
-  "openaigpt-5.4-pro": [
-    800,
-    50
-  ],
-  "openaigpt-5.6-luna": [
-    1500,
-    20
-  ],
-  "openaigpt-5.6-sol": [
-    3100,
-    105
-  ],
-  "openaigpt-5.6-terra": [
-    2100,
-    50
-  ],
+  "moonshotaikimi-k2.5": [],
+  "moonshotaikimi-k2.6": [],
+  "moonshotaikimi-k2.7-code": [],
+  "moonshotaikimi-k3": [],
+  "moonshotaikimi-k3.1-pro": [],
+  "nousresearchhermes-4-405b": [],
+  "nousresearchhermes-4-70b": [],
+  "nvidiaLlama-3.1-Nemotron-70B-Instruct": [],
+  "nvidiaNVIDIA-Nemotron-3-Super-120B-A12B": [],
+  "nvidiaNemotron-3-Nano-Omni-30B-A3B-Reasoning": [],
+  "nvidianemotron-3-nano-30b-a3bfree": [],
+  "nvidianemotron-3-ultra-550b-a55bfree": [],
+  "nvidianemotron-3.5-lightning": [],
+  "o1-2024-12-05": [],
+  "o1-2024-12-17": [],
+  "o1-preview-2024-09-12": [],
+  "o1-pro-2024-12-05": [],
+  "o3-2025-04-16": [],
+  "o3-mini-20250131-HIGH": [],
+  "o3-pro-2025-06-10": [],
+  "o4-mini-2025-04-16": [],
+  "open-mistral-7b": [],
+  "open-mixtral-8x22b": [],
+  "open-mixtral-8x7b": [],
+  "openaigpt-5.2-codex": [],
+  "openaigpt-5.3-chat": [],
+  "openaigpt-5.3-codex": [],
+  "openaigpt-5.4": [],
+  "openaigpt-5.4-mini": [],
+  "openaigpt-5.4-nano": [],
+  "openaigpt-5.4-pro": [],
+  "openaigpt-5.6-luna": [],
+  "openaigpt-5.6-sol": [],
+  "openaigpt-5.6-terra": [],
   "openaigpt-6-luna": [],
   "openaigpt-6-sol": [],
   "openaigpt-6.1-sol": [],
-  "openaigpt-oss-120b": [
-    117,
-    5.1
-  ],
-  "openrouterowl-alpha": [
-    1600,
-    48
-  ],
-  "phi2.7b": [
-    2.7
-  ],
-  "phi3.53.8b-mini-instruct-fp16": [
-    3.8
-  ],
-  "phi33.8b": [
-    3.8
-  ],
-  "phi4-reasoning": [
-    14
-  ],
-  "phi4-reasoningplus": [
-    14
-  ],
-  "poolsidelaguna-m.1free": [
-    225,
-    23
-  ],
-  "poolsidelaguna-xs-2.1": [
-    33,
-    3
-  ],
-  "poolsidelaguna-xs.2free": [
-    33,
-    3
-  ],
-  "prime-intellectintellect-3": [
-    106,
-    12
-  ],
+  "openaigpt-6.1-terra": [],
+  "openaigpt-oss-120b": [],
+  "openrouterowl-alpha": [],
+  "phi2.7b": [],
+  "phi3.53.8b-mini-instruct-fp16": [],
+  "phi33.8b": [],
+  "phi4-reasoning": [],
+  "phi4-reasoningplus": [],
+  "poolsidelaguna-m.1free": [],
+  "poolsidelaguna-xs-2.1": [],
+  "poolsidelaguna-xs.2free": [],
+  "prime-intellectintellect-3": [],
   "quasar-438b": [],
-  "qwen2.5-14b-instruct": [
-    14
-  ],
-  "qwen2.5-32b-instruct": [
-    32
-  ],
-  "qwen2.5-72b-instruct": [
-    72
-  ],
-  "qwen2.5-7b-instruct": [
-    7
-  ],
-  "qwen3.50.8b": [
-    0.8
-  ],
-  "qwen3.52b": [
-    2
-  ],
-  "qwen3.54b": [
-    4
-  ],
-  "qwen3.59b": [
-    9
-  ],
-  "qwen3.635b-a3b": [
-    35,
-    3
-  ],
+  "qwen2.5-14b-instruct": [],
+  "qwen2.5-32b-instruct": [],
+  "qwen2.5-72b-instruct": [],
+  "qwen2.5-7b-instruct": [],
+  "qwen3.50.8b": [],
+  "qwen3.52b": [],
+  "qwen3.54b": [],
+  "qwen3.59b": [],
+  "qwen3.635b-a3b": [],
   "qwen3.8-max-2026-09-02": [],
-  "qwenqwen3-30b-a3b-instruct-2507": [
-    30,
-    3
-  ],
-  "qwenqwen3-max": [
-    1175,
-    110
-  ],
-  "qwenqwen3-next-80b-a3b-instruct": [
-    80,
-    3
-  ],
-  "qwenqwen3.5-122b-a10b": [
-    122,
-    10
-  ],
-  "qwenqwen3.5-27b": [
-    27
-  ],
-  "qwenqwen3.5-35b-a3b": [
-    35,
-    3
-  ],
-  "qwenqwen3.5-397b-a17b": [
-    397,
-    17
-  ],
-  "qwenqwen3.5-plus-02-15": [
-    397,
-    17
-  ],
-  "qwenqwen3.6-plusfree": [
-    397,
-    17
-  ],
-  "qwenqwen3.7-flash": [
-    30,
-    3
-  ],
-  "qwenqwen3.7-max": [
-    1588,
-    68
-  ],
-  "qwenqwen3.7-plus": [
-    397,
-    17
-  ],
-  "qwenqwen3.8-2.4t-a95b": [
-    2400,
-    95
-  ],
-  "qwenqwen3.8-27b": [
-    27
-  ],
-  "qwenqwen3.8-flash": [
-    125,
-    6
-  ],
-  "qwenqwen3.8-max": [
-    2400,
-    95
-  ],
-  "smollm21.7b-instruct-q6_K": [
-    1.7
-  ],
-  "stealthox-alpha": [
-    744,
-    40
-  ],
+  "qwenqwen3-30b-a3b-instruct-2507": [],
+  "qwenqwen3-max": [],
+  "qwenqwen3-next-80b-a3b-instruct": [],
+  "qwenqwen3.5-122b-a10b": [],
+  "qwenqwen3.5-27b": [],
+  "qwenqwen3.5-35b-a3b": [],
+  "qwenqwen3.5-397b-a17b": [],
+  "qwenqwen3.5-plus-02-15": [],
+  "qwenqwen3.6-plusfree": [],
+  "qwenqwen3.7-flash": [],
+  "qwenqwen3.7-max": [],
+  "qwenqwen3.7-plus": [],
+  "qwenqwen3.8-2.4t-a95b": [],
+  "qwenqwen3.8-27b": [],
+  "qwenqwen3.8-flash": [],
+  "qwenqwen3.8-max": [],
+  "smollm21.7b-instruct-q6_K": [],
+  "stealthox-alpha": [],
   "stealthspace-bunny-alpha": [],
-  "stepfunstep-3.7-flash": [
-    196,
-    11
-  ],
-  "talkie-1930-13b-it": [
-    13
-  ],
-  "tencenthy3-previewfree": [
-    295,
-    21
-  ],
+  "stepfunstep-3.7-flash": [],
+  "stepfunstep-5-preview": [],
+  "talkie-1930-13b-it": [],
+  "tencenthy3-previewfree": [],
   "tencenthy4-preview": [],
-  "thinkingmachinesinkling": [
-    975,
-    41
-  ],
-  "thinkingmachinesinkling-small": [
-    276,
-    12
-  ],
+  "thinkingmachinesinkling": [],
+  "thinkingmachinesinkling-small": [],
   "upstagesolar-mini4": [],
-  "upstagesolar-pro4": [
-    100
-  ],
-  "x-aigrok-4.5": [
-    1500,
-    200
-  ],
-  "x-aigrok-4.6": [
-    1500,
-    200
-  ],
+  "upstagesolar-pro4": [],
+  "x-aigrok-4.5": [],
+  "x-aigrok-4.6": [],
   "x-aigrok-4.7": [],
-  "xiaomimimo-v2-omni": [
-    1000,
-    42
-  ],
-  "xiaomimimo-v2-pro": [
-    1000,
-    42
-  ],
-  "xiaomimimo-v2.5": [
-    310,
-    25
-  ],
-  "xiaomimimo-v2.5-pro": [
-    1000,
-    42
-  ],
+  "xiaomimimo-v2-omni": [],
+  "xiaomimimo-v2-pro": [],
+  "xiaomimimo-v2.5": [],
+  "xiaomimimo-v2.5-pro": [],
   "xiaomimimo-v2.6-flash": [],
   "xiaomimimo-v2.6-pro": [],
-  "z-aiglm-5": [
-    745,
-    40
-  ],
-  "z-aiglm-5.1": [
-    745,
-    40
-  ],
-  "z-aiglm-5.2": [
-    744,
-    40
-  ],
-  "z-aiglm-5.3": [
-    744,
-    40
-  ],
-  "z-aiglm-5.3-flash": [
-    320,
-    18
-  ],
-  "z-aiglm-5v-turbo": [
-    745,
-    40
-  ]
+  "z-aiglm-5": [],
+  "z-aiglm-5.1": [],
+  "z-aiglm-5.2": [],
+  "z-aiglm-5.3": [],
+  "z-aiglm-5.3-flash": [],
+  "z-aiglm-5v-turbo": []
 }

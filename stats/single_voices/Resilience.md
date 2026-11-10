@@ -26,6 +26,7 @@
 | qwenqwen3.6-plusfree | 9.243 |
 | gpt-3.5-turbo | 9.229 |
 | gpt-4.5-preview | 9.229 |
+| inceptionmercury-3 | 9.229 |
 | qwen2.5-72b-instruct | 9.229 |
 | anthropicclaude-sonnet-4.6 | 9.214 |
 | googlegemini-3.7-flash | 9.214 |
@@ -94,6 +95,7 @@
 | metamuse-spark-1.1 | 9.014 |
 | minimaxminimax-m2.7 | 9.014 |
 | moonshotaikimi-k2.7-code | 9.014 |
+| moonshotaikimi-k3.1-pro | 9.014 |
 | o1-2024-12-05 | 9.014 |
 | openaigpt-5.4-pro | 9.014 |
 | phi4-reasoning | 9.014 |
@@ -110,6 +112,7 @@
 | o1-2024-12-17 | 8.971 |
 | qwenqwen3.7-plus | 8.971 |
 | amazonnova-2-lite-v1 | 8.957 |
+| metamuse-wonder | 8.957 |
 | openaigpt-5.4-nano | 8.957 |
 | qwen3.59b | 8.957 |
 | stealthspace-bunny-alpha | 8.957 |
@@ -162,6 +165,7 @@
 | anthropicclaude-fable-5.2 | 8.786 |
 | gpt-6-astra | 8.786 |
 | liquidlfm-2.5-1.2b-instructfree | 8.786 |
+| minimaxminimax-m3.1-flash | 8.786 |
 | anthropicclaude-fable-5 | 8.786 |
 | gemini-3.5-flash | 8.771 |
 | openrouterowl-alpha | 8.771 |
@@ -174,6 +178,7 @@
 | baiduernie-4.5-21b-a3b | 8.757 |
 | openaigpt-6.1-sol | 8.757 |
 | moonshotaikimi-k3 | 8.743 |
+| liquidlfm-2.5-24b-a2b | 8.743 |
 | Gemini-1.5-Pro-Exp-0827 | 8.729 |
 | gemini-2.5-pro-preview-05-06 | 8.729 |
 | bytedance-seedseed-2.0-lite | 8.714 |
@@ -201,6 +206,7 @@
 | z-aiglm-5.3 | 8.643 |
 | gpt-5.2-pro-2025-12-11 | 8.629 |
 | anthropicclaude-haiku-5.5 | 8.629 |
+| deepseekdeepseek-v4.1-flash-1017 | 8.629 |
 | gemma-3-27b-it | 8.629 |
 | gemma-4-31b-it | 8.629 |
 | z-aiglm-5 | 8.629 |
@@ -222,8 +228,12 @@
 | mistral-medium-2508 | 8.514 |
 | qwenqwen3.8-27b | 8.514 |
 | aion-labsaion-3.5 | 8.500 |
+| metamuse-spark-open | 8.500 |
+| openaigpt-6.1-terra | 8.500 |
+| stepfunstep-5-preview | 8.500 |
 | claude-3-opus-20240229 | 8.500 |
 | openaigpt-5.3-chat | 8.486 |
+| googlegemini-4-argon | 8.471 |
 | stealthox-alpha | 8.471 |
 | arcee-aitrinity-large-thinking | 8.457 |
 | anthropicclaude-opus-4.1 | 8.457 |

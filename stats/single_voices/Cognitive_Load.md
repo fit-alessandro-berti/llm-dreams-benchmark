@@ -37,6 +37,7 @@
 | claude-opus-4-7 | 8.114 |
 | moonshotaikimi-k2.6 | 8.086 |
 | gemini-1.5-flash-8b | 8.071 |
+| minimaxminimax-m3.1-flash | 8.057 |
 | meta-llamaMeta-Llama-3.1-70B-Instruct | 8.043 |
 | x-aigrok-4.5 | 8.043 |
 | qwenqwen3.7-max | 8.029 |
@@ -46,6 +47,7 @@
 | meta-llamaLlama-3.3-70B-Instruct | 8.014 |
 | quasar-438b | 7.986 |
 | qwenqwen3.8-27b | 7.986 |
+| stepfunstep-5-preview | 7.986 |
 | grok-4-0709 | 7.971 |
 | meta-llamallama-4-scout | 7.971 |
 | smollm21.7b-instruct-q6_K | 7.957 |
@@ -65,6 +67,7 @@
 | claude-3-opus-20240229 | 7.886 |
 | Gemini-1.5-Pro-Exp-0827 | 7.886 |
 | meta-llamaLlama-3.2-3B-Instruct | 7.886 |
+| googlegemini-4-argon | 7.871 |
 | aion-labsaion-3.5 | 7.857 |
 | chatgpt-4o-latest-2024-11-20 | 7.857 |
 | gemini-3.5-flash | 7.857 |
@@ -105,6 +108,7 @@
 | poolsidelaguna-m.1free | 7.614 |
 | qwenqwen3-30b-a3b-instruct-2507 | 7.614 |
 | stepfunstep-3.7-flash | 7.614 |
+| metamuse-wonder | 7.600 |
 | amazonnova-2-lite-v1 | 7.600 |
 | claude-3-7-sonnet-20250219 | 7.600 |
 | qwenqwen3.5-35b-a3b | 7.600 |
@@ -149,10 +153,12 @@
 | Qwen-3.6-Max-Preview | 7.329 |
 | anthropicclaude-opus-4.6 | 7.329 |
 | falcon33b-instruct-q8_0 | 7.329 |
+| deepseekdeepseek-v4.1-flash-1017 | 7.314 |
 | gpt-3.5-turbo | 7.300 |
 | stealthspace-bunny-alpha | 7.300 |
 | openrouterowl-alpha | 7.300 |
 | allenaiolmo-3-7b-instruct | 7.271 |
+| moonshotaikimi-k3.1-pro | 7.271 |
 | granite4micro-h | 7.243 |
 | phi3.53.8b-mini-instruct-fp16 | 7.229 |
 | qwenqwen3.8-flash | 7.214 |
@@ -170,11 +176,13 @@
 | minimaxminimax-m2.5 | 7.100 |
 | gpt-5-chat-latest-2025-08-19 | 7.086 |
 | anthropicclaude-haiku-5.5 | 7.071 |
+| metamuse-spark-open | 7.057 |
 | ministral-3b-2410 | 7.057 |
 | allenaiolmo-3.1-32b-instruct | 7.043 |
 | claude-opus-4-5-20251101 | 7.043 |
 | llama213b | 7.029 |
 | o1-pro-2024-12-05 | 7.029 |
+| openaigpt-6.1-terra | 7.029 |
 | phi2.7b | 7.029 |
 | liquidlfm-2.2-6b | 7.014 |
 | deepseekdeepseek-v4.1-flash | 7.000 |
@@ -187,6 +195,7 @@
 | o4-mini-2025-04-16 | 6.929 |
 | qwen3.59b | 6.914 |
 | thinkingmachinesinkling | 6.914 |
+| liquidlfm-2.5-24b-a2b | 6.871 |
 | openaigpt-5.2-codex | 6.871 |
 | ChatGPT-5.5-Instant-20260530 | 6.871 |
 | Grok-4.3-20260530 | 6.871 |
@@ -264,6 +273,7 @@
 | o3-mini-20250131-HIGH | 5.886 |
 | anthropicclaude-sonnet-5.5 | 5.657 |
 | deepseekdeepseek-v4-flash-0731 | 5.629 |
+| inceptionmercury-3 | 5.629 |
 | qwenqwen3.7-flash | 5.571 |
 | anthropicclaude-fable-5.2 | 5.557 |
 | xiaomimimo-v2-pro | 5.543 |

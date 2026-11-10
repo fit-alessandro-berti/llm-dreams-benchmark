@@ -63,6 +63,7 @@
 | o3-mini-20250131-HIGH | 9.086 |
 | liquidlfm2-8b-a1b | 9.071 |
 | deepseekdeepseek-v3.2 | 9.071 |
+| inceptionmercury-3 | 9.071 |
 | moonshotaikimi-k2.7-code | 9.071 |
 | openaigpt-5.4-mini | 9.071 |
 | nvidianemotron-3-nano-30b-a3bfree | 9.057 |
@@ -124,6 +125,7 @@
 | gpt-4.1-nano-2025-04-14 | 8.914 |
 | grok-4-1-fast-non-reasoning | 8.914 |
 | metamuse-spark-1.2 | 8.914 |
+| moonshotaikimi-k3.1-pro | 8.914 |
 | qwenqwen3-next-80b-a3b-instruct | 8.914 |
 | gemini-2.5-flash-lite | 8.914 |
 | anthropicclaude-fable-5.2 | 8.900 |
@@ -185,6 +187,7 @@
 | gpt-5-chat-latest-2025-08-19 | 8.700 |
 | GPT-5.6-Sol-Pro-20260825 | 8.700 |
 | liquidlfm-2-24b-a2b | 8.700 |
+| metamuse-wonder | 8.700 |
 | mistral-medium-3.5 | 8.700 |
 | openaigpt-6.1-sol | 8.700 |
 | allenaiolmo-3-7b-instruct | 8.686 |
@@ -192,10 +195,12 @@
 | Grok-3-beta-thinking-20250303 | 8.686 |
 | z-aiglm-5 | 8.686 |
 | ai21jamba-large-1.7 | 8.671 |
+| googlegemini-4-argon | 8.671 |
 | openaigpt-5.3-chat | 8.671 |
 | chatgpt-4o-latest-2025-03-26 | 8.657 |
 | grok-4-0709 | 8.657 |
 | Grok-4.1-20251118 | 8.657 |
+| liquidlfm-2.5-24b-a2b | 8.657 |
 | llama213b | 8.657 |
 | stealthox-alpha | 8.657 |
 | xiaomimimo-v2.6-pro | 8.657 |
@@ -206,7 +211,9 @@
 | falcon33b-instruct-q8_0 | 8.629 |
 | minimaxminimax-m3 | 8.614 |
 | nousresearchhermes-4-70b | 8.614 |
+| openaigpt-6.1-terra | 8.614 |
 | claude-fable-5-1-high | 8.600 |
+| deepseekdeepseek-v4.1-flash-1017 | 8.600 |
 | liquidlfm-2.5-1.2b-thinkingfree | 8.600 |
 | qwenqwen3.8-27b | 8.600 |
 | Gemini-1.5-Pro-Exp-0827 | 8.586 |
@@ -219,9 +226,12 @@
 | grok-4.20-experimental-beta-0304-non-reasoning | 8.557 |
 | gpt-5.2-2025-12-11 | 8.543 |
 | gpt-5.2-pro-2025-12-11 | 8.543 |
+| minimaxminimax-m3.1-flash | 8.543 |
 | stepfunstep-3.7-flash | 8.543 |
 | allenaiolmo-3-7b-think | 8.529 |
 | quasar-438b | 8.529 |
+| stepfunstep-5-preview | 8.529 |
+| metamuse-spark-open | 8.514 |
 | prime-intellectintellect-3 | 8.514 |
 | bytedance-seedseed-2.0-lite | 8.500 |
 | arcee-aitrinity-large-thinking | 8.500 |

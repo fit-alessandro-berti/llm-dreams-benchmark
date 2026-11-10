@@ -22,6 +22,7 @@
 | inceptionmercury | 8.400 |
 | xiaomimimo-v2.5-pro | 8.400 |
 | gpt-5-nano-2025-08-07 | 8.371 |
+| inceptionmercury-3 | 8.371 |
 | openaigpt-oss-120b | 8.371 |
 | qwenqwen3.8-2.4t-a95b | 8.371 |
 | ai21jamba-mini-1.7 | 8.357 |
@@ -122,6 +123,7 @@
 | Qwen-3.6-Max-Preview | 7.614 |
 | anthropicclaude-opus-5.5 | 7.614 |
 | deepseekdeepseek-v4-pro-0813 | 7.600 |
+| liquidlfm-2.5-24b-a2b | 7.600 |
 | openaigpt-5.2-codex | 7.586 |
 | openaigpt-6-sol | 7.571 |
 | xiaomimimo-v2.6-flash | 7.557 |
@@ -140,6 +142,7 @@
 | gemini-2.5-flash-lite | 7.400 |
 | gemini-2.5-pro-preview-06-05 | 7.400 |
 | bytedance-seedseed-2.0-lite | 7.400 |
+| moonshotaikimi-k3.1-pro | 7.400 |
 | allenaiolmo-3-7b-instruct | 7.371 |
 | nvidiaLlama-3.1-Nemotron-70B-Instruct | 7.357 |
 | claude-opus-4-5-20251101 | 7.357 |
@@ -154,6 +157,7 @@
 | openaigpt-5.4-nano | 7.271 |
 | googlegemini-3.1-flash-lite-preview | 7.271 |
 | deepseekdeepseek-v4-pro | 7.257 |
+| metamuse-wonder | 7.243 |
 | xiaomimimo-v2.6-pro | 7.243 |
 | gemini-3.6-flash | 7.243 |
 | moonshotaikimi-k3 | 7.243 |
@@ -165,6 +169,8 @@
 | chatgpt-4o-latest-2025-03-26 | 7.186 |
 | gemini-3.5-flash | 7.171 |
 | openaigpt-5.4 | 7.171 |
+| metamuse-spark-open | 7.143 |
+| deepseekdeepseek-v4.1-flash-1017 | 7.143 |
 | Grok-3-beta-thinking-20250303 | 7.143 |
 | liquidlfm-2-24b-a2b | 7.143 |
 | anthropicclaude-fable-5 | 7.129 |
@@ -202,6 +208,7 @@
 | anthropicclaude-opus-4.1 | 6.871 |
 | gemini-3.5-flash-lite | 6.871 |
 | minimaxminimax-m3 | 6.871 |
+| openaigpt-6.1-terra | 6.871 |
 | chatgpt-4o-latest-2024-11-20 | 6.857 |
 | deepseekdeepseek-v3.2-speciale | 6.857 |
 | grok-4-1-fast-reasoning | 6.843 |
@@ -216,6 +223,7 @@
 | gpt-4o-mini-2024-11-05 | 6.743 |
 | gpt-5.2-pro-2025-12-11 | 6.743 |
 | gemma-4-26b-a4b-it | 6.700 |
+| stepfunstep-5-preview | 6.686 |
 | z-aiglm-5.1 | 6.686 |
 | gpt-5.2-2025-12-11 | 6.657 |
 | Grok-4.1-20251118 | 6.657 |
@@ -224,6 +232,7 @@
 | grok-4.20-experimental-beta-0304-non-reasoning | 6.629 |
 | ibmgranite41b-h | 6.586 |
 | arcee-aitrinity-large-thinking | 6.571 |
+| minimaxminimax-m3.1-flash | 6.571 |
 | z-aiglm-5 | 6.571 |
 | allenaiolmo-3-7b-think | 6.543 |
 | claude-3-5-sonnet-20241022 | 6.529 |
@@ -248,6 +257,7 @@
 | poolsidelaguna-xs-2.1 | 6.043 |
 | meta-llamaMeta-Llama-3.1-70B-Instruct | 6.014 |
 | meta-llamaMeta-Llama-3.1-405B-Instruct | 5.971 |
+| googlegemini-4-argon | 5.943 |
 | ministral-8b-2512 | 5.886 |
 | Grok-4.6-Heavy | 5.843 |
 | gemma4e2b | 5.829 |

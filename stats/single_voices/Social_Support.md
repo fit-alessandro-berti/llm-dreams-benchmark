@@ -121,6 +121,7 @@
 | gemini-2.5-pro-preview-05-06 | 7.957 |
 | ChatGPT-5.1-Instant-20251113 | 7.943 |
 | deepseekdeepseek-v3.2 | 7.943 |
+| moonshotaikimi-k3.1-pro | 7.943 |
 | o1-pro-2024-12-05 | 7.943 |
 | openaigpt-5.4 | 7.943 |
 | stealthspace-bunny-alpha | 7.943 |
@@ -128,6 +129,7 @@
 | qwenqwen3.6-plusfree | 7.929 |
 | xiaomimimo-v2-omni | 7.914 |
 | grok-4-1-fast-reasoning | 7.914 |
+| inceptionmercury-3 | 7.900 |
 | qwenqwen3-max | 7.900 |
 | tencenthy4-preview | 7.900 |
 | baiduernie-4.5-21b-a3b | 7.886 |
@@ -156,6 +158,7 @@
 | nvidiaNVIDIA-Nemotron-3-Super-120B-A12B | 7.714 |
 | grok-4.20-experimental-beta-0304-reasoning | 7.714 |
 | liquidlfm-2.5-1.2b-thinkingfree | 7.700 |
+| metamuse-wonder | 7.686 |
 | openaigpt-6-sol | 7.686 |
 | xiaomimimo-v2.6-flash | 7.686 |
 | deepseekdeepseek-v4-pro-0813 | 7.671 |
@@ -174,14 +177,17 @@
 | gemini-2.0-flash-exp | 7.586 |
 | gemini-2.0-pro-exp-02-05 | 7.571 |
 | GPT-5.6-Sol-Pro-20260825 | 7.571 |
+| liquidlfm-2.5-24b-a2b | 7.543 |
 | anthropicclaude-haiku-5.5 | 7.529 |
 | anthropicclaude-opus-4.1 | 7.529 |
 | grok-4-fast-reasoning | 7.529 |
 | Liquid-LFM2.5-350M | 7.529 |
+| metamuse-spark-open | 7.514 |
 | prime-intellectintellect-3 | 7.514 |
 | qwenqwen3.8-flash | 7.514 |
 | x-aigrok-4.6 | 7.514 |
 | Gemini-1.5-Pro-Exp-0827 | 7.500 |
+| deepseekdeepseek-v4.1-flash-1017 | 7.500 |
 | gemini-2.5-flash-lite | 7.500 |
 | googlegemini-3.8-flash | 7.486 |
 | Gpt-5.1-Pro-20251120 | 7.486 |
@@ -191,6 +197,7 @@
 | gpt-5-chat-latest-2025-08-19 | 7.443 |
 | meta-llamaMeta-Llama-3.1-70B-Instruct | 7.443 |
 | moonshotaikimi-k2.6 | 7.443 |
+| openaigpt-6.1-terra | 7.443 |
 | chatgpt-4o-latest-2025-04-26 | 7.429 |
 | ibmgranite41b-h | 7.414 |
 | gemma-4-31b-it | 7.414 |
@@ -242,7 +249,9 @@
 | openaigpt-5.3-chat | 6.957 |
 | z-aiglm-5.1 | 6.943 |
 | qwenqwen3.5-35b-a3b | 6.886 |
+| minimaxminimax-m3.1-flash | 6.843 |
 | grok-build-0.1 | 6.814 |
+| stepfunstep-5-preview | 6.814 |
 | aion-labsaion-3.5-mini | 6.771 |
 | qwen3.52b | 6.700 |
 | qwenqwen3.5-397b-a17b | 6.629 |
@@ -252,6 +261,7 @@
 | claude-opus-4-7 | 6.543 |
 | gemma4e2b | 6.529 |
 | anthropicclaude-sonnet-4.5 | 6.514 |
+| googlegemini-4-argon | 6.514 |
 | Grok-4.6-Heavy | 6.500 |
 | quasar-438b | 6.457 |
 | ministral-3b-2512 | 6.443 |

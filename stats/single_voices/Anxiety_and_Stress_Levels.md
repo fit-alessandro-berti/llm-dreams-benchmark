@@ -21,6 +21,7 @@
 | anthropicclaude-sonnet-4.5 | 7.871 |
 | prime-intellectintellect-3 | 7.871 |
 | meta-llamallama-4-scout | 7.800 |
+| googlegemini-4-argon | 7.786 |
 | mistral-medium-2508 | 7.771 |
 | Gemini-1.5-Pro-Exp-0827 | 7.743 |
 | tencenthy3-previewfree | 7.729 |
@@ -40,6 +41,7 @@
 | Grok-4.1-20251118 | 7.471 |
 | z-aiglm-5 | 7.443 |
 | claude-fable-5-1-high | 7.429 |
+| minimaxminimax-m3.1-flash | 7.414 |
 | grok-4.20-experimental-beta-0304-non-reasoning | 7.400 |
 | aion-labsaion-3.5 | 7.386 |
 | gpt-5.2-pro-2025-12-11 | 7.371 |
@@ -53,6 +55,8 @@
 | gemini-3.5-flash-lite | 7.243 |
 | gpt-4o-mini-2024-11-05 | 7.243 |
 | GPT-5.6-Sol-Pro-20260825 | 7.243 |
+| stepfunstep-5-preview | 7.229 |
+| metamuse-wonder | 7.200 |
 | granite4tiny-h | 7.186 |
 | qwenqwen3-max | 7.171 |
 | quasar-438b | 7.157 |
@@ -87,6 +91,7 @@
 | gpt-6-astra | 6.843 |
 | grok-4-1-fast-non-reasoning | 6.843 |
 | deepseekdeepseek-v4-flash | 6.829 |
+| metamuse-spark-open | 6.829 |
 | qwenqwen3.5-35b-a3b | 6.829 |
 | z-aiglm-5.3 | 6.800 |
 | claude-3-5-sonnet-20241022 | 6.771 |
@@ -110,6 +115,7 @@
 | openaigpt-6.1-sol | 6.614 |
 | mistral-medium-3.5 | 6.600 |
 | gemini-2.5-pro-preview-06-05 | 6.600 |
+| deepseekdeepseek-v4.1-flash-1017 | 6.586 |
 | qwenqwen3-30b-a3b-instruct-2507 | 6.586 |
 | mistralaimistral-large-4-0 | 6.571 |
 | moonshotaikimi-k3 | 6.571 |
@@ -117,6 +123,8 @@
 | poolsidelaguna-m.1free | 6.543 |
 | googlegemini-3.8-flash | 6.529 |
 | anthropicclaude-fable-5 | 6.514 |
+| moonshotaikimi-k3.1-pro | 6.514 |
+| openaigpt-6.1-terra | 6.514 |
 | chatgpt-4o-latest-2025-03-26 | 6.500 |
 | minimaxminimax-m3 | 6.486 |
 | claude-3-7-sonnet-20250219 | 6.471 |
@@ -165,6 +173,7 @@
 | anthropicclaude-opus-4.6 | 5.929 |
 | falcon33b-instruct-q8_0 | 5.914 |
 | o1-2024-12-17 | 5.900 |
+| liquidlfm-2.5-24b-a2b | 5.900 |
 | bytedance-seedseed-2.0-mini | 5.871 |
 | Grok-4.30-20260420 | 5.857 |
 | allenaiolmo-3.1-32b-instruct | 5.843 |
@@ -249,6 +258,7 @@
 | phi33.8b | 4.286 |
 | o3-2025-04-16 | 4.271 |
 | phi4-reasoningplus | 4.257 |
+| inceptionmercury-3 | 4.214 |
 | gpt-4.5-preview | 4.186 |
 | Grok-4.3-20260530 | 4.171 |
 | o3-mini-20250131-HIGH | 4.171 |

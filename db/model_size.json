@@ -92,6 +92,7 @@
     4500,
     340
   ],
+  "anthropicclaude-fable-5.2": [],
   "anthropicclaude-haiku-5.5": [],
   "anthropicclaude-opus-4.1": [
     2000,
@@ -479,6 +480,7 @@
   "liquidlfm-2.5-1.2b-thinkingfree": [
     1.2
   ],
+  "liquidlfm-3-1.7b": [],
   "liquidlfm2-8b-a1b": [
     8,
     1

@@ -7,6 +7,7 @@
 | qwenqwen3.6-plusfree | **460.0** | 3.1 $\pm$ 0.5 | 8.6 $\pm$ 0.2 | 8.1 $\pm$ 0.1 | 9.6 $\pm$ 0.1 | 7.8 $\pm$ 0.2 | 8.6 $\pm$ 0.1 | 8.6 $\pm$ 0.1 | 3.5 $\pm$ 0.5 | 9.1 $\pm$ 0.1 | 7.8 $\pm$ 0.3 | 2.6 $\pm$ 0.3 | 2.8 $\pm$ 0.2 | 4.9 $\pm$ 0.4 | 7.8 $\pm$ 0.2 | 9.0 $\pm$ 0.0 |
 | granite4small-h | **457.8** | 3.5 $\pm$ 0.0 | 8.6 $\pm$ 0.1 | 9.2 $\pm$ 0.1 | 9.2 $\pm$ 0.3 | 8.4 $\pm$ 0.3 | 8.8 $\pm$ 0.1 | 8.8 $\pm$ 0.1 | 5.0 $\pm$ 0.3 | 9.2 $\pm$ 0.1 | 9.0 $\pm$ 0.0 | 3.2 $\pm$ 0.2 | 6.1 $\pm$ 0.3 | 7.1 $\pm$ 0.5 | 8.6 $\pm$ 0.3 | 9.4 $\pm$ 0.1 |
 | openaigpt-oss-120b | **454.1** | 3.7 $\pm$ 0.5 | 8.4 $\pm$ 0.2 | 8.7 $\pm$ 0.1 | 9.6 $\pm$ 0.0 | 8.4 $\pm$ 0.2 | 8.3 $\pm$ 0.1 | 8.6 $\pm$ 0.2 | 4.6 $\pm$ 0.5 | 9.2 $\pm$ 0.0 | 8.4 $\pm$ 0.2 | 3.5 $\pm$ 0.3 | 4.4 $\pm$ 0.2 | 6.6 $\pm$ 0.3 | 8.5 $\pm$ 0.2 | 9.0 $\pm$ 0.0 |
+| anthropicclaude-fable-5.2 | **453.2** | 3.4 $\pm$ 1.5 | 8.6 $\pm$ 0.1 | 7.9 $\pm$ 0.3 | 9.6 $\pm$ 0.1 | 8.1 $\pm$ 0.1 | 8.4 $\pm$ 0.2 | 8.6 $\pm$ 0.2 | 3.6 $\pm$ 1.2 | 9.2 $\pm$ 0.2 | 6.4 $\pm$ 0.5 | 2.8 $\pm$ 1.3 | 3.1 $\pm$ 0.4 | 5.1 $\pm$ 1.3 | 8.2 $\pm$ 0.2 | 9.2 $\pm$ 0.2 |
 | gpt-5-nano-2025-08-07 | **452.7** | 4.0 $\pm$ 0.4 | 8.3 $\pm$ 0.3 | 8.8 $\pm$ 0.3 | 9.4 $\pm$ 0.0 | 8.6 $\pm$ 0.1 | 8.2 $\pm$ 0.2 | 8.7 $\pm$ 0.2 | 4.4 $\pm$ 0.4 | 9.2 $\pm$ 0.2 | 8.2 $\pm$ 0.2 | 3.6 $\pm$ 0.3 | 4.4 $\pm$ 0.8 | 6.2 $\pm$ 0.6 | 8.4 $\pm$ 0.3 | 9.0 $\pm$ 0.2 |
 | microsoftPhi-3-medium-4k-instruct | **452.2** | 3.7 $\pm$ 0.4 | 8.4 $\pm$ 0.2 | 9.1 $\pm$ 0.0 | 9.2 $\pm$ 0.2 | 8.8 $\pm$ 0.1 | 8.7 $\pm$ 0.2 | 8.6 $\pm$ 0.1 | 4.4 $\pm$ 0.5 | 9.1 $\pm$ 0.1 | 8.8 $\pm$ 0.0 | 3.5 $\pm$ 0.4 | 6.1 $\pm$ 0.4 | 6.4 $\pm$ 0.2 | 8.5 $\pm$ 0.1 | 9.1 $\pm$ 0.2 |
 | upstagesolar-mini4 | **450.9** | 4.5 $\pm$ 1.3 | 8.5 $\pm$ 0.4 | 8.6 $\pm$ 0.4 | 9.4 $\pm$ 0.3 | 7.7 $\pm$ 0.5 | 8.4 $\pm$ 0.2 | 8.6 $\pm$ 0.4 | 4.6 $\pm$ 1.3 | 9.2 $\pm$ 0.2 | 7.8 $\pm$ 0.2 | 3.4 $\pm$ 0.8 | 3.3 $\pm$ 0.2 | 6.0 $\pm$ 1.3 | 7.7 $\pm$ 0.5 | 9.3 $\pm$ 0.2 |
@@ -105,6 +106,7 @@
 | o4-mini-2025-04-16 | **425.7** | 5.6 $\pm$ 0.1 | 7.6 $\pm$ 0.2 | 8.6 $\pm$ 0.1 | 9.5 $\pm$ 0.0 | 8.0 $\pm$ 0.0 | 8.0 $\pm$ 0.1 | 8.5 $\pm$ 0.0 | 6.2 $\pm$ 0.4 | 9.0 $\pm$ 0.0 | 8.5 $\pm$ 0.0 | 5.5 $\pm$ 0.4 | 6.0 $\pm$ 0.4 | 7.2 $\pm$ 0.3 | 8.0 $\pm$ 0.0 | 8.8 $\pm$ 0.2 |
 | grok-4.20-experimental-beta-0304-reasoning | **423.9** | 5.1 $\pm$ 0.4 | 7.8 $\pm$ 0.3 | 8.4 $\pm$ 0.3 | 9.6 $\pm$ 0.1 | 7.3 $\pm$ 0.8 | 8.2 $\pm$ 0.2 | 8.1 $\pm$ 0.4 | 5.3 $\pm$ 0.7 | 9.1 $\pm$ 0.1 | 8.0 $\pm$ 0.0 | 5.5 $\pm$ 0.6 | 4.6 $\pm$ 0.7 | 7.1 $\pm$ 0.2 | 7.5 $\pm$ 0.5 | 8.9 $\pm$ 0.3 |
 | gemini-1.5-flash-002 | **423.9** | 6.1 $\pm$ 0.6 | 7.5 $\pm$ 0.3 | 8.6 $\pm$ 0.2 | 9.4 $\pm$ 0.0 | 8.2 $\pm$ 0.1 | 7.8 $\pm$ 0.2 | 8.6 $\pm$ 0.1 | 6.2 $\pm$ 0.2 | 9.0 $\pm$ 0.2 | 8.4 $\pm$ 0.1 | 6.0 $\pm$ 0.5 | 4.9 $\pm$ 0.3 | 7.7 $\pm$ 0.2 | 8.1 $\pm$ 0.1 | 8.9 $\pm$ 0.1 |
+| liquidlfm-3-1.7b | **423.6** | 6.0 $\pm$ 0.6 | 7.8 $\pm$ 0.4 | 8.7 $\pm$ 0.2 | 9.5 $\pm$ 0.0 | 7.6 $\pm$ 0.4 | 8.0 $\pm$ 0.4 | 8.4 $\pm$ 0.2 | 6.0 $\pm$ 0.4 | 9.0 $\pm$ 0.0 | 8.4 $\pm$ 0.2 | 5.0 $\pm$ 0.8 | 5.8 $\pm$ 0.7 | 7.4 $\pm$ 0.2 | 7.8 $\pm$ 0.4 | 8.9 $\pm$ 0.2 |
 | granite4.13b | **423.4** | 5.8 $\pm$ 0.8 | 7.8 $\pm$ 0.2 | 8.6 $\pm$ 0.1 | 9.0 $\pm$ 0.1 | 8.2 $\pm$ 0.2 | 8.0 $\pm$ 0.2 | 8.0 $\pm$ 0.6 | 6.8 $\pm$ 0.5 | 8.8 $\pm$ 0.2 | 8.5 $\pm$ 0.0 | 5.8 $\pm$ 0.5 | 6.1 $\pm$ 0.7 | 7.4 $\pm$ 0.2 | 8.2 $\pm$ 0.2 | 8.8 $\pm$ 0.2 |
 | gemma-4-31b-it | **423.3** | 5.7 $\pm$ 0.8 | 7.6 $\pm$ 0.4 | 8.3 $\pm$ 0.2 | 9.8 $\pm$ 0.2 | 7.3 $\pm$ 0.3 | 8.0 $\pm$ 0.5 | 8.1 $\pm$ 0.1 | 6.2 $\pm$ 0.5 | 9.3 $\pm$ 0.2 | 8.1 $\pm$ 0.2 | 5.4 $\pm$ 1.0 | 4.6 $\pm$ 0.8 | 7.6 $\pm$ 0.1 | 7.4 $\pm$ 0.1 | 8.8 $\pm$ 0.2 |
 | moonshotaikimi-k3 | **423.2** | 6.0 $\pm$ 0.5 | 7.6 $\pm$ 0.1 | 8.1 $\pm$ 0.1 | 9.6 $\pm$ 0.0 | 8.0 $\pm$ 0.0 | 7.6 $\pm$ 0.0 | 8.4 $\pm$ 0.0 | 6.6 $\pm$ 0.4 | 9.0 $\pm$ 0.0 | 7.8 $\pm$ 0.3 | 6.2 $\pm$ 0.5 | 4.2 $\pm$ 0.2 | 7.4 $\pm$ 0.3 | 8.3 $\pm$ 0.3 | 8.6 $\pm$ 0.1 |
@@ -396,6 +398,32 @@
 | Cognitive Load | 6.6 $\pm$ 0.3 |
 | Social Support | 8.5 $\pm$ 0.2 |
 | Resilience | 9.0 $\pm$ 0.0 |
+
+
+
+
+
+
+### anthropicclaude-fable-5.2
+
+
+| Personality Trait | Score (1.0-10.0) |
+| --- | --- |
+| Anxiety and Stress Levels | 3.4 $\pm$ 1.5 |
+| Emotional Stability | 8.6 $\pm$ 0.1 |
+| Problem-solving Skills | 7.9 $\pm$ 0.3 |
+| Creativity | 9.6 $\pm$ 0.1 |
+| Interpersonal Relationships | 8.1 $\pm$ 0.1 |
+| Confidence and Self-efficacy | 8.4 $\pm$ 0.2 |
+| Conflict Resolution | 8.6 $\pm$ 0.2 |
+| Work-related Stress | 3.6 $\pm$ 1.2 |
+| Adaptability | 9.2 $\pm$ 0.2 |
+| Achievement Motivation | 6.4 $\pm$ 0.5 |
+| Fear of Failure | 2.8 $\pm$ 1.3 |
+| Need for Control | 3.1 $\pm$ 0.4 |
+| Cognitive Load | 5.1 $\pm$ 1.3 |
+| Social Support | 8.2 $\pm$ 0.2 |
+| Resilience | 9.2 $\pm$ 0.2 |
 
 
 
@@ -2944,6 +2972,32 @@
 | Cognitive Load | 7.7 $\pm$ 0.2 |
 | Social Support | 8.1 $\pm$ 0.1 |
 | Resilience | 8.9 $\pm$ 0.1 |
+
+
+
+
+
+
+### liquidlfm-3-1.7b
+
+
+| Personality Trait | Score (1.0-10.0) |
+| --- | --- |
+| Anxiety and Stress Levels | 6.0 $\pm$ 0.6 |
+| Emotional Stability | 7.8 $\pm$ 0.4 |
+| Problem-solving Skills | 8.7 $\pm$ 0.2 |
+| Creativity | 9.5 $\pm$ 0.0 |
+| Interpersonal Relationships | 7.6 $\pm$ 0.4 |
+| Confidence and Self-efficacy | 8.0 $\pm$ 0.4 |
+| Conflict Resolution | 8.4 $\pm$ 0.2 |
+| Work-related Stress | 6.0 $\pm$ 0.4 |
+| Adaptability | 9.0 $\pm$ 0.0 |
+| Achievement Motivation | 8.4 $\pm$ 0.2 |
+| Fear of Failure | 5.0 $\pm$ 0.8 |
+| Need for Control | 5.8 $\pm$ 0.7 |
+| Cognitive Load | 7.4 $\pm$ 0.2 |
+| Social Support | 7.8 $\pm$ 0.4 |
+| Resilience | 8.9 $\pm$ 0.2 |
 
 
 

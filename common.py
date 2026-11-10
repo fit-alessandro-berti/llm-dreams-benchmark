@@ -4,7 +4,7 @@ from pathlib import Path
 from file_utils import read_file_with_fallback
 
 
-ANSWERING_MODEL_NAME = "mistralai/mistral-large-4-0"
+ANSWERING_MODEL_NAME = "liquid/lfm-3-1.7b"
 EVALUATING_MODEL_NAME = "gpt-6-astra"
 
 
@@ -61,13 +61,7 @@ ALL_JUDGES = {
         "git_table_result": "alt_results_mistral2603.md",
         "evaluation_api_url": "https://api.mistral.ai/v1/",
         "api_key": _read_api_key("MISTRAL_API_KEY", "../api_mistral.txt")
-    },
-    "inception/mercury-2.5": {
-        "evaluation_folder": "evaluations-mercury25",
-        "git_table_result": "alt_results_mercury25.md",
-        "evaluation_api_url": "https://openrouter.ai/api/v1/",
-        "api_key": _read_api_key("OPENROUTER_API_KEY", "../api_openrouter.txt"),
-    },
+    }
 }
 
 def get_evaluation_folder(evaluating_model_name=None):

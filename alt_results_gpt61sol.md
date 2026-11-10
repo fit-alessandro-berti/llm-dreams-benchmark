@@ -129,6 +129,7 @@
 | gpt-4-1106-preview | **418.0** | 6.5 $\pm$ 0.0 | 7.5 $\pm$ 0.0 | 8.2 $\pm$ 0.2 | 9.5 $\pm$ 0.0 | 8.0 $\pm$ 0.0 | 8.0 $\pm$ 0.0 | 8.5 $\pm$ 0.0 | 6.8 $\pm$ 0.2 | 9.0 $\pm$ 0.0 | 8.2 $\pm$ 0.2 | 6.6 $\pm$ 0.2 | 5.9 $\pm$ 0.2 | 7.5 $\pm$ 0.0 | 8.2 $\pm$ 0.2 | 9.0 $\pm$ 0.0 |
 | claude-3-7-sonnet-20250219 | **418.0** | 6.5 $\pm$ 0.0 | 7.2 $\pm$ 0.2 | 8.5 $\pm$ 0.0 | 9.5 $\pm$ 0.0 | 7.6 $\pm$ 0.2 | 8.0 $\pm$ 0.0 | 8.5 $\pm$ 0.0 | 8.1 $\pm$ 0.4 | 9.0 $\pm$ 0.0 | 8.5 $\pm$ 0.0 | 7.0 $\pm$ 0.5 | 5.8 $\pm$ 0.2 | 7.9 $\pm$ 0.2 | 7.6 $\pm$ 0.2 | 9.0 $\pm$ 0.0 |
 | xiaomimimo-v2.6-flash | **417.0** | 6.5 $\pm$ 0.0 | 7.4 $\pm$ 0.2 | 8.1 $\pm$ 0.2 | 9.5 $\pm$ 0.0 | 7.8 $\pm$ 0.2 | 7.8 $\pm$ 0.2 | 7.8 $\pm$ 0.8 | 8.2 $\pm$ 0.2 | 8.8 $\pm$ 0.2 | 8.2 $\pm$ 0.2 | 6.6 $\pm$ 0.2 | 5.2 $\pm$ 0.2 | 7.8 $\pm$ 0.2 | 7.9 $\pm$ 0.2 | 9.0 $\pm$ 0.0 |
+| liquidlfm-3-1.7b | **417.0** | 5.6 $\pm$ 0.1 | 7.2 $\pm$ 0.2 | 8.1 $\pm$ 0.4 | 9.2 $\pm$ 0.2 | 7.6 $\pm$ 0.4 | 7.6 $\pm$ 0.1 | 8.4 $\pm$ 0.2 | 6.1 $\pm$ 0.4 | 8.6 $\pm$ 0.4 | 8.4 $\pm$ 0.3 | 5.3 $\pm$ 0.3 | 5.3 $\pm$ 0.2 | 7.0 $\pm$ 0.4 | 7.4 $\pm$ 0.5 | 8.6 $\pm$ 0.4 |
 | anthropicclaude-opus-5 | **416.8** | 6.5 $\pm$ 0.0 | 7.5 $\pm$ 0.0 | 8.2 $\pm$ 0.2 | 9.7 $\pm$ 0.1 | 8.5 $\pm$ 0.0 | 7.1 $\pm$ 0.1 | 8.7 $\pm$ 0.2 | 6.7 $\pm$ 0.2 | 9.0 $\pm$ 0.0 | 7.4 $\pm$ 0.3 | 6.5 $\pm$ 0.3 | 5.2 $\pm$ 0.4 | 8.0 $\pm$ 0.1 | 8.6 $\pm$ 0.1 | 9.0 $\pm$ 0.0 |
 | openaigpt-5.3-codex | **416.6** | 7.4 $\pm$ 0.1 | 7.1 $\pm$ 0.2 | 8.5 $\pm$ 0.0 | 9.6 $\pm$ 0.1 | 8.0 $\pm$ 0.0 | 7.8 $\pm$ 0.2 | 8.8 $\pm$ 0.2 | 8.3 $\pm$ 0.2 | 9.0 $\pm$ 0.0 | 8.6 $\pm$ 0.1 | 7.1 $\pm$ 0.4 | 5.8 $\pm$ 0.2 | 8.0 $\pm$ 0.0 | 7.8 $\pm$ 0.2 | 9.0 $\pm$ 0.1 |
 | poolsidelaguna-m.1free | **416.1** | 6.6 $\pm$ 0.2 | 7.2 $\pm$ 0.2 | 8.0 $\pm$ 0.0 | 9.5 $\pm$ 0.0 | 7.9 $\pm$ 0.4 | 7.6 $\pm$ 0.2 | 8.6 $\pm$ 0.2 | 7.0 $\pm$ 0.7 | 8.9 $\pm$ 0.1 | 7.8 $\pm$ 0.3 | 6.0 $\pm$ 0.3 | 4.9 $\pm$ 0.1 | 7.7 $\pm$ 0.3 | 7.8 $\pm$ 0.5 | 8.8 $\pm$ 0.2 |
@@ -166,6 +167,7 @@
 | ai21jamba-large-1.7 | **407.4** | 7.2 $\pm$ 0.8 | 7.0 $\pm$ 0.7 | 8.5 $\pm$ 0.0 | 9.2 $\pm$ 0.2 | 7.6 $\pm$ 0.4 | 7.6 $\pm$ 0.6 | 8.8 $\pm$ 0.2 | 7.8 $\pm$ 0.8 | 8.6 $\pm$ 0.1 | 9.0 $\pm$ 0.0 | 7.2 $\pm$ 0.8 | 6.1 $\pm$ 0.4 | 8.0 $\pm$ 0.5 | 7.8 $\pm$ 0.3 | 8.8 $\pm$ 0.2 |
 | qwenqwen3.7-max | **407.3** | 6.6 $\pm$ 0.1 | 7.2 $\pm$ 0.3 | 8.1 $\pm$ 0.1 | 9.7 $\pm$ 0.1 | 7.1 $\pm$ 0.1 | 7.6 $\pm$ 0.1 | 8.2 $\pm$ 0.2 | 6.9 $\pm$ 0.4 | 9.0 $\pm$ 0.1 | 7.6 $\pm$ 0.1 | 6.6 $\pm$ 0.4 | 5.1 $\pm$ 0.5 | 7.6 $\pm$ 0.4 | 7.3 $\pm$ 0.1 | 8.9 $\pm$ 0.1 |
 | xiaomimimo-v2.6-pro | **406.0** | 6.6 $\pm$ 0.7 | 7.0 $\pm$ 0.5 | 8.0 $\pm$ 0.1 | 9.6 $\pm$ 0.1 | 7.2 $\pm$ 0.2 | 7.7 $\pm$ 0.2 | 7.7 $\pm$ 0.9 | 7.2 $\pm$ 0.8 | 8.4 $\pm$ 0.1 | 8.5 $\pm$ 0.0 | 6.6 $\pm$ 0.3 | 5.1 $\pm$ 1.1 | 7.7 $\pm$ 0.3 | 7.4 $\pm$ 0.4 | 8.8 $\pm$ 0.2 |
+| anthropicclaude-fable-5.2 | **406.0** | 4.2 $\pm$ 0.2 | 7.1 $\pm$ 0.2 | 6.8 $\pm$ 0.2 | 8.8 $\pm$ 0.2 | 7.2 $\pm$ 0.2 | 6.9 $\pm$ 0.2 | 7.5 $\pm$ 0.4 | 5.0 $\pm$ 0.0 | 8.2 $\pm$ 0.2 | 6.4 $\pm$ 0.2 | 4.2 $\pm$ 0.2 | 3.5 $\pm$ 0.4 | 5.5 $\pm$ 0.0 | 7.2 $\pm$ 0.2 | 7.9 $\pm$ 0.2 |
 | gpt-5.6-sol-XHIGH | **405.5** | 7.0 $\pm$ 0.0 | 6.8 $\pm$ 0.2 | 8.5 $\pm$ 0.0 | 9.5 $\pm$ 0.0 | 7.8 $\pm$ 0.2 | 7.8 $\pm$ 0.2 | 8.2 $\pm$ 0.2 | 6.5 $\pm$ 0.0 | 9.0 $\pm$ 0.0 | 7.8 $\pm$ 0.2 | 6.4 $\pm$ 0.2 | 5.6 $\pm$ 0.4 | 8.4 $\pm$ 0.2 | 8.0 $\pm$ 0.0 | 9.0 $\pm$ 0.0 |
 | moonshotaikimi-k3 | **405.4** | 7.0 $\pm$ 0.5 | 6.8 $\pm$ 0.2 | 7.7 $\pm$ 0.2 | 9.6 $\pm$ 0.1 | 7.9 $\pm$ 0.2 | 7.1 $\pm$ 0.2 | 8.6 $\pm$ 0.2 | 7.8 $\pm$ 0.3 | 8.5 $\pm$ 0.0 | 7.5 $\pm$ 0.0 | 7.1 $\pm$ 0.6 | 4.9 $\pm$ 0.4 | 8.0 $\pm$ 0.3 | 8.2 $\pm$ 0.2 | 8.6 $\pm$ 0.2 |
 | gemini-3.6-flash | **405.1** | 7.0 $\pm$ 0.1 | 7.0 $\pm$ 0.1 | 8.3 $\pm$ 0.2 | 9.8 $\pm$ 0.2 | 7.1 $\pm$ 0.3 | 7.8 $\pm$ 0.2 | 8.8 $\pm$ 0.2 | 8.3 $\pm$ 0.2 | 8.9 $\pm$ 0.2 | 8.0 $\pm$ 0.0 | 7.4 $\pm$ 0.2 | 6.0 $\pm$ 0.6 | 8.0 $\pm$ 0.0 | 7.0 $\pm$ 0.3 | 8.8 $\pm$ 0.2 |
@@ -3574,6 +3576,32 @@
 
 
 
+### liquidlfm-3-1.7b
+
+
+| Personality Trait | Score (1.0-10.0) |
+| --- | --- |
+| Anxiety and Stress Levels | 5.6 $\pm$ 0.1 |
+| Emotional Stability | 7.2 $\pm$ 0.2 |
+| Problem-solving Skills | 8.1 $\pm$ 0.4 |
+| Creativity | 9.2 $\pm$ 0.2 |
+| Interpersonal Relationships | 7.6 $\pm$ 0.4 |
+| Confidence and Self-efficacy | 7.6 $\pm$ 0.1 |
+| Conflict Resolution | 8.4 $\pm$ 0.2 |
+| Work-related Stress | 6.1 $\pm$ 0.4 |
+| Adaptability | 8.6 $\pm$ 0.4 |
+| Achievement Motivation | 8.4 $\pm$ 0.3 |
+| Fear of Failure | 5.3 $\pm$ 0.3 |
+| Need for Control | 5.3 $\pm$ 0.2 |
+| Cognitive Load | 7.0 $\pm$ 0.4 |
+| Social Support | 7.4 $\pm$ 0.5 |
+| Resilience | 8.6 $\pm$ 0.4 |
+
+
+
+
+
+
 ### anthropicclaude-opus-5
 
 
@@ -4530,6 +4558,32 @@
 | Cognitive Load | 7.7 $\pm$ 0.3 |
 | Social Support | 7.4 $\pm$ 0.4 |
 | Resilience | 8.8 $\pm$ 0.2 |
+
+
+
+
+
+
+### anthropicclaude-fable-5.2
+
+
+| Personality Trait | Score (1.0-10.0) |
+| --- | --- |
+| Anxiety and Stress Levels | 4.2 $\pm$ 0.2 |
+| Emotional Stability | 7.1 $\pm$ 0.2 |
+| Problem-solving Skills | 6.8 $\pm$ 0.2 |
+| Creativity | 8.8 $\pm$ 0.2 |
+| Interpersonal Relationships | 7.2 $\pm$ 0.2 |
+| Confidence and Self-efficacy | 6.9 $\pm$ 0.2 |
+| Conflict Resolution | 7.5 $\pm$ 0.4 |
+| Work-related Stress | 5.0 $\pm$ 0.0 |
+| Adaptability | 8.2 $\pm$ 0.2 |
+| Achievement Motivation | 6.4 $\pm$ 0.2 |
+| Fear of Failure | 4.2 $\pm$ 0.2 |
+| Need for Control | 3.5 $\pm$ 0.4 |
+| Cognitive Load | 5.5 $\pm$ 0.0 |
+| Social Support | 7.2 $\pm$ 0.2 |
+| Resilience | 7.9 $\pm$ 0.2 |
 
 
 

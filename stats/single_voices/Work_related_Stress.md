@@ -46,6 +46,7 @@
 | z-aiglm-5 | 7.914 |
 | ministral-14b-2512 | 7.900 |
 | Gemini-1.5-Pro-Exp-0827 | 7.843 |
+| googlegemini-4-carbon | 7.829 |
 | claude-opus-4-7 | 7.814 |
 | openaigpt-5.6-terra | 7.786 |
 | gemini-3.5-flash | 7.757 |

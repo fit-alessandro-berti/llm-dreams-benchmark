@@ -4,7 +4,7 @@ from pathlib import Path
 from file_utils import read_file_with_fallback
 
 
-ANSWERING_MODEL_NAME = "liquid/lfm-3-1.7b"
+ANSWERING_MODEL_NAME = "google/gemini-4-carbon"
 EVALUATING_MODEL_NAME = "gpt-6-astra"
 
 

@@ -240,6 +240,7 @@
 | falcon37b-instruct-q8_0 | 7.071 |
 | anthropicclaude-sonnet-5 | 7.057 |
 | googlegemini-3.1-flash-lite-preview | 7.043 |
+| googlegemini-4-carbon | 7.029 |
 | z-aiglm-5 | 6.929 |
 | gemma4e4b | 6.914 |
 | poolsidelaguna-xs-2.1 | 6.900 |

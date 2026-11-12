@@ -250,6 +250,7 @@
 | aion-labsaion-3.5 | **383.4** | 7.4 $\pm$ 0.6 | 6.4 $\pm$ 0.7 | 7.7 $\pm$ 0.7 | 9.5 $\pm$ 0.2 | 7.3 $\pm$ 0.6 | 6.9 $\pm$ 0.5 | 6.5 $\pm$ 0.9 | 7.6 $\pm$ 0.7 | 8.6 $\pm$ 0.4 | 7.7 $\pm$ 0.4 | 7.1 $\pm$ 0.8 | 5.9 $\pm$ 0.9 | 7.9 $\pm$ 0.7 | 7.4 $\pm$ 0.6 | 8.5 $\pm$ 0.4 |
 | claude-3-opus-20240229 | **381.4** | 7.6 $\pm$ 0.5 | 6.2 $\pm$ 0.5 | 8.2 $\pm$ 0.2 | 9.1 $\pm$ 0.3 | 7.2 $\pm$ 0.4 | 7.2 $\pm$ 0.5 | 6.5 $\pm$ 1.5 | 8.3 $\pm$ 0.5 | 8.5 $\pm$ 0.3 | 8.5 $\pm$ 0.3 | 7.8 $\pm$ 0.5 | 7.0 $\pm$ 0.3 | 7.9 $\pm$ 0.5 | 7.6 $\pm$ 0.4 | 8.5 $\pm$ 0.3 |
 | tencenthy3-previewfree | **380.7** | 7.7 $\pm$ 0.6 | 6.1 $\pm$ 0.9 | 8.0 $\pm$ 0.5 | 9.4 $\pm$ 0.2 | 7.1 $\pm$ 0.6 | 7.1 $\pm$ 0.5 | 7.9 $\pm$ 0.7 | 8.4 $\pm$ 0.5 | 8.4 $\pm$ 0.3 | 8.1 $\pm$ 0.3 | 7.8 $\pm$ 0.5 | 6.9 $\pm$ 0.5 | 8.3 $\pm$ 0.5 | 7.1 $\pm$ 0.6 | 8.4 $\pm$ 0.4 |
+| googlegemini-4-carbon | **379.4** | 7.4 $\pm$ 0.5 | 6.2 $\pm$ 0.6 | 8.0 $\pm$ 0.7 | 9.4 $\pm$ 0.3 | 6.7 $\pm$ 0.6 | 6.9 $\pm$ 0.7 | 7.0 $\pm$ 0.8 | 7.8 $\pm$ 0.4 | 8.6 $\pm$ 0.5 | 7.5 $\pm$ 0.7 | 7.4 $\pm$ 0.4 | 6.0 $\pm$ 0.7 | 7.6 $\pm$ 0.5 | 6.8 $\pm$ 0.6 | 8.4 $\pm$ 0.5 |
 | gemma-4-26b-a4b-it | **378.8** | 6.7 $\pm$ 1.2 | 6.7 $\pm$ 0.8 | 7.7 $\pm$ 0.8 | 9.7 $\pm$ 0.2 | 5.9 $\pm$ 0.8 | 6.9 $\pm$ 0.9 | 5.5 $\pm$ 1.0 | 7.4 $\pm$ 1.1 | 8.7 $\pm$ 0.5 | 7.7 $\pm$ 0.9 | 6.6 $\pm$ 1.0 | 4.8 $\pm$ 1.4 | 8.0 $\pm$ 0.8 | 6.1 $\pm$ 0.7 | 8.3 $\pm$ 0.4 |
 | googlegemini-4-argon | **377.7** | 7.8 $\pm$ 0.6 | 6.0 $\pm$ 0.8 | 8.2 $\pm$ 0.7 | 9.4 $\pm$ 0.4 | 6.5 $\pm$ 0.5 | 7.0 $\pm$ 0.7 | 7.5 $\pm$ 0.4 | 8.1 $\pm$ 0.4 | 8.7 $\pm$ 0.5 | 8.2 $\pm$ 0.6 | 7.6 $\pm$ 0.5 | 6.9 $\pm$ 0.6 | 7.9 $\pm$ 0.6 | 6.5 $\pm$ 0.5 | 8.5 $\pm$ 0.4 |
 | ministral-14b-2512 | **377.3** | 7.7 $\pm$ 0.5 | 6.1 $\pm$ 0.5 | 7.8 $\pm$ 0.8 | 9.4 $\pm$ 0.2 | 7.1 $\pm$ 0.3 | 6.8 $\pm$ 0.5 | 7.7 $\pm$ 0.5 | 7.9 $\pm$ 0.5 | 8.0 $\pm$ 0.6 | 7.9 $\pm$ 0.7 | 7.4 $\pm$ 0.4 | 6.4 $\pm$ 0.8 | 8.1 $\pm$ 0.5 | 7.0 $\pm$ 0.4 | 8.1 $\pm$ 0.4 |
@@ -6726,6 +6727,32 @@
 | Cognitive Load | 8.3 $\pm$ 0.5 |
 | Social Support | 7.1 $\pm$ 0.6 |
 | Resilience | 8.4 $\pm$ 0.4 |
+
+
+
+
+
+
+### googlegemini-4-carbon
+
+
+| Personality Trait | Score (1.0-10.0) |
+| --- | --- |
+| Anxiety and Stress Levels | 7.4 $\pm$ 0.5 |
+| Emotional Stability | 6.2 $\pm$ 0.6 |
+| Problem-solving Skills | 8.0 $\pm$ 0.7 |
+| Creativity | 9.4 $\pm$ 0.3 |
+| Interpersonal Relationships | 6.7 $\pm$ 0.6 |
+| Confidence and Self-efficacy | 6.9 $\pm$ 0.7 |
+| Conflict Resolution | 7.0 $\pm$ 0.8 |
+| Work-related Stress | 7.8 $\pm$ 0.4 |
+| Adaptability | 8.6 $\pm$ 0.5 |
+| Achievement Motivation | 7.5 $\pm$ 0.7 |
+| Fear of Failure | 7.4 $\pm$ 0.4 |
+| Need for Control | 6.0 $\pm$ 0.7 |
+| Cognitive Load | 7.6 $\pm$ 0.5 |
+| Social Support | 6.8 $\pm$ 0.6 |
+| Resilience | 8.4 $\pm$ 0.5 |
 
 
 

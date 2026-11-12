@@ -104,6 +104,7 @@
 | Grok-3-beta-thinking-20250303 | 7.629 |
 | inclusionailing-2.6-1tfree | 7.629 |
 | gemini-3.6-flash | 7.614 |
+| googlegemini-4-carbon | 7.614 |
 | gemini-2.5-pro-preview-05-06 | 7.614 |
 | poolsidelaguna-m.1free | 7.614 |
 | qwenqwen3-30b-a3b-instruct-2507 | 7.614 |

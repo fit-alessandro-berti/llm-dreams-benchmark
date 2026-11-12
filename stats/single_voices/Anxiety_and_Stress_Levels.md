@@ -41,6 +41,7 @@
 | Grok-4.1-20251118 | 7.471 |
 | z-aiglm-5 | 7.443 |
 | claude-fable-5-1-high | 7.429 |
+| googlegemini-4-carbon | 7.429 |
 | minimaxminimax-m3.1-flash | 7.414 |
 | grok-4.20-experimental-beta-0304-non-reasoning | 7.400 |
 | aion-labsaion-3.5 | 7.386 |

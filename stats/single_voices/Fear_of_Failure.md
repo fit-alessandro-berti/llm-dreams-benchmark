@@ -32,6 +32,7 @@
 | llama27b | 7.443 |
 | Gemini-1.5-Pro-Exp-0827 | 7.414 |
 | meta-llamaMeta-Llama-3.1-70B-Instruct | 7.414 |
+| googlegemini-4-carbon | 7.400 |
 | stealthox-alpha | 7.400 |
 | mistral-medium-2508 | 7.386 |
 | meta-llamaMeta-Llama-3.1-405B-Instruct | 7.371 |

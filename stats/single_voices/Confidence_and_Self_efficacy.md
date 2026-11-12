@@ -249,6 +249,7 @@
 | meta-llamaLlama-3.3-70B-Instruct | 6.886 |
 | talkie-1930-13b-it | 6.886 |
 | aion-labsaion-3.5 | 6.871 |
+| googlegemini-4-carbon | 6.829 |
 | mistral-medium-2508 | 6.829 |
 | gpt-5.2-2025-12-11 | 6.800 |
 | ministral-14b-2512 | 6.800 |

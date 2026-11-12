@@ -252,6 +252,7 @@
 | aion-labsaion-3.5-mini | 6.800 |
 | deepseekdeepseek-v3.2-speciale | 6.757 |
 | Grok-4.6-Heavy | 6.743 |
+| googlegemini-4-carbon | 6.714 |
 | z-aiglm-5.1 | 6.671 |
 | mistralaimistral-large-4-0 | 6.529 |
 | gemma4e2b | 6.529 |

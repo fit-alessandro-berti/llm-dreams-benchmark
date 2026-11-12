@@ -252,6 +252,7 @@
 | minimaxminimax-m3.1-flash | 6.843 |
 | grok-build-0.1 | 6.814 |
 | stepfunstep-5-preview | 6.814 |
+| googlegemini-4-carbon | 6.786 |
 | aion-labsaion-3.5-mini | 6.771 |
 | qwen3.52b | 6.700 |
 | qwenqwen3.5-397b-a17b | 6.629 |

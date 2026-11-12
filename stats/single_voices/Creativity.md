@@ -202,6 +202,7 @@
 | openaigpt-6-sol | 9.371 |
 | anthropicclaude-fable-5.2 | 9.371 |
 | deepseekdeepseek-v4.1-flash-1017 | 9.371 |
+| googlegemini-4-carbon | 9.371 |
 | meta-llamaMeta-Llama-3.1-70B-Instruct | 9.371 |
 | Meta-Muse-Spark-20260409 | 9.371 |
 | anthropicclaude-haiku-5.5 | 9.357 |

@@ -251,6 +251,7 @@
 | gemma4e4b | 7.514 |
 | ministral-8b-2512 | 7.514 |
 | z-aiglm-5.3 | 7.500 |
+| googlegemini-4-carbon | 7.486 |
 | deepseekdeepseek-v4-pro-0813 | 7.471 |
 | deepseekdeepseek-v4-pro | 7.471 |
 | qwenqwen3.7-flash | 7.471 |

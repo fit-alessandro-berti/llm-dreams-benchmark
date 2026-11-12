@@ -86,6 +86,7 @@
 | poolsidelaguna-xs-2.1 | 6.014 |
 | falcon33b-instruct-q8_0 | 6.000 |
 | open-mixtral-8x7b | 6.000 |
+| googlegemini-4-carbon | 5.971 |
 | granite4small-h | 5.971 |
 | ministral-8b-2512 | 5.971 |
 | gemini-2.0-pro-exp-02-05 | 5.971 |

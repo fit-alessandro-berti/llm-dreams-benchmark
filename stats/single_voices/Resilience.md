@@ -243,6 +243,7 @@
 | mistralaimistral-large-4-0 | 8.386 |
 | minimaxminimax-m3 | 8.371 |
 | anthropicclaude-sonnet-5 | 8.371 |
+| googlegemini-4-carbon | 8.371 |
 | z-aiglm-5.1 | 8.357 |
 | Grok-4.6-Heavy | 8.343 |
 | meta-llamaMeta-Llama-3.1-70B-Instruct | 8.343 |

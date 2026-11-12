@@ -245,6 +245,7 @@
 | prime-intellectintellect-3 | 6.314 |
 | grok-build-0.1 | 6.271 |
 | Gemini-1.5-Pro-Exp-0827 | 6.257 |
+| googlegemini-4-carbon | 6.243 |
 | quasar-438b | 6.243 |
 | claude-opus-4-7 | 6.214 |
 | mistral-medium-2508 | 6.214 |

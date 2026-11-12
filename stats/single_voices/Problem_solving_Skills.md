@@ -226,6 +226,7 @@
 | openaigpt-6.1-terra | 7.986 |
 | tencenthy4-preview | 7.986 |
 | tencenthy3-previewfree | 7.971 |
+| googlegemini-4-carbon | 7.971 |
 | gemini-3.5-flash-lite | 7.957 |
 | openaigpt-6-luna | 7.929 |
 | qwen3.59b | 7.929 |

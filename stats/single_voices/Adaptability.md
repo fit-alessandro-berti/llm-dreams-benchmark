@@ -210,6 +210,7 @@
 | openrouterowl-alpha | 8.629 |
 | falcon33b-instruct-q8_0 | 8.629 |
 | minimaxminimax-m3 | 8.614 |
+| googlegemini-4-carbon | 8.614 |
 | nousresearchhermes-4-70b | 8.614 |
 | openaigpt-6.1-terra | 8.614 |
 | claude-fable-5-1-high | 8.600 |

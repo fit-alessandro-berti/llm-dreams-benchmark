@@ -4,7 +4,7 @@ from pathlib import Path
 from file_utils import read_file_with_fallback
 
 
-ANSWERING_MODEL_NAME = "qwen/qwen4-max"
+ANSWERING_MODEL_NAME = "tencent/hy4-flash"
 EVALUATING_MODEL_NAME = "gpt-6-astra"
 
 

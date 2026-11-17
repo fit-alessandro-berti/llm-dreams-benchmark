@@ -74,6 +74,7 @@
 | inclusionailing-2.6-1tfree | 7.614 |
 | gpt-5.2-pro-2025-12-11 | 7.600 |
 | Liquid-LFM2.5-350M | 7.557 |
+| tencenthy4-flash | 7.557 |
 | arcee-aitrinity-large-thinking | 7.543 |
 | poolsidelaguna-xs-2.1 | 7.543 |
 | GPT-5.6-Sol-Pro-20260825 | 7.529 |

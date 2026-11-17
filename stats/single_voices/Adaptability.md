@@ -222,6 +222,7 @@
 | grok-4.20-multi-agent-experimental-beta-0304 | 8.586 |
 | mistralaimistral-large-4-0 | 8.586 |
 | chatgpt-4o-latest-2024-11-20 | 8.571 |
+| tencenthy4-flash | 8.571 |
 | aion-labsaion-3.5 | 8.557 |
 | gemini-1.5-flash-8b | 8.557 |
 | grok-4.20-experimental-beta-0304-non-reasoning | 8.557 |

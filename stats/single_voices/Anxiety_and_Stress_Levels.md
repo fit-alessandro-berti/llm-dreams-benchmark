@@ -87,6 +87,7 @@
 | openaigpt-5.6-sol | 6.986 |
 | gemini-1.5-flash-8b | 6.971 |
 | openaigpt-5.4 | 6.943 |
+| tencenthy4-flash | 6.943 |
 | talkie-1930-13b-it | 6.914 |
 | grok-4-fast-reasoning | 6.900 |
 | gemini-3-flash-preview | 6.900 |

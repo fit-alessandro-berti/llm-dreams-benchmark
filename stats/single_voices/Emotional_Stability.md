@@ -223,6 +223,7 @@
 | gpt-4o-mini-2024-11-05 | 6.743 |
 | gpt-5.2-pro-2025-12-11 | 6.743 |
 | gemma-4-26b-a4b-it | 6.700 |
+| tencenthy4-flash | 6.700 |
 | stepfunstep-5-preview | 6.686 |
 | z-aiglm-5.1 | 6.686 |
 | gpt-5.2-2025-12-11 | 6.657 |

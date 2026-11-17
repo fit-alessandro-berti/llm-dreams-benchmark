@@ -172,6 +172,7 @@
 | googlegemini-3.8-flash | 5.243 |
 | inceptionmercury | 5.229 |
 | liquidlfm-2.5-24b-a2b | 5.214 |
+| tencenthy4-flash | 5.214 |
 | o1-2024-12-17 | 5.200 |
 | phi33.8b | 5.200 |
 | bytedance-seedseed-2.0-lite | 5.157 |

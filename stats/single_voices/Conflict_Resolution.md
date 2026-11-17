@@ -217,6 +217,7 @@
 | stealthox-alpha | 7.657 |
 | xiaomimimo-v2.6-pro | 7.629 |
 | anthropicclaude-haiku-5.5 | 7.629 |
+| tencenthy4-flash | 7.614 |
 | meta-llamaMeta-Llama-3.1-405B-Instruct | 7.600 |
 | stepfunstep-3.7-flash | 7.600 |
 | grok-4-fast-reasoning | 7.586 |

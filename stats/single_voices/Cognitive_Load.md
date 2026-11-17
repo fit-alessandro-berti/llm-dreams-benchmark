@@ -124,6 +124,7 @@
 | granite3.28b-instruct-q4_K_M | 7.529 |
 | deepseekdeepseek-v4-pro | 7.529 |
 | deepseekdeepseek-v3.2-speciale | 7.514 |
+| tencenthy4-flash | 7.514 |
 | poolsidelaguna-xs.2free | 7.500 |
 | o1-2024-12-05 | 7.486 |
 | mistralaimistral-large-4-0 | 7.486 |

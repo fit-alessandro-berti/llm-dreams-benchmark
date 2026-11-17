@@ -235,6 +235,7 @@
 | poolsidelaguna-xs.2free | 7.914 |
 | z-aiglm-5.3 | 7.900 |
 | inceptionmercury-2.5-preview | 7.900 |
+| tencenthy4-flash | 7.871 |
 | Liquid-LFM2.5-350M | 7.871 |
 | metamuse-spark-open | 7.871 |
 | anthropicclaude-fable-5.2 | 7.857 |

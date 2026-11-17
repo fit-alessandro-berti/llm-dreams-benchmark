@@ -190,6 +190,7 @@
 | falcon33b-instruct-q8_0 | 8.700 |
 | googlegemini-3.1-flash-lite-preview | 8.700 |
 | poolsidelaguna-m.1free | 8.700 |
+| tencenthy4-flash | 8.700 |
 | claude-haiku-4-5-20251001 | 8.686 |
 | liquidlfm-2-24b-a2b | 8.686 |
 | claude-opus-4-5-20251101 | 8.671 |

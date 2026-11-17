@@ -211,6 +211,7 @@
 | nousresearchhermes-4-70b | **399.7** | 6.8 $\pm$ 0.5 | 7.0 $\pm$ 0.6 | 8.4 $\pm$ 0.4 | 9.2 $\pm$ 0.2 | 7.6 $\pm$ 0.6 | 8.1 $\pm$ 0.4 | 6.6 $\pm$ 1.7 | 6.6 $\pm$ 0.8 | 8.6 $\pm$ 0.4 | 8.7 $\pm$ 0.4 | 6.3 $\pm$ 0.6 | 6.8 $\pm$ 0.6 | 7.7 $\pm$ 0.5 | 8.0 $\pm$ 0.3 | 8.7 $\pm$ 0.3 |
 | stepfunstep-3.7-flash | **399.6** | 6.7 $\pm$ 1.2 | 6.8 $\pm$ 0.8 | 8.1 $\pm$ 0.5 | 9.5 $\pm$ 0.1 | 8.2 $\pm$ 0.3 | 7.0 $\pm$ 0.5 | 7.6 $\pm$ 0.4 | 6.9 $\pm$ 0.9 | 8.6 $\pm$ 0.4 | 7.2 $\pm$ 0.5 | 6.6 $\pm$ 1.1 | 5.9 $\pm$ 1.2 | 7.6 $\pm$ 1.0 | 8.2 $\pm$ 0.3 | 8.5 $\pm$ 0.3 |
 | Grok-4.1-20251118 | **398.9** | 7.5 $\pm$ 0.6 | 6.7 $\pm$ 0.6 | 8.1 $\pm$ 0.6 | 9.6 $\pm$ 0.2 | 7.6 $\pm$ 0.4 | 7.5 $\pm$ 0.4 | 8.1 $\pm$ 0.5 | 8.0 $\pm$ 0.6 | 8.7 $\pm$ 0.3 | 8.4 $\pm$ 0.5 | 7.3 $\pm$ 0.5 | 6.2 $\pm$ 0.7 | 8.1 $\pm$ 0.5 | 7.3 $\pm$ 0.4 | 8.8 $\pm$ 0.3 |
+| tencenthy4-flash | **398.6** | 6.9 $\pm$ 0.8 | 6.7 $\pm$ 0.7 | 7.9 $\pm$ 0.6 | 9.4 $\pm$ 0.2 | 7.2 $\pm$ 0.4 | 7.0 $\pm$ 0.6 | 7.6 $\pm$ 0.7 | 7.6 $\pm$ 0.6 | 8.6 $\pm$ 0.5 | 7.8 $\pm$ 0.6 | 6.4 $\pm$ 0.7 | 5.2 $\pm$ 1.0 | 7.5 $\pm$ 0.6 | 7.3 $\pm$ 0.5 | 8.7 $\pm$ 0.4 |
 | grok-4.20-experimental-beta-0304-non-reasoning | **397.4** | 7.4 $\pm$ 0.7 | 6.6 $\pm$ 0.7 | 8.2 $\pm$ 0.5 | 9.5 $\pm$ 0.1 | 7.4 $\pm$ 0.6 | 7.4 $\pm$ 0.5 | 8.0 $\pm$ 1.0 | 7.7 $\pm$ 0.7 | 8.6 $\pm$ 0.4 | 8.2 $\pm$ 0.4 | 7.2 $\pm$ 0.6 | 6.3 $\pm$ 0.7 | 7.9 $\pm$ 0.5 | 7.8 $\pm$ 0.4 | 8.9 $\pm$ 0.3 |
 | smollm21.7b-instruct-q6_K | **397.0** | 7.1 $\pm$ 0.7 | 6.8 $\pm$ 0.6 | 8.2 $\pm$ 0.4 | 9.0 $\pm$ 0.2 | 7.9 $\pm$ 0.5 | 7.3 $\pm$ 0.4 | 6.8 $\pm$ 0.7 | 8.2 $\pm$ 0.4 | 8.4 $\pm$ 0.4 | 8.6 $\pm$ 0.3 | 7.0 $\pm$ 0.5 | 6.7 $\pm$ 0.5 | 8.0 $\pm$ 0.3 | 8.1 $\pm$ 0.3 | 8.8 $\pm$ 0.3 |
 | chatgpt-4o-latest-2024-11-20 | **396.6** | 7.1 $\pm$ 0.5 | 6.9 $\pm$ 0.6 | 8.3 $\pm$ 0.4 | 9.2 $\pm$ 0.2 | 7.3 $\pm$ 0.4 | 7.5 $\pm$ 0.4 | 7.8 $\pm$ 0.4 | 7.7 $\pm$ 0.5 | 8.6 $\pm$ 0.3 | 8.4 $\pm$ 0.4 | 6.6 $\pm$ 0.4 | 6.7 $\pm$ 0.5 | 7.8 $\pm$ 0.5 | 7.2 $\pm$ 0.7 | 8.6 $\pm$ 0.2 |
@@ -5715,6 +5716,32 @@
 | Cognitive Load | 8.1 $\pm$ 0.5 |
 | Social Support | 7.3 $\pm$ 0.4 |
 | Resilience | 8.8 $\pm$ 0.3 |
+
+
+
+
+
+
+### tencenthy4-flash
+
+
+| Personality Trait | Score (1.0-10.0) |
+| --- | --- |
+| Anxiety and Stress Levels | 6.9 $\pm$ 0.8 |
+| Emotional Stability | 6.7 $\pm$ 0.7 |
+| Problem-solving Skills | 7.9 $\pm$ 0.6 |
+| Creativity | 9.4 $\pm$ 0.2 |
+| Interpersonal Relationships | 7.2 $\pm$ 0.4 |
+| Confidence and Self-efficacy | 7.0 $\pm$ 0.6 |
+| Conflict Resolution | 7.6 $\pm$ 0.7 |
+| Work-related Stress | 7.6 $\pm$ 0.6 |
+| Adaptability | 8.6 $\pm$ 0.5 |
+| Achievement Motivation | 7.8 $\pm$ 0.6 |
+| Fear of Failure | 6.4 $\pm$ 0.7 |
+| Need for Control | 5.2 $\pm$ 1.0 |
+| Cognitive Load | 7.5 $\pm$ 0.6 |
+| Social Support | 7.3 $\pm$ 0.5 |
+| Resilience | 8.7 $\pm$ 0.4 |
 
 
 

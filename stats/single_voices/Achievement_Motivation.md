@@ -212,6 +212,7 @@
 | xiaomimimo-v2-omni | 7.814 |
 | openaigpt-5.6-sol | 7.814 |
 | talkie-1930-13b-it | 7.800 |
+| tencenthy4-flash | 7.800 |
 | gemma4e2b | 7.786 |
 | moonshotaikimi-k3 | 7.786 |
 | qwen3.635b-a3b | 7.786 |

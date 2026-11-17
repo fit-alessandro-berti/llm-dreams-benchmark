@@ -177,6 +177,7 @@
 | poolsidelaguna-m.1free | 9.414 |
 | stealthspace-bunny-alpha | 9.414 |
 | stepfunstep-5-preview | 9.414 |
+| tencenthy4-flash | 9.414 |
 | xiaomimimo-v2.6-flash | 9.414 |
 | amazonnova-2-lite-v1 | 9.400 |
 | o1-2024-12-17 | 9.400 |

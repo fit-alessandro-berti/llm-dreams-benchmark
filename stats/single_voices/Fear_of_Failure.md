@@ -101,6 +101,7 @@
 | grok-4-1-fast-non-reasoning | 6.471 |
 | talkie-1930-13b-it | 6.471 |
 | anthropicclaude-opus-5 | 6.457 |
+| tencenthy4-flash | 6.457 |
 | gemini-2.5-pro-preview-06-05 | 6.443 |
 | moonshotaikimi-k3 | 6.443 |
 | metamuse-spark-open | 6.414 |

@@ -220,6 +220,7 @@
 | gemini-2.5-flash-lite | 7.243 |
 | mistral-medium-3.5 | 7.243 |
 | xiaomimimo-v2.6-pro | 7.243 |
+| tencenthy4-flash | 7.229 |
 | llama213b | 7.214 |
 | arcee-aitrinity-large-thinking | 7.186 |
 | claude-3-opus-20240229 | 7.171 |

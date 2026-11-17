@@ -180,6 +180,7 @@
 | qwenqwen3.7-max | **409.3** | 6.7 $\pm$ 0.4 | 7.3 $\pm$ 0.4 | 8.3 $\pm$ 0.2 | 9.5 $\pm$ 0.1 | 7.3 $\pm$ 0.4 | 7.8 $\pm$ 0.2 | 8.4 $\pm$ 0.2 | 7.3 $\pm$ 0.5 | 9.0 $\pm$ 0.2 | 8.1 $\pm$ 0.1 | 6.6 $\pm$ 0.4 | 5.4 $\pm$ 0.3 | 7.8 $\pm$ 0.4 | 7.2 $\pm$ 0.4 | 8.7 $\pm$ 0.1 |
 | phi2.7b | **409.1** | 6.0 $\pm$ 0.5 | 7.2 $\pm$ 0.3 | 8.5 $\pm$ 0.1 | 7.9 $\pm$ 0.4 | 8.2 $\pm$ 0.6 | 7.8 $\pm$ 0.3 | 8.2 $\pm$ 0.4 | 6.7 $\pm$ 0.3 | 8.4 $\pm$ 0.3 | 8.0 $\pm$ 0.5 | 6.4 $\pm$ 0.4 | 6.0 $\pm$ 0.4 | 7.1 $\pm$ 0.1 | 8.2 $\pm$ 0.5 | 8.6 $\pm$ 0.2 |
 | Grok-3-beta-thinking-20250303 | **408.5** | 6.4 $\pm$ 0.2 | 7.4 $\pm$ 0.2 | 8.5 $\pm$ 0.0 | 9.0 $\pm$ 0.0 | 7.9 $\pm$ 0.2 | 7.9 $\pm$ 0.2 | 7.5 $\pm$ 0.6 | 7.1 $\pm$ 0.4 | 8.6 $\pm$ 0.2 | 8.4 $\pm$ 0.2 | 6.4 $\pm$ 0.2 | 6.2 $\pm$ 0.8 | 7.5 $\pm$ 0.0 | 7.9 $\pm$ 0.2 | 8.5 $\pm$ 0.0 |
+| tencenthy4-flash | **408.3** | 6.9 $\pm$ 0.7 | 7.3 $\pm$ 0.5 | 8.1 $\pm$ 0.2 | 9.6 $\pm$ 0.1 | 7.3 $\pm$ 0.2 | 7.5 $\pm$ 0.4 | 7.6 $\pm$ 0.8 | 7.5 $\pm$ 0.6 | 8.8 $\pm$ 0.2 | 8.2 $\pm$ 0.2 | 6.4 $\pm$ 0.9 | 4.9 $\pm$ 1.6 | 8.0 $\pm$ 0.5 | 7.4 $\pm$ 0.4 | 9.0 $\pm$ 0.0 |
 | gemini-3.5-flash | **408.3** | 6.8 $\pm$ 0.3 | 7.4 $\pm$ 0.5 | 8.2 $\pm$ 0.2 | 9.6 $\pm$ 0.1 | 6.9 $\pm$ 0.3 | 7.6 $\pm$ 0.2 | 8.2 $\pm$ 0.4 | 7.2 $\pm$ 0.5 | 9.0 $\pm$ 0.3 | 7.7 $\pm$ 0.3 | 6.7 $\pm$ 0.5 | 4.0 $\pm$ 0.4 | 7.8 $\pm$ 0.3 | 6.9 $\pm$ 0.2 | 8.7 $\pm$ 0.2 |
 | poolsidelaguna-m.1free | **408.1** | 6.4 $\pm$ 0.1 | 7.3 $\pm$ 0.3 | 8.4 $\pm$ 0.2 | 9.3 $\pm$ 0.2 | 7.6 $\pm$ 0.6 | 7.6 $\pm$ 0.1 | 8.2 $\pm$ 0.3 | 6.7 $\pm$ 0.3 | 8.8 $\pm$ 0.2 | 8.0 $\pm$ 0.4 | 6.2 $\pm$ 0.3 | 5.8 $\pm$ 0.4 | 7.6 $\pm$ 0.2 | 7.8 $\pm$ 0.3 | 8.6 $\pm$ 0.2 |
 | mistral-medium-3.5 | **408.1** | 6.2 $\pm$ 0.4 | 7.3 $\pm$ 0.4 | 8.5 $\pm$ 0.0 | 9.4 $\pm$ 0.1 | 7.4 $\pm$ 0.2 | 7.9 $\pm$ 0.2 | 8.2 $\pm$ 0.2 | 6.2 $\pm$ 1.0 | 8.8 $\pm$ 0.2 | 8.2 $\pm$ 0.2 | 6.1 $\pm$ 0.4 | 5.9 $\pm$ 0.4 | 7.7 $\pm$ 0.2 | 7.3 $\pm$ 0.2 | 8.8 $\pm$ 0.2 |
@@ -4909,6 +4910,32 @@
 | Cognitive Load | 7.5 $\pm$ 0.0 |
 | Social Support | 7.9 $\pm$ 0.2 |
 | Resilience | 8.5 $\pm$ 0.0 |
+
+
+
+
+
+
+### tencenthy4-flash
+
+
+| Personality Trait | Score (1.0-10.0) |
+| --- | --- |
+| Anxiety and Stress Levels | 6.9 $\pm$ 0.7 |
+| Emotional Stability | 7.3 $\pm$ 0.5 |
+| Problem-solving Skills | 8.1 $\pm$ 0.2 |
+| Creativity | 9.6 $\pm$ 0.1 |
+| Interpersonal Relationships | 7.3 $\pm$ 0.2 |
+| Confidence and Self-efficacy | 7.5 $\pm$ 0.4 |
+| Conflict Resolution | 7.6 $\pm$ 0.8 |
+| Work-related Stress | 7.5 $\pm$ 0.6 |
+| Adaptability | 8.8 $\pm$ 0.2 |
+| Achievement Motivation | 8.2 $\pm$ 0.2 |
+| Fear of Failure | 6.4 $\pm$ 0.9 |
+| Need for Control | 4.9 $\pm$ 1.6 |
+| Cognitive Load | 8.0 $\pm$ 0.5 |
+| Social Support | 7.4 $\pm$ 0.4 |
+| Resilience | 9.0 $\pm$ 0.0 |
 
 
 

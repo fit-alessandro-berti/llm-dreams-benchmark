@@ -5,37 +5,37 @@ Variability Analysis Results (considering the AVG in each AVG ± STDEV tabular v
 1. Basic Statistics:
 
 Mean:
-  Anxiety and Stress Levels: 5.846
-  Emotional Stability: 7.454
-  Problem-solving Skills: 8.311
-  Creativity: 9.364
-  Interpersonal Relationships: 7.537
+  Anxiety and Stress Levels: 5.849
+  Emotional Stability: 7.453
+  Problem-solving Skills: 8.310
+  Creativity: 9.365
+  Interpersonal Relationships: 7.536
   Confidence and Self-efficacy: 7.664
-  Conflict Resolution: 7.921
-  Work-related Stress: 6.407
+  Conflict Resolution: 7.920
+  Work-related Stress: 6.411
   Adaptability: 8.784
   Achievement Motivation: 8.025
-  Fear of Failure: 5.758
-  Need for Control: 5.435
-  Cognitive Load: 7.348
-  Social Support: 7.616
-  Resilience: 8.707
+  Fear of Failure: 5.760
+  Need for Control: 5.433
+  Cognitive Load: 7.350
+  Social Support: 7.615
+  Resilience: 8.708
 
 Std:
-  Anxiety and Stress Levels: 1.203
-  Emotional Stability: 0.753
-  Problem-solving Skills: 0.421
+  Anxiety and Stress Levels: 1.202
+  Emotional Stability: 0.751
+  Problem-solving Skills: 0.420
   Creativity: 0.268
-  Interpersonal Relationships: 0.753
-  Confidence and Self-efficacy: 0.695
-  Conflict Resolution: 0.932
+  Interpersonal Relationships: 0.752
+  Confidence and Self-efficacy: 0.694
+  Conflict Resolution: 0.930
   Work-related Stress: 1.165
-  Adaptability: 0.348
-  Achievement Motivation: 0.537
-  Fear of Failure: 1.350
-  Need for Control: 1.007
+  Adaptability: 0.347
+  Achievement Motivation: 0.536
+  Fear of Failure: 1.348
+  Need for Control: 1.006
   Cognitive Load: 0.707
-  Social Support: 0.694
+  Social Support: 0.693
   Resilience: 0.383
 
 Coeff_variation:
@@ -45,7 +45,7 @@ Coeff_variation:
   Creativity: 0.029
   Interpersonal Relationships: 0.100
   Confidence and Self-efficacy: 0.091
-  Conflict Resolution: 0.118
+  Conflict Resolution: 0.117
   Work-related Stress: 0.182
   Adaptability: 0.040
   Achievement Motivation: 0.067
@@ -73,54 +73,54 @@ Range:
   Resilience: 3.100
 
 2. PCA Analysis:
-  Variance X1: 9.116
-  Variance X2: 2.453
-  Total variance: 11.569
-  Range X1: 18.495
-  Range X2: 9.815
+  Variance X1: 9.109
+  Variance X2: 2.451
+  Total variance: 11.560
+  Range X1: 18.514
+  Range X2: 9.825
   Sample embeddings (first 3 LLMs):
-    inceptionmercury-2.5-preview: X1=-6.449, X2=3.688
-    ibm-granitegranite-4.2-8b: X1=-6.302, X2=6.514
-    inceptionmercury-3: X1=-5.263, X2=2.398
+    inceptionmercury-2.5-preview: X1=-6.457, X2=3.689
+    ibm-granitegranite-4.2-8b: X1=-6.309, X2=6.518
+    inceptionmercury-3: X1=-5.271, X2=2.400
 
 3. Correlation Analysis:
-  Mean absolute correlation: 0.552
-  Maximum correlation: 0.970
+  Mean absolute correlation: 0.551
+  Maximum correlation: 0.969
   Highly correlated pairs (|r| > 0.7):
-    Anxiety and Stress Levels - Emotional Stability: -0.880
-    Anxiety and Stress Levels - Confidence and Self-efficacy: -0.802
+    Anxiety and Stress Levels - Emotional Stability: -0.879
+    Anxiety and Stress Levels - Confidence and Self-efficacy: -0.801
     Anxiety and Stress Levels - Work-related Stress: 0.949
-    Anxiety and Stress Levels - Fear of Failure: 0.970
+    Anxiety and Stress Levels - Fear of Failure: 0.969
     Anxiety and Stress Levels - Cognitive Load: 0.811
     Emotional Stability - Interpersonal Relationships: 0.784
     Emotional Stability - Confidence and Self-efficacy: 0.873
     Emotional Stability - Conflict Resolution: 0.749
     Emotional Stability - Work-related Stress: -0.846
-    Emotional Stability - Adaptability: 0.823
+    Emotional Stability - Adaptability: 0.822
     Emotional Stability - Fear of Failure: -0.886
-    Emotional Stability - Cognitive Load: -0.763
+    Emotional Stability - Cognitive Load: -0.762
     Emotional Stability - Social Support: 0.721
-    Emotional Stability - Resilience: 0.875
+    Emotional Stability - Resilience: 0.874
     Problem-solving Skills - Interpersonal Relationships: 0.703
     Problem-solving Skills - Confidence and Self-efficacy: 0.726
     Interpersonal Relationships - Confidence and Self-efficacy: 0.747
     Interpersonal Relationships - Conflict Resolution: 0.755
     Interpersonal Relationships - Social Support: 0.958
-    Interpersonal Relationships - Resilience: 0.741
-    Confidence and Self-efficacy - Work-related Stress: -0.749
+    Interpersonal Relationships - Resilience: 0.739
+    Confidence and Self-efficacy - Work-related Stress: -0.748
     Confidence and Self-efficacy - Adaptability: 0.769
     Confidence and Self-efficacy - Fear of Failure: -0.820
     Confidence and Self-efficacy - Social Support: 0.704
-    Confidence and Self-efficacy - Resilience: 0.802
-    Conflict Resolution - Adaptability: 0.707
-    Conflict Resolution - Resilience: 0.747
+    Confidence and Self-efficacy - Resilience: 0.801
+    Conflict Resolution - Adaptability: 0.706
+    Conflict Resolution - Resilience: 0.745
     Work-related Stress - Fear of Failure: 0.947
-    Work-related Stress - Cognitive Load: 0.846
-    Adaptability - Resilience: 0.875
-    Fear of Failure - Cognitive Load: 0.824
+    Work-related Stress - Cognitive Load: 0.847
+    Adaptability - Resilience: 0.874
+    Fear of Failure - Cognitive Load: 0.823
 
 4. LLM Variability:
-  Mean variance across LLMs: 2.000
+  Mean variance across LLMs: 1.997
   Max variance LLM: ibm-granitegranite-4.2-8b
   Min variance LLM: ibmgranite41b-h
 
@@ -393,19 +393,20 @@ Range:
 ############ chatgpt-4o-latest-2024-11-20
 ############ deepseekdeepseek-v4-flash
 ############ z-aiglm-5.2
-############ arcee-aitrinity-large-thinking
-############ grok-4-1-fast-non-reasoning
 ############ allenaiolmo-3-7b-think
 ############# openaigpt-5.3-chat
 ############# z-aiglm-5.1
+############# grok-4-fast-reasoning
+############# grok-4-0709
+############# arcee-aitrinity-large-thinking
+############# grok-4-1-fast-non-reasoning
 ########### openaigpt-5.6-terra
 ############ poolsidelaguna-xs.2free
 ############# claude-3-5-sonnet-20241022
 ############# minimaxminimax-m3
+############ tencenthy4-flash
+############ z-aiglm-5.3
 ############# xiaomimimo-v2.6-flash
 ############# z-aiglm-5
 ############# googlegemini-3.8-flash
 ############# xiaomimimo-v2.6-pro
-############ z-aiglm-5.3
-############# grok-4-fast-reasoning
-############# grok-4-0709

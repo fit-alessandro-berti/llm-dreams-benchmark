@@ -239,6 +239,7 @@
 | grok-4.20-multi-agent-experimental-beta-0304 | 7.000 |
 | openaigpt-6.1-terra | 6.986 |
 | quasar-438b | 6.986 |
+| tencenthy4-flash | 6.986 |
 | grok-build-0.1 | 6.971 |
 | stealthox-alpha | 6.971 |
 | anthropicclaude-opus-4.1 | 6.943 |

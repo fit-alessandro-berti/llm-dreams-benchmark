@@ -212,6 +212,7 @@
 | z-aiglm-5.3-flash | 7.329 |
 | claude-fable-5-1-high | 7.329 |
 | claude-opus-4-5-20251101 | 7.329 |
+| tencenthy4-flash | 7.300 |
 | xiaomimimo-v2.6-pro | 7.300 |
 | googlegemini-3.1-pro-preview | 7.243 |
 | Grok-4.1-20251118 | 7.243 |

@@ -270,7 +270,9 @@
 | mistralaimistral-large-4-0 | 7.586 |
 | claude-opus-4-7 | 7.571 |
 | nvidianemotron-3-ultra-550b-a55bfree | 7.571 |
+| qwenqwen4-max | 7.457 |
 | aion-labsaion-3.5-mini | 7.457 |
+| googlegemini-4-hydrogen | 7.414 |
 | llama27b | 7.414 |
 | mistral-large-2512 | 7.357 |
 | ministral-3b-2512 | 7.214 |

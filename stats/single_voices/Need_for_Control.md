@@ -13,6 +13,7 @@
 | aion-labsaion-3.5-mini | 7.000 |
 | meta-llamallama-4-maverick | 7.000 |
 | meta-llamaMeta-Llama-3.1-8B-Instruct | 7.000 |
+| googlegemini-4-hydrogen | 6.986 |
 | granite4micro | 6.986 |
 | Grok-4.6-Heavy | 6.957 |
 | baiduernie-4.5-21b-a3b | 6.943 |
@@ -52,6 +53,7 @@
 | gemma4e4b | 6.386 |
 | gpt-5.3-codex-spark-low | 6.386 |
 | open-mixtral-8x22b | 6.386 |
+| qwenqwen4-max | 6.386 |
 | openaigpt-5.4-nano | 6.371 |
 | meta-llamaLlama-3.2-3B-Instruct | 6.371 |
 | grok-4.20-experimental-beta-0304-non-reasoning | 6.343 |

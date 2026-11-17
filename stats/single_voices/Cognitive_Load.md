@@ -32,6 +32,7 @@
 | meta-llamallama-4-maverick | 8.171 |
 | poolsidelaguna-xs-2.1 | 8.171 |
 | qwen3.54b | 8.171 |
+| qwenqwen4-max | 8.171 |
 | Grok-4.1-20251118 | 8.143 |
 | ministral-14b-2512 | 8.129 |
 | claude-opus-4-7 | 8.114 |
@@ -48,6 +49,7 @@
 | quasar-438b | 7.986 |
 | qwenqwen3.8-27b | 7.986 |
 | stepfunstep-5-preview | 7.986 |
+| googlegemini-4-hydrogen | 7.971 |
 | grok-4-0709 | 7.971 |
 | meta-llamallama-4-scout | 7.971 |
 | smollm21.7b-instruct-q6_K | 7.957 |

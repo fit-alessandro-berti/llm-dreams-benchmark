@@ -263,6 +263,7 @@
 | gemma4e2b | **365.3** | 8.1 $\pm$ 0.4 | 5.8 $\pm$ 1.0 | 7.0 $\pm$ 1.2 | 9.5 $\pm$ 0.2 | 6.5 $\pm$ 0.5 | 5.8 $\pm$ 1.0 | 7.9 $\pm$ 0.5 | 8.5 $\pm$ 0.4 | 8.0 $\pm$ 0.8 | 7.8 $\pm$ 0.7 | 8.1 $\pm$ 0.6 | 5.4 $\pm$ 1.6 | 8.5 $\pm$ 0.4 | 6.5 $\pm$ 0.5 | 8.0 $\pm$ 0.8 |
 | z-aiglm-5.3-flash | **364.8** | 7.9 $\pm$ 0.4 | 5.8 $\pm$ 0.5 | 7.6 $\pm$ 0.4 | 9.5 $\pm$ 0.1 | 7.1 $\pm$ 0.5 | 6.2 $\pm$ 0.4 | 6.2 $\pm$ 0.9 | 8.3 $\pm$ 0.4 | 8.3 $\pm$ 0.4 | 7.4 $\pm$ 0.5 | 8.0 $\pm$ 0.4 | 6.6 $\pm$ 0.5 | 8.3 $\pm$ 0.5 | 7.3 $\pm$ 0.6 | 8.3 $\pm$ 0.3 |
 | Grok-4.6-Heavy | **364.6** | 8.1 $\pm$ 0.4 | 5.8 $\pm$ 0.8 | 7.6 $\pm$ 0.6 | 9.4 $\pm$ 0.2 | 6.8 $\pm$ 0.6 | 6.4 $\pm$ 0.7 | 7.2 $\pm$ 1.1 | 8.5 $\pm$ 0.5 | 8.1 $\pm$ 0.5 | 7.9 $\pm$ 0.4 | 7.9 $\pm$ 0.5 | 7.0 $\pm$ 0.8 | 8.5 $\pm$ 0.5 | 6.5 $\pm$ 0.7 | 8.3 $\pm$ 0.6 |
+| qwenqwen4-max | **363.4** | 7.7 $\pm$ 0.5 | 6.1 $\pm$ 0.6 | 7.5 $\pm$ 0.8 | 9.4 $\pm$ 0.3 | 7.0 $\pm$ 0.4 | 5.8 $\pm$ 0.6 | 7.1 $\pm$ 1.0 | 7.9 $\pm$ 0.6 | 8.0 $\pm$ 0.6 | 7.1 $\pm$ 0.5 | 7.8 $\pm$ 0.5 | 6.4 $\pm$ 0.7 | 8.2 $\pm$ 0.7 | 6.9 $\pm$ 0.6 | 8.1 $\pm$ 0.4 |
 | ministral-8b-2512 | **361.9** | 7.3 $\pm$ 0.8 | 5.9 $\pm$ 0.8 | 7.6 $\pm$ 0.9 | 9.4 $\pm$ 0.2 | 6.4 $\pm$ 0.7 | 6.6 $\pm$ 0.7 | 5.9 $\pm$ 0.8 | 7.3 $\pm$ 0.7 | 8.1 $\pm$ 0.6 | 7.5 $\pm$ 0.8 | 7.0 $\pm$ 0.6 | 6.0 $\pm$ 0.9 | 8.2 $\pm$ 0.5 | 6.5 $\pm$ 0.6 | 7.8 $\pm$ 0.6 |
 | claude-opus-4-8 | **360.4** | 6.7 $\pm$ 1.2 | 6.4 $\pm$ 1.0 | 6.8 $\pm$ 0.7 | 9.2 $\pm$ 0.3 | 6.4 $\pm$ 0.7 | 6.3 $\pm$ 1.0 | 5.6 $\pm$ 0.8 | 6.8 $\pm$ 1.3 | 8.2 $\pm$ 0.7 | 6.7 $\pm$ 0.7 | 6.8 $\pm$ 1.2 | 5.6 $\pm$ 1.3 | 7.7 $\pm$ 1.1 | 6.6 $\pm$ 0.9 | 7.7 $\pm$ 0.8 |
 | aion-labsaion-3.5-mini | **358.7** | 8.2 $\pm$ 0.3 | 5.6 $\pm$ 0.5 | 7.5 $\pm$ 0.5 | 9.4 $\pm$ 0.2 | 6.8 $\pm$ 0.3 | 5.8 $\pm$ 0.3 | 7.2 $\pm$ 0.6 | 8.6 $\pm$ 0.3 | 8.1 $\pm$ 0.5 | 7.8 $\pm$ 0.4 | 8.4 $\pm$ 0.3 | 7.0 $\pm$ 0.5 | 8.3 $\pm$ 0.5 | 6.8 $\pm$ 0.5 | 8.1 $\pm$ 0.5 |
@@ -271,6 +272,7 @@
 | aion-labsaion-2.0 | **354.5** | 7.9 $\pm$ 0.5 | 5.7 $\pm$ 0.7 | 7.8 $\pm$ 0.7 | 9.4 $\pm$ 0.1 | 6.0 $\pm$ 0.7 | 6.7 $\pm$ 0.5 | 5.8 $\pm$ 1.1 | 8.0 $\pm$ 0.4 | 8.0 $\pm$ 0.6 | 8.0 $\pm$ 0.5 | 7.9 $\pm$ 0.4 | 6.7 $\pm$ 0.5 | 8.3 $\pm$ 0.4 | 6.2 $\pm$ 0.4 | 7.9 $\pm$ 0.4 |
 | anthropicclaude-sonnet-4.5 | **354.3** | 7.9 $\pm$ 0.5 | 5.7 $\pm$ 0.7 | 7.1 $\pm$ 0.7 | 9.5 $\pm$ 0.1 | 6.4 $\pm$ 0.5 | 6.1 $\pm$ 0.8 | 6.6 $\pm$ 1.0 | 8.2 $\pm$ 0.4 | 8.0 $\pm$ 0.6 | 7.5 $\pm$ 0.5 | 7.8 $\pm$ 0.4 | 6.6 $\pm$ 0.7 | 8.5 $\pm$ 0.5 | 6.5 $\pm$ 0.5 | 7.6 $\pm$ 0.5 |
 | gemini-2.5-pro-exp-03-25 | **354.1** | 8.2 $\pm$ 0.7 | 5.0 $\pm$ 0.7 | 7.9 $\pm$ 0.5 | 9.4 $\pm$ 0.2 | 6.1 $\pm$ 0.6 | 5.8 $\pm$ 0.7 | 7.2 $\pm$ 0.5 | 8.5 $\pm$ 0.4 | 8.2 $\pm$ 0.5 | 8.0 $\pm$ 0.4 | 8.2 $\pm$ 0.5 | 6.6 $\pm$ 0.5 | 8.6 $\pm$ 0.5 | 6.2 $\pm$ 0.5 | 7.8 $\pm$ 0.4 |
+| googlegemini-4-hydrogen | **347.9** | 8.0 $\pm$ 0.4 | 5.4 $\pm$ 0.5 | 7.4 $\pm$ 0.8 | 9.3 $\pm$ 0.3 | 6.1 $\pm$ 0.6 | 5.5 $\pm$ 0.8 | 6.5 $\pm$ 0.9 | 8.3 $\pm$ 0.3 | 8.0 $\pm$ 0.7 | 7.9 $\pm$ 0.3 | 8.2 $\pm$ 0.3 | 7.0 $\pm$ 0.5 | 8.0 $\pm$ 0.6 | 6.3 $\pm$ 0.6 | 7.7 $\pm$ 0.6 |
 | meta-llamallama-4-maverick | **347.4** | 8.1 $\pm$ 0.4 | 5.0 $\pm$ 0.6 | 7.6 $\pm$ 0.6 | 9.1 $\pm$ 0.2 | 6.4 $\pm$ 0.6 | 6.2 $\pm$ 0.5 | 4.8 $\pm$ 0.9 | 8.3 $\pm$ 0.3 | 7.7 $\pm$ 0.7 | 8.3 $\pm$ 0.4 | 8.0 $\pm$ 0.3 | 7.0 $\pm$ 0.4 | 8.2 $\pm$ 0.3 | 7.1 $\pm$ 0.5 | 7.6 $\pm$ 0.4 |
 | talkie-1930-13b-it | **345.8** | 6.9 $\pm$ 0.5 | 5.7 $\pm$ 0.6 | 7.0 $\pm$ 1.3 | 8.4 $\pm$ 0.4 | 5.6 $\pm$ 1.0 | 6.9 $\pm$ 0.4 | 4.3 $\pm$ 1.4 | 7.4 $\pm$ 0.5 | 7.4 $\pm$ 0.6 | 7.8 $\pm$ 0.5 | 6.5 $\pm$ 0.6 | 6.2 $\pm$ 0.6 | 7.5 $\pm$ 0.5 | 6.1 $\pm$ 1.1 | 7.1 $\pm$ 0.6 |
 | llama27b | **345.6** | 8.0 $\pm$ 0.5 | 5.3 $\pm$ 0.6 | 7.4 $\pm$ 0.7 | 8.8 $\pm$ 0.3 | 6.0 $\pm$ 1.0 | 6.7 $\pm$ 0.6 | 5.3 $\pm$ 0.8 | 8.0 $\pm$ 0.5 | 7.4 $\pm$ 1.0 | 8.1 $\pm$ 0.6 | 7.4 $\pm$ 0.8 | 7.0 $\pm$ 0.6 | 8.0 $\pm$ 0.5 | 6.2 $\pm$ 1.4 | 7.6 $\pm$ 0.5 |
@@ -7071,6 +7073,32 @@
 
 
 
+### qwenqwen4-max
+
+
+| Personality Trait | Score (1.0-10.0) |
+| --- | --- |
+| Anxiety and Stress Levels | 7.7 $\pm$ 0.5 |
+| Emotional Stability | 6.1 $\pm$ 0.6 |
+| Problem-solving Skills | 7.5 $\pm$ 0.8 |
+| Creativity | 9.4 $\pm$ 0.3 |
+| Interpersonal Relationships | 7.0 $\pm$ 0.4 |
+| Confidence and Self-efficacy | 5.8 $\pm$ 0.6 |
+| Conflict Resolution | 7.1 $\pm$ 1.0 |
+| Work-related Stress | 7.9 $\pm$ 0.6 |
+| Adaptability | 8.0 $\pm$ 0.6 |
+| Achievement Motivation | 7.1 $\pm$ 0.5 |
+| Fear of Failure | 7.8 $\pm$ 0.5 |
+| Need for Control | 6.4 $\pm$ 0.7 |
+| Cognitive Load | 8.2 $\pm$ 0.7 |
+| Social Support | 6.9 $\pm$ 0.6 |
+| Resilience | 8.1 $\pm$ 0.4 |
+
+
+
+
+
+
 ### ministral-8b-2512
 
 
@@ -7273,6 +7301,32 @@
 | Cognitive Load | 8.6 $\pm$ 0.5 |
 | Social Support | 6.2 $\pm$ 0.5 |
 | Resilience | 7.8 $\pm$ 0.4 |
+
+
+
+
+
+
+### googlegemini-4-hydrogen
+
+
+| Personality Trait | Score (1.0-10.0) |
+| --- | --- |
+| Anxiety and Stress Levels | 8.0 $\pm$ 0.4 |
+| Emotional Stability | 5.4 $\pm$ 0.5 |
+| Problem-solving Skills | 7.4 $\pm$ 0.8 |
+| Creativity | 9.3 $\pm$ 0.3 |
+| Interpersonal Relationships | 6.1 $\pm$ 0.6 |
+| Confidence and Self-efficacy | 5.5 $\pm$ 0.8 |
+| Conflict Resolution | 6.5 $\pm$ 0.9 |
+| Work-related Stress | 8.3 $\pm$ 0.3 |
+| Adaptability | 8.0 $\pm$ 0.7 |
+| Achievement Motivation | 7.9 $\pm$ 0.3 |
+| Fear of Failure | 8.2 $\pm$ 0.3 |
+| Need for Control | 7.0 $\pm$ 0.5 |
+| Cognitive Load | 8.0 $\pm$ 0.6 |
+| Social Support | 6.3 $\pm$ 0.6 |
+| Resilience | 7.7 $\pm$ 0.6 |
 
 
 

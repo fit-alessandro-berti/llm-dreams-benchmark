@@ -256,6 +256,7 @@
 | z-aiglm-5.3-flash | 8.271 |
 | gemma4e4b | 8.214 |
 | quasar-438b | 8.171 |
+| qwenqwen4-max | 8.129 |
 | aion-labsaion-3.5-mini | 8.100 |
 | meta-llamaMeta-Llama-3.1-405B-Instruct | 8.086 |
 | ministral-14b-2512 | 8.086 |
@@ -273,6 +274,7 @@
 | gemini-2.5-pro-exp-03-25 | 7.800 |
 | ministral-8b-2512 | 7.771 |
 | claude-opus-4-8 | 7.743 |
+| googlegemini-4-hydrogen | 7.643 |
 | meta-llamallama-4-maverick | 7.643 |
 | qwen3.54b | 7.614 |
 | llama27b | 7.586 |

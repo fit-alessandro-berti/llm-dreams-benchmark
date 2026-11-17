@@ -264,8 +264,10 @@
 | ministral-8b-2512 | 8.143 |
 | aion-labsaion-3.5-mini | 8.100 |
 | Grok-4.6-Heavy | 8.086 |
+| qwenqwen4-max | 8.043 |
 | aion-labsaion-2.0 | 8.029 |
 | anthropicclaude-sonnet-4.5 | 8.029 |
+| googlegemini-4-hydrogen | 8.029 |
 | ministral-14b-2512 | 8.000 |
 | gemma4e2b | 7.986 |
 | qwen3.54b | 7.986 |

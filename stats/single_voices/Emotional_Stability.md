@@ -255,6 +255,7 @@
 | meta-llamaLlama-3.3-70B-Instruct | 6.114 |
 | tencenthy3-previewfree | 6.114 |
 | qwen3.52b | 6.086 |
+| qwenqwen4-max | 6.071 |
 | poolsidelaguna-xs-2.1 | 6.043 |
 | meta-llamaMeta-Llama-3.1-70B-Instruct | 6.014 |
 | meta-llamaMeta-Llama-3.1-405B-Instruct | 5.971 |
@@ -272,6 +273,7 @@
 | aion-labsaion-3.5-mini | 5.586 |
 | gemma4e4b | 5.571 |
 | gemini-3-pro-preview | 5.414 |
+| googlegemini-4-hydrogen | 5.357 |
 | llama27b | 5.257 |
 | mistral-small-2603 | 5.214 |
 | z-aiglm-5v-turbo | 5.114 |

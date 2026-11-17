@@ -240,6 +240,7 @@
 | falcon37b-instruct-q8_0 | 7.071 |
 | anthropicclaude-sonnet-5 | 7.057 |
 | googlegemini-3.1-flash-lite-preview | 7.043 |
+| qwenqwen4-max | 7.043 |
 | googlegemini-4-carbon | 7.029 |
 | z-aiglm-5 | 6.929 |
 | gemma4e4b | 6.914 |
@@ -255,6 +256,7 @@
 | nousresearchhermes-4-70b | 6.557 |
 | qwenqwen3.5-397b-a17b | 6.557 |
 | aion-labsaion-3.5 | 6.486 |
+| googlegemini-4-hydrogen | 6.471 |
 | arcee-aitrinity-large-thinking | 6.471 |
 | claude-3-opus-20240229 | 6.471 |
 | meta-llamallama-4-scout | 6.443 |

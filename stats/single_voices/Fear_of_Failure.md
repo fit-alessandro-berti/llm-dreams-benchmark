@@ -6,6 +6,7 @@
 | aion-labsaion-3.5-mini | 8.400 |
 | z-aiglm-5v-turbo | 8.371 |
 | mistral-large-2512 | 8.243 |
+| googlegemini-4-hydrogen | 8.214 |
 | gemini-2.5-pro-exp-03-25 | 8.157 |
 | nvidianemotron-3-ultra-550b-a55bfree | 8.157 |
 | mistral-small-2603 | 8.129 |
@@ -18,6 +19,7 @@
 | Grok-4.6-Heavy | 7.886 |
 | prime-intellectintellect-3 | 7.843 |
 | claude-3-opus-20240229 | 7.829 |
+| qwenqwen4-max | 7.786 |
 | anthropicclaude-sonnet-4.5 | 7.786 |
 | ministral-3b-2512 | 7.786 |
 | tencenthy3-previewfree | 7.757 |

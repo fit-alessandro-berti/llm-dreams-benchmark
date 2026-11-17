@@ -164,6 +164,7 @@
 | minimaxminimax-m3 | 9.429 |
 | quasar-438b | 9.429 |
 | qwen2.5-14b-instruct | 9.429 |
+| qwenqwen4-max | 9.429 |
 | aion-labsaion-2.0 | 9.414 |
 | allenaiolmo-3-7b-instruct | 9.414 |
 | allenaiolmo-3-7b-think | 9.414 |
@@ -241,6 +242,7 @@
 | nousresearchhermes-4-405b | 9.286 |
 | openaigpt-6.1-terra | 9.286 |
 | deepseekdeepseek-v3.2-speciale | 9.271 |
+| googlegemini-4-hydrogen | 9.271 |
 | open-mixtral-8x22b | 9.271 |
 | open-mixtral-8x7b | 9.271 |
 | gpt-5.2-2025-12-11 | 9.243 |

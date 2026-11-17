@@ -21,6 +21,7 @@
 | grok-build-0.1 | 8.300 |
 | meta-llamaLlama-3.3-70B-Instruct | 8.300 |
 | meta-llamallama-4-maverick | 8.286 |
+| googlegemini-4-hydrogen | 8.271 |
 | z-aiglm-5.3-flash | 8.271 |
 | prime-intellectintellect-3 | 8.257 |
 | anthropicclaude-sonnet-4.5 | 8.200 |
@@ -45,6 +46,7 @@
 | gpt-5.2-2025-12-11 | 7.914 |
 | z-aiglm-5 | 7.914 |
 | ministral-14b-2512 | 7.900 |
+| qwenqwen4-max | 7.857 |
 | Gemini-1.5-Pro-Exp-0827 | 7.843 |
 | googlegemini-4-carbon | 7.829 |
 | claude-opus-4-7 | 7.814 |

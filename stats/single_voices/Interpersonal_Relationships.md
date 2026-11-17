@@ -233,6 +233,7 @@
 | grok-4.20-multi-agent-experimental-beta-0304 | 7.057 |
 | openaigpt-5.6-terra | 7.057 |
 | qwenqwen3.8-27b | 7.057 |
+| qwenqwen4-max | 7.043 |
 | ibmgranite41b-h | 7.014 |
 | gemini-3.5-flash-lite | 7.014 |
 | minimaxminimax-m3 | 7.000 |
@@ -266,6 +267,7 @@
 | claude-opus-4-7 | 6.343 |
 | qwenqwen3.5-397b-a17b | 6.314 |
 | quasar-438b | 6.271 |
+| googlegemini-4-hydrogen | 6.114 |
 | gemini-2.5-pro-exp-03-25 | 6.114 |
 | nvidianemotron-3-ultra-550b-a55bfree | 6.057 |
 | llama27b | 6.029 |

@@ -275,10 +275,12 @@
 | anthropicclaude-sonnet-4.5 | 6.100 |
 | z-aiglm-5v-turbo | 6.100 |
 | ministral-3b-2512 | 5.929 |
+| qwenqwen4-max | 5.843 |
 | qwen3.54b | 5.829 |
 | gemma4e2b | 5.800 |
 | aion-labsaion-3.5-mini | 5.800 |
 | gemini-2.5-pro-exp-03-25 | 5.786 |
 | mistral-large-2512 | 5.714 |
+| googlegemini-4-hydrogen | 5.529 |
 | qwen3.50.8b | 4.786 |
 | metamuse-glimmer-30b | 4.214 |

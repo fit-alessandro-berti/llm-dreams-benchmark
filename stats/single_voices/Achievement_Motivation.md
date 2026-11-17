@@ -192,6 +192,7 @@
 | qwenqwen3.8-flash | 7.900 |
 | gemini-3-pro-preview | 7.886 |
 | gemma-4-31b-it | 7.886 |
+| googlegemini-4-hydrogen | 7.886 |
 | gpt-5.2-2025-12-11 | 7.886 |
 | gemma-3-27b-it | 7.871 |
 | metamuse-spark-1.3 | 7.871 |
@@ -269,6 +270,7 @@
 | thinkingmachinesinkling | 7.171 |
 | claude-opus-4-7 | 7.157 |
 | qwenqwen3.5-122b-a10b | 7.157 |
+| qwenqwen4-max | 7.129 |
 | anthropicclaude-opus-4.1 | 7.129 |
 | metamuse-spark-1.1 | 7.071 |
 | anthropicclaude-fable-5.2 | 7.000 |

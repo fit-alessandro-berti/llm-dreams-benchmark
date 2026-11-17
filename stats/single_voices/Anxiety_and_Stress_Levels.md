@@ -15,6 +15,7 @@
 | meta-llamallama-4-maverick | 8.100 |
 | Grok-4.6-Heavy | 8.086 |
 | gemini-3-pro-preview | 8.057 |
+| googlegemini-4-hydrogen | 8.029 |
 | llama27b | 7.943 |
 | z-aiglm-5.3-flash | 7.914 |
 | aion-labsaion-2.0 | 7.871 |
@@ -28,6 +29,7 @@
 | gpt-5.2-2025-12-11 | 7.700 |
 | ministral-14b-2512 | 7.686 |
 | gemini-2.0-pro-exp-02-05 | 7.686 |
+| qwenqwen4-max | 7.686 |
 | grok-build-0.1 | 7.671 |
 | meta-llamaMeta-Llama-3.1-8B-Instruct | 7.657 |
 | gpt-5.6-sol-XHIGH | 7.643 |

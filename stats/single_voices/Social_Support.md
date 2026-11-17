@@ -249,6 +249,7 @@
 | openaigpt-5.3-chat | 6.957 |
 | z-aiglm-5.1 | 6.943 |
 | qwenqwen3.5-35b-a3b | 6.886 |
+| qwenqwen4-max | 6.871 |
 | minimaxminimax-m3.1-flash | 6.843 |
 | grok-build-0.1 | 6.814 |
 | stepfunstep-5-preview | 6.814 |
@@ -266,6 +267,7 @@
 | Grok-4.6-Heavy | 6.500 |
 | quasar-438b | 6.457 |
 | ministral-3b-2512 | 6.443 |
+| googlegemini-4-hydrogen | 6.286 |
 | googlegemini-3.1-flash-lite-preview | 6.257 |
 | aion-labsaion-2.0 | 6.229 |
 | mistral-small-2603 | 6.200 |

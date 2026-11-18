@@ -228,6 +228,7 @@
 | deepseekdeepseek-v4.1-flash | 4.586 |
 | anthropicclaude-opus-4.1 | 4.586 |
 | gemini-2.5-pro-preview-06-05 | 4.571 |
+| openaigpt-6.2-sol | 4.571 |
 | xiaomimimo-v2-omni | 4.571 |
 | qwenqwen3.5-397b-a17b | 4.557 |
 | upstagesolar-pro4 | 4.557 |
@@ -266,6 +267,7 @@
 | upstagesolar-mini4 | 4.114 |
 | nvidianemotron-3.5-lightning | 4.114 |
 | googlegemini-3.7-flash | 4.100 |
+| openaigpt-6.2-astra | 4.043 |
 | qwen3.8-max-2026-09-02 | 3.986 |
 | moonshotaikimi-k2.7-code | 3.957 |
 | inceptionmercury-3 | 3.914 |

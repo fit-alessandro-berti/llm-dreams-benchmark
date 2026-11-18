@@ -120,6 +120,7 @@
 | gemini-1.5-flash-8b | 8.471 |
 | gpt-4-1106-preview | 8.471 |
 | openaigpt-5.6-sol | 8.471 |
+| openaigpt-6.2-astra | 8.471 |
 | openaigpt-oss-120b | 8.471 |
 | claude-fable-5-high | 8.457 |
 | phi2.7b | 8.457 |
@@ -198,6 +199,7 @@
 | gemini-3.5-flash-lite | 7.957 |
 | openaigpt-6.1-terra | 7.957 |
 | gemma4e2b | 7.943 |
+| openaigpt-6.2-sol | 7.943 |
 | gpt-5.2-2025-12-11 | 7.929 |
 | liquidlfm-2.5-1.2b-instructfree | 7.914 |
 | grok-4.20-multi-agent-experimental-beta-0304 | 7.914 |

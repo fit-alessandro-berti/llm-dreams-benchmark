@@ -11,6 +11,7 @@
 | qwen2.5-72b-instruct | 8.643 |
 | xiaomimimo-v2-pro | 8.643 |
 | gpt-3.5-turbo | 8.629 |
+| openaigpt-6.2-astra | 8.629 |
 | granite4.130b | 8.614 |
 | open-mixtral-8x22b | 8.600 |
 | xiaomimimo-v2.5 | 8.586 |
@@ -70,6 +71,7 @@
 | gpt-4.1-nano-2025-04-14 | 8.171 |
 | granite4tiny-h | 8.171 |
 | Grok-4.30-20260420 | 8.171 |
+| openaigpt-6.2-sol | 8.171 |
 | minimaxminimax-m2.7 | 8.157 |
 | deepseekdeepseek-v3.2 | 8.157 |
 | allenaiolmo-3.1-32b-instruct | 8.143 |

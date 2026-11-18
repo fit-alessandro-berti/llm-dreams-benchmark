@@ -154,6 +154,7 @@
 | googlegemini-3.1-pro-preview | 8.843 |
 | x-aigrok-4.5 | 8.843 |
 | gemini-3.5-flash-lite | 8.829 |
+| openaigpt-6.2-astra | 8.829 |
 | xiaomimimo-v2-omni | 8.829 |
 | openaigpt-5.6-terra | 8.814 |
 | moonshotaikimi-k2.5 | 8.814 |
@@ -216,6 +217,7 @@
 | grok-4-fast-reasoning | 8.600 |
 | grok-build-0.1 | 8.586 |
 | qwenqwen3.5-27b | 8.586 |
+| openaigpt-6.2-sol | 8.571 |
 | allenaiolmo-3-7b-think | 8.557 |
 | llama213b | 8.557 |
 | Liquid-LFM2.5-350M | 8.557 |

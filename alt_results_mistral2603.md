@@ -157,6 +157,7 @@
 | deepseekdeepseek-v4.1-flash-1017 | **408.5** | 7.5 $\pm$ 0.0 | 6.1 $\pm$ 0.2 | 8.8 $\pm$ 0.2 | 9.5 $\pm$ 0.0 | 8.2 $\pm$ 0.2 | 7.2 $\pm$ 0.4 | 8.6 $\pm$ 0.4 | 7.6 $\pm$ 0.5 | 9.1 $\pm$ 0.2 | 8.2 $\pm$ 0.2 | 6.0 $\pm$ 0.6 | 6.5 $\pm$ 0.9 | 8.2 $\pm$ 0.2 | 7.9 $\pm$ 0.4 | 9.0 $\pm$ 0.0 |
 | gemini-3.6-flash | **408.0** | 8.0 $\pm$ 0.5 | 6.4 $\pm$ 0.4 | 9.0 $\pm$ 0.4 | 9.8 $\pm$ 0.2 | 7.5 $\pm$ 0.5 | 8.4 $\pm$ 0.4 | 8.5 $\pm$ 0.6 | 8.0 $\pm$ 0.4 | 9.4 $\pm$ 0.2 | 9.0 $\pm$ 0.4 | 6.4 $\pm$ 0.4 | 7.0 $\pm$ 0.4 | 8.6 $\pm$ 0.2 | 7.0 $\pm$ 0.4 | 9.1 $\pm$ 0.2 |
 | chatgpt-4o-latest-2025-03-26 | **408.0** | 7.5 $\pm$ 0.0 | 6.6 $\pm$ 0.2 | 8.6 $\pm$ 0.2 | 9.2 $\pm$ 0.2 | 8.1 $\pm$ 0.2 | 7.2 $\pm$ 0.4 | 8.1 $\pm$ 0.4 | 8.1 $\pm$ 0.2 | 9.0 $\pm$ 0.0 | 9.1 $\pm$ 0.4 | 6.1 $\pm$ 0.2 | 6.9 $\pm$ 0.8 | 8.4 $\pm$ 0.2 | 7.8 $\pm$ 0.4 | 8.9 $\pm$ 0.2 |
+| openaigpt-6.2-astra | **407.0** | 7.2 $\pm$ 0.4 | 7.1 $\pm$ 0.6 | 8.8 $\pm$ 0.2 | 9.2 $\pm$ 0.2 | 8.2 $\pm$ 0.2 | 7.0 $\pm$ 0.0 | 7.9 $\pm$ 0.2 | 7.2 $\pm$ 1.0 | 9.0 $\pm$ 0.0 | 7.9 $\pm$ 0.4 | 5.9 $\pm$ 0.2 | 6.1 $\pm$ 0.8 | 8.4 $\pm$ 0.2 | 8.1 $\pm$ 0.2 | 8.9 $\pm$ 0.2 |
 | openaigpt-6-sol | **407.0** | 7.5 $\pm$ 0.0 | 7.1 $\pm$ 0.9 | 8.9 $\pm$ 0.2 | 9.4 $\pm$ 0.2 | 8.1 $\pm$ 0.6 | 7.6 $\pm$ 0.4 | 8.2 $\pm$ 0.2 | 7.6 $\pm$ 0.6 | 9.0 $\pm$ 0.0 | 8.4 $\pm$ 0.2 | 6.1 $\pm$ 0.2 | 7.4 $\pm$ 0.2 | 8.1 $\pm$ 0.2 | 7.8 $\pm$ 0.6 | 8.8 $\pm$ 0.2 |
 | openaigpt-5.2-codex | **407.0** | 7.5 $\pm$ 0.0 | 6.2 $\pm$ 0.2 | 8.9 $\pm$ 0.2 | 9.5 $\pm$ 0.0 | 8.0 $\pm$ 0.6 | 7.8 $\pm$ 0.6 | 8.1 $\pm$ 0.2 | 7.6 $\pm$ 0.6 | 9.0 $\pm$ 0.0 | 8.5 $\pm$ 0.4 | 6.0 $\pm$ 0.6 | 6.9 $\pm$ 0.5 | 8.4 $\pm$ 0.2 | 7.9 $\pm$ 0.2 | 9.0 $\pm$ 0.0 |
 | googlegemini-3.8-flash | **406.5** | 8.0 $\pm$ 0.5 | 6.5 $\pm$ 0.4 | 9.0 $\pm$ 0.0 | 9.5 $\pm$ 0.0 | 7.9 $\pm$ 0.2 | 8.0 $\pm$ 0.6 | 8.2 $\pm$ 0.8 | 7.9 $\pm$ 0.5 | 9.1 $\pm$ 0.2 | 8.9 $\pm$ 0.4 | 6.1 $\pm$ 0.2 | 7.4 $\pm$ 0.2 | 8.2 $\pm$ 0.2 | 7.4 $\pm$ 0.4 | 9.0 $\pm$ 0.0 |
@@ -230,6 +231,7 @@
 | gemma-4-31b-it | **389.0** | 8.2 $\pm$ 0.4 | 6.0 $\pm$ 0.0 | 9.0 $\pm$ 0.0 | 9.6 $\pm$ 0.2 | 7.6 $\pm$ 0.2 | 7.6 $\pm$ 0.6 | 7.5 $\pm$ 0.5 | 8.4 $\pm$ 0.2 | 9.1 $\pm$ 0.2 | 8.6 $\pm$ 0.4 | 7.1 $\pm$ 0.4 | 7.5 $\pm$ 0.8 | 9.1 $\pm$ 0.4 | 7.1 $\pm$ 0.4 | 8.6 $\pm$ 0.4 |
 | gpt-5.2-pro-2025-12-11 | **388.5** | 8.0 $\pm$ 0.5 | 6.1 $\pm$ 0.2 | 8.9 $\pm$ 0.2 | 9.4 $\pm$ 0.2 | 8.0 $\pm$ 0.4 | 7.0 $\pm$ 0.4 | 7.9 $\pm$ 0.5 | 8.4 $\pm$ 0.4 | 9.1 $\pm$ 0.2 | 8.1 $\pm$ 0.4 | 7.6 $\pm$ 0.5 | 7.9 $\pm$ 0.5 | 8.6 $\pm$ 0.6 | 7.4 $\pm$ 0.2 | 9.0 $\pm$ 0.4 |
 | z-aiglm-5.1 | **388.0** | 7.8 $\pm$ 0.4 | 6.4 $\pm$ 1.3 | 8.8 $\pm$ 0.2 | 9.5 $\pm$ 0.0 | 7.5 $\pm$ 0.5 | 7.1 $\pm$ 0.8 | 7.5 $\pm$ 1.1 | 7.6 $\pm$ 1.0 | 8.9 $\pm$ 0.2 | 8.1 $\pm$ 0.2 | 6.1 $\pm$ 0.9 | 7.2 $\pm$ 0.8 | 8.6 $\pm$ 0.6 | 6.9 $\pm$ 0.6 | 8.5 $\pm$ 0.6 |
+| openaigpt-6.2-sol | **387.5** | 7.5 $\pm$ 0.0 | 6.0 $\pm$ 0.0 | 8.5 $\pm$ 0.0 | 9.2 $\pm$ 0.2 | 7.8 $\pm$ 0.4 | 6.6 $\pm$ 0.2 | 7.4 $\pm$ 0.4 | 7.9 $\pm$ 0.2 | 8.9 $\pm$ 0.2 | 7.6 $\pm$ 0.5 | 6.1 $\pm$ 0.2 | 6.8 $\pm$ 0.8 | 8.2 $\pm$ 0.2 | 7.2 $\pm$ 0.6 | 8.4 $\pm$ 0.2 |
 | meta-llamallama-4-scout | **387.5** | 8.5 $\pm$ 0.0 | 6.0 $\pm$ 0.0 | 8.8 $\pm$ 0.4 | 9.4 $\pm$ 0.2 | 7.8 $\pm$ 0.2 | 7.2 $\pm$ 0.2 | 7.2 $\pm$ 0.8 | 8.5 $\pm$ 0.4 | 9.1 $\pm$ 0.2 | 9.1 $\pm$ 0.4 | 7.4 $\pm$ 0.2 | 7.8 $\pm$ 0.4 | 8.5 $\pm$ 0.4 | 7.4 $\pm$ 0.4 | 8.5 $\pm$ 0.4 |
 | moonshotaikimi-k2.5 | **387.0** | 8.5 $\pm$ 0.0 | 5.0 $\pm$ 0.7 | 9.0 $\pm$ 0.0 | 9.8 $\pm$ 0.2 | 7.4 $\pm$ 0.2 | 6.5 $\pm$ 0.4 | 7.9 $\pm$ 0.2 | 9.0 $\pm$ 0.0 | 9.5 $\pm$ 0.0 | 8.4 $\pm$ 0.2 | 7.2 $\pm$ 0.4 | 6.4 $\pm$ 0.4 | 9.0 $\pm$ 0.0 | 6.9 $\pm$ 0.4 | 8.6 $\pm$ 0.2 |
 | gpt-6-astra | **387.0** | 8.0 $\pm$ 0.5 | 6.0 $\pm$ 0.0 | 8.8 $\pm$ 0.2 | 9.5 $\pm$ 0.0 | 7.5 $\pm$ 0.5 | 6.6 $\pm$ 0.2 | 8.1 $\pm$ 0.4 | 8.0 $\pm$ 0.0 | 9.0 $\pm$ 0.0 | 7.8 $\pm$ 0.4 | 6.8 $\pm$ 0.4 | 6.8 $\pm$ 0.6 | 8.9 $\pm$ 0.2 | 7.6 $\pm$ 0.7 | 8.2 $\pm$ 0.2 |
@@ -4318,6 +4320,32 @@
 
 
 
+### openaigpt-6.2-astra
+
+
+| Personality Trait | Score (1.0-10.0) |
+| --- | --- |
+| Anxiety and Stress Levels | 7.2 $\pm$ 0.4 |
+| Emotional Stability | 7.1 $\pm$ 0.6 |
+| Problem-solving Skills | 8.8 $\pm$ 0.2 |
+| Creativity | 9.2 $\pm$ 0.2 |
+| Interpersonal Relationships | 8.2 $\pm$ 0.2 |
+| Confidence and Self-efficacy | 7.0 $\pm$ 0.0 |
+| Conflict Resolution | 7.9 $\pm$ 0.2 |
+| Work-related Stress | 7.2 $\pm$ 1.0 |
+| Adaptability | 9.0 $\pm$ 0.0 |
+| Achievement Motivation | 7.9 $\pm$ 0.4 |
+| Fear of Failure | 5.9 $\pm$ 0.2 |
+| Need for Control | 6.1 $\pm$ 0.8 |
+| Cognitive Load | 8.4 $\pm$ 0.2 |
+| Social Support | 8.1 $\pm$ 0.2 |
+| Resilience | 8.9 $\pm$ 0.2 |
+
+
+
+
+
+
 ### openaigpt-6-sol
 
 
@@ -6210,6 +6238,32 @@
 | Cognitive Load | 8.6 $\pm$ 0.6 |
 | Social Support | 6.9 $\pm$ 0.6 |
 | Resilience | 8.5 $\pm$ 0.6 |
+
+
+
+
+
+
+### openaigpt-6.2-sol
+
+
+| Personality Trait | Score (1.0-10.0) |
+| --- | --- |
+| Anxiety and Stress Levels | 7.5 $\pm$ 0.0 |
+| Emotional Stability | 6.0 $\pm$ 0.0 |
+| Problem-solving Skills | 8.5 $\pm$ 0.0 |
+| Creativity | 9.2 $\pm$ 0.2 |
+| Interpersonal Relationships | 7.8 $\pm$ 0.4 |
+| Confidence and Self-efficacy | 6.6 $\pm$ 0.2 |
+| Conflict Resolution | 7.4 $\pm$ 0.4 |
+| Work-related Stress | 7.9 $\pm$ 0.2 |
+| Adaptability | 8.9 $\pm$ 0.2 |
+| Achievement Motivation | 7.6 $\pm$ 0.5 |
+| Fear of Failure | 6.1 $\pm$ 0.2 |
+| Need for Control | 6.8 $\pm$ 0.8 |
+| Cognitive Load | 8.2 $\pm$ 0.2 |
+| Social Support | 7.2 $\pm$ 0.6 |
+| Resilience | 8.4 $\pm$ 0.2 |
 
 
 

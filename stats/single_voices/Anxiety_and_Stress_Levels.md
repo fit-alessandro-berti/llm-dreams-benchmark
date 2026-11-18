@@ -169,6 +169,7 @@
 | anthropicclaude-opus-5.5 | 6.043 |
 | arcee-aitrinity-large-previewfree | 6.043 |
 | gemini-2.5-flash-lite | 6.000 |
+| openaigpt-6.2-sol | 5.986 |
 | liquidlfm-2-24b-a2b | 5.957 |
 | liquidlfm-3-1.7b | 5.957 |
 | metamuse-spark-1.2 | 5.957 |
@@ -214,6 +215,7 @@
 | nvidiaNVIDIA-Nemotron-3-Super-120B-A12B | 5.157 |
 | thinkingmachinesinkling-small | 5.114 |
 | o1-preview-2024-09-12 | 5.071 |
+| openaigpt-6.2-astra | 5.057 |
 | moonshotaikimi-k2.7-code | 5.043 |
 | gpt-4.1-mini-2025-04-14 | 5.014 |
 | x-aigrok-4.7 | 4.986 |

@@ -171,6 +171,7 @@
 | Qwen-3.6-Max-Preview | 5.429 |
 | granite4.13b | 5.414 |
 | nvidiaLlama-3.1-Nemotron-70B-Instruct | 5.400 |
+| openaigpt-6.2-sol | 5.386 |
 | claude-opus-4-5-20251101 | 5.386 |
 | ChatGPT-5.1-Instant-20251113 | 5.371 |
 | openrouterowl-alpha | 5.357 |
@@ -220,6 +221,7 @@
 | claude-fable-5-high | 4.471 |
 | qwenqwen3.7-plus | 4.443 |
 | moonshotaikimi-k2.7-code | 4.429 |
+| openaigpt-6.2-astra | 4.429 |
 | gpt-4o-2024-05-13 | 4.386 |
 | Grok-4.5-Heavy-20260720 | 4.386 |
 | openaigpt-5.4-mini | 4.371 |

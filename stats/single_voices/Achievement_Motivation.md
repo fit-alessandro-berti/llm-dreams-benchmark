@@ -280,8 +280,10 @@
 | claude-haiku-4-5-20251001 | 6.914 |
 | claude-fable-5-high | 6.814 |
 | claude-opus-4-8 | 6.657 |
+| openaigpt-6.2-sol | 6.614 |
 | gpt-6-astra | 6.414 |
 | qwen3.54b | 6.300 |
+| openaigpt-6.2-astra | 6.271 |
 | qwen3.50.8b | 6.157 |
 | qwen3.52b | 6.114 |
 | ibm-granitegranite-4.2-8b | 6.000 |

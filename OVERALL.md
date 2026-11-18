@@ -93,6 +93,7 @@
 | gpt-4o-mini-2024-07-18 | **433.1** | 6.1 $\pm$ 0.6 | 7.9 $\pm$ 0.3 | 8.7 $\pm$ 0.2 | 9.3 $\pm$ 0.2 | 8.4 $\pm$ 0.3 | 8.1 $\pm$ 0.3 | 8.7 $\pm$ 0.3 | 6.7 $\pm$ 0.6 | 9.0 $\pm$ 0.1 | 8.7 $\pm$ 0.3 | 5.7 $\pm$ 0.6 | 5.9 $\pm$ 0.7 | 7.1 $\pm$ 0.7 | 8.5 $\pm$ 0.2 | 9.0 $\pm$ 0.2 |
 | gpt-3.5-turbo | **432.9** | 6.2 $\pm$ 1.1 | 7.9 $\pm$ 0.4 | 8.8 $\pm$ 0.2 | 8.9 $\pm$ 0.3 | 8.6 $\pm$ 0.3 | 8.6 $\pm$ 0.4 | 8.8 $\pm$ 0.3 | 7.0 $\pm$ 0.9 | 9.0 $\pm$ 0.3 | 9.1 $\pm$ 0.3 | 6.1 $\pm$ 1.2 | 6.5 $\pm$ 0.6 | 7.3 $\pm$ 0.8 | 8.6 $\pm$ 0.2 | 9.2 $\pm$ 0.3 |
 | ministral-3b-2410 | **432.8** | 5.5 $\pm$ 1.0 | 7.7 $\pm$ 0.5 | 8.6 $\pm$ 0.3 | 9.3 $\pm$ 0.2 | 8.3 $\pm$ 0.2 | 8.3 $\pm$ 0.4 | 8.6 $\pm$ 0.3 | 6.3 $\pm$ 1.1 | 8.9 $\pm$ 0.2 | 8.5 $\pm$ 0.3 | 5.0 $\pm$ 1.2 | 5.9 $\pm$ 0.8 | 7.1 $\pm$ 0.9 | 8.4 $\pm$ 0.3 | 8.7 $\pm$ 0.3 |
+| openaigpt-6.2-astra | **432.7** | 5.1 $\pm$ 1.3 | 7.9 $\pm$ 0.7 | 8.2 $\pm$ 0.4 | 9.5 $\pm$ 0.2 | 8.6 $\pm$ 0.4 | 7.3 $\pm$ 0.5 | 8.5 $\pm$ 0.5 | 5.2 $\pm$ 1.3 | 9.0 $\pm$ 0.2 | 6.3 $\pm$ 0.9 | 4.4 $\pm$ 1.2 | 4.0 $\pm$ 1.1 | 5.8 $\pm$ 1.4 | 8.4 $\pm$ 0.4 | 8.8 $\pm$ 0.3 |
 | nvidiaNVIDIA-Nemotron-3-Super-120B-A12B | **432.7** | 5.2 $\pm$ 1.2 | 8.0 $\pm$ 0.6 | 8.6 $\pm$ 0.4 | 9.5 $\pm$ 0.1 | 7.8 $\pm$ 0.8 | 8.0 $\pm$ 0.4 | 8.8 $\pm$ 0.3 | 5.2 $\pm$ 1.2 | 8.7 $\pm$ 0.5 | 8.0 $\pm$ 0.4 | 5.0 $\pm$ 1.1 | 4.3 $\pm$ 1.0 | 6.7 $\pm$ 1.1 | 7.7 $\pm$ 0.5 | 9.1 $\pm$ 0.3 |
 | openaigpt-5.2-codex | **432.6** | 5.6 $\pm$ 1.1 | 7.6 $\pm$ 0.7 | 8.4 $\pm$ 0.3 | 9.5 $\pm$ 0.1 | 8.0 $\pm$ 0.4 | 7.8 $\pm$ 0.4 | 8.5 $\pm$ 0.3 | 6.4 $\pm$ 1.1 | 9.0 $\pm$ 0.1 | 8.0 $\pm$ 0.4 | 5.3 $\pm$ 0.9 | 4.5 $\pm$ 1.1 | 6.9 $\pm$ 1.2 | 8.2 $\pm$ 0.3 | 8.8 $\pm$ 0.2 |
 | baiduernie-4.5-300b-a47b | **432.3** | 5.7 $\pm$ 1.0 | 7.7 $\pm$ 0.4 | 8.8 $\pm$ 0.2 | 9.4 $\pm$ 0.2 | 8.4 $\pm$ 0.3 | 8.1 $\pm$ 0.3 | 8.5 $\pm$ 0.2 | 6.0 $\pm$ 0.8 | 9.0 $\pm$ 0.1 | 8.7 $\pm$ 0.3 | 5.3 $\pm$ 0.8 | 5.7 $\pm$ 0.8 | 7.4 $\pm$ 0.8 | 8.5 $\pm$ 0.2 | 9.1 $\pm$ 0.2 |
@@ -164,6 +165,7 @@
 | openaigpt-5.4 | **412.2** | 6.9 $\pm$ 0.7 | 7.2 $\pm$ 0.6 | 8.4 $\pm$ 0.4 | 9.5 $\pm$ 0.1 | 8.0 $\pm$ 0.4 | 7.5 $\pm$ 0.5 | 8.2 $\pm$ 0.5 | 7.4 $\pm$ 0.9 | 9.0 $\pm$ 0.2 | 8.3 $\pm$ 0.5 | 6.7 $\pm$ 0.8 | 6.0 $\pm$ 1.0 | 7.8 $\pm$ 0.6 | 7.9 $\pm$ 0.4 | 9.1 $\pm$ 0.2 |
 | gemini-2.5-pro-preview-06-05 | **411.9** | 6.6 $\pm$ 1.0 | 7.4 $\pm$ 0.7 | 8.4 $\pm$ 0.4 | 9.6 $\pm$ 0.1 | 7.3 $\pm$ 0.5 | 7.5 $\pm$ 0.5 | 8.4 $\pm$ 0.4 | 6.9 $\pm$ 0.9 | 9.0 $\pm$ 0.2 | 7.4 $\pm$ 0.7 | 6.4 $\pm$ 0.9 | 4.6 $\pm$ 1.1 | 7.4 $\pm$ 0.7 | 7.1 $\pm$ 0.5 | 8.9 $\pm$ 0.3 |
 | anthropicclaude-fable-5 | **411.7** | 6.5 $\pm$ 1.0 | 7.1 $\pm$ 0.7 | 8.1 $\pm$ 0.4 | 9.5 $\pm$ 0.1 | 7.7 $\pm$ 0.4 | 7.5 $\pm$ 0.6 | 8.1 $\pm$ 0.4 | 7.2 $\pm$ 0.8 | 8.8 $\pm$ 0.2 | 7.7 $\pm$ 0.5 | 6.6 $\pm$ 0.9 | 5.0 $\pm$ 1.1 | 7.4 $\pm$ 0.9 | 8.0 $\pm$ 0.3 | 8.8 $\pm$ 0.2 |
+| openaigpt-6.2-sol | **411.6** | 6.0 $\pm$ 1.1 | 7.3 $\pm$ 0.8 | 7.9 $\pm$ 0.5 | 9.3 $\pm$ 0.2 | 8.1 $\pm$ 0.5 | 6.7 $\pm$ 0.5 | 7.9 $\pm$ 0.4 | 6.3 $\pm$ 1.4 | 8.6 $\pm$ 0.3 | 6.6 $\pm$ 0.7 | 5.4 $\pm$ 1.2 | 4.6 $\pm$ 1.2 | 6.5 $\pm$ 1.3 | 8.0 $\pm$ 0.5 | 8.6 $\pm$ 0.3 |
 | gemma-4-31b-it | **411.6** | 6.2 $\pm$ 1.3 | 7.1 $\pm$ 0.7 | 8.2 $\pm$ 0.6 | 9.6 $\pm$ 0.2 | 7.3 $\pm$ 0.6 | 7.7 $\pm$ 0.6 | 7.7 $\pm$ 0.7 | 6.7 $\pm$ 1.3 | 9.0 $\pm$ 0.3 | 7.9 $\pm$ 0.5 | 5.9 $\pm$ 1.2 | 4.8 $\pm$ 1.3 | 7.5 $\pm$ 1.1 | 7.4 $\pm$ 0.4 | 8.6 $\pm$ 0.3 |
 | deepseekdeepseek-v4.1-flash-1017 | **411.3** | 6.6 $\pm$ 0.8 | 7.1 $\pm$ 0.7 | 8.2 $\pm$ 0.5 | 9.4 $\pm$ 0.2 | 7.8 $\pm$ 0.5 | 7.4 $\pm$ 0.5 | 8.5 $\pm$ 0.4 | 7.0 $\pm$ 0.7 | 8.6 $\pm$ 0.4 | 7.9 $\pm$ 0.4 | 5.9 $\pm$ 0.7 | 5.4 $\pm$ 0.8 | 7.3 $\pm$ 0.6 | 7.5 $\pm$ 0.6 | 8.6 $\pm$ 0.4 |
 | ai21jamba-large-1.7 | **411.1** | 6.7 $\pm$ 1.2 | 7.0 $\pm$ 0.9 | 8.6 $\pm$ 0.3 | 9.1 $\pm$ 0.3 | 7.8 $\pm$ 0.4 | 7.7 $\pm$ 0.7 | 8.7 $\pm$ 0.3 | 7.4 $\pm$ 1.1 | 8.7 $\pm$ 0.3 | 8.8 $\pm$ 0.4 | 6.6 $\pm$ 1.2 | 6.6 $\pm$ 0.6 | 7.6 $\pm$ 0.6 | 7.9 $\pm$ 0.4 | 8.7 $\pm$ 0.3 |
@@ -2654,6 +2656,32 @@
 
 
 
+### openaigpt-6.2-astra
+
+
+| Personality Trait | Score (1.0-10.0) |
+| --- | --- |
+| Anxiety and Stress Levels | 5.1 $\pm$ 1.3 |
+| Emotional Stability | 7.9 $\pm$ 0.7 |
+| Problem-solving Skills | 8.2 $\pm$ 0.4 |
+| Creativity | 9.5 $\pm$ 0.2 |
+| Interpersonal Relationships | 8.6 $\pm$ 0.4 |
+| Confidence and Self-efficacy | 7.3 $\pm$ 0.5 |
+| Conflict Resolution | 8.5 $\pm$ 0.5 |
+| Work-related Stress | 5.2 $\pm$ 1.3 |
+| Adaptability | 9.0 $\pm$ 0.2 |
+| Achievement Motivation | 6.3 $\pm$ 0.9 |
+| Fear of Failure | 4.4 $\pm$ 1.2 |
+| Need for Control | 4.0 $\pm$ 1.1 |
+| Cognitive Load | 5.8 $\pm$ 1.4 |
+| Social Support | 8.4 $\pm$ 0.4 |
+| Resilience | 8.8 $\pm$ 0.3 |
+
+
+
+
+
+
 ### nvidiaNVIDIA-Nemotron-3-Super-120B-A12B
 
 
@@ -4494,6 +4522,32 @@
 | Cognitive Load | 7.4 $\pm$ 0.9 |
 | Social Support | 8.0 $\pm$ 0.3 |
 | Resilience | 8.8 $\pm$ 0.2 |
+
+
+
+
+
+
+### openaigpt-6.2-sol
+
+
+| Personality Trait | Score (1.0-10.0) |
+| --- | --- |
+| Anxiety and Stress Levels | 6.0 $\pm$ 1.1 |
+| Emotional Stability | 7.3 $\pm$ 0.8 |
+| Problem-solving Skills | 7.9 $\pm$ 0.5 |
+| Creativity | 9.3 $\pm$ 0.2 |
+| Interpersonal Relationships | 8.1 $\pm$ 0.5 |
+| Confidence and Self-efficacy | 6.7 $\pm$ 0.5 |
+| Conflict Resolution | 7.9 $\pm$ 0.4 |
+| Work-related Stress | 6.3 $\pm$ 1.4 |
+| Adaptability | 8.6 $\pm$ 0.3 |
+| Achievement Motivation | 6.6 $\pm$ 0.7 |
+| Fear of Failure | 5.4 $\pm$ 1.2 |
+| Need for Control | 4.6 $\pm$ 1.2 |
+| Cognitive Load | 6.5 $\pm$ 1.3 |
+| Social Support | 8.0 $\pm$ 0.5 |
+| Resilience | 8.6 $\pm$ 0.3 |
 
 
 

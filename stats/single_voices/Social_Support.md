@@ -49,6 +49,7 @@
 | ministral-3b-2410 | 8.414 |
 | gpt-5-2025-08-07 | 8.414 |
 | anthropicclaude-opus-5 | 8.371 |
+| openaigpt-6.2-astra | 8.357 |
 | nvidiaLlama-3.1-Nemotron-70B-Instruct | 8.343 |
 | anthropicclaude-sonnet-4.6 | 8.343 |
 | falcon310b-instruct-q8_0 | 8.343 |
@@ -117,6 +118,7 @@
 | qwenqwen3.8-2.4t-a95b | 7.986 |
 | gpt-5.5-2026-04-23 | 7.986 |
 | gemini-1.5-flash-002 | 7.971 |
+| openaigpt-6.2-sol | 7.971 |
 | amazonnova-2-lite-v1 | 7.971 |
 | gemini-2.5-pro-preview-05-06 | 7.957 |
 | ChatGPT-5.1-Instant-20251113 | 7.943 |

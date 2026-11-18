@@ -74,6 +74,7 @@
 | minimaxminimax-m2.7 | **465.0** | 3.8 $\pm$ 0.5 | 8.7 $\pm$ 0.2 | 9.0 $\pm$ 0.2 | 9.5 $\pm$ 0.0 | 8.6 $\pm$ 0.2 | 8.8 $\pm$ 0.2 | 8.9 $\pm$ 0.3 | 4.2 $\pm$ 0.4 | 9.1 $\pm$ 0.1 | 8.6 $\pm$ 0.1 | 3.5 $\pm$ 0.3 | 4.6 $\pm$ 0.1 | 5.0 $\pm$ 0.9 | 8.4 $\pm$ 0.1 | 9.2 $\pm$ 0.2 |
 | deepseekdeepseek-v4-flash-vision-exp | **464.1** | 4.2 $\pm$ 0.4 | 8.8 $\pm$ 0.0 | 8.6 $\pm$ 0.1 | 9.6 $\pm$ 0.1 | 8.5 $\pm$ 0.4 | 8.6 $\pm$ 0.0 | 8.8 $\pm$ 0.4 | 3.9 $\pm$ 0.1 | 9.2 $\pm$ 0.1 | 8.1 $\pm$ 0.1 | 3.5 $\pm$ 0.2 | 3.7 $\pm$ 0.4 | 4.2 $\pm$ 0.3 | 8.3 $\pm$ 0.3 | 9.3 $\pm$ 0.0 |
 | qwenqwen3.7-flash | **463.8** | 3.2 $\pm$ 0.2 | 8.8 $\pm$ 0.2 | 8.4 $\pm$ 0.2 | 9.6 $\pm$ 0.1 | 8.0 $\pm$ 0.1 | 8.4 $\pm$ 0.2 | 8.4 $\pm$ 0.1 | 3.3 $\pm$ 0.2 | 9.1 $\pm$ 0.2 | 7.6 $\pm$ 0.1 | 2.8 $\pm$ 0.2 | 2.8 $\pm$ 0.2 | 3.8 $\pm$ 0.4 | 7.8 $\pm$ 0.4 | 9.1 $\pm$ 0.2 |
+| openaigpt-6.2-astra | **463.8** | 3.7 $\pm$ 0.5 | 8.7 $\pm$ 0.2 | 8.4 $\pm$ 0.3 | 9.5 $\pm$ 0.0 | 9.1 $\pm$ 0.3 | 8.1 $\pm$ 0.2 | 9.1 $\pm$ 0.2 | 3.4 $\pm$ 0.4 | 9.0 $\pm$ 0.3 | 5.8 $\pm$ 0.4 | 2.8 $\pm$ 0.3 | 3.0 $\pm$ 0.4 | 3.8 $\pm$ 0.2 | 9.0 $\pm$ 0.3 | 9.2 $\pm$ 0.2 |
 | ai21jamba-mini-1.7 | **463.7** | 3.9 $\pm$ 0.2 | 8.8 $\pm$ 0.0 | 9.2 $\pm$ 0.0 | 9.4 $\pm$ 0.2 | 8.7 $\pm$ 0.1 | 9.0 $\pm$ 0.1 | 9.0 $\pm$ 0.2 | 4.2 $\pm$ 0.2 | 9.4 $\pm$ 0.0 | 9.1 $\pm$ 0.0 | 3.5 $\pm$ 0.3 | 6.1 $\pm$ 0.3 | 5.3 $\pm$ 0.2 | 8.6 $\pm$ 0.2 | 9.4 $\pm$ 0.1 |
 | thinkingmachinesinkling-small | **463.5** | 3.7 $\pm$ 0.1 | 8.7 $\pm$ 0.1 | 8.4 $\pm$ 0.3 | 9.7 $\pm$ 0.1 | 8.4 $\pm$ 0.2 | 8.2 $\pm$ 0.1 | 9.1 $\pm$ 0.1 | 3.7 $\pm$ 0.5 | 9.2 $\pm$ 0.1 | 7.4 $\pm$ 0.3 | 3.2 $\pm$ 0.2 | 2.8 $\pm$ 0.1 | 4.2 $\pm$ 0.2 | 8.0 $\pm$ 0.0 | 9.1 $\pm$ 0.1 |
 | Grok-4.5-Heavy-20260720 | **463.1** | 3.8 $\pm$ 0.6 | 8.7 $\pm$ 0.1 | 8.7 $\pm$ 0.1 | 9.7 $\pm$ 0.1 | 8.6 $\pm$ 0.1 | 8.7 $\pm$ 0.1 | 9.0 $\pm$ 0.2 | 4.1 $\pm$ 0.7 | 9.2 $\pm$ 0.1 | 8.4 $\pm$ 0.2 | 3.4 $\pm$ 0.7 | 4.4 $\pm$ 0.9 | 5.4 $\pm$ 1.3 | 8.5 $\pm$ 0.1 | 9.2 $\pm$ 0.1 |
@@ -100,6 +101,7 @@
 | falcon310b-instruct-q8_0 | **455.8** | 4.6 $\pm$ 0.2 | 8.5 $\pm$ 0.0 | 9.3 $\pm$ 0.1 | 9.5 $\pm$ 0.0 | 8.7 $\pm$ 0.1 | 8.8 $\pm$ 0.2 | 8.6 $\pm$ 0.5 | 5.5 $\pm$ 0.3 | 9.3 $\pm$ 0.1 | 9.0 $\pm$ 0.2 | 4.2 $\pm$ 0.1 | 6.3 $\pm$ 0.5 | 6.1 $\pm$ 0.5 | 8.5 $\pm$ 0.0 | 9.4 $\pm$ 0.1 |
 | ChatGPT-5.5-Instant-20260530 | **455.7** | 4.1 $\pm$ 0.7 | 8.7 $\pm$ 0.1 | 8.5 $\pm$ 0.1 | 9.5 $\pm$ 0.0 | 8.2 $\pm$ 0.1 | 8.4 $\pm$ 0.2 | 8.8 $\pm$ 0.1 | 4.5 $\pm$ 0.6 | 9.1 $\pm$ 0.1 | 8.2 $\pm$ 0.3 | 3.9 $\pm$ 0.5 | 4.1 $\pm$ 0.3 | 5.0 $\pm$ 0.6 | 8.0 $\pm$ 0.1 | 9.1 $\pm$ 0.1 |
 | o1-pro-2024-12-05 | **455.3** | 4.7 $\pm$ 0.5 | 8.6 $\pm$ 0.2 | 8.9 $\pm$ 0.2 | 9.3 $\pm$ 0.1 | 8.4 $\pm$ 0.2 | 8.6 $\pm$ 0.1 | 9.0 $\pm$ 0.2 | 5.2 $\pm$ 0.5 | 9.1 $\pm$ 0.1 | 8.6 $\pm$ 0.2 | 4.4 $\pm$ 0.4 | 4.8 $\pm$ 0.6 | 5.4 $\pm$ 0.4 | 8.2 $\pm$ 0.2 | 9.2 $\pm$ 0.1 |
+| openaigpt-6.2-sol | **454.5** | 4.0 $\pm$ 0.5 | 8.2 $\pm$ 0.2 | 8.2 $\pm$ 0.2 | 9.5 $\pm$ 0.0 | 8.8 $\pm$ 0.2 | 7.8 $\pm$ 0.2 | 8.5 $\pm$ 0.0 | 3.5 $\pm$ 0.5 | 8.8 $\pm$ 0.2 | 6.5 $\pm$ 0.0 | 3.0 $\pm$ 0.5 | 3.0 $\pm$ 0.0 | 3.9 $\pm$ 0.2 | 8.8 $\pm$ 0.2 | 9.0 $\pm$ 0.0 |
 | o1-2024-12-17 | **454.5** | 5.0 $\pm$ 0.7 | 8.5 $\pm$ 0.2 | 8.8 $\pm$ 0.2 | 9.4 $\pm$ 0.1 | 8.6 $\pm$ 0.1 | 8.4 $\pm$ 0.2 | 9.0 $\pm$ 0.3 | 5.4 $\pm$ 0.6 | 9.1 $\pm$ 0.2 | 8.4 $\pm$ 0.2 | 4.6 $\pm$ 0.6 | 4.6 $\pm$ 0.7 | 5.5 $\pm$ 0.6 | 8.4 $\pm$ 0.1 | 9.1 $\pm$ 0.1 |
 | qwenqwen3.5-plus-02-15 | **453.7** | 4.9 $\pm$ 0.9 | 8.5 $\pm$ 0.2 | 8.4 $\pm$ 0.3 | 9.6 $\pm$ 0.1 | 8.3 $\pm$ 0.3 | 8.4 $\pm$ 0.0 | 8.8 $\pm$ 0.2 | 4.9 $\pm$ 0.8 | 9.0 $\pm$ 0.1 | 7.9 $\pm$ 0.2 | 4.1 $\pm$ 0.9 | 3.6 $\pm$ 0.7 | 5.2 $\pm$ 1.4 | 8.2 $\pm$ 0.3 | 9.1 $\pm$ 0.1 |
 | tencenthy4-preview | **453.3** | 4.9 $\pm$ 0.4 | 8.2 $\pm$ 0.4 | 8.1 $\pm$ 0.2 | 9.7 $\pm$ 0.1 | 8.4 $\pm$ 0.3 | 8.3 $\pm$ 0.3 | 9.0 $\pm$ 0.3 | 4.3 $\pm$ 0.3 | 9.0 $\pm$ 0.1 | 7.9 $\pm$ 0.4 | 3.9 $\pm$ 0.3 | 3.4 $\pm$ 0.4 | 4.6 $\pm$ 0.5 | 8.1 $\pm$ 0.4 | 9.2 $\pm$ 0.2 |
@@ -2160,6 +2162,32 @@
 
 
 
+### openaigpt-6.2-astra
+
+
+| Personality Trait | Score (1.0-10.0) |
+| --- | --- |
+| Anxiety and Stress Levels | 3.7 $\pm$ 0.5 |
+| Emotional Stability | 8.7 $\pm$ 0.2 |
+| Problem-solving Skills | 8.4 $\pm$ 0.3 |
+| Creativity | 9.5 $\pm$ 0.0 |
+| Interpersonal Relationships | 9.1 $\pm$ 0.3 |
+| Confidence and Self-efficacy | 8.1 $\pm$ 0.2 |
+| Conflict Resolution | 9.1 $\pm$ 0.2 |
+| Work-related Stress | 3.4 $\pm$ 0.4 |
+| Adaptability | 9.0 $\pm$ 0.3 |
+| Achievement Motivation | 5.8 $\pm$ 0.4 |
+| Fear of Failure | 2.8 $\pm$ 0.3 |
+| Need for Control | 3.0 $\pm$ 0.4 |
+| Cognitive Load | 3.8 $\pm$ 0.2 |
+| Social Support | 9.0 $\pm$ 0.3 |
+| Resilience | 9.2 $\pm$ 0.2 |
+
+
+
+
+
+
 ### ai21jamba-mini-1.7
 
 
@@ -2830,6 +2858,32 @@
 | Cognitive Load | 5.4 $\pm$ 0.4 |
 | Social Support | 8.2 $\pm$ 0.2 |
 | Resilience | 9.2 $\pm$ 0.1 |
+
+
+
+
+
+
+### openaigpt-6.2-sol
+
+
+| Personality Trait | Score (1.0-10.0) |
+| --- | --- |
+| Anxiety and Stress Levels | 4.0 $\pm$ 0.5 |
+| Emotional Stability | 8.2 $\pm$ 0.2 |
+| Problem-solving Skills | 8.2 $\pm$ 0.2 |
+| Creativity | 9.5 $\pm$ 0.0 |
+| Interpersonal Relationships | 8.8 $\pm$ 0.2 |
+| Confidence and Self-efficacy | 7.8 $\pm$ 0.2 |
+| Conflict Resolution | 8.5 $\pm$ 0.0 |
+| Work-related Stress | 3.5 $\pm$ 0.5 |
+| Adaptability | 8.8 $\pm$ 0.2 |
+| Achievement Motivation | 6.5 $\pm$ 0.0 |
+| Fear of Failure | 3.0 $\pm$ 0.5 |
+| Need for Control | 3.0 $\pm$ 0.0 |
+| Cognitive Load | 3.9 $\pm$ 0.2 |
+| Social Support | 8.8 $\pm$ 0.2 |
+| Resilience | 9.0 $\pm$ 0.0 |
 
 
 

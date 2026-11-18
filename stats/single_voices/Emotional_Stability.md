@@ -92,6 +92,7 @@
 | thinkingmachinesinkling-small | 7.900 |
 | gpt-5.3-codex-spark-low | 7.886 |
 | ChatGPT-5.5-Instant-20260530 | 7.871 |
+| openaigpt-6.2-astra | 7.871 |
 | gpt-3.5-turbo | 7.871 |
 | tencenthy4-preview | 7.857 |
 | qwenqwen3.5-122b-a10b | 7.829 |
@@ -153,6 +154,7 @@
 | qwenqwen3-30b-a3b-instruct-2507 | 7.314 |
 | gemini-1.5-flash-002 | 7.300 |
 | stealthspace-bunny-alpha | 7.300 |
+| openaigpt-6.2-sol | 7.286 |
 | Qwen-3.6-27B | 7.286 |
 | openaigpt-5.4-nano | 7.271 |
 | googlegemini-3.1-flash-lite-preview | 7.271 |

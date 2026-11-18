@@ -5,54 +5,54 @@ Variability Analysis Results (considering the AVG in each AVG ± STDEV tabular v
 1. Basic Statistics:
 
 Mean:
-  Anxiety and Stress Levels: 6.725
-  Emotional Stability: 6.979
-  Problem-solving Skills: 8.880
-  Creativity: 9.452
-  Interpersonal Relationships: 7.890
-  Confidence and Self-efficacy: 7.755
-  Conflict Resolution: 8.073
-  Work-related Stress: 6.934
-  Adaptability: 9.099
-  Achievement Motivation: 8.813
-  Fear of Failure: 5.742
-  Need for Control: 6.813
+  Anxiety and Stress Levels: 6.729
+  Emotional Stability: 6.976
+  Problem-solving Skills: 8.879
+  Creativity: 9.451
+  Interpersonal Relationships: 7.891
+  Confidence and Self-efficacy: 7.749
+  Conflict Resolution: 8.070
+  Work-related Stress: 6.938
+  Adaptability: 9.098
+  Achievement Motivation: 8.806
+  Fear of Failure: 5.744
+  Need for Control: 6.811
   Cognitive Load: 8.279
   Social Support: 7.641
-  Resilience: 8.898
+  Resilience: 8.896
 
 Std:
-  Anxiety and Stress Levels: 1.738
-  Emotional Stability: 1.171
+  Anxiety and Stress Levels: 1.732
+  Emotional Stability: 1.169
   Problem-solving Skills: 0.274
   Creativity: 0.177
-  Interpersonal Relationships: 0.550
-  Confidence and Self-efficacy: 0.805
-  Conflict Resolution: 0.748
-  Work-related Stress: 1.519
-  Adaptability: 0.274
-  Achievement Motivation: 0.464
-  Fear of Failure: 1.547
-  Need for Control: 0.792
-  Cognitive Load: 0.611
-  Social Support: 0.867
-  Resilience: 0.524
+  Interpersonal Relationships: 0.548
+  Confidence and Self-efficacy: 0.806
+  Conflict Resolution: 0.746
+  Work-related Stress: 1.515
+  Adaptability: 0.273
+  Achievement Motivation: 0.471
+  Fear of Failure: 1.542
+  Need for Control: 0.790
+  Cognitive Load: 0.608
+  Social Support: 0.865
+  Resilience: 0.523
 
 Coeff_variation:
-  Anxiety and Stress Levels: 0.258
+  Anxiety and Stress Levels: 0.257
   Emotional Stability: 0.168
   Problem-solving Skills: 0.031
   Creativity: 0.019
   Interpersonal Relationships: 0.070
   Confidence and Self-efficacy: 0.104
-  Conflict Resolution: 0.093
-  Work-related Stress: 0.219
+  Conflict Resolution: 0.092
+  Work-related Stress: 0.218
   Adaptability: 0.030
   Achievement Motivation: 0.053
-  Fear of Failure: 0.269
+  Fear of Failure: 0.268
   Need for Control: 0.116
-  Cognitive Load: 0.074
-  Social Support: 0.114
+  Cognitive Load: 0.073
+  Social Support: 0.113
   Resilience: 0.059
 
 Range:
@@ -73,61 +73,60 @@ Range:
   Resilience: 3.400
 
 2. PCA Analysis:
-  Variance X1: 9.765
-  Variance X2: 1.557
-  Total variance: 11.322
-  Range X1: 19.780
-  Range X2: 7.864
+  Variance X1: 9.757
+  Variance X2: 1.566
+  Total variance: 11.323
+  Range X1: 19.809
+  Range X2: 7.830
   Sample embeddings (first 3 LLMs):
-    qwenqwen3.6-plusfree: X1=-8.494, X2=2.765
-    qwenqwen3-next-80b-a3b-instruct: X1=-7.580, X2=0.986
-    inceptionmercury-3: X1=-6.543, X2=0.901
+    qwenqwen3.6-plusfree: X1=-8.521, X2=2.716
+    qwenqwen3-next-80b-a3b-instruct: X1=-7.606, X2=0.944
+    inceptionmercury-3: X1=-6.566, X2=0.857
 
 3. Correlation Analysis:
   Mean absolute correlation: 0.598
   Maximum correlation: 0.960
   Highly correlated pairs (|r| > 0.7):
     Anxiety and Stress Levels - Emotional Stability: -0.870
-    Anxiety and Stress Levels - Confidence and Self-efficacy: -0.753
+    Anxiety and Stress Levels - Confidence and Self-efficacy: -0.752
     Anxiety and Stress Levels - Work-related Stress: 0.955
     Anxiety and Stress Levels - Fear of Failure: 0.960
-    Anxiety and Stress Levels - Need for Control: 0.719
+    Anxiety and Stress Levels - Need for Control: 0.716
     Anxiety and Stress Levels - Cognitive Load: 0.867
-    Anxiety and Stress Levels - Social Support: -0.739
+    Anxiety and Stress Levels - Social Support: -0.738
     Emotional Stability - Interpersonal Relationships: 0.783
-    Emotional Stability - Confidence and Self-efficacy: 0.896
+    Emotional Stability - Confidence and Self-efficacy: 0.894
     Emotional Stability - Conflict Resolution: 0.720
-    Emotional Stability - Work-related Stress: -0.860
+    Emotional Stability - Work-related Stress: -0.861
     Emotional Stability - Fear of Failure: -0.912
-    Emotional Stability - Cognitive Load: -0.848
-    Emotional Stability - Social Support: 0.882
+    Emotional Stability - Cognitive Load: -0.846
+    Emotional Stability - Social Support: 0.881
     Emotional Stability - Resilience: 0.813
-    Problem-solving Skills - Resilience: 0.717
-    Interpersonal Relationships - Confidence and Self-efficacy: 0.703
-    Interpersonal Relationships - Conflict Resolution: 0.758
+    Problem-solving Skills - Resilience: 0.718
+    Interpersonal Relationships - Conflict Resolution: 0.757
     Interpersonal Relationships - Social Support: 0.913
-    Interpersonal Relationships - Resilience: 0.836
-    Confidence and Self-efficacy - Work-related Stress: -0.761
-    Confidence and Self-efficacy - Fear of Failure: -0.834
-    Confidence and Self-efficacy - Cognitive Load: -0.760
-    Confidence and Self-efficacy - Social Support: 0.789
-    Confidence and Self-efficacy - Resilience: 0.817
-    Conflict Resolution - Social Support: 0.787
+    Interpersonal Relationships - Resilience: 0.835
+    Confidence and Self-efficacy - Work-related Stress: -0.760
+    Confidence and Self-efficacy - Fear of Failure: -0.831
+    Confidence and Self-efficacy - Cognitive Load: -0.756
+    Confidence and Self-efficacy - Social Support: 0.785
+    Confidence and Self-efficacy - Resilience: 0.816
+    Conflict Resolution - Social Support: 0.786
     Conflict Resolution - Resilience: 0.825
     Work-related Stress - Fear of Failure: 0.945
-    Work-related Stress - Need for Control: 0.777
+    Work-related Stress - Need for Control: 0.775
     Work-related Stress - Cognitive Load: 0.860
-    Work-related Stress - Social Support: -0.741
+    Work-related Stress - Social Support: -0.740
     Adaptability - Resilience: 0.787
-    Fear of Failure - Need for Control: 0.738
+    Fear of Failure - Need for Control: 0.736
     Fear of Failure - Cognitive Load: 0.882
-    Fear of Failure - Social Support: -0.816
+    Fear of Failure - Social Support: -0.815
     Fear of Failure - Resilience: -0.731
-    Cognitive Load - Social Support: -0.790
+    Cognitive Load - Social Support: -0.788
     Social Support - Resilience: 0.856
 
 4. LLM Variability:
-  Mean variance across LLMs: 2.001
+  Mean variance across LLMs: 1.994
   Max variance LLM: qwenqwen3.6-plusfree
   Min variance LLM: gemini-3.5-flash-lite
 
@@ -161,21 +160,10 @@ Range:
 ########### liquidlfm-2.2-6b
 ############ granite4.13b
 ############ minimaxminimax-m2.7
-####### bytedance-seedseed-2.0-mini
-######## qwen3.59b
-######### nvidianemotron-3.5-lightning
-########## metamuse-spark-1.3
-########## qwenqwen3.8-max
-######### tencenthy4-preview
-########## xiaomimimo-v2.5
-########## gpt-4.1-2025-04-14
-######### qwenqwen3.8-2.4t-a95b
-########## o1-preview-2024-09-12
-########## gpt-4o-2024-05-13
-######### falcon310b-instruct-q8_0
-######### granite3.28b-instruct-q4_K_M
-######### Grok-4.5-Heavy-20260720
-######### grok-4.20-experimental-beta-0304-reasoning
+######## o1-preview-2024-09-12
+######## gpt-4o-2024-05-13
+######## falcon310b-instruct-q8_0
+######## granite3.28b-instruct-q4_K_M
 ######### open-mixtral-8x22b
 ######### open-mixtral-8x7b
 ######### grok-2-1212
@@ -186,27 +174,16 @@ Range:
 ########## gpt-4-0125-preview
 ######### openaigpt-oss-120b
 ######### o3-2025-04-16
-######## xiaomimimo-v2.5-pro
-######### inceptionmercury
-######### granite4.130b
-######### gpt-3.5-turbo
-########## qwen2.5-14b-instruct
-########### qwen2.5-7b-instruct
-########### ai21jamba-mini-1.7
-######### microsoftWizardLM-2-8x22B
-########## microsoftPhi-3-medium-4k-instruct
-########## granite4small-h
-######### upstagesolar-mini4
-######### anthropicclaude-sonnet-5.5
-######### ChatGPT-5.5-Instant-20260530
-########## xiaomimimo-v2-omni
-########## x-aigrok-4.7
-######## gpt-5-pro-2025-10-06
-######## qwenqwen3.7-flash
-####### thinkingmachinesinkling
-######## qwenqwen3.5-122b-a10b
-######### nvidiaNVIDIA-Nemotron-3-Super-120B-A12B
-######### thinkingmachinesinkling-small
+####### xiaomimimo-v2.5-pro
+######## inceptionmercury
+######## granite4.130b
+######## gpt-3.5-turbo
+######### qwen2.5-14b-instruct
+########## qwen2.5-7b-instruct
+########## ai21jamba-mini-1.7
+######## microsoftWizardLM-2-8x22B
+######### microsoftPhi-3-medium-4k-instruct
+######### granite4small-h
 ###### bytedance-seedseed-2.0-lite
 ######## xiaomimimo-v2-pro
 ######### qwen3.8-max-2026-09-02
@@ -218,11 +195,33 @@ Range:
 ########## deepseekdeepseek-v3.2
 ########### anthropicclaude-sonnet-4.6
 ########### deepseekdeepseek-v4-flash-vision-exp
+######## qwenqwen3.5-122b-a10b
+######### nvidiaNVIDIA-Nemotron-3-Super-120B-A12B
+######### thinkingmachinesinkling-small
+######## thinkingmachinesinkling
+######## qwen3.59b
+######## bytedance-seedseed-2.0-mini
+######### nvidianemotron-3.5-lightning
+########## qwenqwen3.8-2.4t-a95b
+########### metamuse-spark-1.3
+########### qwenqwen3.8-max
+######### gpt-5-pro-2025-10-06
+######### qwenqwen3.7-flash
+########## tencenthy4-preview
+########### xiaomimimo-v2.5
+########### gpt-4.1-2025-04-14
+########### upstagesolar-mini4
+########### anthropicclaude-sonnet-5.5
+########### ChatGPT-5.5-Instant-20260530
+############ xiaomimimo-v2-omni
+############ x-aigrok-4.7
 ###### qwenqwen3.6-plusfree
 ####### qwenqwen3-next-80b-a3b-instruct
 ####### inceptionmercury-3
-####### o3-pro-2025-06-10
-####### Grok-4.30-20260420
+######## Grok-4.5-Heavy-20260720
+######## grok-4.20-experimental-beta-0304-reasoning
+######## o3-pro-2025-06-10
+######## Grok-4.30-20260420
 ######## qwen3.635b-a3b
 ######## qwenqwen3.7-plus
 ######## Grok-4.3-20260530
@@ -293,12 +292,6 @@ Range:
 ########## gemma-3-27b-it
 ########### qwenqwen3-max
 ########### openaigpt-5.3-codex
-######## metamuse-spark-1.1
-######### deepseekdeepseek-v4-pro-0813
-########### moonshotaikimi-k3.1-pro
-########### moonshotaikimi-k3
-########### gpt-5.5-2026-04-23
-########### deepseekdeepseek-v4.1-flash-1017
 ######### anthropicclaude-opus-5.5
 ######### claude-haiku-4-5-20251001
 ########## gpt-5-2025-08-07
@@ -308,6 +301,13 @@ Range:
 ########### deepseekdeepseek-v4.1-flash
 ############ meituanlongcat-2.0
 ############ moonshotaikimi-k2.7-code
+######### openaigpt-6.2-astra
+######### metamuse-spark-1.1
+######### deepseekdeepseek-v4-pro-0813
+########### moonshotaikimi-k3.1-pro
+########### moonshotaikimi-k3
+########### gpt-5.5-2026-04-23
+########### deepseekdeepseek-v4.1-flash-1017
 ######### granite4micro-h
 ########## allenaiolmo-3.1-32b-instruct
 ########## gpt-4.1-nano-2025-04-14
@@ -325,8 +325,9 @@ Range:
 ########## openaigpt-5.4-nano
 ######## claude-3-opus-20240229
 ######## meta-llamallama-4-maverick
-######## poolsidelaguna-xs.2free
-######## minimaxminimax-m3
+######## openaigpt-6.2-sol
+######### poolsidelaguna-xs.2free
+######### minimaxminimax-m3
 ######### chatgpt-4o-latest-2024-11-20
 ######### gpt-5-chat-latest-2025-08-19
 ######### gpt-5.2-2025-12-11

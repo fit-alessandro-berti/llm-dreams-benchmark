@@ -241,6 +241,7 @@
 | microsoftWizardLM-2-8x22B | 6.586 |
 | metamuse-spark-1.1 | 6.571 |
 | openaigpt-6-sol | 6.557 |
+| openaigpt-6.2-sol | 6.514 |
 | qwenqwen3-next-80b-a3b-instruct | 6.514 |
 | metamuse-spark-1.2 | 6.500 |
 | gpt-4o-2024-08-06 | 6.486 |
@@ -275,6 +276,7 @@
 | gpt-5-nano-2025-08-07 | 5.943 |
 | deepseekdeepseek-v4-flash-vision-exp | 5.929 |
 | o3-mini-20250131-HIGH | 5.886 |
+| openaigpt-6.2-astra | 5.843 |
 | anthropicclaude-sonnet-5.5 | 5.657 |
 | deepseekdeepseek-v4-flash-0731 | 5.629 |
 | inceptionmercury-3 | 5.629 |

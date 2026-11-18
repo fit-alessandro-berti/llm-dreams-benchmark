@@ -213,6 +213,7 @@
 | stepfunstep-5-preview | 7.257 |
 | gemini-2.0-pro-exp-02-05 | 7.257 |
 | Gpt-5.1-Pro-20251120 | 7.243 |
+| openaigpt-6.2-astra | 7.243 |
 | Gemini-1.5-Pro-Exp-0827 | 7.214 |
 | mistralaimistral-large-4-0 | 7.200 |
 | grok-4-0709 | 7.200 |
@@ -257,6 +258,7 @@
 | gpt-6-astra | 6.771 |
 | llama27b | 6.743 |
 | aion-labsaion-2.0 | 6.714 |
+| openaigpt-6.2-sol | 6.714 |
 | claude-fable-5-1-high | 6.700 |
 | poolsidelaguna-xs-2.1 | 6.629 |
 | meta-llamallama-4-scout | 6.629 |

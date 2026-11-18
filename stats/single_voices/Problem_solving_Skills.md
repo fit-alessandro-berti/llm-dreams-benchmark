@@ -172,6 +172,7 @@
 | gemini-3.5-flash | 8.243 |
 | qwenqwen3.5-plus-02-15 | 8.243 |
 | allenaiolmo-3-7b-instruct | 8.229 |
+| openaigpt-6.2-astra | 8.229 |
 | deepseekdeepseek-v4.1-flash-1017 | 8.229 |
 | gemma-4-31b-it | 8.229 |
 | meta-llamaLlama-3.2-3B-Instruct | 8.229 |
@@ -235,6 +236,7 @@
 | poolsidelaguna-xs.2free | 7.914 |
 | z-aiglm-5.3 | 7.900 |
 | inceptionmercury-2.5-preview | 7.900 |
+| openaigpt-6.2-sol | 7.886 |
 | tencenthy4-flash | 7.871 |
 | Liquid-LFM2.5-350M | 7.871 |
 | metamuse-spark-open | 7.871 |

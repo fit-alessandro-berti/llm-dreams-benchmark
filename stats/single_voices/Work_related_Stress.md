@@ -175,6 +175,7 @@
 | openaigpt-6-sol | 6.400 |
 | gpt-5-chat-latest-2025-08-19 | 6.386 |
 | qwenqwen3-30b-a3b-instruct-2507 | 6.357 |
+| openaigpt-6.2-sol | 6.343 |
 | allenaiolmo-3.1-32b-instruct | 6.314 |
 | granite4micro-h | 6.314 |
 | liquidlfm-2.5-24b-a2b | 6.314 |
@@ -240,6 +241,7 @@
 | granite4small-h | 5.214 |
 | liquidlfm-2.2-6b | 5.186 |
 | nvidiaNVIDIA-Nemotron-3-Super-120B-A12B | 5.186 |
+| openaigpt-6.2-astra | 5.171 |
 | qwenqwen3.5-122b-a10b | 5.171 |
 | gpt-4o-2024-05-13 | 5.171 |
 | qwen2.5-7b-instruct | 5.157 |

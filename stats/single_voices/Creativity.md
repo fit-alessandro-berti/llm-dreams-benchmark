@@ -142,6 +142,7 @@
 | GPT-5.6-Sol-Pro-20260825 | 9.457 |
 | liquidlfm-2.2-6b | 9.457 |
 | mistral-medium-3.5 | 9.457 |
+| openaigpt-6.2-astra | 9.457 |
 | poolsidelaguna-xs-2.1 | 9.457 |
 | xiaomimimo-v2.6-pro | 9.457 |
 | z-aiglm-5.3-flash | 9.457 |
@@ -231,6 +232,7 @@
 | meta-llamaMeta-Llama-3.1-405B-Instruct | 9.329 |
 | microsoftPhi-3-medium-4k-instruct | 9.329 |
 | liquidlfm-2.5-1.2b-thinkingfree | 9.314 |
+| openaigpt-6.2-sol | 9.314 |
 | mistral-small-2603 | 9.314 |
 | grok-2-1212 | 9.300 |
 | inceptionmercury | 9.300 |

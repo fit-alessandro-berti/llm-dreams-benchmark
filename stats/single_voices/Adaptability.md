@@ -103,6 +103,7 @@
 | tencenthy4-preview | 8.986 |
 | anthropicclaude-sonnet-5.5 | 8.986 |
 | granite4micro-h | 8.971 |
+| openaigpt-6.2-astra | 8.971 |
 | phi3.53.8b-mini-instruct-fp16 | 8.971 |
 | qwenqwen3-30b-a3b-instruct-2507 | 8.971 |
 | xiaomimimo-v2-omni | 8.971 |
@@ -222,6 +223,7 @@
 | grok-4.20-multi-agent-experimental-beta-0304 | 8.586 |
 | mistralaimistral-large-4-0 | 8.586 |
 | chatgpt-4o-latest-2024-11-20 | 8.571 |
+| openaigpt-6.2-sol | 8.571 |
 | tencenthy4-flash | 8.571 |
 | aion-labsaion-3.5 | 8.557 |
 | gemini-1.5-flash-8b | 8.557 |

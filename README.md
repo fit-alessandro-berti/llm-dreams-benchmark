@@ -78,7 +78,7 @@ The following table collect the average results over all the judges LLMs:
 * [OVERALL_RANK](OVERALL_RANK.md)
 
 The following tables collect results evaluated by the same judge LLM:
-* [gpt-6-astra](results_gpt6astra.md)
+* [gpt-6-astra](alt_results_gpt6astra.md)
 
 Alternative leaderboards (maintaned and updated less frequently):
 

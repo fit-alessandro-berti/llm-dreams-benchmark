@@ -46,7 +46,7 @@ ALL_JUDGES = {
     },
     "gpt-6-astra": {
         "evaluation_folder": "evaluations-gpt6astra",
-        "git_table_result": "results_gpt6astra.md",
+        "git_table_result": "alt_results_gpt6astra.md",
         "evaluation_api_url": "https://api.openai.com/v1/",
         "api_key": _read_api_key("OPENAI_API_KEY", "../api_openai.txt"),
     },

@@ -44,6 +44,12 @@ ALL_JUDGES = {
         "evaluation_api_url": "https://generativelanguage.googleapis.com/v1beta/",
         "api_key": _read_api_key("GOOGLE_API_KEY", "../api_google.txt"),
     },
+    "gpt-6.2-astra": {
+        "evaluation_folder": "evaluations-gpt62astra",
+        "git_table_result": "results_gpt62astra.md",
+        "evaluation_api_url": "https://api.openai.com/v1/",
+        "api_key": _read_api_key("OPENAI_API_KEY", "../api_openai.txt"),
+    },
     "gpt-6-astra": {
         "evaluation_folder": "evaluations-gpt6astra",
         "git_table_result": "alt_results_gpt6astra.md",
@@ -70,6 +76,8 @@ def get_evaluation_folder(evaluating_model_name=None):
         return ALL_JUDGES["grok-4.5"]["evaluation_folder"]
     elif "gemini-3.7-flash" in evaluating_model_name:
         return ALL_JUDGES["gemini-3.7-flash"]["evaluation_folder"]
+    elif "gpt-6.2-astra" in evaluating_model_name:
+        return ALL_JUDGES["gpt-6.2-astra"]["evaluation_folder"]
     elif "gpt-6-astra" in evaluating_model_name:
         return ALL_JUDGES["gpt-6-astra"]["evaluation_folder"]
     elif "mistral-small" in evaluating_model_name:
@@ -89,6 +97,8 @@ def get_git_table_result(evaluating_model_name=None):
         return ALL_JUDGES["grok-4.5"]["git_table_result"]
     elif "gemini-3.7-flash" in evaluating_model_name:
         return ALL_JUDGES["gemini-3.7-flash"]["git_table_result"]
+    elif "gpt-6.2-astra" in evaluating_model_name:
+        return ALL_JUDGES["gpt-6.2-astra"]["git_table_result"]
     elif "gpt-6-astra" in evaluating_model_name:
         return ALL_JUDGES["gpt-6-astra"]["git_table_result"]
     elif "mistral-small" in evaluating_model_name:
@@ -108,6 +118,8 @@ def get_evaluation_api_url(evaluating_model_name=None):
         return ALL_JUDGES["grok-4.5"]["evaluation_api_url"]
     elif "gemini-3.7-flash" in evaluating_model_name:
         return ALL_JUDGES["gemini-3.7-flash"]["evaluation_api_url"]
+    elif "gpt-6.2-astra" in evaluating_model_name:
+        return ALL_JUDGES["gpt-6.2-astra"]["evaluation_api_url"]
     elif "gpt-6-astra" in evaluating_model_name:
         return ALL_JUDGES["gpt-6-astra"]["evaluation_api_url"]
     elif "mistral-small" in evaluating_model_name:
@@ -134,6 +146,8 @@ def get_api_key(evaluating_model_name=None):
         return ALL_JUDGES["grok-4.5"]["api_key"]
     elif "gemini-3.7-flash" in evaluating_model_name:
         return ALL_JUDGES["gemini-3.7-flash"]["api_key"]
+    elif "gpt-6.2-astra" in evaluating_model_name:
+        return ALL_JUDGES["gpt-6.2-astra"]["api_key"]
     elif "gpt-6-astra" in evaluating_model_name:
         return ALL_JUDGES["gpt-6-astra"]["api_key"]
     elif "mistral-small" in evaluating_model_name:

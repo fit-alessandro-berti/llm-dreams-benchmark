@@ -22,6 +22,7 @@
 | prime-intellectintellect-3 | 7.871 |
 | anthropicclaude-sonnet-4.5 | 7.857 |
 | aion-labsaion-2.0 | 7.829 |
+| googlegemini-4-neon | 7.829 |
 | meta-llamallama-4-scout | 7.814 |
 | mistral-medium-2508 | 7.771 |
 | Gemini-1.5-Pro-Exp-0827 | 7.771 |

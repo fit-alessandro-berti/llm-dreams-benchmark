@@ -62,6 +62,7 @@
 | grok-4-1-fast-non-reasoning | 7.971 |
 | Gpt-5.1-Pro-20251120 | 7.971 |
 | anthropicclaude-opus-4.1 | 7.957 |
+| googlegemini-4-neon | 7.957 |
 | grok-4-0709 | 7.957 |
 | llama27b | 7.957 |
 | stealthox-alpha | 7.943 |

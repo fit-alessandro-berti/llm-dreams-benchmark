@@ -260,6 +260,7 @@
 | z-aiglm-5.3-flash | 8.314 |
 | quasar-438b | 8.271 |
 | qwenqwen4-max | 8.243 |
+| googlegemini-4-neon | 8.229 |
 | aion-labsaion-3.5-mini | 8.157 |
 | ministral-14b-2512 | 8.157 |
 | meta-llamaMeta-Llama-3.1-405B-Instruct | 8.129 |

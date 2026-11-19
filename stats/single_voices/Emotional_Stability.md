@@ -262,6 +262,7 @@
 | poolsidelaguna-xs-2.1 | 6.114 |
 | googlegemini-4-argon | 6.043 |
 | meta-llamaMeta-Llama-3.1-70B-Instruct | 6.043 |
+| googlegemini-4-neon | 6.029 |
 | ministral-8b-2512 | 6.000 |
 | meta-llamaMeta-Llama-3.1-405B-Instruct | 5.971 |
 | Grok-4.6-Heavy | 5.914 |

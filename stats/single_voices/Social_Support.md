@@ -222,6 +222,7 @@
 | chatgpt-4o-latest-2024-11-20 | 7.243 |
 | stealthox-alpha | 7.214 |
 | meta-llamallama-4-maverick | 7.214 |
+| googlegemini-4-neon | 7.200 |
 | gemini-3-flash-preview | 7.200 |
 | googlegemini-3.1-pro-preview | 7.200 |
 | allenaiolmo-3-7b-think | 7.186 |

@@ -269,6 +269,7 @@
 | gemini-3-pro-preview | 6.343 |
 | Grok-4.6-Heavy | 6.329 |
 | claude-opus-4-8 | 6.300 |
+| googlegemini-4-neon | 6.300 |
 | mistral-small-2603 | 6.300 |
 | qwen3.52b | 6.257 |
 | z-aiglm-5.3-flash | 6.243 |

@@ -60,6 +60,7 @@
 | open-mixtral-8x22b | 6.271 |
 | meta-llamaLlama-3.2-3B-Instruct | 6.257 |
 | falcon310b-instruct-q8_0 | 6.229 |
+| googlegemini-4-neon | 6.229 |
 | nvidiaLlama-3.1-Nemotron-70B-Instruct | 6.214 |
 | arcee-aitrinity-large-thinking | 6.200 |
 | amazonnova-2-lite-v1 | 6.171 |

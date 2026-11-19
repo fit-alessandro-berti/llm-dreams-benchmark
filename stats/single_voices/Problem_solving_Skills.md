@@ -255,6 +255,7 @@
 | quasar-438b | 7.886 |
 | qwenqwen3.5-122b-a10b | 7.886 |
 | ministral-14b-2512 | 7.871 |
+| googlegemini-4-neon | 7.857 |
 | qwenqwen3.8-27b | 7.857 |
 | anthropicclaude-opus-4.1 | 7.843 |
 | claude-haiku-4-5-20251001 | 7.843 |

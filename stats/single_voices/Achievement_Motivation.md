@@ -182,6 +182,7 @@
 | Grok-4.6-Heavy | 7.957 |
 | poolsidelaguna-xs-2.1 | 7.957 |
 | upstagesolar-mini4 | 7.957 |
+| googlegemini-4-neon | 7.957 |
 | z-aiglm-5.2 | 7.957 |
 | aion-labsaion-2.0 | 7.943 |
 | ChatGPT-5.1-Instant-20251113 | 7.943 |

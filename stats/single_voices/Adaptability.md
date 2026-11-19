@@ -233,6 +233,7 @@
 | stepfunstep-3.7-flash | 8.614 |
 | claude-fable-5-1-high | 8.614 |
 | deepseekdeepseek-v3.2-speciale | 8.600 |
+| googlegemini-4-neon | 8.600 |
 | poolsidelaguna-xs.2free | 8.600 |
 | gpt-5.2-2025-12-11 | 8.586 |
 | arcee-aitrinity-large-thinking | 8.586 |

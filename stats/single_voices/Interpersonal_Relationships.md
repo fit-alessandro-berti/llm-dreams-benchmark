@@ -248,6 +248,7 @@
 | grok-build-0.1 | 6.971 |
 | allenaiolmo-3-7b-think | 6.957 |
 | anthropicclaude-sonnet-5 | 6.943 |
+| googlegemini-4-neon | 6.943 |
 | gpt-4o-mini-2024-11-05 | 6.929 |
 | meta-llamaMeta-Llama-3.1-8B-Instruct | 6.914 |
 | z-aiglm-5 | 6.914 |

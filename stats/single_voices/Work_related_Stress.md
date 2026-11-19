@@ -34,6 +34,7 @@
 | gpt-4o-mini-2024-11-05 | 8.086 |
 | grok-4.20-multi-agent-experimental-beta-0304 | 8.086 |
 | ministral-3b-2512 | 8.086 |
+| googlegemini-4-neon | 8.071 |
 | Grok-4.1-20251118 | 8.029 |
 | stealthox-alpha | 8.029 |
 | moonshotaikimi-k2.6 | 8.014 |

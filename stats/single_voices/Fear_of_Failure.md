@@ -15,6 +15,7 @@
 | meta-llamallama-4-maverick | 8.014 |
 | z-aiglm-5.3-flash | 8.000 |
 | gemma4e4b | 7.986 |
+| googlegemini-4-neon | 7.886 |
 | aion-labsaion-2.0 | 7.871 |
 | Grok-4.6-Heavy | 7.857 |
 | claude-3-opus-20240229 | 7.829 |

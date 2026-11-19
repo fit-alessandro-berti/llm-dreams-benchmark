@@ -161,6 +161,7 @@
 | ChatGPT-5.5-Instant-20260530 | 9.443 |
 | Gemini-1.5-Pro-Exp-0827 | 9.443 |
 | googlegemini-4-carbon | 9.443 |
+| googlegemini-4-neon | 9.443 |
 | gpt-4-0125-preview | 9.443 |
 | gpt-4.5-preview | 9.443 |
 | gpt-4o-2024-05-13 | 9.443 |

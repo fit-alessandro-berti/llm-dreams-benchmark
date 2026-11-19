@@ -260,6 +260,7 @@
 | nousresearchhermes-4-70b | 6.557 |
 | googlegemini-4-hydrogen | 6.543 |
 | claude-3-opus-20240229 | 6.529 |
+| googlegemini-4-neon | 6.514 |
 | arcee-aitrinity-large-thinking | 6.500 |
 | ministral-3b-2512 | 6.486 |
 | aion-labsaion-3.5 | 6.471 |

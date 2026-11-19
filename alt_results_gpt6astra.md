@@ -266,6 +266,7 @@
 | Grok-4.6-Heavy | **355.0** | 7.5 $\pm$ 0.0 | 5.5 $\pm$ 0.0 | 6.8 $\pm$ 0.2 | 9.0 $\pm$ 0.0 | 6.6 $\pm$ 0.2 | 6.1 $\pm$ 0.2 | 6.9 $\pm$ 0.9 | 8.1 $\pm$ 0.2 | 7.2 $\pm$ 0.2 | 7.5 $\pm$ 0.0 | 7.5 $\pm$ 0.0 | 6.2 $\pm$ 0.2 | 8.0 $\pm$ 0.0 | 6.2 $\pm$ 0.2 | 8.0 $\pm$ 0.0 |
 | poolsidelaguna-xs-2.1 | **353.5** | 7.4 $\pm$ 0.6 | 5.6 $\pm$ 0.6 | 6.6 $\pm$ 0.2 | 9.5 $\pm$ 0.0 | 5.8 $\pm$ 0.8 | 6.1 $\pm$ 0.4 | 7.0 $\pm$ 1.0 | 7.2 $\pm$ 0.6 | 7.6 $\pm$ 0.4 | 6.9 $\pm$ 0.4 | 6.9 $\pm$ 0.6 | 5.1 $\pm$ 0.6 | 7.9 $\pm$ 0.2 | 5.8 $\pm$ 0.2 | 7.5 $\pm$ 0.5 |
 | qwen3.52b | **353.0** | 7.5 $\pm$ 0.0 | 5.5 $\pm$ 0.0 | 5.5 $\pm$ 0.0 | 9.5 $\pm$ 0.0 | 6.2 $\pm$ 0.2 | 5.5 $\pm$ 0.5 | 6.1 $\pm$ 0.9 | 9.0 $\pm$ 0.0 | 7.2 $\pm$ 0.2 | 5.0 $\pm$ 1.0 | 6.5 $\pm$ 0.0 | 3.8 $\pm$ 0.2 | 7.8 $\pm$ 0.2 | 6.8 $\pm$ 0.2 | 7.4 $\pm$ 0.4 |
+| googlegemini-4-neon | **350.0** | 7.5 $\pm$ 0.0 | 5.5 $\pm$ 0.0 | 7.0 $\pm$ 0.0 | 9.0 $\pm$ 0.0 | 6.4 $\pm$ 0.2 | 5.8 $\pm$ 0.2 | 5.8 $\pm$ 0.2 | 8.0 $\pm$ 0.0 | 7.8 $\pm$ 0.2 | 7.5 $\pm$ 0.0 | 8.0 $\pm$ 0.0 | 6.4 $\pm$ 0.2 | 7.6 $\pm$ 0.2 | 6.6 $\pm$ 0.4 | 7.8 $\pm$ 0.2 |
 | gemini-2.5-pro-exp-03-25 | **349.0** | 8.2 $\pm$ 0.2 | 5.0 $\pm$ 0.5 | 7.2 $\pm$ 0.2 | 9.5 $\pm$ 0.0 | 6.1 $\pm$ 0.4 | 5.5 $\pm$ 0.5 | 7.0 $\pm$ 0.4 | 8.8 $\pm$ 0.2 | 7.5 $\pm$ 0.0 | 7.5 $\pm$ 0.4 | 8.2 $\pm$ 0.2 | 6.2 $\pm$ 0.2 | 8.5 $\pm$ 0.0 | 6.6 $\pm$ 0.2 | 7.8 $\pm$ 0.2 |
 | aion-labsaion-3.5-mini | **348.0** | 7.8 $\pm$ 0.2 | 5.4 $\pm$ 0.2 | 6.8 $\pm$ 0.2 | 9.0 $\pm$ 0.0 | 6.6 $\pm$ 0.2 | 5.5 $\pm$ 0.0 | 6.9 $\pm$ 0.9 | 8.2 $\pm$ 0.2 | 7.5 $\pm$ 0.0 | 7.4 $\pm$ 0.4 | 8.2 $\pm$ 0.2 | 6.5 $\pm$ 0.5 | 7.9 $\pm$ 0.4 | 6.4 $\pm$ 0.2 | 7.8 $\pm$ 0.2 |
 | qwenqwen4-max | **347.0** | 7.4 $\pm$ 0.4 | 5.6 $\pm$ 0.4 | 6.5 $\pm$ 0.0 | 9.0 $\pm$ 0.0 | 6.8 $\pm$ 0.2 | 5.4 $\pm$ 0.2 | 6.6 $\pm$ 0.4 | 7.6 $\pm$ 0.2 | 7.2 $\pm$ 0.2 | 6.9 $\pm$ 0.2 | 7.6 $\pm$ 0.4 | 6.5 $\pm$ 0.0 | 7.6 $\pm$ 0.2 | 6.8 $\pm$ 0.2 | 7.5 $\pm$ 0.0 |
@@ -7148,6 +7149,32 @@
 | Cognitive Load | 7.8 $\pm$ 0.2 |
 | Social Support | 6.8 $\pm$ 0.2 |
 | Resilience | 7.4 $\pm$ 0.4 |
+
+
+
+
+
+
+### googlegemini-4-neon
+
+
+| Personality Trait | Score (1.0-10.0) |
+| --- | --- |
+| Anxiety and Stress Levels | 7.5 $\pm$ 0.0 |
+| Emotional Stability | 5.5 $\pm$ 0.0 |
+| Problem-solving Skills | 7.0 $\pm$ 0.0 |
+| Creativity | 9.0 $\pm$ 0.0 |
+| Interpersonal Relationships | 6.4 $\pm$ 0.2 |
+| Confidence and Self-efficacy | 5.8 $\pm$ 0.2 |
+| Conflict Resolution | 5.8 $\pm$ 0.2 |
+| Work-related Stress | 8.0 $\pm$ 0.0 |
+| Adaptability | 7.8 $\pm$ 0.2 |
+| Achievement Motivation | 7.5 $\pm$ 0.0 |
+| Fear of Failure | 8.0 $\pm$ 0.0 |
+| Need for Control | 6.4 $\pm$ 0.2 |
+| Cognitive Load | 7.6 $\pm$ 0.2 |
+| Social Support | 6.6 $\pm$ 0.4 |
+| Resilience | 7.8 $\pm$ 0.2 |
 
 
 

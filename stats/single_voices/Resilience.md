@@ -162,6 +162,7 @@
 | liquidlfm-2.5-1.2b-instructfree | 8.843 |
 | moonshotaikimi-k2.5 | 8.843 |
 | qwenqwen3.5-35b-a3b | 8.843 |
+| thinkingmachinesinkling-2-mini | 8.843 |
 | xiaomimimo-v2-omni | 8.843 |
 | gemini-3.5-flash-lite | 8.829 |
 | gemini-3.6-flash | 8.829 |

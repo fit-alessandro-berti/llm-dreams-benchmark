@@ -155,6 +155,7 @@
 | poolsidelaguna-xs.2free | 5.786 |
 | metamuse-spark-1.1 | 5.757 |
 | qwenqwen3.8-flash | 5.743 |
+| thinkingmachinesinkling-2-mini | 5.700 |
 | gpt-4o-mini-2024-07-18 | 5.700 |
 | deepseekdeepseek-v4-pro-0813 | 5.643 |
 | gpt-5.5-2026-04-23 | 5.643 |

@@ -175,6 +175,7 @@
 | metamuse-spark-open | 7.214 |
 | grok-4.20-experimental-beta-0304-reasoning | 7.214 |
 | bytedance-seedseed-2.0-lite | 7.200 |
+| thinkingmachinesinkling-2-mini | 7.200 |
 | gpt-5-chat-latest-2025-08-19 | 7.186 |
 | o1-2024-12-17 | 7.171 |
 | deepseekdeepseek-v4-pro-0813 | 7.157 |

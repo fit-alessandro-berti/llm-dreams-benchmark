@@ -259,6 +259,7 @@
 | claude-opus-4-5-20251101 | 7.471 |
 | deepseekdeepseek-v4-pro | 7.457 |
 | qwenqwen3.7-flash | 7.457 |
+| thinkingmachinesinkling-2-mini | 7.457 |
 | metamuse-glimmer-30b | 7.443 |
 | anthropicclaude-sonnet-5 | 7.429 |
 | openaigpt-6-sol | 7.414 |

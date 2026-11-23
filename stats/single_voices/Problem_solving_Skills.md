@@ -239,6 +239,7 @@
 | inceptionmercury-2.5-preview | 8.014 |
 | z-aiglm-5.3 | 8.000 |
 | poolsidelaguna-xs.2free | 8.000 |
+| thinkingmachinesinkling-2-mini | 7.986 |
 | openaigpt-6-luna | 7.986 |
 | Liquid-LFM2.5-350M | 7.971 |
 | qwenqwen3-next-80b-a3b-instruct | 7.957 |

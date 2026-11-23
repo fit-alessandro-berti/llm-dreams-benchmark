@@ -179,6 +179,7 @@
 | grok-4-fast-reasoning | **400.3** | 6.9 $\pm$ 0.3 | 6.6 $\pm$ 0.2 | 8.2 $\pm$ 0.3 | 9.5 $\pm$ 0.0 | 7.2 $\pm$ 0.8 | 7.5 $\pm$ 0.0 | 7.1 $\pm$ 0.9 | 8.2 $\pm$ 0.2 | 8.8 $\pm$ 0.2 | 8.3 $\pm$ 0.2 | 7.1 $\pm$ 0.2 | 5.6 $\pm$ 0.4 | 7.8 $\pm$ 0.2 | 7.4 $\pm$ 0.6 | 8.7 $\pm$ 0.3 |
 | gemini-3-flash-preview | **399.5** | 6.8 $\pm$ 0.2 | 6.8 $\pm$ 0.2 | 7.6 $\pm$ 0.2 | 9.5 $\pm$ 0.0 | 7.2 $\pm$ 0.2 | 7.6 $\pm$ 0.2 | 7.9 $\pm$ 0.4 | 7.5 $\pm$ 0.5 | 8.8 $\pm$ 0.2 | 7.1 $\pm$ 0.2 | 6.5 $\pm$ 0.5 | 5.2 $\pm$ 0.6 | 7.6 $\pm$ 0.4 | 7.2 $\pm$ 0.2 | 8.8 $\pm$ 0.2 |
 | z-aiglm-5.2 | **399.0** | 6.5 $\pm$ 0.0 | 6.8 $\pm$ 0.2 | 7.6 $\pm$ 0.2 | 9.5 $\pm$ 0.0 | 7.0 $\pm$ 0.0 | 7.2 $\pm$ 0.2 | 7.8 $\pm$ 0.2 | 7.5 $\pm$ 0.4 | 8.5 $\pm$ 0.0 | 7.6 $\pm$ 0.4 | 6.2 $\pm$ 0.2 | 5.1 $\pm$ 0.2 | 7.8 $\pm$ 0.2 | 7.1 $\pm$ 0.2 | 8.8 $\pm$ 0.2 |
+| thinkingmachinesinkling-2-mini | **399.0** | 5.9 $\pm$ 0.2 | 7.0 $\pm$ 0.0 | 6.9 $\pm$ 0.2 | 9.2 $\pm$ 0.2 | 7.5 $\pm$ 0.0 | 6.6 $\pm$ 0.2 | 8.0 $\pm$ 0.0 | 6.4 $\pm$ 0.2 | 8.2 $\pm$ 0.2 | 7.0 $\pm$ 0.0 | 5.6 $\pm$ 0.2 | 4.0 $\pm$ 0.0 | 6.9 $\pm$ 0.2 | 6.9 $\pm$ 0.2 | 8.4 $\pm$ 0.2 |
 | Qwen-3.6-27B | **398.5** | 6.6 $\pm$ 0.2 | 6.9 $\pm$ 0.2 | 7.8 $\pm$ 0.2 | 9.5 $\pm$ 0.0 | 6.9 $\pm$ 0.4 | 7.2 $\pm$ 0.2 | 6.8 $\pm$ 1.2 | 7.8 $\pm$ 0.8 | 8.4 $\pm$ 0.2 | 7.8 $\pm$ 0.2 | 6.4 $\pm$ 0.4 | 4.6 $\pm$ 0.2 | 7.6 $\pm$ 0.2 | 7.2 $\pm$ 0.2 | 8.8 $\pm$ 0.2 |
 | Gpt-5.1-Pro-20251120 | **398.0** | 6.6 $\pm$ 0.4 | 7.0 $\pm$ 0.5 | 8.2 $\pm$ 0.2 | 9.5 $\pm$ 0.0 | 7.8 $\pm$ 0.2 | 7.0 $\pm$ 0.5 | 7.8 $\pm$ 0.2 | 6.5 $\pm$ 0.5 | 8.8 $\pm$ 0.2 | 7.2 $\pm$ 0.2 | 6.6 $\pm$ 0.4 | 5.9 $\pm$ 0.4 | 7.6 $\pm$ 0.4 | 7.8 $\pm$ 0.2 | 8.8 $\pm$ 0.2 |
 | deepseekdeepseek-v4.1-flash-1017 | **398.0** | 6.6 $\pm$ 0.2 | 6.8 $\pm$ 0.2 | 7.6 $\pm$ 0.4 | 9.2 $\pm$ 0.2 | 7.8 $\pm$ 0.2 | 7.1 $\pm$ 0.4 | 8.2 $\pm$ 0.2 | 7.1 $\pm$ 0.2 | 8.2 $\pm$ 0.2 | 7.6 $\pm$ 0.2 | 6.4 $\pm$ 0.4 | 5.2 $\pm$ 0.2 | 7.2 $\pm$ 0.2 | 7.0 $\pm$ 0.0 | 8.2 $\pm$ 0.2 |
@@ -4887,6 +4888,32 @@
 | Cognitive Load | 7.8 $\pm$ 0.2 |
 | Social Support | 7.1 $\pm$ 0.2 |
 | Resilience | 8.8 $\pm$ 0.2 |
+
+
+
+
+
+
+### thinkingmachinesinkling-2-mini
+
+
+| Personality Trait | Score (1.0-10.0) |
+| --- | --- |
+| Anxiety and Stress Levels | 5.9 $\pm$ 0.2 |
+| Emotional Stability | 7.0 $\pm$ 0.0 |
+| Problem-solving Skills | 6.9 $\pm$ 0.2 |
+| Creativity | 9.2 $\pm$ 0.2 |
+| Interpersonal Relationships | 7.5 $\pm$ 0.0 |
+| Confidence and Self-efficacy | 6.6 $\pm$ 0.2 |
+| Conflict Resolution | 8.0 $\pm$ 0.0 |
+| Work-related Stress | 6.4 $\pm$ 0.2 |
+| Adaptability | 8.2 $\pm$ 0.2 |
+| Achievement Motivation | 7.0 $\pm$ 0.0 |
+| Fear of Failure | 5.6 $\pm$ 0.2 |
+| Need for Control | 4.0 $\pm$ 0.0 |
+| Cognitive Load | 6.9 $\pm$ 0.2 |
+| Social Support | 6.9 $\pm$ 0.2 |
+| Resilience | 8.4 $\pm$ 0.2 |
 
 
 

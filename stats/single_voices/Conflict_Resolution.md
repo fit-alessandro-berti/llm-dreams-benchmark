@@ -114,6 +114,7 @@
 | arcee-aitrinity-large-previewfree | 8.529 |
 | openaigpt-6.2-astra | 8.529 |
 | stealthspace-bunny-alpha | 8.529 |
+| thinkingmachinesinkling-2-mini | 8.514 |
 | bytedance-seedseed-2.0-mini | 8.514 |
 | phi4-reasoning | 8.514 |
 | deepseekdeepseek-v4-flash-vision-exp | 8.500 |

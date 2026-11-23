@@ -140,6 +140,7 @@
 | gpt-4.1-mini-2025-04-14 | 9.471 |
 | mistral-medium-3.5 | 9.471 |
 | tencenthy4-flash | 9.471 |
+| thinkingmachinesinkling-2-mini | 9.471 |
 | gemini-1.5-flash-8b | 9.471 |
 | gpt-5.5-2026-04-23 | 9.471 |
 | openaigpt-5.6-terra | 9.471 |

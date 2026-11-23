@@ -238,6 +238,7 @@
 | openaigpt-6-luna | 4.471 |
 | qwenqwen3.5-397b-a17b | 4.443 |
 | claude-fable-5-high | 4.443 |
+| thinkingmachinesinkling-2-mini | 4.429 |
 | metamuse-spark-1.2 | 4.429 |
 | gpt-5-nano-2025-08-07 | 4.414 |
 | openaigpt-6.2-sol | 4.400 |

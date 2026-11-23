@@ -178,6 +178,7 @@
 | gemini-2.0-pro-exp-02-05 | 7.600 |
 | openaigpt-5.6-luna | 7.600 |
 | x-aigrok-4.5 | 7.600 |
+| thinkingmachinesinkling-2-mini | 7.586 |
 | gemini-2.0-flash-exp | 7.586 |
 | grok-4-fast-reasoning | 7.571 |
 | thinkingmachinesinkling-small | 7.571 |

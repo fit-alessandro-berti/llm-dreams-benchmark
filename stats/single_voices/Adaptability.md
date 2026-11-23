@@ -178,6 +178,7 @@
 | qwenqwen3-max | 8.829 |
 | stealthspace-bunny-alpha | 8.829 |
 | googlegemini-4-argon | 8.814 |
+| thinkingmachinesinkling-2-mini | 8.814 |
 | z-aiglm-5.3 | 8.814 |
 | liquidlfm-2.5-1.2b-instructfree | 8.800 |
 | nvidiaNVIDIA-Nemotron-3-Super-120B-A12B | 8.800 |

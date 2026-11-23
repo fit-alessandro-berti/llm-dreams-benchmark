@@ -132,6 +132,7 @@
 | meta-llamaMeta-Llama-3.1-405B-Instruct | 7.943 |
 | deepseekdeepseek-v4.1-flash-1017 | 7.929 |
 | falcon33b-instruct-q8_0 | 7.929 |
+| thinkingmachinesinkling-2-mini | 7.914 |
 | deepseekdeepseek-v4-flash-0731 | 7.914 |
 | liquidlfm-2.5-1.2b-thinkingfree | 7.914 |
 | qwenqwen3.5-plus-02-15 | 7.914 |

@@ -143,6 +143,7 @@
 | gpt-4-1106-preview | 6.400 |
 | gpt-5.3-codex-spark-low | 6.400 |
 | anthropicclaude-opus-5 | 6.371 |
+| thinkingmachinesinkling-2-mini | 6.357 |
 | metamuse-spark-1.1 | 6.286 |
 | x-aigrok-4.5 | 6.286 |
 | bytedance-seedseed-2.0-lite | 6.271 |

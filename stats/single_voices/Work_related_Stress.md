@@ -185,6 +185,7 @@
 | meituanlongcat-2.0 | 6.286 |
 | bytedance-seedseed-2.0-mini | 6.271 |
 | ministral-3b-2410 | 6.257 |
+| thinkingmachinesinkling-2-mini | 6.257 |
 | moonshotaikimi-k2.7-code | 6.229 |
 | anthropicclaude-opus-5.5 | 6.229 |
 | Grok-4.30-20260420 | 6.229 |

@@ -213,6 +213,7 @@
 | gemini-2.5-pro-preview-05-06 | 7.343 |
 | grok-4.20-experimental-beta-0304-non-reasoning | 7.343 |
 | gemini-2.0-pro-exp-02-05 | 7.257 |
+| thinkingmachinesinkling-2-mini | 7.257 |
 | GPT-5.6-Sol-Pro-20260825 | 7.229 |
 | grok-4-0709 | 7.214 |
 | Gemini-1.5-Pro-Exp-0827 | 7.200 |

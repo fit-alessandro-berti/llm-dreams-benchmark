@@ -140,6 +140,7 @@
 | GPT-5.5-Pro-20260422 | 7.514 |
 | qwenqwen3.8-flash | 7.500 |
 | googlegemini-3.8-flash | 7.486 |
+| thinkingmachinesinkling-2-mini | 7.471 |
 | gemini-2.5-pro-preview-06-05 | 7.457 |
 | openaigpt-6.2-sol | 7.457 |
 | allenaiolmo-3-7b-instruct | 7.457 |

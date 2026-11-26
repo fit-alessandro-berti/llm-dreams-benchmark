@@ -225,6 +225,7 @@
 | stepfunstep-5-preview | 8.143 |
 | thinkingmachinesinkling-small | 8.129 |
 | metamuse-spark-open | 8.114 |
+| upstagesolar-mini-4-5 | 8.114 |
 | anthropicclaude-fable-5.2 | 8.100 |
 | ibmgranite41b-h | 8.100 |
 | grok-4.20-multi-agent-experimental-beta-0304 | 8.086 |

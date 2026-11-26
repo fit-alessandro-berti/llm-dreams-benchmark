@@ -231,6 +231,7 @@
 | openaigpt-6-luna | 7.743 |
 | anthropicclaude-sonnet-5.5 | 7.743 |
 | gemini-3.5-flash | 7.743 |
+| upstagesolar-mini-4-5 | 7.743 |
 | moonshotaikimi-k3.1-pro | 7.729 |
 | openaigpt-6.1-terra | 7.729 |
 | stealthox-alpha | 7.729 |

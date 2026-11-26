@@ -119,6 +119,7 @@
 | mistralaimistral-large-4-0 | 7.629 |
 | gemini-3.6-flash | 7.614 |
 | tencenthy4-flash | 7.614 |
+| upstagesolar-mini-4-5 | 7.614 |
 | liquidlfm-2-24b-a2b | 7.600 |
 | granite3.28b-instruct-q4_K_M | 7.586 |
 | poolsidelaguna-xs.2free | 7.586 |

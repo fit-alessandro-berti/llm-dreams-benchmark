@@ -120,6 +120,7 @@
 | claude-3-7-sonnet-20250219 | 6.257 |
 | anthropicclaude-sonnet-5 | 6.257 |
 | gpt-6-astra | 6.257 |
+| upstagesolar-mini-4-5 | 6.243 |
 | gemini-1.5-flash-002 | 6.186 |
 | chatgpt-4o-latest-2025-03-26 | 6.157 |
 | openaigpt-6.1-sol | 6.129 |

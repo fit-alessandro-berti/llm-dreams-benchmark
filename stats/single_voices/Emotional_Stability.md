@@ -218,6 +218,7 @@
 | stepfunstep-3.7-flash | 6.886 |
 | granite4tiny-h | 6.871 |
 | gemini-3.5-flash-lite | 6.857 |
+| upstagesolar-mini-4-5 | 6.843 |
 | grok-4-1-fast-reasoning | 6.843 |
 | openaigpt-5.6-luna | 6.843 |
 | claude-fable-5-1-high | 6.829 |

@@ -205,6 +205,7 @@
 | grok-4.20-multi-agent-experimental-beta-0304 | 7.957 |
 | qwenqwen3.5-27b | 7.957 |
 | tencenthy3-previewfree | 7.929 |
+| upstagesolar-mini-4-5 | 7.900 |
 | Grok-3-beta-thinking-20250303 | 7.857 |
 | chatgpt-4o-latest-2024-11-20 | 7.829 |
 | xiaomimimo-v2.6-flash | 7.829 |

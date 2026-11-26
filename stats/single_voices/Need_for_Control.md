@@ -177,6 +177,7 @@
 | minimaxminimax-m2.7 | 5.143 |
 | gpt-4.1-mini-2025-04-14 | 5.114 |
 | googlegemini-3.1-flash-lite-preview | 5.100 |
+| upstagesolar-mini-4-5 | 5.100 |
 | o1-pro-2024-12-05 | 5.086 |
 | liquidlfm-2.5-24b-a2b | 5.071 |
 | openaigpt-6.1-sol | 5.071 |

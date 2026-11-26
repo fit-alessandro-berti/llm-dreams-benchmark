@@ -107,6 +107,7 @@
 | allenaiolmo-3-7b-think | 7.343 |
 | ministral-8b-2512 | 7.314 |
 | nousresearchhermes-4-405b | 7.314 |
+| upstagesolar-mini-4-5 | 7.286 |
 | anthropicclaude-opus-4.1 | 7.271 |
 | qwenqwen3-max | 7.271 |
 | qwenqwen3.5-35b-a3b | 7.271 |

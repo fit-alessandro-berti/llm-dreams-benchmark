@@ -190,6 +190,7 @@
 | moonshotaikimi-k3 | **401.0** | 8.0 $\pm$ 0.5 | 6.1 $\pm$ 0.2 | 8.8 $\pm$ 0.2 | 9.5 $\pm$ 0.0 | 8.0 $\pm$ 0.0 | 7.2 $\pm$ 0.2 | 8.5 $\pm$ 0.0 | 7.0 $\pm$ 0.4 | 9.0 $\pm$ 0.0 | 8.4 $\pm$ 0.2 | 6.5 $\pm$ 1.1 | 6.1 $\pm$ 0.4 | 8.6 $\pm$ 0.4 | 8.0 $\pm$ 0.4 | 9.0 $\pm$ 0.0 |
 | Grok-4.1-20251118 | **401.0** | 8.2 $\pm$ 0.4 | 6.0 $\pm$ 0.0 | 9.0 $\pm$ 0.0 | 9.5 $\pm$ 0.0 | 8.0 $\pm$ 0.4 | 7.5 $\pm$ 0.4 | 8.4 $\pm$ 0.2 | 8.6 $\pm$ 0.4 | 9.1 $\pm$ 0.2 | 9.4 $\pm$ 0.2 | 6.9 $\pm$ 0.2 | 7.5 $\pm$ 0.4 | 8.9 $\pm$ 0.2 | 7.2 $\pm$ 0.2 | 9.0 $\pm$ 0.4 |
 | phi4-reasoning | **400.5** | 7.2 $\pm$ 0.4 | 6.6 $\pm$ 0.5 | 8.5 $\pm$ 0.0 | 9.0 $\pm$ 0.0 | 7.2 $\pm$ 0.4 | 7.6 $\pm$ 0.4 | 7.6 $\pm$ 0.2 | 7.8 $\pm$ 0.4 | 9.1 $\pm$ 0.2 | 8.9 $\pm$ 0.4 | 5.9 $\pm$ 0.5 | 6.8 $\pm$ 0.4 | 8.2 $\pm$ 0.4 | 6.9 $\pm$ 0.5 | 9.0 $\pm$ 0.4 |
+| upstagesolar-mini-4-5 | **400.0** | 7.5 $\pm$ 0.0 | 6.2 $\pm$ 0.2 | 8.8 $\pm$ 0.2 | 9.2 $\pm$ 0.2 | 7.5 $\pm$ 0.5 | 7.2 $\pm$ 0.2 | 8.2 $\pm$ 0.2 | 8.1 $\pm$ 0.2 | 9.0 $\pm$ 0.0 | 8.4 $\pm$ 0.2 | 6.2 $\pm$ 0.2 | 6.8 $\pm$ 0.8 | 8.4 $\pm$ 0.4 | 7.4 $\pm$ 0.7 | 8.8 $\pm$ 0.2 |
 | gemini-2.0-pro-exp-02-05 | **400.0** | 8.2 $\pm$ 0.4 | 6.2 $\pm$ 0.2 | 9.0 $\pm$ 0.0 | 9.5 $\pm$ 0.0 | 8.0 $\pm$ 0.0 | 7.4 $\pm$ 0.2 | 7.1 $\pm$ 0.2 | 8.4 $\pm$ 0.2 | 9.2 $\pm$ 0.2 | 9.0 $\pm$ 0.4 | 7.1 $\pm$ 0.2 | 6.8 $\pm$ 0.8 | 8.4 $\pm$ 0.4 | 7.5 $\pm$ 0.4 | 9.1 $\pm$ 0.2 |
 | openaigpt-6.1-terra | **399.5** | 7.8 $\pm$ 0.4 | 6.1 $\pm$ 0.2 | 8.9 $\pm$ 0.2 | 9.5 $\pm$ 0.0 | 7.9 $\pm$ 0.6 | 7.1 $\pm$ 0.5 | 8.1 $\pm$ 0.2 | 7.8 $\pm$ 0.8 | 9.0 $\pm$ 0.0 | 8.4 $\pm$ 0.4 | 6.5 $\pm$ 0.6 | 6.8 $\pm$ 0.8 | 8.4 $\pm$ 0.4 | 7.8 $\pm$ 0.6 | 8.8 $\pm$ 0.2 |
 | grok-4-fast-reasoning | **399.5** | 7.5 $\pm$ 0.0 | 6.5 $\pm$ 0.0 | 8.6 $\pm$ 0.2 | 9.1 $\pm$ 0.2 | 7.8 $\pm$ 0.4 | 7.2 $\pm$ 0.4 | 7.8 $\pm$ 0.4 | 8.0 $\pm$ 0.0 | 9.0 $\pm$ 0.0 | 8.8 $\pm$ 0.4 | 6.0 $\pm$ 0.0 | 7.1 $\pm$ 0.2 | 8.5 $\pm$ 0.0 | 7.8 $\pm$ 0.2 | 8.5 $\pm$ 0.4 |
@@ -5174,6 +5175,32 @@
 | Cognitive Load | 8.2 $\pm$ 0.4 |
 | Social Support | 6.9 $\pm$ 0.5 |
 | Resilience | 9.0 $\pm$ 0.4 |
+
+
+
+
+
+
+### upstagesolar-mini-4-5
+
+
+| Personality Trait | Score (1.0-10.0) |
+| --- | --- |
+| Anxiety and Stress Levels | 7.5 $\pm$ 0.0 |
+| Emotional Stability | 6.2 $\pm$ 0.2 |
+| Problem-solving Skills | 8.8 $\pm$ 0.2 |
+| Creativity | 9.2 $\pm$ 0.2 |
+| Interpersonal Relationships | 7.5 $\pm$ 0.5 |
+| Confidence and Self-efficacy | 7.2 $\pm$ 0.2 |
+| Conflict Resolution | 8.2 $\pm$ 0.2 |
+| Work-related Stress | 8.1 $\pm$ 0.2 |
+| Adaptability | 9.0 $\pm$ 0.0 |
+| Achievement Motivation | 8.4 $\pm$ 0.2 |
+| Fear of Failure | 6.2 $\pm$ 0.2 |
+| Need for Control | 6.8 $\pm$ 0.8 |
+| Cognitive Load | 8.4 $\pm$ 0.4 |
+| Social Support | 7.4 $\pm$ 0.7 |
+| Resilience | 8.8 $\pm$ 0.2 |
 
 
 

@@ -93,6 +93,7 @@
 | metamuse-spark-open | 6.886 |
 | nousresearchhermes-4-70b | 6.871 |
 | gemini-3-flash-preview | 6.871 |
+| upstagesolar-mini-4-5 | 6.857 |
 | grok-4-1-fast-non-reasoning | 6.843 |
 | talkie-1930-13b-it | 6.843 |
 | qwenqwen3.5-35b-a3b | 6.829 |

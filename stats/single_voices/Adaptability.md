@@ -239,6 +239,7 @@
 | gpt-5.2-2025-12-11 | 8.586 |
 | arcee-aitrinity-large-thinking | 8.586 |
 | gpt-5.2-pro-2025-12-11 | 8.586 |
+| upstagesolar-mini-4-5 | 8.586 |
 | gemini-1.5-flash-8b | 8.571 |
 | allenaiolmo-3-7b-think | 8.571 |
 | claude-3-opus-20240229 | 8.571 |

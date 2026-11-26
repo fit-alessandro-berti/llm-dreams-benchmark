@@ -252,6 +252,7 @@
 | deepseekdeepseek-v3.2-speciale | 9.271 |
 | open-mixtral-8x22b | 9.271 |
 | open-mixtral-8x7b | 9.271 |
+| upstagesolar-mini-4-5 | 9.271 |
 | meta-llamallama-4-scout | 9.243 |
 | ministral-3b-2410 | 9.243 |
 | upstagesolar-mini4 | 9.243 |

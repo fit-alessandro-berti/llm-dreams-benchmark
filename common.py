@@ -4,7 +4,7 @@ from pathlib import Path
 from file_utils import read_file_with_fallback
 
 
-ANSWERING_MODEL_NAME = "thinkingmachines/inkling-2-mini"
+ANSWERING_MODEL_NAME = "upstage/solar-mini-4-5"
 EVALUATING_MODEL_NAME = "gpt-6-astra"
 
 

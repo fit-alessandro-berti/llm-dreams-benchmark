@@ -245,6 +245,7 @@
 | anthropicclaude-opus-4.1 | 8.486 |
 | googlegemini-4-carbon | 8.471 |
 | gpt-4o-mini-2024-11-05 | 8.457 |
+| upstagesolar-mini-4-5 | 8.457 |
 | z-aiglm-5.1 | 8.443 |
 | allenaiolmo-3-7b-instruct | 8.443 |
 | gemma-4-26b-a4b-it | 8.414 |

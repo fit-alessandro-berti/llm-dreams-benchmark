@@ -238,6 +238,7 @@
 | meta-llamaMeta-Llama-3.1-70B-Instruct | 7.057 |
 | stepfunstep-3.7-flash | 7.057 |
 | tencenthy3-previewfree | 7.057 |
+| upstagesolar-mini-4-5 | 7.043 |
 | z-aiglm-5.3 | 7.043 |
 | openaigpt-5.6-luna | 7.014 |
 | minimaxminimax-m3.1-flash | 7.000 |

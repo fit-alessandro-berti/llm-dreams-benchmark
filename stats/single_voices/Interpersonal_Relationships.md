@@ -222,6 +222,7 @@
 | Qwen-3.6-27B | 7.300 |
 | Gemini-1.5-Pro-Exp-0827 | 7.286 |
 | llama213b | 7.286 |
+| upstagesolar-mini-4-5 | 7.286 |
 | claude-3-opus-20240229 | 7.257 |
 | z-aiglm-5.2 | 7.257 |
 | gemini-2.5-flash-lite | 7.243 |
